@@ -1,7 +1,7 @@
 ---
 title: "Noctua Engineering: A Giant Leap in Cooling with the New GH200 Grace Hopper Superchip"
-date: 2024-08-06 14:56:58
-updated: 2024-08-09 10:59:36
+date: 2024-08-08T04:23:00.331Z
+updated: 2024-08-09T04:23:00.331Z
 tags:
   - cooling
 categories:
@@ -13,10 +13,16 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardware.com/tag/computex) , with new air and liquid coolers for CPUs, plus fans, PC cases, and power supplies that comply with the latest Intel ATX 3.1 and PCIe 5.1 standards. DeepCool has options ready for the newly introduced standards, including motherboards with reversed side connectors. Additionally, it expanded on a couple of its CPU cooler models while also providing some decorative options that will appeal to aesthetically minded users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## CPU coolers for air and water
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assassin IV VC Vision CPU cooler, including its heatsink](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
@@ -25,6 +31,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
@@ -37,6 +46,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool has had its AK620 and AK400 CPU coolers with similar display systems in the market available for a while, and[we already reviewed the former](https://www.tomshardware.com/reviews/deepcool-ak620-digital) . The difference between these is that the Assassin IV VC has a vapor chamber on the heat base. A few months ago, we reviewed the[DeepCool Assassin 4S CPU cooler](https://www.tomshardware.com/pc-components/air-cooling/deepcool-assassin-4s-review) that doesn't have the display or the vapor chamber, so it will be interesting to see how much of an improvement it provides.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![DeepCool AN400 CPU Cooler for SFF builds](https://cdn.mos.cms.futurecdn.net/XTMjAMoPpBDMfxZ74ADFBB-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -45,6 +57,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  In related news, Noctua introduced its[NH-L12Sx77 low-profile cooler](https://www.tomshardware.com/pc-components/air-cooling/noctua-releases-low-profile-cpu-coolers-for-sff-builds-nh-l12sx77-has-better-clearance-for-ram-vrm-heatsinks) recently that allows clearance for tall RAM sticks and heatsinks. These low-profile CPU coolers are useful for mini-ITX system builders as they can provide good enough cooling within the space constraints, as many larger coolers won't fit within diminutive ITX cases.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool LP Matrix AIO CPU Coolers with 240mm and 360mm variants.](https://cdn.mos.cms.futurecdn.net/w67VwSrgCufkGWhFrmFEAS-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -81,14 +96,23 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![DeepCool  LP Matrix AIO Series in 240mm and 360mm  variants](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Sleeved modular cables](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Sleeved modular cables  (Image credit: DeepCool)

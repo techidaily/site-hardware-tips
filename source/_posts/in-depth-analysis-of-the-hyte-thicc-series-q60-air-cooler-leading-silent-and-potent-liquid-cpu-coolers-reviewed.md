@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Hyte Thicc Series Q60 Air Cooler - Leading Silent and Potent Liquid CPU Coolers Reviewed
-date: 2024-08-08 21:57:47
-updated: 2024-08-09 12:39:14
+date: 2024-08-08T04:23:24.411Z
+updated: 2024-08-09T04:23:24.411Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/FY6xCMFmsvPoJ8Y6c9aK3o-320-80.jpg
 
 Skatterbencher and three industry-leading partners have completed a feasibility study to see if it’s possible to build a liquid nitrogen (LN2) container using generative AI and additive manufacturing techniques, also known as 3D printing. In[a blog post](https://skatterbencher.com/2024/06/28/testing-the-ai-generated-3d-printed-cpu-ln2-container/) and YouTube video, the partners show that it’s possible, but perhaps not financially wise, for the benefits obtained.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
  Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube ![Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube](<https://img.youtube.com/vi/S5Wm0GED6wo/maxresdefault.jpg>)
 
 [Watch On](https://youtu.be/S5Wm0GED6wo)
@@ -37,6 +40,9 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

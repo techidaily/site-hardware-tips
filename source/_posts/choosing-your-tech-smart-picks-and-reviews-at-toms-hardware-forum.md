@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Tech: Smart Picks & Reviews at Tom's Hardware Forum"
-date: 2024-08-08 23:19:41
-updated: 2024-08-09 10:28:27
+date: 2024-08-08T04:23:28.265Z
+updated: 2024-08-09T04:23:28.265Z
 tags:
   - cooling
 categories:
@@ -27,6 +27,9 @@ On Wednesday, the U.S.[State Department announced](https://www.state.gov/taking-
 
  In other words, if I buy a DeepCool power supply today, I’m technically breaking the law. I might be able to make the case that I’m conducting business with a U.S. company, not the listed company, but such a claim would likely be tenuous at best.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

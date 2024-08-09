@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Quiet Might of DeepCool Assassin ˈ4s Graphics Cooler Critique
-date: 2024-08-08 14:21:28
-updated: 2024-08-09 10:59:44
+date: 2024-08-08T04:23:00.672Z
+updated: 2024-08-09T04:23:00.672Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->

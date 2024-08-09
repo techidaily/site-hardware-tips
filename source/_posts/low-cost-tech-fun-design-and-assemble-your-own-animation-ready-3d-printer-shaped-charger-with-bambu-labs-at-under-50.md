@@ -1,7 +1,7 @@
 ---
 title: "Low-Cost Tech Fun: Design and Assemble Your Own Animation-Ready 3D Printer Shaped Charger with Bambu Labs at Under $50"
-date: 2024-08-06 21:46:53
-updated: 2024-08-08 12:48:45
+date: 2024-08-08T04:23:27.831Z
+updated: 2024-08-09T04:23:27.831Z
 tags:
   - printer
 categories:
@@ -22,6 +22,9 @@ The Elegoo Neptune 4 Pro received our Editor's Choice award when[we reviewed](ht
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FELEGOO-Firmware-Leveling-Extruder-8-85x8-85x10-43%2Fdp%2FB0C749177C%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6034715685822910012-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications of Elegoo Neptune 4 Pro
 
  Swipe to scroll horizontally

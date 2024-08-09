@@ -1,7 +1,7 @@
 ---
 title: "Chinese Tech Marvel: Tryx Reveals a Game-Changing All-In-One Cooler with Advanced Curved AMOLED Display"
-date: 2024-08-06 22:41:58
-updated: 2024-08-09 11:48:19
+date: 2024-08-08T04:23:32.271Z
+updated: 2024-08-09T04:23:32.271Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,14 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 Skatterbencher and three industry-leading partners have completed a feasibility study to see if it’s possible to build a liquid nitrogen (LN2) container using generative AI and additive manufacturing techniques, also known as 3D printing. In[a blog post](https://skatterbencher.com/2024/06/28/testing-the-ai-generated-3d-printed-cpu-ln2-container/) and YouTube video, the partners show that it’s possible, but perhaps not financially wise, for the benefits obtained.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube ![Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube](<https://img.youtube.com/vi/S5Wm0GED6wo/maxresdefault.jpg>)
 
 [Watch On](https://youtu.be/S5Wm0GED6wo)
@@ -37,6 +45,9 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

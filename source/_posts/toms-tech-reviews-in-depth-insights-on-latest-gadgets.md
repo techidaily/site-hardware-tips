@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: In-Depth Insights on Latest Gadgets"
-date: 2024-08-08 21:13:40
-updated: 2024-08-09 11:13:57
+date: 2024-08-08T04:22:59.151Z
+updated: 2024-08-09T04:22:59.151Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  Over the past couple of years, manufacturers have begun creating a wide variety of heatsinks and coolers for NVMe SSDs to ensure they’re able to maintain their maximum speeds. Heatsinks large and small, with or without active fans, and[even liquid cooling solutions](https://www.tomshardware.com/reviews/teamgroup-t-force-siren-duo-360) are now available for NVMe SSDs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/j8QbmKNB3S3jpDshPDhFk4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -53,12 +56,18 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Packing and Included Contents
 
  ID-Cooling’s ZERO M05 arrives in a small 12 (L) x 6.5 (W) x 2 (D) cm box. The M15 is the same but with a larger depth of 4.5cm. The M15 is protected by molded foam for the protection of the heatsink, whereas the M05 arrives in molded plastic. Included with each unit are the heatsink, screws, and thermal pads necessary to use the product.
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -67,6 +76,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Installation
 
  The installation of the NVMe heatsinks is simple and generally quick to complete.
@@ -85,6 +97,14 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  3\. Next, place the heatsink on top of the SSD and secure it using the included screws.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/zM8urppv6XUk7ePM9j7CR8-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,12 +131,18 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  ▶ **M15: Tall and thick heatsink for maximum cooling**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/pgnVfb6wjY7JzJxKibdiZ3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  While the M05 is petite, designed for maximum compatibility,the M15 is 30mm thick and designed for enhanced thermal dissipation. In addition to the array of aluminum fins, heat is also transferred away from the SSD via the 6mm copper heatpipe integrated into the heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/ZFAzSXoiJYomVHeA9JfKb6-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -135,6 +161,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  This test will cause throttling when paired with lower-end heatsinks. For those heatsinks, we’ll be looking at the IOPS of the drive during testing. The more advanced heatsinks and coolers will be capable of keeping the SSD under its peak temperature – for these units, we’ll compare the actual temperatures of the TeamGroup Z540 SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for a SSD?
 
  When I was determining how to test these units, I consulted with many storage industry experts before I started testing. They emphasized that modern PCIe 5.0 drives need at least some sort of cooling to avoid throttling and that even basic workloads can be impacted by minor throttling without a heatsink.
@@ -149,6 +178,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  When it comes to heatsinks for SSDs, the important thing to take away here is that every expert I’ve spoken to in the storage industry agrees that it is best practice to minimize temperature variations for the health and longevity of your SSD. How strong of a heatsink you’ll need is another matter for debate. In common scenarios, most users will be fine with basic heatsinks - but professionals or users with storage intensive workloads might want to invest in a stronger heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Tips for Perfect 3D Printing: Overcoming the Challenge of Pillow-Like Texture Defects"
-date: 2024-08-07 19:28:24
-updated: 2024-08-08 12:23:45
+date: 2024-08-08T04:23:09.349Z
+updated: 2024-08-09T04:23:09.349Z
 tags:
   - printer
 categories:
@@ -17,10 +17,25 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Photographs showing a a typical commercial 3D printer with a photonic chip (outlined in black) for scale and b a fabricated and packaged photonic chip. c Conceptual diagram of the proposed chip-based 3D printer, showing a hologram formed by a chip within a resin chamber (not to scale). d Conceptual diagram of the proof-of-concept stereolithography-inspired chip-based 3D printer demonstrated in this work (not to scale)  (Image credit: MIT)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  a Electrically controlled beam steering of the main lobe of the 3D-printer chip’s visible-light integrated optical phased array when a square wave with a varying peak voltage is applied across the liquid-crystal-based phase shifter53,54\. b Photographs of a 3D-printed line, created using the chip-based printer, within a well of remaining liquid resin (top) and the same solid 3D-printed line after separation from the remaining liquid resin (bottom). c Photographs of a 3D-printed MIT logo created using the chip-based printer, with a U.S. nickel for scale (left) and zoomed in (right)  (Image credit: MIT)
@@ -37,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

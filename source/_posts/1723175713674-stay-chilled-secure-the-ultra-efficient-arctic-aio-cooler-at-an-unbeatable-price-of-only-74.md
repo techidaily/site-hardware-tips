@@ -1,7 +1,7 @@
 ---
 title: "Stay Chilled: Secure the Ultra-Efficient Arctic AIO Cooler at an Unbeatable Price of Only $74"
-date: 2024-08-08 17:11:11
-updated: 2024-08-09 10:11:17
+date: 2024-08-08T04:23:16.120Z
+updated: 2024-08-09T04:23:16.120Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,7 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

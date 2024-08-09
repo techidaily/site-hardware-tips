@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Modern Electronics with Authoritative Input From Tom
-date: 2024-08-08 18:54:38
-updated: 2024-08-09 11:55:18
+date: 2024-08-08T04:23:30.261Z
+updated: 2024-08-09T04:23:30.261Z
 tags:
   - cooling
 categories:
@@ -23,6 +23,15 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  But Hyte's thick fans and, well, Thicc cooler, mean they won't fit in nearly as many of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) as Corsair's more standard offerings. And while, yes, Corsair's iCue Link products are pricey, Hyte has the same issue. Its Thicc Q60 AIO, while it did outperform nearly every 360mm cooler we've tested in recent years, costs $299\. So whether you opt for Nexus Link or iCue Link, you're going to be paying a hefty premium for simplifying the build process. That means most people are likely going to stick with more traditional (and much cheaper) cooling products and just live with having to connect a lot more cables. Perhaps that's not so bad now that you can also build a PC that[makes it easy to hide those unsightly wires](https://www.tomshardware.com/pc-components/motherboards/i-built-a-pc-with-msis-project-zero-motherboard-moving-all-the-ports-to-the-back-for-a-cleaner-quicker-build-with-better-airflow) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Nexus Link Pricing
 
  Swipe to scroll horizontally
@@ -82,6 +91,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  The Nexus Link Type-M connector is fairly large and made up of pins and pads. It has built-in magnets and connects to fans. The same connector and magnets are built into the FP12 fans, allowing them to connect to one another without extra wires.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/xRruzmfsSgmJiXqdK3AGyF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -104,6 +116,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## NP50 node
 
  We've already covered the Hyte Thicc Q60 AIO cooler elsewhere, but the much-less-expensive way to hop onto the Nexus Link ecosystem is by picking up an NP50 hub. Confusingly, while Hyte calls these nodes, the product itself is labeled as a Nexus Portal. The NP50 isn't for sale by itself yet, but you can pick it up alongside a few of Hyte's fans or light strips for an extra $30\. It has a nice steel frame with a white cover that attaches via magnets. There's a dual USB-C connector that leads to power, USB, and PWM connectors to control your devices and three ports on the bottom for connecting your Nexus Link devices.
@@ -114,6 +129,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -124,6 +142,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  I'm not going to cover the entire build process here, because installing the core components is a pretty standard process – or it would have been had I not somehow bent a single pin on my Asus Prime Z690-A motherboard, causing the system not to boot once I thought I had done most of the work.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/MzJQurpmzSF6Ba2iUCSqiG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -140,6 +161,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  But if you're already using two PCIe connectors for your graphics card and your power supply isn't modular or doesn't have an extra PCIe connector to spare, you'll need to buy a new PSU. Yes, you might need to upgrade your power supply to run your expensive, fancy new AIO cooler. No one ever said making things "easier" wasn't going to be expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Prepping the Hyte Y70 case
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/ntUx7ghNMhmAkUaRbeR64H-320-80.jpg)
@@ -162,12 +186,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Next, I mounted the Hyte Thicc Q60 AIO cooler on the side of the case. Because this cooler and its fans are so wide, it's designed to be mounted in the front or side as an intake in most cases, and comes with its fans oriented accordingly. For more on how to install this cooler, see our[Hyte Thicc Q60 review](https://www.tomshardware.com/pc-components/liquid-cooling/hyte-thicc-q60-240mm-aio-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/YEbpiC8ag4TEi7TTjjMCVG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next up, it was time to mount the top exhaust fans. This was exceedingly easy since they snap simply together via pogo pins and magnets. I held the three in place with one hand and screwed them in from the top of the case.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/S9xgz56Xrf6k9Hn7jEpqYF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -180,6 +210,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  Eventually, after pulling the CPU, I figured out the Asus board had what appeared to be a single bent pin, which was causing the memory issue. Annoying, but thankfully I had an MSI Meg Z790 Ace MAX board within reach, so I pulled the Asus motherboard and finished the build with MSI. While I did have to pull the GPU and riser cable once again, the board swapping process was surprisingly easy, both because the Y70 is a fairly large case, and because the Nexus Link cables are easy to remove and install and don't get in the way like a bunch of traditional fan and RGB connectors would.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/vp5PD2EwqCu6Bhwtk3yDEG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -200,6 +233,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Of course, no cooling / RGB ecosystem is complete without software that lets you change the lighting modes, adjust fan speeds, and monitor your system's temps. And I've spent enough frustrating hours with Corsair's iCue, Razer's Chroma, MSI Center, and Asus' Armoury Crate over the years that my expectations for Hyte's Nexus Link program were pretty low. But while there's definitely room for expansion and improvement, I found controlling the screen on the Q60 cooler, the RGB lights, and Hyte's fans a refreshingly intuitive experience. That said, some of the functionality is limited at the moment. So perhaps that's partially why I didn't struggle much doing the things that the software currently lets you do.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/nTVXvtrAnwKXeTS48HoSVN-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -212,6 +248,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  I was hoping the motherboard module would let me control the board's lighting, but it only offered up board sensor details. So I had to run MSI Center on top of the Nexus software to get the board lighting to match the Nexus lighting – I decided to just set the board lights to white, as a compromise, so I didn't have to keep fiddling with two programs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/DxpC68KcnuSMiwxCFzzx6K-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -222,6 +261,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -246,8 +288,14 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  In my time using Hyte's Nexus software, I never felt lost or particularly confused (issues I've often had with Corsair's iCue before) when trying to do something. And even the beta build of the software was extremely stable. I saw no glitching and experienced no crashes. There just isn't a whole lot you_can_ do here yet – unless you like endlessly playing with RGB settings, because there are_a lot_ of those. I came away with a positive feeling about Hyte's Nexus software. I hope when I come back to it to check out future products, it's more feature-packed while remaining as intuitive and stable as it is today.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Thoughts
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/CnJN9uwfbctWCnhkcnwGnM-320-80.jpg)
 
  (Image credit: Tom's Hardware)

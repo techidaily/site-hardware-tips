@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge PC Temperature Control with This Tested, AI & 3D-Printed Liquid N2 Container – Outperform Standard Pots by Up to Three Times
-date: 2024-08-06 14:41:48
-updated: 2024-08-09 11:29:38
+date: 2024-08-08T04:23:07.832Z
+updated: 2024-08-09T04:23:07.832Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 Skatterbencher and three industry-leading partners have completed a feasibility study to see if it’s possible to build a liquid nitrogen (LN2) container using generative AI and additive manufacturing techniques, also known as 3D printing. In[a blog post](https://skatterbencher.com/2024/06/28/testing-the-ai-generated-3d-printed-cpu-ln2-container/) and YouTube video, the partners show that it’s possible, but perhaps not financially wise, for the benefits obtained.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube ![Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube](<https://img.youtube.com/vi/S5Wm0GED6wo/maxresdefault.jpg>)
 
 [Watch On](https://youtu.be/S5Wm0GED6wo)
@@ -37,6 +40,10 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

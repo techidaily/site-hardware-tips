@@ -1,7 +1,7 @@
 ---
 title: Affordable Valkyrie AL125 MicroATX CPU Air Cooler with Customizable RGB & IPS Display Support - Less Than $20
-date: 2024-08-07 23:28:32
-updated: 2024-08-09 10:20:32
+date: 2024-08-08T04:23:13.385Z
+updated: 2024-08-09T04:23:13.385Z
 tags:
   - cooling
 categories:
@@ -17,10 +17,16 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
@@ -47,6 +53,9 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  However, our limited experience with Valkyrie CPU air coolers hasn’t been the best. Back in June, we reviewed the premium-priced ($72)[Valkyrie Vind SL125](https://www.tomshardware.com/pc-components/air-cooling/valkyrie-vind-sl125-review) CPU air cooler and while we liked the anime aesthetics, the product was a so-so performer and could get loud. If you care about products meeting their touted performance and noise, it may be wise to wait for a third-party reviewer to pass judgment on the Valkyrie AL125.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

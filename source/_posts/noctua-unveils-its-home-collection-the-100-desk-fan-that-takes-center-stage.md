@@ -1,7 +1,7 @@
 ---
 title: "Noctua Unveils Its Home Collection: The $100 Desk Fan that Takes Center Stage"
-date: 2024-08-07 19:32:45
-updated: 2024-08-09 12:30:21
+date: 2024-08-08T04:23:06.587Z
+updated: 2024-08-09T04:23:06.587Z
 tags:
   - cooling
 categories:
@@ -13,14 +13,23 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardware.com/tag/computex) , with new air and liquid coolers for CPUs, plus fans, PC cases, and power supplies that comply with the latest Intel ATX 3.1 and PCIe 5.1 standards. DeepCool has options ready for the newly introduced standards, including motherboards with reversed side connectors. Additionally, it expanded on a couple of its CPU cooler models while also providing some decorative options that will appeal to aesthetically minded users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## CPU coolers for air and water
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Assassin IV VC Vision CPU cooler, including its heatsink](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
@@ -29,6 +38,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler  (Image credit: DeepCool)
@@ -45,6 +57,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  In related news, Noctua introduced its[NH-L12Sx77 low-profile cooler](https://www.tomshardware.com/pc-components/air-cooling/noctua-releases-low-profile-cpu-coolers-for-sff-builds-nh-l12sx77-has-better-clearance-for-ram-vrm-heatsinks) recently that allows clearance for tall RAM sticks and heatsinks. These low-profile CPU coolers are useful for mini-ITX system builders as they can provide good enough cooling within the space constraints, as many larger coolers won't fit within diminutive ITX cases.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool LP Matrix AIO CPU Coolers with 240mm and 360mm variants.](https://cdn.mos.cms.futurecdn.net/w67VwSrgCufkGWhFrmFEAS-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -55,6 +70,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
@@ -67,6 +85,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool CH160 MESH ITX Case Series](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
@@ -85,6 +106,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)

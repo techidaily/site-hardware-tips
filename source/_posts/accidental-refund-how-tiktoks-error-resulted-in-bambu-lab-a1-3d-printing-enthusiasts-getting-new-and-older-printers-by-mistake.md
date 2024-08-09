@@ -1,7 +1,7 @@
 ---
 title: "Accidental Refund: How TikTok's Error Resulted in Bambu Lab A1 3D Printing Enthusiasts Getting New and Older Printers by Mistake"
-date: 2024-08-05 17:11:39
-updated: 2024-08-08 12:50:24
+date: 2024-08-08T04:23:06.294Z
+updated: 2024-08-09T04:23:06.294Z
 tags:
   - printer
 categories:
@@ -19,6 +19,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -41,8 +44,14 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Elegoo also had the impressive Orange Store Giga on display. It's the largest consumer 3D printer currently on the market, which comes with an 800 x 800 x 1000 mm build volume. The printer launched as a Kickstarter and is currently in beta testing. Tom’s Hardware has a unit in our reviewer’s living room and will release a review once pricing has been set.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Anycubic shows Photon Mono M7 and Kobra 3
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/GZbfPmGcPxYsBegbXPaAef-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -61,12 +70,18 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ## Bambu Lab: Nothing New
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/hgtGFEzAu9a8CMtvExhcLF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Bambu Lab may have has suffered a setback from their[A1 recall](https://www.tomshardware.com/3d-printing/bambu-lab-a1-recall-company-asks-owners-to-turn-off-their-3d-printers-as-micro-center-pulls-product-from-shelves) . They did not have any new machines to present, but did showcase the revamped A1 alongside the A1 Mini and X1 Carbon.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Creality brings out the K2 Plus
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/p374ZNnLKuMUM4Qb6WUqTk-320-80.jpg)
@@ -75,18 +90,30 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  We were eager to see the new K2 Plus, Creality’s entry in the color FDM race. However, the machine was demoing a single-color print, which suggests their CFS (Creality Filament System) is not ready for prime time. The combo unit is currently available to order for $1,499 and is slated to ship in October. Reviewers have been promised sample units in August, so we’ll keep you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Prusa courts the industrial user with its Pro HT90
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -99,6 +126,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -117,6 +147,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

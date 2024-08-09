@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Comprehensive Insights on Gadgets"
-date: 2024-08-07 23:34:52
-updated: 2024-08-08 12:40:19
+date: 2024-08-08T04:23:11.351Z
+updated: 2024-08-09T04:23:11.351Z
 tags:
   - printer
 categories:
@@ -23,6 +23,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  I would still recommend the Anycubic Kobra 2 Max over the previous[Kobra Max](https://www.tomshardware.com/reviews/anycubic-kobra-max) for the increase in speed and the more forgiving flexible built surface. Despite its flaws, it worked well on most materials once I got past the early firmware issues and figured out my own (slower) speed settings. The bed leveling issues and lack of fast profiles in the printer’s own custom slicer prevents me from putting it on the list of[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications: Anycubic Kobra 2 Max
 
  Swipe to scroll horizontally
@@ -52,6 +55,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ## Assembling the Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -60,6 +66,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Please note, the Kobra 2 Max has two Y axis belts. You’ll want to make sure each belt has about the same amount of tension for smooth printing. It takes about 30 minutes to carefully assemble.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leveling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/KP58JTX4y2LWi7y8a7NA5D-320-80.jpg)
@@ -78,6 +87,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ## Design of the Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/zxKpUzUZPxsNhyuXx9kDxB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -98,6 +110,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4GQbb2fqoUPZGRxNwHD5XC-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -106,6 +121,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Anycubic has recently launched a mobile app to accompany their printers, but I did not find it very useful. Without a camera or the ability to change the printer’s settings, all it can do is announce prints are done. Anycubic is still working on the app, and claims you will soon have more control, the ability to monitor prints and slice models from your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Printing with the Anycubic Kobra 2 Max
 
  Big printers mean big prints, so knowing where to get the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) is essential. The Kobra 2 Max only came with a sample coil, so you’ll want to stock up immediately.
@@ -120,12 +138,18 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Everywhere else, the print is clean. The little duck (at 100%) took 1 hour and 35 minutes, while the big duck (at 400% and 425mm tall), 22 hours and 43 minutes. Both were printed at 230 mm/s with .28 layer height and lightning infill. The failed print ate into my supply of[Inland Yellow Pla+](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-PLA-Printer-Filament%2Fdp%2FB081S6L18J%2Fref%3Dasc%5Fdf%5FB081S6L18J%2F%3FlinkCode%3Ddf0%26hvadid%3D459662621197%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D16727744446955775203%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-955336668852%26mcid%3De30f547730933e0bbd4bacfab03fd6a0%26gclid%3DCjwKCAiA1MCrBhAoEiwAC2d64TOScv8MUb%5FBDkSXPE3scZzhbGYrX3eh3SCD8QFkTrnB42vowSZYKBoCtI0QAvD%5FBwE%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1485920082472074590-20) , so we switched to Printerior orange halfway through.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/N6QEzKnBBdR9ZMvGotUjmB-320-80.jpg)
 
 [_Rubber Duck_](https://www.thingiverse.com/thing:4820726) _by Chr5500_  (Image credit: Tom's Hardware)
 
  Next up was a practical print: a clip for a bike air pump. This was made in Tinkercad to custom fit the bike frame and the size of the pump. The print turned out wonderfully smooth with no stringing. 42 minutes and 12 seconds, at a .2 layer height and 230 mm/s. I printed it in[Greengate recycled Purple Reign PETG.](https://greengate3d.com/products/purple-reign-pet-g-filament)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/R9reT9ueiTZtVy3HT2GJGD-320-80.jpg)
 
 _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
@@ -136,6 +160,10 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
 [_Vase Mode Ship_](https://www.printables.com/model/235746) _, by LJ Prints_  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Anycubic Kobra 2 Max is a massive machine reasonably priced at $569 and currently on sale for $519\. It’s a good fit for prop makers and cosplayers who want to make large costume pieces without needing to slice up their printers. You do have to be in the mood to tinker with the slicer to get the best balance of speed and precision.

@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your CPU Cooling with Our $10K 3D Printed Liquid Nitrogen Vessel - Triple the Speed
-date: 2024-08-08 15:18:41
-updated: 2024-08-09 11:10:11
+date: 2024-08-08T04:23:23.826Z
+updated: 2024-08-09T04:23:23.826Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 Skatterbencher and three industry-leading partners have completed a feasibility study to see if it’s possible to build a liquid nitrogen (LN2) container using generative AI and additive manufacturing techniques, also known as 3D printing. In[a blog post](https://skatterbencher.com/2024/06/28/testing-the-ai-generated-3d-printed-cpu-ln2-container/) and YouTube video, the partners show that it’s possible, but perhaps not financially wise, for the benefits obtained.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube ![Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube](<https://img.youtube.com/vi/S5Wm0GED6wo/maxresdefault.jpg>)
 
 [Watch On](https://youtu.be/S5Wm0GED6wo)
@@ -37,6 +40,9 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

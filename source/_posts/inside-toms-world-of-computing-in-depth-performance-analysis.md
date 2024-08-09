@@ -1,7 +1,7 @@
 ---
 title: Inside Tom's World of Computing - In-Depth Performance Analysis
-date: 2024-08-07 10:40:33
-updated: 2024-08-09 11:55:19
+date: 2024-08-08T04:23:06.977Z
+updated: 2024-08-09T04:23:06.977Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cooler Specifications
 
  Swipe to scroll horizontally
@@ -59,10 +62,30 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -91,6 +114,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  4\. The last step is to place the unit into an m.2 slot and secure it using a screw or a latch if you have a fancier motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/LzHTKkM6pRkxWeBtmobzAo-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,18 +137,27 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  ▶ **M15: Tall and thick heatsink for maximum cooling**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/pgnVfb6wjY7JzJxKibdiZ3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  While the M05 is petite, designed for maximum compatibility,the M15 is 30mm thick and designed for enhanced thermal dissipation. In addition to the array of aluminum fins, heat is also transferred away from the SSD via the 6mm copper heatpipe integrated into the heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/ZFAzSXoiJYomVHeA9JfKb6-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  As this is a taller heatsink, there will be some compatibility restrictions. You won’t be able to install this next to a CPU with some air coolers like[DeepCool’s Assassin IV](https://www.tomshardware.com/reviews/deepcool-assassin-iv) \- the heatpipes of the unit interfere with it. Other air coolers like[ID-Cooling’s A720](https://www.tomshardware.com/pc-components/cooling/id-cooling-frozn-a720-and-a620-review) , and virtually all liquid coolers, shouldn’t have compatibility issues and you can install taller heatsinks like the M15 next to them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Testing Methodology
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who merely loads a few applications and games from time to time – you probably don’t need an advanced heatsink. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.
@@ -135,6 +170,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  This test will cause throttling when paired with lower-end heatsinks. For those heatsinks, we’ll be looking at the IOPS of the drive during testing. The more advanced heatsinks and coolers will be capable of keeping the SSD under its peak temperature – for these units, we’ll compare the actual temperatures of the TeamGroup Z540 SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for a SSD?
 
  When I was determining how to test these units, I consulted with many storage industry experts before I started testing. They emphasized that modern PCIe 5.0 drives need at least some sort of cooling to avoid throttling and that even basic workloads can be impacted by minor throttling without a heatsink.
@@ -149,6 +187,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  When it comes to heatsinks for SSDs, the important thing to take away here is that every expert I’ve spoken to in the storage industry agrees that it is best practice to minimize temperature variations for the health and longevity of your SSD. How strong of a heatsink you’ll need is another matter for debate. In common scenarios, most users will be fine with basic heatsinks - but professionals or users with storage intensive workloads might want to invest in a stronger heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

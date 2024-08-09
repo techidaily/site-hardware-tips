@@ -1,7 +1,7 @@
 ---
 title: "Reviewing Sovol SV08: A Tribute Model Celebrating Voron's Legacy"
-date: 2024-08-05 13:12:54
-updated: 2024-08-08 12:45:12
+date: 2024-08-08T04:23:08.153Z
+updated: 2024-08-09T04:23:08.153Z
 tags:
   - printer
 categories:
@@ -55,3 +55,7 @@ __ELEGOO Neptune 3 Plus:__ [**Now $319 at Amazon**](https://target.georiot.com/P
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

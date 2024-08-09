@@ -1,7 +1,7 @@
 ---
 title: "Introducing Freeze's New Underwater Cooling Gadget: The Fanless, Solid-State Waterproof AirJet Mini Sport with Advanced Active Cooling Technology"
-date: 2024-08-08 21:34:53
-updated: 2024-08-09 12:55:38
+date: 2024-08-08T04:23:30.656Z
+updated: 2024-08-09T04:23:30.656Z
 tags:
   - cooling
 categories:
@@ -36,6 +36,9 @@ Thermal paste maker Clock Work Tea Party (CWTP), known for releasing scented non
 
  Who knows, maybe someone will make a thermal paste that would discourage an[ant infestation](https://www.tomshardware.com/pc-components/thermal-paste/gamer-says-ants-infested-his-pc-to-eat-thermal-paste-and-pads-ants-found-proliferating-in-the-gpu-around-thermal-pad-debris) , which would be more beneficial than a scented thermal paste.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

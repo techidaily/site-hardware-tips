@@ -1,7 +1,7 @@
 ---
 title: In-Depth Reviews and Tips by Tom's Gadget Experts
-date: 2024-08-06 13:22:29
-updated: 2024-08-09 10:11:24
+date: 2024-08-08T04:23:00.947Z
+updated: 2024-08-09T04:23:00.947Z
 tags:
   - cooling
 categories:
@@ -23,6 +23,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  But Hyte's thick fans and, well, Thicc cooler, mean they won't fit in nearly as many of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) as Corsair's more standard offerings. And while, yes, Corsair's iCue Link products are pricey, Hyte has the same issue. Its Thicc Q60 AIO, while it did outperform nearly every 360mm cooler we've tested in recent years, costs $299\. So whether you opt for Nexus Link or iCue Link, you're going to be paying a hefty premium for simplifying the build process. That means most people are likely going to stick with more traditional (and much cheaper) cooling products and just live with having to connect a lot more cables. Perhaps that's not so bad now that you can also build a PC that[makes it easy to hide those unsightly wires](https://www.tomshardware.com/pc-components/motherboards/i-built-a-pc-with-msis-project-zero-motherboard-moving-all-the-ports-to-the-back-for-a-cleaner-quicker-build-with-better-airflow) .
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Nexus Link Pricing
 
  Swipe to scroll horizontally
@@ -76,12 +79,19 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/dieTs7KABMJHy4kSKD8QcH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Nexus Link Type-M connector is fairly large and made up of pins and pads. It has built-in magnets and connects to fans. The same connector and magnets are built into the FP12 fans, allowing them to connect to one another without extra wires.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/xRruzmfsSgmJiXqdK3AGyF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -96,6 +106,23 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  During the build process, I never found myself in need of a Nexus Link cable that wasn't included in the box – which is a good thing considering the company doesn't seem to sell these cables separately yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -120,6 +147,14 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  At about 0.88 inches thick, the NP50 isn't going to fit in a 2.5-inch drive slot, but it does have 2.5-inch drive mounting holes on the back that will let you mount the hub conveniently behind the motherboard in many modern cases. It comes with similar cables and connections as the Q60 cooler, as well as some stick-on cable clips.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Building a PC with Hyte's Nexus Link
 
  I'm not going to cover the entire build process here, because installing the core components is a pretty standard process – or it would have been had I not somehow bent a single pin on my Asus Prime Z690-A motherboard, causing the system not to boot once I thought I had done most of the work.
@@ -132,6 +167,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  For more on what it's like to build in the the Hyte Y70 case, as well as its performance, see[our review of the Hyte Y70 touch](https://www.tomshardware.com/reviews/hyte-y70-touch) , which includes a large screen up front, but is otherwise the same case as the Y7-. And for details about the performance and installation of the[Hyte Thicc Q60 AIO cooler](https://www.tomshardware.com/pc-components/liquid-cooling/hyte-thicc-q60-240mm-aio-review) , we have a review of that, too. Spoiler: It performs better than all but the top few 360mm AIOs on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/ZWmdV7GKBZxUhSBmkVwQ6F-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -142,12 +180,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
 ## Prepping the Hyte Y70 case
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/ntUx7ghNMhmAkUaRbeR64H-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Apart from removing panels from the rear and the top of the case so that I could attach my components, I also had to remove the pre-installed PCIe 4.0 riser cable for vertically mounting the graphics card. This involved removing a screw from the half-height bracket, as well as four screws from the bottom of the case that hold the other end of the connector in place. You could install a motherboard without completely removing the riser cable, but I didn't want to work around it while trying to plug things into the bottom of the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/NT6mgYDiB7LaSrevHKxerH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -156,12 +200,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Around back, I mounted a white modular MSI MAG power supply (which perfectly matched the white-and-black case) on the bottom rear, and removed the pair of white drive sleds up above, since they would just get in the way during cooler installation and cable routing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/qYZR4suXh6cXBPfBSoWZmF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next, I mounted the Hyte Thicc Q60 AIO cooler on the side of the case. Because this cooler and its fans are so wide, it's designed to be mounted in the front or side as an intake in most cases, and comes with its fans oriented accordingly. For more on how to install this cooler, see our[Hyte Thicc Q60 review](https://www.tomshardware.com/pc-components/liquid-cooling/hyte-thicc-q60-240mm-aio-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/YEbpiC8ag4TEi7TTjjMCVG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -206,12 +256,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  The main Nexus page is a simple presentation of several modules for controlling and monitoring components in your PC. The software loaded most of the above automatically, which is mostly good. But it also included a module for Hyte's Keeb keyboard, which I don't have, making it feel like an ad. And the module for the MSI Meg Z790 motherboard wasn't there at all at first. But when I clicked the Add a Widget button in the upper right, it popped up and prompted me to install the widget.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/R2FyfFdKjqnWwvWxsPVd8M-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  I was hoping the motherboard module would let me control the board's lighting, but it only offered up board sensor details. So I had to run MSI Center on top of the Nexus software to get the board lighting to match the Nexus lighting – I decided to just set the board lights to white, as a compromise, so I didn't have to keep fiddling with two programs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/DxpC68KcnuSMiwxCFzzx6K-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -226,6 +282,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -238,6 +297,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  I was using the latest beta version of the software, which let me drop the usual system stats, clock, or media details on the display – Hyte calls these Faces. I do particularly like the animated weather widget, and could imagine myself glancing at it a few times a day before going outside. But an App Focus tab that promises to change what's on screen depending on what program you're using is grayed out, with a message up top promising the feature is "Coming very soon."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/VRHuf4rXjJ6TAY5zWcwaRJ-320-80.png)
 
  (Image credit: Tom's Hardware)

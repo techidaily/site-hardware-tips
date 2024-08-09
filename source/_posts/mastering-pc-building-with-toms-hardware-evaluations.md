@@ -1,7 +1,7 @@
 ---
 title: Mastering PC Building with Tom’s Hardware Evaluations
-date: 2024-08-08 18:23:41
-updated: 2024-08-09 12:55:19
+date: 2024-08-08T04:23:29.640Z
+updated: 2024-08-09T04:23:29.640Z
 tags:
   - cooling
 categories:
@@ -120,10 +120,16 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  At about 0.88 inches thick, the NP50 isn't going to fit in a 2.5-inch drive slot, but it does have 2.5-inch drive mounting holes on the back that will let you mount the hub conveniently behind the motherboard in many modern cases. It comes with similar cables and connections as the Q60 cooler, as well as some stick-on cable clips.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Building a PC with Hyte's Nexus Link
 
  I'm not going to cover the entire build process here, because installing the core components is a pretty standard process – or it would have been had I not somehow bent a single pin on my Asus Prime Z690-A motherboard, causing the system not to boot once I thought I had done most of the work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/MzJQurpmzSF6Ba2iUCSqiG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -140,6 +146,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  But if you're already using two PCIe connectors for your graphics card and your power supply isn't modular or doesn't have an extra PCIe connector to spare, you'll need to buy a new PSU. Yes, you might need to upgrade your power supply to run your expensive, fancy new AIO cooler. No one ever said making things "easier" wasn't going to be expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Prepping the Hyte Y70 case
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/ntUx7ghNMhmAkUaRbeR64H-320-80.jpg)
@@ -156,12 +165,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Around back, I mounted a white modular MSI MAG power supply (which perfectly matched the white-and-black case) on the bottom rear, and removed the pair of white drive sleds up above, since they would just get in the way during cooler installation and cable routing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/qYZR4suXh6cXBPfBSoWZmF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next, I mounted the Hyte Thicc Q60 AIO cooler on the side of the case. Because this cooler and its fans are so wide, it's designed to be mounted in the front or side as an intake in most cases, and comes with its fans oriented accordingly. For more on how to install this cooler, see our[Hyte Thicc Q60 review](https://www.tomshardware.com/pc-components/liquid-cooling/hyte-thicc-q60-240mm-aio-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/YEbpiC8ag4TEi7TTjjMCVG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -192,26 +207,43 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  It would also be nice if Hyte would create and include some right-angle adapters for connecting multiple light strips. I would have used more strips in the Y70 case if it were easier to get the lights to bend around corners in a visually pleasing way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## One more fan
 
  In the process of running the RGB strip I noticed that, if I moved the radiator up slightly, there was just room enough for one more fan under the radiator. Clearly, more intake can't hurt since the case has no front ventilation. So I raised the radiator by loosening and removing some screws, and shoved an additional fan in place below the radiator. It snapped onto the magnetic connectors at the bottom of the radiator fan like it was born to be there. With the fan and RGB strip in place, I powered up the system, installed Windows, and then grabbed Hyte's Nexus Link Software to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Tying it all together with Nexus Link
 
  Of course, no cooling / RGB ecosystem is complete without software that lets you change the lighting modes, adjust fan speeds, and monitor your system's temps. And I've spent enough frustrating hours with Corsair's iCue, Razer's Chroma, MSI Center, and Asus' Armoury Crate over the years that my expectations for Hyte's Nexus Link program were pretty low. But while there's definitely room for expansion and improvement, I found controlling the screen on the Q60 cooler, the RGB lights, and Hyte's fans a refreshingly intuitive experience. That said, some of the functionality is limited at the moment. So perhaps that's partially why I didn't struggle much doing the things that the software currently lets you do.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/nTVXvtrAnwKXeTS48HoSVN-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  The main Nexus page is a simple presentation of several modules for controlling and monitoring components in your PC. The software loaded most of the above automatically, which is mostly good. But it also included a module for Hyte's Keeb keyboard, which I don't have, making it feel like an ad. And the module for the MSI Meg Z790 motherboard wasn't there at all at first. But when I clicked the Add a Widget button in the upper right, it popped up and prompted me to install the widget.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/R2FyfFdKjqnWwvWxsPVd8M-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  I was hoping the motherboard module would let me control the board's lighting, but it only offered up board sensor details. So I had to run MSI Center on top of the Nexus software to get the board lighting to match the Nexus lighting – I decided to just set the board lights to white, as a compromise, so I didn't have to keep fiddling with two programs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/DxpC68KcnuSMiwxCFzzx6K-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -232,12 +264,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Ambition and reality are often far apart, though, and I found the options for controlling the 5-inch screen on the Thicc Q60 cooler to be pretty limiting, at least for now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/g7NXKhhHdJb6Uoji3pWqiJ-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  I was using the latest beta version of the software, which let me drop the usual system stats, clock, or media details on the display – Hyte calls these Faces. I do particularly like the animated weather widget, and could imagine myself glancing at it a few times a day before going outside. But an App Focus tab that promises to change what's on screen depending on what program you're using is grayed out, with a message up top promising the feature is "Coming very soon."
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/VRHuf4rXjJ6TAY5zWcwaRJ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -246,8 +284,23 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  In my time using Hyte's Nexus software, I never felt lost or particularly confused (issues I've often had with Corsair's iCue before) when trying to do something. And even the beta build of the software was extremely stable. I saw no glitching and experienced no crashes. There just isn't a whole lot you_can_ do here yet – unless you like endlessly playing with RGB settings, because there are_a lot_ of those. I came away with a positive feeling about Hyte's Nexus software. I hope when I come back to it to check out future products, it's more feature-packed while remaining as intuitive and stable as it is today.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Thoughts
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/CnJN9uwfbctWCnhkcnwGnM-320-80.jpg)
 
  (Image credit: Tom's Hardware)

@@ -1,7 +1,7 @@
 ---
 title: Decoding Computer Specs with Tom's Hardware Experts
-date: 2024-08-06 13:40:19
-updated: 2024-08-09 10:40:50
+date: 2024-08-08T04:23:26.601Z
+updated: 2024-08-09T04:23:26.601Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  The phase-changing tech is designed to minimize the pump-out effects of traditional thermal paste. Pump-out is an effect where the thermal paste is slowly pressed out between a heatsink and a GPU die or CPU IHS due to micro expansions and contractions in the metal that occur in the heatsink contact plate or CPU IHS; the effect can reduce cooling performance over a lengthy period.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PhaseSheet PTM](https://cdn.mos.cms.futurecdn.net/8ujLTDRmTKxw7aDttNWdGJ-320-80.jpg)
 
  (Image credit: Thermal Grizzly)
@@ -29,6 +32,10 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  Thermal pads like PhaseSheet have several advantages over traditional thermal paste. Their solid nature makes them very easy to replace if required and enables them to last long without succumbing to pump-out losses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

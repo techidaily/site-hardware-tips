@@ -1,7 +1,7 @@
 ---
 title: Top Tech Picks & Expert Opinions From Tom's Hardware Source
-date: 2024-08-08 13:55:38
-updated: 2024-08-09 11:25:24
+date: 2024-08-08T04:23:00.540Z
+updated: 2024-08-09T04:23:00.540Z
 tags:
   - cooling
 categories:
@@ -25,14 +25,25 @@ German PC component manufacturer[be quiet!](https://www.bequiet.com/en/) brought
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The be quiet! Light Base 900 PC case  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Light Base 900 placed horizontally  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Removable feet allow orienting the Light Base 900 in a variety of positions  (Image credit: Tom's Hardware)
@@ -52,12 +63,19 @@ __be quiet! Light Base case pricing and availability__
 
  The slightly smaller cousin, the Light Base 600 DX, offers the same benefits as the larger variant. Again, the case supports rear I/O plates on the motherboard and includes an ARGB light strip. The smaller footprint still allows for radiators up to 360mm. The Light Base 600 DX does not include preinstalled fans, but the 600 LX variant comes with four preinstalled Light Wings LX 140mm PWM fans.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 600 case](https://cdn.mos.cms.futurecdn.net/a7Nr9VE4xQUuLb9cNYn7hE-320-80.jpg)
 
  The slightly smaller Light Base 600 case, by be quiet!  (Image credit: Tom's Hardware)
 
  The updated Light Wings LX fans offer high airflow while operating quietly and feature reverse fan blades for the side fans. Because of this, the fan's more aesthetically pleasing front side is facing out for all to see.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -66,6 +84,9 @@ __be quiet! Light Base case pricing and availability__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Light Wings LX case fans](https://cdn.mos.cms.futurecdn.net/NWSSnnfg9Avnuh5hjMoPvR-320-80.jpg)
 
  (Image credit: Tom's Hardware)

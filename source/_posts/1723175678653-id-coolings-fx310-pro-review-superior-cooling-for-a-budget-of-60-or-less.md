@@ -1,7 +1,7 @@
 ---
 title: "ID-Cooling's FX310 Pro Review: Superior Cooling for a Budget of 60$ or Less!"
-date: 2024-08-07 18:34:29
-updated: 2024-08-09 12:38:24
+date: 2024-08-08T04:23:16.785Z
+updated: 2024-08-09T04:23:16.785Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Cooler Specifications
 
  Swipe to scroll horizontally
@@ -53,6 +56,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Packing and Included Contents
 
  ID-Cooling’s ZERO M05 arrives in a small 12 (L) x 6.5 (W) x 2 (D) cm box. The M15 is the same but with a larger depth of 4.5cm. The M15 is protected by molded foam for the protection of the heatsink, whereas the M05 arrives in molded plastic. Included with each unit are the heatsink, screws, and thermal pads necessary to use the product.
@@ -63,6 +69,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -73,6 +82,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  1\. First, you’ll take the base of the heatsink and apply the first thermal pad to it
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/4VxDCVYJvpaQpgLidEaEum-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -91,6 +103,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  4\. The last step is to place the unit into an m.2 slot and secure it using a screw or a latch if you have a fancier motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/LzHTKkM6pRkxWeBtmobzAo-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,18 +126,27 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  ▶ **M15: Tall and thick heatsink for maximum cooling**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/pgnVfb6wjY7JzJxKibdiZ3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  While the M05 is petite, designed for maximum compatibility,the M15 is 30mm thick and designed for enhanced thermal dissipation. In addition to the array of aluminum fins, heat is also transferred away from the SSD via the 6mm copper heatpipe integrated into the heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/ZFAzSXoiJYomVHeA9JfKb6-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  As this is a taller heatsink, there will be some compatibility restrictions. You won’t be able to install this next to a CPU with some air coolers like[DeepCool’s Assassin IV](https://www.tomshardware.com/reviews/deepcool-assassin-iv) \- the heatpipes of the unit interfere with it. Other air coolers like[ID-Cooling’s A720](https://www.tomshardware.com/pc-components/cooling/id-cooling-frozn-a720-and-a620-review) , and virtually all liquid coolers, shouldn’t have compatibility issues and you can install taller heatsinks like the M15 next to them.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing Methodology
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who merely loads a few applications and games from time to time – you probably don’t need an advanced heatsink. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.
@@ -175,6 +199,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  powered by
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

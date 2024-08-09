@@ -1,7 +1,7 @@
 ---
 title: "Beat the Heat: The Ultimate Liquid Cooler MO-RA IV 600, Packed with 9 Big Fans & Weighs over 35Lbs at Just $600!"
-date: 2024-08-07 15:22:50
-updated: 2024-08-09 12:13:22
+date: 2024-08-08T04:23:17.375Z
+updated: 2024-08-09T04:23:17.375Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->

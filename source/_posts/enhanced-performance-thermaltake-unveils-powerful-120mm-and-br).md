@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Performance: Thermaltake Unveils Powerful 120Mm & ^Br>"
-date: 2024-08-08 11:12:34
-updated: 2024-08-09 12:42:20
+date: 2024-08-08T04:23:12.799Z
+updated: 2024-08-09T04:23:12.799Z
 tags:
   - cooling
 categories:
@@ -25,14 +25,23 @@ German PC component manufacturer[be quiet!](https://www.bequiet.com/en/) brought
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The be quiet! Light Base 900 PC case  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Light Base 900 placed horizontally  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Removable feet allow orienting the Light Base 900 in a variety of positions  (Image credit: Tom's Hardware)
@@ -52,12 +61,18 @@ __be quiet! Light Base case pricing and availability__
 
  The slightly smaller cousin, the Light Base 600 DX, offers the same benefits as the larger variant. Again, the case supports rear I/O plates on the motherboard and includes an ARGB light strip. The smaller footprint still allows for radiators up to 360mm. The Light Base 600 DX does not include preinstalled fans, but the 600 LX variant comes with four preinstalled Light Wings LX 140mm PWM fans.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 600 case](https://cdn.mos.cms.futurecdn.net/a7Nr9VE4xQUuLb9cNYn7hE-320-80.jpg)
 
  The slightly smaller Light Base 600 case, by be quiet!  (Image credit: Tom's Hardware)
 
  The updated Light Wings LX fans offer high airflow while operating quietly and feature reverse fan blades for the side fans. Because of this, the fan's more aesthetically pleasing front side is facing out for all to see.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -66,6 +81,9 @@ __be quiet! Light Base case pricing and availability__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Light Wings LX case fans](https://cdn.mos.cms.futurecdn.net/NWSSnnfg9Avnuh5hjMoPvR-320-80.jpg)
 
  (Image credit: Tom's Hardware)

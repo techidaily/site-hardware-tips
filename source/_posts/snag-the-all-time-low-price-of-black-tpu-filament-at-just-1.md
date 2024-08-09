@@ -1,7 +1,7 @@
 ---
 title: Snag the All-Time Low Price of Black TPU Filament at Just $1
-date: 2024-08-06 21:26:10
-updated: 2024-08-08 12:58:46
+date: 2024-08-08T04:23:18.429Z
+updated: 2024-08-09T04:23:18.429Z
 tags:
   - printer
 categories:
@@ -46,3 +46,7 @@ Whether you're a maker or just an occasional hobbyist, 3D printing has come leap
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->

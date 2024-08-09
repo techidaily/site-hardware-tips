@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Microscopic Metal Manufacturing: Superior Strength in Structures Tinier Than a Virus"
-date: 2024-08-07 22:22:34
-updated: 2024-08-08 10:19:34
+date: 2024-08-08T04:23:26.269Z
+updated: 2024-08-09T04:23:26.269Z
 tags:
   - printer
 categories:
@@ -44,3 +44,7 @@ Black Friday doesn't officially arrive for a couple more days, but the best deal
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Benchmark Battle: Pumpless AIO Coolers Prove Closely Matched, Just 8°C Behind Traditional Rivals in Rigorous Tests"
-date: 2024-08-08 17:40:11
-updated: 2024-08-09 12:57:23
+date: 2024-08-08T04:23:12.723Z
+updated: 2024-08-09T04:23:12.723Z
 tags:
   - cooling
 categories:
@@ -29,6 +29,9 @@ Freezer 36  (Image credit: Arctic Cooling)
 
 Freezer 36  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
@@ -37,22 +40,37 @@ Freezer 36  (Image credit: Arctic Cooling)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Freezer 36 CO](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36 CO  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Freezer 36 CO](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36 CO  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB White](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)

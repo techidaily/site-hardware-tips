@@ -1,7 +1,7 @@
 ---
 title: "Master Your Build: Top Picks and Reviews on the Latest Hardware by Tom's Gurus"
-date: 2024-08-06 20:35:21
-updated: 2024-08-09 11:10:22
+date: 2024-08-08T04:23:14.243Z
+updated: 2024-08-09T04:23:14.243Z
 tags:
   - cooling
 categories:
@@ -25,14 +25,23 @@ German PC component manufacturer[be quiet!](https://www.bequiet.com/en/) brought
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The be quiet! Light Base 900 PC case  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Light Base 900 placed horizontally  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Removable feet allow orienting the Light Base 900 in a variety of positions  (Image credit: Tom's Hardware)
@@ -52,12 +61,27 @@ __be quiet! Light Base case pricing and availability__
 
  The slightly smaller cousin, the Light Base 600 DX, offers the same benefits as the larger variant. Again, the case supports rear I/O plates on the motherboard and includes an ARGB light strip. The smaller footprint still allows for radiators up to 360mm. The Light Base 600 DX does not include preinstalled fans, but the 600 LX variant comes with four preinstalled Light Wings LX 140mm PWM fans.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 600 case](https://cdn.mos.cms.futurecdn.net/a7Nr9VE4xQUuLb9cNYn7hE-320-80.jpg)
 
  The slightly smaller Light Base 600 case, by be quiet!  (Image credit: Tom's Hardware)
 
  The updated Light Wings LX fans offer high airflow while operating quietly and feature reverse fan blades for the side fans. Because of this, the fan's more aesthetically pleasing front side is facing out for all to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -66,6 +90,9 @@ __be quiet! Light Base case pricing and availability__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Light Wings LX case fans](https://cdn.mos.cms.futurecdn.net/NWSSnnfg9Avnuh5hjMoPvR-320-80.jpg)
 
  (Image credit: Tom's Hardware)

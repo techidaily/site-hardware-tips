@@ -1,7 +1,7 @@
 ---
 title: "Cut Down on Setup Time: Discover How Corsair's One-Twist Screw Revolutionizes PC Building"
-date: 2024-08-06 15:28:43
-updated: 2024-08-09 10:34:54
+date: 2024-08-08T04:23:01.858Z
+updated: 2024-08-09T04:23:01.858Z
 tags:
   - cooling
 categories:
@@ -17,12 +17,18 @@ Frore Systems has introduced its AirJet Mini Sport waterproof solid-state active
   
  Like its non-waterproof AirJet Mini counterparts, the chip is lightweight, at just 7 grams, and compact, with dimensions of 27.5mm by 41.5mm by 2.5mm, making it as small as the AirJet Mini Slim. It can still dissipate 5.25 Watts of heat by generating 1750 Pascals of backpressure while consuming around 1W and producing up to 21 dBA of noise.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Frore Systems](https://cdn.mos.cms.futurecdn.net/S7SqpsLQkAXKUniRYkDSWJ-320-80.jpg)
 
  (Image credit: Frore Systems)
 
  This cooling chip also includes dust resistance and self-cleaning features, ensuring it remains efficient in various environments. The addition of thermoception allows devices to maintain optimal performance without letting the device overheat. As a result, the company claims smartphones and action cameras equipped with the AirJet Mini Sport can achieve up to 80% better performance, addressing the needs of high-performance processors in mobile devices.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Frore Systems](https://cdn.mos.cms.futurecdn.net/UwnVckejJAFEwtmjM786HJ-320-80.jpg)
 
  (Image credit: Frore Systems)
@@ -33,6 +39,9 @@ Frore Systems has introduced its AirJet Mini Sport waterproof solid-state active
 
  "We are excited to announce the waterproof AirJet Mini Sport," said Dr. Seshu Madhavapeddy, founder and CEO of Frore Systems. "Consumers demand increased performance in compact devices they can use anywhere, on land or in water. AirJet unleashes device performance, now enabling users to do more with their IP68 dustproof and waterproof devices."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

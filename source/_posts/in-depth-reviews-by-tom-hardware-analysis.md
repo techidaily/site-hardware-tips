@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Reviews by Tom: Hardware Analysis"
-date: 2024-08-08 17:44:41
-updated: 2024-08-09 12:12:58
+date: 2024-08-08T04:23:05.444Z
+updated: 2024-08-09T04:23:05.444Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Users of Intel CPUs spanning 12th Gen to 14th Gen who[dare to delid](https://www
   
 **Correction, May 22, 2024:**   _This article previously misstated the CPU in Thermal Grizzly's custom loop. We regret the error._
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

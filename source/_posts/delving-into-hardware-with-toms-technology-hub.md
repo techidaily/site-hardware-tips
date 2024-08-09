@@ -1,7 +1,7 @@
 ---
 title: Delving Into Hardware with Tom's Technology Hub
-date: 2024-08-06 14:23:38
-updated: 2024-08-08 11:40:13
+date: 2024-08-08T04:23:11.506Z
+updated: 2024-08-09T04:23:11.506Z
 tags:
   - printer
 categories:
@@ -23,6 +23,9 @@ The K1C feels like a placeholder from a company that wants to constantly impress
 
 * [Creality K1C at Tomtop WW for $22.99](https://ficca2021.com/g/xljorca896cf955d81ea4bf89f6ddb/?f%5Fid=14723&ulp=https%3A%2F%2Fwww.tomtop.com%2Fp-os8059.html&subid=tomshardware-us-2311640371616033100)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications: Creality K1C
 
  Swipe to scroll horizontally
@@ -80,6 +83,9 @@ Today's best Creality K1C deals
 
 ## Creality K1C: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/UfKoS2qJ5iSaQ3DCfMERfN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -88,8 +94,14 @@ Today's best Creality K1C deals
 
  You also get a PDF copy of the manual, a copy of Creality Slicer and sample models in both pre-sliced .gcode and .stl format. There’s also a very helpful video to help you operate your machine.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Design of the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -104,12 +116,32 @@ Today's best Creality K1C deals
 
  Clearly, Creality has been listening to user feedback, as they provided a printable solution to the annoying rear mounted spool holder. Two printable mounts are included on the printer’s USB stick, with a bag of screws and directions on how to attach it. I printed both and found the larger one – which mounts at a lower point – to work best. When mounted higher, the strain on the filament runout sensor is too much and causes the spool to twist.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/KmWQv4nqh4Z92NpqWrzUiM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The best spool holder might be the K1C’s matching filament drier, the[Creality Space Pi](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FOfficial-Creality-Filament-Printer-Dehydrator%2Fdp%2FB0CT59XN7F%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1D1S485JUS6CV%26dib%3DeyJ2IjoiMSJ9.6Igey3jkqAaYBP83K8VBFnBaHQySjsVgW%5FtGi77EklQ2OYMwbmNh9yePuyaPrc4qNKELf9xMWZwgAS8-UgRAIdtkBlMjf47NMKEKtHFUEZzV8NoHPTuki49w9y4WW8EzZ1O36FRL8pr9qSJIzJtzRF7OGW%5FbBwij2nN-0iiCsTYBiZPSJXgumWrykKXTKQRZ8uDtQ2jUTAhs3ve1r4UspUNven-lp3nGzFpwPCu4IGQ.mCRC670fi6uoK9HSCRqvjQMro7OLM-yQUMZ0-AGKUwQ%26dib%5Ftag%3Dse%26keywords%3Dcreality%2Bspace%2Bpi%26qid%3D1712693385%26sprefix%3Dcreality%2Bspace%2Bpi%252Caps%252C144%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1357917695777409794-20) , which is an optional purchase costing $85\. We were sent one for review along with the printer and found it worked well. The drier is helpful when printing hygroscopic material like Nylon, but can be left off when printing more stable material like PLA.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/nMFPiAhSg8VftPtqkoi3MN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -126,12 +158,18 @@ Today's best Creality K1C deals
 
 ## Assembling the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Creality K1C is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew three screws holding the build plate on, plug in the touch screen, screw on the filament holder and pop a filter on the back of the machine.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Leveling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/PZnS2qBbd56RiRcNEKUAMM-320-80.jpg)
@@ -150,6 +188,9 @@ Today's best Creality K1C deals
 
 Reverse the process to remove the filament.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software for Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/on77JmCCRPe63uRiGKoTCP-320-80.png)
@@ -198,6 +239,9 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Creality K1C is an excellent printer for makers who want a fast, fully-enclosed Core XY 3D printer in a single color. The recent announcement of the four color K2 lineup might give you pause, especially if you can wait a few more months. We have not reviewed the K2 yet, but we feel it's unlikely that the K1 can be upgraded to the new color system.

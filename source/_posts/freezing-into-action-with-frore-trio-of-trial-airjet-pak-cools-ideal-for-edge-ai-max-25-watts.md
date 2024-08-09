@@ -1,7 +1,7 @@
 ---
 title: Freezing Into Action with Frore - Trio of Trial AirJet PAK Cools Ideal for Edge AI, Max 25 Watts
-date: 2024-08-06 12:26:37
-updated: 2024-08-09 10:24:59
+date: 2024-08-08T04:23:00.867Z
+updated: 2024-08-09T04:23:00.867Z
 tags:
   - cooling
 categories:
@@ -17,10 +17,16 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
@@ -47,6 +53,9 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  However, our limited experience with Valkyrie CPU air coolers hasn’t been the best. Back in June, we reviewed the premium-priced ($72)[Valkyrie Vind SL125](https://www.tomshardware.com/pc-components/air-cooling/valkyrie-vind-sl125-review) CPU air cooler and while we liked the anime aesthetics, the product was a so-so performer and could get loud. If you care about products meeting their touted performance and noise, it may be wise to wait for a third-party reviewer to pass judgment on the Valkyrie AL125.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

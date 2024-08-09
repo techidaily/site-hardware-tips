@@ -1,7 +1,7 @@
 ---
 title: How To Achieve Flawless Surfaces on 3D Prints by Eliminating Pillowing Concerns
-date: 2024-08-07 14:55:43
-updated: 2024-08-08 12:39:47
+date: 2024-08-08T04:23:01.261Z
+updated: 2024-08-09T04:23:01.261Z
 tags:
   - printer
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/i9zwGBe8zHMec4vaEsPyRN-320-80.jpg
 
 Blobs are excessive deposits of melted filament that appear as small and irregular protrusions on the print's surface. It occurs mainly when the extruder deposits more material than necessary at specific points due to factors like inconsistent extrusion, incorrect retraction settings, and or insufficient cooling. Zits, on the other hand, are tiny imperfections that look like scars on the surface of a 3D print, and they can also come as a result of inconsistent extrusion, changes in 3D print speed, and variations in cooling, even if you’re using one of the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) . Zits are generally smaller than blobs, but they still compromise the overall look of the print and affect the print's surface finish. You can fix these issues by implementing the following strategies.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 1\. Ensure There is Proper Cooling of the Layers
 
  If the layers are overheated due to poor cooling, the excess melted filament will form the blobs on the printed object. You need to optimize the cooling settings to be consistent on all the sections of your 3D print.
@@ -27,6 +30,9 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  The standard retraction distance is usually around 2 to 7 mm, and the speed ranges from 30 to 60 mm/s. You can find these settings on your 3D printer slicer. For example, in Cura, you have to ensure that you check the**Enable** **Retraction** box.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/nainugXq6FRCAXonoEkKyA-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -41,16 +47,34 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/bf3r7C9s6nZACJhsioefLA-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  You can begin with a lower retraction distance, like 2mm, print the model, and then check how it appears. It might have strings and other imperfections, and you can continue increasing by 0.5mm until you see improvement. You can then shift to retraction speed and start with a lower value, like 30 mm/s, and increase it gradually as you observe how the prints appear until you find the optimal value.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 3\. Use Coasting
 
  When you activate coasting settings, it stops the extruding filament slightly before the end of the path when the nozzle is about to travel over an area without printing. This is helpful as it minimizes the pressure build-up in the nozzle, which causes the filament to ooze out and turn into blobs or zits. You can find the coasting setting in the**Experimental** section, and check the**Enable coasting** box to activate it.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/WcERQDGybguB9i8aCqZ5jA-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -69,6 +93,9 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  As you enable coasting to eliminate blobs and zits, you need to remember that its effectiveness depends on the geometry of your 3D model, 3D printing speed, and the type of filament you are using. So you need to tweak the settings until you achieve the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Adjust 3D printing Speed and Temperature
 
  Adjusting how fast your 3D printer prints as well as the temperature you are using can also help fix the issue as these settings influence the extrusion rate and the cooling time for the layers. A higher 3D printing speed than necessary can result in increased pressure in the nozzle, which can cause the excess filament to ooze out, causing issues on the print as the nozzle moves.

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Stringing Issues in Your 3D Print Projects"
-date: 2024-08-05 21:39:35
-updated: 2024-08-08 10:11:51
+date: 2024-08-08T04:23:10.234Z
+updated: 2024-08-09T04:23:10.234Z
 tags:
   - printer
 categories:
@@ -15,8 +15,15 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  As with other 3D printing problems, you need to understand the root cause to know how to address it. Different types of holes and gaps can appear on the print based on the location, size, and structure, and we will look at the main ones and how to solve them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 1\. Holes and Gaps on the Top Section of the Print
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/hizhp3jQoN2EAWHJsY3NPA-320-80.png)
 
  (Image credit: Eliteprint3d)
@@ -37,6 +44,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ## 2\. Tiny Holes in the Walls of the 3D Print
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/ohZWqZjArgJmwVqf8fhtu9-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -59,6 +69,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## 3\. Large Gaps that Result in Layer Separation
 
  When the layers fail to adhere correctly to each other, they can start separating, resulting in visible gaps and cracks and the print becomes weak and you can pull the layers apart. One leading cause of this issue is inadequate layer adhesion due to insufficient nozzle temperature or improper bed adhesion.
@@ -79,12 +92,21 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can[manually level your 3D printer bed](https://www.tomshardware.com/how-to/level-3d-printer-bed) or use the automatic bed leveling feature found in most of the best[3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) . You can[correctly set the Z offset of your 3D printer](https://www.tomshardware.com/how-to/correctly-set-3d-printer-z-offset) manually by adjusting the nozzle height as you place a piece of paper on the bed. You can find the Z offset setting on the menu of your 3D printer.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/TtXhijJg3aMuMsYBQqUwB9-320-80.png)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 5\. Holes and Gaps in the Corners of the Print
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/yNYqczmqhVnKMJbe2eFSLF-320-80.png)
 
  (Image credit: Tom's Hardware)

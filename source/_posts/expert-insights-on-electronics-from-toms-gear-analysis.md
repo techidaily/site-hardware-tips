@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Electronics From Tom's Gear Analysis
-date: 2024-08-07 16:22:57
-updated: 2024-08-09 11:51:36
+date: 2024-08-08T04:23:24.944Z
+updated: 2024-08-09T04:23:24.944Z
 tags:
   - cooling
 categories:
@@ -19,6 +19,23 @@ Lamptron (via[Caseking](https://go.redirectingat.com/?id=92X1584492&xcust=tomsha
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+Lamptron ST060  (Image credit: Caseking)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+Lamptron ST060  (Image credit: Caseking)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -27,18 +44,16 @@ Lamptron ST060  (Image credit: Caseking)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
-![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-Lamptron ST060  (Image credit: Caseking)
-
-![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-Lamptron ST060  (Image credit: Caseking)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -51,6 +66,9 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future: The First Onboard Metal 3D Printer in Space by Airbus and ESA"
-date: 2024-08-05 22:53:14
-updated: 2024-08-08 12:25:53
+date: 2024-08-08T04:23:31.286Z
+updated: 2024-08-09T04:23:31.286Z
 tags:
   - printer
 categories:
@@ -22,6 +22,9 @@ The Elegoo Neptune 4 Pro received our Editor's Choice award when[we reviewed](ht
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FELEGOO-Firmware-Leveling-Extruder-8-85x8-85x10-43%2Fdp%2FB0C749177C%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6034715685822910012-20)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications of Elegoo Neptune 4 Pro
 
  Swipe to scroll horizontally

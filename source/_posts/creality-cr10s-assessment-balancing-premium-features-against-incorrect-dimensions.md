@@ -1,7 +1,7 @@
 ---
 title: "Creality CR10s Assessment: Balancing Premium Features Against Incorrect Dimensions"
-date: 2024-08-06 13:30:35
-updated: 2024-08-08 12:42:14
+date: 2024-08-08T04:23:29.934Z
+updated: 2024-08-09T04:23:29.934Z
 tags:
   - printer
 categories:
@@ -44,3 +44,7 @@ Black Friday doesn't officially arrive for a couple more days, but the best deal
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: America Blocks DeepCool Exports to Russia as Tensions Rise Over Ukraine; Impact on Tech Industry
-date: 2024-08-07 22:48:13
-updated: 2024-08-09 11:32:17
+date: 2024-08-08T04:23:28.785Z
+updated: 2024-08-09T04:23:28.785Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  Over the past couple of years, manufacturers have begun creating a wide variety of heatsinks and coolers for NVMe SSDs to ensure they’re able to maintain their maximum speeds. Heatsinks large and small, with or without active fans, and[even liquid cooling solutions](https://www.tomshardware.com/reviews/teamgroup-t-force-siren-duo-360) are now available for NVMe SSDs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/j8QbmKNB3S3jpDshPDhFk4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -85,12 +88,18 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  3\. Next, place the heatsink on top of the SSD and secure it using the included screws.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/zM8urppv6XUk7ePM9j7CR8-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  4\. The last step is to place the unit into an m.2 slot and secure it using a screw or a latch if you have a fancier motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/LzHTKkM6pRkxWeBtmobzAo-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -105,12 +114,18 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  The M05 model is fairly basic, featuring a simple aluminum heatsink with thick fins. As it is only 6mm tall, it is fully compatible with any component you might consider installing nearby.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/M5p4GAuseXo8axuCSkSR5-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  ▶ **M15: Tall and thick heatsink for maximum cooling**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/pgnVfb6wjY7JzJxKibdiZ3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +138,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  As this is a taller heatsink, there will be some compatibility restrictions. You won’t be able to install this next to a CPU with some air coolers like[DeepCool’s Assassin IV](https://www.tomshardware.com/reviews/deepcool-assassin-iv) \- the heatpipes of the unit interfere with it. Other air coolers like[ID-Cooling’s A720](https://www.tomshardware.com/pc-components/cooling/id-cooling-frozn-a720-and-a620-review) , and virtually all liquid coolers, shouldn’t have compatibility issues and you can install taller heatsinks like the M15 next to them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing Methodology
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who merely loads a few applications and games from time to time – you probably don’t need an advanced heatsink. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.
@@ -135,6 +153,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  This test will cause throttling when paired with lower-end heatsinks. For those heatsinks, we’ll be looking at the IOPS of the drive during testing. The more advanced heatsinks and coolers will be capable of keeping the SSD under its peak temperature – for these units, we’ll compare the actual temperatures of the TeamGroup Z540 SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for a SSD?
 
  When I was determining how to test these units, I consulted with many storage industry experts before I started testing. They emphasized that modern PCIe 5.0 drives need at least some sort of cooling to avoid throttling and that even basic workloads can be impacted by minor throttling without a heatsink.
@@ -149,6 +170,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  When it comes to heatsinks for SSDs, the important thing to take away here is that every expert I’ve spoken to in the storage industry agrees that it is best practice to minimize temperature variations for the health and longevity of your SSD. How strong of a heatsink you’ll need is another matter for debate. In common scenarios, most users will be fine with basic heatsinks - but professionals or users with storage intensive workloads might want to invest in a stronger heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -175,6 +199,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  powered by
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

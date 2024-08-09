@@ -1,7 +1,7 @@
 ---
 title: "Review of Geometric Future Eskimo Jr.: Innovative Layout & Low Decibels with Average Functionality"
-date: 2024-08-07 13:53:52
-updated: 2024-08-09 11:57:33
+date: 2024-08-08T04:22:59.917Z
+updated: 2024-08-09T04:22:59.917Z
 tags:
   - cooling
 categories:
@@ -96,6 +96,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  During the build process, I never found myself in need of a Nexus Link cable that wasn't included in the box – which is a good thing considering the company doesn't seem to sell these cables separately yet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -104,16 +107,26 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## NP50 node
 
  We've already covered the Hyte Thicc Q60 AIO cooler elsewhere, but the much-less-expensive way to hop onto the Nexus Link ecosystem is by picking up an NP50 hub. Confusingly, while Hyte calls these nodes, the product itself is labeled as a Nexus Portal. The NP50 isn't for sale by itself yet, but you can pick it up alongside a few of Hyte's fans or light strips for an extra $30\. It has a nice steel frame with a white cover that attaches via magnets. There's a dual USB-C connector that leads to power, USB, and PWM connectors to control your devices and three ports on the bottom for connecting your Nexus Link devices.
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -132,6 +145,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  For more on what it's like to build in the the Hyte Y70 case, as well as its performance, see[our review of the Hyte Y70 touch](https://www.tomshardware.com/reviews/hyte-y70-touch) , which includes a large screen up front, but is otherwise the same case as the Y7-. And for details about the performance and installation of the[Hyte Thicc Q60 AIO cooler](https://www.tomshardware.com/pc-components/liquid-cooling/hyte-thicc-q60-240mm-aio-review) , we have a review of that, too. Spoiler: It performs better than all but the top few 360mm AIOs on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/ZWmdV7GKBZxUhSBmkVwQ6F-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -148,6 +164,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Apart from removing panels from the rear and the top of the case so that I could attach my components, I also had to remove the pre-installed PCIe 4.0 riser cable for vertically mounting the graphics card. This involved removing a screw from the half-height bracket, as well as four screws from the bottom of the case that hold the other end of the connector in place. You could install a motherboard without completely removing the riser cable, but I didn't want to work around it while trying to plug things into the bottom of the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/NT6mgYDiB7LaSrevHKxerH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -156,6 +175,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Around back, I mounted a white modular MSI MAG power supply (which perfectly matched the white-and-black case) on the bottom rear, and removed the pair of white drive sleds up above, since they would just get in the way during cooler installation and cable routing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/qYZR4suXh6cXBPfBSoWZmF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -180,6 +202,11 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  Eventually, after pulling the CPU, I figured out the Asus board had what appeared to be a single bent pin, which was causing the memory issue. Annoying, but thankfully I had an MSI Meg Z790 Ace MAX board within reach, so I pulled the Asus motherboard and finished the build with MSI. While I did have to pull the GPU and riser cable once again, the board swapping process was surprisingly easy, both because the Y70 is a fairly large case, and because the Nexus Link cables are easy to remove and install and don't get in the way like a bunch of traditional fan and RGB connectors would.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/vp5PD2EwqCu6Bhwtk3yDEG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -196,10 +223,16 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  In the process of running the RGB strip I noticed that, if I moved the radiator up slightly, there was just room enough for one more fan under the radiator. Clearly, more intake can't hurt since the case has no front ventilation. So I raised the radiator by loosening and removing some screws, and shoved an additional fan in place below the radiator. It snapped onto the magnetic connectors at the bottom of the radiator fan like it was born to be there. With the fan and RGB strip in place, I powered up the system, installed Windows, and then grabbed Hyte's Nexus Link Software to see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tying it all together with Nexus Link
 
  Of course, no cooling / RGB ecosystem is complete without software that lets you change the lighting modes, adjust fan speeds, and monitor your system's temps. And I've spent enough frustrating hours with Corsair's iCue, Razer's Chroma, MSI Center, and Asus' Armoury Crate over the years that my expectations for Hyte's Nexus Link program were pretty low. But while there's definitely room for expansion and improvement, I found controlling the screen on the Q60 cooler, the RGB lights, and Hyte's fans a refreshingly intuitive experience. That said, some of the functionality is limited at the moment. So perhaps that's partially why I didn't struggle much doing the things that the software currently lets you do.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/nTVXvtrAnwKXeTS48HoSVN-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -212,6 +245,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  I was hoping the motherboard module would let me control the board's lighting, but it only offered up board sensor details. So I had to run MSI Center on top of the Nexus software to get the board lighting to match the Nexus lighting – I decided to just set the board lights to white, as a compromise, so I didn't have to keep fiddling with two programs.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/DxpC68KcnuSMiwxCFzzx6K-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -222,6 +258,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -238,6 +277,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  I was using the latest beta version of the software, which let me drop the usual system stats, clock, or media details on the display – Hyte calls these Faces. I do particularly like the animated weather widget, and could imagine myself glancing at it a few times a day before going outside. But an App Focus tab that promises to change what's on screen depending on what program you're using is grayed out, with a message up top promising the feature is "Coming very soon."
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/VRHuf4rXjJ6TAY5zWcwaRJ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -246,6 +288,15 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  In my time using Hyte's Nexus software, I never felt lost or particularly confused (issues I've often had with Corsair's iCue before) when trying to do something. And even the beta build of the software was extremely stable. I saw no glitching and experienced no crashes. There just isn't a whole lot you_can_ do here yet – unless you like endlessly playing with RGB settings, because there are_a lot_ of those. I came away with a positive feeling about Hyte's Nexus software. I hope when I come back to it to check out future products, it's more feature-packed while remaining as intuitive and stable as it is today.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Final Thoughts
 
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/CnJN9uwfbctWCnhkcnwGnM-320-80.jpg)

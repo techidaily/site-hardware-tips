@@ -1,7 +1,7 @@
 ---
 title: Speedy 3D Creation Technique Unveiled by MIT, Harnesses Scrap Metal with Sand-Like Glass Bedding for Efficient Results
-date: 2024-08-06 11:10:49
-updated: 2024-08-08 12:58:16
+date: 2024-08-08T04:23:13.176Z
+updated: 2024-08-09T04:23:13.176Z
 tags:
   - printer
 categories:
@@ -27,6 +27,9 @@ There is no shortage of ways to store and encode data in the ever-evolving field
 
 **MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

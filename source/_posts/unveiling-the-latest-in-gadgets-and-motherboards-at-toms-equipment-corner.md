@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Gadgets and Motherboards at Tom's Equipment Corner
-date: 2024-08-06 18:18:48
-updated: 2024-08-09 11:14:12
+date: 2024-08-08T04:23:29.277Z
+updated: 2024-08-09T04:23:29.277Z
 tags:
   - cooling
 categories:
@@ -70,6 +70,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  If you're building a Nexus Link system, it's at least somewhat likely that you'll also need to buy a new case. I used the Hyte Y70 (essentially the[Y70 Touch](https://www.tomshardware.com/reviews/hyte-y70-touch) , without the front screen) for this build. But because the Q60 cooler and its fans are so thick, your case options are limited, depending on how you want to mount it. The company lists just five cases that support top-mounting the cooler: Corsair's 7000D, 7000X, and the Obsidian 1000D; Lian Li's PC-O11 Dynmaic, and Phanteks Enthoo Elite. For front or side mounting, a much larger list of 60 current cases are supported. But several cases don't support the cooler, including models from Asus, Be Quiet,[Cooler Master](https://www.tomshardware.com/tag/cooler-master) , Lian Li, NZXT,[Thermaltake](https://www.tomshardware.com/tag/thermaltake) , and others. For the full list, which the company says it is still updating, you can check out the Hyte Q60 manual, which is linked at the bottom of its[product page](https://hyte.pxf.io/c/221109/1174840/14816?subId1=tomshardware-us-2277992913587848824&sharedId=tomshardware-us&u=https%3A%2F%2Fhyte.com%2Fstore%2Fq60%3Fv%3D293) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Nexus Link Cables
 
  One of the primary selling points of Corsair's iCue Link is that it uses a single connector type. With Nexus Link, there are two, which is technically double the complexity, but still pretty easy to grasp.
@@ -88,6 +91,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Then there's the Nexus Link Type-C connector, which is used to connect "nodes" (the Q60 cooler or the NP50) hub to one another, or to connect the RGB strips. This isn't a standard USB-C connector, so Hyte puts a specifically shaped plastic ring around the Type-C connectors so that you can only plug them into compatible devices and not a standard USB port.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/BWivYBAugZEavPAUEde2uE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -96,6 +102,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
   
  During the build process, I never found myself in need of a Nexus Link cable that wasn't included in the box – which is a good thing considering the company doesn't seem to sell these cables separately yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -104,6 +113,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## NP50 node
 
  We've already covered the Hyte Thicc Q60 AIO cooler elsewhere, but the much-less-expensive way to hop onto the Nexus Link ecosystem is by picking up an NP50 hub. Confusingly, while Hyte calls these nodes, the product itself is labeled as a Nexus Portal. The NP50 isn't for sale by itself yet, but you can pick it up alongside a few of Hyte's fans or light strips for an extra $30\. It has a nice steel frame with a white cover that attaches via magnets. There's a dual USB-C connector that leads to power, USB, and PWM connectors to control your devices and three ports on the bottom for connecting your Nexus Link devices.
@@ -120,10 +132,16 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  At about 0.88 inches thick, the NP50 isn't going to fit in a 2.5-inch drive slot, but it does have 2.5-inch drive mounting holes on the back that will let you mount the hub conveniently behind the motherboard in many modern cases. It comes with similar cables and connections as the Q60 cooler, as well as some stick-on cable clips.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Building a PC with Hyte's Nexus Link
 
  I'm not going to cover the entire build process here, because installing the core components is a pretty standard process – or it would have been had I not somehow bent a single pin on my Asus Prime Z690-A motherboard, causing the system not to boot once I thought I had done most of the work.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/MzJQurpmzSF6Ba2iUCSqiG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -148,6 +166,9 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Apart from removing panels from the rear and the top of the case so that I could attach my components, I also had to remove the pre-installed PCIe 4.0 riser cable for vertically mounting the graphics card. This involved removing a screw from the half-height bracket, as well as four screws from the bottom of the case that hold the other end of the connector in place. You could install a motherboard without completely removing the riser cable, but I didn't want to work around it while trying to plug things into the bottom of the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/NT6mgYDiB7LaSrevHKxerH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -162,12 +183,18 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  Next, I mounted the Hyte Thicc Q60 AIO cooler on the side of the case. Because this cooler and its fans are so wide, it's designed to be mounted in the front or side as an intake in most cases, and comes with its fans oriented accordingly. For more on how to install this cooler, see our[Hyte Thicc Q60 review](https://www.tomshardware.com/pc-components/liquid-cooling/hyte-thicc-q60-240mm-aio-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/YEbpiC8ag4TEi7TTjjMCVG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next up, it was time to mount the top exhaust fans. This was exceedingly easy since they snap simply together via pogo pins and magnets. I held the three in place with one hand and screwed them in from the top of the case.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/S9xgz56Xrf6k9Hn7jEpqYF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -192,10 +219,16 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  It would also be nice if Hyte would create and include some right-angle adapters for connecting multiple light strips. I would have used more strips in the Y70 case if it were easier to get the lights to bend around corners in a visually pleasing way.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## One more fan
 
  In the process of running the RGB strip I noticed that, if I moved the radiator up slightly, there was just room enough for one more fan under the radiator. Clearly, more intake can't hurt since the case has no front ventilation. So I raised the radiator by loosening and removing some screws, and shoved an additional fan in place below the radiator. It snapped onto the magnetic connectors at the bottom of the radiator fan like it was born to be there. With the fan and RGB strip in place, I powered up the system, installed Windows, and then grabbed Hyte's Nexus Link Software to see.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tying it all together with Nexus Link
 
  Of course, no cooling / RGB ecosystem is complete without software that lets you change the lighting modes, adjust fan speeds, and monitor your system's temps. And I've spent enough frustrating hours with Corsair's iCue, Razer's Chroma, MSI Center, and Asus' Armoury Crate over the years that my expectations for Hyte's Nexus Link program were pretty low. But while there's definitely room for expansion and improvement, I found controlling the screen on the Q60 cooler, the RGB lights, and Hyte's fans a refreshingly intuitive experience. That said, some of the functionality is limited at the moment. So perhaps that's partially why I didn't struggle much doing the things that the software currently lets you do.
@@ -226,18 +259,27 @@ Last year, Corsair rolled out its[iCue Link](https://www.tomshardware.com/news/c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Ambition and reality are often far apart, though, and I found the options for controlling the 5-inch screen on the Thicc Q60 cooler to be pretty limiting, at least for now.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/g7NXKhhHdJb6Uoji3pWqiJ-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  I was using the latest beta version of the software, which let me drop the usual system stats, clock, or media details on the display – Hyte calls these Faces. I do particularly like the animated weather widget, and could imagine myself glancing at it a few times a day before going outside. But an App Focus tab that promises to change what's on screen depending on what program you're using is grayed out, with a message up top promising the feature is "Coming very soon."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Hyte Nexus Link](https://cdn.mos.cms.futurecdn.net/VRHuf4rXjJ6TAY5zWcwaRJ-320-80.png)
 
  (Image credit: Tom's Hardware)

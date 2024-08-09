@@ -1,7 +1,7 @@
 ---
 title: "Yield 'Remarkable Outcomes': EK Solution's Aftermarket CPU Cooler Enhances Intel Core I9-10900KS, Lowers Temps by 20°C"
-date: 2024-08-07 14:11:45
-updated: 2024-08-09 11:36:24
+date: 2024-08-08T04:23:17.362Z
+updated: 2024-08-09T04:23:17.362Z
 tags:
   - cooling
 categories:
@@ -21,10 +21,16 @@ Arctic Cooling has unleashed its new Freezer 36 series as part of the brand's 23
 
  Image 1 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Freezer 36](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Freezer 36](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36  (Image credit: Arctic Cooling)
@@ -33,6 +39,9 @@ Freezer 36  (Image credit: Arctic Cooling)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Freezer 36 Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
@@ -49,6 +58,9 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  Freezer 36 A-RGB Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB Black  (Image credit: Arctic Cooling)
@@ -57,6 +69,9 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB White](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)
@@ -69,6 +84,18 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
   
  The Freezer 36 sells for[$25.40](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG6NBSJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8205773312092432340-20) , while the Freezer 36 Black will set you back[$28.48](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH14935%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-9363665590588779081-20) . Meanwhile, the Freezer 36 CO retails for[$27.71](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG62KBZ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3116022598048932967-20) . The RGB versions carry a slightly higher premium, with the Freezer 36 A-RGB White and Freezer 36 A-RGB Black selling at[$33.87](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH4YDS9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8017403963971760368-20) and[$33.10](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH22MT1%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1231453507516044270-20) , respectively.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

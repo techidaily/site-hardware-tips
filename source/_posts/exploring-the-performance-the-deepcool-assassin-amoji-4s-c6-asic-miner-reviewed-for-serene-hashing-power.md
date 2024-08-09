@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Performance: The DeepCool Assassin Amoji 4S C6 ASIC Miner Reviewed for Serene Hashing Power"
-date: 2024-08-06 16:12:33
-updated: 2024-08-09 11:52:45
+date: 2024-08-08T04:23:19.518Z
+updated: 2024-08-09T04:23:19.518Z
 tags:
   - cooling
 categories:
@@ -36,6 +36,9 @@ Thermal paste maker Clock Work Tea Party (CWTP), known for releasing scented non
 
  Who knows, maybe someone will make a thermal paste that would discourage an[ant infestation](https://www.tomshardware.com/pc-components/thermal-paste/gamer-says-ants-infested-his-pc-to-eat-thermal-paste-and-pads-ants-found-proliferating-in-the-gpu-around-thermal-pad-debris) , which would be more beneficial than a scented thermal paste.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

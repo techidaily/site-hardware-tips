@@ -1,7 +1,7 @@
 ---
 title: Discover How Noctua Is Changing Game with Its Latest Pumpless AIO Liquid Cooler Design Harnessing Evaporation Power
-date: 2024-08-07 16:40:43
-updated: 2024-08-09 11:13:47
+date: 2024-08-08T04:23:21.476Z
+updated: 2024-08-09T04:23:21.476Z
 tags:
   - cooling
 categories:
@@ -23,22 +23,37 @@ Lamptron (via[Caseking](https://go.redirectingat.com/?id=92X1584492&xcust=tomsha
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -51,6 +66,9 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

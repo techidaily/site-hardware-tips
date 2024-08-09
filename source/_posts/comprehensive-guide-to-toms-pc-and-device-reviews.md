@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Tom's PC and Device Reviews
-date: 2024-08-07 11:41:51
-updated: 2024-08-08 12:28:31
+date: 2024-08-08T04:23:08.450Z
+updated: 2024-08-09T04:23:08.450Z
 tags:
   - printer
 categories:
@@ -50,6 +50,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  There’s a paper copy of the quick start guide to help you build the printer. The printer has sample models in the memory, and the UBB card has a PDF copy of the manual, Anycubic Slicer and a profile for PLA to get you started.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
@@ -70,6 +73,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  To level the bed, select Control → Auto-level. The machine will home itself, preheat and then double tap 49 spots in a grid across the bed surface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Loading Filament in the Anycubic Kobra 2 Max
 
  To load filament, press Prepare on the main menu. Select Filament. Now select Filament In or Filament Remove. The machine will now heat up to 230 C, taking about 60 seconds. Put your spool on the spool holder, and place the end of the filament into the runout sensor. Press Filament In and wait for the filament to be pulled to the extruder, or pinch the tension release on the front of the extruder and push it through by hand. Press Stop when the filament is coiling below the hotend.
@@ -78,6 +84,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ## Design of the Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/zxKpUzUZPxsNhyuXx9kDxB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -96,8 +105,14 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  The touch screen is the same 4.3-inch display Anycubic has used for the last several years. The menu is still very easy to navigate for beginners, with options in logical locations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4GQbb2fqoUPZGRxNwHD5XC-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -106,12 +121,18 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Anycubic has recently launched a mobile app to accompany their printers, but I did not find it very useful. Without a camera or the ability to change the printer’s settings, all it can do is announce prints are done. Anycubic is still working on the app, and claims you will soon have more control, the ability to monitor prints and slice models from your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Printing with the Anycubic Kobra 2 Max
 
  Big printers mean big prints, so knowing where to get the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) is essential. The Kobra 2 Max only came with a sample coil, so you’ll want to stock up immediately.
 
  Of course, you don’t have to print large items with the Kobra 2 Max. It’s still a regular 3D printer – and it can really kick things into high gear for small prints. It was able to produce a very respectable 18 minute and 4- second speed benchy using Speed Boat Rules (2 walls, 3 top and bottom layers, 10% grid infill, a .25 layer height and .5 layer width). The bow was a bit wavy and the layers uneven, but it's still in the top ten of our[3D printer speed hierarchy](https://www.tomshardware.com/news/3d-printer-speed-hierarchy) and on par with the speed of a[Bambu A1 Mini](https://www.tomshardware.com/reviews/bambu-lab-a1-mini) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/vqVf7UjaTFCF99ALVeRU9C-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -126,6 +147,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Next up was a practical print: a clip for a bike air pump. This was made in Tinkercad to custom fit the bike frame and the size of the pump. The print turned out wonderfully smooth with no stringing. 42 minutes and 12 seconds, at a .2 layer height and 230 mm/s. I printed it in[Greengate recycled Purple Reign PETG.](https://greengate3d.com/products/purple-reign-pet-g-filament)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/R9reT9ueiTZtVy3HT2GJGD-320-80.jpg)
 
 _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
@@ -136,6 +160,9 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
 [_Vase Mode Ship_](https://www.printables.com/model/235746) _, by LJ Prints_  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Anycubic Kobra 2 Max is a massive machine reasonably priced at $569 and currently on sale for $519\. It’s a good fit for prop makers and cosplayers who want to make large costume pieces without needing to slice up their printers. You do have to be in the mood to tinker with the slicer to get the best balance of speed and precision.

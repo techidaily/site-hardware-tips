@@ -1,7 +1,7 @@
 ---
 title: Asetek Unveils Groundbreaking AI-Enhanced ECAM Cooling System - Pioneering Production via Advanced 3D Metal Additive Manufacturing and Partnership with Fabric8 Labs
-date: 2024-08-08 10:37:17
-updated: 2024-08-09 12:54:22
+date: 2024-08-08T04:23:04.773Z
+updated: 2024-08-09T04:23:04.773Z
 tags:
   - cooling
 categories:
@@ -35,6 +35,9 @@ German water-cooling specialist Watercool introduced its latest line of massive 
 
  Note that these radiators won’t fit in your typical PC case. You’ll likely be hard-pressed to find a suitable mounting spot for the MO-RA IV 600 on the Obsidian 9000D. You’ll likely find these radiators in custom PC builds, larger workstations, or server-type PCs that run 24/7/365\. But if you plan to overclock every possible component on your computer and then push it to its limits playing on triple 4K monitors while using Intel’s and Nvidia’s hottest chips, you likely need one of these placed near an exhaust vent to keep your PC (and your room) at a bearable temperature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: Introducing the Game-Changing Thermal Grizzly Heatspreader - Slashes CPU Heat by 15 Degrees
-date: 2024-08-08 11:53:11
-updated: 2024-08-09 10:47:34
+date: 2024-08-08T04:23:29.567Z
+updated: 2024-08-09T04:23:29.567Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Users of Intel CPUs spanning 12th Gen to 14th Gen who[dare to delid](https://www
   
 **Correction, May 22, 2024:**   _This article previously misstated the CPU in Thermal Grizzly's custom loop. We regret the error._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

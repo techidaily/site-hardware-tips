@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Resin Printing: Micronics' Newly Launched Miniaturized SLS 3D Printer for Under $3K"
-date: 2024-08-06 10:35:58
-updated: 2024-08-08 12:37:17
+date: 2024-08-08T04:23:08.679Z
+updated: 2024-08-09T04:23:08.679Z
 tags:
   - printer
 categories:
@@ -21,6 +21,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Monika McWuff's Speed Benchy](https://cdn.mos.cms.futurecdn.net/mTazNtSbjNwCzpKmaPvcWB-320-80.jpg)
 
  (Image credit: Monika McWuff)
@@ -31,6 +34,14 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +52,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Other mods are pure out-of-the-box thinking, like using a floor blower for cooling and bolting the printer to a 45-pound rubber bumper plate from the gym. “I used wood screws and some brackets to screw the printer down to the plate and dissipate energy,” she said.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
  (Image credit: Monika McWuff)
@@ -51,6 +65,11 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
 
  (Image credit: Monika McWuff)

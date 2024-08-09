@@ -1,7 +1,7 @@
 ---
 title: Top Reviews of the Silent and Mighty Hyte THICC Q60 240Mm AIO Liquid CPU Cooler
-date: 2024-08-08 11:56:22
-updated: 2024-08-09 10:28:57
+date: 2024-08-08T04:23:26.453Z
+updated: 2024-08-09T04:23:26.453Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,7 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->

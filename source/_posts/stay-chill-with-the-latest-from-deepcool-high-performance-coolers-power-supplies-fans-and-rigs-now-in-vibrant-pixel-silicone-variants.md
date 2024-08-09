@@ -1,7 +1,7 @@
 ---
 title: "Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants"
-date: 2024-08-06 18:21:57
-updated: 2024-08-09 12:25:56
+date: 2024-08-08T04:23:15.069Z
+updated: 2024-08-09T04:23:15.069Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,9 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Most methods of thermal paste installation work about the same, but the final application actually ends up with an uneven distribution on the CPU's IHS and often leaves part of the IHS without paste, which isn't optimal. X-Apply looks to fill those gaps with a special stencil.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Intel version of X-Apply, mid-application. A spatula is used to flatten paste into stenciled gaps..](https://cdn.mos.cms.futurecdn.net/upgTTpBBWKEg9p2m26Y6yn-320-80.jpg)
 
  (Image credit: Igor's Lab)
@@ -33,6 +36,10 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Thermal testing with a 360mm AIO done by Igor's Lab also points toward X-Apply working well, delivering a roughly 4C reduction in temperatures over standard application methods. That isn't a world-breaking difference, but it does at least show that the stencil applies the paste in a workable fashion. As long as X-Apply isn't gratuitously overpriced, there really doesn't seem to be any harm in these easy TIM applicators. Unfortunately, we won't learn pricing until the product comes to market.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

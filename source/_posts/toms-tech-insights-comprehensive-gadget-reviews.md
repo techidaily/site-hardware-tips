@@ -1,7 +1,7 @@
 ---
 title: Tom's Tech Insights - Comprehensive Gadget Reviews
-date: 2024-08-07 22:36:47
-updated: 2024-08-09 10:56:34
+date: 2024-08-08T04:23:19.107Z
+updated: 2024-08-09T04:23:19.107Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,9 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  While I would normally recommend using a standard air or liquid cooler, there can be situations where a 120mm AIO will be the best option for certain niche configurations. So below, I’ll be looking at the smallest AIO models from Be Quiet,[Cooler Master](https://www.tomshardware.com/tag/cooler-master) , Corsair, and Enermax to see which are worthy of your consideration – and which ones you should avoid.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Spec Comparison Table
 
  Swipe to scroll horizontally
@@ -122,12 +125,27 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  True to its brand name, Be Quiet’s Pure Loop 120 features moderately low noise levels, and its design features an external liquid pump. Not only is there a user-accessible refill port, Be Quiet goes the extra mile by including 100 ml of additional coolant for those who might wish to refill their coolers in the future.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![120mm AIO Roundup](https://cdn.mos.cms.futurecdn.net/nfrNPAah9HxPAzPp2YDabH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
 **▶** **Corsair H60x Elite**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -142,18 +160,28 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  The best feature of Corsair’s H60x Eliteis its extremely low maximum noise levels of only 38.2 dBA, the quietest of all units tested in this review. It also features RGB on the CPU block and the fan.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![120mm AIO Roundup](https://cdn.mos.cms.futurecdn.net/iXwDdw5vdnaLU792AYWisH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
 **▶** **Cooler Master MasterLiquid ML120L V2 and 120L Core**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![120mm AIO Roundup](https://cdn.mos.cms.futurecdn.net/dqcLfCcsUkjnARguhndKMJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The main difference between the ML120L V2 and the 120L Core are the fans included. The fan on the 120L Core is solid black, with mid-range noise levels. The fan included with the ML120L V2 runs quieter and features RGB illumination.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![120mm AIO Roundup](https://cdn.mos.cms.futurecdn.net/dRtt8JefyjumhHc3atBzCJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)

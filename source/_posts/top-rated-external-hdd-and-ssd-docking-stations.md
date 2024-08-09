@@ -1,7 +1,7 @@
 ---
 title: Top-Rated External HDD & SSD Docking Stations
-date: 2024-08-07 18:43:47
-updated: 2024-08-08 11:10:41
+date: 2024-08-08T04:23:03.596Z
+updated: 2024-08-09T04:23:03.596Z
 tags:
   - best-picks
 categories:
@@ -27,10 +27,16 @@ PC gaming can be expensive. Besides buying games, you also need a capable machin
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Acer Nitro 16](https://cdn.mos.cms.futurecdn.net/SNYmSyEjn7TxExMrLVGz3b-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [1. Acer Nitro 16](https://www.tomshardware.com/reviews/acer-nitro-16-2023)
 
 The Best Gaming Laptop Under $1,000
@@ -165,6 +171,9 @@ Washed-out display
 
  The HP Victus 15 is one of the best gaming laptops under $1,000, and the starting price is way cheaper.  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [3. HP Victus 15](https://www.tomshardware.com/reviews/hp-victus-15)
 
 No frills and inexpensive.
@@ -237,6 +246,9 @@ Single-channel RAM in our review unit
 
  The Dell G15 is one of the best gaming laptops under $1,000 with solid performance for the price.  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [4. Dell G15 (5520)](https://www.tomshardware.com/reviews/dell-g15-5520)
 
 Strong 1080p gaming for the money
@@ -297,6 +309,9 @@ Tons of bloatware
   
 **Read:** [Dell G15 (5520) Review](https://www.tomshardware.com/reviews/dell-g15-5520)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Lenovo IdeaPad Gaming 3](https://cdn.mos.cms.futurecdn.net/iYmBZHYztuiWFs9si8A4DN-320-80.jpg)
 
  The Lenovo IdeaPad Gaming 3's low price and surprisingly good speakers make it one of the best gaming laptops under $1,000.  (Image credit: Tom's Hardware)
@@ -359,6 +374,9 @@ You'll need to turn down game settings
   
 **Read:** [Lenovo IdeaPad Gaming 3 Review](https://www.tomshardware.com/reviews/lenovo-ideapad-gaming-3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## What to Expect From the Best Gaming Laptops Under $1,000
 
 + **GPU:** The graphics card is likely to have the biggest effect on how well your gaming laptop plays games, especially when it comes to high resolutions and lots of effects. The cheapest gaming laptops we've tested are using Nvidia's GeForce GTX 1650, which is an older card that will require you to turn down some settings, though more and more are using the RTX 4050, that's better and more recent (and increasingly common). If you see a system on sale with an RTX 4060 in this price range, jump on it. We haven't seen any AMD-based GPUs in these laptops just yet.
@@ -409,6 +427,9 @@ Round up of today's best deals
 
 [See all prices](https://www.tomshardware.com/deals/compare?model%5Fname=MSI%20Katana%2015&article%5Fid=HJgBoLt3uD8i8nYuUCwG58)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![HP - Victus 15.6" Gaming...](https://m.media-amazon.com/images/I/41awy1UmabL._SL500_.jpg "HP - Victus 15.6" Gaming...")](https://m.media-amazon.com/images/I/41awy1UmabL._SL500_.jpg "HP - Victus 15.6" Gaming...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B67521S5%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6505128275090383088-20)
 
 [HP Victus 15](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B67521S5%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6505128275090383088-20)
@@ -423,6 +444,9 @@ Round up of today's best deals
 
  Low Stock
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![NEW Dell G15 15.6" 120Hz...](https://m.media-amazon.com/images/I/51W8iRFdwGL._SL500_.jpg "NEW Dell G15 15.6" 120Hz...")](https://m.media-amazon.com/images/I/51W8iRFdwGL._SL500_.jpg "NEW Dell G15 15.6" 120Hz...") ](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F6772662921&subId1=techidaily-us-1036565730117135959&sharedId=techidaily-us)
 
 [Dell G15](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F6772662921&subId1=techidaily-us-1036565730117135959&sharedId=techidaily-us)

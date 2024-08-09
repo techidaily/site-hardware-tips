@@ -1,7 +1,7 @@
 ---
 title: Cool Down with Arctic Freezers 36 Cooling Systems - Your Ideal Partner for Upcoming Intel Arrow Lake & Socket LGA1851 Processors
-date: 2024-08-07 16:14:21
-updated: 2024-08-09 12:51:17
+date: 2024-08-08T04:23:08.461Z
+updated: 2024-08-09T04:23:08.461Z
 tags:
   - cooling
 categories:
@@ -29,14 +29,23 @@ Freezer 36  (Image credit: Arctic Cooling)
 
 Freezer 36  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Freezer 36 Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Freezer 36 CO](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36 CO  (Image credit: Arctic Cooling)
@@ -45,6 +54,9 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
 Freezer 36 CO  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB Black  (Image credit: Arctic Cooling)
@@ -57,6 +69,18 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB White](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)
@@ -69,6 +93,9 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
   
  The Freezer 36 sells for[$25.40](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG6NBSJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8205773312092432340-20) , while the Freezer 36 Black will set you back[$28.48](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH14935%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-9363665590588779081-20) . Meanwhile, the Freezer 36 CO retails for[$27.71](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VG62KBZ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3116022598048932967-20) . The RGB versions carry a slightly higher premium, with the Freezer 36 A-RGB White and Freezer 36 A-RGB Black selling at[$33.87](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH4YDS9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8017403963971760368-20) and[$33.10](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09VH22MT1%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1231453507516044270-20) , respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

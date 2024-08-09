@@ -1,7 +1,7 @@
 ---
 title: Maximize Performance with Cooler Master - Superior Heat Dissipation of 30([+W for High-Demand Systems
-date: 2024-08-07 15:42:21
-updated: 2024-08-09 12:42:51
+date: 2024-08-08T04:23:10.530Z
+updated: 2024-08-09T04:23:10.530Z
 tags:
   - cooling
 categories:
@@ -17,8 +17,14 @@ If you’ve built a PC in the last few decades, you’ve almost certainly come a
 
  These days, three-pin DC case fans are far less common than PWM, for reasons that will become clear as we dig deeper into the differences between the two below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## DC (direct current) fans
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![PWM vs DC fans](https://cdn.mos.cms.futurecdn.net/3uhDQhNvySqbWYDJFwnfcK-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -31,10 +37,16 @@ If you’ve built a PC in the last few decades, you’ve almost certainly come a
   
  The most basic DC fans have just two wires, for power and ground. But DC fans meant for PC use these days also usually have a third “sense” pin that lets the PC know the fan’s current speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## PWM (pulse width modulation) fans
 
 [PWM fans](https://www.tomshardware.com/reviews/glossary-pwm-pulse-width-modulation-definition,5888.html) , also known as 4-pin fans, use pulse width modulation to vary fan speed, accomplished via an extra “control” pin. In short, PWM fans can be ramped up and down via the motherboard or other connected device, by switching the power off and on quickly (modulating) at frequencies far too high for you to notice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![PWM vs DC fans](https://cdn.mos.cms.futurecdn.net/86b6i4ZHYyA8Jjd5cGQnSK-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -53,12 +65,18 @@ If you’ve built a PC in the last few decades, you’ve almost certainly come a
 
  Overwhelmingly, the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) to come out in recent years, even budget cases like the[Phanteks XT Pro Ultra](https://www.tomshardware.com/pc-components/pc-cases/hands-on-with-phanteks-xt-pro-ultra-pc-case-modern-budget-case-with-lots-of-airflow-and-rgb-out-of-the-box) , will ship with PWM case fans – if any case fans are included at all. These days, you’re only likely to encounter DC fans in sub-$50 ultra-budget cases, and even then you’ll likely only find a DC fan used as exhaust. Even[Cooler Master](https://www.tomshardware.com/tag/cooler-master) ’s Masterbox Q300L has a singular PWM fan, and it sells for around $40.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## DC Fans can cost less, but that’s increasingly not true
 
  As you might have guessed at this point (or if you’ve shopped for case fans previously), the primary benefit of opting for DC fans over PWM models is cost – or at least it used to be. DC fans, especially if you’re willing to take a chance on no-name brands, can often be found only for very little money.
 
  When we wrote this, you could find[a three-pack of Darkrock 120mm DC fans on Amazon for $9](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FDARKROCK-Computer-Performance-Hydraulic-Warranty%2Fdp%2FB0CD7P3S8Q%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2455855305613682459-20) . But if you care at all about the benefits of PWM models, a[three-pack of Thermalright TL-C12C PWM fans is less than $12](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FThermalright-TL-C12C-Computer-Included-Quantities%2Fdp%2FB0BKKG1ZND%2F%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5329939726720603683-20) , or about a dollar extra per spinner. Clearly the price overhead for PWM has come down, and perhaps DC fan pricing has crept up due to diminished demand, at least in the PC cooling space. If you order individual fans, you can find PWM or DC fans starting at around the same price, with our search results starting at between $6 and $7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## So why wouldn’t you opt for PWM fans?
 
  With finer-grained control, typically quieter low-speed operation (because they can spin more slowly), and far more models available, almost anyone building or upgrading a modern PC should opt for PWM fans at this point. You might be able to save a couple of bucks (literally) by opting for DC spinners, but you’ll likely also be getting fans that are worse in other ways as well, since name brand companies primarily sell PWM fans, and have for a long time.

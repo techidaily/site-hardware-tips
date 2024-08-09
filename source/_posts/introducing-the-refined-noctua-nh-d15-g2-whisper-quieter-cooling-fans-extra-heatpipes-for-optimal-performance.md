@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Refined Noctua NH-D15 G2: Whisper Quieter Cooling Fans, Extra Heatpipes for Optimal Performance"
-date: 2024-08-07 20:15:58
-updated: 2024-08-09 11:55:44
+date: 2024-08-08T04:23:06.984Z
+updated: 2024-08-09T04:23:06.984Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,8 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->

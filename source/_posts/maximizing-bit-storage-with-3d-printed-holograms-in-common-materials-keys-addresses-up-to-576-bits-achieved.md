@@ -1,7 +1,7 @@
 ---
 title: Maximizing Bit Storage with 3D-Printed Holograms in Common Materials - Keys, Addresses Up to 576 Bits Achieved!
-date: 2024-08-06 23:24:33
-updated: 2024-08-08 10:21:24
+date: 2024-08-08T04:23:13.073Z
+updated: 2024-08-09T04:23:13.073Z
 tags:
   - printer
 categories:
@@ -27,6 +27,9 @@ There is no shortage of ways to store and encode data in the ever-evolving field
 
 **MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "Noctua's Newest Lineup: Meet the Home Series - Spotlight on the Exceptional $100 NV-FS1 Desk Cooler"
-date: 2024-08-08 17:31:34
-updated: 2024-08-09 10:55:34
+date: 2024-08-08T04:23:32.020Z
+updated: 2024-08-09T04:23:32.020Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

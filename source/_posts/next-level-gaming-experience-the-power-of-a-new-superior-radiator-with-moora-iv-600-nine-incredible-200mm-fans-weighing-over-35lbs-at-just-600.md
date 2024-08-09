@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Gaming: Experience the Power of a New Superior Radiator with MOORA IV 600 - Nine Incredible 200Mm Fans, Weighing Over 35Lbs at Just $600"
-date: 2024-08-06 18:13:50
-updated: 2024-08-09 11:46:49
+date: 2024-08-08T04:23:07.114Z
+updated: 2024-08-09T04:23:07.114Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->

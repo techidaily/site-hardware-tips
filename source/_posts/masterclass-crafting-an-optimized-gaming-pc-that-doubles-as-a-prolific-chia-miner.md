@@ -1,7 +1,7 @@
 ---
 title: "Masterclass: Crafting an Optimized Gaming PC That Doubles as a Prolific Chia Miner"
-date: 2024-08-07 14:17:25
-updated: 2024-08-08 11:47:40
+date: 2024-08-08T04:23:01.367Z
+updated: 2024-08-09T04:23:01.367Z
 tags:
   - best-picks
 categories:
@@ -32,8 +32,14 @@ Whether you’re shopping for the best RAM for gaming to upgrade a PC that’s s
 * **Want the best plug-and-play experience?** If you want to avoid minimum to zero manual intervention, choose a memory kit that coincides with the official memory frequency supported by your processor. For example, DDR5-5200 is the baseline for AMD's[Zen 4](https://www.tomshardware.com/news/amd-zen-4-ryzen-7000-release-date-specifications-pricing-benchmarks-all-we-know-specs) chips, whereas DDR5-5600 or DDR4-3200 is for Intel's 13th Generation[Raptor Lake](https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs) and 14th Generation[Raptor Lake Refresh](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) processors.
 * **Do you own a Raptor Lake or Raptor Lake Refresh CPU?** Remember that Raptor Lake and Raptor Lake Refresh processors natively support DDR4-3200 on Gear 1\. It's down to the silicon lottery if your chip can keep higher data rates on Gear 1\. However, DDR5 operates in Gear 2 by default regardless of the frequency.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best RAM For Gaming You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Performance 32GB DDR5 Kit: G.Skill Trident Z5 Neo RGB DDR5-6000](https://cdn.mos.cms.futurecdn.net/exZDq4Tjhe2Vo5iBGTF9AT-320-80.jpg)
 
  Best Performance 32GB DDR5 Kit: G.Skill Trident Z5 Neo RGB DDR5-6000  (Image credit: G.Skill)
@@ -88,10 +94,16 @@ Early adopter price
 
  Read:[G.Skill Trident Z5 RGB DDR5-6000 C30 review](https://www.tomshardware.com/reviews/gskill-trident-z5-neo-rgb-ddr5-6000-c30-review-perfect-together-with-ryzen-7000)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Best 32GB DDR5 Kit: G.Skill Trident Z5 RGB DDR5-6000](https://cdn.mos.cms.futurecdn.net/degw3Lvegt8gj8XrWtGJ4R-320-80.jpg)
 
  Best 32GB DDR5 Kit: G.Skill Trident Z5 RGB DDR5-6000  (Image credit: G.Skill)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. G.Skill Trident Z5 RGB DDR5-6000 (2 x 16GB)
 
 Best 32GB DDR5 Kit
@@ -206,6 +218,9 @@ May not work with all CPUs
 
  Read:[Corsair Vengeance DDR5-5200 C38 review](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-ddr5-5200-c38-4x48gb-review)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![G.Skill Trident Z5 RGB DDR5-6400](https://cdn.mos.cms.futurecdn.net/AqUs22oojp4KHG9MrWDS8i-320-80.jpg)
 
  Best 96GB DDR5 Kit: G.Skill Trident Z5 RGB DDR5-6400  (Image credit: G.Skill)
@@ -260,6 +275,9 @@ Lacks AMD EXPO support
 
  Read:[G.Skill Trident Z5 RGB DDR5-6400 C32 review](https://www.tomshardware.com/pc-components/ram/gskill-trident-z5-rgb-ddr5-6400-c32-2x48gb-review)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Best 32GB DDR5-4800 Kit: Samsung DDR5-4800](https://cdn.mos.cms.futurecdn.net/gqPTThSjXFoYdXi2P6Jn7R-320-80.jpg)
 
 Best 32GB DDR5-4800 Kit: Samsung DDR5-4800  (Image credit: Samsung)
@@ -324,6 +342,9 @@ Limited retailer availability
 
  Read:[Samsung DDR5-4800 C40 review](https://www.tomshardware.com/reviews/samsung-ddr5-4800-c40-review)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Best 16GB Kit For Ryzen Owners: TeamGroup T-Force Xtreem ARGB DDR4-3600](https://cdn.mos.cms.futurecdn.net/bqaDXBL4MaXbh8yejJGWji-320-80.jpg)
 
  Best 16GB Kit For Ryzen Owners: TeamGroup T-Force Xtreem ARGB DDR4-3600  (Image credit: TeamGroup)
@@ -388,10 +409,16 @@ Limited availability
 
 **Read:** [TeamGroup T-Force Xtreem ARGB DDR4-3600 review](https://www.tomshardware.com/reviews/team-group-t-force-xtreem-argb-ddr4-3600-cl14-2x8gb-review)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best High-Speed 16GB Kit: Patriot Viper Steel DDR4-4400](https://cdn.mos.cms.futurecdn.net/L42kMBPBG2WqJXmCac2DRL-320-80.jpg)
 
  Best High-Speed 16GB Kit: Patriot Viper Steel DDR4-4400  (Image credit: Patriot)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Patriot Viper Steel DDR4-4400 (2 x 8GB)
 
 Best High-Speed 16GB Kit
@@ -520,10 +547,16 @@ Patriot RGB software free for download
 
 **Read:** [Patriot Viper RGB DDR4-3600 review](https://www.tomshardware.com/reviews/patriot-viper-rgb-ddr4-3600-16gb-dual-channel-kit,5648.html)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Overclocker Value 16GB Kit: Patriot Viper 4 DDR4-3400](https://cdn.mos.cms.futurecdn.net/EetJfJWvt2WwBkatvqNePV-320-80.jpg)
 
  Best Overclocker Value 16GB Kit: Patriot Viper 4 DDR4-3400  (Image credit: Patriot)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 9\. Patriot Viper 4 DDR4-3400 (2 x 8GB)
 
 Best Overclocker Value 16GB Kit
@@ -640,6 +673,9 @@ White light diffusers cast pastel hues
 
  Best Two-DIMM 32GB Kit: Patriot Viper Steel DDR4-3200  (Image credit: Patriot)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### 11\. Patriot Viper Steel DDR4-3200 (2 x 16GB)
 
 Best Two-DIMM 32GB Kit
@@ -700,6 +736,9 @@ Some buyers want RGB
 
 **Read:** [Patriot Viper Steel DDR4-3200 review](https://www.tomshardware.com/reviews/patriot-viper-steel-dram-2x-16gb-ddr4-3200-c16,6140.html)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Two-DIMM 64GB Kit: Patriot Viper Steel DDR4-3200](https://cdn.mos.cms.futurecdn.net/L42kMBPBG2WqJXmCac2DRL-320-80.jpg)
 
  Best Two-DIMM 64GB Kit: Patriot Viper Steel DDR4-3200  (Image credit: Patriot)
@@ -756,6 +795,9 @@ Perfect for boards with two RAM slots
 
 **Read:** [Patriot Viper Steel DDR4-3600 C18 2x32GB review](https://www.tomshardware.com/reviews/patriot-viper-steel-series-ddr4-3600-ram-kit-review)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best High-Speed 32GB Kit for Manual Tuning: G.Skill Trident Z Neo DDR4-3600](https://cdn.mos.cms.futurecdn.net/QXPYwckKooUZtfryoZmyN8-320-80.jpg)
 
  Best High-Speed 32GB Kit for Manual Tuning: G.Skill Trident Z Neo DDR4-3600  (Image credit: G.Skill)
@@ -1066,6 +1108,10 @@ Round up of today's best deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

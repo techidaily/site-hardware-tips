@@ -1,7 +1,7 @@
 ---
 title: "$600 High-Capacity Liquid Cooler with Industrial Strength: MO-RA IV S Six Thousand Pound Radiator, Nine Top-of-the-Line Fans at Less than Seven Hundred Dollars"
-date: 2024-08-08 16:21:41
-updated: 2024-08-09 10:22:50
+date: 2024-08-08T04:23:02.717Z
+updated: 2024-08-09T04:23:02.717Z
 tags:
   - cooling
 categories:
@@ -21,6 +21,16 @@ A recent Zillow listing has us scratching our heads, but perhaps there is a data
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![Data center house on Zillow](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Keller Williams)
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Data center house on Zillow](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Keller Williams)
@@ -29,18 +39,23 @@ A recent Zillow listing has us scratching our heads, but perhaps there is a data
 
  (Image credit: Keller Williams)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Data center house on Zillow](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Keller Williams)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Data center house on Zillow](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Keller Williams)
 
-![Data center house on Zillow](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Keller Williams)
-
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Data center house on Zillow](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Keller Williams)
@@ -51,6 +66,9 @@ A recent Zillow listing has us scratching our heads, but perhaps there is a data
 
  If you'd like to commit to a messy mineral oil cooling system, operate a company out of a residential-zoned area, or just buy the biggest block of acreage in this Dallas suburb, the Zillow listing can be found[here](https://www.zillow.com/homedetails/13229-Southview-Ln-Dallas-TX-75240/118222349%5Fzpid/?utm%5Fsource=zillowgonewild&utm%5Fmedium=zillowgonewild&utm%5Fcampaign=zillowgonewild) (or feel free to just gawk at the listing for yourself; the photos tell a strange story).
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

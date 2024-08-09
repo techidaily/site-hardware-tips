@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Comprehensive Computer and Electronics Guides"
-date: 2024-08-07 18:24:35
-updated: 2024-08-08 12:49:46
+date: 2024-08-08T04:23:16.679Z
+updated: 2024-08-09T04:23:16.679Z
 tags:
   - printer
 categories:
@@ -27,6 +27,9 @@ Phrozen’s design team is swinging for the fences with their first ever FDM 3D 
 
  It will come with a custom slicer, dubbed PIXUP Slicer. Phrozen is also working on a library of files and an app for remote access. The machine comes with both a USB port and WiFi, and as it is running open source Klipper, will not need internet access to function.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

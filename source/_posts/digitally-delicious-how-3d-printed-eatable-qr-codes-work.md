@@ -1,7 +1,7 @@
 ---
 title: "Digitally Delicious: How 3D-Printed, Eatable QR Codes Work"
-date: 2024-08-07 23:48:53
-updated: 2024-08-08 12:46:36
+date: 2024-08-08T04:23:23.590Z
+updated: 2024-08-09T04:23:23.590Z
 tags:
   - printer
 categories:
@@ -44,3 +44,8 @@ Black Friday doesn't officially arrive for a couple more days, but the best deal
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->

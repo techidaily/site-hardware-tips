@@ -1,7 +1,7 @@
 ---
 title: "Introducing Cooler Master's 'AI Thermal Paste': Next-Gen Nanodiamond Tech for Superior PC Cooling in CryoFuze 5"
-date: 2024-08-06 21:26:10
-updated: 2024-08-09 11:17:41
+date: 2024-08-08T04:23:13.061Z
+updated: 2024-08-09T04:23:13.061Z
 tags:
   - cooling
 categories:
@@ -17,10 +17,16 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
@@ -47,6 +53,14 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  However, our limited experience with Valkyrie CPU air coolers hasn’t been the best. Back in June, we reviewed the premium-priced ($72)[Valkyrie Vind SL125](https://www.tomshardware.com/pc-components/air-cooling/valkyrie-vind-sl125-review) CPU air cooler and while we liked the anime aesthetics, the product was a so-so performer and could get loud. If you care about products meeting their touted performance and noise, it may be wise to wait for a third-party reviewer to pass judgment on the Valkyrie AL125.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

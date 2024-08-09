@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gadgets: The Ultimate Tom's Technology Hub"
-date: 2024-08-08 10:21:33
-updated: 2024-08-09 10:54:18
+date: 2024-08-08T04:23:14.261Z
+updated: 2024-08-09T04:23:14.261Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,9 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

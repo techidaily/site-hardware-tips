@@ -1,7 +1,7 @@
 ---
 title: Leading Choices in 3D Printing Materials - 2024 Edition
-date: 2024-08-05 13:16:33
-updated: 2024-08-08 11:20:37
+date: 2024-08-08T04:23:20.932Z
+updated: 2024-08-09T04:23:20.932Z
 tags:
   - printer
 categories:
@@ -23,6 +23,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  I would still recommend the Anycubic Kobra 2 Max over the previous[Kobra Max](https://www.tomshardware.com/reviews/anycubic-kobra-max) for the increase in speed and the more forgiving flexible built surface. Despite its flaws, it worked well on most materials once I got past the early firmware issues and figured out my own (slower) speed settings. The bed leveling issues and lack of fast profiles in the printer’s own custom slicer prevents me from putting it on the list of[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) .
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications: Anycubic Kobra 2 Max
 
  Swipe to scroll horizontally
@@ -40,8 +43,14 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 | **Machine Footprint**      | 735 x 640 x 740 mm (28.9x25.1 x 29.1inches)   |
 | **Machine Weight**         | 21 KG (46.3 lbs)                              |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Included in the box: Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4ZsPyqu2r2NYMAn7fDRKMC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -50,6 +59,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  There’s a paper copy of the quick start guide to help you build the printer. The printer has sample models in the memory, and the UBB card has a PDF copy of the manual, Anycubic Slicer and a profile for PLA to get you started.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
@@ -76,6 +88,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Removing the filament works the same, just in reverse. Let the hotend preheat, select Filament Remove and let the gears back the filament out. Feel free to manually pull the filament out of the Bowden tube as soon as it’s left the hotend.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/zxKpUzUZPxsNhyuXx9kDxB-320-80.jpg)
@@ -96,8 +111,14 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  The touch screen is the same 4.3-inch display Anycubic has used for the last several years. The menu is still very easy to navigate for beginners, with options in logical locations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4GQbb2fqoUPZGRxNwHD5XC-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -106,6 +127,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Anycubic has recently launched a mobile app to accompany their printers, but I did not find it very useful. Without a camera or the ability to change the printer’s settings, all it can do is announce prints are done. Anycubic is still working on the app, and claims you will soon have more control, the ability to monitor prints and slice models from your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Printing with the Anycubic Kobra 2 Max
 
  Big printers mean big prints, so knowing where to get the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) is essential. The Kobra 2 Max only came with a sample coil, so you’ll want to stock up immediately.
@@ -132,6 +156,9 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
  TPU was less successful. On this vase mode print, it started off very smooth and clear, but then started to under extrude as the layers took less time to complete. This was printed at a 100 mm/s speed using a .28 layer height, and took 1 hour and 37 minutes to print.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/FhGsvg7cncbhfEtsgT7EtC-320-80.jpg)
 
 [_Vase Mode Ship_](https://www.printables.com/model/235746) _, by LJ Prints_  (Image credit: Tom's Hardware)

@@ -1,7 +1,7 @@
 ---
 title: Precision Hardware Analysis by Tom
-date: 2024-08-06 16:10:42
-updated: 2024-08-09 12:13:14
+date: 2024-08-08T04:23:21.832Z
+updated: 2024-08-09T04:23:21.832Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Users of Intel CPUs spanning 12th Gen to 14th Gen who[dare to delid](https://www
   
 **Correction, May 22, 2024:**   _This article previously misstated the CPU in Thermal Grizzly's custom loop. We regret the error._
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Cools Up To 280W Processors: The XPG Hybrid Dual-Fan Cooler with Pump, Loop & Radiator"
-date: 2024-08-06 19:14:12
-updated: 2024-08-09 10:23:46
+date: 2024-08-08T04:23:26.645Z
+updated: 2024-08-09T04:23:26.645Z
 tags:
   - cooling
 categories:
@@ -25,14 +25,23 @@ German PC component manufacturer[be quiet!](https://www.bequiet.com/en/) brought
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The be quiet! Light Base 900 PC case  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Light Base 900 placed horizontally  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![be quiet Light Base 900 case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Removable feet allow orienting the Light Base 900 in a variety of positions  (Image credit: Tom's Hardware)
@@ -52,12 +61,23 @@ __be quiet! Light Base case pricing and availability__
 
  The slightly smaller cousin, the Light Base 600 DX, offers the same benefits as the larger variant. Again, the case supports rear I/O plates on the motherboard and includes an ARGB light strip. The smaller footprint still allows for radiators up to 360mm. The Light Base 600 DX does not include preinstalled fans, but the 600 LX variant comes with four preinstalled Light Wings LX 140mm PWM fans.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![be quiet Light Base 600 case](https://cdn.mos.cms.futurecdn.net/a7Nr9VE4xQUuLb9cNYn7hE-320-80.jpg)
 
  The slightly smaller Light Base 600 case, by be quiet!  (Image credit: Tom's Hardware)
 
  The updated Light Wings LX fans offer high airflow while operating quietly and feature reverse fan blades for the side fans. Because of this, the fan's more aesthetically pleasing front side is facing out for all to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -66,6 +86,9 @@ __be quiet! Light Base case pricing and availability__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Light Wings LX case fans](https://cdn.mos.cms.futurecdn.net/NWSSnnfg9Avnuh5hjMoPvR-320-80.jpg)
 
  (Image credit: Tom's Hardware)

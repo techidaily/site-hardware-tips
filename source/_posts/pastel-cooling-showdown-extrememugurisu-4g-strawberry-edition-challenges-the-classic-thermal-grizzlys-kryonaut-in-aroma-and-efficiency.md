@@ -1,7 +1,7 @@
 ---
 title: "Pastel Cooling Showdown: ExtremeMUGURISU 4G Strawberry Edition Challenges the Classic Thermal Grizzly's Kryonaut in Aroma and Efficiency"
-date: 2024-08-08 21:17:18
-updated: 2024-08-09 11:11:54
+date: 2024-08-08T04:23:34.393Z
+updated: 2024-08-09T04:23:34.393Z
 tags:
   - cooling
 categories:
@@ -19,6 +19,9 @@ Lamptron (via[Caseking](https://go.redirectingat.com/?id=92X1584492&xcust=tomsha
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -27,18 +30,30 @@ Lamptron ST060  (Image credit: Caseking)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -51,6 +66,9 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

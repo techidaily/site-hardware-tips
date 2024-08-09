@@ -1,7 +1,7 @@
 ---
 title: Challenges of Creating Functional Guns Through 3D Printing - A First-Hand Experience
-date: 2024-08-06 17:37:13
-updated: 2024-08-08 12:13:47
+date: 2024-08-08T04:23:24.225Z
+updated: 2024-08-09T04:23:24.225Z
 tags:
   - printer
 categories:
@@ -25,12 +25,18 @@ Six months after joining – and winning — the race for the[fastest consumer 3
 
  K1C has an all-metal extruder kit and a new “Unicorn” nozzle with an integrated heat break. The nozzle is an obvious nod to[E3D’s revolutionary Revo](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Fbluettifr.pxf.io%2Fbax2bv) and[Prusa’s one piece MK4 nozzle](https://www.tomshardware.com/reviews/prusa-mk4) . All three nozzles promise to prevent heat creep and nasty leaks, while being easily changed without tools.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality](https://cdn.mos.cms.futurecdn.net/78b3soVfmXJvvJ8ihKojE9-320-80.jpg)
 
  (Image credit: Creality)
 
  Like the K1, the K1C will come pre-assembled for a plug and play experience. Its auto leveling includes the ability to set its own Z height for a perfect first layer, and auto-calibration will handle all the tuning. The K1C will also come standard with an A1 camera to watch for errors and provide real-time monitoring and time-lapse filming.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: Why You Need a Super Light GaN Interior USB-C Charger for Your Laptop - Top Picks
-date: 2024-08-05 14:31:33
-updated: 2024-08-08 11:18:40
+date: 2024-08-08T04:23:33.385Z
+updated: 2024-08-09T04:23:33.385Z
 tags:
   - best-picks
 categories:
@@ -17,6 +17,9 @@ If you own a lightweight laptop, you've probably noticed that the charger it com
 
  The marketplace is flooded with GaN-powered USB-C laptop chargers with wattages that go all the way up to 100 watts (the maximum allowed by the current USB Power Delivery standard). But not all of these adapters are created equal, with significant differences not only in design and ports, but also in the amount of wattage they can deliver, which is often higher and sometimes a little lower than advertised. In order to help you find the best USB-C laptop chargers, we’ve tested the latest GaN-powered models from major brands such as Anker, Aukey, IOGear and RAVPower.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## USB-C Laptop Charger Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -27,10 +30,17 @@ If you own a lightweight laptop, you've probably noticed that the charger it com
 
 ## Best USB-C Laptop Chargers You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Aukey Omnia 65W (PA-B4)](https://cdn.mos.cms.futurecdn.net/56bbcSSXTLyQFEjCdvopK4-320-80.jpg)
 
 Aukey Omnia 65W (PA-B4)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Aukey Omnia 65W (PA-B4)
 
 Best Laptop USB-C Charger Overall
@@ -77,6 +87,9 @@ Super thin and light
 
  Better still, the Omnia PA-B4 offers up to 15 watts of juice from its second USB-C port (only the top port can be used for max wattage), which is more than enough to charge a second device or comfortably power a Raspberry Pi 4\. The primary port will emit less power, however, if a second device is plugged in. In our case, we pushed the primary port 50 watts under those conditions, though Aukey only advertises a maximum of 45 watts.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Aukey Omnia 100W (PA-B5)](https://cdn.mos.cms.futurecdn.net/w8rs9Ujgpvefv99E9MntxY-320-80.jpg)
 
 Aukey Omnia 100W (PA-B5)  (Image credit: Tom's Hardware)
@@ -125,6 +138,9 @@ Can output a full 113.7W
 
  Perhaps just as important as the Aukey PA-B5's output is its size and weight. This wall wart is just 2.24 x 2.24 x 1.26 inches and 5.3 ounces, which compares very favorably to the RAVPower Pioneer 90W (RP-PC128) that tips the scales at 6.7 ounces with dimensions of 2.5 x 2.5 x 1.2 inches.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Aukey Omnia 61W (PA-B2)](https://cdn.mos.cms.futurecdn.net/oYeeCRPZx628sCJnDV8vBc-320-80.jpg)
 
 Aukey Omnia 61W (PA-B2)  (Image credit: Tom's Hardware)
@@ -219,6 +235,9 @@ Can’t sustain top wattage
 
  At 64 watts, one below its rated maximum, the RAVPower Pioneer RP-PC133 maintained a skin temperature of just 119 degrees Fahrenheit (48.3 Celsius), which is pleasantly cool compared to most chargers we tested.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![IOGear GearPower 60W (GPAWC60W)](https://cdn.mos.cms.futurecdn.net/NZVFKnr6zR83z3rHSZnjpf-320-80.jpg)
 
 IOGear GearPower 60W (GPAWC60W)  (Image credit: Tom's Hardware)
@@ -268,6 +287,9 @@ Expensive
 * [**RAVPower Pioneer 61W (RP-PC112**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FRAVPower-Charging-Delivery-Foldable-Compatible%2Fdp%2FB07TC53ZYD%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8104913839223009445-20) **):** This 61-watt charger isn’t as small as the Aukey Omnia PA-B2, but it gets significantly warmer after 20 minutes running at 59 watts. It can hit a full 69.48 watts for a time, but it can’t sustain that wattage and will shut down before 20 minutes have passed.
 * [**RAVPower Pioneer 90W (RP-PC128)**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCharger-RAVPower-Charging-Compatible-Nintendo%2Fdp%2FB083ZBXXN5%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5279327787693580387-20) **:** In theory, this charger would be a decent one, because it has dual USB-C ports. However, it can’t exceed its 90-watt rated maximum for any length of time and, considering that the most powerful MacBook Pros now use 96-watt chargers, it’s hard to recommend this over the Aukey PA-B5, which is rated for 100 watts and can deliver far more.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How We Tested
 
  To see how each USB-C Laptop Charger performed, we attached it to a[MakerHawk](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FMakerHawk-Electronic-Adjustable-Intelligent-Resistance%2Fdp%2FB07F3NHHST%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1348166453158950006-20) load tester.[l](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FMakerHawk-Electronic-Adjustable-Intelligent-Resistance%2Fdp%2FB07F3NHHST%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6211331945596155693-20) . In order to get the chargers to perform, we had to run them through a USB PD trigger chip, which allowed us to turn their voltage mode up to the 19 - 20V range that's required for laptop charging. Then we turned the dials on the load tester until we reached the maximum amperage each could deliver and then set a timer for 20 minutes to see if the charger could sustain this wattage and how hot it got after that time.
@@ -314,6 +336,9 @@ Round up of today's best deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

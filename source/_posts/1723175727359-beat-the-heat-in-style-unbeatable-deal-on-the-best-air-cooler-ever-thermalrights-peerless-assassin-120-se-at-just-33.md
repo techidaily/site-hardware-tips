@@ -1,7 +1,7 @@
 ---
 title: Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33
-date: 2024-08-08 12:10:42
-updated: 2024-08-09 12:33:54
+date: 2024-08-08T04:23:07.310Z
+updated: 2024-08-09T04:23:07.310Z
 tags:
   - cooling
 categories:
@@ -50,3 +50,7 @@ One of our favorite air coolers, thanks to its impressive performance and superb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->

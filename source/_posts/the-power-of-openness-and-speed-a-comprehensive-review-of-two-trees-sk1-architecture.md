@@ -1,7 +1,7 @@
 ---
 title: "The Power of Openness and Speed: A Comprehensive Review of Two Trees SK1 Architecture"
-date: 2024-08-07 21:52:45
-updated: 2024-08-08 10:13:39
+date: 2024-08-08T04:23:34.446Z
+updated: 2024-08-09T04:23:34.446Z
 tags:
   - printer
 categories:
@@ -23,6 +23,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  I would still recommend the Anycubic Kobra 2 Max over the previous[Kobra Max](https://www.tomshardware.com/reviews/anycubic-kobra-max) for the increase in speed and the more forgiving flexible built surface. Despite its flaws, it worked well on most materials once I got past the early firmware issues and figured out my own (slower) speed settings. The bed leveling issues and lack of fast profiles in the printer’s own custom slicer prevents me from putting it on the list of[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications: Anycubic Kobra 2 Max
 
  Swipe to scroll horizontally
@@ -42,6 +45,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ## Included in the box: Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4ZsPyqu2r2NYMAn7fDRKMC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -50,6 +56,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  There’s a paper copy of the quick start guide to help you build the printer. The printer has sample models in the memory, and the UBB card has a PDF copy of the manual, Anycubic Slicer and a profile for PLA to get you started.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Assembling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
@@ -60,8 +69,14 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Please note, the Kobra 2 Max has two Y axis belts. You’ll want to make sure each belt has about the same amount of tension for smooth printing. It takes about 30 minutes to carefully assemble.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Leveling the Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/KP58JTX4y2LWi7y8a7NA5D-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -70,6 +85,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  To level the bed, select Control → Auto-level. The machine will home itself, preheat and then double tap 49 spots in a grid across the bed surface.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament in the Anycubic Kobra 2 Max
 
  To load filament, press Prepare on the main menu. Select Filament. Now select Filament In or Filament Remove. The machine will now heat up to 230 C, taking about 60 seconds. Put your spool on the spool holder, and place the end of the filament into the runout sensor. Press Filament In and wait for the filament to be pulled to the extruder, or pinch the tension release on the front of the extruder and push it through by hand. Press Stop when the filament is coiling below the hotend.
@@ -78,6 +96,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
 ## Design of the Anycubic Kobra 2 Max
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/zxKpUzUZPxsNhyuXx9kDxB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -120,6 +141,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  Everywhere else, the print is clean. The little duck (at 100%) took 1 hour and 35 minutes, while the big duck (at 400% and 425mm tall), 22 hours and 43 minutes. Both were printed at 230 mm/s with .28 layer height and lightning infill. The failed print ate into my supply of[Inland Yellow Pla+](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-PLA-Printer-Filament%2Fdp%2FB081S6L18J%2Fref%3Dasc%5Fdf%5FB081S6L18J%2F%3FlinkCode%3Ddf0%26hvadid%3D459662621197%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D16727744446955775203%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-955336668852%26mcid%3De30f547730933e0bbd4bacfab03fd6a0%26gclid%3DCjwKCAiA1MCrBhAoEiwAC2d64TOScv8MUb%5FBDkSXPE3scZzhbGYrX3eh3SCD8QFkTrnB42vowSZYKBoCtI0QAvD%5FBwE%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1485920082472074590-20) , so we switched to Printerior orange halfway through.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/N6QEzKnBBdR9ZMvGotUjmB-320-80.jpg)
 
 [_Rubber Duck_](https://www.thingiverse.com/thing:4820726) _by Chr5500_  (Image credit: Tom's Hardware)
@@ -136,6 +160,9 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
 [_Vase Mode Ship_](https://www.printables.com/model/235746) _, by LJ Prints_  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Anycubic Kobra 2 Max is a massive machine reasonably priced at $569 and currently on sale for $519\. It’s a good fit for prop makers and cosplayers who want to make large costume pieces without needing to slice up their printers. You do have to be in the mood to tinker with the slicer to get the best balance of speed and precision.

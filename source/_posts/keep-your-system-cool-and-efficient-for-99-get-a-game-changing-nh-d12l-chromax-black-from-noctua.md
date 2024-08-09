@@ -1,7 +1,7 @@
 ---
 title: Keep Your System Cool and Efficient for $99 - Get a Game-Changing NH-D12L Chromax Black From Noctua
-date: 2024-08-06 20:54:23
-updated: 2024-08-09 11:38:32
+date: 2024-08-08T04:23:06.995Z
+updated: 2024-08-09T04:23:06.995Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,9 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: Tom's Guide to Selecting Top-Tier Hardware Solutions
-date: 2024-08-06 20:10:44
-updated: 2024-08-08 11:22:55
+date: 2024-08-08T04:23:28.039Z
+updated: 2024-08-09T04:23:28.039Z
 tags:
   - printer
 categories:
@@ -78,8 +78,15 @@ Today's best Creality K1C deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Creality K1C: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/UfKoS2qJ5iSaQ3DCfMERfN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -90,6 +97,9 @@ Today's best Creality K1C deals
 
 ## Design of the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -132,6 +142,10 @@ Today's best Creality K1C deals
 
  The Creality K1C is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew three screws holding the build plate on, plug in the touch screen, screw on the filament holder and pop a filter on the back of the machine.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Leveling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/PZnS2qBbd56RiRcNEKUAMM-320-80.jpg)
@@ -140,6 +154,9 @@ Today's best Creality K1C deals
 
  The Creality K1C has a fully auto leveling program that includes input shaping with the help of built-in sensors. Just push the button and the machine does the rest. It will also recheck the level before each print, but you can turn that feature off during slicing if you’re comfortable skipping the step.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Loading Filament on the Creality K1C
 
  Loading filament is a little awkward with the back-mounted spool holder. The side mounted spool holder makes it easier, but you’ll need to print it first. The K1C has a reverse Bowden, which is a tube that guides the filament from the run out sensor at the back corner of the machine, across the top and into the extruder.
@@ -162,6 +179,9 @@ Reverse the process to remove the filament.
 
  The device tab can also be accessed by entering your printer’s IP address. This also allows you to drag and drop files from other slicers directly to your printer. There are no built-in profiles for Cura or PrusaSlicer at this time, though they are easy enough to make using an Ender 3 as the base.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Printing on the Creality K1C
 
  The Creality K1C comes with a sample roll of[Hyper PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-3D-Printing-Dimensional%2Fdp%2FB0BXGGYPQ2%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dcreality%252Bhyper%252Bpla%26qid%3D1686943712%26sprefix%3Dcreality%252Bhy%252Caps%252C167%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1441923381194637376-20) , Creality’s high-speed filament, which promises high strength and smooth prints while running at speeds up to 600 mm/s. If you want more colors and materials like silks and multicolor filaments, you should check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for suggestions.
@@ -176,12 +196,19 @@ Reverse the process to remove the filament.
 
  Creality sent a spool of[high speed carbon fiber PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-High-Speed-Toughness-Dimensional%2Fdp%2FB0CLTYQP4L%2Fref%3Dsr%5F1%5F4%3Fcrid%3D8OYQEKCEW6WF%26dib%3DeyJ2IjoiMSJ9.FI2zQhPo5wO4rf995czUGWD05eYPkFqkO-3fTpeFo6OfGk6NAhner3pfSqYy3dH1Cvtzczvdoz0eBL12gYmPUx2i%5FXf2-tz%5FE2iYRzma6YDcLcqJ2bS3JZNtUsF%5F9DrSWc1JgPluFn2rsvxjqHOR2RhIrmmmfidAQyIFkTyAEjRigef1Wcqhnkajfws6N3inhXpMlq3vSxA2AukRNR-nxuvPj1XQuSeqj3MI4y3-0dM.VCGg28PaqmKrLcXg8dh-IvVG7cumgTgtcNQ-7DjjzHo%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bcarbon%252Bfiber%252Bfilament%26qid%3D1712701274%26sprefix%3Dcreality%252Bcarbo%252Caps%252C526%26sr%3D8-4%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456677865623603382-20) for testing, so I used it to make a side mounted spool holder that I found on the USB stick. One of Carbon Fiber’s benefits is masking layer lines and this print is not only strong but especially smooth. It printed quickly in 52 minutes and 36 seconds, using Creality default settings and a .2mm layer height.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/gaymHJoVUFV2rnFTjNpqVN-320-80.jpg)
 
 _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
  To test out PETG, I printed a seat for an RC car in[ProtoPasta Empire Strikes Black PETG](https://proto-pasta.com/collections/all/products/empire-strikes-black-petg) . The seat printed amazing with smooth layers. It only took an hour and 14 minutes, with a .2 mm layer line and Creality Slicer’s default PETG settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/jZ78ShYRhnctovshCQM5tM-320-80.jpg)
 
 [_Death Racer Seat_](https://www.patreon.com/mrbaddeley/posts) _by Michael Baddeley_  (Image credit: Tom's Hardware)
@@ -194,10 +221,16 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
  I ran more parts for the RC car in both Nylon and ABS, and the printer was able to print this material well without any warping. I only used a healthy amount of glue stick on the build plate, which you’re supposed to do anyway for this style of bed surface. These were printed using[Inland ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Black-Printer-Filament%2Fdp%2FB00WX4UONO%2Fref%3Dsr%5F1%5F3%3Fcrid%3D1ASJ476AKHGFY%26dib%3DeyJ2IjoiMSJ9.Bf%5FTTu-%5Fa3U7vmrO2PYu9EsWLYLhL-Plx2zLdOtaJc6Tf23tZBg3at5v9AUirqwUwct1buCtdE%5FpycTYq%5FrS0HIiJ%5FHFsVKw17gaejWy5XO15%5FpK3-kPjKqu4yvJqK7gRPGMSfHKu7eLmuBtrOCeZj0BYct3zsqm80ooJ1K8ozicMx5sEp35XNJ76tjbQtpVI766mbBR8mld68IFiOjxmNkE-JfTEinbesPTViQO9Nk.5MCIBqOLUSuCkH%5Fk0kMr2MdsmQCUokC85J8flrKP-eI%26dib%5Ftag%3Dse%26keywords%3Dinland%252Babs%26qid%3D1712703177%26sprefix%3Dinland%252Babs%252Caps%252C143%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1017746780174986647-20) with a .2 layer height and Creality Print’s default ABS settings. The entire plate of parts printed in 2 hours and 47 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/7AusoMr9NoagoP2Zo4oSCN-320-80.jpg)
 
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Creality K1C is an excellent printer for makers who want a fast, fully-enclosed Core XY 3D printer in a single color. The recent announcement of the four color K2 lineup might give you pause, especially if you can wait a few more months. We have not reviewed the K2 yet, but we feel it's unlikely that the K1 can be upgraded to the new color system.

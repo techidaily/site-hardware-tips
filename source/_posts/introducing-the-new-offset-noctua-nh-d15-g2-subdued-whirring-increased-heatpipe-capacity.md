@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Offset Noctua NH-D15 G2: Subdued Whirring, Increased Heatpipe Capacity"
-date: 2024-08-08 10:53:23
-updated: 2024-08-09 10:34:17
+date: 2024-08-08T04:23:04.385Z
+updated: 2024-08-09T04:23:04.385Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,9 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Most methods of thermal paste installation work about the same, but the final application actually ends up with an uneven distribution on the CPU's IHS and often leaves part of the IHS without paste, which isn't optimal. X-Apply looks to fill those gaps with a special stencil.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Intel version of X-Apply, mid-application. A spatula is used to flatten paste into stenciled gaps..](https://cdn.mos.cms.futurecdn.net/upgTTpBBWKEg9p2m26Y6yn-320-80.jpg)
 
  (Image credit: Igor's Lab)
@@ -33,6 +36,9 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Thermal testing with a 360mm AIO done by Igor's Lab also points toward X-Apply working well, delivering a roughly 4C reduction in temperatures over standard application methods. That isn't a world-breaking difference, but it does at least show that the stencil applies the paste in a workable fashion. As long as X-Apply isn't gratuitously overpriced, there really doesn't seem to be any harm in these easy TIM applicators. Unfortunately, we won't learn pricing until the product comes to market.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

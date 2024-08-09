@@ -1,7 +1,7 @@
 ---
 title: "Review: A $77 3D Printer From AliExpress Proves Surprisingly Reliable - Testimonials"
-date: 2024-08-05 11:57:12
-updated: 2024-08-08 11:56:24
+date: 2024-08-08T04:23:33.821Z
+updated: 2024-08-09T04:23:33.821Z
 tags:
   - printer
 categories:
@@ -15,8 +15,14 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  As with other 3D printing problems, you need to understand the root cause to know how to address it. Different types of holes and gaps can appear on the print based on the location, size, and structure, and we will look at the main ones and how to solve them.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Holes and Gaps on the Top Section of the Print
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/hizhp3jQoN2EAWHJsY3NPA-320-80.png)
 
  (Image credit: Eliteprint3d)
@@ -29,6 +35,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  As you increase it, you also need to check the[infill patterns](https://www.tomshardware.com/how-to/choose-infill-pattern-for-3d-prints) and ensure that you use one that is not susceptible to pillowing, like gyroid and honeycomb. Adjusting cooling to ensure the layers have enough time to cool is vital. You can adjust the fan speed in the[3D printer slicer](https://www.tomshardware.com/features/6-best-3d-printer-slicers-and-how-to-use-them) and ensure it works as required.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/as8GnfwzxKhA3oP7BwBA8A-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -37,6 +46,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ## 2\. Tiny Holes in the Walls of the 3D Print
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/ohZWqZjArgJmwVqf8fhtu9-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -59,6 +71,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Large Gaps that Result in Layer Separation
 
  When the layers fail to adhere correctly to each other, they can start separating, resulting in visible gaps and cracks and the print becomes weak and you can pull the layers apart. One leading cause of this issue is inadequate layer adhesion due to insufficient nozzle temperature or improper bed adhesion.
@@ -71,6 +86,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can 3D print a[flow calibration cube](https://www.thingiverse.com/thing:4838076) and use it to find the optimal value. You must also lower the layer height (the distance between each layer deposited). The default value is usually 0.2mm. Slowing down the 3D printing speed can also help fix the issue, as it allows for better deposition and improved bonding between the layers. In addition to adjusting those settings, you also need to ensure that the filament you are using is dry as moisture in the filament can cause pressure build-up in the nozzle. When extruded, it might not come out as intended, and this brings problems. You need also to ensure that it has a consistent diameter all through.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Gaps in the First Few Layers of the 3D Print
 
  Gaps in the initial layers of your print can be as a result of an improperly leveled print bed. If the distance between the nozzle and the bed is uneven, it can contribute to the gaps. If it is too close to the bed, for example, it may compress the filament affecting the smooth flow and leading to gaps as the material struggles to extrude.
@@ -99,6 +117,14 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  The above strategies can help address issues related to holes and gaps in your 3D prints. If you have a print that has suffered from these problems, you can salvage it through post-processing activities. One approach is to apply filler material like[Bondo](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fs%3Fk%3Dbondo%26crid%3D18ZZ4URMWWITX%26sprefix%3Db%252Caps%252C1739%26ref%3Dnb%5Fsb%5Fnoss%5F2%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3135570975057401036-20) or[Milliput](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB002CNEWAM%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7059939473745178478-20) to the areas with gaps or holes to refine the appearance and structural integrity. Other strategies like applying acetone vapor smoothing and painting can also help achieve a smoother surface, even though it might not work on all prints.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Related 3D PrintingTutorials
 
 **More:** [5 Ways Fix Z Banding in 3D Printing](https://www.tomshardware.com/how-to/fix-z-banding-in-3d-printing)

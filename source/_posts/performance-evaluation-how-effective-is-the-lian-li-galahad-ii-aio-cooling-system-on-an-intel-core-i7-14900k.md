@@ -1,7 +1,7 @@
 ---
 title: "Performance Evaluation: How Effective Is the Lian Li Galahad II AIO Cooling System on an Intel Core I7 14900K?"
-date: 2024-08-06 19:17:40
-updated: 2024-08-09 11:55:27
+date: 2024-08-08T04:23:23.796Z
+updated: 2024-08-09T04:23:23.796Z
 tags:
   - cooling
 categories:
@@ -36,6 +36,9 @@ Thermal paste maker Clock Work Tea Party (CWTP), known for releasing scented non
 
  Who knows, maybe someone will make a thermal paste that would discourage an[ant infestation](https://www.tomshardware.com/pc-components/thermal-paste/gamer-says-ants-infested-his-pc-to-eat-thermal-paste-and-pads-ants-found-proliferating-in-the-gpu-around-thermal-pad-debris) , which would be more beneficial than a scented thermal paste.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology"
-date: 2024-08-07 23:18:10
-updated: 2024-08-08 10:26:57
+date: 2024-08-08T04:23:26.595Z
+updated: 2024-08-09T04:23:26.595Z
 tags:
   - printer
 categories:
@@ -19,6 +19,9 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
 * [Bambu Lab X1-Carbon at Bambu Lab for $1,199](https://www.shareasale.com/m-pr.cfm?merchantID=138211&userID=1338591&productID=1340234895&afftrack=techidaily&u=4338022&urllink=https%3A%2F%2Flenovo-in.zlvv.net%2Fkj14kn)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Specifications of Bambu Lab X1-Carbon
 
  Swipe to scroll horizontally
@@ -37,10 +40,16 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 | **Connectivity**            | microSD, Wi-Fi                                              |
 | **Interface**               | 5-inch Color Touchscreen LCD                                |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Included in the box: Bambu Lab X1-Carbon
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -57,6 +66,9 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
  The AMS is shipped inside the X1-Carbon, screwed down with a temporary bracket that prevents it from rattling or moving during shipping. Getting the AMS out of the printer requires removing a few bolts, and doesn’t take much time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Assembling the Bambu Lab X1-Carbon
 
  Image 1 of 2
@@ -71,10 +83,17 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
  Assembling the X1-Carbon (including the AMS) takes about 30 minutes from start to finish. The included Quick Start instructions include step-by-step instructions for each subassembly, and there are multiple QR codes which[link to instructional videos](http://youtube.com/watch?v=8Y0vCAYxvrU) showing detailed walkthroughs. Non-technical or first time users shouldn’t run into any major issues, and experienced users will have the X1-Carbon up and running in no time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Leveling the Bambu Lab X1-Carbon
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +114,9 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
  The X1-Carbon has a filament spool bracket on the rear of the printer, which can hold a single spool of filament that feeds directly into the printer. Using the onboard display, filament can be loaded from either the spool holder or the top-mounted AMS. The X1-Carbon will prompt you to indicate the type of material and color when loading, which can be synced to the Bambu Studio slicer app. When running a multicolor print, the LCD will also prompt users to map the print color to the colors currently loaded in the AMS, a helpful feature for visualization.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Bambu Lab X1-Carbon
 
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/wNWXFGt2RRgXrnoiBKPVQ3-320-80.jpg)
@@ -115,6 +137,9 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
  Attached to the front of the hot end is a part cooling fan that splits the exhaust into two vents pointed directly underneath the nozzle. The hotend on the X1-Carbon is a proprietary one, and replacing the nozzle also involves replacing the hotend ([currently available from Bambu Lab for $14.99](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Fmodlily.sjv.io%2Faw92wr) ). It's a time-consuming and complicated process which requires spreading thermal paste to attach the thermistor and screwing in a fan. The fan and thermistor don't come with the hotend so your best bet might be to[spend $35](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Ftinyland.pxf.io%2Forg4ra) on a complete assembly with those parts attached.This hotend is rated up to 300°C with a max volumetric flow of 32mm³/s when using ABS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/6tDU4wUx7QnLyYwZdFduwd-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -125,10 +150,17 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Bambu Lab)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Bambu Lab)
@@ -143,6 +175,9 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
 ## Bambu Lab Automatic Material System (AMS)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/U2iMPKhqp5UUBRWnRKnVFB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -155,6 +190,9 @@ Originally launched as a Kickstarter campaign in May 2022, the Bambu Lab X1-Carb
 
  The AMS is a sleek piece of hardware, with only two visible connections (one PTFE, one wiring terminal) on the rear of the unit. The semi-opaque top cover lifts up to provide access to the spools of filament, making filament changes a quick operation. Sensor-rich and capable of providing real-time feedback, the AMS can detect filament tangles, switch materials upon runout, and use an RFID-based system to detect what material type and color are loaded (Bambu Lab chipped material only).
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/SjowSfzsYfwyxMCmPM6FnH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -169,10 +207,16 @@ _Model:_ [_Frog by Harald Andersson_](https://www.printables.com/model/32108-fro
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -183,6 +227,9 @@ _Model:_ [_Frog by Harald Andersson_](https://www.printables.com/model/32108-fro
 
  There are two main factors to consider when evaluating the print: the quality of the print, and the quality of the color separation. Printed using the 0.2mm Standard X1C profile, the layers are consistent in height, there are no skipped or missed layers, and the overall quality of the model is good. The different colors are evenly separated, and there is no bleed from the dark black material into the green material on the head.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/SFBz5vWPXjdFfm7CdLapuj-320-80.jpg)
 
 _Model:_ [_Frog by Harald Andersson_](https://www.printables.com/model/32108-frog)  (Image credit: Bambu Lab)
@@ -197,12 +244,18 @@ _Model:_ [_Drippy Drum by davemoneysign_](https://www.printables.com/model/18185
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
 _Model:_ [_Drippy Drum by davemoneysign_](https://www.printables.com/model/181857)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -213,6 +266,9 @@ _Model:_ [_Drippy Drum by davemoneysign_](https://www.printables.com/model/18185
 
  If filament use isn’t a primary consideration, the ability to run multiple colored prints in a single build is a compelling use case. The amount of purged material can be reduced in a number of ways including reducing the amount of purged filament, purging into infill, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Build Platform on Bambu Lab X1-Carbon
 
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/XnwshoMLN7n6n7tSnnGNgQ-320-80.jpg)
@@ -239,6 +295,9 @@ _Model:_ [_Drippy Drum by davemoneysign_](https://www.printables.com/model/18185
 
  The Bambu Lab X1-Carbon includes several test prints that are pre-sliced and loaded into the internal memory of the printer. These are a combination of fun and functional, with several tools available (screw thread gauge, cool plate sheet applicator, etc.) and some just for fun (Benchy, soldier with a shield for holding SD cards, etc.).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/5USSuuY8t7ngGmABpVZDzH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -251,6 +310,9 @@ _Model:_ [_Drippy Drum by davemoneysign_](https://www.printables.com/model/18185
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -275,6 +337,9 @@ _Model:_ [_Lord of the Ring MMU AMS by vitaprint 3D_](https://makerworld.com/en/
 
  During printing, the webcam can be used as a live video feed to show print progress, and the estimated time until completion is displayed at the bottom of the screen. A timelapse can also be created, which captures a single frame per layer and stitches them together into a video showing the part being printed from an empty build plate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/Zw8TNSUGRgEwCqm5zg8ivh-320-80.png)
 
 _Model:_ [_Voyager Combadge by Andrew Sink_](https://www.printables.com/model/16608-star-trek-voyager-deep-space-nine-starfleet-combad)  (Image credit: Bambu Lab)
@@ -283,6 +348,9 @@ _Model:_ [_Voyager Combadge by Andrew Sink_](https://www.printables.com/model/16
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -299,12 +367,18 @@ _Model:_ [_Voyager Combadge by Andrew Sink_](https://www.printables.com/model/16
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Bambu Studio estimated a total of 6.73 grams of model material usage and a total of 3.75 grams of purged + tower material usage. My scale rounds to the nearest gram, but I found the total of 6 grams for the model and 5 grams for the purge + tower to be reasonably close to the estimated material usage. Overall, the slicer provides an intuitive and fast way to add color to models via the AMS.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Printing on the Bambu Lab X1-Carbon
 
  Image 1 of 2
@@ -367,12 +441,18 @@ _Model:_ [_Not a Singing Frog by SparkyFace5_](https://thangs.com/designer/Spark
 
 _Model:_ [_Not a Singing Frog by SparkyFace5_](https://thangs.com/designer/SparkyFace5/3d-model/Not%20a%20Singing%20Frog-977193)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
 _Model:_ [_Not a Singing Frog by SparkyFace5_](https://thangs.com/designer/SparkyFace5/3d-model/Not%20a%20Singing%20Frog-977193)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -389,6 +469,9 @@ _Model:_ [_Bambu Lab Build Plate Coaster by 3D Chihuahua_](https://www.printable
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -405,6 +488,11 @@ _Model:_ [_Bambu Lab Build Plate Coaster by 3D Chihuahua_](https://www.printable
 
 ## Printing the High Speed Benchy on Bambu Lab X1-Carbon
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/8t6nuNcB4ERDiUvYVDGjd7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -413,10 +501,17 @@ _Model:_ [_Bambu Lab Build Plate Coaster by 3D Chihuahua_](https://www.printable
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab X1-Carbon](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -425,6 +520,9 @@ _Model:_ [_Bambu Lab Build Plate Coaster by 3D Chihuahua_](https://www.printable
 
 ## Comparison to the Bambu Lab P1S
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bambu Lab P1S](https://cdn.mos.cms.futurecdn.net/ZCgjchwaRXG2X7fCTtzW2J-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -435,6 +533,9 @@ _Model:_ [_Bambu Lab Build Plate Coaster by 3D Chihuahua_](https://www.printable
 
  The Bambu Lab P1S with AMS is currently listed at $949, making it exactly $500 cheaper than the $1,449 X1-Carbon. Depending on your intended application, this difference in price may be something to consider when selecting a printer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Bambu Lab X1-Carbon](https://cdn.mos.cms.futurecdn.net/D4RcZuLnXfXCA33csQ3yKn-320-80.jpg)
@@ -499,6 +600,18 @@ _Model:_ [_Bambu Lab Build Plate Coaster by 3D Chihuahua_](https://www.printable
 
 powered by
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

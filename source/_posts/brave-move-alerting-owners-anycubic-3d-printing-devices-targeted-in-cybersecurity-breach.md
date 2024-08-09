@@ -1,7 +1,7 @@
 ---
 title: "Brave Move Alerting Owners: Anycubic 3D Printing Devices Targeted in Cybersecurity Breach"
-date: 2024-08-06 11:10:23
-updated: 2024-08-08 12:44:52
+date: 2024-08-08T04:23:12.147Z
+updated: 2024-08-09T04:23:12.147Z
 tags:
   - printer
 categories:
@@ -39,6 +39,9 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 | Machine Footprint    | 390 x 229 x 235 mm (15.4 x 9.01 x 9.5 inches) | Row 7 - Cell 2 |
 | Machine Weight       | 4 kg (8.8 lbs)                                | Row 8 - Cell 2 |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Anycubic Photon Mono 2](https://cdn.mos.cms.futurecdn.net/7gFef2JgyWgGfLnio8cBVc-320-80.png)
 
  (Image credit: Anycubic)

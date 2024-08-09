@@ -1,7 +1,7 @@
 ---
 title: Tom's Tech Hub - Exploring the Latest in Computing and Gadgets
-date: 2024-08-07 18:18:23
-updated: 2024-08-09 12:19:28
+date: 2024-08-08T04:23:13.808Z
+updated: 2024-08-09T04:23:13.808Z
 tags:
   - cooling
 categories:
@@ -25,14 +25,23 @@ Arctic Cooling has unleashed its new Freezer 36 series as part of the brand's 23
 
 Freezer 36  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Freezer 36](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Freezer 36 Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 Black  (Image credit: Arctic Cooling)
@@ -41,6 +50,9 @@ Freezer 36  (Image credit: Arctic Cooling)
 
 Freezer 36 CO  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Freezer 36 CO](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Freezer 36 CO  (Image credit: Arctic Cooling)
@@ -53,10 +65,16 @@ Freezer 36 CO  (Image credit: Arctic Cooling)
 
  Freezer 36 A-RGB Black  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB White](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Freezer 36 A-RGB White](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Freezer 36 A-RGB White  (Image credit: Arctic Cooling)

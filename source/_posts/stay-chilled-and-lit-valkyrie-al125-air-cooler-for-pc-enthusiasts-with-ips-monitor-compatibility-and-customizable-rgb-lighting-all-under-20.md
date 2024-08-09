@@ -1,7 +1,7 @@
 ---
 title: "Stay Chilled and Lit: Valkyrie AL125 Air Cooler for PC Enthusiasts with IPS Monitor Compatibility and Customizable RGB Lighting All Under $20"
-date: 2024-08-08 20:24:15
-updated: 2024-08-09 11:52:34
+date: 2024-08-08T04:23:33.841Z
+updated: 2024-08-09T04:23:33.841Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

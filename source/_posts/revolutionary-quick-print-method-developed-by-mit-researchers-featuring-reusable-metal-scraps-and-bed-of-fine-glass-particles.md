@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Quick-Print Method Developed by MIT Researchers, Featuring Reusable Metal Scraps and Bed of Fine Glass Particles
-date: 2024-08-05 16:29:47
-updated: 2024-08-08 10:43:58
+date: 2024-08-08T04:23:28.531Z
+updated: 2024-08-09T04:23:28.531Z
 tags:
   - printer
 categories:
@@ -39,6 +39,9 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 | Machine Footprint    | 390 x 229 x 235 mm (15.4 x 9.01 x 9.5 inches) | Row 7 - Cell 2 |
 | Machine Weight       | 4 kg (8.8 lbs)                                | Row 8 - Cell 2 |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Anycubic Photon Mono 2](https://cdn.mos.cms.futurecdn.net/7gFef2JgyWgGfLnio8cBVc-320-80.png)
 
  (Image credit: Anycubic)

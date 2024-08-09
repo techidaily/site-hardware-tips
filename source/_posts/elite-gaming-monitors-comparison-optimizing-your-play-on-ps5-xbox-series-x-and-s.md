@@ -1,7 +1,7 @@
 ---
 title: "Elite Gaming Monitors Comparison: Optimizing Your Play on PS5, Xbox Series X, & S"
-date: 2024-08-05 22:57:10
-updated: 2024-08-08 11:59:36
+date: 2024-08-08T04:23:31.813Z
+updated: 2024-08-09T04:23:31.813Z
 tags:
   - best-picks
 categories:
@@ -17,6 +17,9 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
  Finally, one of the significant changes that the[ATX12V v3.0 spec](https://www.tomshardware.com/news/intel-atx-v3-psu-standard) brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quick Power Supply Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -41,12 +44,18 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
 **Consider a modular power supply.** If your case has lots of room behind the[motherboard](https://www.tomshardware.com/best-picks/best-motherboards) , or your[chassis](https://www.tomshardware.com/news/pc-chassis-definition,37651.html) doesn't have a window or glass side, you can cable-wrap the wires you don't' need and stash them inside your rig. But if the system you're' building doesn't' have space for this, or there is no easy place to hide your cable mess, it's' worth paying extra for a modular power supply. Modular PSUs let you only plug in the power cables you need and leave the rest in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Power Supplies You Can Buy Today
 
 ![Corsair CX450](https://cdn.mos.cms.futurecdn.net/tw7pndz5QGYMown3KNF2mP-320-80.jpg)
 
 Corsair CX450  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### [1. Corsair CX450](https://www.tomshardware.com/reviews/corsair-cx450-psu,5678.html)
 
 Best Cheap PSU ($60/£60 or less)
@@ -133,6 +142,9 @@ Not as quiet as the CWT-made CX450
 
 Corsair CX550F RGB  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [2. Corsair CX550F RGB](https://www.tomshardware.com/reviews/corsair-cx550f-rgb-power-supply-review)
 
 Best Mid-Level RGB PSU: Up to 550 Watts
@@ -245,10 +257,17 @@ Lower than 17ms hold-up time
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair RM550x (2021)](https://cdn.mos.cms.futurecdn.net/Re2rASUVFu9qjHvAxT76fS-320-80.jpg)
 
 Corsair RM550x (2021)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### [3. Corsair RM550x](https://www.tomshardware.com/reviews/corsair-rm550x-power-supply,4484.html)
 
 Best PSU: Up to 550 Watts
@@ -327,6 +346,9 @@ Single EPS connector
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![XPG Core Reactor 650W](https://cdn.mos.cms.futurecdn.net/H5i6mEj6Z8wWiedKoEYaN4-320-80.jpg)
 
 XPG Core Reactor 650W  (Image credit: Tom's Hardware)
@@ -411,6 +433,9 @@ Two EPS connectors on the same cable
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Cooler Master V750 Gold V2](https://cdn.mos.cms.futurecdn.net/vBvo8ETj8hYyAGSAN2WXDD-320-80.jpg)
 
 Cooler Master V750 Gold V2  (Image credit: Tom's Hardware)
@@ -519,10 +544,16 @@ Small distance between connectors
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![EVGA 850 G7](https://cdn.mos.cms.futurecdn.net/K3svbq62HdPCjccFvPzoZR-320-80.jpg)
 
 EVGA SuperNOVA 850 G7  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [6. EVGA SuperNOVA 850 G7](https://www.tomshardware.com/reviews/evga-supernova-850-g7-power-supply-review)
 
 Best PSU: Up to 850 Watts
@@ -909,6 +940,9 @@ EMI with AVG detector
 
 Corsair SF750  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [10. Corsair SF750](https://www.tomshardware.com/reviews/corsair-sf750-psu,5979.html)
 
 Best SFX PSU
@@ -997,6 +1031,9 @@ Semi-passive mode can’t be deactivated
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Silverstone SX1000 Platinum](https://cdn.mos.cms.futurecdn.net/NB33egmhentEEmhZH2bCkn-320-80.jpg)
 
 Silverstone SX1000 Platinum  (Image credit: Tom's Hardware)

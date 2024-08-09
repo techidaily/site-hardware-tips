@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Thermal Management: Noctua Introduces Game-Changing Chiller for Grace Hopper GPU Architecture"
-date: 2024-08-07 10:14:42
-updated: 2024-08-09 11:39:34
+date: 2024-08-08T04:23:27.475Z
+updated: 2024-08-09T04:23:27.475Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  The phase-changing tech is designed to minimize the pump-out effects of traditional thermal paste. Pump-out is an effect where the thermal paste is slowly pressed out between a heatsink and a GPU die or CPU IHS due to micro expansions and contractions in the metal that occur in the heatsink contact plate or CPU IHS; the effect can reduce cooling performance over a lengthy period.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PhaseSheet PTM](https://cdn.mos.cms.futurecdn.net/8ujLTDRmTKxw7aDttNWdGJ-320-80.jpg)
 
  (Image credit: Thermal Grizzly)
@@ -29,6 +32,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  Thermal pads like PhaseSheet have several advantages over traditional thermal paste. Their solid nature makes them very easy to replace if required and enables them to last long without succumbing to pump-out losses.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

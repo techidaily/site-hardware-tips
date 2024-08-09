@@ -1,7 +1,7 @@
 ---
 title: "The Quiet Revolution in Refrigeration: Exclusive Review of Iceberg's Thermal IceFLOE Oasis Models on a Budget"
-date: 2024-08-07 15:38:40
-updated: 2024-08-09 12:42:29
+date: 2024-08-08T04:23:08.181Z
+updated: 2024-08-09T04:23:08.181Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Unbeatable Savings: 'Thrifty Beginner's 4K Resin 3D Printer Now at 44%% Off on Black Friday"
-date: 2024-08-05 16:54:20
-updated: 2024-08-08 10:33:44
+date: 2024-08-08T04:23:29.256Z
+updated: 2024-08-09T04:23:29.256Z
 tags:
   - printer
 categories:
@@ -39,6 +39,9 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 | Machine Footprint    | 390 x 229 x 235 mm (15.4 x 9.01 x 9.5 inches) | Row 7 - Cell 2 |
 | Machine Weight       | 4 kg (8.8 lbs)                                | Row 8 - Cell 2 |
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Anycubic Photon Mono 2](https://cdn.mos.cms.futurecdn.net/7gFef2JgyWgGfLnio8cBVc-320-80.png)
 
  (Image credit: Anycubic)

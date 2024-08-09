@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to the Superior Thermal Pastes for Optimal CPU Performance - 2024 Edition, Based on Extensive Tests of 90 Products
-date: 2024-08-07 18:19:24
-updated: 2024-08-09 11:55:30
+date: 2024-08-08T04:23:33.505Z
+updated: 2024-08-09T04:23:33.505Z
 tags:
   - cooling
 categories:
@@ -23,10 +23,16 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
@@ -37,6 +43,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  That's not to say there haven't been issues with non-standard mounting before. For instance, with custom contact frames, it's been reported that screwing the frame too tightly can cause system instability and prevent super high CPU/memory[overclocks](https://www.tomshardware.com/how-to/how-to-overclock-a-cpu) from being stable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,6 +56,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  AMD's offset bracket will not be prone to this, however, this bracket also has one glaring weakness, that being optimal compatibility with[Ryzen APUs](https://www.tomshardware.com/pc-components/cpus/amd-launches-ryzen-8000g-phoenix-apus-brings-ai-to-the-desktop-pc-reveals-zen-4c-clocks-for-the-first-time) . AMD does not use a multi-chipset design for its APUs, instead, it uses a[monolithic design](https://www.tomshardware.com/news/amd-confirms-chiplet-designs-future-mobile-cpus) just like Intel. This means that Arctic's offset could hinder cooling performance on AMD's APUs since the monolithic die is installed directly in the middle of the CPU, necessitating a default mounting configuration for optimal thermals.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Warranty Issues
 
  The biggest problem is in regard to the custom contact frame Arctic is providing for Intel LGA1700 users. Intel itself has already warned users that tampering with its ILM in any way could[void the warranty of the CPU](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) . This could raise some serious tension between Intel and Arctic if ever an Arctic Liquid Freezer III user has to RMA his/her Intel CPU under warranty.

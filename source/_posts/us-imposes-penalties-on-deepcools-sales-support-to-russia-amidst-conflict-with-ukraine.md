@@ -1,7 +1,7 @@
 ---
 title: US Imposes Penalties on DeepCool's Sales Support to Russia Amidst Conflict with Ukraine
-date: 2024-08-08 21:48:34
-updated: 2024-08-09 12:25:41
+date: 2024-08-08T04:23:14.623Z
+updated: 2024-08-09T04:23:14.623Z
 tags:
   - cooling
 categories:
@@ -45,3 +45,7 @@ Investing in a quality cooler is a smart move, and you definitely need the[best 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->

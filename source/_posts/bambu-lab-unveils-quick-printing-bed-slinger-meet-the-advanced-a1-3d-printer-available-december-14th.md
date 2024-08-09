@@ -1,7 +1,7 @@
 ---
 title: "Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th"
-date: 2024-08-05 23:25:44
-updated: 2024-08-08 11:44:30
+date: 2024-08-08T04:23:26.564Z
+updated: 2024-08-09T04:23:26.564Z
 tags:
   - printer
 categories:
@@ -29,6 +29,9 @@ Bambu Lab has teased an upcoming, high-speed 3D printer, due to launch December 
 
  You can currently pre-order the Bambu Lab A1 Mini if build volume isn’t a huge concern for you. If you want to hold out for the A1, follow[Bambu Lab](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Fukaidot.sjv.io%2Fdaqnoj) and check back on December 14th to see what it brings to the table.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

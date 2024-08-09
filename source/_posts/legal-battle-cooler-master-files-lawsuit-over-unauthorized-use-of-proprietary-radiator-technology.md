@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: Cooler Master Files Lawsuit Over Unauthorized Use of Proprietary Radiator Technology"
-date: 2024-08-08 11:13:56
-updated: 2024-08-09 12:48:54
+date: 2024-08-08T04:23:13.621Z
+updated: 2024-08-09T04:23:13.621Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Users of Intel CPUs spanning 12th Gen to 14th Gen who[dare to delid](https://www
   
 **Correction, May 22, 2024:**   _This article previously misstated the CPU in Thermal Grizzly's custom loop. We regret the error._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

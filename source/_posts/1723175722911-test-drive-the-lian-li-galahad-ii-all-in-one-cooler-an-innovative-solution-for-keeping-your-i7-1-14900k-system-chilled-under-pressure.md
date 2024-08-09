@@ -1,7 +1,7 @@
 ---
 title: Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure.
-date: 2024-08-07 11:16:20
-updated: 2024-08-09 10:43:12
+date: 2024-08-08T04:23:03.742Z
+updated: 2024-08-09T04:23:03.742Z
 tags:
   - cooling
 categories:
@@ -17,12 +17,18 @@ Frore Systems has introduced its AirJet Mini Sport waterproof solid-state active
   
  Like its non-waterproof AirJet Mini counterparts, the chip is lightweight, at just 7 grams, and compact, with dimensions of 27.5mm by 41.5mm by 2.5mm, making it as small as the AirJet Mini Slim. It can still dissipate 5.25 Watts of heat by generating 1750 Pascals of backpressure while consuming around 1W and producing up to 21 dBA of noise.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Frore Systems](https://cdn.mos.cms.futurecdn.net/S7SqpsLQkAXKUniRYkDSWJ-320-80.jpg)
 
  (Image credit: Frore Systems)
 
  This cooling chip also includes dust resistance and self-cleaning features, ensuring it remains efficient in various environments. The addition of thermoception allows devices to maintain optimal performance without letting the device overheat. As a result, the company claims smartphones and action cameras equipped with the AirJet Mini Sport can achieve up to 80% better performance, addressing the needs of high-performance processors in mobile devices.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Frore Systems](https://cdn.mos.cms.futurecdn.net/UwnVckejJAFEwtmjM786HJ-320-80.jpg)
 
  (Image credit: Frore Systems)
@@ -33,6 +39,10 @@ Frore Systems has introduced its AirJet Mini Sport waterproof solid-state active
 
  "We are excited to announce the waterproof AirJet Mini Sport," said Dr. Seshu Madhavapeddy, founder and CEO of Frore Systems. "Consumers demand increased performance in compact devices they can use anywhere, on land or in water. AirJet unleashes device performance, now enabling users to do more with their IP68 dustproof and waterproof devices."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

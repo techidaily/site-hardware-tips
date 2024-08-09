@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Future of Portable Scanning Technology: The 3DMakerPro Mole 3D Scanner Reviewed Inside and Out"
-date: 2024-08-06 17:47:16
-updated: 2024-08-08 12:59:59
+date: 2024-08-08T04:23:19.895Z
+updated: 2024-08-09T04:23:19.895Z
 tags:
   - printer
 categories:
@@ -39,6 +39,9 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 | Machine Footprint    | 390 x 229 x 235 mm (15.4 x 9.01 x 9.5 inches) | Row 7 - Cell 2 |
 | Machine Weight       | 4 kg (8.8 lbs)                                | Row 8 - Cell 2 |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Anycubic Photon Mono 2](https://cdn.mos.cms.futurecdn.net/7gFef2JgyWgGfLnio8cBVc-320-80.png)
 
  (Image credit: Anycubic)

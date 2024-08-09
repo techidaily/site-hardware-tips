@@ -1,7 +1,7 @@
 ---
 title: Dive Into Cutting-Edge 3D Printing at Rapid + TCT 2024 – A First Look at the Latest Printers & Materials
-date: 2024-08-07 15:26:40
-updated: 2024-08-08 10:35:26
+date: 2024-08-08T04:23:06.344Z
+updated: 2024-08-09T04:23:06.344Z
 tags:
   - printer
 categories:
@@ -27,6 +27,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -41,6 +44,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Elegoo also had the impressive Orange Store Giga on display. It's the largest consumer 3D printer currently on the market, which comes with an 800 x 800 x 1000 mm build volume. The printer launched as a Kickstarter and is currently in beta testing. Tom’s Hardware has a unit in our reviewer’s living room and will release a review once pricing has been set.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Anycubic shows Photon Mono M7 and Kobra 3
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/GZbfPmGcPxYsBegbXPaAef-320-80.jpg)
@@ -59,6 +65,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  The Photon Mono M7 Pro is a promising large-format resin machine with a 10-inch light source and 14k resolution. It’s also self-leveling, has a plethora of sensors, and has a tempting sale price of $499\. This machine is currently under review, and we’ll have more details on its performance shortly.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bambu Lab: Nothing New
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/hgtGFEzAu9a8CMtvExhcLF-320-80.jpg)
@@ -69,12 +78,18 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ## Creality brings out the K2 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/p374ZNnLKuMUM4Qb6WUqTk-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  We were eager to see the new K2 Plus, Creality’s entry in the color FDM race. However, the machine was demoing a single-color print, which suggests their CFS (Creality Filament System) is not ready for prime time. The combo unit is currently available to order for $1,499 and is slated to ship in October. Reviewers have been promised sample units in August, so we’ll keep you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Prusa courts the industrial user with its Pro HT90
 
  Image 1 of 3
@@ -83,10 +98,21 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -99,6 +125,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -107,6 +136,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -121,10 +153,16 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Precision Printing on the Go: Meet Micronics' Compact and Economical SLS 3D Printer for Mainstream Manufacturing"
-date: 2024-08-07 23:37:52
-updated: 2024-08-08 11:10:24
+date: 2024-08-08T04:23:32.196Z
+updated: 2024-08-09T04:23:32.196Z
 tags:
   - printer
 categories:
@@ -46,3 +46,7 @@ Whether you're a maker or just an occasional hobbyist, 3D printing has come leap
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->

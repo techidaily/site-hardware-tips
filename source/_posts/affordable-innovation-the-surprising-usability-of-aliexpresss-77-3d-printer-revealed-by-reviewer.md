@@ -1,7 +1,7 @@
 ---
 title: "Affordable Innovation: The Surprising Usability of AliExpress's $77 3D Printer Revealed by Reviewer"
-date: 2024-08-06 23:42:21
-updated: 2024-08-08 11:52:28
+date: 2024-08-08T04:23:02.231Z
+updated: 2024-08-09T04:23:02.231Z
 tags:
   - printer
 categories:
@@ -25,12 +25,18 @@ Six months after joining – and winning — the race for the[fastest consumer 3
 
  K1C has an all-metal extruder kit and a new “Unicorn” nozzle with an integrated heat break. The nozzle is an obvious nod to[E3D’s revolutionary Revo](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Fbluettifr.pxf.io%2Fbax2bv) and[Prusa’s one piece MK4 nozzle](https://www.tomshardware.com/reviews/prusa-mk4) . All three nozzles promise to prevent heat creep and nasty leaks, while being easily changed without tools.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality](https://cdn.mos.cms.futurecdn.net/78b3soVfmXJvvJ8ihKojE9-320-80.jpg)
 
  (Image credit: Creality)
 
  Like the K1, the K1C will come pre-assembled for a plug and play experience. Its auto leveling includes the ability to set its own Z height for a perfect first layer, and auto-calibration will handle all the tuning. The K1C will also come standard with an A1 camera to watch for errors and provide real-time monitoring and time-lapse filming.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

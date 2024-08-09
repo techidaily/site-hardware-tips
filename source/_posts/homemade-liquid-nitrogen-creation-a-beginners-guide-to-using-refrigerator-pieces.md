@@ -1,7 +1,7 @@
 ---
 title: "Homemade Liquid Nitrogen Creation: A Beginner's Guide to Using Refrigerator Pieces"
-date: 2024-08-06 18:21:18
-updated: 2024-08-09 12:26:32
+date: 2024-08-08T04:23:13.568Z
+updated: 2024-08-09T04:23:13.568Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/b12c1a140a3344398be10869a2b844a6fc484f74e
 
 Skatterbencher and three industry-leading partners have completed a feasibility study to see if it’s possible to build a liquid nitrogen (LN2) container using generative AI and additive manufacturing techniques, also known as 3D printing. In[a blog post](https://skatterbencher.com/2024/06/28/testing-the-ai-generated-3d-printed-cpu-ln2-container/) and YouTube video, the partners show that it’s possible, but perhaps not financially wise, for the benefits obtained.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube ![Testing the $10,000 AI-generated 3D Printed LN2 Container - YouTube](<https://img.youtube.com/vi/S5Wm0GED6wo/maxresdefault.jpg>)
 
 [Watch On](https://youtu.be/S5Wm0GED6wo)
@@ -37,6 +40,9 @@ Skatterbencher and three industry-leading partners have completed a feasibility 
 
  Finally, the AI-designed LN2 container proved 20% more efficient than the ElmorLabs design. Using 500mL of liquid nitrogen, the Volcano cooled down to just -100º Celsius, while the AI-designed prototype went down to -133º Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

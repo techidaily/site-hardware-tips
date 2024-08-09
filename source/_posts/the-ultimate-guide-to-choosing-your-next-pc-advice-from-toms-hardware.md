@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Choosing Your Next PC - Advice From Tom's Hardware
-date: 2024-08-08 19:24:20
-updated: 2024-08-09 10:43:43
+date: 2024-08-08T04:23:07.179Z
+updated: 2024-08-09T04:23:07.179Z
 tags:
   - cooling
 categories:
@@ -27,6 +27,10 @@ On Wednesday, the U.S.[State Department announced](https://www.state.gov/taking-
 
  In other words, if I buy a DeepCool power supply today, I’m technically breaking the law. I might be able to make the case that I’m conducting business with a U.S. company, not the listed company, but such a claim would likely be tenuous at best.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

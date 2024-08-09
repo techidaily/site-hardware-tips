@@ -1,7 +1,7 @@
 ---
 title: Discover Creality's Latest Marvel - The Flagship K1C and Enhanced Ender 3 V3 Model Revealed
-date: 2024-08-06 19:37:21
-updated: 2024-08-08 12:14:40
+date: 2024-08-08T04:23:05.348Z
+updated: 2024-08-09T04:23:05.348Z
 tags:
   - printer
 categories:
@@ -25,12 +25,18 @@ Six months after joining – and winning — the race for the[fastest consumer 3
 
  K1C has an all-metal extruder kit and a new “Unicorn” nozzle with an integrated heat break. The nozzle is an obvious nod to[E3D’s revolutionary Revo](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Fbluettifr.pxf.io%2Fbax2bv) and[Prusa’s one piece MK4 nozzle](https://www.tomshardware.com/reviews/prusa-mk4) . All three nozzles promise to prevent heat creep and nasty leaks, while being easily changed without tools.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Creality](https://cdn.mos.cms.futurecdn.net/78b3soVfmXJvvJ8ihKojE9-320-80.jpg)
 
  (Image credit: Creality)
 
  Like the K1, the K1C will come pre-assembled for a plug and play experience. Its auto leveling includes the ability to set its own Z height for a perfect first layer, and auto-calibration will handle all the tuning. The K1C will also come standard with an A1 camera to watch for errors and provide real-time monitoring and time-lapse filming.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

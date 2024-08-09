@@ -1,7 +1,7 @@
 ---
 title: Discover Our New 'Be Quiet!' PC Cases - Tailorable and Radiant Fans to Light Up Your System!
-date: 2024-08-07 23:46:53
-updated: 2024-08-09 11:43:35
+date: 2024-08-08T04:23:09.860Z
+updated: 2024-08-09T04:23:09.860Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
  Performance enthusiasts often swear by a favorite brand of paste, but new recipes crop up fairly frequently. We've extensively tested some of the top thermal pastes on the market. If you're hunting for more exotic pastes off the beaten path, we also have plenty of historical data below covering 90 different pastes (and yes, we've even tested toothpaste).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![CPU Die and IHS](https://cdn.mos.cms.futurecdn.net/FuWchQSP8eEKNP5wZMEQgH-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -41,6 +44,11 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
 ### Best Premium (Standard) Thermal Paste
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Best Premium (Standard) Thermal Paste
 
 ![Toplamp TL-A40](https://cdn.mos.cms.futurecdn.net/C85opZpoCULeqB5j4jLLnF-320-80.jpg)
@@ -97,6 +105,9 @@ None
 
  While it doesn’t beat liquid metal compounds in our tests, Toplamp’s TL-A40 is the best traditional thermal paste we've tested on our air cooling system. It is easy to apply to all surfaces and simple to clean up. You can't go wrong with this one — and with its relatively budget price of $6.99 USD, it shows that you don’t need to spend a lot of money for good thermal performance.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Premium Paste (Runner-up)
 
 ## Best Premium Paste (Runner-up)
@@ -105,6 +116,9 @@ None
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 2\. Kooling Monster KOLD-01
 
 Runner-up: Best Premium Paste
@@ -153,10 +167,16 @@ Price per gram
 
  Kooling Monster KOLD-01 is a mildly viscous thermal compound with good stability. This paste is designed to last long without reapplication, making it a favorite among many system builders. Our test results measure it at only 0.1c behind Toplamp’s TL-A40, which is within the margin of error. In our opinion, they’re equally strong performers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Best Premium Non-Standard Compound
 
 ## Best Premium Non-Standard Compound
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Honeywell PTM7950](https://cdn.mos.cms.futurecdn.net/xEdaNJvJmF2dwejjVmmWZF-320-80.jpg)
 
  (Image credit: Amazon)
@@ -225,6 +245,9 @@ Generally more expensive than paste
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Thermal Grizzly Kryosheet
 
 Best Premium Non-Standard Compound
@@ -269,14 +292,26 @@ Moderate cost
 
  Thermal Grizzly’s Kryosheet is a solid, thin graphene pad that doesn’t require any burn in time. It can be reused if removed carefully and has no mess to clean up whatsoever. Its thermal performance is excellent, trailing the best pastes on the market by less than 1 degree Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Best Liquid Metal Thermal Paste
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Liquid Metal Thermal Paste
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Thermal Grizzly Conductonaut](https://cdn.mos.cms.futurecdn.net/J8C4JjdAKmKx3qnatyxVHF-320-80.jpg)
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 5\. Thermal Grizzly Conductonaut
 
 Best Liquid Metal Thermal Paste
@@ -329,8 +364,14 @@ Electrically conductive
 
  Thermal Grizzly’s Conductonaut is the best-performing thermal compound, matching or beating all competitors we tested on both air and liquid cooling systems. If you’re looking for the best performance on the market, bar none, you’ll want to pick up Thermal Grizzly’s Conductonaut. It is electrically conductive, so proceed with care.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Best Liquid Metal Thermal Paste (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Liquid Metal Thermal Paste (Runner-up)
 
 ![BeQuiet DC2 Pro](https://cdn.mos.cms.futurecdn.net/JFUoWVVj9dxwAHhDGMN3CF-320-80.jpg)
@@ -391,6 +432,9 @@ Electrically conductive
 
  BeQuiet’s DC2 Pro is on par with Thermal Grizzly’s Conductonaut overall but is available for much less. As with all liquid metal compounds, extra care will be needed during installation due to electrical conductivity.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Thermal Paste Performance Rankings
 
  Here's a breakdown of our recent testing, and we'll be adding new pastes to this list over the coming weeks and months. A bit further down, you'll find our original rounds of testing with 85 different pastes tested in 2017 and 90 pastes tested in 2022, some of which we've revisited in this new performance hierarchy. That should give you a good idea of how other pastes we haven't retested yet would compare to the newer ones.
@@ -403,10 +447,16 @@ Electrically conductive
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermal Pastes](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Thermal Paste Test Results
 
  ●**Air Cooling**
@@ -452,6 +502,9 @@ Electrically conductive
 
  For our thermal compound tests, I used the same hardware and configuration for each test to minimize environment variables. Some of these components were sampled by vendors, without whom this testing wouldn’t have been possible. Intel sampled two[Raptor Lake i9-14900K CPUs](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , and[MSI](https://www.tomshardware.com/tag/msi-microstar) sampled two of its latest[Z790 Tomahawk Max WiFi motherboards](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1075902652402228178&xs=1&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMAG-Z790-TOMAHAWK-MAX-WIFI&sref=https%3A%2F%2Fwww.tomshardware.com%2Fbest-picks%2Fbest-thermal-paste) for this testing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Thermal Pastes](https://cdn.mos.cms.futurecdn.net/bY8DGaE36aQJyVp7kmcYVS-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -466,6 +519,9 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -474,6 +530,14 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -482,12 +546,18 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

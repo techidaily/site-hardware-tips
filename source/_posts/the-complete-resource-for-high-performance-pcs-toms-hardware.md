@@ -1,7 +1,7 @@
 ---
 title: The Complete Resource for High-Performance PCs - Tom's Hardware
-date: 2024-08-07 21:58:36
-updated: 2024-08-09 11:25:47
+date: 2024-08-08T04:23:33.105Z
+updated: 2024-08-09T04:23:33.105Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,9 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  While I would normally recommend using a standard air or liquid cooler, there can be situations where a 120mm AIO will be the best option for certain niche configurations. So below, I’ll be looking at the smallest AIO models from Be Quiet,[Cooler Master](https://www.tomshardware.com/tag/cooler-master) , Corsair, and Enermax to see which are worthy of your consideration – and which ones you should avoid.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Spec Comparison Table
 
  Swipe to scroll horizontally
@@ -100,6 +103,9 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A summary of each cooler’s features
 
 **▶ Enermax LiqMaxFlo 120**
@@ -110,6 +116,9 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  Enermax’ LiqMaxFlo stands out from the competition with an fan included atop the CPU block, which can help lower VRM and RAM temperatures. I feel this could be especially useful in a space-constrained SFF system. It features low noise levels and has a user-accessible refill port.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![120mm AIO Roundup](https://cdn.mos.cms.futurecdn.net/TxKh2c6Z6dAq5SYUHkQMJH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -142,6 +151,9 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  The best feature of Corsair’s H60x Eliteis its extremely low maximum noise levels of only 38.2 dBA, the quietest of all units tested in this review. It also features RGB on the CPU block and the fan.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![120mm AIO Roundup](https://cdn.mos.cms.futurecdn.net/iXwDdw5vdnaLU792AYWisH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -158,6 +170,10 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Testing methodology
 
  Today's highest-end CPUs, whether Intel or AMD, are difficult to cool in intensive workloads. In the past. reaching 95 degrees Celsius or more on a desktop CPU might have been a cause for concern. But with today’s top-end CPUs, this is considered normal operation. Similar behavior has been present in laptops for years due to cooling limitations in tight spaces.
@@ -178,6 +194,9 @@ With most of the reviews I do for Tom’s Hardware, I’m looking to test the[be
 
  b. Power limited to 75W to emulate a low-intensity workload
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – AMD AM5 Platform
 
  Swipe to scroll horizontally

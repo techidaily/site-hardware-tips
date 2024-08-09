@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Next-Gen Computer Cooler: Tryx's One-of-a-Kind Curved AMOLED Screen by China's Leading Manufacturer"
-date: 2024-08-08 10:24:46
-updated: 2024-08-09 10:47:42
+date: 2024-08-08T04:23:27.380Z
+updated: 2024-08-09T04:23:27.380Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/b95ff97ef31c24150b8b202a85720fb4906b9c98a
 
 DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardware.com/tag/computex) , with new air and liquid coolers for CPUs, plus fans, PC cases, and power supplies that comply with the latest Intel ATX 3.1 and PCIe 5.1 standards. DeepCool has options ready for the newly introduced standards, including motherboards with reversed side connectors. Additionally, it expanded on a couple of its CPU cooler models while also providing some decorative options that will appeal to aesthetically minded users.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## CPU coolers for air and water
 
  Image 1 of 4
@@ -21,6 +24,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
@@ -37,6 +43,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool has had its AK620 and AK400 CPU coolers with similar display systems in the market available for a while, and[we already reviewed the former](https://www.tomshardware.com/reviews/deepcool-ak620-digital) . The difference between these is that the Assassin IV VC has a vapor chamber on the heat base. A few months ago, we reviewed the[DeepCool Assassin 4S CPU cooler](https://www.tomshardware.com/pc-components/air-cooling/deepcool-assassin-4s-review) that doesn't have the display or the vapor chamber, so it will be interesting to see how much of an improvement it provides.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool AN400 CPU Cooler for SFF builds](https://cdn.mos.cms.futurecdn.net/XTMjAMoPpBDMfxZ74ADFBB-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -45,6 +54,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  In related news, Noctua introduced its[NH-L12Sx77 low-profile cooler](https://www.tomshardware.com/pc-components/air-cooling/noctua-releases-low-profile-cpu-coolers-for-sff-builds-nh-l12sx77-has-better-clearance-for-ram-vrm-heatsinks) recently that allows clearance for tall RAM sticks and heatsinks. These low-profile CPU coolers are useful for mini-ITX system builders as they can provide good enough cooling within the space constraints, as many larger coolers won't fit within diminutive ITX cases.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool LP Matrix AIO CPU Coolers with 240mm and 360mm variants.](https://cdn.mos.cms.futurecdn.net/w67VwSrgCufkGWhFrmFEAS-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -55,10 +67,17 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
@@ -71,6 +90,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![DeepCool CH170 DIGITAL ITX Case with digital monitoring screen](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool CH170 DIGITAL ITX Case with digital monitoring screen  (Image credit: DeepCool)
@@ -85,6 +107,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)

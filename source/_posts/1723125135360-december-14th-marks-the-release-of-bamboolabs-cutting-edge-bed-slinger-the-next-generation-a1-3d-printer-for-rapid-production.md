@@ -1,7 +1,7 @@
 ---
 title: December 14Th Marks the Release of BambooLab's Cutting-Edge Bed Slinger - The Next Generation A1 3D Printer for Rapid Production
-date: 2024-08-07 18:33:30
-updated: 2024-08-08 11:15:18
+date: 2024-08-08T04:23:04.731Z
+updated: 2024-08-09T04:23:04.731Z
 tags:
   - printer
 categories:
@@ -29,6 +29,9 @@ Bambu Lab has teased an upcoming, high-speed 3D printer, due to launch December 
 
  You can currently pre-order the Bambu Lab A1 Mini if build volume isn’t a huge concern for you. If you want to hold out for the A1, follow[Bambu Lab](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Fukaidot.sjv.io%2Fdaqnoj) and check back on December 14th to see what it brings to the table.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

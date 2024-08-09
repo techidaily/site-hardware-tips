@@ -1,7 +1,7 @@
 ---
 title: Top Rated Portable SSD Drives of 2024
-date: 2024-08-07 23:11:34
-updated: 2024-08-08 11:12:56
+date: 2024-08-08T04:23:14.538Z
+updated: 2024-08-09T04:23:14.538Z
 tags:
   - best-picks
 categories:
@@ -21,6 +21,9 @@ Whether you’re shopping for the best RAM for gaming to upgrade a PC that’s s
 
  In short, the best RAM is usually the fastest if you’re gaming without a dedicated graphics card, running an AMD Ryzen system, and, in some isolated scenarios, with Intel chips. But if you don’t care about squeezing the best performance out of your hardware, DDR5-5200 is drop-in compatible with AMD’s[Zen 4](https://www.tomshardware.com/news/amd-zen-4-ryzen-7000-release-date-specifications-pricing-benchmarks-all-we-know-specs) processors and DDR5-5600 or DDR4-3200 for Intel 14th Generation[Raptor Lake Refresh](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) CPUs.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quick RAM Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -34,10 +37,16 @@ Whether you’re shopping for the best RAM for gaming to upgrade a PC that’s s
 
 ## Best RAM For Gaming You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Best Performance 32GB DDR5 Kit: G.Skill Trident Z5 Neo RGB DDR5-6000](https://cdn.mos.cms.futurecdn.net/exZDq4Tjhe2Vo5iBGTF9AT-320-80.jpg)
 
  Best Performance 32GB DDR5 Kit: G.Skill Trident Z5 Neo RGB DDR5-6000  (Image credit: G.Skill)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. G.Skill Trident Z5 Neo RGB DDR5-6000 (2 x 16GB)
 
 Best Performance 32GB DDR5 Kit
@@ -92,6 +101,9 @@ Early adopter price
 
  Best 32GB DDR5 Kit: G.Skill Trident Z5 RGB DDR5-6000  (Image credit: G.Skill)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. G.Skill Trident Z5 RGB DDR5-6000 (2 x 16GB)
 
 Best 32GB DDR5 Kit
@@ -140,6 +152,9 @@ Costs an arm and a leg
 
  Best 192GB DDR5 Kit: Corsair Vengeance DDR5-5200  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Corsair Vengeance DDR5-5200 (4 x 48GB)
 
 Best 192GB DDR5 Kit
@@ -210,6 +225,9 @@ May not work with all CPUs
 
  Best 96GB DDR5 Kit: G.Skill Trident Z5 RGB DDR5-6400  (Image credit: G.Skill)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### 4\. G.Skill Trident Z5 RGB DDR5-6400 (4 x 48GB)
 
 Best 96GB DDR5 Kit
@@ -328,6 +346,14 @@ Limited retailer availability
 
  Best 16GB Kit For Ryzen Owners: TeamGroup T-Force Xtreem ARGB DDR4-3600  (Image credit: TeamGroup)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### 6\. TeamGroup T-Force Xtreem ARGB DDR4-3600 (2 x 8GB)
 
 Best 16GB Kit For Ryzen Owners
@@ -388,10 +414,17 @@ Limited availability
 
 **Read:** [TeamGroup T-Force Xtreem ARGB DDR4-3600 review](https://www.tomshardware.com/reviews/team-group-t-force-xtreem-argb-ddr4-3600-cl14-2x8gb-review)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Best High-Speed 16GB Kit: Patriot Viper Steel DDR4-4400](https://cdn.mos.cms.futurecdn.net/L42kMBPBG2WqJXmCac2DRL-320-80.jpg)
 
  Best High-Speed 16GB Kit: Patriot Viper Steel DDR4-4400  (Image credit: Patriot)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 7\. Patriot Viper Steel DDR4-4400 (2 x 8GB)
 
 Best High-Speed 16GB Kit
@@ -636,6 +669,9 @@ White light diffusers cast pastel hues
 
 **Read:** [Corsair Vengeance RGB Pro DDR4-3200 review](https://www.tomshardware.com/reviews/corsair-ddr4-3200-vengeance-rgb-pro-memory,5681.html)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Two-DIMM 32GB Kit: Patriot Viper Steel DDR4-3200](https://cdn.mos.cms.futurecdn.net/Aswq3GbHAwJGCj24mcDnBa-320-80.jpg)
 
  Best Two-DIMM 32GB Kit: Patriot Viper Steel DDR4-3200  (Image credit: Patriot)
@@ -700,6 +736,9 @@ Some buyers want RGB
 
 **Read:** [Patriot Viper Steel DDR4-3200 review](https://www.tomshardware.com/reviews/patriot-viper-steel-dram-2x-16gb-ddr4-3200-c16,6140.html)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Two-DIMM 64GB Kit: Patriot Viper Steel DDR4-3200](https://cdn.mos.cms.futurecdn.net/L42kMBPBG2WqJXmCac2DRL-320-80.jpg)
 
  Best Two-DIMM 64GB Kit: Patriot Viper Steel DDR4-3200  (Image credit: Patriot)
@@ -756,6 +795,9 @@ Perfect for boards with two RAM slots
 
 **Read:** [Patriot Viper Steel DDR4-3600 C18 2x32GB review](https://www.tomshardware.com/reviews/patriot-viper-steel-series-ddr4-3600-ram-kit-review)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Best High-Speed 32GB Kit for Manual Tuning: G.Skill Trident Z Neo DDR4-3600](https://cdn.mos.cms.futurecdn.net/QXPYwckKooUZtfryoZmyN8-320-80.jpg)
 
  Best High-Speed 32GB Kit for Manual Tuning: G.Skill Trident Z Neo DDR4-3600  (Image credit: G.Skill)
@@ -812,6 +854,9 @@ A little on the expensive side
 
 **Read:** [G.Skill Trident Z Neo DDR4-3600 C16 2x16GB review](https://www.tomshardware.com/reviews/gskill-trident-z-neo-ddr4-3600-c16-2x16gb-review)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Best 16GB Kit for H370 and B360: Corsair Vengeance LPX DDR4-2666](https://cdn.mos.cms.futurecdn.net/CEZ2n9Fq6bw4F5WiSYTbnK-320-80.jpg)
 
  Best 16GB Kit for H370 and B360: Corsair Vengeance LPX DDR4-2666  (Image credit: Corsair)
@@ -866,10 +911,16 @@ Top non-XMP setting is DDR4-2133
 
 **Read:** [Corsair Vengeance LPX DDR4-2666 review](https://www.tomshardware.com/reviews/corsair-vengeance-lpx-ddr4-2666-2x8gb)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Savings on the Best RAM
 
  Whether you're buying DIMMs that made our list of the best RAM or not, you may find savings by checking out our lists of[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) and[Corsair coupon codes](https://www.tomshardware.com/coupons/corsair.com) .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 3\. Corsair Vengeance DDR5-5200 (4 x 48GB)
 
 Best 192GB DDR5 Kit

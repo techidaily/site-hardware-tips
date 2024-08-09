@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Single-Run Technique Produces Functional Robotic Hand: A Leap Toward Personal Printers for Replacing Lost Arms"
-date: 2024-08-07 10:11:11
-updated: 2024-08-08 12:16:24
+date: 2024-08-08T04:23:34.312Z
+updated: 2024-08-09T04:23:34.312Z
 tags:
   - printer
 categories:
@@ -29,6 +29,9 @@ Bambu Lab has teased an upcoming, high-speed 3D printer, due to launch December 
 
  You can currently pre-order the Bambu Lab A1 Mini if build volume isn’t a huge concern for you. If you want to hold out for the A1, follow[Bambu Lab](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Fukaidot.sjv.io%2Fdaqnoj) and check back on December 14th to see what it brings to the table.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: Unlock Superior Heat Dissipation for Delidded AMD Ryzeam 5 with EK's Bespoke Waterblock Technology
-date: 2024-08-08 19:13:12
-updated: 2024-08-09 11:43:49
+date: 2024-08-08T04:23:15.284Z
+updated: 2024-08-09T04:23:15.284Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  Here we’re looking at an SSD cooler from Akasa, which many of you may know for SFF and Mini-PC products – like the[Gem Pro Raspberry Pi Case](https://www.tomshardware.com/reviews/akasa-gem-pro-raspberry-pi-case) . The heatsink we’re looking at is called the Gecko Cooler, and it stands out from the crowd by incorporating a blower-style cooler more commonly used for server GPUs. Does it perform well enough to compete with the best SSD heatsinks for your storage? Before we get to the[benchmarks](https://www.tomshardware.com/tag/benchmark) , we’ll take a quick look at the features and specifications.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## NVMe SSD Heatsink specifications
 
  Swipe to scroll horizontally
@@ -66,6 +69,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/38Miz6eDpevqRxfaprboxL-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -90,6 +96,10 @@ Included with the cooler are the following:
 
  3\. Place the heatsink on top of the SSD, and secure it using the included screws.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/SCQByvYr63Bq7HpENKTzVf-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -108,6 +118,9 @@ Included with the cooler are the following:
 
  What first caught my eye about the Akasa Gecko cooler is that it features a blower-style cooler traditionally associated with server GPUs. While they call it the “Gecko” cooler, it looks more like a snail than a lizard.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/UDbziUwtN3KVN4zhuUpjTe-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -128,10 +141,17 @@ Included with the cooler are the following:
 
 Akasa’s Gecko Cooler features a jet-black aesthetic, with no lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/bDn4bJ4gwusZnvPbmT75Cg-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for an SSD?
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who typically just loads a few applications and games, you probably don’t need an advanced heatsink with a fan. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.

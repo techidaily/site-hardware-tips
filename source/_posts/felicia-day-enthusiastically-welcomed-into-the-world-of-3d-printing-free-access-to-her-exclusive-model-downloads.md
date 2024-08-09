@@ -1,7 +1,7 @@
 ---
 title: "Felicia Day Enthusiastically Welcomed Into the World of 3D Printing: Free Access to Her Exclusive Model Downloads!"
-date: 2024-08-05 20:16:40
-updated: 2024-08-08 10:49:55
+date: 2024-08-08T04:23:17.576Z
+updated: 2024-08-09T04:23:17.576Z
 tags:
   - printer
 categories:
@@ -39,6 +39,10 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 | Machine Footprint    | 390 x 229 x 235 mm (15.4 x 9.01 x 9.5 inches) | Row 7 - Cell 2 |
 | Machine Weight       | 4 kg (8.8 lbs)                                | Row 8 - Cell 2 |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Anycubic Photon Mono 2](https://cdn.mos.cms.futurecdn.net/7gFef2JgyWgGfLnio8cBVc-320-80.png)
 
  (Image credit: Anycubic)

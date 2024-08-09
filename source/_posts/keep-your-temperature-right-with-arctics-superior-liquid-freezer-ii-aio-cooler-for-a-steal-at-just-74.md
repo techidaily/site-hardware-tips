@@ -1,7 +1,7 @@
 ---
 title: Keep Your Temperature Right with Arctic's Superior Liquid Freezer II AIO Cooler for a Steal at Just $74!
-date: 2024-08-08 17:48:13
-updated: 2024-08-09 10:31:27
+date: 2024-08-08T04:23:23.145Z
+updated: 2024-08-09T04:23:23.145Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,7 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

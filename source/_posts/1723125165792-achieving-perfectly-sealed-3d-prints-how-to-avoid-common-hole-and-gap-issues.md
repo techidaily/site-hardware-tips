@@ -1,7 +1,7 @@
 ---
 title: "Achieving Perfectly Sealed 3D Prints: How to Avoid Common Hole and Gap Issues"
-date: 2024-08-07 17:39:57
-updated: 2024-08-08 10:19:55
+date: 2024-08-08T04:23:13.970Z
+updated: 2024-08-09T04:23:13.970Z
 tags:
   - printer
 categories:
@@ -17,12 +17,18 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ## 1\. Holes and Gaps on the Top Section of the Print
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/hizhp3jQoN2EAWHJsY3NPA-320-80.png)
 
  (Image credit: Eliteprint3d)
 
  Holes and gaps on the top section of your 3D print can quickly be noticed and are usually characterized by hollow or sunken areas on the top surfaces. They typically occur during the cooling phase of the 3D printing process, and the deposited layers retract or shrink, leaving voids behind on the top surfaces. They can also occur when there is no sufficient top-layer infill. You can fix these by increasing the top layer thickness so that more material is deposited to create a more solid surface.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/KehSpotVtUyHXKE6wK8jY8-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -35,6 +41,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  When the uppermost layers of the print do not have sufficient support or material to form a solid surface, the deposited filament may retract or shrink, leaving behind voids that manifest as holes or depressions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Tiny Holes in the Walls of the 3D Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/ohZWqZjArgJmwVqf8fhtu9-320-80.png)
@@ -71,6 +80,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can 3D print a[flow calibration cube](https://www.thingiverse.com/thing:4838076) and use it to find the optimal value. You must also lower the layer height (the distance between each layer deposited). The default value is usually 0.2mm. Slowing down the 3D printing speed can also help fix the issue, as it allows for better deposition and improved bonding between the layers. In addition to adjusting those settings, you also need to ensure that the filament you are using is dry as moisture in the filament can cause pressure build-up in the nozzle. When extruded, it might not come out as intended, and this brings problems. You need also to ensure that it has a consistent diameter all through.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Gaps in the First Few Layers of the 3D Print
 
  Gaps in the initial layers of your print can be as a result of an improperly leveled print bed. If the distance between the nozzle and the bed is uneven, it can contribute to the gaps. If it is too close to the bed, for example, it may compress the filament affecting the smooth flow and leading to gaps as the material struggles to extrude.
@@ -79,18 +91,27 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can[manually level your 3D printer bed](https://www.tomshardware.com/how-to/level-3d-printer-bed) or use the automatic bed leveling feature found in most of the best[3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) . You can[correctly set the Z offset of your 3D printer](https://www.tomshardware.com/how-to/correctly-set-3d-printer-z-offset) manually by adjusting the nozzle height as you place a piece of paper on the bed. You can find the Z offset setting on the menu of your 3D printer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/TtXhijJg3aMuMsYBQqUwB9-320-80.png)
 
  (Image credit: Tom's Hardware)
 
 ## 5\. Holes and Gaps in the Corners of the Print
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/yNYqczmqhVnKMJbe2eFSLF-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  3D printers usually face challenges when printing corners, especially those that are sharp because the extruder needs to change direction and accelerate within a short time when it comes across those areas. There can be a build up of pressure on the extruder as the printer navigates through the corners which can lead to variations in extrusion, more so when printing at high speeds. To fix this, you need to start by adjusting the acceleration and jerk settings to ensure that the extruder can smoothly transition between different directions without introducing excessive vibrations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/vXV42Vo2jQBbjNLJ56uaP8-320-80.png)
 
  (Image credit: Tom's Hardware)

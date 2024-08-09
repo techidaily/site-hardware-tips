@@ -1,7 +1,7 @@
 ---
 title: How to Excel with ORCA-Slicer - Beginner's Walkthrough
-date: 2024-08-07 18:12:44
-updated: 2024-08-08 11:10:35
+date: 2024-08-08T04:23:03.940Z
+updated: 2024-08-09T04:23:03.940Z
 tags:
   - printer
 categories:
@@ -22,6 +22,9 @@ The Elegoo Neptune 4 Pro received our Editor's Choice award when[we reviewed](ht
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FELEGOO-Firmware-Leveling-Extruder-8-85x8-85x10-43%2Fdp%2FB0C749177C%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6034715685822910012-20)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications of Elegoo Neptune 4 Pro
 
  Swipe to scroll horizontally

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Overclocking Game with Arctic Freezer 36 Coolers – Specially Designed for Intel's Newest Processors and Sockets
-date: 2024-08-08 23:37:10
-updated: 2024-08-09 12:49:50
+date: 2024-08-08T04:23:17.538Z
+updated: 2024-08-09T04:23:17.538Z
 tags:
   - cooling
 categories:
@@ -17,12 +17,18 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
   
  I tried out the improved screws with the company's new iCue Link RX120 RGB fans, but a company rep tells me the screws won't likely be included with iCue Link fans, but rather will likely debut with future cases to be determined, with an aim to make them available sometime after March.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/HZBZ5MfyidHRJLugVCZtQC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The RX120 fans, however, are a more affordable version of its QX120 / 140 RGB spinners, which the company says should sell for about $35 each (rather than $50 each for the QX models). They have fewer RGBs and a replaceable light diffusion side panel. And Corsair claims their noise-normalized performance is still right up there with the best from the likes of Noctua.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/5LYXfgY5XcJqwBCBrBDvnC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -33,6 +39,9 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/7VQTHBu25iyzUiGiUmcmcC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -41,6 +50,9 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  And the good news is at some point, you won't have to buy Corsair's fans in order to add these new screws to your PC-building arsenal. A Corsair rep told me that the company will be selling these screws as a standalone product at some point, likely later this year. Are these screws likely to make a major dent in the difficulty level of PC builds? Not really. But they do seem to be a minor improvement, and it's good to see companies thinking of small ways of streamlining one of our favorite hobbies. Now if only Corsair could manage to make all of its its cable-decluttering[iCue Link system](https://www.tomshardware.com/news/corsair-icue-link-tested) more affordable.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

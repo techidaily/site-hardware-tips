@@ -1,7 +1,7 @@
 ---
 title: Head-to-Head Comparison of Leading 120MM AIO CPU Cooling Solutions From Be Quiet, Corsair, Cooler Master & Enermax
-date: 2024-08-06 19:12:30
-updated: 2024-08-09 11:11:11
+date: 2024-08-08T04:23:23.654Z
+updated: 2024-08-09T04:23:23.654Z
 tags:
   - cooling
 categories:
@@ -31,6 +31,10 @@ Joining its ever-growing roster of[all-black CPU coolers](https://www.tomshardwa
 
  However, an AIO may not always be ideal, particularly if your SFF or slim case of choice doesn't happen to have the free fan slot(s) you need to make the most of it. And finally, performance-wise,[reviews suggest](https://youtu.be/xZQwKgf%5FIYU?t=380) that the original Noctua NH-D12L performs on par with much larger CPU coolers as well, which means it should outperform most 120 mm AIOs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: Top Discounts on 3D Printing Equipment
-date: 2024-08-06 19:30:33
-updated: 2024-08-08 10:10:45
+date: 2024-08-08T04:23:22.622Z
+updated: 2024-08-09T04:23:22.622Z
 tags:
   - printer
 categories:
@@ -21,6 +21,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Monika McWuff's Speed Benchy](https://cdn.mos.cms.futurecdn.net/mTazNtSbjNwCzpKmaPvcWB-320-80.jpg)
 
  (Image credit: Monika McWuff)
@@ -31,6 +34,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +47,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Other mods are pure out-of-the-box thinking, like using a floor blower for cooling and bolting the printer to a 45-pound rubber bumper plate from the gym. “I used wood screws and some brackets to screw the printer down to the plate and dissipate energy,” she said.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
  (Image credit: Monika McWuff)
@@ -51,6 +60,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
 
  (Image credit: Monika McWuff)

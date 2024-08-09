@@ -1,7 +1,7 @@
 ---
 title: Innovative & Inexpensive Printing with Creality's Ender 3 Pro v3 - Top of the Line for Maker Enthusiasts
-date: 2024-08-06 23:34:14
-updated: 2024-08-08 12:32:58
+date: 2024-08-08T04:23:21.696Z
+updated: 2024-08-09T04:23:21.696Z
 tags:
   - printer
 categories:
@@ -44,3 +44,7 @@ Black Friday doesn't officially arrive for a couple more days, but the best deal
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->

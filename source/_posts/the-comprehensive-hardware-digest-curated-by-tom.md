@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive Hardware Digest - Curated by Tom
-date: 2024-08-05 19:23:43
-updated: 2024-08-08 10:26:33
+date: 2024-08-08T04:23:07.654Z
+updated: 2024-08-09T04:23:07.654Z
 tags:
   - printer
 categories:
@@ -27,6 +27,13 @@ According to hands-on testing from Thomas Sanladerer, aka Made with Layers on Yo
 
  Overall, the Made with Layers video doesn't present the Easythreed K9 3D printer as a truly optimal way into entry-level 3D printing. We would still recommend checking our list of[industry-leading 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) , particularly if you can afford to spend even $150 or so. But that 3D printing is even possible for less than $80 is truly impressive, and bodes well for the future of the 3D printing industry and businesses aligned to it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

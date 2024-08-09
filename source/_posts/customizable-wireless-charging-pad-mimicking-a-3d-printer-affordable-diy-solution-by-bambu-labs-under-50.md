@@ -1,7 +1,7 @@
 ---
 title: Customizable Wireless Charging Pad Mimicking a 3D Printer - Affordable DIY Solution by Bambu Labs Under $50
-date: 2024-08-05 13:33:46
-updated: 2024-08-08 11:22:24
+date: 2024-08-08T04:22:59.235Z
+updated: 2024-08-09T04:22:59.235Z
 tags:
   - printer
 categories:
@@ -29,6 +29,9 @@ Bambu Lab has teased an upcoming, high-speed 3D printer, due to launch December 
 
  You can currently pre-order the Bambu Lab A1 Mini if build volume isn’t a huge concern for you. If you want to hold out for the A1, follow[Bambu Lab](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Fukaidot.sjv.io%2Fdaqnoj) and check back on December 14th to see what it brings to the table.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "Stay Cool with Thermal Grizzly's New Heatspreader: A Remarkable 15°C Drop in Processor Temperatures"
-date: 2024-08-06 21:28:12
-updated: 2024-08-09 12:58:48
+date: 2024-08-08T04:23:02.574Z
+updated: 2024-08-09T04:23:02.574Z
 tags:
   - cooling
 categories:
@@ -13,18 +13,30 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 
 DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardware.com/tag/computex) , with new air and liquid coolers for CPUs, plus fans, PC cases, and power supplies that comply with the latest Intel ATX 3.1 and PCIe 5.1 standards. DeepCool has options ready for the newly introduced standards, including motherboards with reversed side connectors. Additionally, it expanded on a couple of its CPU cooler models while also providing some decorative options that will appeal to aesthetically minded users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## CPU coolers for air and water
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Assassin IV VC Vision CPU cooler, including its heatsink](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Assassin IV VC Vision CPU cooler, including its heatsink  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
@@ -45,6 +57,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  In related news, Noctua introduced its[NH-L12Sx77 low-profile cooler](https://www.tomshardware.com/pc-components/air-cooling/noctua-releases-low-profile-cpu-coolers-for-sff-builds-nh-l12sx77-has-better-clearance-for-ram-vrm-heatsinks) recently that allows clearance for tall RAM sticks and heatsinks. These low-profile CPU coolers are useful for mini-ITX system builders as they can provide good enough cooling within the space constraints, as many larger coolers won't fit within diminutive ITX cases.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DeepCool LP Matrix AIO CPU Coolers with 240mm and 360mm variants.](https://cdn.mos.cms.futurecdn.net/w67VwSrgCufkGWhFrmFEAS-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -63,10 +78,17 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![DeepCool CH160 MESH ITX Case Series](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
@@ -89,6 +111,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Sleeved modular cables](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Sleeved modular cables  (Image credit: DeepCool)

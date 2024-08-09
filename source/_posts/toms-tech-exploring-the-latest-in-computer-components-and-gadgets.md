@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech: Exploring the Latest in Computer Components and Gadgets"
-date: 2024-08-06 19:52:54
-updated: 2024-08-08 12:54:32
+date: 2024-08-08T04:23:27.574Z
+updated: 2024-08-09T04:23:27.574Z
 tags:
   - best-picks
 categories:
@@ -17,6 +17,9 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
  Finally, one of the significant changes that the[ATX12V v3.0 spec](https://www.tomshardware.com/news/intel-atx-v3-psu-standard) brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quick Power Supply Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -129,10 +132,25 @@ Not as quiet as the CWT-made CX450
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair CX550F RGB](https://cdn.mos.cms.futurecdn.net/6Awr7xo28qvVbRcyUWEXsE-320-80.jpg)
 
 Corsair CX550F RGB  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [2. Corsair CX550F RGB](https://www.tomshardware.com/reviews/corsair-cx550f-rgb-power-supply-review)
 
 Best Mid-Level RGB PSU: Up to 550 Watts
@@ -245,6 +263,9 @@ Lower than 17ms hold-up time
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Corsair RM550x (2021)](https://cdn.mos.cms.futurecdn.net/Re2rASUVFu9qjHvAxT76fS-320-80.jpg)
 
 Corsair RM550x (2021)  (Image credit: Tom's Hardware)
@@ -327,6 +348,9 @@ Single EPS connector
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![XPG Core Reactor 650W](https://cdn.mos.cms.futurecdn.net/H5i6mEj6Z8wWiedKoEYaN4-320-80.jpg)
 
 XPG Core Reactor 650W  (Image credit: Tom's Hardware)
@@ -415,6 +439,9 @@ Two EPS connectors on the same cable
 
 Cooler Master V750 Gold V2  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [5. Cooler Master V750 Gold V2](https://www.tomshardware.com/reviews/cooler-master-v750-gold-v2-power-supply-review)
 
 Best PSU: Up to 750 Watts
@@ -519,10 +546,16 @@ Small distance between connectors
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![EVGA 850 G7](https://cdn.mos.cms.futurecdn.net/K3svbq62HdPCjccFvPzoZR-320-80.jpg)
 
 EVGA SuperNOVA 850 G7  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [6. EVGA SuperNOVA 850 G7](https://www.tomshardware.com/reviews/evga-supernova-850-g7-power-supply-review)
 
 Best PSU: Up to 850 Watts
@@ -715,6 +748,9 @@ High inrush current with 115V
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Thermaltake ToughPower GF3 1350](https://cdn.mos.cms.futurecdn.net/h7UgjqyFWuvb7rBDyYkhtS-320-80.jpg)
 
 Thermaltake Toughpower GF3 1350  (Image credit: Tom's Hardware)
@@ -789,6 +825,9 @@ Load regulation could be tighter
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair AX1600i](https://cdn.mos.cms.futurecdn.net/J5baPqhhaxZgKKnRm9WBHX-320-80.jpg)
 
 Corsair AX1600i  (Image credit: Tom's Hardware)
@@ -997,6 +1036,9 @@ Semi-passive mode can’t be deactivated
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Silverstone SX1000 Platinum](https://cdn.mos.cms.futurecdn.net/NB33egmhentEEmhZH2bCkn-320-80.jpg)
 
 Silverstone SX1000 Platinum  (Image credit: Tom's Hardware)
@@ -1087,6 +1129,9 @@ Noisy under high loads
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Finding Discounts on the Best Power Supplies
 
  Whether you're shopping for one of the best power supplies or just looking for an affordable alternative, you may find savings by checking out our lists of the latest[Corsair coupon codes](https://www.tomshardware.com/coupons/corsair.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) and[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .

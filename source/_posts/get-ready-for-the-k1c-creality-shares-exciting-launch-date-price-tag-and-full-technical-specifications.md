@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for the K1C: Creality Shares Exciting Launch Date, Price Tag & Full Technical Specifications!"
-date: 2024-08-06 16:42:47
-updated: 2024-08-08 11:55:31
+date: 2024-08-08T04:23:23.114Z
+updated: 2024-08-09T04:23:23.114Z
 tags:
   - printer
 categories:
@@ -39,6 +39,9 @@ Getting started with resin 3D printing is a little more difficult and sometimes 
 | Machine Footprint    | 390 x 229 x 235 mm (15.4 x 9.01 x 9.5 inches) | Row 7 - Cell 2 |
 | Machine Weight       | 4 kg (8.8 lbs)                                | Row 8 - Cell 2 |
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Anycubic Photon Mono 2](https://cdn.mos.cms.futurecdn.net/7gFef2JgyWgGfLnio8cBVc-320-80.png)
 
  (Image credit: Anycubic)

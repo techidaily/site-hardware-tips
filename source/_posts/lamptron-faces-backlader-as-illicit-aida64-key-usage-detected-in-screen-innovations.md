@@ -1,7 +1,7 @@
 ---
 title: LampTron Faces Backlader as Illicit AIDA64 Key Usage Detected in Screen Innovations
-date: 2024-08-07 22:59:37
-updated: 2024-08-09 10:51:20
+date: 2024-08-08T04:23:32.413Z
+updated: 2024-08-09T04:23:32.414Z
 tags:
   - cooling
 categories:
@@ -19,6 +19,30 @@ Lamptron (via[Caseking](https://go.redirectingat.com/?id=92X1584492&xcust=tomsha
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+Lamptron ST060  (Image credit: Caseking)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+Lamptron ST060  (Image credit: Caseking)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+Lamptron ST060  (Image credit: Caseking)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -27,18 +51,9 @@ Lamptron ST060  (Image credit: Caseking)
 
 Lamptron ST060  (Image credit: Caseking)
 
-![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-Lamptron ST060  (Image credit: Caseking)
-
-![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-Lamptron ST060  (Image credit: Caseking)
-
-![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-Lamptron ST060  (Image credit: Caseking)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Lamptron ST060](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 Lamptron ST060  (Image credit: Caseking)
@@ -51,6 +66,9 @@ Lamptron ST060  (Image credit: Caseking)
 
  German retailer Caseking sells the Lamptron ST060 for around[$273](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1459285694511670858&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-6-zoll-display-schwarz-luls-381.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , excluding VAT (value-added tax). The ARGB model with black fans seems to retail for the[same price](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F9735574776972625510&xs=1&url=https%3A%2F%2Fwww.caseking.de%2Flamptron-st060-dual-120-mm-towerkuehler-argb-mit-6-zoll-display-schwarz-luls-382.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcooling%2Flamptrons-new-cpu-cooler-has-a-screen-as-big-as-the-iphone-15-st060-sports-a-six-inch-lcd-with-a-1920x1080-resolution-that-functions-as-a-second-display) , so it really just comes down to preference.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

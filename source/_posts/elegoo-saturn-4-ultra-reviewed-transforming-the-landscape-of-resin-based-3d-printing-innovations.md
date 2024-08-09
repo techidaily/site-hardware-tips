@@ -1,7 +1,7 @@
 ---
 title: Elegoo Saturn 4 Ultra Reviewed - Transforming the Landscape of Resin-Based 3D Printing Innovations
-date: 2024-08-06 19:45:57
-updated: 2024-08-08 10:43:41
+date: 2024-08-08T04:23:26.117Z
+updated: 2024-08-09T04:23:26.117Z
 tags:
   - printer
 categories:
@@ -17,10 +17,16 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/ehb3QQveQ2HxQZTG955tbF-320-80.jpg
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Photographs showing a a typical commercial 3D printer with a photonic chip (outlined in black) for scale and b a fabricated and packaged photonic chip. c Conceptual diagram of the proposed chip-based 3D printer, showing a hologram formed by a chip within a resin chamber (not to scale). d Conceptual diagram of the proof-of-concept stereolithography-inspired chip-based 3D printer demonstrated in this work (not to scale)  (Image credit: MIT)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  a Electrically controlled beam steering of the main lobe of the 3D-printer chip’s visible-light integrated optical phased array when a square wave with a varying peak voltage is applied across the liquid-crystal-based phase shifter53,54\. b Photographs of a 3D-printed line, created using the chip-based printer, within a well of remaining liquid resin (top) and the same solid 3D-printed line after separation from the remaining liquid resin (bottom). c Photographs of a 3D-printed MIT logo created using the chip-based printer, with a U.S. nickel for scale (left) and zoomed in (right)  (Image credit: MIT)
@@ -37,6 +43,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/ehb3QQveQ2HxQZTG955tbF-320-80.jpg
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

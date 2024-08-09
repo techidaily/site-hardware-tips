@@ -1,7 +1,7 @@
 ---
 title: Stay Frosty Without Breaking the Bank – Snag the Arctic AIOLD2018A v2 Air Cooler at $74 Deal Today
-date: 2024-08-08 23:34:59
-updated: 2024-08-09 10:21:29
+date: 2024-08-08T04:23:04.047Z
+updated: 2024-08-09T04:23:04.047Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,7 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

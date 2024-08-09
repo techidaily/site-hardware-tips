@@ -1,7 +1,7 @@
 ---
 title: The Definitive Verdict on TeamGroup T-Force Dark Airflow I - Superior Performance for Your Fastest SSDs
-date: 2024-08-06 11:37:12
-updated: 2024-08-09 12:31:32
+date: 2024-08-08T04:23:21.135Z
+updated: 2024-08-09T04:23:21.135Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
  Performance enthusiasts often swear by a favorite brand of paste, but new recipes crop up fairly frequently. We've extensively tested some of the top thermal pastes on the market. If you're hunting for more exotic pastes off the beaten path, we also have plenty of historical data below covering 90 different pastes (and yes, we've even tested toothpaste).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![CPU Die and IHS](https://cdn.mos.cms.futurecdn.net/FuWchQSP8eEKNP5wZMEQgH-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -35,6 +38,9 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
  Here are the best thermal pastes, along with our complete test results. Remember that you don't always get what you pay for as some budget pastes come awfully close to or overtake their more expensive competitors.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Thermal Paste for CPUs You Can Buy
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -47,6 +53,9 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Toplamp TL-A40
 
 Best Premium
@@ -99,6 +108,9 @@ None
 
 ### Best Premium Paste (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Best Premium Paste (Runner-up)
 
 ![Kooling Monster KOLD-01](https://cdn.mos.cms.futurecdn.net/XpopZgrSJNneJsCYNGiweF-320-80.jpg)
@@ -153,6 +165,9 @@ Price per gram
 
  Kooling Monster KOLD-01 is a mildly viscous thermal compound with good stability. This paste is designed to last long without reapplication, making it a favorite among many system builders. Our test results measure it at only 0.1c behind Toplamp’s TL-A40, which is within the margin of error. In our opinion, they’re equally strong performers.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Premium Non-Standard Compound
 
 ## Best Premium Non-Standard Compound
@@ -217,14 +232,26 @@ Generally more expensive than paste
 
  Honeywell’s PTM7950 is a thermal compound like no other— this thermal pad changes from a solid to a liquid upon applying heat and pressure. With our air cooling results, PTM7950 had the best results of any non-liquid metal compound. Its primary downside is longer burn-in times. We recommend giving it a strong thermal test after application to ensure you're getting the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Best Premium Non-Standard Compound (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Best Premium Non-Standard Compound (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermal Grizzly Kryosheet](https://cdn.mos.cms.futurecdn.net/UCTp3Akn8GHSZsxJU4vnTF-320-80.jpg)
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Thermal Grizzly Kryosheet
 
 Best Premium Non-Standard Compound
@@ -277,6 +304,9 @@ Moderate cost
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Thermal Grizzly Conductonaut
 
 Best Liquid Metal Thermal Paste
@@ -329,6 +359,10 @@ Electrically conductive
 
  Thermal Grizzly’s Conductonaut is the best-performing thermal compound, matching or beating all competitors we tested on both air and liquid cooling systems. If you’re looking for the best performance on the market, bar none, you’ll want to pick up Thermal Grizzly’s Conductonaut. It is electrically conductive, so proceed with care.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Best Liquid Metal Thermal Paste (Runner-up)
 
 ## Best Liquid Metal Thermal Paste (Runner-up)
@@ -391,6 +425,9 @@ Electrically conductive
 
  BeQuiet’s DC2 Pro is on par with Thermal Grizzly’s Conductonaut overall but is available for much less. As with all liquid metal compounds, extra care will be needed during installation due to electrical conductivity.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thermal Paste Performance Rankings
 
  Here's a breakdown of our recent testing, and we'll be adding new pastes to this list over the coming weeks and months. A bit further down, you'll find our original rounds of testing with 85 different pastes tested in 2017 and 90 pastes tested in 2022, some of which we've revisited in this new performance hierarchy. That should give you a good idea of how other pastes we haven't retested yet would compare to the newer ones.
@@ -399,10 +436,17 @@ Electrically conductive
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Thermal Pastes](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Thermal Pastes](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -439,6 +483,18 @@ Electrically conductive
 
  Not every system will need the most expensive compound, so even the most budget-minded system builders can rest easy knowing that even lower-cost pastes can prove very effective. For most users, we recommend Toplamp’s AL-140 because it is one of the best pastes we’ve tested and is cheap at only $6.99 USD. After the test setup, you can see our historical testing results with far more pastes.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Test System Configuration and Testing Methods
 
  Swipe to scroll horizontally
@@ -456,6 +512,9 @@ Electrically conductive
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Legacy Thermal Paste Testing - 90 Pastes Tested
 
  Here are our legacy thermal paste testing charts from 2017 and late 2022, but our newest testing is above. As you'll notice, many of the same popular pastes in 2022 are still on the market, making it into our new round of 2024 testing.
@@ -474,20 +533,32 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -508,6 +579,9 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Thermal Paste](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

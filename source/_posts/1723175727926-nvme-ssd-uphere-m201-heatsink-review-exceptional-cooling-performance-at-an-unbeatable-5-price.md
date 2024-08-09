@@ -1,7 +1,7 @@
 ---
 title: NVMe SSD UpHere M201 Heatsink Review - Exceptional Cooling Performance at an Unbeatable $5 Price!
-date: 2024-08-08 15:56:41
-updated: 2024-08-09 12:16:52
+date: 2024-08-08T04:22:59.678Z
+updated: 2024-08-09T04:22:59.678Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ PC cooling specialist[Noctua](https://www.tomshardware.com/reviews/noctua-nh-u12
 
  Pondering over the main attraction first, the NV-FS1 provides quiet but powerful air cooling in an angled adjustable frame. Central to the design is one of Noctua’s well-regarded fans, the award-winning[NF-A12x25](https://www.tomshardware.com/features/noctua-nf-a12x25-vs-toughfan-120) PWM 120mm fan. This is fronted by an NV-AA1 airflow amplifier (available separately), and cradled by a pivoting steel mount/stand. The included NV-FM1 stand (available separately) has dampening, magnets, zip-tie slots, and screw mounting holes for flexible placing and fixing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Noctua Home cooling products](https://cdn.mos.cms.futurecdn.net/N2bE6ahubgrRynfCRJnYVE-320-80.jpg)
 
  (Image credit: Noctua)
@@ -27,6 +30,9 @@ PC cooling specialist[Noctua](https://www.tomshardware.com/reviews/noctua-nh-u12
 
  Noctua’s NV-FS2 is the other major product in the new Home range,[priced at $79.90](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0D1QKG8NN%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2339653445885379685-20) on[Amazon](https://www.tomshardware.com/tag/amazon) . The cooling firm envisions customers buying (multiples of) this product to mount to[hot-running](https://www.tomshardware.com/pc-components/cpus/intels-latest-cpus-run-so-hot-that-delidding-has-become-common-ekwb-introduced-worlds-first-aio-liquid-cooler-designed-for-delidded-cpus) electronic devices around the home. Examples given are A/V receivers, stereo equipment, routers, game consoles, and storage solutions. Again we see Noctua leveraging its NF-A12x25 PWM 120mm fan.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Noctua Home cooling products](https://cdn.mos.cms.futurecdn.net/eCJapHYAbMS4GoUJjJPLbE-320-80.jpg)
 
  (Image credit: Noctua)
@@ -35,6 +41,9 @@ PC cooling specialist[Noctua](https://www.tomshardware.com/reviews/noctua-nh-u12
 
  As mentioned in the intro, Noctua also released a series of bits and pieces to support its Home range. As well as the components that would allow you to make up your own desk fan (except the power extension cable), there are things like fan hubs, fan sets, pads, and gaskets. These have all been chosen to help facilitate your DIY home optimization projects, big or small.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)"
-date: 2024-08-05 23:45:53
-updated: 2024-08-08 11:17:29
+date: 2024-08-08T04:23:04.827Z
+updated: 2024-08-09T04:23:04.827Z
 tags:
   - printer
 categories:
@@ -15,6 +15,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  We attended in person to check out all the excitement and see the latest tech and cool innovations in 3D printing for ourselves. Here are a few highlights from the Rapid + TCT 2024 event:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Elegoo boasts Centauri Carbon, Mars 5 and Orange Storm Giga
 
  Image 1 of 3
@@ -41,6 +44,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Elegoo also had the impressive Orange Store Giga on display. It's the largest consumer 3D printer currently on the market, which comes with an 800 x 800 x 1000 mm build volume. The printer launched as a Kickstarter and is currently in beta testing. Tom’s Hardware has a unit in our reviewer’s living room and will release a review once pricing has been set.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Anycubic shows Photon Mono M7 and Kobra 3
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/GZbfPmGcPxYsBegbXPaAef-320-80.jpg)
@@ -49,6 +55,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Anycubic showed off its latest four-color machine, the Kobra 3, and a high-speed resin, the Photon Mono M7 Pro. For more details on features and performance, read our[Kobra 3](https://www.tomshardware.com/3d-printing/anycubic-kobra-3-review) review.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,12 +70,18 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
 ## Bambu Lab: Nothing New
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/hgtGFEzAu9a8CMtvExhcLF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Bambu Lab may have has suffered a setback from their[A1 recall](https://www.tomshardware.com/3d-printing/bambu-lab-a1-recall-company-asks-owners-to-turn-off-their-3d-printers-as-micro-center-pulls-product-from-shelves) . They did not have any new machines to present, but did showcase the revamped A1 alongside the A1 Mini and X1 Carbon.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Creality brings out the K2 Plus
 
 ![Rapid + TCT](https://cdn.mos.cms.futurecdn.net/p374ZNnLKuMUM4Qb6WUqTk-320-80.jpg)
@@ -79,6 +94,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +113,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  The Prusa team also had on display its well-known consumer units, the MK4, XL and Mini. The MK4 and XL are both exceptional printers with places on our list of[Best 3D Printers](https://www.tomshardware.com/best-picks/best-3d-printers#section-fastest-3d-printer) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Formlabs demos Professional Resin
 
  Image 1 of 3
@@ -103,6 +124,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -113,6 +137,9 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  Formlabs had a live demo of the new Form 4 resin, a versatile machine with an LCD-based system. The superfast Form 4 is said to rival injection-molded parts while still being small enough to fit on your desktop. Geared for industrial use, with a spicy price tag of $4,500, Formlabs has offered to loan us a machine to check out. Look for our in-depth review of this later this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Polymaker launches Panchroma and Fiberon
 
  Image 1 of 3
@@ -121,10 +148,16 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Rapid + TCT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

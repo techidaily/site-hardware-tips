@@ -1,7 +1,7 @@
 ---
 title: "Pocket-Friendly Power: The Thermalight Spirit Phantom 120 SE, Your Best-Value Air Cooler for a Steal at Just $35!"
-date: 2024-08-08 19:10:23
-updated: 2024-08-09 10:54:42
+date: 2024-08-08T04:23:16.792Z
+updated: 2024-08-09T04:23:16.792Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,8 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->

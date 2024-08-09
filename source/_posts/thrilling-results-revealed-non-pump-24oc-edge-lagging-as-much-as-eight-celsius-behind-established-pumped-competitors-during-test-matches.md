@@ -1,7 +1,7 @@
 ---
 title: "Thrilling Results Revealed: Non-Pump 24^oC Edge Lagging as Much as Eight Celsius Behind Established Pumped Competitors During Test Matches"
-date: 2024-08-06 18:58:34
-updated: 2024-08-09 11:39:49
+date: 2024-08-08T04:23:15.874Z
+updated: 2024-08-09T04:23:15.874Z
 tags:
   - cooling
 categories:
@@ -23,10 +23,16 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
@@ -37,6 +43,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  That's not to say there haven't been issues with non-standard mounting before. For instance, with custom contact frames, it's been reported that screwing the frame too tightly can cause system instability and prevent super high CPU/memory[overclocks](https://www.tomshardware.com/how-to/how-to-overclock-a-cpu) from being stable.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,6 +56,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  AMD's offset bracket will not be prone to this, however, this bracket also has one glaring weakness, that being optimal compatibility with[Ryzen APUs](https://www.tomshardware.com/pc-components/cpus/amd-launches-ryzen-8000g-phoenix-apus-brings-ai-to-the-desktop-pc-reveals-zen-4c-clocks-for-the-first-time) . AMD does not use a multi-chipset design for its APUs, instead, it uses a[monolithic design](https://www.tomshardware.com/news/amd-confirms-chiplet-designs-future-mobile-cpus) just like Intel. This means that Arctic's offset could hinder cooling performance on AMD's APUs since the monolithic die is installed directly in the middle of the CPU, necessitating a default mounting configuration for optimal thermals.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Warranty Issues
 
  The biggest problem is in regard to the custom contact frame Arctic is providing for Intel LGA1700 users. Intel itself has already warned users that tampering with its ILM in any way could[void the warranty of the CPU](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) . This could raise some serious tension between Intel and Arctic if ever an Arctic Liquid Freezer III user has to RMA his/her Intel CPU under warranty.

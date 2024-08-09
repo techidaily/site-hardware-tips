@@ -1,7 +1,7 @@
 ---
 title: Quality Scandal Rocks AIO Radiator Industry as CaseKing Pulls Barrow Dabel Products Off the Market After Unsettling Test Results Revealed Presence of Harmful Materials
-date: 2024-08-06 17:35:23
-updated: 2024-08-09 11:23:17
+date: 2024-08-08T04:23:24.549Z
+updated: 2024-08-09T04:23:24.549Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,9 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
  First on deck was the Levante II, an AIO CPU cooler from its XPG gaming line. A much-needed refresh of the[Levante X 360](https://www.tomshardware.com/pc-components/cooling/xpg-levante-x-360) , the Levante II offers a few changes to address our concerns with the first model. Chiefly, the Levante II moves the AIO pump from the radiator down to the cooler head, creating a slightly thicker CPU block.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adata XPG Levante II CPU block](https://cdn.mos.cms.futurecdn.net/P5zekEaAKNkwd5vJYNpgPg-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -25,6 +28,9 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Adata XPG Hydro](https://cdn.mos.cms.futurecdn.net/2epuSdqRU5P9v2A6a65X84-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -33,12 +39,27 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
  Adata is not the most well-known name in power supplies, but it will seek to enter the market through the Pymcore SFX power supply. Likely named after Ant-Man from Marvel Comics (because one PSU referencing Marvel at[Computex](https://www.tomshardware.com/tag/computex) [wasn't enough](https://www.tomshardware.com/pc-components/power-supplies/asus-brings-the-lightning-with-hammer-shaped-mjolnir-ups-innovative-thor-psus) ), the Pymcore was first spotted at CES in January, bringing the new 600W cable to small form factor builds. The power supply will be available from 850W to 1000W, ranging in price from $219 to $249, making it one of the most expensive SFX power supplies on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Adata Pymcore power supply](https://cdn.mos.cms.futurecdn.net/qPQRW2GHswE7moBWws8D5M-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Adata is jumping into the interlocking fans market with its Hurricane Mag fans. Hurricane Mag is a series of 120mm fans that can magnetically lock together, joining the recent trend of bucking daisy-chaining PWM cables in favor of just daisy-chaining fans. Snapping together easily and quickly, the fans promise to make PC building much less painful. The fans will also come equipped with a forward/reverse flow switch, which is a welcome addition. The Hurricane Mag will be slightly above average pricing for its field, selling four fans in one package for $109 starting in August.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,12 +68,18 @@ Adata unveiled many new products at[Computex](https://www.tomshardware.com/tag/c
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adata Hurricane Mag 120mm fans](https://cdn.mos.cms.futurecdn.net/j5W4MPdnv9Dn6YaYahutuC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Rounding out our Adata coverage is another upgrade to an existing Adata product: the Adata Legend 970 Pro NVMe SSD. Not to be confused with Samsung's SSD of a similar name, the Legend 970 Pro succeeds the[Legend 970](https://www.tomshardware.com/pc-components/ssds/adata-legend-970-ssd-review) , a drive that we reviewed highly on release. The Legend 970 Pro has a few changes from its older brother, moving away from the Phison memory controller to an InnoGrit chip. Perhaps it is this change that boosts the Legend 970 Pro up to speeds of 14,000/12,000 MB/s, as compared to the advertised 10,000/10,000 MB/s of its predecessor.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Adata Legend 970 Pro SSD](https://cdn.mos.cms.futurecdn.net/4eK59fFGUNm8NkfJqNZCTg-320-80.jpg)
 
  (Image credit: Tom's Hardware)

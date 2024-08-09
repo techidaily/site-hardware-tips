@@ -1,7 +1,7 @@
 ---
 title: Public Apology From EKWB on Delayed Disbursements; Ensures Swift Action Towards Change
-date: 2024-08-08 20:49:47
-updated: 2024-08-09 10:28:20
+date: 2024-08-08T04:23:17.702Z
+updated: 2024-08-09T04:23:17.702Z
 tags:
   - cooling
 categories:
@@ -25,10 +25,17 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  DeepCool Assassin IV VC Vision CPU cooler in action at Computex 2024  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool Assassin IV VC Vision CPU cooler's vapour chamber for its heatbase  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Magnetic mountable colour display on the Assassin IV VC Vision CPU cooler  (Image credit: DeepCool)
@@ -37,6 +44,13 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool has had its AK620 and AK400 CPU coolers with similar display systems in the market available for a while, and[we already reviewed the former](https://www.tomshardware.com/reviews/deepcool-ak620-digital) . The difference between these is that the Assassin IV VC has a vapor chamber on the heat base. A few months ago, we reviewed the[DeepCool Assassin 4S CPU cooler](https://www.tomshardware.com/pc-components/air-cooling/deepcool-assassin-4s-review) that doesn't have the display or the vapor chamber, so it will be interesting to see how much of an improvement it provides.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![DeepCool AN400 CPU Cooler for SFF builds](https://cdn.mos.cms.futurecdn.net/XTMjAMoPpBDMfxZ74ADFBB-320-80.jpg)
 
  (Image credit: DeepCool)
@@ -59,6 +73,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
@@ -67,6 +85,9 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DeepCool CH160 MESH ITX Case Series](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
@@ -81,14 +102,23 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![DeepCool  LP Matrix AIO Series in 240mm and 360mm  variants](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sleeved modular cables](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Sleeved modular cables  (Image credit: DeepCool)

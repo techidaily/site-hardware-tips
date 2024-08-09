@@ -1,7 +1,7 @@
 ---
 title: "Innovative Chill: The Ultimate ID-Cooling FROZN A720 & A620 Air Cooler Reviews"
-date: 2024-08-08 21:15:14
-updated: 2024-08-09 12:39:13
+date: 2024-08-08T04:23:30.649Z
+updated: 2024-08-09T04:23:30.649Z
 tags:
   - cooling
 categories:
@@ -21,6 +21,9 @@ Today’s review will cover Lian Li’s latest AIO cooler, the Galahad II 360 LC
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -61,16 +64,25 @@ Included in the box with the cooler are the following:
 
  I had originally tested the SL-INF version, but I ran into a few issues with the unit that Lian Li sent. The company then sent the standard model as replacement, which I’ve tested with Intel’s i9-14900K, along with a few other coolers to get a sense of what it takes to cool Intel’s flagship CPU.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/jmgmu75ZGv2HiUXEJvKWEm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features of Lian Li’s Galahad II LCD 360mm AIO
 
 **LCD Display CPU Block**
 
  The most eye-catching feature of this AIO is, as its name implies, the vibrant LCD display panel on the top of the CPU block. It’s a square 2.88-inch (480 x 480-pixel) IPS screen.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/xtrD6jYWFa4DJ6A6Cf3Mqj-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -81,6 +93,9 @@ Included in the box with the cooler are the following:
 
  You’ll find a wide variety of customization options for the LCD display offered within the software. You can choose from a variety of effects, and even upload a video up to 3 minutes long.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/5nc5E4Ls2TXB6EVjoHm2w8-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -93,6 +108,9 @@ Included in the box with the cooler are the following:
 * Optimized design increases overall surface area and decreases flow impedance
 * Under-the-hood enhancements for quieter operation versus previous generations
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/rRtoFrqYx9CjusSutENj6j-320-80.png)
 
  (Image credit: Asetek)
@@ -109,6 +127,9 @@ Included in the box with the cooler are the following:
 
  The SL-INF version of this cooler includes a hardware hub allowing control and syncronized lighting of additional fans, if you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/EmV3Nz8XHzPm9M5vuBc95n-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -125,6 +146,9 @@ Included in the box with the cooler are the following:
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.

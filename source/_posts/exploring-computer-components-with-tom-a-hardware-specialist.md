@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Components with Tom - A Hardware Specialist
-date: 2024-08-06 15:39:11
-updated: 2024-08-08 12:46:11
+date: 2024-08-08T04:23:00.819Z
+updated: 2024-08-09T04:23:00.819Z
 tags:
   - best-picks
 categories:
@@ -17,6 +17,9 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
  Finally, one of the significant changes that the[ATX12V v3.0 spec](https://www.tomshardware.com/news/intel-atx-v3-psu-standard) brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Quick Power Supply Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -129,6 +132,9 @@ Not as quiet as the CWT-made CX450
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Corsair CX550F RGB](https://cdn.mos.cms.futurecdn.net/6Awr7xo28qvVbRcyUWEXsE-320-80.jpg)
 
 Corsair CX550F RGB  (Image credit: Corsair)
@@ -331,6 +337,9 @@ Single EPS connector
 
 XPG Core Reactor 650W  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [4. XPG Core Reactor 650W](https://www.tomshardware.com/reviews/xpg-core-reactor-650w-power-supply-review)
 
 Best PSU: Up to 650 Watts
@@ -411,6 +420,9 @@ Two EPS connectors on the same cable
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Cooler Master V750 Gold V2](https://cdn.mos.cms.futurecdn.net/vBvo8ETj8hYyAGSAN2WXDD-320-80.jpg)
 
 Cooler Master V750 Gold V2  (Image credit: Tom's Hardware)
@@ -523,6 +535,9 @@ Small distance between connectors
 
 EVGA SuperNOVA 850 G7  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [6. EVGA SuperNOVA 850 G7](https://www.tomshardware.com/reviews/evga-supernova-850-g7-power-supply-review)
 
 Best PSU: Up to 850 Watts
@@ -633,6 +648,9 @@ High inrush currents
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MSI MEG Ai1000P PCIe5](https://cdn.mos.cms.futurecdn.net/du8ZtcDVUuowbLaHwbrseF-320-80.jpg)
 
 MSI MEG Ai1000P PCIe5  (Image credit: Tom's Hardware)
@@ -715,10 +733,16 @@ High inrush current with 115V
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermaltake ToughPower GF3 1350](https://cdn.mos.cms.futurecdn.net/h7UgjqyFWuvb7rBDyYkhtS-320-80.jpg)
 
 Thermaltake Toughpower GF3 1350  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### [8. Thermaltake Toughpower GF3 1350W](https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1350w-atx-v30-power-supply-review)
 
 Best PSU Above 1250-1500 Watts
@@ -793,6 +817,9 @@ Load regulation could be tighter
 
 Corsair AX1600i  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [9. Corsair AX1600i](https://www.tomshardware.com/reviews/corsair-ax1600i-psu,5406.html)
 
 Best PSU Above 1500 Watts
@@ -909,6 +936,9 @@ EMI with AVG detector
 
 Corsair SF750  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [10. Corsair SF750](https://www.tomshardware.com/reviews/corsair-sf750-psu,5979.html)
 
 Best SFX PSU
@@ -997,6 +1027,9 @@ Semi-passive mode can’t be deactivated
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Silverstone SX1000 Platinum](https://cdn.mos.cms.futurecdn.net/NB33egmhentEEmhZH2bCkn-320-80.jpg)
 
 Silverstone SX1000 Platinum  (Image credit: Tom's Hardware)
@@ -1187,6 +1220,9 @@ Round up of today's best deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

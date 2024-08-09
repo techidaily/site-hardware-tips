@@ -1,7 +1,7 @@
 ---
 title: Exploring Tom's Computer Components and Peripherals
-date: 2024-08-07 12:36:29
-updated: 2024-08-09 10:56:17
+date: 2024-08-08T04:23:28.940Z
+updated: 2024-08-09T04:23:28.940Z
 tags:
   - cooling
 categories:
@@ -36,6 +36,9 @@ Thermal paste maker Clock Work Tea Party (CWTP), known for releasing scented non
 
  Who knows, maybe someone will make a thermal paste that would discourage an[ant infestation](https://www.tomshardware.com/pc-components/thermal-paste/gamer-says-ants-infested-his-pc-to-eat-thermal-paste-and-pads-ants-found-proliferating-in-the-gpu-around-thermal-pad-debris) , which would be more beneficial than a scented thermal paste.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

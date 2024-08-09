@@ -1,7 +1,7 @@
 ---
 title: "Introducing Pink Caulking Gun-Style Thermal Gel: The Perfect Replacement for Old Thermal Pads and Gap Filers!"
-date: 2024-08-07 17:45:54
-updated: 2024-08-09 12:51:52
+date: 2024-08-08T04:23:12.316Z
+updated: 2024-08-09T04:23:12.316Z
 tags:
   - cooling
 categories:
@@ -17,10 +17,16 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie AL125](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Valkyrie)
@@ -47,6 +53,9 @@ Valkyrie has just released its[AL125 CPU air cooler](https://www.ithome.com/0/78
 
  However, our limited experience with Valkyrie CPU air coolers hasn’t been the best. Back in June, we reviewed the premium-priced ($72)[Valkyrie Vind SL125](https://www.tomshardware.com/pc-components/air-cooling/valkyrie-vind-sl125-review) CPU air cooler and while we liked the anime aesthetics, the product was a so-so performer and could get loud. If you care about products meeting their touted performance and noise, it may be wise to wait for a third-party reviewer to pass judgment on the Valkyrie AL125.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

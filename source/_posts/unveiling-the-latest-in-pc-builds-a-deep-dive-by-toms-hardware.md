@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest in PC Builds: A Deep Dive by Tom's Hardware"
-date: 2024-08-07 23:10:42
-updated: 2024-08-09 11:51:12
+date: 2024-08-08T04:22:59.622Z
+updated: 2024-08-09T04:22:59.622Z
 tags:
   - cooling
 categories:
@@ -17,12 +17,23 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
   
  I tried out the improved screws with the company's new iCue Link RX120 RGB fans, but a company rep tells me the screws won't likely be included with iCue Link fans, but rather will likely debut with future cases to be determined, with an aim to make them available sometime after March.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/HZBZ5MfyidHRJLugVCZtQC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The RX120 fans, however, are a more affordable version of its QX120 / 140 RGB spinners, which the company says should sell for about $35 each (rather than $50 each for the QX models). They have fewer RGBs and a replaceable light diffusion side panel. And Corsair claims their noise-normalized performance is still right up there with the best from the likes of Noctua.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/5LYXfgY5XcJqwBCBrBDvnC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -33,6 +44,9 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Corsair](https://cdn.mos.cms.futurecdn.net/7VQTHBu25iyzUiGiUmcmcC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -41,6 +55,9 @@ Chances are, whether you've built one PC or a hundred, securing the fans to your
 
  And the good news is at some point, you won't have to buy Corsair's fans in order to add these new screws to your PC-building arsenal. A Corsair rep told me that the company will be selling these screws as a standalone product at some point, likely later this year. Are these screws likely to make a major dent in the difficulty level of PC builds? Not really. But they do seem to be a minor improvement, and it's good to see companies thinking of small ways of streamlining one of our favorite hobbies. Now if only Corsair could manage to make all of its its cable-decluttering[iCue Link system](https://www.tomshardware.com/news/corsair-icue-link-tested) more affordable.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

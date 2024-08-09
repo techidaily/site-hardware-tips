@@ -1,7 +1,7 @@
 ---
 title: Innovations in Computer Tech Revealed by Tom'n Hardware Experts
-date: 2024-08-06 19:12:40
-updated: 2024-08-08 12:42:51
+date: 2024-08-08T04:22:59.846Z
+updated: 2024-08-09T04:22:59.846Z
 tags:
   - printer
 categories:
@@ -21,6 +21,14 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Monika McWuff's Speed Benchy](https://cdn.mos.cms.futurecdn.net/mTazNtSbjNwCzpKmaPvcWB-320-80.jpg)
 
  (Image credit: Monika McWuff)
@@ -31,6 +39,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Some of her mods are fairly standard, like [KevinAkaSam’s Belt Driven Ender 3](https://www.google.com/url?q=https://kevinakasam.com/belt-driven-ender-3/&sa=D&source=editors&ust=1706372670249864&usg=AOvVaw3nEW6Jb3YCWRV5uldb65-0) , which replaced the Z rods with, you guessed it, belts. This allows the printer to run smooth, straight and precisely in sync.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,6 +53,9 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  Other mods are pure out-of-the-box thinking, like using a floor blower for cooling and bolting the printer to a 45-pound rubber bumper plate from the gym. “I used wood screws and some brackets to screw the printer down to the plate and dissipate energy,” she said.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Monika McWuff's Floor Blower](https://cdn.mos.cms.futurecdn.net/GDgqorpMCU3Z3FUsEkxY7H-320-80.jpg)
 
  (Image credit: Monika McWuff)
@@ -51,6 +66,10 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
 
  The hotend is especially interesting, and can [push plastic faster than silly string](https://www.google.com/url?q=https://www.youtube.com/shorts/W-j%5FVufX8Bs&sa=D&source=editors&ust=1706372670250628&usg=AOvVaw1osH1oGrtM2f44ziC2Gy4g) . It’s a Trianglelab STD6 with a ceramic heating core, two extensions and a .4 CHT Volcano nozzle. A recent test clocked the flow rate at 120mm/s³. She’s hoping to get even more out of it by switching to a CHT V6 extender and a .5 Volcano nozzle.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Monika McWuff's Volcano Nozzle](https://cdn.mos.cms.futurecdn.net/b7sgzzmodak4xRtngW2QAL-320-80.jpg)
 
  (Image credit: Monika McWuff)

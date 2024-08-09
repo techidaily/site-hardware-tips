@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Cutting-Edge Technology at Tom's Hardware Review
-date: 2024-08-05 12:53:38
-updated: 2024-08-08 12:57:25
+date: 2024-08-08T04:23:17.063Z
+updated: 2024-08-09T04:23:17.063Z
 tags:
   - printer
 categories:
@@ -80,6 +80,9 @@ Today's best Creality K1C deals
 
 ## Creality K1C: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/UfKoS2qJ5iSaQ3DCfMERfN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -90,6 +93,9 @@ Today's best Creality K1C deals
 
 ## Design of the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -104,12 +110,18 @@ Today's best Creality K1C deals
 
  Clearly, Creality has been listening to user feedback, as they provided a printable solution to the annoying rear mounted spool holder. Two printable mounts are included on the printer’s USB stick, with a bag of screws and directions on how to attach it. I printed both and found the larger one – which mounts at a lower point – to work best. When mounted higher, the strain on the filament runout sensor is too much and causes the spool to twist.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/KmWQv4nqh4Z92NpqWrzUiM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The best spool holder might be the K1C’s matching filament drier, the[Creality Space Pi](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FOfficial-Creality-Filament-Printer-Dehydrator%2Fdp%2FB0CT59XN7F%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1D1S485JUS6CV%26dib%3DeyJ2IjoiMSJ9.6Igey3jkqAaYBP83K8VBFnBaHQySjsVgW%5FtGi77EklQ2OYMwbmNh9yePuyaPrc4qNKELf9xMWZwgAS8-UgRAIdtkBlMjf47NMKEKtHFUEZzV8NoHPTuki49w9y4WW8EzZ1O36FRL8pr9qSJIzJtzRF7OGW%5FbBwij2nN-0iiCsTYBiZPSJXgumWrykKXTKQRZ8uDtQ2jUTAhs3ve1r4UspUNven-lp3nGzFpwPCu4IGQ.mCRC670fi6uoK9HSCRqvjQMro7OLM-yQUMZ0-AGKUwQ%26dib%5Ftag%3Dse%26keywords%3Dcreality%2Bspace%2Bpi%26qid%3D1712693385%26sprefix%3Dcreality%2Bspace%2Bpi%252Caps%252C144%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1357917695777409794-20) , which is an optional purchase costing $85\. We were sent one for review along with the printer and found it worked well. The drier is helpful when printing hygroscopic material like Nylon, but can be left off when printing more stable material like PLA.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/nMFPiAhSg8VftPtqkoi3MN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -124,6 +136,9 @@ Today's best Creality K1C deals
 
  The K1C also comes with a preinstalled camera for monitoring your prints and taking timelapse videos.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
@@ -162,6 +177,9 @@ Reverse the process to remove the filament.
 
  The device tab can also be accessed by entering your printer’s IP address. This also allows you to drag and drop files from other slicers directly to your printer. There are no built-in profiles for Cura or PrusaSlicer at this time, though they are easy enough to make using an Ender 3 as the base.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Printing on the Creality K1C
 
  The Creality K1C comes with a sample roll of[Hyper PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-3D-Printing-Dimensional%2Fdp%2FB0BXGGYPQ2%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dcreality%252Bhyper%252Bpla%26qid%3D1686943712%26sprefix%3Dcreality%252Bhy%252Caps%252C167%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1441923381194637376-20) , Creality’s high-speed filament, which promises high strength and smooth prints while running at speeds up to 600 mm/s. If you want more colors and materials like silks and multicolor filaments, you should check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for suggestions.
@@ -170,6 +188,9 @@ Reverse the process to remove the filament.
 
  The Benchy is a bit stringy, but the layers are fairly even, the curves are nice and there’s no ringing. This Benchy printed in an eye-popping 13 minutes and 53 secs, currently the fastest Speed Benchy I’ve printed, allowing this to top our list of the[fastest 3D printers](https://www.tomshardware.com/news/3d-printer-speed-hierarchy) . An Ender 3 S1 running at its top speed of 100mm/s would take 55 minutes to print this using similar settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/dpGRovxpf6dX9PuuXaQUqN-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -188,12 +209,23 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
  The new extruder handled TPU without any problems at all. I was able to print this silly Fart Accordion using Creality Slicer’s default TPU settings, which slow down the printer by adjusting the volumetric flow to 3.5mm/s cubed. This is printed in[Matterhackers Translucent Blue Build Series TPU](https://shareasale.com/r.cfm?rcode=PMAX_BUILD&gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkBdG0XrGRithjgVIUDIJUERHKp7cOzhG5FUV7_XwblNz5BvcuXhsi0aApEGEALw_wcB&b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Ftokenmetrics.sjv.io%2Fjrkzxp) in an hour and 12 minutes with a .2mm layer height.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/YKMVffEVFFvST6AqEWTY3N-320-80.jpg)
 
 [_The Fart Accordion_](https://thangs.com/designer/Jaatinen3D/3d-model/The%20Fart%20Accordion%20Pha%28r%29t%20Edition-840719) _, by Jaatinen_  (Image credit: Tom's Hardware)
 
  I ran more parts for the RC car in both Nylon and ABS, and the printer was able to print this material well without any warping. I only used a healthy amount of glue stick on the build plate, which you’re supposed to do anyway for this style of bed surface. These were printed using[Inland ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Black-Printer-Filament%2Fdp%2FB00WX4UONO%2Fref%3Dsr%5F1%5F3%3Fcrid%3D1ASJ476AKHGFY%26dib%3DeyJ2IjoiMSJ9.Bf%5FTTu-%5Fa3U7vmrO2PYu9EsWLYLhL-Plx2zLdOtaJc6Tf23tZBg3at5v9AUirqwUwct1buCtdE%5FpycTYq%5FrS0HIiJ%5FHFsVKw17gaejWy5XO15%5FpK3-kPjKqu4yvJqK7gRPGMSfHKu7eLmuBtrOCeZj0BYct3zsqm80ooJ1K8ozicMx5sEp35XNJ76tjbQtpVI766mbBR8mld68IFiOjxmNkE-JfTEinbesPTViQO9Nk.5MCIBqOLUSuCkH%5Fk0kMr2MdsmQCUokC85J8flrKP-eI%26dib%5Ftag%3Dse%26keywords%3Dinland%252Babs%26qid%3D1712703177%26sprefix%3Dinland%252Babs%252Caps%252C143%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1017746780174986647-20) with a .2 layer height and Creality Print’s default ABS settings. The entire plate of parts printed in 2 hours and 47 minutes.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/7AusoMr9NoagoP2Zo4oSCN-320-80.jpg)
 
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
@@ -252,6 +284,9 @@ Creality K1C: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

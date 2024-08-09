@@ -1,7 +1,7 @@
 ---
 title: Discover Why the AirFlow I by TeamGroup T-Force Is the Premier SSD Cooler for Gamers and Enthusiasts Alike
-date: 2024-08-07 16:52:24
-updated: 2024-08-09 10:41:54
+date: 2024-08-08T04:23:16.918Z
+updated: 2024-08-09T04:23:16.918Z
 tags:
   - cooling
 categories:
@@ -13,6 +13,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/iyDzcDKYvz3DF6DHxipvbf-320-80.jpg
 
 Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-next-gen-flagship-model-cpu-cooler-and-nf-a14x25r-g2-fans) its highly anticipated[NH-D15 G2 CPU cooler](https://www.tomshardware.com/pc-components/cooling/noctua-nh-d15-g2-update-has-quieter-fans-more-heatpipes-new-offset-design) . We saw the final design at[Computex](https://www.tomshardware.com/tag/computex) in early June, and today the Austrian PC cooling specialist has made the revamped NH-D15 available via its[Amazon](https://www.tomshardware.com/tag/amazon) outlets. The Noctua NH-D15 G2 is[listed at $149.95 in the US](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FNoctua-NH-D15-G2-All-round-Recommended%2Fdp%2FB0D5B6MXJF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7367183498311034921-20) and €149.90 in the Euro-zone. In the US, the new product demands a premium of $40 over the[original model](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FNoctua-NH-D15-heatpipe-NF-A15-140mm%2Fdp%2FB00L7UZMAK%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1447866882386528187-20) or $30 over the[chromax.black](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FNoctua-NH-D15-chromax-Black-Dual-Tower-Cooler%2Fdp%2FB07Y87YHRH%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7475494739703890259-20) model.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Introducing the Noctua NH-D15 G2 - YouTube ![Introducing the Noctua NH-D15 G2 - YouTube](https://img.youtube.com/vi/6lu-77_0DJc/maxresdefault.jpg)
 
 [Watch On](https://youtu.be/6lu-77%5F0DJc)
@@ -21,6 +24,16 @@ Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Noctua NH-D15 G2 ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Noctua)
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Noctua NH-D15 G2 ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Noctua)
@@ -29,10 +42,9 @@ Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-
 
  (Image credit: Noctua)
 
-![Noctua NH-D15 G2 ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Noctua)
-
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Noctua NH-D15 G2 ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Noctua)
@@ -45,12 +57,18 @@ Noctua has finally[released](https://noctua.at/en/noctua-releases-its-nh-d15-g2-
 
  If you go looking for the Noctua NH-D15 G2 you might notice two further variants that are available, at the same price. The standard Noctua NH-D15 G2 has a baseplate with medium convexity. However, it will also offer the NH-D15 G2 LBC (Low Base Convexity) and NH-D15 G2 HBC (High Base Convexity). Noctua today published a video to help you decide which may be best for your setup.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Base Convexity Explained: Which version of the NH-D15 G2 should I choose? - YouTube ![Base Convexity Explained: Which version of the NH-D15 G2 should I choose? - YouTube](https://img.youtube.com/vi/Jj56DBkQi9Y/maxresdefault.jpg)
 
 [Watch On](https://youtu.be/Jj56DBkQi9Y)
 
  Buyers of the new Noctua NH-D15 G2 will also get a Torx-based SecuFirm2+ mounting system, screwdriver, a shot of[NT-H2 thermal compound](https://www.tomshardware.com/best-picks/best-thermal-paste) , a thermal paste guard for AM5 chips, and a set of NA-ISW1 shim-washers for improved contact on LGA1700\. Noctua backs its new product with a six-year warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "Avoid These 6 Common Pitfalls in Using Cura: Expert Fixes Revealed"
-date: 2024-08-07 21:42:33
-updated: 2024-08-08 11:29:30
+date: 2024-08-08T04:23:19.277Z
+updated: 2024-08-09T04:23:19.277Z
 tags:
   - printer
 categories:
@@ -17,12 +17,18 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ## 1\. Holes and Gaps on the Top Section of the Print
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/hizhp3jQoN2EAWHJsY3NPA-320-80.png)
 
  (Image credit: Eliteprint3d)
 
  Holes and gaps on the top section of your 3D print can quickly be noticed and are usually characterized by hollow or sunken areas on the top surfaces. They typically occur during the cooling phase of the 3D printing process, and the deposited layers retract or shrink, leaving voids behind on the top surfaces. They can also occur when there is no sufficient top-layer infill. You can fix these by increasing the top layer thickness so that more material is deposited to create a more solid surface.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/KehSpotVtUyHXKE6wK8jY8-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -37,6 +43,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ## 2\. Tiny Holes in the Walls of the 3D Print
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/ohZWqZjArgJmwVqf8fhtu9-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -45,6 +54,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  If the gaps appear because of the printer struggling to print thin walls, you need to activate the**Print Thin Walls** setting in Cura Slicer (if it’s the one you are using) or**Detect Thin Walls** if you are[using PrusaSlicer](https://www.tomshardware.com/how-to/use-prusaslicer) . The printer can struggle to deposit filament on the specific areas intended in the print if the horizontal walls of the design are thinner than the diameter of the nozzle. When you activate that feature, the slicer optimizes the extrusion flow for thin walls to ensure more accurate filament deposition.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,6 +71,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Large Gaps that Result in Layer Separation
 
  When the layers fail to adhere correctly to each other, they can start separating, resulting in visible gaps and cracks and the print becomes weak and you can pull the layers apart. One leading cause of this issue is inadequate layer adhesion due to insufficient nozzle temperature or improper bed adhesion.
@@ -71,6 +86,10 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can 3D print a[flow calibration cube](https://www.thingiverse.com/thing:4838076) and use it to find the optimal value. You must also lower the layer height (the distance between each layer deposited). The default value is usually 0.2mm. Slowing down the 3D printing speed can also help fix the issue, as it allows for better deposition and improved bonding between the layers. In addition to adjusting those settings, you also need to ensure that the filament you are using is dry as moisture in the filament can cause pressure build-up in the nozzle. When extruded, it might not come out as intended, and this brings problems. You need also to ensure that it has a consistent diameter all through.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 4\. Gaps in the First Few Layers of the 3D Print
 
  Gaps in the initial layers of your print can be as a result of an improperly leveled print bed. If the distance between the nozzle and the bed is uneven, it can contribute to the gaps. If it is too close to the bed, for example, it may compress the filament affecting the smooth flow and leading to gaps as the material struggles to extrude.
@@ -83,6 +102,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 5\. Holes and Gaps in the Corners of the Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/yNYqczmqhVnKMJbe2eFSLF-320-80.png)

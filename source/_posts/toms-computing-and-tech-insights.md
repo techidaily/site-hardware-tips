@@ -1,7 +1,7 @@
 ---
 title: Tom's Computing and Tech Insights
-date: 2024-08-06 13:33:16
-updated: 2024-08-08 10:13:32
+date: 2024-08-08T04:23:02.625Z
+updated: 2024-08-09T04:23:02.625Z
 tags:
   - best-picks
 categories:
@@ -31,8 +31,14 @@ For a college student, there is no more important tool than a laptop. It's a cat
 * **Consider how you take notes:** A good keyboard is always important, especially when you're writing papers. But some students still prefer to take notes by hand, and those people will want to consider a convertible or detachable 2-in-1 with a stylus.
 * **See if you can get a student discount:** Some stores will offer you a discount with your proof of affiliation with a university or college. It's also possible that your school will have a relationship with a vendor for deals on certain models. Others may just throw in a gift card or some free earbuds. If you can find a deal, great; school is expensive enough.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best College Laptops You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacBook Air M2](https://cdn.mos.cms.futurecdn.net/DKP4keBc9LGTkUjBEEA5o4-320-80.jpg)
 
  The MacBook Air with M2 is the best college laptop you can buy with a thin design and plenty of power.  (Image credit: Tom's Hardware)
@@ -117,6 +123,9 @@ Display notch will bother some people
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacBook Air (15-inch)](https://cdn.mos.cms.futurecdn.net/UDoAbddJqaTrP6izFdnHC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -249,6 +258,9 @@ Lots of pre-loaded software
 
  The Lenovo Yoga 9i is one of the best college laptops with great sound and a variety of ports.  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [4. Lenovo Yoga 9i (Gen 8)](https://www.tomshardware.com/reviews/lenovo-yoga-9i-gen-8)
 
 A stunning display
@@ -319,6 +331,9 @@ Loud fans
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Microsoft Surface Pro 9 (SQ3)](https://cdn.mos.cms.futurecdn.net/EidfnU4aQkBJYZNrtyDiu3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -387,10 +402,17 @@ Keyboard adds a lot to the starting price
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Acer Nitro 5 (2022)](https://cdn.mos.cms.futurecdn.net/JkffBxR9pgpZeYTCtnEgFG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [6. Acer Nitro 5](https://www.tomshardware.com/reviews/acer-nitro-5-2022-review-gaming-under-dollar1000)
 
 For Budget College Gamers
@@ -449,10 +471,16 @@ Display is a little washed out
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Dell XPS 15 (9530)](https://cdn.mos.cms.futurecdn.net/Nt9bmtMdiJmRptQwyM5uqV-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### [7. Dell XPS 15 (9530)](https://www.tomshardware.com/reviews/dell-xps-15-9530)
 
 For Sciences, Coding and Video
@@ -591,6 +619,9 @@ Pricey
 
 Round up of today's best deals
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Apple - MacBook Air 13.6"...](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...")](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
 [Apple MacBook Air M2 2022](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)

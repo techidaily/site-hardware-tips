@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Aerospace: The International Space Station Welcomes Its First Metal 3D Printer, Engineered by Airbus and the ESA"
-date: 2024-08-06 23:56:32
-updated: 2024-08-08 10:58:31
+date: 2024-08-08T04:23:28.536Z
+updated: 2024-08-09T04:23:28.536Z
 tags:
   - printer
 categories:
@@ -44,3 +44,7 @@ Black Friday doesn't officially arrive for a couple more days, but the best deal
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->

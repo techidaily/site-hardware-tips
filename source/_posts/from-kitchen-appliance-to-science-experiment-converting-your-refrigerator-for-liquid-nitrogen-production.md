@@ -1,7 +1,7 @@
 ---
 title: "From Kitchen Appliance to Science Experiment: Converting Your Refrigerator for Liquid Nitrogen Production"
-date: 2024-08-06 11:59:55
-updated: 2024-08-09 10:39:54
+date: 2024-08-08T04:23:18.890Z
+updated: 2024-08-09T04:23:18.890Z
 tags:
   - cooling
 categories:
@@ -23,10 +23,16 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
@@ -37,6 +43,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  That's not to say there haven't been issues with non-standard mounting before. For instance, with custom contact frames, it's been reported that screwing the frame too tightly can cause system instability and prevent super high CPU/memory[overclocks](https://www.tomshardware.com/how-to/how-to-overclock-a-cpu) from being stable.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,6 +56,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  AMD's offset bracket will not be prone to this, however, this bracket also has one glaring weakness, that being optimal compatibility with[Ryzen APUs](https://www.tomshardware.com/pc-components/cpus/amd-launches-ryzen-8000g-phoenix-apus-brings-ai-to-the-desktop-pc-reveals-zen-4c-clocks-for-the-first-time) . AMD does not use a multi-chipset design for its APUs, instead, it uses a[monolithic design](https://www.tomshardware.com/news/amd-confirms-chiplet-designs-future-mobile-cpus) just like Intel. This means that Arctic's offset could hinder cooling performance on AMD's APUs since the monolithic die is installed directly in the middle of the CPU, necessitating a default mounting configuration for optimal thermals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Warranty Issues
 
  The biggest problem is in regard to the custom contact frame Arctic is providing for Intel LGA1700 users. Intel itself has already warned users that tampering with its ILM in any way could[void the warranty of the CPU](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) . This could raise some serious tension between Intel and Arctic if ever an Arctic Liquid Freezer III user has to RMA his/her Intel CPU under warranty.

@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Quick-Print Method Unveiled by MIT with Recycled Metals & Glass Beads
-date: 2024-08-07 19:35:42
-updated: 2024-08-08 11:32:43
+date: 2024-08-08T04:23:08.158Z
+updated: 2024-08-09T04:23:08.158Z
 tags:
   - printer
 categories:
@@ -29,6 +29,9 @@ Bambu Lab has teased an upcoming, high-speed 3D printer, due to launch December 
 
  You can currently pre-order the Bambu Lab A1 Mini if build volume isn’t a huge concern for you. If you want to hold out for the A1, follow[Bambu Lab](https://shareasale.com/r.cfm?b=2282157&u=4338022&m=138211&afftrack=techidaily&urllink=https%3A%2F%2Fukaidot.sjv.io%2Fdaqnoj) and check back on December 14th to see what it brings to the table.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

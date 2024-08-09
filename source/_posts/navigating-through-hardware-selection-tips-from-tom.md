@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Hardware Selection - Tips From Tom
-date: 2024-08-07 11:53:22
-updated: 2024-08-09 12:39:59
+date: 2024-08-08T04:23:04.504Z
+updated: 2024-08-09T04:23:04.504Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,7 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

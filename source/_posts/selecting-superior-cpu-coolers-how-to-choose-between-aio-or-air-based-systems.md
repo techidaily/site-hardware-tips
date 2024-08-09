@@ -1,7 +1,7 @@
 ---
 title: "Selecting Superior CPU Coolers : How to Choose Between AIO or Air-Based Systems?"
-date: 2024-08-08 11:27:10
-updated: 2024-08-09 12:24:11
+date: 2024-08-08T04:23:05.560Z
+updated: 2024-08-09T04:23:05.560Z
 tags:
   - cooling
 categories:
@@ -43,12 +43,18 @@ Quick List
 
  In your quest for the best AIO cooler, don't forget to consider thermal paste or another thermal interface material (TIM) to use with your AIO cooler. Most coolers these days will come with some kind of paste, either in a small syringe or pre-applied to the metal cold plate. But to make sure you're getting the most efficient thermal transfer between your CPU and cooler plate, check out the many products we thoroughly tested to find[the best thermal paste for your CPU](https://www.tomshardware.com/best-picks/best-thermal-paste) .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## New Coolers Shown at Computex
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
 
  We saw dozens of new coolers at[Computex](https://www.tomshardware.com/tag/computex) , and seemingly every new AIO cooler was sporting a screen of some kind.[DeepCool](https://www.tomshardware.com/pc-components/cooling/deepcool-introduces-new-coolers-power-supplies-fans-and-pc-cases-with-pixel-silicone-bits-offering-decorative-options) ,[ADATA](https://www.tomshardware.com/pc-components/cooling/adata-shows-off-hybrid-airwater-cooling-tower-at-computex-new-psus-and-pcie-50-ssds-also-on-deck) ,[Noctua](https://www.tomshardware.com/pc-components/cooling/noctua-shows-off-pumpless-aio-liquid-cooler-prototype-that-uses-evaporative-cooling) ,[Hyte](https://www.tomshardware.com/pc-components/cooling/hyte-shows-off-new-coolers-lighting-internal-usb-header-promises-rgb-and-fan-control-of-anything-plugged-into-motherboard-headers) , and several other companies showed off new and upcoming coolers. Expect reviews of many new models in the coming months, some of which will almost certainly land on this page.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Quick List
 
 [Best AIO Coolers Best 360mm](https://cdn.mos.cms.futurecdn.net/UjqKEPYRaonufLWHBthsWX-320-80.jpg) Best 360mm ](https://www.tomshardware.com/best-picks/best-aio-coolers#section-best-360mm-aio-liquid-cooler)
@@ -193,6 +199,9 @@ _**Best 120mm AIO Liquid Cooler**_
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [1. Lian Li Galahad II Performance 360](https://www.tomshardware.com/reviews/lian-li-galahad-ii-performance-360)
 
 Best 360mm AIO Liquid Cooler
@@ -253,12 +262,21 @@ Full Performance mode runs loud
 
 **Read:** [Lian Li Galahad II Performance Review](https://www.tomshardware.com/reviews/lian-li-galahad-ii-performance-360)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Best 360mm AIO Liquid Cooler Alternative
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cooler Master Master Liquid 360 Atmos](https://cdn.mos.cms.futurecdn.net/TVDVNfJoGXfYzE2CMQVRsJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [2. Cooler Master Master Liquid 360 Atmos](https://www.tomshardware.com/reviews/cooler-master-master-liquid-360-atmos)
 
 Best 360mm AIO Liquid Cooler (Alternative)
@@ -305,8 +323,14 @@ Reasonable $149.99 USD MSRP
 
 **Read:** [Cooler Master Master Liquid 360 Atmos review](https://www.tomshardware.com/reviews/cooler-master-master-liquid-360-atmos)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best Budget 360mm AIO Liquid Cooler
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Iceberg Thermal IceFLOE Oasis 240 & 360](https://cdn.mos.cms.futurecdn.net/R2ZgZGkDZxNMb6KQsB2g23-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -371,6 +395,9 @@ Seven-year warranty
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [4. Silverstone IceMyst 360](https://www.tomshardware.com/pc-components/cooling/silverstone-icemyst-360-and-240mm-aio-review)
 
 Best Multipurpose AIO Cooler
@@ -433,6 +460,9 @@ Accessible refill port
 
 **Read:** [Silverstone IceMyst 360 and 240mm AIO Review](https://www.tomshardware.com/pc-components/cooling/silverstone-icemyst-360-and-240mm-aio-review/2)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Best 420mm AIO Liquid Cooler
 
 ![Corsair iCUE H170i Elite LCD XT](https://cdn.mos.cms.futurecdn.net/HNToyHHhkVa54YS5VptzST-320-80.jpg)
@@ -513,6 +543,9 @@ Expensive
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [6. Lian Li Galahad II LCD 280](https://www.tomshardware.com/reviews/lian-li-galahad-ii-lcd-280-review)
 
 Best 280mm AIO Cooler
@@ -637,6 +670,9 @@ None
 
 ### Best 240mm AIO Liquid Cooler Alternative
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Cooler Master MasterLiquid 240 Atmos](https://cdn.mos.cms.futurecdn.net/dHneACovMsLoD3hpoEL3Lj-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -695,6 +731,9 @@ Low noise levels in common workloads
 
 ### Best 120mm Closed-Loop Liquid Cooler
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Enermax LiqMaxFlo SR 120mm](https://cdn.mos.cms.futurecdn.net/RAFeQ4Hi84oUXBybMqNCFh-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -747,14 +786,27 @@ Not the absolute best performer
   
 **Read our 120mm AIO roundup:** [Testing Be Quiet, Corsair, Cooler Master, and Enermax models](https://www.tomshardware.com/pc-components/liquid-cooling/120mm-aio-roundup-testing-be-quiet-corsair-cooler-master-and-enermax-models)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Savings on the Best AIO CPU Coolers
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New coolers, and likely new chipsets and CPUs, coming very soon
 
  With new chipsets (and their corresponding CPUs) on the horizon, likely from[both Intel and AMD](https://www.tomshardware.com/pc-components/motherboards/intel-arrow-lake-s-800-series-motherboard-lineup-from-maxsun-listed-new-b850-and-b840-chipset-models-target-the-budget-sector) , we are sure to see a slew of new motherboards at Computex 2024 in early June. The trade show is also very component-heavy, so we expect to see several new coolers to go along with these upcoming new platforms.
 
  It will be interesting to see how the new silicon (and a new socket from Intel's side) tax both existing AIOs and the new coolers that get announced in Taiwan. But for that, we'll have to wait for the platforms to actually launch first. Until then, keep an eye out on our[Computex 2024](https://www.tomshardware.com/tag/computex) coverage page to see all the new cooling hardware from Taipei, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Savings on the Best AIO CPU Coolers
 
  Whether you're shopping for one of the products that made our best CPU coolers list or one that didn't, you may find some savings by checking out our list of[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) or[Corsair coupon codes](https://www.tomshardware.com/coupons/corsair.com) .

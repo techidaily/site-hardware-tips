@@ -1,7 +1,7 @@
 ---
 title: Top Pick Graphics Cards for Cryptocurrency Mining - Reviews by Tom's Hardware
-date: 2024-08-05 16:27:54
-updated: 2024-08-08 11:29:49
+date: 2024-08-08T04:23:25.245Z
+updated: 2024-08-09T04:23:25.245Z
 tags:
   - best-picks
 categories:
@@ -21,6 +21,9 @@ For a college student, there is no more important tool than a laptop. It's a cat
   
  Also, don't forget get whatever student discounts are available. Many vendors may give you some percentage off, a gift card, or a free extra when you can prove that you're a student, either with a .edu email address or a college ID card.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Quick College Laptop Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -31,8 +34,14 @@ For a college student, there is no more important tool than a laptop. It's a cat
 * **Consider how you take notes:** A good keyboard is always important, especially when you're writing papers. But some students still prefer to take notes by hand, and those people will want to consider a convertible or detachable 2-in-1 with a stylus.
 * **See if you can get a student discount:** Some stores will offer you a discount with your proof of affiliation with a university or college. It's also possible that your school will have a relationship with a vendor for deals on certain models. Others may just throw in a gift card or some free earbuds. If you can find a deal, great; school is expensive enough.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best College Laptops You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacBook Air M2](https://cdn.mos.cms.futurecdn.net/DKP4keBc9LGTkUjBEEA5o4-320-80.jpg)
 
  The MacBook Air with M2 is the best college laptop you can buy with a thin design and plenty of power.  (Image credit: Tom's Hardware)
@@ -117,6 +126,10 @@ Display notch will bother some people
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![MacBook Air (15-inch)](https://cdn.mos.cms.futurecdn.net/UDoAbddJqaTrP6izFdnHC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -319,6 +332,9 @@ Loud fans
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Microsoft Surface Pro 9 (SQ3)](https://cdn.mos.cms.futurecdn.net/EidfnU4aQkBJYZNrtyDiu3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -391,6 +407,9 @@ Keyboard adds a lot to the starting price
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [6. Acer Nitro 5](https://www.tomshardware.com/reviews/acer-nitro-5-2022-review-gaming-under-dollar1000)
 
 For Budget College Gamers
@@ -509,10 +528,25 @@ Port selection could be better
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Zephyrus G14](https://cdn.mos.cms.futurecdn.net/uygXtWBTEyYRsMrbDLLHcH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [8. Asus ROG Zephyrus G14](https://www.tomshardware.com/reviews/asus-rog-zephyrus-g14-amd-ryzen-6900hs-radeon-rx-6800s)
 
 Power and Battery Life
@@ -591,6 +625,10 @@ Pricey
 
 Round up of today's best deals
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 [![Apple - MacBook Air 13.6"...](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...")](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
 [Apple MacBook Air M2 2022](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
@@ -671,6 +709,9 @@ Round up of today's best deals
 
 [See all prices](https://www.tomshardware.com/deals/compare?model%5Fname=Dell%20XPS%2015%20%289530%29&article%5Fid=KR8ZzetHCdAZexeYU8ofaP)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![ASUS - ROG Zephyrus G14 14"...](https://m.media-amazon.com/images/I/41dzXV4lPsL._SL500_.jpg "ASUS - ROG Zephyrus G14 14"...")](https://m.media-amazon.com/images/I/41dzXV4lPsL._SL500_.jpg "ASUS - ROG Zephyrus G14 14"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6570270%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6570270.p%253Fcmp%253DRMX)
 
 [Asus ROG Zephyrus G14](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6570270%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6570270.p%253Fcmp%253DRMX)

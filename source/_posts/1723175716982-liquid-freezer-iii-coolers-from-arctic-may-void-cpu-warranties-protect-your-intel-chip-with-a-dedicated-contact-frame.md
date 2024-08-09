@@ -1,7 +1,7 @@
 ---
 title: 'Liquid Freezer III' Coolers From Arctic May Void CPU Warranties – Protect Your Intel Chip with a Dedicated Contact Frame
-date: 2024-08-06 21:23:22
-updated: 2024-08-09 11:33:59
+date: 2024-08-08T04:23:08.388Z
+updated: 2024-08-09T04:23:08.388Z
 tags:
   - cooling
 categories:
@@ -23,10 +23,16 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arctic Liquid Freezer III](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Arctic)
@@ -37,6 +43,10 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  That's not to say there haven't been issues with non-standard mounting before. For instance, with custom contact frames, it's been reported that screwing the frame too tightly can cause system instability and prevent super high CPU/memory[overclocks](https://www.tomshardware.com/how-to/how-to-overclock-a-cpu) from being stable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,6 +57,9 @@ Arctic, which makes some of the[Best AIOs](https://www.tomshardware.com/best-pic
 
  AMD's offset bracket will not be prone to this, however, this bracket also has one glaring weakness, that being optimal compatibility with[Ryzen APUs](https://www.tomshardware.com/pc-components/cpus/amd-launches-ryzen-8000g-phoenix-apus-brings-ai-to-the-desktop-pc-reveals-zen-4c-clocks-for-the-first-time) . AMD does not use a multi-chipset design for its APUs, instead, it uses a[monolithic design](https://www.tomshardware.com/news/amd-confirms-chiplet-designs-future-mobile-cpus) just like Intel. This means that Arctic's offset could hinder cooling performance on AMD's APUs since the monolithic die is installed directly in the middle of the CPU, necessitating a default mounting configuration for optimal thermals.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Warranty Issues
 
  The biggest problem is in regard to the custom contact frame Arctic is providing for Intel LGA1700 users. Intel itself has already warned users that tampering with its ILM in any way could[void the warranty of the CPU](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) . This could raise some serious tension between Intel and Arctic if ever an Arctic Liquid Freezer III user has to RMA his/her Intel CPU under warranty.

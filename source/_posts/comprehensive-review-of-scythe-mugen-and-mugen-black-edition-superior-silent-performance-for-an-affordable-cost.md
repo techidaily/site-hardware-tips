@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of Scythe Mugen Ⅵ & Mugen Ⅵ - Black Edition: Superior Silent Performance for an Affordable Cost"
-date: 2024-08-06 12:41:10
-updated: 2024-08-09 12:34:48
+date: 2024-08-08T04:23:32.279Z
+updated: 2024-08-09T04:23:32.279Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->

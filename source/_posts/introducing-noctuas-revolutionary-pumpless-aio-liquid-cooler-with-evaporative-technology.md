@@ -1,7 +1,7 @@
 ---
 title: Introducing Noctua's Revolutionary Pumpless AIO Liquid Cooler with Evaporative Technology
-date: 2024-08-06 18:22:44
-updated: 2024-08-09 12:32:16
+date: 2024-08-08T04:23:07.583Z
+updated: 2024-08-09T04:23:07.583Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  Here we’re looking at an SSD cooler from Akasa, which many of you may know for SFF and Mini-PC products – like the[Gem Pro Raspberry Pi Case](https://www.tomshardware.com/reviews/akasa-gem-pro-raspberry-pi-case) . The heatsink we’re looking at is called the Gecko Cooler, and it stands out from the crowd by incorporating a blower-style cooler more commonly used for server GPUs. Does it perform well enough to compete with the best SSD heatsinks for your storage? Before we get to the[benchmarks](https://www.tomshardware.com/tag/benchmark) , we’ll take a quick look at the features and specifications.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## NVMe SSD Heatsink specifications
 
  Swipe to scroll horizontally
@@ -58,6 +61,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 ## Packing and Installation
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/M7KwmeKMZrJ9C6RJ2y8eUa-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -66,6 +72,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/38Miz6eDpevqRxfaprboxL-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -90,6 +99,15 @@ Included with the cooler are the following:
 
  3\. Place the heatsink on top of the SSD, and secure it using the included screws.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/SCQByvYr63Bq7HpENKTzVf-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -128,10 +146,17 @@ Included with the cooler are the following:
 
 Akasa’s Gecko Cooler features a jet-black aesthetic, with no lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/bDn4bJ4gwusZnvPbmT75Cg-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for an SSD?
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who typically just loads a few applications and games, you probably don’t need an advanced heatsink with a fan. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.

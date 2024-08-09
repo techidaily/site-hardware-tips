@@ -1,7 +1,7 @@
 ---
 title: New Report Exposes Misleading Material Claims for Majority of Tested Desktop Cooling Solutions, Copper Scarcity Highlighted
-date: 2024-08-08 23:47:33
-updated: 2024-08-09 11:24:57
+date: 2024-08-08T04:23:28.519Z
+updated: 2024-08-09T04:23:28.519Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

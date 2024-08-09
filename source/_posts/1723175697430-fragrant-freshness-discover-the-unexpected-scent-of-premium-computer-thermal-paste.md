@@ -1,7 +1,7 @@
 ---
 title: "Fragrant Freshness: Discover the Unexpected Scent of Premium Computer Thermal Paste!"
-date: 2024-08-06 10:18:47
-updated: 2024-08-09 10:32:19
+date: 2024-08-08T04:23:01.183Z
+updated: 2024-08-09T04:23:01.183Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
  Performance enthusiasts often swear by a favorite brand of paste, but new recipes crop up fairly frequently. We've extensively tested some of the top thermal pastes on the market. If you're hunting for more exotic pastes off the beaten path, we also have plenty of historical data below covering 90 different pastes (and yes, we've even tested toothpaste).
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![CPU Die and IHS](https://cdn.mos.cms.futurecdn.net/FuWchQSP8eEKNP5wZMEQgH-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -43,10 +46,25 @@ Choosing the best thermal paste may sound simple, but a dizzying array of option
 
 ## Best Premium (Standard) Thermal Paste
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toplamp TL-A40](https://cdn.mos.cms.futurecdn.net/C85opZpoCULeqB5j4jLLnF-320-80.jpg)
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Toplamp TL-A40
 
 Best Premium
@@ -99,8 +117,15 @@ None
 
 ### Best Premium Paste (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Premium Paste (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Kooling Monster KOLD-01](https://cdn.mos.cms.futurecdn.net/XpopZgrSJNneJsCYNGiweF-320-80.jpg)
 
  (Image credit: Amazon)
@@ -157,6 +182,9 @@ Price per gram
 
 ## Best Premium Non-Standard Compound
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Honeywell PTM7950](https://cdn.mos.cms.futurecdn.net/xEdaNJvJmF2dwejjVmmWZF-320-80.jpg)
 
  (Image credit: Amazon)
@@ -219,12 +247,22 @@ Generally more expensive than paste
 
 ### Best Premium Non-Standard Compound (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Premium Non-Standard Compound (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermal Grizzly Kryosheet](https://cdn.mos.cms.futurecdn.net/UCTp3Akn8GHSZsxJU4vnTF-320-80.jpg)
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 4\. Thermal Grizzly Kryosheet
 
 Best Premium Non-Standard Compound
@@ -277,6 +315,10 @@ Moderate cost
 
  (Image credit: Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 5\. Thermal Grizzly Conductonaut
 
 Best Liquid Metal Thermal Paste
@@ -331,8 +373,14 @@ Electrically conductive
 
 ### Best Liquid Metal Thermal Paste (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Liquid Metal Thermal Paste (Runner-up)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![BeQuiet DC2 Pro](https://cdn.mos.cms.futurecdn.net/JFUoWVVj9dxwAHhDGMN3CF-320-80.jpg)
 
  (Image credit: Amazon)
@@ -407,6 +455,10 @@ Electrically conductive
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Thermal Paste Test Results
 
  ●**Air Cooling**
@@ -439,6 +491,9 @@ Electrically conductive
 
  Not every system will need the most expensive compound, so even the most budget-minded system builders can rest easy knowing that even lower-cost pastes can prove very effective. For most users, we recommend Toplamp’s AL-140 because it is one of the best pastes we’ve tested and is cheap at only $6.99 USD. After the test setup, you can see our historical testing results with far more pastes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Test System Configuration and Testing Methods
 
  Swipe to scroll horizontally
@@ -452,10 +507,16 @@ Electrically conductive
 
  For our thermal compound tests, I used the same hardware and configuration for each test to minimize environment variables. Some of these components were sampled by vendors, without whom this testing wouldn’t have been possible. Intel sampled two[Raptor Lake i9-14900K CPUs](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , and[MSI](https://www.tomshardware.com/tag/msi-microstar) sampled two of its latest[Z790 Tomahawk Max WiFi motherboards](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1075902652402228178&xs=1&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMAG-Z790-TOMAHAWK-MAX-WIFI&sref=https%3A%2F%2Fwww.tomshardware.com%2Fbest-picks%2Fbest-thermal-paste) for this testing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Thermal Pastes](https://cdn.mos.cms.futurecdn.net/bY8DGaE36aQJyVp7kmcYVS-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Legacy Thermal Paste Testing - 90 Pastes Tested
 
  Here are our legacy thermal paste testing charts from 2017 and late 2022, but our newest testing is above. As you'll notice, many of the same popular pastes in 2022 are still on the market, making it into our new round of 2024 testing.
@@ -470,14 +531,24 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Thermal Paste Charts](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -488,10 +559,16 @@ We'll add more thermal pastes to our new hierarchy; stay tuned.
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Best Thermal Paste](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Best Thermal Paste](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

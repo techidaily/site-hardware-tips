@@ -1,7 +1,7 @@
 ---
 title: Insider Knowledge on Computing From Tom's Hardware Hub
-date: 2024-08-05 10:12:26
-updated: 2024-08-08 11:48:16
+date: 2024-08-08T04:23:16.448Z
+updated: 2024-08-09T04:23:16.448Z
 tags:
   - printer
 categories:
@@ -23,6 +23,9 @@ The K1C feels like a placeholder from a company that wants to constantly impress
 
 * [Creality K1C at Tomtop WW for $22.99](https://ficca2021.com/g/xljorca896cf955d81ea4bf89f6ddb/?f%5Fid=14723&ulp=https%3A%2F%2Fwww.tomtop.com%2Fp-os8059.html&subid=tomshardware-us-2311640371616033100)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications: Creality K1C
 
  Swipe to scroll horizontally
@@ -78,8 +81,14 @@ Today's best Creality K1C deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Creality K1C: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/UfKoS2qJ5iSaQ3DCfMERfN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -104,6 +113,9 @@ Today's best Creality K1C deals
 
  Clearly, Creality has been listening to user feedback, as they provided a printable solution to the annoying rear mounted spool holder. Two printable mounts are included on the printer’s USB stick, with a bag of screws and directions on how to attach it. I printed both and found the larger one – which mounts at a lower point – to work best. When mounted higher, the strain on the filament runout sensor is too much and causes the spool to twist.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/KmWQv4nqh4Z92NpqWrzUiM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -124,6 +136,9 @@ Today's best Creality K1C deals
 
  The K1C also comes with a preinstalled camera for monitoring your prints and taking timelapse videos.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Assembling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
@@ -134,12 +149,18 @@ Today's best Creality K1C deals
 
 ## Leveling the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/PZnS2qBbd56RiRcNEKUAMM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Creality K1C has a fully auto leveling program that includes input shaping with the help of built-in sensors. Just push the button and the machine does the rest. It will also recheck the level before each print, but you can turn that feature off during slicing if you’re comfortable skipping the step.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Loading Filament on the Creality K1C
 
  Loading filament is a little awkward with the back-mounted spool holder. The side mounted spool holder makes it easier, but you’ll need to print it first. The K1C has a reverse Bowden, which is a tube that guides the filament from the run out sensor at the back corner of the machine, across the top and into the extruder.
@@ -176,6 +197,9 @@ Reverse the process to remove the filament.
 
  Creality sent a spool of[high speed carbon fiber PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-High-Speed-Toughness-Dimensional%2Fdp%2FB0CLTYQP4L%2Fref%3Dsr%5F1%5F4%3Fcrid%3D8OYQEKCEW6WF%26dib%3DeyJ2IjoiMSJ9.FI2zQhPo5wO4rf995czUGWD05eYPkFqkO-3fTpeFo6OfGk6NAhner3pfSqYy3dH1Cvtzczvdoz0eBL12gYmPUx2i%5FXf2-tz%5FE2iYRzma6YDcLcqJ2bS3JZNtUsF%5F9DrSWc1JgPluFn2rsvxjqHOR2RhIrmmmfidAQyIFkTyAEjRigef1Wcqhnkajfws6N3inhXpMlq3vSxA2AukRNR-nxuvPj1XQuSeqj3MI4y3-0dM.VCGg28PaqmKrLcXg8dh-IvVG7cumgTgtcNQ-7DjjzHo%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bcarbon%252Bfiber%252Bfilament%26qid%3D1712701274%26sprefix%3Dcreality%252Bcarbo%252Caps%252C526%26sr%3D8-4%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456677865623603382-20) for testing, so I used it to make a side mounted spool holder that I found on the USB stick. One of Carbon Fiber’s benefits is masking layer lines and this print is not only strong but especially smooth. It printed quickly in 52 minutes and 36 seconds, using Creality default settings and a .2mm layer height.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/gaymHJoVUFV2rnFTjNpqVN-320-80.jpg)
 
 _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
@@ -198,6 +222,9 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Creality K1C is an excellent printer for makers who want a fast, fully-enclosed Core XY 3D printer in a single color. The recent announcement of the four color K2 lineup might give you pause, especially if you can wait a few more months. We have not reviewed the K2 yet, but we feel it's unlikely that the K1 can be upgraded to the new color system.
@@ -252,6 +279,9 @@ Creality K1C: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

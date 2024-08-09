@@ -1,7 +1,7 @@
 ---
 title: Mastering Modern PC Building Tips From Tom's Hardware Experts
-date: 2024-08-08 12:41:28
-updated: 2024-08-09 12:19:46
+date: 2024-08-08T04:23:23.670Z
+updated: 2024-08-09T04:23:23.670Z
 tags:
   - cooling
 categories:
@@ -27,6 +27,9 @@ Many readers will have battled ant infestations in their yard or home – but th
 
  Searching the depths of the internet reveals that this is[far from](https://www.computerworld.com/article/2535951/nasa-moves-to-save-computers-from-swarming-ants.html) the first time that ants have invaded PCs or Macs. Moreover, similar suspicions regarding[ants eating thermal pads](https://macriot.com/mcrt/2007/01/12/thermal-pads-ant-food/) or paste have been raised previously. Below you can see another example, this one from a video posted three years ago about a similar problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

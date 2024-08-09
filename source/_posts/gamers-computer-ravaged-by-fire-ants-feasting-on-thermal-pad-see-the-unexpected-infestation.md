@@ -1,7 +1,7 @@
 ---
 title: Gamer's Computer Ravaged by Fire Ants Feasting on Thermal Pad - See the Unexpected Infestation
-date: 2024-08-07 12:52:12
-updated: 2024-08-09 11:33:23
+date: 2024-08-08T04:23:18.208Z
+updated: 2024-08-09T04:23:18.208Z
 tags:
   - cooling
 categories:
@@ -27,6 +27,10 @@ Many readers will have battled ant infestations in their yard or home – but th
 
  Searching the depths of the internet reveals that this is[far from](https://www.computerworld.com/article/2535951/nasa-moves-to-save-computers-from-swarming-ants.html) the first time that ants have invaded PCs or Macs. Moreover, similar suspicions regarding[ants eating thermal pads](https://macriot.com/mcrt/2007/01/12/thermal-pads-ant-food/) or paste have been raised previously. Below you can see another example, this one from a video posted three years ago about a similar problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

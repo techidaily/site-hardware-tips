@@ -1,7 +1,7 @@
 ---
 title: Pioneering Hardware Insight and Analysis by Team Tom
-date: 2024-08-06 14:11:10
-updated: 2024-08-08 12:42:52
+date: 2024-08-08T04:23:26.884Z
+updated: 2024-08-09T04:23:26.884Z
 tags:
   - best-picks
 categories:
@@ -25,12 +25,18 @@ If you own a lightweight laptop, you've probably noticed that the charger it com
 * **Get ready for heat:** If you're running anywhere close to the rated wattage (or above), expect your USB-C laptop charger to feel toasty to the touch. In our tests, after 20 minutes of running at one watt below their rating (ex: 64 watts on a 65-watt charger), temperatures ranged from 119 degrees Fahrenheit (48.3 Celsius) to 154 degrees (67.8 Celsius). That's unpleasant, but not dangerous. You can get a cooler skin temperature by purchasing a higher capacity charger than you need and running it at less than its maximum.
 * **Mind the second port:** Many chargers also come with a second port that's either USB Type-A or USB-C. You can use this port to charge a mobile device or even power a Raspberry Pi, but it will take a certain amount of amperage away from the main port.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Best USB-C Laptop Chargers You Can Buy Today
 
 ![Aukey Omnia 65W (PA-B4)](https://cdn.mos.cms.futurecdn.net/56bbcSSXTLyQFEjCdvopK4-320-80.jpg)
 
 Aukey Omnia 65W (PA-B4)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Aukey Omnia 65W (PA-B4)
 
 Best Laptop USB-C Charger Overall
@@ -77,6 +83,9 @@ Super thin and light
 
  Better still, the Omnia PA-B4 offers up to 15 watts of juice from its second USB-C port (only the top port can be used for max wattage), which is more than enough to charge a second device or comfortably power a Raspberry Pi 4\. The primary port will emit less power, however, if a second device is plugged in. In our case, we pushed the primary port 50 watts under those conditions, though Aukey only advertises a maximum of 45 watts.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Aukey Omnia 100W (PA-B5)](https://cdn.mos.cms.futurecdn.net/w8rs9Ujgpvefv99E9MntxY-320-80.jpg)
 
 Aukey Omnia 100W (PA-B5)  (Image credit: Tom's Hardware)
@@ -125,6 +134,9 @@ Can output a full 113.7W
 
  Perhaps just as important as the Aukey PA-B5's output is its size and weight. This wall wart is just 2.24 x 2.24 x 1.26 inches and 5.3 ounces, which compares very favorably to the RAVPower Pioneer 90W (RP-PC128) that tips the scales at 6.7 ounces with dimensions of 2.5 x 2.5 x 1.2 inches.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Aukey Omnia 61W (PA-B2)](https://cdn.mos.cms.futurecdn.net/oYeeCRPZx628sCJnDV8vBc-320-80.jpg)
 
 Aukey Omnia 61W (PA-B2)  (Image credit: Tom's Hardware)
@@ -169,6 +181,9 @@ Can sustain 65W output
 
  However, even at these temperatures, the Omnia PA-B2 is cooler and more consistent than the RAVPower Pioneer RP-PC112, which hit 143 degrees at 60 watts and could not maintain its maximum wattage of 69 watts for more than a few minutes before it turned itself off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![RAVPower Pioneer 65W (RP-PC133)](https://cdn.mos.cms.futurecdn.net/YkEBPCGsFpGvrNHagvdv4V-320-80.jpg)
 
 RAVPower Pioneer 65W (RP-PC133)  (Image credit: Tom's Hardware)
@@ -219,10 +234,16 @@ Can’t sustain top wattage
 
  At 64 watts, one below its rated maximum, the RAVPower Pioneer RP-PC133 maintained a skin temperature of just 119 degrees Fahrenheit (48.3 Celsius), which is pleasantly cool compared to most chargers we tested.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![IOGear GearPower 60W (GPAWC60W)](https://cdn.mos.cms.futurecdn.net/NZVFKnr6zR83z3rHSZnjpf-320-80.jpg)
 
 IOGear GearPower 60W (GPAWC60W)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 5\. IOGear GearPower 60W (GPAWC60W)
 
  Plenty of power from a 60W USB-C Laptop Charger
@@ -261,6 +282,9 @@ Expensive
 
  The IOGear GearPower 60W is a bit expensive compared to its competitors. At press time, it was $5 more than the Aukey PA-B2 and not available at[Amazon](https://www.tomshardware.com/tag/amazon) in the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other USB-C Laptop Chargers We Tested
 
 * [**Aukey Omnia Mix 65W (PA-B3)**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCharger-AUKEY-GaNFast-Technology-Dynamic%2Fdp%2FB0841V6LR5%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2029873750257055749-20) **:** Aukey's USB Type-C / Type-A charger is also really good and about on par with the RAVPower Pioneer RP-PC133 while weighing less. However, we found that in real-world charging, the RP-PC133 gave more power to a laptop (51 watts vs 38) when a phone was attached to the Type-A port.

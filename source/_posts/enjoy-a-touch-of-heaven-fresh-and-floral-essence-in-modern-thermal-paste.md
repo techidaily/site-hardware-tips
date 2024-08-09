@@ -1,7 +1,7 @@
 ---
 title: "Enjoy a Touch of Heaven: Fresh and Floral Essence in Modern Thermal Paste"
-date: 2024-08-08 15:28:11
-updated: 2024-08-09 12:31:14
+date: 2024-08-08T04:23:20.764Z
+updated: 2024-08-09T04:23:20.764Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Miniature Marvel of Additive Manufacturing: A Coin-Sized 3D Printer Using Cutting-Edge Silicon Technology, No Moving Parts!"
-date: 2024-08-06 21:16:14
-updated: 2024-08-08 10:26:54
+date: 2024-08-08T04:23:31.971Z
+updated: 2024-08-09T04:23:31.971Z
 tags:
   - printer
 categories:
@@ -17,10 +17,16 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Photographs showing a a typical commercial 3D printer with a photonic chip (outlined in black) for scale and b a fabricated and packaged photonic chip. c Conceptual diagram of the proposed chip-based 3D printer, showing a hologram formed by a chip within a resin chamber (not to scale). d Conceptual diagram of the proof-of-concept stereolithography-inspired chip-based 3D printer demonstrated in this work (not to scale)  (Image credit: MIT)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  a Electrically controlled beam steering of the main lobe of the 3D-printer chip’s visible-light integrated optical phased array when a square wave with a varying peak voltage is applied across the liquid-crystal-based phase shifter53,54\. b Photographs of a 3D-printed line, created using the chip-based printer, within a well of remaining liquid resin (top) and the same solid 3D-printed line after separation from the remaining liquid resin (bottom). c Photographs of a 3D-printed MIT logo created using the chip-based printer, with a U.S. nickel for scale (left) and zoomed in (right)  (Image credit: MIT)
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

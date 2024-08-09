@@ -1,7 +1,7 @@
 ---
 title: Bambu Lab Announces Free Reparations for A1 Model 3D Printer - Urgent Halt of Operations Advised
-date: 2024-08-06 22:29:34
-updated: 2024-08-08 12:19:22
+date: 2024-08-08T04:23:24.871Z
+updated: 2024-08-09T04:23:24.871Z
 tags:
   - printer
 categories:
@@ -21,6 +21,9 @@ When we[reviewed](https://www.tomshardware.com/reviews/elegoo-neptune-4-pro-3d-p
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1414883217175467091%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F288-0092-00077)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications of Elegoo Neptune 4 Pro
 
  Swipe to scroll horizontally
@@ -39,6 +42,9 @@ When we[reviewed](https://www.tomshardware.com/reviews/elegoo-neptune-4-pro-3d-p
 | **Connectivity**            | USB, microSD                                         |
 | **Interface**               | 4.3-inch Color Touchscreen LCD                       |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Elegoo Neptune 4 Pro](https://cdn.mos.cms.futurecdn.net/xipKTQMMS2DDX4sngzLBtg-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -47,6 +53,9 @@ When we[reviewed](https://www.tomshardware.com/reviews/elegoo-neptune-4-pro-3d-p
   
  Coming as a part-built kit, the Neptune 4 Pro is easy to assemble; just a few screws and you are ready to level the print bed. You need to do this manually, and then run a 121-point automated bed level sequence. After finally setting the Z-offset you're good to start printing with a range of filaments.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Neptune 4 Pro](https://cdn.mos.cms.futurecdn.net/TTA2xQxywjyNsUH5DMWFHi-320-80.jpg)
 
  (Image credit: Tom's Hardware)

@@ -1,7 +1,7 @@
 ---
 title: "Masterclass: Techniques for Addressing Filament Grinding Problems"
-date: 2024-08-07 22:52:10
-updated: 2024-08-08 10:49:14
+date: 2024-08-08T04:23:16.467Z
+updated: 2024-08-09T04:23:16.467Z
 tags:
   - printer
 categories:
@@ -46,3 +46,7 @@ Whether you're a maker or just an occasional hobbyist, 3D printing has come leap
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->

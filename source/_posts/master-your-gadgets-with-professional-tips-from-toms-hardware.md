@@ -1,7 +1,7 @@
 ---
 title: Master Your Gadgets with Professional Tips From Tom's Hardware
-date: 2024-08-07 13:54:16
-updated: 2024-08-09 11:26:42
+date: 2024-08-08T04:23:14.853Z
+updated: 2024-08-09T04:23:14.853Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,9 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Most methods of thermal paste installation work about the same, but the final application actually ends up with an uneven distribution on the CPU's IHS and often leaves part of the IHS without paste, which isn't optimal. X-Apply looks to fill those gaps with a special stencil.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Intel version of X-Apply, mid-application. A spatula is used to flatten paste into stenciled gaps..](https://cdn.mos.cms.futurecdn.net/upgTTpBBWKEg9p2m26Y6yn-320-80.jpg)
 
  (Image credit: Igor's Lab)
@@ -33,6 +36,9 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Thermal testing with a 360mm AIO done by Igor's Lab also points toward X-Apply working well, delivering a roughly 4C reduction in temperatures over standard application methods. That isn't a world-breaking difference, but it does at least show that the stencil applies the paste in a workable fashion. As long as X-Apply isn't gratuitously overpriced, there really doesn't seem to be any harm in these easy TIM applicators. Unfortunately, we won't learn pricing until the product comes to market.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

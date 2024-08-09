@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal on The Top Value Choice: Thermalright Phantom Spirit 120 SE for Just $35!"
-date: 2024-08-06 21:43:47
-updated: 2024-08-09 10:34:41
+date: 2024-08-08T04:23:13.866Z
+updated: 2024-08-09T04:23:13.866Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

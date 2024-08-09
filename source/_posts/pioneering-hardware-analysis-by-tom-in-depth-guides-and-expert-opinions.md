@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Hardware Analysis by Tom: In-Depth Guides & Expert Opinions"
-date: 2024-08-06 20:53:47
-updated: 2024-08-08 10:53:57
+date: 2024-08-08T04:23:25.721Z
+updated: 2024-08-09T04:23:25.721Z
 tags:
   - printer
 categories:
@@ -88,8 +88,14 @@ Today's best Creality K1C deals
 
  You also get a PDF copy of the manual, a copy of Creality Slicer and sample models in both pre-sliced .gcode and .stl format. There’s also a very helpful video to help you operate your machine.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -110,6 +116,9 @@ Today's best Creality K1C deals
 
  The best spool holder might be the K1C’s matching filament drier, the[Creality Space Pi](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FOfficial-Creality-Filament-Printer-Dehydrator%2Fdp%2FB0CT59XN7F%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1D1S485JUS6CV%26dib%3DeyJ2IjoiMSJ9.6Igey3jkqAaYBP83K8VBFnBaHQySjsVgW%5FtGi77EklQ2OYMwbmNh9yePuyaPrc4qNKELf9xMWZwgAS8-UgRAIdtkBlMjf47NMKEKtHFUEZzV8NoHPTuki49w9y4WW8EzZ1O36FRL8pr9qSJIzJtzRF7OGW%5FbBwij2nN-0iiCsTYBiZPSJXgumWrykKXTKQRZ8uDtQ2jUTAhs3ve1r4UspUNven-lp3nGzFpwPCu4IGQ.mCRC670fi6uoK9HSCRqvjQMro7OLM-yQUMZ0-AGKUwQ%26dib%5Ftag%3Dse%26keywords%3Dcreality%2Bspace%2Bpi%26qid%3D1712693385%26sprefix%3Dcreality%2Bspace%2Bpi%252Caps%252C144%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1357917695777409794-20) , which is an optional purchase costing $85\. We were sent one for review along with the printer and found it worked well. The drier is helpful when printing hygroscopic material like Nylon, but can be left off when printing more stable material like PLA.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/nMFPiAhSg8VftPtqkoi3MN-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -124,16 +133,28 @@ Today's best Creality K1C deals
 
  The K1C also comes with a preinstalled camera for monitoring your prints and taking timelapse videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Creality K1C is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew three screws holding the build plate on, plug in the touch screen, screw on the filament holder and pop a filter on the back of the machine.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Leveling the Creality K1C
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/PZnS2qBbd56RiRcNEKUAMM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -176,6 +197,10 @@ Reverse the process to remove the filament.
 
  Creality sent a spool of[high speed carbon fiber PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-High-Speed-Toughness-Dimensional%2Fdp%2FB0CLTYQP4L%2Fref%3Dsr%5F1%5F4%3Fcrid%3D8OYQEKCEW6WF%26dib%3DeyJ2IjoiMSJ9.FI2zQhPo5wO4rf995czUGWD05eYPkFqkO-3fTpeFo6OfGk6NAhner3pfSqYy3dH1Cvtzczvdoz0eBL12gYmPUx2i%5FXf2-tz%5FE2iYRzma6YDcLcqJ2bS3JZNtUsF%5F9DrSWc1JgPluFn2rsvxjqHOR2RhIrmmmfidAQyIFkTyAEjRigef1Wcqhnkajfws6N3inhXpMlq3vSxA2AukRNR-nxuvPj1XQuSeqj3MI4y3-0dM.VCGg28PaqmKrLcXg8dh-IvVG7cumgTgtcNQ-7DjjzHo%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bcarbon%252Bfiber%252Bfilament%26qid%3D1712701274%26sprefix%3Dcreality%252Bcarbo%252Caps%252C526%26sr%3D8-4%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456677865623603382-20) for testing, so I used it to make a side mounted spool holder that I found on the USB stick. One of Carbon Fiber’s benefits is masking layer lines and this print is not only strong but especially smooth. It printed quickly in 52 minutes and 36 seconds, using Creality default settings and a .2mm layer height.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/gaymHJoVUFV2rnFTjNpqVN-320-80.jpg)
 
 _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
@@ -194,6 +219,9 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
  I ran more parts for the RC car in both Nylon and ABS, and the printer was able to print this material well without any warping. I only used a healthy amount of glue stick on the build plate, which you’re supposed to do anyway for this style of bed surface. These were printed using[Inland ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Black-Printer-Filament%2Fdp%2FB00WX4UONO%2Fref%3Dsr%5F1%5F3%3Fcrid%3D1ASJ476AKHGFY%26dib%3DeyJ2IjoiMSJ9.Bf%5FTTu-%5Fa3U7vmrO2PYu9EsWLYLhL-Plx2zLdOtaJc6Tf23tZBg3at5v9AUirqwUwct1buCtdE%5FpycTYq%5FrS0HIiJ%5FHFsVKw17gaejWy5XO15%5FpK3-kPjKqu4yvJqK7gRPGMSfHKu7eLmuBtrOCeZj0BYct3zsqm80ooJ1K8ozicMx5sEp35XNJ76tjbQtpVI766mbBR8mld68IFiOjxmNkE-JfTEinbesPTViQO9Nk.5MCIBqOLUSuCkH%5Fk0kMr2MdsmQCUokC85J8flrKP-eI%26dib%5Ftag%3Dse%26keywords%3Dinland%252Babs%26qid%3D1712703177%26sprefix%3Dinland%252Babs%252Caps%252C143%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1017746780174986647-20) with a .2 layer height and Creality Print’s default ABS settings. The entire plate of parts printed in 2 hours and 47 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/7AusoMr9NoagoP2Zo4oSCN-320-80.jpg)
 
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
@@ -252,6 +280,9 @@ Creality K1C: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

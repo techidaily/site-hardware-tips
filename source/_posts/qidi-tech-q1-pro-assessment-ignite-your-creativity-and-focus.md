@@ -1,7 +1,7 @@
 ---
 title: QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus!
-date: 2024-08-05 23:18:27
-updated: 2024-08-08 11:43:55
+date: 2024-08-08T04:23:16.596Z
+updated: 2024-08-09T04:23:16.596Z
 tags:
   - printer
 categories:
@@ -25,6 +25,9 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
 * [QIDI Tech Q1 Pro at Amazon for $499](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5546353563137248039-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications: QIDI Q1 Pro
 
  Swipe to scroll horizontally
@@ -58,6 +61,9 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## QIDI Q1 Pro : Included in the Box
 
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/NxpRBtdaRYASQCXgayMqtU-320-80.png)
@@ -78,6 +84,9 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
  It has a removable purge collector in the back, along with a brush for wiping the nozzle, which seems odd on a single color printer. It might be an indicator that QIDI is working on a color upgrade for the Q1 Pro, or it could just be a way to keep the nozzle pristine for more accurate bed probing.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/BARxcJ3oRgrxXJjKUcf7rM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -88,6 +97,9 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
  As previously mentioned, the Q1 Pro has a separate heater for the chamber, located in the bottom left corner. It can boost the interior temperature to 60 C when the lid and door are closed. The heater is powered directly by the wall outlet and should not be touched while running. As with all 3D printers, you should keep your hands clear of the machine’s innards while it’s running. Because this is a high-speed printer, it’s prone to sudden, unpredictable movement. The build plate cannot be jammed past the safety grid (I tried).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/sjNftqW7PtMtPBcVsC6cHP-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -96,20 +108,32 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
  A high-flow, wear resistant nozzle, with a copper plated throat and hardened steel tip is installed on the printer. It’s nice to see a 3D printer come with a durable, professional grade nozzle instead of cheap brass. Replacements are affordable, and start at a couple dollars each. They are also much easier to swap out than Bambu-style nozzles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/FXQYKuwu7TXvqihqJ5J9KM-320-80.png)
 
 (Image credit: QIDI)
 
  Another perk included with the Q1 Pro is a built-in 1080p camera for monitoring prints and even doing timelapses. The camera feed pops up immediately when you access the Klipper interface. The chamber is brightly lit with LED lights.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Assembling the QIDI Q1 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/xqJbDfWEJ2Q6x29eMEVtqP-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The QIDI Q1 Pro is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew a few shipping screws, and pop on the filament holder.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leveling the QIDI Q1 Pro
 
  The QIDI Q1 Pro has a full auto leveling program that includes setting the Z height, input shaping and PID tuning with the help of built-in sensors. It runs a full calibration during the set phase. Just push the button and the machine does the rest. The machine also runs through a leveling calibration before each print to make sure that it’s perfect.
@@ -174,10 +198,16 @@ It feels like QIDI Tech has been sitting in the back of the room, taking notes w
 
  I ran parts for an RC car we’re building in ABS, and the Q1 Pro was able to print this material well without any warping or cracking. I used a bit of glue stick on the build plate for insurance. This was printed using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dsr%5F1%5F3%3Fcrid%3D2NN02OPBYV5HN%26dib%3DeyJ2IjoiMSJ9.em9M450oeSabcM%5F%5FHACbR4Ao4b1cqS-grMMOPbu8iYUwz5boFanDxZwrXDyl94LWBw1IGn8uY-ksf3SPGdQMsOl%5Fm7sjJEB6-x7mpYDXKTNaCeChhe7ZUtVYvyrI5pjsh7UyNjiyXQ8xxLxpvz44RubrdaZpFCph5a787%5F2vRGqFaHYxXIsG6O9WzsQoNoKKtBIuBjID8lOdvvp8Fk7W-ajFM2bl6f2B7MFn2qNeo5s.vNY9FNxv56GLGJQe7r8qFMyOxhNZ0QhcWWnN7V3zIzg%26dib%5Ftag%3Dse%26keywords%3Dpolymaker%2Babs%2Bgalaxy%2Borange%26qid%3D1713295697%26sprefix%3Dpolymaker%2Babs%2Bgalaxy%2Borange%252Caps%252C103%26sr%3D8-3%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6674214476070242436-20) with a 0.2 layer height and QIDI Print’s default ABS settings. This printed in 23 hours and 4 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/A3vnuMYHRSw6cSV84wGXnL-320-80.jpg)
 
 _RC Truck Cab, modified from_ [_Fixumdude’s Print in Place Pickup Truck_](https://www.printables.com/model/504729-fixum-dude-motors-print-in-place-pickup-truck)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The QIDI Q1 Pro is a very good printer that’s simple to set up and easy to use. It makes printing with ABS and nylon worry free. The lack of warning tags on the heater is concerning, so I’m reluctant to recommend it to beginners who may treat it as a household appliance rather than the serious maker tool that it is.
@@ -208,6 +238,9 @@ QIDI Tech Q1 Pro: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

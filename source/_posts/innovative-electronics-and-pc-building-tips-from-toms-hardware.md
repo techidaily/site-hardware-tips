@@ -1,7 +1,7 @@
 ---
 title: Innovative Electronics and PC Building Tips From Tom's Hardware
-date: 2024-08-07 20:53:33
-updated: 2024-08-08 11:45:51
+date: 2024-08-08T04:23:01.310Z
+updated: 2024-08-09T04:23:01.310Z
 tags:
   - best-picks
 categories:
@@ -21,6 +21,9 @@ For a college student, there is no more important tool than a laptop. It's a cat
   
  Also, don't forget get whatever student discounts are available. Many vendors may give you some percentage off, a gift card, or a free extra when you can prove that you're a student, either with a .edu email address or a college ID card.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quick College Laptop Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -31,12 +34,19 @@ For a college student, there is no more important tool than a laptop. It's a cat
 * **Consider how you take notes:** A good keyboard is always important, especially when you're writing papers. But some students still prefer to take notes by hand, and those people will want to consider a convertible or detachable 2-in-1 with a stylus.
 * **See if you can get a student discount:** Some stores will offer you a discount with your proof of affiliation with a university or college. It's also possible that your school will have a relationship with a vendor for deals on certain models. Others may just throw in a gift card or some free earbuds. If you can find a deal, great; school is expensive enough.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best College Laptops You Can Buy Today
 
 ![MacBook Air M2](https://cdn.mos.cms.futurecdn.net/DKP4keBc9LGTkUjBEEA5o4-320-80.jpg)
 
  The MacBook Air with M2 is the best college laptop you can buy with a thin design and plenty of power.  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### [1. MacBook Air (M2)](https://www.tomshardware.com/reviews/apple-macbook-air-m2-2022)
 
 Popular in the Lecture Hall
@@ -117,10 +127,16 @@ Display notch will bother some people
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![MacBook Air (15-inch)](https://cdn.mos.cms.futurecdn.net/UDoAbddJqaTrP6izFdnHC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### [2. MacBook Air (15-inch)](https://www.tomshardware.com/reviews/macbook-air-15-inch-m2)
 
 Bigger screen, better speakers
@@ -449,6 +465,18 @@ Display is a little washed out
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dell XPS 15 (9530)](https://cdn.mos.cms.futurecdn.net/Nt9bmtMdiJmRptQwyM5uqV-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -509,6 +537,9 @@ Port selection could be better
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Zephyrus G14](https://cdn.mos.cms.futurecdn.net/uygXtWBTEyYRsMrbDLLHcH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -591,6 +622,9 @@ Pricey
 
 Round up of today's best deals
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Apple - MacBook Air 13.6"...](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...")](https://images.fie.futurecdn.net/hh3xtiyvqrmx3xkj-16681794209212.jpg "Apple - MacBook Air 13.6"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
 
 [Apple MacBook Air M2 2022](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6509650%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6509650.p%253Fcmp%253DRMX)
@@ -671,6 +705,9 @@ Round up of today's best deals
 
 [See all prices](https://www.tomshardware.com/deals/compare?model%5Fname=Dell%20XPS%2015%20%289530%29&article%5Fid=KR8ZzetHCdAZexeYU8ofaP)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![ASUS - ROG Zephyrus G14 14"...](https://m.media-amazon.com/images/I/41dzXV4lPsL._SL500_.jpg "ASUS - ROG Zephyrus G14 14"...")](https://m.media-amazon.com/images/I/41dzXV4lPsL._SL500_.jpg "ASUS - ROG Zephyrus G14 14"...") ](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6570270%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6570270.p%253Fcmp%253DRMX)
 
 [Asus ROG Zephyrus G14](https://shop-links.co/link/?publisher_slug=itechdaily19598&exclusive=1&url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6570270%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6570270.p%253Fcmp%253DRMX)
@@ -689,6 +726,9 @@ Round up of today's best deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

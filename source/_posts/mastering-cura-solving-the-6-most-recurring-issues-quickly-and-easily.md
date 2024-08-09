@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cura: Solving the 6 Most Recurring Issues Quickly & Easily"
-date: 2024-08-06 16:30:51
-updated: 2024-08-08 10:23:29
+date: 2024-08-08T04:23:20.960Z
+updated: 2024-08-09T04:23:20.960Z
 tags:
   - printer
 categories:
@@ -15,6 +15,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  As with other 3D printing problems, you need to understand the root cause to know how to address it. Different types of holes and gaps can appear on the print based on the location, size, and structure, and we will look at the main ones and how to solve them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Holes and Gaps on the Top Section of the Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/hizhp3jQoN2EAWHJsY3NPA-320-80.png)
@@ -23,18 +26,27 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  Holes and gaps on the top section of your 3D print can quickly be noticed and are usually characterized by hollow or sunken areas on the top surfaces. They typically occur during the cooling phase of the 3D printing process, and the deposited layers retract or shrink, leaving voids behind on the top surfaces. They can also occur when there is no sufficient top-layer infill. You can fix these by increasing the top layer thickness so that more material is deposited to create a more solid surface.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/KehSpotVtUyHXKE6wK8jY8-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  As you increase it, you also need to check the[infill patterns](https://www.tomshardware.com/how-to/choose-infill-pattern-for-3d-prints) and ensure that you use one that is not susceptible to pillowing, like gyroid and honeycomb. Adjusting cooling to ensure the layers have enough time to cool is vital. You can adjust the fan speed in the[3D printer slicer](https://www.tomshardware.com/features/6-best-3d-printer-slicers-and-how-to-use-them) and ensure it works as required.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/as8GnfwzxKhA3oP7BwBA8A-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  When the uppermost layers of the print do not have sufficient support or material to form a solid surface, the deposited filament may retract or shrink, leaving behind voids that manifest as holes or depressions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 2\. Tiny Holes in the Walls of the 3D Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/ohZWqZjArgJmwVqf8fhtu9-320-80.png)
@@ -79,10 +91,16 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can[manually level your 3D printer bed](https://www.tomshardware.com/how-to/level-3d-printer-bed) or use the automatic bed leveling feature found in most of the best[3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) . You can[correctly set the Z offset of your 3D printer](https://www.tomshardware.com/how-to/correctly-set-3d-printer-z-offset) manually by adjusting the nozzle height as you place a piece of paper on the bed. You can find the Z offset setting on the menu of your 3D printer.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/TtXhijJg3aMuMsYBQqUwB9-320-80.png)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5\. Holes and Gaps in the Corners of the Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/yNYqczmqhVnKMJbe2eFSLF-320-80.png)
@@ -99,6 +117,9 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  The above strategies can help address issues related to holes and gaps in your 3D prints. If you have a print that has suffered from these problems, you can salvage it through post-processing activities. One approach is to apply filler material like[Bondo](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fs%3Fk%3Dbondo%26crid%3D18ZZ4URMWWITX%26sprefix%3Db%252Caps%252C1739%26ref%3Dnb%5Fsb%5Fnoss%5F2%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3135570975057401036-20) or[Milliput](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB002CNEWAM%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7059939473745178478-20) to the areas with gaps or holes to refine the appearance and structural integrity. Other strategies like applying acetone vapor smoothing and painting can also help achieve a smoother surface, even though it might not work on all prints.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Related 3D PrintingTutorials
 
 **More:** [5 Ways Fix Z Banding in 3D Printing](https://www.tomshardware.com/how-to/fix-z-banding-in-3d-printing)

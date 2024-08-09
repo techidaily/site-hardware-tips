@@ -1,7 +1,7 @@
 ---
 title: US Birthplace of Innovation – Prusa's New Manufacturing Hub for 3D Tech in Delaware
-date: 2024-08-07 23:38:16
-updated: 2024-08-08 12:50:16
+date: 2024-08-08T04:23:29.897Z
+updated: 2024-08-09T04:23:29.897Z
 tags:
   - printer
 categories:
@@ -15,6 +15,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
 3D Chocolate Printer DIY Kit
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press 3D Chocolate Printer](https://cdn.mos.cms.futurecdn.net/uLHJe6MqfyXyjk3qi8VGQG-320-80.jpg)
 
  (Image credit: Cocoa Press)
@@ -63,6 +66,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Cocoa Press[offers material in the form of 65 gram chocolate cores](https://cocoapress.com/products/cocoa-cores?variant=44502779887909) in dark, milk, and white variants. This material is priced at $49 for a 10 pack, which breaks down to under $5 per core. To go further: this is equal to $0.08 per gram, which is roughly three times the[price per gram of a Snicker bar](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fref%3Dtgt%255Fadv%255Fxsp%26AFID%3Dgoogle%26fndsrc%3Dtgtao%26DFA%3D71700000108139139%26CPNG%3DPLA%255FSnacks%252BCandy%252BShopping%255FLocal%257CSnacks%252BCandy%255FEcomm%255FFood%255FBev%26adgroup%3DSC%255FSnacks%252BCandy%26LID%3D700000001170770pgs%26LNM%3DPRODUCT%255FGROUP%26network%3Dg%26device%3Dc%26location%3D9009973%26targetid%3Daud-554348709499%253Apla-702295848632%26gad%255Fsource%3D1%26gclid%3DCjwKCAiA7t6sBhAiEiwAsaieYoaEC%255F9Qg4fsTM1SRZn30aI4wDD7DY%255F7UUvd8sa%255FjtxWfw%255FWeFtCxxoCMBwQAvD%255FBwE%26gclsrc%3Daw.ds%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-3596349578306961031%26url%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fsnickers-full-size-chocolate-candy-bar-1-86oz%252F-%252FA-13055565%253Fref%253Dtgt%255Fadv%255Fxsp%2526AFID%253Dgoogle%2526fndsrc%253Dtgtao%2526DFA%253D71700000108139139%2526CPNG%253DPLA%255FSnacks%25252BCandy%25252BShopping%255FLocal%25257CSnacks%25252BCandy%255FEcomm%255FFood%255FBev%2526adgroup%253DSC%255FSnacks%25252BCandy%2526LID%253D700000001170770pgs%2526LNM%253DPRODUCT%255FGROUP%2526network%253Dg%2526device%253Dc%2526location%253D9009973%2526targetid%253Daud-554348709499%253Apla-702295848632%2526gad%255Fsource%253D1%2526gclid%253DCjwKCAiA7t6sBhAiEiwAsaieYoaEC%255F9Qg4fsTM1SRZn30aI4wDD7DY%255F7UUvd8sa%255FjtxWfw%255FWeFtCxxoCMBwQAvD%255FBwE%2526gclsrc%253Daw.ds%26article%255Fname%3DCocoa%2520Press%25203D%2520Printer%2520Review%253A%25203D%2520Print%2520Chocolate%2520at%2520Home%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252F3d-printing%252Fcocoa-press-3d-printer-review) . If you’ve never tried to process chocolate before, this may seem like a high price for a solid bar of chocolate. It’s worth noting that the Cocoa Press is not a locked or proprietary system, but the difficulty in creating a solid block of chocolate will likely come as a surprise to consumers who have never attempted it before.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/59nhLAG75e8XcV6qV6vPjW-320-80.png)
 
  (Image credit: Cocoa Press)
@@ -73,6 +79,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -87,16 +96,25 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  The Cocoa Press ships in two boxes: one with all the parts (except the 3D printed parts) required to build the machine, and one with the chocolate cores for 3D printing (10 dark, 5 milk, and 5 white chocolate). The parts box is densely packed with individual boxes, each labeled with the family of parts contained within. The Cocoa Press also includes a badge with a serial number for warranty paperwork (I watched the site like a hawk on release, and managed to get the first order in, which arrived with the first publicly available serial: SN: 0002).
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/upEsmBpXkuqHXMwAevCJYn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Each box is further labeled, with individual components bagged, tagged, and referenced in the documentation. The assembly process felt like building a LEGO kit or a Gundam model, where each step has all parts labeled and sorted separately so you’re not digging through a giant box full of nuts and bolts when looking for a single washer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Printed Parts on the Cocoa Press
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -109,6 +127,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -137,6 +158,18 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -175,12 +208,18 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Loading the material is a multi-step process. The extruder assembly uses a latch to keep it locked in place and when unlocked the assembly can be tilted backwards, allowing access to the cartridge. Removing the thumbscrew allows the cartridge to slide out and a 65 gram chocolate core can be inserted before pivoting the assembly and latching it in place. The chocolate is heated inside the cartridge and is pushed out of the nozzle via the small red plunger on the end of the threaded E rod.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/bswxiSFytuX85wRd8n5Ssm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -191,6 +230,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -221,6 +263,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  The included[assembly guide](https://help.cocoapress.com/assets/assembly%5Fmanual.pdf) for the Cocoa Press is a jaw-dropping 214 pages long; possibly the longest I’ve seen for a consumer 3D printer. Filled with whimsical references to musical theater (“_Way Down, Hadestown_ ”), pop culture (“_No Touching!_ ”), and generally good advice (“_Trust but Verify_ ”), the manual succeeds in grabbing your attention and guiding you through the assembly process with humor, which can be a challenge for a typically dry piece of technical writing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/BD2GShpLVv4p5fgnEScr5b-320-80.png)
 
  (Image credit: Cocoa Press)
@@ -235,6 +280,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  The guide includes not only a picture of the full belt path, but also cutaway views showing belt routing over every pulley, idler, and connection point. This is normally the spot in an assembly where I would try to find a video on YouTube to check my work, but the included documentation was more than enough to give me confidence in my assembly skills.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Calibrating and Leveling the Cocoa Press
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/m9Deb2j8f4XVLvRmopCBR-320-80.jpg)
@@ -251,6 +299,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  This is helpful, and when I first ran the operation I noticed that my bed skewed heavily to the right. After removing the print bed and reassembling it, the distortion was reduced. This was a helpful visualization, and worked well to diagnose and resolve my issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Build Platform on Cocoa Press
 
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/rLd8djxTELQxgNPS8kZJig-320-80.jpg)
@@ -273,6 +324,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -281,10 +335,16 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -293,14 +353,23 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  I appreciate that the Cocoa Press includes both simple and ambitious demo models, as this is a frequently overlooked aspect of consumer 3D printers that can lead to frustration for first-time users. I think about the[Creality LD-002R](https://www.tomshardware.com/reviews/creality-ld-002r-review-msla-resin-3d-printing-on-a-budget) , a resin 3D printer that included a demo print that took over 19 hours to complete with no indication of print time in the model name. Obviously, that’s not ideal for someone looking to quickly verify the machine is operational.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Slicing Software for Cocoa Press
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/uwijAa5tCzfmtV9LGhs4ic-320-80.png)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053) (Image credit: Prusa)
 
  The Cocoa Press uses PrusaSlicer to prepare models for printing, a welcome change from manufacturers that will fork and abandon Open Source software to get their name at the top of the application. The latest version of PrusaSlicer includes machine profiles for the Cocoa Press, both with the 0.8mm nozzle and the 1.6mm nozzle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/8YKNYXx7KkqiTPSqKxmPQZ-320-80.png)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053) (Image credit: Prusa)
@@ -315,6 +384,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Model:[Heart by Lumorion](https://www.printables.com/model/66175-heart)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Prusa)
@@ -331,6 +403,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Model:[Heart by Lumorion](https://www.printables.com/model/66175-heart)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Prusa)
@@ -341,12 +416,18 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -355,6 +436,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Using the 0.8mm nozzle, I printed the Cute Octopus Says Hello model by Makerbot using dark chocolate, a dense gyroid infill, and an otherwise standard 0.5mm layer height profile. The sidewalls printed smooth and consistent, and if you didn’t know it was chocolate, you may even think it’s just dark brown ABS filament based on the layers. The gyroid infill is hypnotic to watch during printing, and tastes just as good as it looks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/YEFoKe64nnbuRvAUZH7rLU-320-80.jpg)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053)  (Image credit: Tom's Hardware)
@@ -363,12 +447,18 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Model:[Cute Octopus Says Hello by Makerbot](https://www.thingiverse.com/thing:27053)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -385,6 +475,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Model:[Easy Filament Swap Gingerbread Cookie by Overture3D](https://www.printables.com/model/669856-easy-filament-swap-gingerbread-cookie)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -395,6 +488,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -411,16 +507,25 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Prusa)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Ask yourself this: if you had a 3D scanner, a chocolate 3D printer, and a desire to print something unique, what would you make? Having previously made a 3D scan of my head ([you can make one, too!](https://www.tomshardware.com/how-to/make-3d-printed-selfie) ), I figured printing it in chocolate would be a fun thing to try out! I angled the model upwards in PrusaSlicer, and spent a good amount of time reducing the overhangs as much as possible. Knowing that steep overhangs may result in drooping perimeters, I did my best to angle the model in a way that reduced them as much as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://cdn.mos.cms.futurecdn.net/RLQwXeRi2KffLLZmyQUFMF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -429,6 +534,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Prusa)
@@ -445,6 +553,9 @@ The Cocoa Press chocolate 3D printer brings the ability to print chocolate to th
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cocoa Press](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

@@ -1,7 +1,7 @@
 ---
 title: Affordable Phrozen Sonic Mini 8K sS Resin 3D Printer Now Just $325
-date: 2024-08-06 18:58:18
-updated: 2024-08-08 10:38:23
+date: 2024-08-08T04:23:01.159Z
+updated: 2024-08-09T04:23:01.159Z
 tags:
   - printer
 categories:
@@ -40,3 +40,7 @@ If you've ever thought about getting into the 3D printing hobby, this is a great
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->

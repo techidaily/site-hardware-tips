@@ -1,7 +1,7 @@
 ---
 title: "Arctic's 'Liquid Freezer III': Potential Impact on Intel CPUs and Warranty Concerns – Need Specialized Contact Frame?"
-date: 2024-08-06 16:56:50
-updated: 2024-08-09 11:11:22
+date: 2024-08-08T04:23:31.673Z
+updated: 2024-08-09T04:23:31.673Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  The phase-changing tech is designed to minimize the pump-out effects of traditional thermal paste. Pump-out is an effect where the thermal paste is slowly pressed out between a heatsink and a GPU die or CPU IHS due to micro expansions and contractions in the metal that occur in the heatsink contact plate or CPU IHS; the effect can reduce cooling performance over a lengthy period.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![PhaseSheet PTM](https://cdn.mos.cms.futurecdn.net/8ujLTDRmTKxw7aDttNWdGJ-320-80.jpg)
 
  (Image credit: Thermal Grizzly)
@@ -29,6 +32,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  Thermal pads like PhaseSheet have several advantages over traditional thermal paste. Their solid nature makes them very easy to replace if required and enables them to last long without succumbing to pump-out losses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

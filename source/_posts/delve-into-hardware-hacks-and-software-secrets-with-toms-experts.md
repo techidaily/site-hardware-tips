@@ -1,7 +1,7 @@
 ---
 title: Delve Into Hardware Hacks and Software Secrets with Tom's Experts
-date: 2024-08-07 13:24:35
-updated: 2024-08-08 11:46:23
+date: 2024-08-08T04:23:10.947Z
+updated: 2024-08-09T04:23:10.947Z
 tags:
   - printer
 categories:
@@ -25,6 +25,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/pzBPMURGEscHThkFEEGZKn-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -35,6 +38,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  4\. After applying the settings,**click** **Generate 3D Model,** and it will display in the right section, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,6 +49,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/GQXvo8YhLiEferVjx44gmi-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -69,12 +78,20 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  3\. After installing, go to**Extensions > Post Processing** \>**Modify G-Code** and then proceed by clicking**Add a script** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/WQQs2srSXt5ysMNTsJ7u5k-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  4.**Select Filament Change** , and in the**Layer** section, set the**Layer** value from step 1\. Mine was 15.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/8orVU3p927KeesoLinZFxi-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -83,6 +100,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  The 3D printer will pause when it reaches the layer that you have specified and it will move to the origin of the print bed so that you can swap the filament. In case you don’t have white and black filaments and you have a single extruder 3D printer, you can 3D print as it is.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4xcS97zTMB8PBdc5dabbs3-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -103,6 +123,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  2.**Change the color** of the STL file to white.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/m4MEJHFS56AzRS7daHbRDk-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -129,6 +152,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  1\. Let’s**generate a 2D QR code** to use as a sample using[QR Code Generator](https://www.the-qrcode-generator.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/oaCVbuYxMEMuW3Chrwtaei-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -151,6 +177,9 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 
 ### Creating a QR Code in a 3D Modeling Software
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Creating a QR Code in a 3D Modeling Software
 
  The software we will use is TinkerCAD as it has the QR code option. Follow the steps:
@@ -159,6 +188,9 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 
  2.**Locate the QR code generator** in the**Shape Generators** section, then place it in the workspace by dragging and dropping it.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/VAPfJUVZLoEKBCZeCMynKm-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -171,6 +203,9 @@ TinkerCAD will automatically convert the SVG file into a 3D model.
 
  4.**Add a shape below the QR code** to act as the base. You can do this by going to the basic shapes section, then selecting the box option and dragging it to the workspace. You can then resize it so the QR code is well visible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/DjV5CrEgw5oHYE2JKxYCVj-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -185,12 +220,18 @@ Use the align tool to center them correctly.
 
  6\. You can**add a logo to the design** by going to**Import** section and then go to where you have stored it. Ensure that the logo is in SVG format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/h9D8NLWXHXtrwBDYzPSNVn-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  7.**Export the file in STL format** and**slice it** . For multi-color 3D printing, you can follow the steps we highlighted above. If you don’t have a dual-extruder 3D printer, you will paint it after 3D printing, most preferably with a white filament. I imported mine to Cura, scaled it before 3D printing, and after painting, I got the design below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/ac3tji2P9xEhMN86TuR7W8-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -205,6 +246,9 @@ Use the align tool to center them correctly.
 
  2\. After signing up,**Click the** **Customize** button on the bottom-right section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/JKmnGvfsmz3S4VBfazKbYi-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -219,6 +263,9 @@ Use the align tool to center them correctly.
 
  4\. You can also**adjust the dimensions** and appearance of the QR code, add other options like a keyring hole or a label, and then**click** **Generate** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4xcS97zTMB8PBdc5dabbs3-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -227,6 +274,9 @@ Use the align tool to center them correctly.
 
  After 3D printing your QR code, it’s also important to 3D print a stand if it will be placed on a flat surface like a table.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/hKShdgwdFsmchSy8PeuaA6-320-80.png)
 
  (Image credit: Tom's Hardware)

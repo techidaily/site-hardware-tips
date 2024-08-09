@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of Lian Li Galahad II 360 LCD All-in-One CPU Cooler for Intel I9 14900K Performance
-date: 2024-08-07 22:33:26
-updated: 2024-08-09 11:27:43
+date: 2024-08-08T04:23:28.811Z
+updated: 2024-08-09T04:23:28.811Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

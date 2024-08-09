@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Resource for Computer Components - Tom's Hardware Breakdown
-date: 2024-08-05 14:37:17
-updated: 2024-08-08 11:17:18
+date: 2024-08-08T04:23:15.838Z
+updated: 2024-08-09T04:23:15.838Z
 tags:
   - best-picks
 categories:
@@ -41,12 +41,21 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
 **Consider a modular power supply.** If your case has lots of room behind the[motherboard](https://www.tomshardware.com/best-picks/best-motherboards) , or your[chassis](https://www.tomshardware.com/news/pc-chassis-definition,37651.html) doesn't have a window or glass side, you can cable-wrap the wires you don't' need and stash them inside your rig. But if the system you're' building doesn't' have space for this, or there is no easy place to hide your cable mess, it's' worth paying extra for a modular power supply. Modular PSUs let you only plug in the power cables you need and leave the rest in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Power Supplies You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair CX450](https://cdn.mos.cms.futurecdn.net/tw7pndz5QGYMown3KNF2mP-320-80.jpg)
 
 Corsair CX450  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [1. Corsair CX450](https://www.tomshardware.com/reviews/corsair-cx450-psu,5678.html)
 
 Best Cheap PSU ($60/£60 or less)
@@ -129,6 +138,9 @@ Not as quiet as the CWT-made CX450
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Corsair CX550F RGB](https://cdn.mos.cms.futurecdn.net/6Awr7xo28qvVbRcyUWEXsE-320-80.jpg)
 
 Corsair CX550F RGB  (Image credit: Corsair)
@@ -327,6 +339,9 @@ Single EPS connector
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![XPG Core Reactor 650W](https://cdn.mos.cms.futurecdn.net/H5i6mEj6Z8wWiedKoEYaN4-320-80.jpg)
 
 XPG Core Reactor 650W  (Image credit: Tom's Hardware)
@@ -411,6 +426,9 @@ Two EPS connectors on the same cable
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Cooler Master V750 Gold V2](https://cdn.mos.cms.futurecdn.net/vBvo8ETj8hYyAGSAN2WXDD-320-80.jpg)
 
 Cooler Master V750 Gold V2  (Image credit: Tom's Hardware)
@@ -523,6 +541,9 @@ Small distance between connectors
 
 EVGA SuperNOVA 850 G7  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### [6. EVGA SuperNOVA 850 G7](https://www.tomshardware.com/reviews/evga-supernova-850-g7-power-supply-review)
 
 Best PSU: Up to 850 Watts
@@ -637,6 +658,9 @@ High inrush currents
 
 MSI MEG Ai1000P PCIe5  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [7. MSI MEG Ai1000P PCIe 5](https://www.tomshardware.com/reviews/msi-meg-ai1000p-pcie-5-atx-v30-power-supply-review)
 
 Best PSU: Up to 1250 Watts
@@ -715,6 +739,9 @@ High inrush current with 115V
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermaltake ToughPower GF3 1350](https://cdn.mos.cms.futurecdn.net/h7UgjqyFWuvb7rBDyYkhtS-320-80.jpg)
 
 Thermaltake Toughpower GF3 1350  (Image credit: Tom's Hardware)
@@ -997,10 +1024,16 @@ Semi-passive mode can’t be deactivated
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Silverstone SX1000 Platinum](https://cdn.mos.cms.futurecdn.net/NB33egmhentEEmhZH2bCkn-320-80.jpg)
 
 Silverstone SX1000 Platinum  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [11. SilverStone SX1000 SFX-L](https://www.tomshardware.com/reviews/silverstone-sx1000-sfx-l-power-supply-review)
 
 Best SFX-L PSU
@@ -1187,6 +1220,9 @@ Round up of today's best deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

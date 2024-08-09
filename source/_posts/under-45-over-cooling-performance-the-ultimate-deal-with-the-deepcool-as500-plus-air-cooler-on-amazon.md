@@ -1,7 +1,7 @@
 ---
 title: "Under $45, Over Cooling Performance: The Ultimate Deal with the DeepCool AS500 Plus Air Cooler on Amazon"
-date: 2024-08-08 19:12:23
-updated: 2024-08-09 10:53:30
+date: 2024-08-08T04:23:02.671Z
+updated: 2024-08-09T04:23:02.671Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

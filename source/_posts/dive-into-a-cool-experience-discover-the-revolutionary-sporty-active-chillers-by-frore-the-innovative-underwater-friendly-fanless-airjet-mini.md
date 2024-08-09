@@ -1,7 +1,7 @@
 ---
 title: "Dive Into a Cool Experience - Discover the Revolutionary Sporty Active Chillers by Frore: The Innovative Underwater Friendly, Fanless AirJet Mini"
-date: 2024-08-07 20:34:45
-updated: 2024-08-09 12:50:25
+date: 2024-08-08T04:23:24.926Z
+updated: 2024-08-09T04:23:24.926Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Users of Intel CPUs spanning 12th Gen to 14th Gen who[dare to delid](https://www
   
 **Correction, May 22, 2024:**   _This article previously misstated the CPU in Thermal Grizzly's custom loop. We regret the error._
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Marketing with Learn-to-Print QR Code Tutorials for Stunning 3D Outputs
-date: 2024-08-06 14:26:29
-updated: 2024-08-08 10:25:39
+date: 2024-08-08T04:23:21.086Z
+updated: 2024-08-09T04:23:21.086Z
 tags:
   - printer
 categories:
@@ -17,10 +17,16 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/eKTyPGgpVBXgmApA8TrCV-320-80.png
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  Photographs showing a a typical commercial 3D printer with a photonic chip (outlined in black) for scale and b a fabricated and packaged photonic chip. c Conceptual diagram of the proposed chip-based 3D printer, showing a hologram formed by a chip within a resin chamber (not to scale). d Conceptual diagram of the proof-of-concept stereolithography-inspired chip-based 3D printer demonstrated in this work (not to scale)  (Image credit: MIT)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The first chip-based 3D printer](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  a Electrically controlled beam steering of the main lobe of the 3D-printer chip’s visible-light integrated optical phased array when a square wave with a varying peak voltage is applied across the liquid-crystal-based phase shifter53,54\. b Photographs of a 3D-printed line, created using the chip-based printer, within a well of remaining liquid resin (top) and the same solid 3D-printed line after separation from the remaining liquid resin (bottom). c Photographs of a 3D-printed MIT logo created using the chip-based printer, with a U.S. nickel for scale (left) and zoomed in (right)  (Image credit: MIT)
@@ -37,6 +43,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/eKTyPGgpVBXgmApA8TrCV-320-80.png
 
  3D printing has quickly changed over the years since it was first introduced. Today, we are getting[metal 3D printers in the International Space Station](https://www.tomshardware.com/3d-printing/the-international-space-station-is-getting-the-first-metal-3d-printer-made-for-space-designed-by-airbus-and-the-esa) that can print tools and parts needed for moon and Mars missions, as well as[cheap $77 AliExpress 3D printers](https://www.tomshardware.com/3d-printing/dollar77-3d-printer-from-aliexpress-is-actually-usable-reviewer-says) that let you start making your own builds at a fraction of the cost. We’ve even seen affordable new 3D printers that are[large enough to print a small child](https://www.tomshardware.com/3d-printing/elegoo-making-3d-printer-large-enough-to-print-a-toddler) . If this project makes it to retail, then, soon enough, we’ll have a 3D printer you can fit in your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

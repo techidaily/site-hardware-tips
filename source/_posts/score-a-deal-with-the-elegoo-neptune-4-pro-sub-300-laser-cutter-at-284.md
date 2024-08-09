@@ -1,7 +1,7 @@
 ---
 title: "Score a Deal with the Elegoo Neptune 4 Pro: Sub-$300 Laser Cutter at $284"
-date: 2024-08-06 22:49:57
-updated: 2024-08-08 10:49:16
+date: 2024-08-08T04:23:22.538Z
+updated: 2024-08-09T04:23:22.538Z
 tags:
   - printer
 categories:
@@ -48,3 +48,7 @@ Today we have a great deal for 3D printing hobbyists looking to speed up their p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

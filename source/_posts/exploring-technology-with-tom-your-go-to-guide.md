@@ -1,7 +1,7 @@
 ---
 title: Exploring Technology with Tom - Your Go-To Guide
-date: 2024-08-07 20:21:38
-updated: 2024-08-08 12:27:32
+date: 2024-08-08T04:23:14.186Z
+updated: 2024-08-09T04:23:14.186Z
 tags:
   - printer
 categories:
@@ -27,6 +27,10 @@ There is no shortage of ways to store and encode data in the ever-evolving field
 
 **MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

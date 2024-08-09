@@ -1,7 +1,7 @@
 ---
 title: $60 Worth of Excellence? Unveiling the Potential of ID-Cooling's FX360 Pro - Our In-Depth Review
-date: 2024-08-07 16:20:23
-updated: 2024-08-09 10:39:47
+date: 2024-08-08T04:23:30.492Z
+updated: 2024-08-09T04:23:30.492Z
 tags:
   - cooling
 categories:
@@ -58,6 +58,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 ## Packing and Installation
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/M7KwmeKMZrJ9C6RJ2y8eUa-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -66,6 +69,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/38Miz6eDpevqRxfaprboxL-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -82,6 +88,9 @@ Included with the cooler are the following:
 
 1\. Take the base of the unit and apply the bottom-side thermal pad.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/qyvuSur6hCrnxhqfXhQLQc-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -90,12 +99,18 @@ Included with the cooler are the following:
 
  3\. Place the heatsink on top of the SSD, and secure it using the included screws.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/SCQByvYr63Bq7HpENKTzVf-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  4\. Place the heatsink and NVMe SSD into a m.2 slot on your motherboard and secure it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Akasa Gecko SSD Heatsink](https://cdn.mos.cms.futurecdn.net/AVHXTfVwMEuQoS8M9y64Ti-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -132,6 +147,9 @@ Akasa’s Gecko Cooler features a jet-black aesthetic, with no lighting.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for an SSD?
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who typically just loads a few applications and games, you probably don’t need an advanced heatsink with a fan. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.

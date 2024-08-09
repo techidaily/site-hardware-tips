@@ -1,7 +1,7 @@
 ---
 title: "DeepCool Under Fire: Examining US Sanctions Against Russian Sales Amid Ukrainian Aggression"
-date: 2024-08-06 20:35:20
-updated: 2024-08-09 10:27:39
+date: 2024-08-08T04:23:09.837Z
+updated: 2024-08-09T04:23:09.837Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->

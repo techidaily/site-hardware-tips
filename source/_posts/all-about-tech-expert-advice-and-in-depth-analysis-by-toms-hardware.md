@@ -1,7 +1,7 @@
 ---
 title: "All About Tech: Expert Advice & In-Depth Analysis by Tom's Hardware"
-date: 2024-08-07 12:33:54
-updated: 2024-08-08 10:31:31
+date: 2024-08-08T04:23:00.712Z
+updated: 2024-08-09T04:23:00.712Z
 tags:
   - printer
 categories:
@@ -15,6 +15,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  3D-printed QR codes can withstand environmental factors that might damage traditional printed codes, which makes them helpful even for outdoor use. All you need is a reliable FDM 3D printer. Check out our[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) for recommendations if you don't already own one. We will take you through the process of generating the QR code, embedding it into a 3D model, and preparing it for 3D printing. You will also show you how to convert a QR code in 2D image into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Generating the QR Code
 
 ## Generating the QR Code
@@ -43,12 +46,18 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/GQXvo8YhLiEferVjx44gmi-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  The QR code below was generated after adding a custom text, icon and selecting the**Keychain** box.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/khwqMMpGmzs5M6nAkDZ9zj-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -61,6 +70,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  1.**Locate the layer** when the color changes as you preview the slicing. In my case, it will be at layer 9.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/tsJQZmm39QiQPGfsVLCW7i-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -69,6 +81,10 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  3\. After installing, go to**Extensions > Post Processing** \>**Modify G-Code** and then proceed by clicking**Add a script** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/WQQs2srSXt5ysMNTsJ7u5k-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -93,8 +109,14 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Multi-Color 3D Printing QR Codes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Multi-Color 3D Printing QR Codes
 
  If you own a dual-extruder 3D printer, you can customize the colors in your QR code in the slicer before sending it for 3D printing. Follow the steps below to prepare the file for multi-color 3D printing[using Orca slicer](https://www.tomshardware.com/3d-printing/how-to-use-orca-slicer) .
@@ -103,6 +125,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  2.**Change the color** of the STL file to white.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/m4MEJHFS56AzRS7daHbRDk-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -121,6 +146,9 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  4.**Slice and send it** to your 3D printer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Converting 2D QR Code to 3D
 
 ## Converting 2D QR Code to 3D
@@ -129,6 +157,10 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  1\. Let’s**generate a 2D QR code** to use as a sample using[QR Code Generator](https://www.the-qrcode-generator.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/oaCVbuYxMEMuW3Chrwtaei-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -137,18 +169,27 @@ Create and 3D print QR codes easily. You can convert it into a 3D model and 3D p
 
  2.**Import the SVG file to TinkerCAD** . You can also specify the dimensions then**click Import** .
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/UKm5mC5ZTXUzCtE7Wdg2in-320-80.png)
 
  (Image credit: Tom's Hardware)
 
 TinkerCAD will automatically convert the SVG file into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/pP45uzzcJyxsusznxMoXjk-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  Add the base frame using a cube and then download and import it to your 3D slicer. Besides TinkerCAD, there are many other tools that you can use to convert 2D images to 3D models, such as Blender, Alpha3d, Embossify, and many others.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Creating a QR Code in a 3D Modeling Software
 
 ## Creating a QR Code in a 3D Modeling Software
@@ -179,12 +220,18 @@ Use the align tool to center them correctly.
 
  5.**Customize it** further by adding the text using the text shape and then resize it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/4TRtXNAERPZnk4v6JmMvCn-320-80.png)
 
  (Image credit: Tom's Hardware)
 
  6\. You can**add a logo to the design** by going to**Import** section and then go to where you have stored it. Ensure that the logo is in SVG format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![3D Print QR codes](https://cdn.mos.cms.futurecdn.net/h9D8NLWXHXtrwBDYzPSNVn-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -197,6 +244,9 @@ Use the align tool to center them correctly.
 
 ### Customizing QR Codes
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Customizing QR Codes
 
  You can find QR codes online to customize and add the necessary details before 3D printing. An example is the[Makerworld QR code generator](https://makerworld.com/en/models/476280#profileId-387583) , which is meant to be 3D printed in Bambu 3D printers, but you can also download and 3D print. To use this option:

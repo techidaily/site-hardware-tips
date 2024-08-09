@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Gaming Rig: The XPG Hybrid Pump, Loop & Radiator CPU Cooler - A Game Changer for High Wattage Processors Up to 2Ebyte"
-date: 2024-08-08 19:47:12
-updated: 2024-08-09 10:18:15
+date: 2024-08-08T04:23:25.111Z
+updated: 2024-08-09T04:23:25.111Z
 tags:
   - cooling
 categories:
@@ -25,6 +25,9 @@ Users of Intel CPUs spanning 12th Gen to 14th Gen who[dare to delid](https://www
   
 **Correction, May 22, 2024:**   _This article previously misstated the CPU in Thermal Grizzly's custom loop. We regret the error._
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

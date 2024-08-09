@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to PC Building by Tom's Hardware Experts
-date: 2024-08-08 17:37:34
-updated: 2024-08-09 10:12:58
+date: 2024-08-08T04:23:07.670Z
+updated: 2024-08-09T04:23:07.670Z
 tags:
   - cooling
 categories:
@@ -19,14 +19,24 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/68yCp8gDF3qWEjN9gUGqiM-320-80.jpg
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Thermaltake Toughfan Pro](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Thermaltake)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermaltake Toughfan Pro](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Thermaltake)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Thermaltake Toughfan Pro](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Thermaltake)
@@ -39,6 +49,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/68yCp8gDF3qWEjN9gUGqiM-320-80.jpg
 
  Each fan has nine blades in total that have been created from a liquid crystal polymer. Thermaltake says this material minimizes vibrations when operating at max speed. Speaking of vibration, Thermaltake has also integrated in-mold injection anti-vibration rubber pads to dampen noise vibration even more. Pricing was not announced, but it's possible these fans will be cheaper than some existing ones since they don't come with[RGB LED lighting](https://www.tomshardware.com/news/nzxt-hue-rgb-led-kit,30416.html) .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,7 +1,7 @@
 ---
 title: "The Berry Battle of Heat Management: MUGURISU 4G with a Pink Twist and the Renowned Thermal Grizzly's Kryonaut"
-date: 2024-08-07 22:31:26
-updated: 2024-08-09 12:57:47
+date: 2024-08-08T04:23:17.723Z
+updated: 2024-08-09T04:23:17.723Z
 tags:
   - cooling
 categories:
@@ -17,6 +17,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  The phase-changing tech is designed to minimize the pump-out effects of traditional thermal paste. Pump-out is an effect where the thermal paste is slowly pressed out between a heatsink and a GPU die or CPU IHS due to micro expansions and contractions in the metal that occur in the heatsink contact plate or CPU IHS; the effect can reduce cooling performance over a lengthy period.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![PhaseSheet PTM](https://cdn.mos.cms.futurecdn.net/8ujLTDRmTKxw7aDttNWdGJ-320-80.jpg)
 
  (Image credit: Thermal Grizzly)
@@ -29,6 +32,9 @@ Thermal Grizzly has introduced a new thermal pad product for cooling CPUs and GP
 
  Thermal pads like PhaseSheet have several advantages over traditional thermal paste. Their solid nature makes them very easy to replace if required and enables them to last long without succumbing to pump-out losses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

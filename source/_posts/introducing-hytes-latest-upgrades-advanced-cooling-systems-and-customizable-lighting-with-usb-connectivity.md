@@ -1,7 +1,7 @@
 ---
 title: "Introducing Hyte's Latest Upgrades: Advanced Cooling Systems & Customizable Lighting with USB Connectivity"
-date: 2024-08-08 16:43:19
-updated: 2024-08-09 12:50:16
+date: 2024-08-08T04:23:24.417Z
+updated: 2024-08-09T04:23:24.417Z
 tags:
   - cooling
 categories:
@@ -27,6 +27,9 @@ Frore Systems has [introduced](https://www.froresystems.com/media-room/frore-sys
 
  Frore also announced this week that it had raised $80 million in Series C funding led by Fidelity Management & Research Company.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

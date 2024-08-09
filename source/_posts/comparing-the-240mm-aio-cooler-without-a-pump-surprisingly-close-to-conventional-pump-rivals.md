@@ -1,7 +1,7 @@
 ---
 title: "Comparing the 240Mm AIO Cooler Without a Pump: Surprisingly Close to Conventional Pump Rivals"
-date: 2024-08-08 23:35:18
-updated: 2024-08-09 10:45:37
+date: 2024-08-08T04:23:21.401Z
+updated: 2024-08-09T04:23:21.401Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->

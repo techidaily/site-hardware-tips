@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Hardware: A Trip Through Tom's Electronic Storehouse"
-date: 2024-08-07 14:36:50
-updated: 2024-08-09 11:51:30
+date: 2024-08-08T04:23:32.502Z
+updated: 2024-08-09T04:23:32.502Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,7 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->

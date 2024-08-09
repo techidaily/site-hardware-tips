@@ -1,7 +1,7 @@
 ---
 title: "Interactive Food for Thought: Enjoyable & Functional Edible QR Codes Created Through Additive Manufacturing"
-date: 2024-08-06 10:47:55
-updated: 2024-08-08 10:28:37
+date: 2024-08-08T04:23:17.612Z
+updated: 2024-08-09T04:23:17.612Z
 tags:
   - printer
 categories:
@@ -44,3 +44,7 @@ Black Friday doesn't officially arrive for a couple more days, but the best deal
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->

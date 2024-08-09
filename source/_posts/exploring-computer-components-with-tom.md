@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Components with Tom
-date: 2024-08-07 16:39:34
-updated: 2024-08-09 10:53:55
+date: 2024-08-08T04:23:14.715Z
+updated: 2024-08-09T04:23:14.715Z
 tags:
   - cooling
 categories:
@@ -15,6 +15,10 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Most methods of thermal paste installation work about the same, but the final application actually ends up with an uneven distribution on the CPU's IHS and often leaves part of the IHS without paste, which isn't optimal. X-Apply looks to fill those gaps with a special stencil.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![The Intel version of X-Apply, mid-application. A spatula is used to flatten paste into stenciled gaps..](https://cdn.mos.cms.futurecdn.net/upgTTpBBWKEg9p2m26Y6yn-320-80.jpg)
 
  (Image credit: Igor's Lab)
@@ -33,6 +37,18 @@ The steady stream of concerned newbie PC builders worried about the[best thermal
 
  Thermal testing with a 360mm AIO done by Igor's Lab also points toward X-Apply working well, delivering a roughly 4C reduction in temperatures over standard application methods. That isn't a world-breaking difference, but it does at least show that the stencil applies the paste in a workable fashion. As long as X-Apply isn't gratuitously overpriced, there really doesn't seem to be any harm in these easy TIM applicators. Unfortunately, we won't learn pricing until the product comes to market.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

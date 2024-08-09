@@ -1,7 +1,7 @@
 ---
 title: "Discounted Price Alert: High-Resolution 8K Phrozen Sonic Mini S Resin 3D Printer for $325 Only"
-date: 2024-08-05 13:13:28
-updated: 2024-08-08 12:13:14
+date: 2024-08-08T04:23:21.438Z
+updated: 2024-08-09T04:23:21.438Z
 tags:
   - printer
 categories:
@@ -46,3 +46,7 @@ Whether you're a maker or just an occasional hobbyist, 3D printing has come leap
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->

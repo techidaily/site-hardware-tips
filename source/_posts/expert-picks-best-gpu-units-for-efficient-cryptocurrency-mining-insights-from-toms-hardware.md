@@ -1,7 +1,7 @@
 ---
 title: "Expert Picks: Best GPU Units for Efficient Cryptocurrency Mining - Insights From Tom's Hardware"
-date: 2024-08-07 21:58:52
-updated: 2024-08-08 11:56:38
+date: 2024-08-08T04:23:28.913Z
+updated: 2024-08-09T04:23:28.913Z
 tags:
   - best-picks
 categories:
@@ -17,6 +17,9 @@ If you own a lightweight laptop, you've probably noticed that the charger it com
 
  The marketplace is flooded with GaN-powered USB-C laptop chargers with wattages that go all the way up to 100 watts (the maximum allowed by the current USB Power Delivery standard). But not all of these adapters are created equal, with significant differences not only in design and ports, but also in the amount of wattage they can deliver, which is often higher and sometimes a little lower than advertised. In order to help you find the best USB-C laptop chargers, we’ve tested the latest GaN-powered models from major brands such as Anker, Aukey, IOGear and RAVPower.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## USB-C Laptop Charger Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -25,8 +28,14 @@ If you own a lightweight laptop, you've probably noticed that the charger it com
 * **Get ready for heat:** If you're running anywhere close to the rated wattage (or above), expect your USB-C laptop charger to feel toasty to the touch. In our tests, after 20 minutes of running at one watt below their rating (ex: 64 watts on a 65-watt charger), temperatures ranged from 119 degrees Fahrenheit (48.3 Celsius) to 154 degrees (67.8 Celsius). That's unpleasant, but not dangerous. You can get a cooler skin temperature by purchasing a higher capacity charger than you need and running it at less than its maximum.
 * **Mind the second port:** Many chargers also come with a second port that's either USB Type-A or USB-C. You can use this port to charge a mobile device or even power a Raspberry Pi, but it will take a certain amount of amperage away from the main port.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Best USB-C Laptop Chargers You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Aukey Omnia 65W (PA-B4)](https://cdn.mos.cms.futurecdn.net/56bbcSSXTLyQFEjCdvopK4-320-80.jpg)
 
 Aukey Omnia 65W (PA-B4)  (Image credit: Tom's Hardware)
@@ -77,6 +86,9 @@ Super thin and light
 
  Better still, the Omnia PA-B4 offers up to 15 watts of juice from its second USB-C port (only the top port can be used for max wattage), which is more than enough to charge a second device or comfortably power a Raspberry Pi 4\. The primary port will emit less power, however, if a second device is plugged in. In our case, we pushed the primary port 50 watts under those conditions, though Aukey only advertises a maximum of 45 watts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Aukey Omnia 100W (PA-B5)](https://cdn.mos.cms.futurecdn.net/w8rs9Ujgpvefv99E9MntxY-320-80.jpg)
 
 Aukey Omnia 100W (PA-B5)  (Image credit: Tom's Hardware)
@@ -223,6 +235,9 @@ Can’t sustain top wattage
 
 IOGear GearPower 60W (GPAWC60W)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. IOGear GearPower 60W (GPAWC60W)
 
  Plenty of power from a 60W USB-C Laptop Charger
@@ -268,6 +283,9 @@ Expensive
 * [**RAVPower Pioneer 61W (RP-PC112**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FRAVPower-Charging-Delivery-Foldable-Compatible%2Fdp%2FB07TC53ZYD%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8104913839223009445-20) **):** This 61-watt charger isn’t as small as the Aukey Omnia PA-B2, but it gets significantly warmer after 20 minutes running at 59 watts. It can hit a full 69.48 watts for a time, but it can’t sustain that wattage and will shut down before 20 minutes have passed.
 * [**RAVPower Pioneer 90W (RP-PC128)**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCharger-RAVPower-Charging-Compatible-Nintendo%2Fdp%2FB083ZBXXN5%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5279327787693580387-20) **:** In theory, this charger would be a decent one, because it has dual USB-C ports. However, it can’t exceed its 90-watt rated maximum for any length of time and, considering that the most powerful MacBook Pros now use 96-watt chargers, it’s hard to recommend this over the Aukey PA-B5, which is rated for 100 watts and can deliver far more.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## How We Tested
 
  To see how each USB-C Laptop Charger performed, we attached it to a[MakerHawk](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FMakerHawk-Electronic-Adjustable-Intelligent-Resistance%2Fdp%2FB07F3NHHST%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1348166453158950006-20) load tester.[l](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FMakerHawk-Electronic-Adjustable-Intelligent-Resistance%2Fdp%2FB07F3NHHST%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6211331945596155693-20) . In order to get the chargers to perform, we had to run them through a USB PD trigger chip, which allowed us to turn their voltage mode up to the 19 - 20V range that's required for laptop charging. Then we turned the dials on the load tester until we reached the maximum amperage each could deliver and then set a timer for 20 minutes to see if the charger could sustain this wattage and how hot it got after that time.
@@ -292,6 +310,9 @@ Expensive
 
  \* -- Charger shut down before 20 minute stability / heat test could complete at that wattage.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Finding Discounts on the Best USB-C Laptop Chargers
 
  Whether you're shopping for one of the best USB-C laptop chargers or a different model, you may find savings by checking out our lists of the latest[Amazon promo codes](https://www.tomshardware.com/coupons/amazon.com) ,[Best Buy promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fbestbuy.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) or[Micro Center coupons](https://www.tomshardware.com/coupons/category/ssds-motherboards-and-hardware) .
@@ -314,6 +335,14 @@ Round up of today's best deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

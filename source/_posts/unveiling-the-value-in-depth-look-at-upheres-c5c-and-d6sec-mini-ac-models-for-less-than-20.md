@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Value: In-Depth Look at UpHere's C5C & D6Sec Mini AC Models for Less Than $20"
-date: 2024-08-07 10:29:28
-updated: 2024-08-09 10:32:11
+date: 2024-08-08T04:23:03.110Z
+updated: 2024-08-09T04:23:03.110Z
 tags:
   - cooling
 categories:
@@ -17,10 +17,16 @@ Today’s review will cover Lian Li’s latest AIO cooler, the Galahad II 360 LC
 
  But first, let’s take a look at the features of Lian Li’s Galahad II 360 LCD before diving into the[benchmarks](https://www.tomshardware.com/tag/benchmark) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/G8ELr3HRbXDX8BPiLdQEa4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -37,6 +43,9 @@ Today’s review will cover Lian Li’s latest AIO cooler, the Galahad II 360 LC
 
 ## Packing and included contents
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/K7RyskU59M6odLZZtEudRk-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -71,6 +80,9 @@ Included in the box with the cooler are the following:
 
  The most eye-catching feature of this AIO is, as its name implies, the vibrant LCD display panel on the top of the CPU block. It’s a square 2.88-inch (480 x 480-pixel) IPS screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/xtrD6jYWFa4DJ6A6Cf3Mqj-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -93,6 +105,10 @@ Included in the box with the cooler are the following:
 * Optimized design increases overall surface area and decreases flow impedance
 * Under-the-hood enhancements for quieter operation versus previous generations
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/rRtoFrqYx9CjusSutENj6j-320-80.png)
 
  (Image credit: Asetek)
@@ -101,6 +117,10 @@ Included in the box with the cooler are the following:
 
  Like most other AIOs on the market, the Galahad II LCD is compatible with any height of DDR4 or DDR5 RAM modules, as it doesn’t interfere or overhang DIMM modules.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/2f64TAavnRa6GXZq2hspGo-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -109,6 +129,9 @@ Included in the box with the cooler are the following:
 
  The SL-INF version of this cooler includes a hardware hub allowing control and syncronized lighting of additional fans, if you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Lian Li Galahad II 360 LCD AIO cooler](https://cdn.mos.cms.futurecdn.net/EmV3Nz8XHzPm9M5vuBc95n-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -125,6 +148,10 @@ Included in the box with the cooler are the following:
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.

@@ -1,7 +1,7 @@
 ---
 title: Get Phrozen's Premium Sonic Mini 8K S Resin Printer for a Steal at $325
-date: 2024-08-05 16:45:38
-updated: 2024-08-08 11:14:14
+date: 2024-08-08T04:23:02.463Z
+updated: 2024-08-09T04:23:02.463Z
 tags:
   - printer
 categories:
@@ -40,3 +40,7 @@ If you've ever thought about getting into the 3D printing hobby, this is a great
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

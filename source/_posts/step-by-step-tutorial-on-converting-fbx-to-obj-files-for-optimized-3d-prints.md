@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Converting FBX to OBJ Files for Optimized 3D Prints
-date: 2024-08-06 14:10:26
-updated: 2024-08-08 10:25:51
+date: 2024-08-08T04:23:17.134Z
+updated: 2024-08-09T04:23:17.134Z
 tags:
   - printer
 categories:
@@ -27,6 +27,11 @@ There is no shortage of ways to store and encode data in the ever-evolving field
 
 **MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

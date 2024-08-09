@@ -1,7 +1,7 @@
 ---
 title: "Unimpressively Cold: The Real Deal on Arctic Liquid Freezer III AIO Efficiency"
-date: 2024-08-08 17:55:49
-updated: 2024-08-09 11:38:24
+date: 2024-08-08T04:23:02.677Z
+updated: 2024-08-09T04:23:02.677Z
 tags:
   - cooling
 categories:
@@ -41,3 +41,8 @@ A compact and high-performance CPU cooler from Arctic that can keep those multi-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->

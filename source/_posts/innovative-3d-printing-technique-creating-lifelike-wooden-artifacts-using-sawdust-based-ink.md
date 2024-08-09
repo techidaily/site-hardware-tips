@@ -1,7 +1,7 @@
 ---
 title: "Innovative 3D Printing Technique: Creating Lifelike Wooden Artifacts Using Sawdust-Based Ink"
-date: 2024-08-06 16:34:12
-updated: 2024-08-08 11:54:26
+date: 2024-08-08T04:23:08.581Z
+updated: 2024-08-09T04:23:08.581Z
 tags:
   - printer
 categories:
@@ -25,12 +25,20 @@ Six months after joining – and winning — the race for the[fastest consumer 3
 
  K1C has an all-metal extruder kit and a new “Unicorn” nozzle with an integrated heat break. The nozzle is an obvious nod to[E3D’s revolutionary Revo](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Fbluettifr.pxf.io%2Fbax2bv) and[Prusa’s one piece MK4 nozzle](https://www.tomshardware.com/reviews/prusa-mk4) . All three nozzles promise to prevent heat creep and nasty leaks, while being easily changed without tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Creality](https://cdn.mos.cms.futurecdn.net/78b3soVfmXJvvJ8ihKojE9-320-80.jpg)
 
  (Image credit: Creality)
 
  Like the K1, the K1C will come pre-assembled for a plug and play experience. Its auto leveling includes the ability to set its own Z height for a perfect first layer, and auto-calibration will handle all the tuning. The K1C will also come standard with an A1 camera to watch for errors and provide real-time monitoring and time-lapse filming.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

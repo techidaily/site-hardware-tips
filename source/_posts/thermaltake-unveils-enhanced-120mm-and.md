@@ -1,7 +1,7 @@
 ---
 title: Thermaltake Unveils Enhanced 120Mm &
-date: 2024-08-07 21:16:19
-updated: 2024-08-09 11:58:35
+date: 2024-08-08T04:23:06.132Z
+updated: 2024-08-09T04:23:06.132Z
 tags:
   - cooling
 categories:
@@ -40,3 +40,7 @@ Having[reviewed the Thermalright Phantom Spirit 120](https://www.tomshardware.co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->

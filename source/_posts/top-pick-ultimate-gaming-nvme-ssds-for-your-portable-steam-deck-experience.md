@@ -1,7 +1,7 @@
 ---
 title: "Top Pick: Ultimate Gaming NVMe SSDs for Your Portable Steam Deck Experience"
-date: 2024-08-06 12:26:28
-updated: 2024-08-08 10:43:51
+date: 2024-08-08T04:23:30.358Z
+updated: 2024-08-09T04:23:30.358Z
 tags:
   - best-picks
 categories:
@@ -17,6 +17,10 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
  Finally, one of the significant changes that the[ATX12V v3.0 spec](https://www.tomshardware.com/news/intel-atx-v3-psu-standard) brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Quick Power Supply Shopping Tips
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -41,12 +45,22 @@ Your PC's power supply (aka PSU) plays a significant role in determining your sy
 
 **Consider a modular power supply.** If your case has lots of room behind the[motherboard](https://www.tomshardware.com/best-picks/best-motherboards) , or your[chassis](https://www.tomshardware.com/news/pc-chassis-definition,37651.html) doesn't have a window or glass side, you can cable-wrap the wires you don't' need and stash them inside your rig. But if the system you're' building doesn't' have space for this, or there is no easy place to hide your cable mess, it's' worth paying extra for a modular power supply. Modular PSUs let you only plug in the power cables you need and leave the rest in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## The Best Power Supplies You Can Buy Today
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair CX450](https://cdn.mos.cms.futurecdn.net/tw7pndz5QGYMown3KNF2mP-320-80.jpg)
 
 Corsair CX450  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [1. Corsair CX450](https://www.tomshardware.com/reviews/corsair-cx450-psu,5678.html)
 
 Best Cheap PSU ($60/£60 or less)
@@ -133,6 +147,9 @@ Not as quiet as the CWT-made CX450
 
 Corsair CX550F RGB  (Image credit: Corsair)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### [2. Corsair CX550F RGB](https://www.tomshardware.com/reviews/corsair-cx550f-rgb-power-supply-review)
 
 Best Mid-Level RGB PSU: Up to 550 Watts
@@ -411,6 +428,9 @@ Two EPS connectors on the same cable
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cooler Master V750 Gold V2](https://cdn.mos.cms.futurecdn.net/vBvo8ETj8hYyAGSAN2WXDD-320-80.jpg)
 
 Cooler Master V750 Gold V2  (Image credit: Tom's Hardware)
@@ -519,6 +539,9 @@ Small distance between connectors
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![EVGA 850 G7](https://cdn.mos.cms.futurecdn.net/K3svbq62HdPCjccFvPzoZR-320-80.jpg)
 
 EVGA SuperNOVA 850 G7  (Image credit: Tom's Hardware)
@@ -633,10 +656,16 @@ High inrush currents
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MSI MEG Ai1000P PCIe5](https://cdn.mos.cms.futurecdn.net/du8ZtcDVUuowbLaHwbrseF-320-80.jpg)
 
 MSI MEG Ai1000P PCIe5  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [7. MSI MEG Ai1000P PCIe 5](https://www.tomshardware.com/reviews/msi-meg-ai1000p-pcie-5-atx-v30-power-supply-review)
 
 Best PSU: Up to 1250 Watts
@@ -719,6 +748,9 @@ High inrush current with 115V
 
 Thermaltake Toughpower GF3 1350  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### [8. Thermaltake Toughpower GF3 1350W](https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1350w-atx-v30-power-supply-review)
 
 Best PSU Above 1250-1500 Watts
@@ -905,10 +937,16 @@ EMI with AVG detector
   
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair SF750](https://cdn.mos.cms.futurecdn.net/4aKWQkNrYrBZqyaq8bF8Be-320-80.jpg)
 
 Corsair SF750  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### [10. Corsair SF750](https://www.tomshardware.com/reviews/corsair-sf750-psu,5979.html)
 
 Best SFX PSU
