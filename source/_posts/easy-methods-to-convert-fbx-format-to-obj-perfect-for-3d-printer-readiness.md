@@ -1,0 +1,314 @@
+---
+title: Easy Methods to Convert .fbx Format to .obj - Perfect for 3D Printer Readiness
+date: 2024-08-15T06:18:17.921Z
+updated: 2024-08-16T06:18:17.921Z
+tags:
+  - printer
+categories:
+  - hardware
+thumbnail: https://cdn.mos.cms.futurecdn.net/U547cVSH7dN7grGoqJUqi9-320-80.png
+---
+
+## QIDI Tech's Q1 Pro Headset Uncovered: A Detailed Performance Assessment for Gamers
+
+It feels like QIDI Tech has been sitting in the back of the room, taking notes while we discuss other 3D printer’s flaws. The Q1 Pro fixes many of the little problems I’ve had with other machines. It eliminates leveling guesswork by setting its own Z height, the spool holder is side mounted where it’s actually reachable, and it connects easily to your house Wi-Fi without having to play Mother May I with a foreign server. It also uses stock Klipper firmware – a refreshing choice, as too many companies slap a buggy facade on Open Source firmware and try to pass it off as their own.
+
+ But it has one controversial feature: a wall powered heater for the build chamber.
+
+ The Q1 Pro uses an active heater tucked in the back corner of the enclosure to heat the air as high as 60 C, which is useful for printing ABS, ASA, Nylon and other advanced filaments. The heater is controlled from both the slicer and the printer interface. It is not used for PLA, PETG or other hobby type filaments.
+
+ The heater is not marked as hot or hazardous, and if you go poking around the interior with a hex key while the heater is switched on, you could receive an electrical shock. There is a safety grid over the heater, and you’re unlikely to accidentally jam a finger or even the corner of the build plate past the grate ([a few Youtubers have tried](https://www.youtube.com/watch?v=LrkY8-IIHYQ) ). There’s really no reason to poke the heater with a tool while it’s on, if anything because it would be too hot to touch while in operation. QIDI has been made aware of the issue and stated that while their printer is FCC and CE certified, they will implement a more “touch proof” enclosure for future units and make a printable part available to anyone who currently owns a Q1 Pro.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ The QIDI Q1 Pro retails for $599, but is currently on sale for $469, which considering its capabilities and 245 x 245mm build plate is quite a deal. It’s not quite one of the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) you can buy, but it's close.
+
+* [QIDI Tech Q1 Pro at Amazon for $499](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5546353563137248039-20)
+
+## Specifications: QIDI Q1 Pro
+
+ Swipe to scroll horizontally
+
+| **Build Volume**           | 245 x 245 x 240 mm (9.64×9.64×9.44 in)     |
+| -------------------------- | ------------------------------------------ |
+| **Material**               | PLA/PETG/TPU/ABS (up to 350 degrees)       |
+| **Extruder Type**          | Direct drive                               |
+| **Nozzle**                 | .4mm (dual metal high flow)                |
+| **Build Platform**         | Coated steel flex plate, heated            |
+| **Bed Leveling**           | Automatic                                  |
+| **Filament Runout Sensor** | Yes                                        |
+| **Connectivity**           | LAN, WiFi, USB Flash Drive                 |
+| **Interface**              | 4.3 inch Color touch screen                |
+| **Machine Footprint**      | 477 x 467 x 489 mm (18.7 x 18.3 x 19.2 in) |
+| **Machine Weight**         | 17 KG (37.48 lbs)                          |
+
+ Today's best QIDI Tech Q1 Pro deals
+
+[26 Amazon customer reviews](https://target.georiot.com/Proxy.ashx?tsid=8428&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Freviews%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3638404691786531571-20)
+
+ ☆  ☆  ☆  ☆  ☆
+
+[QIDI Q1 Pro 3D Printer,...](https://images.fie.futurecdn.net/products/e7fb566b65f9f860177787f90eeba1b01b564db4-100-80.jpg "QIDI Q1 Pro 3D Printer,...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+[Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+[$499](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+[View](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+ We check over 250 million products every day for the best prices
+
+## QIDI Q1 Pro : Included in the Box
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/NxpRBtdaRYASQCXgayMqtU-320-80.png)
+
+ (Image credit: Tom's Hardware)
+
+ The QIDI Q1 Pro comes with everything you need to get your printer set up. You get tools to maintain the printer, a scraper, and a USB stick. There’s also a small sample coil of black PLA to start your printing journey.
+
+ The printer comes with a PDF copy of the manual, a copy of QIDI Slicer and presliced sample model.
+
+## Design of the QIDI Q1 Pro
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/9dhkweTPfTWj9Z5M9XUqzL-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ The QIDI Q1 Pro is a modern looking, fully-enclosed Core XY printer. It has a steel frame encased in a plastic shell, which makes the printer feel a bit bigger than it really is. The door and top panel are made of clear acrylic, which is prone to static electricity and difficult to keep clean, especially if you have pets that shed. The door lacks a handle, and instead has a graspable lower corner.
+
+ It has a removable purge collector in the back, along with a brush for wiping the nozzle, which seems odd on a single color printer. It might be an indicator that QIDI is working on a color upgrade for the Q1 Pro, or it could just be a way to keep the nozzle pristine for more accurate bed probing.
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/BARxcJ3oRgrxXJjKUcf7rM-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ Its build plate is 245x245mm with 240mm build height, a size slightly larger than both the Creality K1 and Bambu Lab’s core XY machines. It also has a standard, double-sided textured PEI plate, which doesn’t need glue for ordinary materials like PLA.
+
+ The lid is completely removable to provide air flow for PLA, PETG and TPU. The chamber thermometer averaged 35 degrees while printing with lid off and door closed. Opening the door dropped the temperature another 5 degrees. I should note that the door opens a complete 180 degrees and has hinges that stay put, which keeps the door out of your way should you need to run it wide open.
+
+ As previously mentioned, the Q1 Pro has a separate heater for the chamber, located in the bottom left corner. It can boost the interior temperature to 60 C when the lid and door are closed. The heater is powered directly by the wall outlet and should not be touched while running. As with all 3D printers, you should keep your hands clear of the machine’s innards while it’s running. Because this is a high-speed printer, it’s prone to sudden, unpredictable movement. The build plate cannot be jammed past the safety grid (I tried).
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/sjNftqW7PtMtPBcVsC6cHP-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ The hotend looks to be inspired by Bambu Lab, but inside the heater cartridge is an ordinary replaceable nozzle. It’s not quite a Volcano, but QIDI uses this size on several printers, which means replacements are readily available on both the QIDI website and[Amazon](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FHzdaDeve-Hardened-Stainless-Temperature-Resistant%2Fdp%2FB0D12B11NR%2Fref%3Dsr%5F1%5F2%3Fcrid%3DJ2XGLG76L23X%26dib%3DeyJ2IjoiMSJ9.-wb1%5Fm6w4hh9ITyrs8f9YGGvzG89KJfcSLTbnwmf7uNIYKsnjPin0-qs-OqYvM2hgf-2NfHSPVElZXv9eUmUhIM5mKLk%5FFsoJI3GlCsKMYjEeg8-GfUhLVSc23D55n3WwTk2SfM-BiYCU%5Faob6So%5FsnY9PcQHf5afhFfTWVMz4q%5FaPHSuxsLF61AvC56x5aJtoVw-rIyujmFikh14L3ml69Mq6Gt97KT9rpQPJpuv%5Fg.N1-GAdNDNLuVDYFX3tPyBIHwUT09JT9zrwsHlAWGAKE%26dib%5Ftag%3Dse%26keywords%3Dqidi%252Bq1%252Bpro%252Bnozzle%26qid%3D1713231472%26sprefix%3Dq1%252Bnozzle%252Caps%252C109%26sr%3D8-2%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1423005905044895416-20) .
+
+ A high-flow, wear resistant nozzle, with a copper plated throat and hardened steel tip is installed on the printer. It’s nice to see a 3D printer come with a durable, professional grade nozzle instead of cheap brass. Replacements are affordable, and start at a couple dollars each. They are also much easier to swap out than Bambu-style nozzles.
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/FXQYKuwu7TXvqihqJ5J9KM-320-80.png)
+
+(Image credit: QIDI)
+
+ Another perk included with the Q1 Pro is a built-in 1080p camera for monitoring prints and even doing timelapses. The camera feed pops up immediately when you access the Klipper interface. The chamber is brightly lit with LED lights.
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Assembling the QIDI Q1 Pro
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/xqJbDfWEJ2Q6x29eMEVtqP-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ The QIDI Q1 Pro is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew a few shipping screws, and pop on the filament holder.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+## Leveling the QIDI Q1 Pro
+
+ The QIDI Q1 Pro has a full auto leveling program that includes setting the Z height, input shaping and PID tuning with the help of built-in sensors. It runs a full calibration during the set phase. Just push the button and the machine does the rest. The machine also runs through a leveling calibration before each print to make sure that it’s perfect.
+
+## Loading Filament on the QIDI Q1 Pro
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/AamUjgh8E3BMj8rYmUKCzN-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ Loading filament is a straightforward process. Just place the filament into the tube near the spool holder and push it through until it bumps against the nozzle. Press the “three lines” button on the bottom of the screen to get to the loading menu, and then press Load. It will warm up the printer and advance the filament.
+
+ Most filament can be pushed right up to the gears, where the printer is able to grab it. For TPU, you’ll need to pop the Bowden tube off the extruder and gently hand feed it the last few centimeters.
+
+ To remove the filament, you’ll need to press “Replace Filament” from the loading screen. You will be instructed to take the Bowden tube off the top of the extruder and cut the old filament off. It will then warm up the printer and advance the remaining filament forward. Now you can press the load button and add new filament.
+
+ It’s unusual that QIDI doesn’t want to back the filament out of the hotend, but it could be that they are trying to avoid clogs by reversing warm filament through the gears.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## Preparing Files / Software for QIDI Q1 Pro
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/ejYPbRS2EGwB3vEFxAPTdP-320-80.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ QIDI included a copy of QIDISlicer, a custom program that is based on Open Source Slic3r. Since Slic3r is the foundation for PrusaSlicer, Bambu Studio and OrcaSlicer, the program will look very familiar to anyone coming from those fan bases.
+
+ After QIDISlicer is installed, you’ll have access to an online guide, full of tutorials on how to use the slicer and calibrate the printer. There’s also directions on how to set up the Wi-Fi, which is extremely easy. Simply click the gear icon on the touch screen, click Network, click your Wi-Fi name and then enter the password. The printer will make the connection and then show you the printer’s IP address. The address is entered into the printer settings of QIDISlicer, which allows you to automatically send sliced files over your home network.
+
+ The Device tab opens the Klipper interface (Fluidd), where you can see printer information like temperature and speed, all the files in memory, the camera and all the Klipper console commands. This is unhampered stock Klipper, so you are free to tinker with the settings as you like.
+
+ The only thing you CANNOT do is access the Fluidd screen directly through your printer’s IP address. You are forced to open QIDISlicer first.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Printing on the QIDI Q1 Pro
+
+ The QIDI Q1 Pro comes with a small sample coil of PLA. If you want more colors and materials like silks and multicolor filaments, you should check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for suggestions.
+
+ I ran a Benchy using “speed benchy” rules: 0.25mm layer height, 2 walls, 3 top & bottom layers, 10% infill. I also turned off combing and z hop, and let her rip using the default speed of 300 mm/s. I used[Inland’s gray PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB00YSOZFQI%2Fref%3Dtwister%5FB07T7Z4GSJ%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4993603102809743562-20) – an everyday filament that is brutally honest in photos.
+
+ The Benchy is a bit stringy, but the layers are fairly even, the curves are nice and there’s no ringing. This Benchy printed in an impressive 20 minutes and 18 secs, which isn’t enough to make our top ten[fastest 3D printers](https://www.tomshardware.com/news/3d-printer-speed-hierarchy) , but is faster than most. For comparison, an Ender 3 S1 running at its top speed of 100mm/s would take 55 minutes to print this using similar settings.
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/vCWVw5SvYrQSLCea4MvCQN-320-80.jpg)
+
+[_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
+
+ I ran a first layer test by printing a one layer high square that took up the entire buildable area with the Inland Grey PLA. The print was just the tiniest bit high on the right front corner, but was otherwise clean and smooth.
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/3CYdeZ4ibJ4eNz8Bynv2gN-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ I’ve been using the QIDI to make a lot of dragons and eggs, which print with excellent speed and crispness. Here’s a sample dragon egg that I printed with nice 0.2 mm smooth layers. The egg printed in two halves, both on the bed at the same time, and took 3 hours and 21 minutes using QIDISlicer’s default settings. Printed in[Polymaker’s Starlight Mercury PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Changeable-Starlight-Filament-Different%2Fdp%2FB0BMVT8C7S%2Fref%3Dasc%5Fdf%5FB0BYJPYMW8%2F%3FlinkCode%3Ddf0%26hvadid%3D673776915052%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D16535774068434485645%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-2204729101640%26mcid%3Ddae185c1e5a437c4a6d02fb545f4043b%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1240343951232811620-20) .
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/Rv4HZQw3sYmbNnZojWFC8N-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+[_Kaida Egg_](https://www.myminifactory.com/object/3d-print-kaida-with-egg-362660) _by Layers in Green_  (Image credit: Tom's Hardware)
+
+ The Q1 Pro did a decent job with TPU. I printed my favorite phone case with no top layer to let the infill show. It wasn’t able to bridge the holes for the buttons very well, but that’s not unusual with TPU. I used QIDI Slicer’s default TPU settings, and a 0.2mm layer height. This is printed in[Matterhackers Translucent Blue Build Series TPU](https://shareasale.com/r.cfm?rcode=PMAX_BUILD&gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkBdG0XrGRithjgVIUDIJUERHKp7cOzhG5FUV7_XwblNz5BvcuXhsi0aApEGEALw_wcB&b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Flightailing.sjv.io%2Fk0ez0m) in an hour and 3 minutes.
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/8G8TBXZWtxsEfnyotSvRfM-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+
+[_Lopatka’s iPhone 12 Prro Max Case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case)  (Image credit: Tom's Hardware)
+
+ I ran parts for an RC car we’re building in ABS, and the Q1 Pro was able to print this material well without any warping or cracking. I used a bit of glue stick on the build plate for insurance. This was printed using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dsr%5F1%5F3%3Fcrid%3D2NN02OPBYV5HN%26dib%3DeyJ2IjoiMSJ9.em9M450oeSabcM%5F%5FHACbR4Ao4b1cqS-grMMOPbu8iYUwz5boFanDxZwrXDyl94LWBw1IGn8uY-ksf3SPGdQMsOl%5Fm7sjJEB6-x7mpYDXKTNaCeChhe7ZUtVYvyrI5pjsh7UyNjiyXQ8xxLxpvz44RubrdaZpFCph5a787%5F2vRGqFaHYxXIsG6O9WzsQoNoKKtBIuBjID8lOdvvp8Fk7W-ajFM2bl6f2B7MFn2qNeo5s.vNY9FNxv56GLGJQe7r8qFMyOxhNZ0QhcWWnN7V3zIzg%26dib%5Ftag%3Dse%26keywords%3Dpolymaker%2Babs%2Bgalaxy%2Borange%26qid%3D1713295697%26sprefix%3Dpolymaker%2Babs%2Bgalaxy%2Borange%252Caps%252C103%26sr%3D8-3%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6674214476070242436-20) with a 0.2 layer height and QIDI Print’s default ABS settings. This printed in 23 hours and 4 minutes.
+
+![QIDI Tech Q1 Pro](https://cdn.mos.cms.futurecdn.net/A3vnuMYHRSw6cSV84wGXnL-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+_RC Truck Cab, modified from_ [_Fixumdude’s Print in Place Pickup Truck_](https://www.printables.com/model/504729-fixum-dude-motors-print-in-place-pickup-truck)  (Image credit: Tom's Hardware)
+
+## Bottom Line
+
+ The QIDI Q1 Pro is a very good printer that’s simple to set up and easy to use. It makes printing with ABS and nylon worry free. The lack of warning tags on the heater is concerning, so I’m reluctant to recommend it to beginners who may treat it as a household appliance rather than the serious maker tool that it is.
+
+ Currently on sale for $469, the Q1 Pro is a reasonably priced, enclosed Core XY printer with many great features. If you want an even bigger 300 x 300mm single color printer Core XY, check out the K1 Max. It’s currently on sale for $719\. Our favorite all around printer is the[Bambu Lab P1S](https://www.tomshardware.com/reviews/bambu-lab-p1s) , which can also do four colors when bought as a combo for $949.
+
+**MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
+
+**MORE:** [**Best Budget 3D Printers**](https://www.tomshardware.com/best-picks/best-budget-3d-printers)
+
+**MORE:** [**Best Resin 3D Printers**](https://www.tomshardware.com/best-picks/best-resin-3d-printers)
+
+QIDI Tech Q1 Pro: Price Comparison
+
+[26 Amazon customer reviews](https://target.georiot.com/Proxy.ashx?tsid=8428&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Freviews%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3638404691786531571-20)
+
+ ☆  ☆  ☆  ☆  ☆
+
+[QIDI Q1 Pro 3D Printer,...](https://images.fie.futurecdn.net/products/e7fb566b65f9f860177787f90eeba1b01b564db4-100-80.jpg "QIDI Q1 Pro 3D Printer,...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+[Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+[$499](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+[View](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQIDI-High-Speed-Printers-Independent-Detection%2Fdp%2FB0CSDB9QTF%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6018455425677296979-20)
+
+ We check over 250 million products every day for the best prices
+
+powered by
+
+![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-guide-to-the-8-truly-effective-youtube-marketing-methods-for-2024/"><u>[New] A Guide to the 8 Truly Effective Youtube Marketing Methods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flashing-lights-of-olympic-speed/"><u>[New] Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-grit-vs-glory-hitbox-versus-twitch-titans-for-2024/"><u>[New] Grit vs Glory  Hitbox Versus Twitch Titans for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-splashing-through-the-best-fluid-games-roundup/"><u>[New] Splashing Through the Best Fluid Games Roundup</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-dual-drive-approach-video-uploads-to-twitter-plus-tumblr-for-2024/"><u>[New] The Dual-Drive Approach  Video Uploads to Twitter + Tumblr for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-demystifying-how-to-access-youtube-via-facebook-for-2024/"><u>[Updated] Demystifying How to Access YouTube via Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dynamic-duo-shots-perfecting-youtube-video-splitting-for-2024/"><u>[Updated] Dynamic Duo Shots  Perfecting YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplified-processes-inshot-for-pc-and-laptop-video-creation/"><u>[Updated] Simplified Processes  Inshot for PC and Laptop Video Creation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>[Updated] Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-the-green-screen-essential-techniques/"><u>2024 Approved  Perfecting the Green Screen  Essential Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-best-screens-for-playstation-5-gamers/"><u>2024 Approved  TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-footage-into-a-gopro-film-classic/"><u>2024 Approved  Transform Your Footage Into a GoPro Film Classic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-in-depth-analysis-from-toms-hardware-experts/"><u>Advanced PC Review: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beginners-pathway-to-effective-usage-of-orcaslicer-software/"><u>Beginner's Pathway to Effective Usage of OrcaSlicer Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-laptops-under-1500-quality-and-price-combined/"><u>Best Value Gaming Laptops Under $1,500 - Quality and Price Combined</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/caseking-suspends-sale-of-barrow-dabel-units-following-new-aio-radiator-quality-test-results-exposing-lead-contamination/"><u>CaseKing Suspends Sale of Barrow Dabel Units Following New AIO Radiator Quality Test Results Exposing Lead Contamination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-technology-featuring-toms-hardware-insight/"><u>Comprehensive Guide to Technology - Featuring Tom’s Hardware Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-assessments-the-toms-report/"><u>Comprehensive Hardware Assessments - The Tom's Report</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/deciphering-the-code-to-your-liked-videos-on-facebook-for-2024/"><u>Deciphering the Code to Your Liked Videos on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-insights-from-toms-technology-analysis/"><u>Discover Cutting-Edge Hardware Insights From Tom's Technology Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-toms-detailed-computer-and-peripheral-reviews/"><u>Discover Cutting-Edge Tech: Tom’s Detailed Computer and Peripheral Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-technology-with-tomebase-the-ultimate-guide-toms-hardware/"><u>Discover Cutting-Edge Technology with Tom'ebase - The Ultimate Guide! ⚡️ | Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-deliciousness-exploring-the-world-of-3d-chocolate-printing-with-cocoapress/"><u>DIY Deliciousness: Exploring the World of 3D Chocolate Printing with CocoaPress!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-systems-sound-with-updated-windows-10-realtek-driver/"><u>Enhance Your System's Sound with Updated Windows 10 Realtek Driver</u></a></li>
+<li><a href="https://facebook.techidaily.com/forget-not-your-fb-views-how-to-wipe-history/"><u>Forget Not Your FB Views: How to Wipe History</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-find-n3-flip-frp-by-drfone-android/"><u>How Can We Bypass Oppo Find N3 Flip FRP?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175682612-hytes-nexus-link-revolutionize-pc-building-with-its-huge-display-aio-cooler-and-magnetic-snap-together-fans/"><u>Hyte's Nexus Link: Revolutionize PC Building with Its Huge Display AIO Cooler and Magnetic Snap Together Fans!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tips-for-effective-screen-broadcasts-on-fb-live/"><u>In 2024, Tips for Effective Screen Broadcasts on FB Live</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/profit-from-puzzles-best-graphics-processing-units-for-boosted-bitcoin-gains-insights-by-toms-hardware/"><u>Profit From Puzzles: Best Graphics Processing Units for Boosted Bitcoin Gains - Insights by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-modern-electronics-with-authoritative-input-from-tom/"><u>The Ultimate Guide to Modern Electronics with Authoritative Input From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tech-picks-insights-from-tomn-hardware/"><u>The Ultimate Guide to Top Tech Picks: Insights From Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-valkyrie-vind-sl125-reviewed-stunning-design-yet-lacking-in-robust-performance/"><u>The Valkyrie Vind SL125 Reviewed: Stunning Design, Yet Lacking in Robust Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-comprehensive-insights-and-reviews-on-computer-hardware/"><u>Tom's Tech Advice: Comprehensive Insights and Reviews on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-and-gadget-reviews/"><u>Tom's Tech Insights & Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-grove-interface-accessories-to-upgrade-your-raspberry-pi-and-arduino-systems/"><u>Top Grove Interface Accessories to Upgrade Your Raspberry Pi and Arduino Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-ultimate-gaming-nvme-ssds-for-your-portable-steam-deck-experience/"><u>Top Pick: Ultimate Gaming NVMe SSDs for Your Portable Steam Deck Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-ultimate-comfort-and-performance-best-wireless-gaming-headsets-of-2024/"><u>Top Picks for Ultimate Comfort & Performance: Best Wireless Gaming Headsets of 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-13-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 13 mini Making It Possible</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/form-your-channels-image-a-pathway-to-more-subscribers-and-followers-for-2024/"><u>Transform Your Channels' Image  A Pathway to More Subscribers and Followers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-typing-dynamics-the-ultimate-guide-to-qidi-techs-revolutionary-q1-pro-keyboard/"><u>Transforming Typing Dynamics: The Ultimate Guide to QIDI Tech's Revolutionary Q1 Pro Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-sd-card-for-your-raspberry-pi/"><u>Ultimate Guide: Choosing the Perfect SD Card for Your Raspberry Pi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/understanding-image-validity-on-insta-for-2024/"><u>Understanding Image Validity on Insta for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-with-toms-hardware-diagnostics/"><u>Unlocking Tech Secrets with Tom's Hardware Diagnostics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-pc-builds-and-upgrades-with-tom/"><u>Unraveling the Secrets of PC Builds and Upgrades with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-a-guide-by-toms-hardware-experts/"><u>Unveiling New Gadgets: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-quick-entry-setup-how-to-automate-user-login-processes/"><u>Windows Quick Entry Setup: How to Automate User Login Processes</u></a></li>
+</ul></div>

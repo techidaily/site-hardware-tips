@@ -1,0 +1,114 @@
+---
+title: "Tech Rumor Confirmed: Intel to Launch Core Ultra & Arrow Lake CPUs Paired With New Z89^chip Set Platform"
+date: 2024-08-15T06:24:53.012Z
+updated: 2024-08-16T06:24:53.012Z
+tags:
+  - cpu
+categories:
+  - hardware
+thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40a8d07f3a01f7431f1caf6d4.jpg
+---
+
+## How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680
+
+The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a week before its official launch, French PC parts retailer[PC21.fr](https://www.pc21.fr/fiche/100-100000662wof-ryzen-9-9900x-5-6ghz-76mo-am5-wof-i5490034.html) has listed three Ryzen 9000 series processors on its website with prices. The AMD chips are listed as in stock and can be shipped in 24 to 48 hours, as of July 22 at 9:49 am CET (Central European Time).
+
+ The available AMD chips are as follows: AMD Ryzen 9 9900X, priced at €680.90 (€567.42 pre-tax); AMD Ryzen 7 9700X, priced at €544.95 (€454.13 pre-tax), and AMD Ryzen 5 9600X, priced at €420.72 (€350.60 pre-tax). Since AMD hasn’t officially started selling the Ryzen 9000 chips, we don’t have official pricing for them yet, but the numbers on PC21.fr pages seem to be on track to what we expect.
+
+ Image 1 of 3
+
+![Screenshot of AMD Ryzen 5 9600X PC21.fr page](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: PC21.fr)
+
+![Screenshot of AMD Ryzen 7 9700X PC21.fr page](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: PC21.fr)
+
+![Screenshot of AMD Ryzen 9 9900X PC21.fr page](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: PC21.fr)
+
+ Here’s a comparison of the prices on the PC21 website versus the launch price of previous AMD generations and US pricing where known.
+
+ Swipe to scroll horizontally
+
+| Header Cell - Column 0 | PC21.fr Price       | Launch Price | Header Cell - Column 3 | PC21.fr Price       | Launch Price |
+| ---------------------- | ------------------- | ------------ | ---------------------- | ------------------- | ------------ |
+| Ryzen 9 9900X          | €680.90 (US$741.71) | TBD          | Ryzen 9 7900X          | €619.52 (US$674.87) | US$549       |
+| Ryzen 7 9700X          | €544.95 (US$593.64) | TBD          | Ryzen 7 7700X          | €515.02 (US$561.03) | US$399       |
+| Ryzen 5 9600X          | €420.72 (US$458.31) | TBD          | Ryzen 5 7600X          | €337.36 (US$367.50) | US$299       |
+
+ PC21.fr looks like a reputable business, having been in operation since 2000 in France. However, this is not the first time that it has accidentally published the prices of processors before AMD has officially launched them. According to a Reddit post from 2017, the website accidentally published the prices of AMD Ryzen 1000-series chips in the middle of February — about two weeks before their official launch.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ One thing to note, though, is that these numbers are a bit higher than the pre-order[prices set by Funtech](https://www.tomshardware.com/pc-components/cpus/overseas-ryzen-9000-cpu-preorders-shed-light-on-potential-msrps) , which show €500 for the 9900X, €400 for the 9700X, and €310 for the 9600X. These numbers are much lower than PC21’s offerings, even if they do not factor in taxes yet. Nevertheless, Funtech’s home country is Slovenia, which has a lower cost of living than France which might explain the price difference.
+
+ With just 10 days to go before the official launch of the Ryzen 9000 desktop chips, it’s plausible that some retailers already have them in stock. However, we’re unsure of what to make of these Ryzen 9000 listings. PC21.fr seems to be a legitimate PC parts retailer and we could add the processor into our cart. But the 24-to-48-hour shipping time might sound unrealistic, especially as the chips haven’t officially launched yet. These listings might even be breaking a couple of NDAs with AMD and could lead to headaches for buyers if this was a listing mistake. So, we suggest holding off on buying these processors until after the official launch and MSRPs are known.
+
+## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+ Contact me with news and offers from other Future brands  Receive email from us on behalf of our trusted partners or sponsors
+
+ By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-maximizing-accuracy-speech-to-text-via-google-translate/"><u>[New] 2024 Approved  Maximizing Accuracy  Speech to Text via Google Translate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-selection-of-premium-4k-blu-ray-systems/"><u>[New] Prime Selection of Premium 4K Blu-Ray Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rethink-your-favorite-films-top-7-replacements/"><u>[New] Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-saving-live-periscope-broadcasts/"><u>[New] The Complete Guide to Saving Live Periscope Broadcasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>2024 Approved  Capturing Waves  How To Record Internet Radios Step-by-Step</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-soldering-irons-and-workstations-reviewed/"><u>2024'S Most Effective Soldering Irons and Workstations Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-soldering-solutions-leading-models-to-watch/"><u>Advanced Soldering Solutions: Leading Models to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-from-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Advanced Tech Insights From Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-macbook-pro-m1-2e-16-inch-laptop-review-why-its-the-ultimate-choice-for-professionals/"><u>Apple MacBook Pro (M1, 2E) 16-Inch Laptop Review: Why It's The Ultimate Choice for Professionals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-liquid-and-air-coolers-for-your-pc-expert-picks/"><u>Best Liquid and Air Coolers for Your PC : Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clarification-what-bamboo-lab-really-offers-in-their-updated-printer-software/"><u>Clarification: What Bamboo Lab Really Offers in Their Updated Printer Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-top-pc-gear-with-toms-hardware-experts/"><u>Discovering Top PC Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/edgeai-optimized-coolers-unveiling-frores-aircell-pak-series-ideal-up-to-25-watt-systems/"><u>EdgeAI Optimized Coolers - Unveiling Frore's Aircell PAK Series, Ideal Up To 25 Watt Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-ultrabook-picks-and-luxury-laptop-selections/"><u>Elite Ultrabook Picks & Luxury Laptop Selections</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-4g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy M14 4G Phone without Any Data Loss</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/srt-demystified-in-depth-analysis-and-tips-for-2024/"><u>SRT Demystified  In-Depth Analysis and Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125260405-the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermalright-phantom-spirit-120-evo-assessment-a-domination-not-just-a-contest/"><u>Thermalright Phantom Spirit 120 EVO Assessment: A Domination, Not Just a Contest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-unveiling-the-latest-hardware-innovations/"><u>Tom's Computer Gear: Unveiling the Latest Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-computer-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Computer Reviews and News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-best-value-3d-printing-offers-of-2024/"><u>Top 5 Best Value 3D Printing Offers of 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-8-innovative-affordable-online-srt-services-exposed/"><u>Top 8 Innovative, Affordable Online SRT Services Exposed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-hard-drives-of-2024-ultimate-guide-for-desktops-and-nas-solutions/"><u>Top Pick Hard Drives of 2024: Ultimate Guide for Desktops & NAS Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-reviews-of-the-silent-and-mighty-hyte-thicc-q60-240mm-aio-liquid-cpu-cooler/"><u>Top Reviews of the Silent and Mighty Hyte THICC Q60 240Mm AIO Liquid CPU Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-pcs-airflow-opt-for-cooler-masters-advanced-dual-fan-graphics-card-solution/"><u>Transform Your PC's Airflow: Opt for Cooler Master's Advanced Dual-Fan Graphics Card Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-built-in-extensions-functions-and-applications/"><u>Understanding ChatGPT's Built-In Extensions - Functions and Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerful-overclocking-cooler-masters-advanced-aio-and-air-coolers-surpass-300w-heat-dissipation/"><u>Unleash Powerful Overclocking: Cooler Master's Advanced AIO & Air Coolers Surpass 300W Heat Dissipation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-hardware-secrets-with-tom-a-buyers-resource-for-technology-gear/"><u>Unlocking Hardware Secrets with Tom: A Buyer's Resource for Technology Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-wisdom/"><u>Unveiling the Latest Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-insights/"><u>Unveiling the Latest Gadgets with Tom's Technology Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
