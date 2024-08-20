@@ -1,7 +1,7 @@
 ---
 title: "Energy Efficiency & Strength in Numbers: Running Multiple NVIDIA RTX 4090 GPUs with Cooler Master’s MX Mighty Power Supplies"
-date: 2024-08-17 12:54:29
-updated: 2024-08-18 10:45:52
+date: 2024-08-19T02:27:03.736Z
+updated: 2024-08-20T02:27:03.736Z
 tags:
   - power-supply
 categories:
@@ -72,14 +72,23 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Back to Everything
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -92,6 +101,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Black
 
  White
@@ -100,6 +112,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -108,6 +123,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -274,3 +292,52 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-aerial-titans-unveiled-the-10-powerful-drone-list/"><u>[New] Aerial Titans Unveiled  The 10 Powerful Drone List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-your-craft-best-drawing-tools-on-the-chromebook-spectrum/"><u>[New] Master Your Craft  Best Drawing Tools on the Chromebook Spectrum</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-vimeo-id-picture-guide-width-depth-moment/"><u>[New] Vimeo ID Picture Guide  Width, Depth, Moment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-instantly-retire-your-digital-diaries-fb/"><u>[Updated] 2024 Approved  Instantly Retire Your Digital Diaries (FB)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-screenplay-crafting-site/"><u>[Updated] In 2024, Ultimate Screenplay Crafting Site</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[Updated] Single-Frame Snipping  Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlabs-vs-obs-which-livestream-tool-reigns-supreme/"><u>2024 Approved  Streamlabs Vs. OBS  Which Livestream Tool Reigns Supreme?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-animation-create-your-own-3d-printer-shaped-wireless-charger-for-under-50-using-bambu-labs-technology/"><u>Affordable Animation: Create Your Own 3D-Printer-Shaped Wireless Charger for Under $50 Using Bambu Labs Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/astrological-accuracy-meets-meteoric-speeds-in-elegoo-neptune-4plus-revealed-a-detailed-printer-breakdown-and-review/"><u>Astrological Accuracy Meets Meteoric Speeds in Elegoo Neptune 4+ Revealed - A Detailed Printer Breakdown and Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-hype-why-creating-gun-prototypes-via-3d-printing-is-tougher-than-it-seems/"><u>Beyond the Hype: Why Creating Gun Prototypes via 3D Printing Is Tougher Than It Seems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/caseking-suspends-sale-of-barrow-dabel-radiators-after-new-aio-test-uncovers-lead-content/"><u>CaseKing Suspends Sale of Barrow Dabel Radiators After New AIO Test Uncovers Lead Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/david-vs-goliath-revisited-a-tale-of-innovative-crowdfunding-and-its-unexpected-endgame/"><u>David vs Goliath Revisited: A Tale of Innovative Crowdfunding and Its Unexpected Endgame</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deep-dive-into-amds-high-performance-realm-ryzen-cpu-series-comparative-analysis-of-9900x-e9700x-and-9600x-cinebench-scores/"><u>Deep Dive Into AMD's High-Performance Realm: Ryzen CPU Series - Comparative Analysis of 9900X, E9700X and 9600X Cinebench Scores</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-avoiding-tangles-in-your-3d-printing-material/"><u>Effective Strategies for Avoiding Tangles in Your 3D Printing Material</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-the-ultimate-hardware-guide/"><u>Exploring Technology with Tom - The Ultimate Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-advances-in-computer-components-at-toms-hardware/"><u>Exploring the Latest Advances in Computer Components at Tom's Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fundamentals-of-writing-captivating-videography-scripts/"><u>Fundamentals of Writing Captivating Videography Scripts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-choice-best-pc-configurations-and-models-of-2aturdays-2023/"><u>Gamers' Choice: Best PC Configurations and Models of 2Aturdays, 2023!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Plus without App | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-drone-titans-for-industrial-lifting-challenges/"><u>In 2024, Drone Titans for Industrial Lifting Challenges</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 UltraFRP Lock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-annotate-windows-photos-video-content/"><u>In 2024, Step-by-Step Guide to Annotate Windows Photos Video Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-valkyrie-sync-240-aio-liquid-chiller-efficient-heat-dissipation-hindered-by-clunky-application-software/"><u>In-Depth Review of Valkyrie Sync 240 AIO Liquid Chiller: Efficient Heat Dissipation Hindered by Clunky Application Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-world-unveiling-pc-performance-secrets/"><u>Inside Tom's Hardware World: Unveiling PC Performance Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-eliminating-layers-from-parting-ways-in-3d-print-creations/"><u>Masterclass: Eliminating Layers From Parting Ways in 3D Print Creations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-trends-through-toms-equipment-analysis/"><u>Mastering Tech Trends Through Tom's Equipment Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-expert-advice-from-toms-hardware-team/"><u>Mastering Technology with Expert Advice From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-a-deep-dive-into-hardware-features/"><u>Mastering Technology: A Deep Dive Into Hardware Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125146780-mastering-the-digital-world-with-your-site-name-what-toms-hardware-never-taught-you/"><u>Mastering the Digital World with [Your Site Name]: What Tom's Hardware Never Taught You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-qt-plugin-during-software-application-initiation/"><u>Overcoming Missing Qt Plugin During Software Application Initiation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-reviews-by-toms-gear-hub/"><u>Pioneering Computer Reviews by Tom’s Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-computing-by-tom-unmatched-hardware-analysis/"><u>Precision Computing by Tom: Unmatched Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-data-encoding-on-standard-plastics-how-3d-holographic-techniques-store-up-to-576-bits/"><u>Revolutionary Data Encoding on Standard Plastics: How 3D-Holographic Techniques Store Up To 576 Bits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solid-tips-from-toms-digital-workshop-a-hardware-haven/"><u>Solid Tips From Tom’s Digital Workshop: A Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-cpu-cooler-pros-and-cons-of-aio-and-air-options/"><u>The Ultimate Guide to Choosing a CPU Cooler – Pros & Cons of AIO and Air Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-elegoo-neptune-4-max-a-closer-look-at-its-speedy-performance-and-extended-build/"><u>The Ultimate Guide to Elegoo Neptune 4 Max – A Closer Look at Its Speedy Performance and Extended Build</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-routine-for-placing-imovie-in-the-vimeo-spotlight-for-2024/"><u>The Ultimate Routine for Placing iMovie in the Vimeo Spotlight for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronic-diary-the-ultimate-guide-to-modern-hardware/"><u>Tom's Electronic Diary: The Ultimate Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-and-advice-mastering-computer-upgrades-and-buying-tips/"><u>Tom's Hardware Review & Advice: Mastering Computer Upgrades and Buying Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-dive-into-the-latest-computer-components/"><u>Tom's Tech Hub: Dive Into the Latest Computer Components</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-added-value-of-facebook-gestures/"><u>Understanding the Added Value of Facebook Gestures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-interrupted-by-nvidia-error-no-longer-halted/"><u>Windows Interrupted By NVIDIA Error, No Longer Halted</u></a></li>
+</ul></div>

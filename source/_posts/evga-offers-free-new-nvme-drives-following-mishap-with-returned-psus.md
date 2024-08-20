@@ -1,7 +1,7 @@
 ---
 title: EVGA Offers Free New NVMe Drives Following Mishap with Returned PSUs
-date: 2024-08-16 23:50:43
-updated: 2024-08-18 10:53:47
+date: 2024-08-19T02:27:15.293Z
+updated: 2024-08-20T02:27:15.293Z
 tags:
   - power-supply
 categories:
@@ -66,14 +66,26 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
  Back to Everything
 
 Brand
@@ -92,6 +104,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Black
 
  White
@@ -100,6 +115,14 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -108,6 +131,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -274,3 +300,47 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[New] 2024 Approved  Naming Gems  Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis-for-2024/"><u>[New] From Viewers to Profits  An Authoritative Guide on YouTube Revenue and Popularity Analysis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonic-haven-best-dj-template-selections/"><u>[Updated] In 2024, Harmonic Haven  Best DJ Template Selections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-nfts-a-novices-quick-start-strategy/"><u>[Updated] Mastering NFTs  A Novice's Quick-Start Strategy</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-decoding-the-best-hdr-cameras-for-professionals/"><u>2024 Approved  Decoding the Best HDR Cameras for Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-dual-core-cpus-over-not-with-intels-latest-310-leading-two-p-cores-on-geekbench/"><u>Are Dual-Core CPUs Over? Not with Intel's Latest 310 Leading Two P-Cores on Geekbench</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-understanding-of-digital-lore-making/"><u>Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/best-8-private-video-downloaders/"><u>Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-look-at-sovol-sv08-the-ultimate-voron-speed-enthusiasts-choice/"><u>Comprehensive Look at Sovol SV08 - The Ultimate Voron Speed Enthusiast's Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-essential-advice-on-hardware-and-software-by-tom/"><u>Decoding Tech: Essential Advice on Hardware & Software by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-elite-password-management-solutions-the-best-of-both-worlds-fee-free-and-charged-services/"><u>Evaluating Elite Password Management Solutions: The Best of Both Worlds - Fee-Free & Charged Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-gadget-insights-from-toms-hardware-hub/"><u>Expert Gadget Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-visit-toms-technology-portal/"><u>Expert Insights on Gadgets - Visit Tom's Technology Portal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-expertise/"><u>Exploring Computer Components with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-technology-with-tom-a-hardware-journey/"><u>Exploring the World of Technology with Tom - A Hardware Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125138171-get-the-cutting-edge-8k-sonic-mini-s-resin-printer-by-phrozen-at-an-unbeatable-low-of-325/"><u>Get the Cutting-Edge 8K Sonic Mini S RESIN Printer by Phrozen at an Unbeatable Low of $325</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>How Can We Bypass Vivo V30 Lite 5G FRP?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>In 2024, OBS and Wirecast Clash  Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-redesigning-the-perception-of-sony-s3700-review/"><u>In 2024, Redesigning the Perception of Sony S3700 Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175665967-innovate-and-upgrade-with-tom-the-ultimate-guide-to-high-performance-hardware/"><u>Innovate & Upgrade with Tom - The Ultimate Guide to High-Performance Hardware!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-hit-by-a-steep-drop-shares-fall-30-overnight-market-cap-slides-39b/"><u>Intel Hit by a Steep Drop: Shares Fall 30%% Overnight, Market Cap Slides $39B</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-strategies-top-5-must-use-platforms-by-twitch-creators/"><u>Key Strategies: Top 5 Must-Use Platforms by Twitch Creators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-your-podcast-cookware-select-the-best-mixers/"><u>Master Your Podcast' Cookware  Select the Best Mixers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-tech-knowledge-in-depth-reviews-from-toms-hardware-haven/"><u>Master Your Tech Knowledge: In-Depth Reviews From Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-hardware-essentials/"><u>Mastering Electronics with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-with-toms-hardware-insights/"><u>Mastering PC Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-video-avi-into-graphic-image-gif-filmoras-complete-guide-for-2024/"><u>Mastering Video (AVI) Into Graphic Image (GIF)  Filmora's Complete Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-nuances-of-networked-notebooks-with-toms-hardware-guidance/"><u>Navigating the Nuances of Networked Notebooks with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-digital-innovations-with-toms-hardware-wisdom/"><u>Navigating Through Digital Innovations with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-tech-territories-with-toms-hardware-guide/"><u>Navigating Through Tech Territories with Tom's Hardware Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now/"><u>Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-external-hdds-and-ssds/"><u>The Ultimate Selection of Premium External HDDs and SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tips-and-tricks-eliminating-hidden-flaws-from-your-3d-creations/"><u>Tips & Tricks: Eliminating Hidden Flaws From Your 3D Creations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-top-gear-guides-and-tips/"><u>Tom's Computing Insights: Top Gear Guides & Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-uncovered-in-depth-comparisons-and-buying-tips/"><u>Tom's Hardware Uncovered: In-Depth Comparisons & Buying Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights on Computer Components and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125191165-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Without iTunes in 5 Ways</u></a></li>
+</ul></div>

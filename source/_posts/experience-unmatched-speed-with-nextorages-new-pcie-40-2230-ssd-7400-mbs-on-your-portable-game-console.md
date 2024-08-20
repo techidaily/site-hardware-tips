@@ -1,7 +1,7 @@
 ---
 title: Experience Unmatched Speed with Nextorage's New PCIe 4.0 2230 SSD - 7,400 MB/S on Your Portable Game Console
-date: 2024-08-14 23:54:17
-updated: 2024-08-17 10:29:52
+date: 2024-08-19T02:34:37.995Z
+updated: 2024-08-20T02:34:37.995Z
 tags:
   - ssd
 categories:
@@ -50,16 +50,26 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -72,10 +82,16 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -140,6 +156,9 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -154,3 +173,49 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ajeys-path-to-prosperity-monetizing-his-online-presence/"><u>[New] 2024 Approved  Ajey's Path to Prosperity  Monetizing His Online Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-to-download-movie-cast-releases/"><u>[New] Free-to-Download Movie Cast Releases</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pioneering-8-android-group-chat-applications-over-four-participants/"><u>[New] Pioneering 8 Android Group Chat Applications, Over Four Participants</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-editing-skills-with-fcps-ultimate-tools-list/"><u>[Updated] 2024 Approved  Elevate Your Editing Skills with FCP's Ultimate Tools List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-10-open-source-teleconference-applications-for-2024/"><u>[Updated] Explore 10 Open Source Teleconference Applications for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-newbies-roadmap-building-a-channel-making-cash/"><u>[Updated] In 2024, The Ultimate Newbie's Roadmap  Building a Channel, Making Cash</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-metrics-mastery-gain-more-followers/"><u>2024 Approved  Instagram Metrics Mastery - Gain More Followers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-data-protection-made-simple-storing-sensitive-information-in-common-plastic-with-3d-printed-holographic-tech/"><u>Advanced Data Protection Made Simple - Storing Sensitive Information in Common Plastic with 3D Printed Holographic Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/arctic-liquid-freezer-iii-cooling-units-and-their-effect-on-cpu-warranties-is-a-tailored-contact-frame-necessary-for-intel/"><u>Arctic 'Liquid Freezer III' Cooling Units and Their Effect on CPU Warranties – Is a Tailored Contact Frame Necessary for Intel?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-low-cost-mechanical-keyboard-options/"><u>Best Low-Cost Mechanical Keyboard Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-3d-creation-strategies-for-calculating-and-reducing-your-printers-price-tag/"><u>Budget-Friendly 3D Creation: Strategies for Calculating and Reducing Your Printer's Price Tag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-at-your-site-name-your-one-stop-resource-like-toms-hardware/"><u>Discover the Latest in Tech at [Your Site Name]: Your One-Stop Resource Like Tom's Hardware!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-tom-top-reviews-and-guides/"><u>Dive Into Hardware with Tom: Top Reviews & Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ek-unveils-advanced-custom-water-block-technology-to-keep-your-delidded-amd-ryzen-am5-at-peak-temperatures/"><u>EK Unveils Advanced Custom Water Block Technology to Keep Your Delidded AMD Ryzen AM5 at Peak Temperatures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-your-rest-the-thoroughly-tested-guide-to-the-bamboo-lab-a1-slide-bed-for-an-immaculate-king-size-experience/"><u>Elevating Your Rest: The Thoroughly Tested Guide to the Bamboo Lab A1 Slide Bed for an Immaculate King-Size Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-overclocking-potential-with-cooler-masters-innovative-colored-ai-nano-diamond-technology-in-cryofuze-5-paste/"><u>Enhance Overclocking Potential with Cooler Master's Innovative Colored AI Nano-Diamond Technology in CryoFuze 5 Paste</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computing-equipment-from-toms-hardware-hub/"><u>Expert Advice on Computing Equipment From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-by-toms-technology-hub/"><u>Expert Hardware Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125191106-get-your-hands-on-the-highest-ranked-eleegoo-neptune-4-pro-3d-printer-for-a-steal-at-240-from-newegg/"><u>Get Your Hands on the Highest-Ranked Eleegoo Neptune 4 Pro 3D Printer for a Steal at $240 From Newegg</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y36-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y36 Phone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece/"><u>In 2024, Thorough Reconnaissance  The Full Review for Bublcam's Panoramic Masterpiece</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 11 Pro 5G Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175708186-inside-the-world-of-high-performance-testing-results-for-top-m2-ssd-heatsinks-featuring-id-cooling-zero-series-reviewed/"><u>Inside the World of High-Performance: Testing Results for Top M.2 SSD Heatsinks, Featuring ID-Cooling Zero Series Reviewed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125171105-master-the-art-of-3d-printing-with-the-powerful-anycubic-kobra-max-expert-review-inside/"><u>Master the Art of 3D Printing with the Powerful Anycubic Kobra Max - Expert Review Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-high-tech-equipment-with-toms-hardware-wisdom/"><u>Navigating Through High-Tech Equipment with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-pc-building-essentials-from-deepcool-exceptional-coolers-power-solutions-and-fans-now-feature-stylish-pixel-silicone-decor-for-a-personalized-tou3/"><u>Next-Level PC Building Essentials From DeepCool - Exceptional Coolers, Power Solutions & Fans Now Feature Stylish Pixel Silicone Decor for a Personalized Touch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-guide-to-tech-specs-insights-from-toms-hardware/"><u>The Essential Guide to Tech Specs - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-reviews-the-definitive-source-for-hardware-evaluations/"><u>Tom's Reviews: The Definitive Source for Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews/"><u>Tom's Tech Insights - Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-hardware-analysis/"><u>Tom's Tech Review - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review - In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-insights/"><u>Tom's Tech Reviews - Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-preventing-stringing-when-3d-printing-at-home/"><u>Top Strategies for Preventing Stringing When 3D Printing at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-toms-hardware-reviews-and-in-depth-guides/"><u>Top Tom's Hardware Reviews and In-Depth Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-leading-resin-3d-printers/"><u>Ultimate List: Leading Resin 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175648404-unbeatable-deal-on-the-top-value-choice-thermalright-phantom-spirit-120-se-for-just-35/"><u>Unbeatable Deal on The Top Value Choice: Thermalright Phantom Spirit 120 SE for Just $35</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-pc-potential-lessons-from-toms-hardware-reviews/"><u>Unlocking PC Potential: Lessons From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-pc-innovations-at-toms-electronic-showcase/"><u>Unveiling PC Innovations at Tom's Electronic Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-creality-ender-v3-a-budget-friendly-open-source-additive-manufacturing-marvel/"><u>Unveiling the Creality Ender 지오 V3: A Budget-Friendly Open Source Additive Manufacturing Marvel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-insights-from-toms-hardware/"><u>Unveiling the Latest in Tech - Insights From Tom's Hardware</u></a></li>
+</ul></div>

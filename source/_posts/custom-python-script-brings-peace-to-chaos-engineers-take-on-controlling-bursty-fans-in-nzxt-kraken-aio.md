@@ -1,7 +1,7 @@
 ---
 title: "Custom Python Script Brings Peace to Chaos: Engineer's Take on Controlling Bursty Fans in NZXT Kraken AIO"
-date: 2024-08-08T04:23:35.423Z
-updated: 2024-08-09T04:23:35.423Z
+date: 2024-08-19T03:04:52.737Z
+updated: 2024-08-20T03:04:52.737Z
 tags:
   - cooling
 categories:
@@ -219,3 +219,51 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-building-gear-a-quick-start-guide/"><u>[New] 2024 Approved  Channel-Building Gear  A Quick Start Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-refined-lineup-of-conversation-starters-for-podcasting/"><u>[New] 2024 Approved  Refined Lineup of Conversation Starters for Podcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earning-potential-in-gaming-videos/"><u>[New] In 2024, Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-pc-gpus-for-high-res-editing/"><u>[New] Premium PC GPUs for High-Res Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sneak-peeks-stealthy-video-capture-techniques-for-2024/"><u>[New] Sneak Peeks  Stealthy Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-capture-clarity-with-irecorder-tech/"><u>[Updated] In 2024, Screen Capture Clarity with iRecorder Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-best-cpu-thermal-pastes-evaluating-and-ranking-top-90-picks/"><u>2024'S Ultimate Guide to the Best CPU Thermal Pastes: Evaluating and Ranking Top 90 Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-tiktok-giveaway-unauthorized-returns-for-safe-and-new-bambu-lab-a1-3d-printers/"><u>Accidental TikTok Giveaway: Unauthorized Returns for Safe and New Bambu Lab A1 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-ai-edgescool-with-freeze-intro-series-three-airjet-pak-models-up-to-25w-capacity/"><u>Advanced AI Edgescool with Freeze Intro Series: Three AirJet PAK Models Up to 25W Capacity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-hub-insights-and-tips-from-toms-hardware/"><u>Advanced PC Review Hub: Insights and Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anycubic-kobra-2-max-analysis-a-surprising-find-for-enthusiasts/"><u>Anycubic Kobra 2 Max Analysis: A Surprising Find for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-choices-amds-premiere-x570-chipset-for-pc-building/"><u>Best Choices: AMD's Premiere X570 Chipset for PC Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-list-elite-laser-carving-tools/"><u>Comprehensive List: Elite Laser Carving Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-the-toms-hardware-showcase/"><u>Discover Cutting-Edge Tech: The Tom's Hardware Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-motherboards-of-2024-a-comprehensive-guide-to-sockets-and-chipsets/"><u>Discover the Leading Gaming Motherboards of 2024: A Comprehensive Guide to Sockets & Chipsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/divine-floral-aroma-of-latest-innovative-heat-conductor/"><u>Divine Floral Aroma of Latest Innovative Heat Conductor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-eliminating-stringing-issues-in-your-3d-print-projects/"><u>Effective Solutions for Eliminating Stringing Issues in Your 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175662321-expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fastest-and-most-economical-gaming-ram-with-stunning-leds/"><u>Fastest & Most Economical Gaming RAM with Stunning LEDs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fortnite-account-consolidation-techniques-explained/"><u>Fortnite Account Consolidation Techniques Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-fixing-and-refreshing-your-3d-printers-filament-performance/"><u>Guide to Fixing and Refreshing Your 3D Printer's Filament Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-valkyrie-al125-cpu-air-cooler-premium-quality-rgb-led-lighting-and-bright-ips-screen-for-budget-under-20/"><u>High-Performance Valkyrie AL125 CPU Air Cooler: Premium Quality, RGB LED Lighting, and Bright IPS Screen for Budget Under $20</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>In 2024, Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-frore-cooling-range-targeted-airjet-pak-freeze-intros-for-edge-computing-under-25w-power/"><u>Introducing the Frore Cooling Range: Targeted AirJet PAK Freeze Intros for Edge Computing Under 25W Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-picks-for-premium-laser-engravers/"><u>Leading Picks for Premium Laser Engravers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-circuitry-on-toms-digital-workbench/"><u>Mastering Gadgets and Circuitry on Tom's Digital Workbench</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-at-toms-hardware-destination/"><u>Mastering Gadgets and Systems at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-landscape-the-ultimate-guide-to-hardware-by-toms-expertise/"><u>Mastering the Digital Landscape - The Ultimate Guide to Hardware by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-of-gadgets-trustworthy-insights-by-tom-on-computer-hardware/"><u>Mastery of Gadgets: Trustworthy Insights by Tom on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-and-components-toms-expertise/"><u>Navigating the World of Computers and Components: Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-innovative-hardware-solutions-with-tom/"><u>Navigating Through Innovative Hardware Solutions with Tom</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/professional-insights-top-5-cloud-based-videographer-tools-for-2024/"><u>Professional Insights  Top 5 Cloud-Based Videographer Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-for-unfreezing-your-chrome-browser-on-windows-11/"><u>Simple Solutions for Unfreezing Your Chrome Browser on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tips-on-how-to-address-stringing-concerns-when-3d-printing-at-home-or-professionally/"><u>Step-by-Step Tips on How to Address Stringing Concerns When 3D Printing at Home or Professionally</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-enthusiast-dream-home-24-million-texas-estate-showcases-integrated-5786-square-foot-data-centre-with-cutting-edge-full-liquid-cooling-system-living-qua10/"><u>Tech Enthusiast Dream Home: $2.4 Million Texas Estate Showcases Integrated 5,786 Square Foot Data Centre with Cutting-Edge Full Liquid Cooling System – Living Quarters Omitted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-elite-rankings-premium-raspberry-pi-cases-to-optimize-performance/"><u>The Elite Rankings: Premium Raspberry Pi Cases to Optimize Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermaltake-unveils-enhanced-120mm-and/"><u>Thermaltake Unveils Enhanced 120Mm &</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-resin-3d-printer-picks-to-watch/"><u>Top Resin 3D Printer Picks to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-desktops-of-2024/"><u>Top-Ranking Gaming Desktops of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-storage-enclosure-devices/"><u>Ultimate Guide to Choosing the Best Storage Enclosure Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-pc-overclocking-potential-the-new-massive-liquid-cooler-moora-iv-price-holds-eight-biggest-200mm-fans-in-one-unit-600/"><u>Unbeatable PC Overclocking Potential - The New Massive Liquid Cooler, MOORA IV ([Price]): Holds Eight Biggest 200MM Fans in One Unit (~$600)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Oppo A1x 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-cosmic-creations-in-depth-review-of-elegoos-galaxy-neptune-4-plus-for-lightning-fast-3d-prints/"><u>Unleash Cosmic Creations: In-Depth Review of Elegoo's Galaxy Neptune 4 Plus for Lightning-Fast 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-creativity-the-phrozen-four-color-3d-printer/"><u>Unleash Creativity: The Phrozen Four-Color 3D Printer</u></a></li>
+</ul></div>

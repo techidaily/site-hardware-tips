@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology
-date: 2024-08-15 13:12:18
-updated: 2024-08-18 12:44:58
+date: 2024-08-19T02:31:20.965Z
+updated: 2024-08-20T02:31:20.965Z
 tags:
   - cases
 categories:
@@ -67,6 +67,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,16 +82,25 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -97,6 +109,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -121,6 +136,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -143,3 +161,57 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-premium-film-experiences-yts-best-of-lists/"><u>[New] 2024 Approved  Premium Film Experiences  YT's Best Of Lists</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expertise-on-crafting-premium-webcam-footage/"><u>[New] Expertise on Crafting Premium Webcam Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-6-social-media-platforms-for-business/"><u>[New] In 2024, Top 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-employing-google-trends-to-discover-compelling-video-themes/"><u>[Updated] 2024 Approved  Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-saturating-the-market-precision-in-sharing-through-shorts/"><u>[Updated] 2024 Approved  Saturating the Market  Precision in Sharing Through Shorts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-income-mastery-latest-policy-guide/"><u>2024 Approved  YouTube Income Mastery  Latest Policy Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-itel-s23plus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Itel S23+ Unlock Without Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-kid-safe-racing-adventure-comprehensive-review-of-holy-stone-rc-car-toy/"><u>A Kid-Safe Racing Adventure: Comprehensive Review of Holy Stone RC Car Toy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-precision-printing-on-the-go-meet-micronics-compact-and-economical-sls-3d-printer-for-mainstream-manufacturing/"><u>Affordable Precision Printing on the Go: Meet Micronics' Compact and Economical SLS 3D Printer for Mainstream Manufacturing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-desktop-pc-and-nas-drives-unveiled-the-expert-hard-drive-selections/"><u>Best Desktop PC & NAS Drives Unveiled - The Expert Hard Drive Selections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-zoom-webcams-compared-the-elite-six/"><u>Best Zoom Webcams Compared - The Elite Six</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-computer-display-reviews-and-comparisons-2024-lineup/"><u>Elite Computer Display Reviews and Comparisons: 2024 Lineup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-pc-components-toms-hardware-analysis/"><u>Expert Advice on PC Components - Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-on-digital-tools-by-toms-hardware-experts/"><u>Expert Insight on Digital Tools by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125184365-exploring-the-best-of-toms-hardware-expert-analysis-inside/"><u>Exploring the Best of Tom's Hardware – Expert Analysis Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-ultimate-deal-highly-rated-eleegoo-neptune-4-pro-now-priced-at-240-on-newegg/"><u>Get the Ultimate Deal - Highly Rated Eleegoo Neptune 4 Pro Now Priced at $240 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-nexus-link-unveiled-revolutionize-your-build-with-magnetic-fans-and-a-giant-screen-aio-cooler/"><u>Hyte's Nexus Link Unveiled - Revolutionize Your Build with Magnetic Fans and a Giant Screen AIO Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-gadgets-and-pc-advice-from-toms-hardware/"><u>Innovative Gadgets and PC Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-lab-expert-insights-into-pc-components/"><u>Inside Tom's Gear Lab: Expert Insights Into PC Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-gameplay-with-leading-edge-gaming-routers-on-the-market/"><u>Master Your Gameplay with Leading-Edge Gaming Routers on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-an-insightful-journey-by-toms-hardware/"><u>Mastering Modern Tech: An Insightful Journey by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-precision-expert-guides-from-toms-technology-corner/"><u>Navigating New Gadgets With Precision: Expert Guides From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landsebeam-the-ultimate-guide-to-pc-components-by-tom/"><u>Navigating the Tech Landsebeam: The Ultimate Guide to PC Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-with-toms-hardware-guides/"><u>Navigating the World of Tech with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-assessment-of-economical-id-cooling-frozn-series-a410-and-a610-models/"><u>Performance Assessment of Economical ID-Cooling FROZN Series - A410 and A^610 Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-advice-from-toms-hardware-experts/"><u>Pioneering PC Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-choosing-the-right-components-with-toms-hardware/"><u>Precision Performance - Choosing the Right Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-casing-designs-with-the-lian-li-hydroshift-lcd-360s/"><u>Revolutionizing Casing Designs with the Lian Li Hydroshift LCD 360S</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000806231-solved-anticheat-connection-failed-error-in-escape-from-tarkov/"><u>Solved: ‘Anticheat Connection Failed’ Error in Escape From Tarkov</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-technology-trends-discoveries-from-toms-experts/"><u>Stay Ahead of Technology Trends - Discoveries From Tom’s Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-resource-for-high-performance-pcs-toms-hardware/"><u>The Complete Resource for High-Performance PCs - Tom's Hardware</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-costless-conundrum-of-final-cut-pro-access-for-2024/"><u>The Costless Conundrum of Final Cut Pro Access for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-quality-hardware-with-toms-reviews/"><u>The Ultimate Guide to Quality Hardware with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-innovative-electronics-by-tom-hardcore-tech/"><u>The Ultimate Resource for Innovative Electronics by Tom Hardcore Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronics-hub-the-ultimate-hardware-resource/"><u>Tom's Electronics Hub: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-channel-your-source-for-cutting-edge-pcs-and-devices/"><u>Tom's Hardware Review Channel: Your Source for Cutting-Edge PCs and Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-gear-reviews/"><u>Tom's Tech Insights: Comprehensive Computer Gear Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175664782-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide/"><u>Tom's Tech Review: Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-cura-add-ons-enhance-your-3d-print-projects/"><u>Top Cura Add-Ons: Enhance Your 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-gear-for-tech-enthusiasts/"><u>Top-Rated Raspberry Pi Gear for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-xpg-hybrid-dual-fan-cooler-with-full-liquid-loop-system-handles-up-to-280w-cpus/"><u>Transform Your Gaming Rig: XPG Hybrid Dual-Fan Cooler with Full Liquid Loop System Handles Up to 280W CPUs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unboxing-titans-of-youtube-the-most-popular-for-2024/"><u>Unboxing Titans of YouTube - The Most Popular for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-peak-performance-with-these-12-free-disk-defrag-tools-july-2024/"><u>Unlock Peak Performance with These 12 Free Disk Defrag Tools (July 2024)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-pc-components-wisdom-by-tom/"><u>Unlocking Performance Secrets for PC Components - Wisdom by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-devices-insights-from-toms-hardware-experts/"><u>Unveiling New Devices - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-expertise/"><u>Unveiling the Latest in Gadgets with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-misjudgement-der8auer-talks-about-shortcomings-in-thermal-grizzly-heatspreaders-and-die-cooler-range/"><u>Unveiling the Misjudgement - Der8auer Talks About Shortcomings in Thermal Grizzly Heatspreaders & Die Cooler Range</u></a></li>
+</ul></div>

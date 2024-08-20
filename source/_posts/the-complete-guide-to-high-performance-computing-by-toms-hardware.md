@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to High-Performance Computing by Tom's Hardware
-date: 2024-08-14 15:36:10
-updated: 2024-08-17 11:49:42
+date: 2024-08-19T02:36:24.702Z
+updated: 2024-08-20T02:36:24.702Z
 tags:
   - motherboards
 categories:
@@ -47,10 +47,16 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -59,6 +65,9 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -81,3 +90,37 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-magixs-image-sphere-a-thorough-exploration/"><u>[Updated] MAGIX's Image Sphere  A Thorough Exploration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-framefusion-media-suite/"><u>2024 Approved  FrameFusion Media Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>2024 Approved  From Blurry Snaps to Stunning Shots  Learn LunaPic Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-camon-20-premier-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Camon 20 Premier 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-unveils-top-performing-zen-5-chipset-ryzen-9-9950x-surpasses-rival-7950x-by-a-whopping-24-in-latest-rendering-tests/"><u>AMD Unveils Top-Performing Zen 5 Chipset: Ryzen 9 9950X Surpasses Rival 7950X by a Whopping 24%% in Latest Rendering Tests</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-review-of-pinnacle-studio-benefits-drawbacks-and-best-alternatives-explored/"><u>Comprehensive Review of Pinnacle Studio: Benefits, Drawbacks & Best Alternatives Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/der8auer-confesses-error-in-selling-below-par-thermal-grizzly-heat-spreaders-and-direct-die-coolers/"><u>Der8auer Confesses Error in Selling Below-Par Thermal Grizzly Heat Spreaders & Direct Die Coolers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-gift-box-gratification-new-approaches-to-unveiling/"><u>Enhancing Gift Box Gratification  New Approaches to Unveiling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-techniques-for-effective-orca-slicer-usage/"><u>Essential Techniques for Effective ORCA-Slicer Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-hardware-insights/"><u>Exploring Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-creations-elite-resin-3d-printers-to-watch/"><u>Futureproof Your Creations: Elite Resin 3D Printers to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-choose-the-most-compact-usb-c-chargers-benefits-of-gan-tech-inside/"><u>How to Choose the Most Compact USB-C Chargers: Benefits of GaN Tech Inside</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-fastest-in-town-speedy-bed-slinger-by-bambu-lab-set-to-debut-december-14th/"><u>Introducing the Fastest in Town: Speedy 'Bed Slinger' By Bambu Lab Set to Debut December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-pick-portable-usb-30-ssdhard-drive-adapters/"><u>Leading Pick: Portable USB 3.0 SSD/Hard Drive Adapters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-rapid-prototyping-modified-3d-printer-smashes-record-by-producing-speed-benchy-within-120-seconds/"><u>Revolutionizing Rapid Prototyping: Modified 3D Printer Smashes Record by Producing 'Speed Benchy' Within 120 Seconds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-intel-kingpin-core-i7-14700k-shines-with-a-7-single-core-supremacy-over-competitor-core-ultra-7-arrow-lake-chip-dominates-benchmarks/"><u>The New Intel Kingpin: Core I7-14700K Shines with a 7%% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-truth-behind-cryofuze-5s-ai-thermal-paste-unraveling-a-translation-mishap-by-cooler-master/"><u>The Truth Behind CryoFuze 5'S 'AI Thermal Paste': Unraveling a Translation Mishap by Cooler Master</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-managing-anxiety-through-conversations-with-chatgpt/"><u>The Ultimate Guide to Managing Anxiety Through Conversations With ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub - Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-laptops-for-serious-gamers-under-1500-options/"><u>Top 5 Budget-Friendly Laptops for Serious Gamers: Under $1,500 Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-score-review-on-amplifi-hd-wi-fi-extender-kit-bid-farewell-to-connectivity-dead-zones/"><u>Top Score Review on Amplifi HD Wi-Fi Extender Kit: Bid Farewell to Connectivity Dead Zones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-youtube-titles-crafted-by-ai/"><u>Top YouTube Titles Crafted by AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-best-storage-device-cases-ssds-and-hds-included/"><u>Ultimate Guide: Best Storage Device Cases - SSDs and HDs Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262419149-unleash-tech-potential-learn-and-compare-equipment-on-toms-hardware/"><u>Unleash Tech Potential - Learn and Compare Equipment on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-thermalright-phantom-spirit-120-evo-a-comprehensive-overview/"><u>Unleashing the Power of Thermalright Phantom Spirit 120 EVO: A Comprehensive Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unravel-the-secrets-of-modern-gadgets-toms-tech-corner-toms-hardware/"><u>Unravel the Secrets of Modern Gadgets: Tom's Tech Corner 🔍 | Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/warframe-devs-find-overwhelming-crash-rate-on-intels-latest-i9-and-k-series-processors-in-depth-study/"><u>Warframe Devs Find Overwhelming Crash Rate on Intel's Latest I9 and K-Series Processors - In-Depth Study</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-professional-hardware-reviews-toms-gadgets-insights/"><u>Your Trusted Source for Professional Hardware Reviews: Tom's Gadgets Insights</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Inside Computex 2024'S Early Leaks: Asus ROG Ally & Snapdragon X Laptops Announced, No Mention of Upcoming GPU Innovations"
-date: 2024-08-16 12:11:13
-updated: 2024-08-17 11:50:42
+date: 2024-08-19T02:49:42.473Z
+updated: 2024-08-20T02:49:42.473Z
 tags:
   - laptop
 categories:
@@ -59,6 +59,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,6 +74,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -100,6 +106,9 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -110,12 +119,32 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -159,6 +188,13 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +226,51 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/thrifty-beginner-4k-resin-3d-printer-black-friday-blowout-save-up-to-44-on-the-ultimate-entry-level-tech-marvel/"><u>'Thrifty Beginner 4K Resin' 3D Printer - Black Friday Blowout: Save Up to 44%% on the Ultimate Entry-Level Tech Marvel</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>[New] 2024 Approved  Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchat-adjust-your-voice-fast-and-simple/"><u>[New] 2024 Approved  Mastering Snapchat  Adjust Your Voice Fast and Simple</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-audiovisual-excellence-youtube-videos-in-premiere-pro-for-2024/"><u>[New] Audiovisual Excellence  YouTube Videos in Premiere Pro for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-of-efficient-virtual-seminar-capture/"><u>[New] Secrets of Efficient Virtual Seminar Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[Updated] How To Acquire Standardized Thumbnails From Youtube  Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-curating-soundscapes-a-detailed-look-at-youtube-playlists/"><u>[Updated] In 2024, Curating Soundscapes  A Detailed Look at YouTube Playlists</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-flip-the-script-how-to-turn-your-instagram-visuals-into-viral-stars/"><u>2024 Approved  Flip the Script  How to Turn Your Instagram Visuals Into Viral Stars</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-view-count-for-facebook-videos/"><u>2024 Approved  Maximizing View Count for Facebook Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-datas-computex-showcase-hybrid-airwater-cooling-tower-innovation-imminent-psu-updates-and-the-advent-of-pcie-gen-disbanded5-ssd-technology/"><u>A Data's Computex Showcase: Hybrid Air/Water Cooling Tower Innovation, Imminent PSU Updates, and the Advent of PCIe Gen 지저분(Disbanded)5 SSD Technology</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/advanced-aerial-imaging-unleashed-a-deep-dive-into-dji-mavic-3-specs-and-performance/"><u>Advanced Aerial Imaging Unleashed: A Deep Dive Into DJI Mavic 3 Specs and Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-unveils-top-performing-zen-5-chipset-ryzen-9-9950x-surpasses-rival-7950x-by-a-whopping-24-in-latest-rendering-tests/"><u>AMD Unveils Top-Performing Zen 5 Chipset: Ryzen 9 9950X Surpasses Rival 7950X by a Whopping 24%% in Latest Rendering Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aquatic-innovation-an-underwater-3d-printing-marvel-inside-an-aquarium-setting/"><u>Aquatic Innovation: An Underwater 3D Printing Marvel Inside an Aquarium Setting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-made-easy-discover-the-hyte-nexus-link-featuring-large-display-aio-and-snap-together-wireless-system/"><u>Building Made Easy: Discover the Hyte Nexus Link Featuring Large-Display AIO & Snap-Together Wireless System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-mysteries-tips-from-toms-desk/"><u>Decoding Hardware Mysteries: Tips From Tom's Desk</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-affordable-side-of-premium-pet-trackers/"><u>Discover the Affordable Side of Premium Pet Trackers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-accessories-every-raspberry-pi-user-needs/"><u>Essential Accessories Every Raspberry Pi User Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-techniques-for-effective-orca-slicer-usage/"><u>Essential Techniques for Effective ORCA-Slicer Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-qidi-tech-q1-pro-a-detailed-analysis/"><u>Experience Enhanced Productivity with QIDI Tech Q1 Pro - A Detailed Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-computer-and-component-analysis/"><u>Expert Advice From Tom's Computer & Component Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-on-the-most-reliable-ssds-available/"><u>Expert Recommendations on the Most Reliable SSDs Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-and-reviews-by-toms-computer-wisdom/"><u>Expert Tips and Reviews by Tom's Computer Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-hardware-insights/"><u>Exploring Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-cpu-to-gpu-discover-top-tier-components-through-toms-hardware-lens/"><u>From CPU to GPU - Discover Top-Tier Components Through Tom's Hardware Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-creations-elite-resin-3d-printers-to-watch/"><u>Futureproof Your Creations: Elite Resin 3D Printers to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-choose-the-most-compact-usb-c-chargers-benefits-of-gan-tech-inside/"><u>How to Choose the Most Compact USB-C Chargers: Benefits of GaN Tech Inside</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-assessing-daily-video-consumption-in-gb-units/"><u>In 2024, Assessing Daily Video Consumption in GB Units</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-premium-apps-for-capturing-crystal-clear-android-screenshots/"><u>In 2024, Premium Apps for Capturing Crystal Clear Android Screenshots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamlining-console-experience-through-computer-recording/"><u>In 2024, Streamlining Console Experience Through Computer Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-pick-portable-usb-30-ssdhard-drive-adapters/"><u>Leading Pick: Portable USB 3.0 SSD/Hard Drive Adapters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/levelplays-combat-air-ca4-cpu-cooler-unrivaled-performance-meets-near-silent-functionality/"><u>Levelplay's Combat Air CA4 CPU Cooler: Unrivaled Performance Meets Near-Silent Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-insights/"><u>Navigating the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/restricting-access-to-in-app-internet-via-facebook/"><u>Restricting Access to In-App Internet via Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-intel-kingpin-core-i7-14700k-shines-with-a-7-single-core-supremacy-over-competitor-core-ultra-7-arrow-lake-chip-dominates-benchmarks/"><u>The New Intel Kingpin: Core I7-14700K Shines with a 7%% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-truth-behind-cryofuze-5s-ai-thermal-paste-unraveling-a-translation-mishap-by-cooler-master/"><u>The Truth Behind CryoFuze 5'S 'AI Thermal Paste': Unraveling a Translation Mishap by Cooler Master</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-premium-4k-monitor-with-144hz-for-gamers/"><u>The Ultimate Guide to Choosing a Premium 4K Monitor with 144Hz for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unraveling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printer-filaments-of-2024/"><u>Top Recommended 3D Printer Filaments of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-score-review-on-amplifi-hd-wi-fi-extender-kit-bid-farewell-to-connectivity-dead-zones/"><u>Top Score Review on Amplifi HD Wi-Fi Extender Kit: Bid Farewell to Connectivity Dead Zones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175716542-under-45-bucks-keep-your-pc-cool-with-the-deepcool-as500-plus-at-amazon/"><u>Under 45 Bucks? Keep Your PC Cool with the DeepCool AS500 Plus at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unravel-the-secrets-of-modern-gadgets-toms-tech-corner-toms-hardware/"><u>Unravel the Secrets of Modern Gadgets: Tom's Tech Corner 🔍 | Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-innovative-zen/"><u>Unveiling AMD's Innovative Zen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-hardware/"><u>Unveiling the Latest in Computing: Insights From Tom's Hardware</u></a></li>
+</ul></div>

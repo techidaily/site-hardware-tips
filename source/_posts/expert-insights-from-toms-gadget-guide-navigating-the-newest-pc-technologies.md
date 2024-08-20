@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights From Tom's Gadget Guide: Navigating the Newest PC Technologies"
-date: 2024-08-16 11:10:12
-updated: 2024-08-18 10:54:52
+date: 2024-08-19T02:30:47.356Z
+updated: 2024-08-20T02:30:47.356Z
 tags:
   - cases
 categories:
@@ -67,6 +67,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,10 +82,22 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -97,6 +112,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -113,6 +131,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -121,6 +142,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -143,3 +167,67 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high/"><u>[Updated] 2024 Approved  Break Through the Crowd  Key YouTube SEO Strategies to Rank High</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exploring-alternatives-to-game-bar-for-video-recording/"><u>[Updated] 2024 Approved  Exploring Alternatives to Game Bar for Video Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-techniques-for-precise-iptv-screen-imaging/"><u>[Updated] 2024 Approved  Ultimate Techniques for Precise IPTV Screen Imaging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] Smooth Path  From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transitioning-vids-from-twitter-to-fb-engagement-zone/"><u>2024 Approved  Transitioning Vids From Twitter to FB Engagement Zone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>2024 Approved  Unmatched Mounting  Best Tripod Solutions for Smartphones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y56-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y56 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adata-launches-advanced-airwater-combo-for-superior-heat-dissipation-at-computex-teasing-new-psu-lines-and-speedy-pcie-50-ssds/"><u>Adata Launches Advanced Air/Water Combo for Superior Heat Dissipation at Computex, Teasing New PSU Lines & Speedy PCIe 5.0 SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chinas-telecom-industry-favors-home-grown-chip-technology-as-hundreds-of-thousands-of-servers-make-the-switch/"><u>China's Telecom Industry Favors Home-Grown Chip Technology as Hundreds of Thousands of Servers Make the Switch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-control-how-to-use-your-android-phone-as-a-remote-for-firestick/"><u>Connect and Control: How To Use Your Android Phone as a Remote For Firestick</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cpu-face-off-determining-the-superiority-between-amd-and-intel-chips/"><u>CPU Face-Off: Determining the Superiority Between AMD and Intel Chips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-compelling-visual-narratives-with-fb-slideshow-techniques-for-2024/"><u>Crafting Compelling Visual Narratives with FB SlideShow Techniques for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-pro-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-drivers-update-on-xp-through-methodical-steps/"><u>Efficient Drivers Update on XP Through Methodical Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-quality-3d-printer-filaments-for-enhanced-printing/"><u>Expert Picks: Top Quality 3D Printer Filaments for Enhanced Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-top-5-high-performance-external-ssds-to-buy/"><u>Expert Review: Top 5 High-Performance External SSDs to Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-chosen-list-of-best-industrial-lasers-and-engravers-2n4-edition/"><u>Expertly Chosen List of Best Industrial Lasers & Engravers – 2N4 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gear-with-toms-tech-expertise/"><u>Exploring Computer Gear with Tom's Tech Expertise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-next-generation-of-ai-introducing-googles-palm-2-large-language-architecture/"><u>Exploring the Next Generation of AI: Introducing Google's PALM 2 Large Language Architecture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gadgets-and-pc-hardware-insights/"><u>Exploring Tom's Gadgets and PC Hardware Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-motorola-moto-g04-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto G04 Phone Screen?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-choose-the-perfect-microsd-card-for-your-raspberry-pi-2024-buyers-guide/"><u>How to Choose the Perfect MicroSD Card for Your Raspberry Pi: 2024 Buyer’s Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-complete-guide-to-downloading-and-backup-of-instagram-vids-on-pcmacos/"><u>In 2024, A Complete Guide to Downloading & Backup of Instagram Vids on PC/macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-secrecy-in-images-with-photoshop/"><u>In 2024, Crafting Secrecy in Images with Photoshop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-dive-into-your-digital-collection-find-fb-watched-content-now/"><u>In 2024, Dive Into Your Digital Collection  Find FB Watched Content Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-preserving-the-pulse-of-internet-radio-waves/"><u>In 2024, Preserving the Pulse of Internet Radio Waves</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-digital-world-with-toms-hardware-wisdom/"><u>Inside the Digital World with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-newest-processors-face-return-surge-quadruple-over-last-generation-insights-from-retail-data/"><u>Intel's Newest Processors Face Return Surge, Quadruple Over Last Generation: Insights From Retail Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pc-components-with-toms-advice/"><u>Mastering Gadgets and PC Components with Tom's Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-computer-gear-with-toms-hardware-wisdom/"><u>Navigate Through Computer Gear with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-insider-tips-and-reviews-from-toms-hardware/"><u>Navigating Tech Trends: Insider Tips and Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-hardware-landscape-with-tom-in-depth-comparisons-and-tips/"><u>Navigating the Hardware Landscape with Tom - In-Depth Comparisons & Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-compact-display-tech-the-top-portable-monitors-for-gaming-and-laptop-tasks/"><u>Navigating the World of Compact Display Tech: The Top Portable Monitors for Gaming & Laptop Tasks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computers-with-toms-tech-advisor/"><u>Navigating the World of High-Performance Computers with Tom's Tech Advisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-parts-with-toms-hardware-experts/"><u>Navigating the World of PC Parts with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-and-silicon-with-toms-hardware-experts/"><u>Navigating Through Circuitry and Silicon with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262307736-no-turning-back-intels-non-k-processor-crash-woes-extend-to-65w-and-up-recall-missing/"><u>No Turning Back: Intel’s Non-K Processor Crash Woes Extend to 65W and Up, Recall Missing!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/photoshop-stabilization-technique-utility-perspective/"><u>Photoshop Stabilization Technique  Utility Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/prevent-these-8-key-mishaps-on-your-youtube-journey-for-2024/"><u>Prevent These 8 Key Mishaps on Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/pros-and-cons-reviewing-nikon-d7500/"><u>Pros & Cons  Reviewing Nikon D7500</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-corsair-air-a11e-pc-fanless-cooler-robust-whisper-quiet-and-premium-priced/"><u>Reviewing the Corsair Air A11e PC Fanless Cooler: Robust, Whisper Quiet and Premium Priced</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175702238-stay-cool-with-style-grab-your-essential-top-tier-arctic-aio-cooler-now-and-save-big-with-just-a-74-payment/"><u>Stay Cool with Style: Grab Your Essential, Top-Tier Arctic AIO Cooler Now and Save Big with Just a $74 Payment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-end-of-an-era-amd-ceases-support-for-3dnow-technology-with-new-llvm-compiler-update/"><u>The End of an Era: AMD Ceases Support for 3DNow! Technology with New LLVM Compiler Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-unmatched-reviews-and-advice/"><u>Tom's Tech Gear: Unmatched Reviews & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-gadget-guidance/"><u>Tom's Tech Insights: Advanced Gadget Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-into-the-latest-hardware/"><u>Tom's Tech Review: Expert Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oneplus-nord-ce-3-lite-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace OnePlus Nord CE 3 Lite 5G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-conscious-3d-printer-picks-featuring-sla-fdm-and-sub-250-models/"><u>Top Budget-Conscious 3D Printer Picks : Featuring SLA, FDM & Sub-$250 Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-ideas-into-physical-form-with-this-guide-to-3d-printed-qr-encoding/"><u>Transform Your Ideas Into Physical Form with This Guide to 3D Printed QR Encoding</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-tech-indulge-in-the-sweet-scents-of-advanced-cooling-paste-technology/"><u>Transform Your Tech: Indulge in the Sweet Scents of Advanced Cooling Paste Technology!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262306642-two-p-core-powerhouse-emerges-with-intels-dual-core-cpu-310-see-why-its-not-dead-yet/"><u>Two P-Core Powerhouse Emerges with Intel's Dual-Core CPU 310 - See Why It's Not Dead Yet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175693224-unlock-enhanced-system-efficiency-the-innovative-grizzly-heatspreader-lowers-cpu-temp-by-15-degrees/"><u>Unlock Enhanced System Efficiency - The Innovative Grizzly Heatspreader Lowers CPU Temp by 15 Degrees</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-latest-in-tech-insights-from-toms-gear-analysis/"><u>Unraveling the Latest in Tech: Insights From Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-equipment-insights/"><u>Unveiling the Latest Gadgets with Tom's Equipment Insights</u></a></li>
+</ul></div>

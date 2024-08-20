@@ -1,7 +1,7 @@
 ---
 title: Top Discounted SSDs & HDDs of 2024 - Best Offers!
-date: 2024-08-16 16:26:48
-updated: 2024-08-17 10:17:53
+date: 2024-08-19T02:34:17.823Z
+updated: 2024-08-20T02:34:17.823Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,9 @@ Best SSD and Hard Drive Deals
 * **PCIe 3, 4 or 5:** If you're buying an NVMe SSD, you can choose among PCIe 3, 4 or 5 interfaces with speeds increasing from a maximum of around 3,500 MBps sequential reads and writes to 8,000 MBps and 14,000 MBps. At this point, PCIe 4 drives are mainstream and offer the best value. PCIe 5 drives are extraordinarily expensive, require a newer-gen platform that supports them, and also generate a fair amount of heat. We're seeing the best SSD deals on PCIe 4 drives which is the best standard for most people.
 * **Capacity:** 2TB seems to be the sweet spot for price and performance, with decent 2TB, PCIe 4 NVMe drives going for around $80 or less and high-performance ones in the sub $130 range. If you can splurge, go for a 4TB drive, which could cost anywhere from $150 for a low-end drive, up to $250 for a high-end one. If you really need to save money, a decent 1TB drive can cost $50 or less. However, the top SSD deals this year are definitely on 2 and 4TB capacities.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Best SSD Deals
 
 [Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy](https://cdn.mos.cms.futurecdn.net/yWYHwGzYhVYxLM38ZxYDwk-200-100.jpg "Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FskuId%3D6523595%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1244705598733577618%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fsamsung-990-pro-2tb-internal-ssd-pcle-gen-4x4-nvme%252F6523595.p%253FskuId%253D6523595%26article%255Fname%3DBest%2520SSD%2520and%2520Hard%2520Drive%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Ffeatures%252Fbest-deals-on-ssds)
@@ -230,6 +233,9 @@ Best SSD and Hard Drive Deals
 
 * [Back to top ^](https://tools.techidaily.com)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best External SSD / HDD / NAS Deals
 
 [Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon](https://cdn.mos.cms.futurecdn.net/R763rGe5wzXgjQeGDhHEzW-200-100.jpg "Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FWestern-Digital-Internal-Hard-Drive%2Fdp%2FB0D1V2K4LJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7312074856993712567-20)
@@ -287,6 +293,9 @@ Best SSD and Hard Drive Deals
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSAMSUNG-Portable-SSD-1TB-MU-PC1T0T%2Fdp%2FB0874XN4D8%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5810562302926172923-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## More Tech Deals
 
 * [Best deals on tech & PC Hardware](https://tools.techidaily.com)
@@ -312,3 +321,55 @@ Best SSD and Hard Drive Deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-mobile-writing-tools-for-iosandroid-images/"><u>[New] 10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-dos-and-donts-the-ultimate-fb-cover-video-tutorial/"><u>[New] 2024 Approved  Dos & Don'ts  The Ultimate FB Cover Video Tutorial</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-advice-for-saving-and-archiving-periscope-footage-for-2024/"><u>[New] Expert Advice for Saving and Archiving Periscope Footage for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>[New] Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-bridging-platforms-from-tiktok-to-your-facebook-friends/"><u>[Updated] Bridging Platforms  From TikTok to Your Facebook Friends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dynamic-subscriber-buttons-for-video-creators-filmora-edition-for-2024/"><u>[Updated] Dynamic Subscriber Buttons for Video Creators - Filmora Edition for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-basics-of-capturing-switch-gaming-moments/"><u>[Updated] In 2024, The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-increasing-engagement-on-instagram-videos/"><u>[Updated] Increasing Engagement on Instagram Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-a-deeper-dive-into-vsdc-plus-its-top-alternatives/"><u>2024 Approved  A Deeper Dive Into VSDC, Plus Its Top Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-aerial-artistry-in-motion-examining-gopro-karma-performance/"><u>2024 Approved  Aerial Artistry in Motion  Examining GoPro Karma Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-app-analysis-vll-perspective/"><u>2024 Approved  App Analysis  VLL Perspective</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>2024 Approved  LG's UltraFine 4K Display Unpacked  A Detailed Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-the-motorola-edgeplus-bridging-mid-range-and-high-end-but-missing-key-marks/"><u>A Closer Look at the Motorola Edge+ - Bridging Mid-Range and High-End but Missing Key Marks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-trustworthy-advice-from-toms-hardware/"><u>Advanced Tech Insights: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-win-errors-post-bsod-on-modern-oses/"><u>Deciphering Win Errors Post-BSOD on Modern OSes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-computer-specs-with-toms-hardware-experts/"><u>Decoding Computer Specs with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-toms-hardware-rundown/"><u>Decoding Tech Specs: Tom's Hardware Rundown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-innovative-computer-components-with-toms-tech-reviews/"><u>Discover Innovative Computer Components with Tom's Tech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-from-toms-comprehensive-tests/"><u>Discover Top Hardware Picks From Tom's Comprehensive Tests</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discovering-the-best-vr-camera-for-adventures/"><u>Discovering the Best VR Camera for Adventures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-cools-up-to-280w-processors-the-xpg-hybrid-dual-fan-cooler-with-pump-loop-and-radiator/"><u>Efficiently Cools Up To 280W Processors: The XPG Hybrid Dual-Fan Cooler with Pump, Loop & Radiator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-upgrades-for-raspberry-pi-enthusiasts-in-2aboardstrips-2024/"><u>Essential Upgrades for Raspberry Pi Enthusiasts in 2Aboardstrips, 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pc-equipment-at-tomtechinsight/"><u>Expert Analysis on PC Equipment at TomTechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-by-toms-team-your-trusted-source/"><u>Expert Hardware Analysis by Tom's Team - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-newest-tech-wonders-from-toms-hardware-universe/"><u>Expert Insights on Newest Tech Wonders From Tom's Hardware Universe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-high-performance-gear-reviews-and-advice-by-toms-hardware-professionals/"><u>Explore High-Performance Gear: Reviews and Advice by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-devices-with-toms-hardware-experts/"><u>Exploring Cutting-Edge Devices with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-your-go-to-hardware-hub/"><u>Exploring Gadgets with Tom: Your Go-To Hardware Hub</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-yuva-3-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Yuva 3 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-5-premium-ps1-game-simulators-for-pc-gamers/"><u>In 2024, 5 Premium PS1 Game Simulators for PC Gamers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-6s-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 6s Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-electronics-a-guide-by-toms-hardware-experts/"><u>Mastering Modern Electronics: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-detailed-tutorials-and-reviews-from-toms-hardware-specialists/"><u>Mastering Tech: Detailed Tutorials and Reviews From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-insights/"><u>Mastering Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-chrome-multitasking-via-picture-in-picture-mode-for-2024/"><u>Maximizing Chrome Multitasking via Picture in Picture Mode for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-value-packed-budget-4k-displays-reviews-and-comparisons/"><u>Most Value-Packed Budget 4K Displays - Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-tom-comprehensive-insights-on-cutting-edge-hardware/"><u>Navigating Tech with Tom: Comprehensive Insights on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-hardware-with-toms-expertise/"><u>Navigating the World of PC Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insight-and-analysis-by-team-tom/"><u>Pioneering Hardware Insight and Analysis by Team Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-strategy-implements-3d-printing-to-construct-scalable-silicon-integrated-circuits/"><u>Pioneering Strategy Implements 3D Printing to Construct Scalable Silicon Integrated Circuits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-insights-by-tomtech-reviews/"><u>Precision Performance Insights by TomTech Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-overcoming-black-screen-glitches-in-rainbow-six-siege-pc-edition/"><u>Step-by-Step Tutorial: Overcoming Black Screen Glitches in Rainbow Six Siege PC Edition</u></a></li>
+</ul></div>

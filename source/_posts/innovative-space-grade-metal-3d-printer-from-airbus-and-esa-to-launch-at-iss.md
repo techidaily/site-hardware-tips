@@ -1,0 +1,334 @@
+---
+title: Innovative Space-Grade Metal 3D Printer From Airbus & ESA to Launch at ISS
+date: 2024-08-19T04:00:05.147Z
+updated: 2024-08-20T04:00:05.147Z
+tags:
+  - printer
+categories:
+  - hardware
+thumbnail: https://cdn.mos.cms.futurecdn.net/T3mz5UNa74TyvFYpYb9pLN-320-80.jpg
+---
+
+## The Ultimate Guide to the Original Prusa XL's Impressive Size and Concurrent Toolhead Operations
+
+The wait for a bigger 3D printer from Prusa Research has ended, and they certainly over-delivered. Instead of simply upsizing their classic i3 design, Prusa chose to create a completely new Core XY toolchanger with a 360 x 360 mm build plate. The machine can be ordered with one, two or five toolheads.
+
+ The[Original Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/?gad%5Fsource=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdjI8pzVdQ9k74OhXWojuGIiL8%5F9No8sLMeDkst%5FAwBEw8-U0qc4yoBoCTwEQAvD%5FBwE) is a true “multi-material” 3D printer that can handle up to five different spools. Because each spool of filament has its own dedicated extruder and hotend, users can mix and match filament types as well as colors. Though this sounds exciting, getting radically different filaments to work together is a bit of a challenge. During our testing, we were able to get PLA, PETG and TPU to combine on one print, but it was tricky. A typical use case is using PLA with PETG supports, as the two materials refuse to stick to each other, resulting in exceptionally clean support removal.
+
+ Though most people think a Core XY machine, running Klipper inspired firmware, would be a speed demon, this isn’t the case for Prusa. They have put the emphasis on quality over speed, insisting that 3D printed parts are not well crafted when printed at high speed. You will not find the XL acceleration limits or top speeds listed anywhere on the Prusa website.
+
+ It’s easy to assume the XL is Joseph Prusa’s answer to[Bambu Lab’s multicolor X1 Carbon](https://www.tomshardware.com/3d-printing/bambu-lab-x1-carbon-3d-printer-review) , but it’s not. The Original Prusa XL (that is its full name, by the way) was[announced at Formnext 2021](https://youtu.be/NhdBLtDVnNc?si=uRdz0Vw1n8qvDXYn) , at least seven months before Bambu Lab’s first Kickstarter campaign. Production was delayed largely due to supply chain issues, and one can assume, constant tinkering with the design.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ In fact, Prusa’s constant tinkering is a positive selling point for buyers, as one can expect years of support and upgrades for any Prusa machine. It was only recently announced that the 6-year-old MK3 would enter retirement.
+
+ The only downside to the Prusa XL is the price, which is a hefty $3,999 when fully loaded with 5 tools heads and shipped assembled. It is difficult for a European company to produce an inexpensive machine, but this is quite the ask. However, Prusa Research insists their target audience is not the hobbyist who fell in love with the MK3, but professionals and high level enthusiasts. Those who just want the extra build volume can buy an XL with a single toolhead for $1999 semi-assembled. Toolheads can also be purchased separately as upgrades.
+
+ The XL also solves one of multicolor printings’ most annoying problem: wasted filament and AMS jams. There is very little waste when each spool has its own dedicated toolhead, and the filament path is as simple as a single color XL. Not having to pull the filament in and out of a single hotend is also quicker – we saved about six hours of print time on a four color print, despite the XL using a slower print speed and acceleration.
+
+ I should note that many early adopters have complained about quality issues, and you may see some troubling videos on YouTube from content creators who received early units. It appears the first batch of XLs shipped with .6 mm nozzles and were poorly tuned. Our test machine came from a later batch with better firmware, better input shaping and .4mm nozzles. I firmly believe that if you order an XL today, you will receive the top quality you expect to get from a Prusa. Sometimes, it’s good to wait.
+
+ The Prusa Original XL is a feat of engineering and one of the[best 3D printers](https://www.tomshardware.com/best-picks/best-3d-printers) we’ve ever tested.
+
+## Specifications: Original Prusa XL
+
+ Swipe to scroll horizontally
+
+| **Build Volume**           | 360 x 360 x 360mm (14.17 x 14.17 x 14.17 in)  |
+| -------------------------- | --------------------------------------------- |
+| **Material**               | PLA/PETG/TPU (up to 290 degrees)              |
+| **Extruder Type**          | Direct drive                                  |
+| **Nozzle**                 | .4mm (Nextruder)                              |
+| **Build Platform**         | PEI spring steel flex plate                   |
+| **Bed Leveling**           | Automatic                                     |
+| **Filament Runout Sensor** | Yes                                           |
+| **Connectivity**           | USB drive, LAN, Wi-Fi                         |
+| **Interface**              | 3.5 inch Color LCD screen with knob           |
+| **Machine Footprint**      | 800 × 800 × 900 mm (31.49 × 31.49 × 35.43 in) |
+| **Machine Weight**         | 25.3 KG (55.7 lbs)                            |
+
+[Check Amazon](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DOriginal+Prusa+XL+Semi-assembled+3D+Printer%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8643558751466367099-20)
+
+[Available at Prusa Store for $1,999](https://www.prusa3d.com/product/original-prusa-xl-2)
+
+## Original Prusa XL: Included in the Box
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/u3GWhTYMzUfQNN4dJCARdT-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ The Original Prusa XL we reviewed came semi-assembled, but still needed the toolheads installed. It comes with the full tool kit you would get with the build-it-yourself version, plus a handbook, paper catalog of filaments, stickers and a giant bag of Haribo Gummy Bears.
+
+ You’ll also get a full spool of Galaxy Black Prusament PLA, a USB Stick, containing several models. PrusaSlicer is available for free download from the website.
+
+ We also received a few bonus items for the review: an adapter to use traditional nozzles, extra build plates, and several rolls of filament.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## Design of the Original Prusa XL
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6hj6fUJjafrEzDmqAJN5TS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+ The Original Prusa XL is a new machine that doesn’t stray far from the Prusa design and color branding. Its boxy frame is black with orange accents, and logos are printed on both the toolhead and back cover. It’s a beefy boi with Bowden tubes that arch over the top and spool holders that mount on both sides. The frame is C shaped, keeping the front open and easily accessible to reach in and grab your prints, or just to set up a camera for timelapses. LED lights tucked under the top frame provide enough light for observation and most camera needs.
+
+ The machine is a mix of steel, aluminum and PETG printed parts, with an emphasis on strength and quality construction. It has lineal rails for smooth motion, but only two Z axis.
+
+ The main feature is the tool changer, which gives the XL the ability to swap between materials without wasting time or filament, eliminating the need to wind material back onto the spool between color swaps. Each spool gets its own filament path from spool holder to nozzle. You can order the XL with one, two or five toolheads.
+
+ The toolheads are sold as upgrades if you need to spread the cost out over time. One toolhead makes the XL an oversized MK4 capable of printing helmets and other large pieces. Using two toolheads creates a dual color beast with better precision than any IDEX I’ve tested. The full five toolheads beats out anything from Bambu Labs in both size and number of available spool slots.
+
+ In many ways, the XL is simply a MK4 on steroids. If you’ve used a Prusa in the past, moving up to the XL will be easy. Not only does it use the same slicer, it's the originator of the Nextruder and the new graphic display screen. It also paved the way for the MK4’s load cell technology, which gives both machines the ability to set it’s own Z height for perfect first layers.
+
+ The XL uses the same nozzle as the MK4 that includes the heat break and an all metal filament guide in one sealed unit. You can also purchase an adaptor that fits standard V6 style nozzles. On our test machine, we fitted the first two print heads with CHT nozzles to see if we could improve the flow at high speed.
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/Jk54hBy8BfFZRLYZAdjBhU-320-80.jpg)
+
+ (Image credit: Prusa3d.com)
+
+ The print bed is heated with 16 independently controlled tiles, with a dedicated electronics board, aimed to provide consistent heat across the entire build plate.
+
+ The XL’s firmware is based on Marlin, yet heavily influenced by Klipper. It comes with Input Shaping to help tune the printer for higher speed printing. Each toolhead has its own accelerometer, but at the moment, the machines are locked into factory tuning.
+
+ The XL has built in WiFi, another new feature we love seeing on printers. This allows you to securely access your machine from a local area network or through Prusa Research’s cloud based Prusa Connect.
+
+## Assembling the Original Prusa XL
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/6oi6svYawnAUqBAQzbAw2S-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ The Prusa XL we reviewed came semi assembled and “only” needed the toolheads mounted. This is still quite a process, and installing five toolheads and calibrating each of them took several hours. As with the MK4, the printer itself will guide you through the calibration process.
+
+ Every Prusa XL is given a thorough inspection before shipping. A checklist showing the parts inspected is included in the box. You’ll also find a sample print stuck to the bed from its factory test.
+
+ Note: if you purchased the DIY kit version of the XL you’ll need to set aside a weekend to assemble and calibrate it, but you will save $500.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+## Calibrating the Original Prusa XL
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SSpJM3ayMuiPMPoLkAYK9U-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ Bed leveling is a no-brainer as the XL Is fully automatic. There are no manual adjustments and no need for adjusting the Z offset. The printer uses a load cell sensor connected to the nozzle, which physically taps the print surface for precise measurement.
+
+ The printer trams the bed and calculates the required z height before each print.
+
+ You should run the included calibration print to make sure the print heads are in sync with each other. You can make minute adjustments to each print head, but I found that my initial calibrations were off because the nozzles had tiny bits of filament on them, leftover from the factory test. Once the nozzles were scrubbed clean, the printer was able to achieve perfect calibration.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Loading Filament on the Original Prusa XL
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/DvYcZbzQoaT2pwSMG62ixT-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ Loading filament is a little more complex than on the single color Prusa MK4\. Each toolhead has its own spool holder (three on one side, two on the other) and a good 4 feet of Bowden tube. The printer is direct drive, meaning you need to hand feed the filament through a lot of tubing before the extruder gears can take over.
+
+ The nice part of having five toolheads is you can keep several spools at the ready.
+
+ TPU is slightly more annoying to load, as it is too soft to enter the extruder on its own. You need to pop the Bowden tube off the extruder and shove it in the last few centimeters until the gears grab it. It didn’t like all the brands of TPU I fed it, but it did fine with Prusa’s recommended[Fiberlogy Fiberflex](https://www.prusa3d.com/en/product/fiberlogy-fiberflex-40d-black-filament-850g/) and[Matterhackers Build Series TPU](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Fcoinrule.sjv.io%2Frqzonv) . Whether this was due to luck or dryness, I’m not sure.
+
+ As with the MK4, once the printer senses your new filament, it will ask what kind of material you’re using and let you select the temperature. Once it gets hot enough, it will pull the filament into the hotend and ask if the color has changed. If it has, you can say yes and move on. If the answer is no, it will purge more material.
+
+ To remove material, go to the Filament menu from the main screen and click unload. It will remember what material was last installed, determine if the filament is still there, and then heat to the appropriate temperature. Once hot, it will retract the plastic until you can easily remove it.
+
+## Preparing Files / Software for Original Prusa XL
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/P52DrZpk9Ahw76CiUPJj9T-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+ The Original Prusa XL currently works best with its own slicer, PrusaSlicer. It uses the same color painting method developed for Prusa’s MMU system, which also forms the basis for Bambu Studio. The slicer is free to download and can be used with most other brands of 3D printers.
+
+ To use the XL’s WiFi you have to use a separate program, either Prusa Link or Prusa Connect. Prusa Link is a bare bones portal that connects to your printer over LAN or WiFi. You access it by typing in the printers’ network address. Prusa Link only allows you to upload files, start and stop a print, see the thumbnail and a few stats about your machine. However, once Prusa Link is established, you can connect your printer directly from Prusa Slicer and send a file to the printer without needed to open any other programs.
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/BTWJwfhHRAoUkaGd9Vu9qR-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+ Prusa Connect is a more feature rich cloud based program, and can be used to control a single printer or a fleet of Prusa machines. It is not configured to work for 3rd party printers.
+
+ Prusa Connect gives you full remote access to your printer, rather like Klipper’s Mainsail. The program lets you see stats, the machine’s history of prints and stores up to 2 GB of files for free on the cloud. You can also access the machine’s USB storage and pull files from there, which is handy if you have a library of prints you repeat. You can also control the machine’s movements, temperatures, and change speed or flow during a print.
+
+ The webcam feature is intriguing, yet limited. It only takes still photos and doesn’t save them. If you want to take a time-lapse video, you’ll still need another method. It is really nice that you can use any webcam or old smart device with a camera. The camera is freestanding and needs its own power plug.
+
+ Prusa Research is committed to data[security](https://www.tomshardware.com/tag/security) and does not require your machine to be online in order to operate. File transfers and firmware updates can all be handled with a USB stick.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## Printing on the Original Prusa XL
+
+ The XL comes with a full roll of Prusament PLA Galaxy Black, but it has room for four more spools. You should really check out our guide to the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) for more suggestions.
+
+ I was really curious how the XL would do with a speed benchy, especially since Prusa has no information anywhere on this printer’s top speed or acceleration rate. The slicer only shows a top speed of 200mm/s for infill, and a max acceleration of 5000mm/s². Our Tom’s Hardware Speed Benchy adheres to the following rules: 2 walls, 3 top and bottom layers, 10 % grid infill, a .25 layer height and .5 layer width, plus speed settings of 200-300 on the walls and flat out on acceleration. Sadly, the Prusa XL won’t top our list of the[fastest 3D printers](https://www.tomshardware.com/news/3d-printer-speed-hierarchy) with its 25 minute and 14 second Benchy.
+
+ Below are the XL’s two Benchy prints, both printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2329135023257144284-20) , so none of the defects are hidden. On the right is a Speed Benchy using the printer’s supplied .4mm nozzle and pushed beyond its speed comfort zone. It’s lumpy and there’s a hole toward the front where the nozzle couldn’t keep up. The boat on the left was printed with the same filament and settings, but with a[Bondtech CHT high flow nozzle](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Felectronicx.pxf.io%2Fxkwqkk) on a Nextruder adaptor. Obviously, it didn’t print any faster, but it did print cleaner and smoother. If you’re interested in squeezing a little more speed from the XL, switching up to a high flow nozzle is a great idea.
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/V6mQWwSnSaRFuce8DjaykT-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+[_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
+
+ To test how efficient the XL is with multicolor printing, I printed a dragon using four colors:[eSun Silk Rainbow](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FeSUN-Filament-Multicolored-Gradient-Multicolor%2Fdp%2FB081Q78248%2Fref%3Dasc%5Fdf%5FB081Q78248%2F%3FlinkCode%3Ddf0%26hvadid%3D652400517330%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D573292372013942951%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-888225060708%26mcid%3D19a63deefbae3c1183ab527d1fb74239%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7689802732742375363-20) (main body), Printed Solid Silk Red (coming soon) for the hearts, and[Prusament](https://www.prusa3d.com/en/category/prusament/) in Galaxy Black and Pristine White on the eyes. The prime tower to the right is the only waste produced for this print, which took 13 hours and 51 minutes using default speeds of 170mm/s on the walls and a .2 mm layer height. (The same print took 8 hours longer on my faster Bambu Lab P1P and wasted 70 grams of filament.)
+
+ This print is beautiful, with clean color changes, no bleed through and no ringing.
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/SgjpBwU7BRRmJ9VbEnncXU-320-80.jpg)
+
+ (Image credit: Tom's Hardware)
+
+ Of course, I needed to see how the XL could work multiple materials together. The real problem is that most materials don’t want to stick together. They didn’t need to for this Prusa Research toolbox I found on Printables which uses PLA, PETG and TPU. The three materials are in four colors: black and orange Prusament PETG, white Prusament PLA, and red[Ninjatek Cheeta](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fstores%2Fpage%2F55A62856-F883-42CF-917A-74F1D4F21D17%3Fingress%3D2%26visitId%3Dd8c69182-0349-4ab2-ad9a-26926bc8537d%26ref%5F%3Dast%5Fbln%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3421307589983500022-20) for a gasket.
+
+ This print took 14 hours and 45 minutes total to complete, using default settings and a .2mm layer height. The white part of the lettering shows no sign of peeling off, and the TPU gasket is remaining firmly in place. The lettering – all done print in place – is meticulously clean.
+
+ Image 1 of 2
+
+![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Original Prusa XL](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+[_Prusa Research Toolbox_](https://www.printables.com/model/556185-prusa-box) _by Frikarte3D_
+
+ I wanted to try more TPU, so I printed a new phone case using PLA as a support material. This printed in one hour and 35 minutes using default settings and a .2 mm layer height. If you look closely, you can see how PrusaSlicer tries to “weave” the two materials together. This uses [Matterhackers Build Series TPU](https://shareasale.com/r.cfm?b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Fcoinrule.sjv.io%2Frqzonv) in blue and white Prusament.
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/kFFgowbmKCF7qBa3yB3XFS-320-80.jpg)
+
+[_Phone case_](https://www.printables.com/model/46536-iphone-12-pro-max-flexible-case) _by BluecornNM_  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## Bottom Line
+
+![Original Prusa XL](https://cdn.mos.cms.futurecdn.net/metJPCsBo3TqcVxRaxZJeS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+ Because of its tool changer, the Prusa Original XL is a dream come true for many 3D printing fans. It’s a large format, multicolor, multi-material machine that nibbles on plastic instead of wasting it by the bucket. The XL is easy to use, with truly hands free auto bed leveling and the ability to set its own Z height. Plus, it's backed by Joseph Prusa’s commitment to Open Source, quality service and data security.
+
+ It’s a premium printer with a premium price tag that puts it out of range of casual makers. Retailing at $1,999 for a single color kit, and $3,999 for a mostly assembled, five toolhead machine, the XL is a bit spendy. However, it’s the best multicolor 3D printer on the market for those who do not want to waste filament.
+
+ If you like the thought of multicolor, but want something less expensive, the $699 Core XY[Bambu Lab P1S](https://www.tomshardware.com/reviews/bambu-lab-p1s) does a remarkable job with speedy four color printing. If you're more into printing very large things, the[Elegoo Neptune Max 3](https://www.tomshardware.com/reviews/elegoo-neptune-3-max) is still our favorite massively huge 3D printer.
+
+**MORE:** [**Best 3D Printers**](https://www.tomshardware.com/best-picks/best-3d-printers)
+
+**MORE:** [**Best Budget 3D Printers**](https://www.tomshardware.com/best-picks/best-budget-3d-printers)
+
+**MORE:** [**Best Resin 3D Printers**](https://www.tomshardware.com/best-picks/best-resin-3d-printers)
+
+ Original Prusa XL Semi-assembled 3D Printer: Price Comparison
+
+[View Similar Amazon US](https://search-api.fie.futurecdn.net/img/misc/no-image-available.svg "View Similar Amazon US") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DOriginal+Prusa+XL+Semi-assembled+3D+Printer%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8643558751466367099-20)
+
+[Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DOriginal+Prusa+XL+Semi-assembled+3D+Printer%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8643558751466367099-20)
+
+[No price information](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DOriginal+Prusa+XL+Semi-assembled+3D+Printer%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8643558751466367099-20)
+
+[Check Amazon](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DOriginal+Prusa+XL+Semi-assembled+3D+Printer%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8643558751466367099-20)
+
+ We check over 250 million products every day for the best prices
+
+powered by
+
+![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>[New] Chorus Climaxes  Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-depth-guide-to-2023s-leading-web-capture-applications/"><u>[New] In-Depth Guide to 2023’S Leading Web Capture Applications</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>[New] The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-trending-topics-the-best-10-music-videos-on-fb-for-2024/"><u>[New] Trending Topics  The Best 10 Music Videos on FB for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlocking-the-full-potential-of-zoom-on-your-google-meet-calls-for-2024/"><u>[Updated] Unlocking the Full Potential of Zoom on Your Google Meet Calls for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-cropping-and-focus-mastery/"><u>2024 Approved  Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-the-world-of-phone-based-video-recording/"><u>2024 Approved  Navigating the World of Phone-Based Video Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/all-about-high-tech-equipment-reliable-reviews-and-essential-information-from-tomve-hardware-the-ultimate-resource-for-enthusiasts/"><u>All About High-Tech Equipment: Reliable Reviews and Essential Information From Tom've Hardware - The Ultimate Resource for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-announces-free-reparations-for-a1-model-3d-printer-urgent-halt-of-operations-advised/"><u>Bambu Lab Announces Free Reparations for A1 Model 3D Printer - Urgent Halt of Operations Advised</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/banishing-unwanted-shadows-from-your-3d-prints-effective-strategies-and-techniques/"><u>Banishing Unwanted Shadows From Your 3D Prints: Effective Strategies & Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-3d-printers-of-2-2024-premium-performance-at-wallet-friendly-prices/"><u>Best Value 3D Printers of 2지갈리 2024: Premium Performance at Wallet-Friendly Prices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-realms-with-toms-pc-specs-and-insights/"><u>Delving Into Digital Realms with Tom's PC Specs & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diagnosing-and-repairing-unresponsive-3d-printer-beds-expert-tips-for-restoring-heat-functionality/"><u>Diagnosing and Repairing Unresponsive 3D Printer Beds - Expert Tips for Restoring Heat Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-at-toms-tech-hub/"><u>Discover Cutting-Edge Hardware at Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-a-cool-experience-discover-the-revolutionary-sporty-active-chillers-by-frore-the-innovative-underwater-friendly-fanless-airjet-mini/"><u>Dive Into a Cool Experience - Discover the Revolutionary Sporty Active Chillers by Frore: The Innovative Underwater Friendly, Fanless AirJet Mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-the-sweet-smell-of-success-with-our-newly-formulated-thermal-gel/"><u>Embrace the Sweet Smell of Success with Our Newly Formulated Thermal Gel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhance-your-watch-experience-with-faster-instagram-videos/"><u>Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175690571-experience-the-power-of-hytes-nexus-link-the-ultimate-aio-cooler-with-a-large-display-and-magnetic-connections/"><u>Experience the Power of Hyte's Nexus Link: The Ultimate AIO Cooler with a Large Display and Magnetic Connections</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/fireshadow-video-recording-for-2024/"><u>Fireshadow Video Recording for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-90-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor 90 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-engaging-oratory-insights-part-8/"><u>In 2024, Engaging Oratory Insights Part 8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-immersive-gameplay-capture-roblox-and-macos-synergy/"><u>In 2024, Immersive Gameplay Capture  Roblox & macOS Synergy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-the-hardware-perspectives-of-toms-gurus/"><u>Mastering Tech Choices: The Hardware Perspectives of Tom's Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-electronics-with-toms-in-depth-analysis/"><u>Mastering Your Electronics with Tom's In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-gaming-with-optimal-arc-monitors/"><u>Navigate the Future of Gaming with Optimal Arc Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-electronics-like-a-pro-guided-by-toms-expertise-in-hardware/"><u>Navigate Through Electronics Like a Pro - Guided by Tom's Expertise in Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-guides/"><u>Navigating the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-analysis-by-tom-in-depth-guides-and-expert-opinions/"><u>Pioneering Hardware Analysis by Tom: In-Depth Guides & Expert Opinions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-audio-enhancer-on-android-for-2024/"><u>Premium Audio Enhancer on Android for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/resolving-elephants-foot-problem-a-step-by-step-guide-for-3d-printing/"><u>Resolving Elephant's Foot Problem: A Step-by-Step Guide for 3D Printing</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-noise-troubles-forza-horizon-4-sound-glitch-solved/"><u>Say Goodbye to Noise Troubles: Forza Horizon 4 Sound Glitch Solved</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sovol-sv08-reviewed-honoring-the-fastest-traits-of-the-classic-voron/"><u>Sovol SV08 Reviewed: Honoring the Fastest Traits of the Classic Voron</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-2024-handbook-must-have-raspberry-pi-peripherals-for-optimal-performance/"><u>The 2024 Handbook: Must-Have Raspberry Pi Peripherals for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-and-most-reliable-portable-ssds-of-2024-your-ultimate-comparison/"><u>The Best & Most Reliable Portable SSDs of 2024: Your Ultimate Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-choices-for-soldering-equipment-and-stations-top-picks-for-2n45/"><u>The Best Choices for Soldering Equipment & Stations - Top Picks for 2N45</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-resource-for-tech-enthusiasts-toms-hardware-deep-dives/"><u>The Essential Resource for Tech Enthusiasts: Tom's Hardware Deep Dives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-fleeting-feed-of-fb-shorts-for-2024/"><u>The Fleeting Feed of FB Shorts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-systems-a-comprehvew-from-economical-500-to-elite-models-4000plus/"><u>The Future of Gaming Systems - A Comprehvew From Economical ($500) to Elite Models ($4,000+)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-inside-scoop-on-cutting-edge-pc-components-by-tomngeartech/"><u>The Inside Scoop on Cutting-Edge PC Components by Tom'nGearTech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-custom-builds-by-tech-visionary-toms-hardware-insights/"><u>The Ultimate Guide to Custom Builds by Tech Visionary, Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-by-toms-expertise/"><u>The Ultimate Guide to Tech by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-computing-technology/"><u>Tom's Guide to Cutting-Edge Computing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-tech-and-top-pc-components-for-enthusiasts/"><u>Tom's Guide to Cutting-Edge Tech and Top PC Components for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-next-gen-computer-components-and-devices/"><u>Tom's Guide to Next-Gen Computer Components and Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-station-the-ultimate-guide-to-computing-equipment/"><u>Tom's Review Station: The Ultimate Guide to Computing Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-leading-the-way-in-computer-components/"><u>Tom's Tech Hub: Leading the Way in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews: In-Depth Analysis and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125132090-toms-tech-reviews-in-depth-analysis-and-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-on-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Insights on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125150499-unbeatable-deal-get-black-tpu-filament-at-a-record-low-of-16kg-perfect-for-your-3d-printer/"><u>Unbeatable Deal: Get Black TPU Filament at a Record Low of $16/Kg – Perfect for Your 3D Printer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveil-the-best-in-computing-and-tech-at-tomhardware-insider/"><u>Unveil the Best in Computing & Tech at TomHardware Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-gear-with-toms-hardware-guides/"><u>Unveiling the Latest in Computing Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-proplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 Pro+ on Windows?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-yearly-compilation-of-free-text-files/"><u>Your Yearly Compilation of FREE Text Files</u></a></li>
+</ul></div>

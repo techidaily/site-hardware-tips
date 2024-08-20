@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis by Tom's Gadget Guide: Unveiling the Latest in Hardware Technology"
-date: 2024-08-17 15:27:12
-updated: 2024-08-18 10:19:31
+date: 2024-08-19T02:32:23.558Z
+updated: 2024-08-20T02:32:23.558Z
 tags:
   - build
 categories:
@@ -31,12 +31,18 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -130,10 +136,17 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -146,8 +159,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -170,3 +189,51 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-privacy-preservation-through-invisible-modifications/"><u>[New] In 2024, Privacy Preservation Through Invisible Modifications</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-lenovo-perfecting-screen-capture-techniques-for-2024/"><u>[New] Mastering Lenovo  Perfecting Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-guide-to-perfect-gamer-channel-headers-for-2024/"><u>[New] Step-By-Step Guide to Perfect Gamer Channel Headers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-compre-written-by-daniel-kelley/"><u>[Updated] 2024 Approved  A Compre Written by Daniel Kelley</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-quick-access-to-fb-vids-as-mp4-files/"><u>[Updated] In 2024, Quick Access to FB Vids as MP4 Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-macs-prime-screen-seize-collection-max-156/"><u>[Updated] Mac's Prime Screen Seize Collection (Max 156)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125190032-actress-felicia-days-latest-project-in-thangs-community-dive-into-3d-printing-with-free-downloadable-model-treasures/"><u>Actress Felicia Day's Latest Project in Thangs Community - Dive Into 3D Printing with Free, Downloadable Model Treasures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-a14-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy A14 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/corsair-air-a115-evaluation-is-the-high-price-justified-by-its-quietness-and-durability/"><u>Corsair Air A115 Evaluation: Is the High Price Justified by Its Quietness and Durability?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-tech-mysteries-insightful-articles-from-toms-hardware-blog/"><u>Deciphering Tech Mysteries: Insightful Articles From Tom’s Hardware Blog</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-common-errors-with-corsairs-icue-software-in-modern-windows-environments/"><u>Diagnosing and Fixing Common Errors with Corsair's iCUE Software in Modern Windows Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-hardware-insights/"><u>Exploring Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-large-print-capabilities-of-elegoos-premium-3d-modeling-device/"><u>Exploring Large Print Capabilities of Elegoo's Premium 3D Modeling Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-usb-hub-premium-powered-selections-miniaturized-portability-and-superior-type-c-integration/"><u>Find Your Perfect USB Hub: Premium Powered Selections, Miniaturized Portability, and Superior Type-C Integration</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hero9-black-review-cutting-edge-yet-pricey/"><u>HERO9 Black Review: Cutting-Edge, Yet Pricey</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-sony-xperia-1-v-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Sony Xperia 1 V to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-prevent-unwanted-video-captures-in-qt-player/"><u>In 2024, Prevent Unwanted Video Captures in QT Player</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computing-experts-comprehensive-insights/"><u>Inside Tom's Computing Experts: Comprehensive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lead-detected-in-barrow-dabel-radiators-prompting-caseking-to-halt-sales-post-aio-test-results/"><u>Lead Detected in Barrow Dabel Radiators, Prompting CaseKing to Halt Sales Post-AIO Test Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-aio-cooler-picks-optimizing-your-systems-performance/"><u>Leading AIO Cooler Picks: Optimizing Your System's Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-wireless-computer-mice-of-2024-perfect-blend-of-portability-productivity-and-user-comfort/"><u>Leading Wireless Computer Mice of 2024: Perfect Blend of Portability, Productivity, and User Comfort</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lightweight-and-powerful-the-best-gan-based-usb-c-chargers-for-your-laptop/"><u>Lightweight and Powerful: The Best GaN-Based USB-C Chargers for Your Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/liquid-nitro-cpu-arctic-liquid-freezer-iii/"><u>Liquid Nitro지가 제한되는 풋기의 CPU 보증에 미치는 영향: Arctic Liquid Freezer III를 사용하고 있다면 올바른 유연성 조인트가 중요합니다</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-insights-the-unmatched-expertise-at-toms-hardware/"><u>Mastering Tech Insights: The Unmatched Expertise at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-top-tips-from-toms-hardware-blog/"><u>Mastering Technology: Top Tips From Tom's Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-needs-through-toms-informed-reviews/"><u>Mastering Your Tech Needs Through Tom's Informed Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-innovations-on-toms-tech-playground/"><u>Navigating Hardware Innovations on Tom's Tech Playground</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125183563-navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-landscape-insights-from-toms-hardware-experts/"><u>Navigating the Digital Landscape: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-your-rig-the-perfect-match-between-arctics-latest-36-cooler-and-intel-socket-lga1-groove/"><u>Revamp Your Rig: The Perfect Match Between Arctic's Latest 36 Cooler and Intel Socket LGA1 Groove!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-corsairs-icue-link-h15ergba-high-performance-and-extensive-modification-capabilities-unveiled/"><u>Review of Corsair's iCUE Link H15eRGBA - High Performance & Extensive Modification Capabilities Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-desk-with-the-cutting-edge-lighted-mouse-pads-of-2024-smooth-moves-dazzling-glow/"><u>Revolutionize Your Desk with the Cutting-Edge Lighted Mouse Pads of 2024: Smooth Moves, Dazzling Glow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-refrigeration-aseteks-launch-of-an-innovative-ai-powered-ecam-cold-plate-crafted-through-state-of-the-art-3d-metal-printing-in-teamwork-with11/"><u>Revolutionizing Refrigeration: Asetek's Launch of an Innovative AI-Powered ECAM Cold Plate, Crafted Through State-of-the-Art 3D Metal Printing in Teamwork with Fabric8Labs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smile-sourcebook-event-specific-memetic-delights-for-2024/"><u>Smile Sourcebook  Event-Specific Memetic Delights for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-and-components-by-toms-electronics-hub/"><u>The Ultimate Guide to Gadgets & Components by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175723533-the-ultimate-guide-to-hardware-by-tom-informed-choices-await/"><u>The Ultimate Guide to Hardware by Tom - Informed Choices Await</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-components-toms-tech-selection/"><u>The Ultimate Resource for Computer Components - Tom's Tech Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-technological-breakdown/"><u>The Ultimate Resource for Computer Enthusiasts – Tom's Technological Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-secrets-of-hardware-with-toms-pro-reviews/"><u>Uncover the Secrets of Hardware with Tom's Pro Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125147557-unlocking-huge-storage-potential-with-everyday-plastic-through-cutting-edge-3d-printed-holography-storing-keys-and-addresses-efficiently/"><u>Unlocking Huge Storage Potential with Everyday Plastic Through Cutting-Edge 3D-Printed Holography - Storing Keys and Addresses Efficiently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-computer-secrets-detailed-reviews-by-toms-hardware-hub/"><u>Unveiling Computer Secrets: Detailed Reviews by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-tech-tips-from-toms-computing-corner/"><u>Unveiling Cutting-Edge Tech Tips From Tom's Computing Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-performance-secrets-in-everyday-gadgets-inside-look-from-toms-hardware/"><u>Unveiling Performance Secrets in Everyday Gadgets - Inside Look From Tom's Hardware</u></a></li>
+</ul></div>

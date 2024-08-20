@@ -1,7 +1,7 @@
 ---
 title: The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches!
-date: 2024-08-14 14:11:45
-updated: 2024-08-17 11:19:19
+date: 2024-08-19T02:43:07.883Z
+updated: 2024-08-20T02:43:07.883Z
 tags:
   - monitor
 categories:
@@ -75,18 +75,30 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The G34WQi’s styling is back to basics with no frills like molded-in features or colored trim. The front bezel is flush and thin around the top and sides, and it has a 3H hardness anti-glare layer. It keeps light reflections at bay while enabling a sharp and grain-free image. The bottom trim has the Xiaomi logo in the middle, and you’ll find a larger version in the back made from glossy letters that contrast against a matte finish. An LED ring encircles the attachment point, which can show different color and effects that are programmed in the OSD. The joystick controller is also backlit, which accesses all monitor functions.
@@ -95,6 +107,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The inputs are hidden under a removable panel, including two DisplayPort and two HDMI. The HDMIs max out at 100 Hz, so you’ll need DisplayPort to run at 180 Hz. You also get a 3.5mm headphone jack. There are no internal speakers or USB ports.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OSD Features
 
  The G34WQi’s OSD pops up when you click the joystick to the right. Moving it left summons the input selector while up and down adjust the brightness.
@@ -137,6 +152,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The G34WQi includes a nice graphical menu for PIP and PBP options. You can view two video sources at once in split screen or window layouts. In the System menu are the LED lighting options, called Backstrip lighting. You can change the color, choose from breathing, static or rainbow effects, and match the color to onscreen content. Also here is the refresh rate indicator. There are no aiming points or sniper modes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Xiaomi G34WQi Calibration Settings
 
  The G34WQi does not need calibration in the default Standard picture mode with Game Mode turned off. If you want to tweak, there are five gamma presets that measure as marked. And there’s a custom color temp with RGB sliders. They are fairly coarse in operation, but I managed a small improvement in color accuracy with a few minor changes. The full native gamut is in play for SDR and HDR content. It covers just over 91% of DCI-P3\. If you want sRGB, choose that option from the Color space field in the Picture Mode menu. Below are my recommended SDR settings. HDR signals gray out all picture controls. You can switch automatically by setting HDR to Auto. Here’s an important tip: raise the brightness to maximum before switching to HDR. Otherwise, the G34WQi will remain at the same light output level, and you won’t be able to adjust it once the HDR signal is active. More on this later.
@@ -154,6 +172,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 | Gamma               | 2.2                       |
 | Color Temp Custom   | Red 48, Green 49, Blue 50 |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Gaming and Hands-on
 
  Gaming on the G34WQi was a generally satisfying experience, but there were a few things that I wished were better. On the upside, the control response is quick with no perceptible input lag. I could aim and move precisely and dispatching enemies in_Doom Eternal_ was no problem. The HDR and SDR pictures were colorful and bright. The G34WQi has excellent contrast thanks to its VA panel, and the color is vivid with a natural and saturated look.
@@ -190,3 +211,64 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-igtv-content-size-requirements/"><u>[New] 2024 Approved  IGTV Content Size Requirements</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ice-racing-royalty-olympians-highlights-2022-for-2024/"><u>[New] Ice Racing Royalty  Olympians' Highlights, 2022 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-blur-pictures-on-iphone-for-free/"><u>[New] In 2024, How to Blur Pictures on iPhone for Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-list-of-idevice-screen-recorders/"><u>[Updated] 2024 Approved  Ultimate List of iDevice Screen Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-becoming-a-voice-alteration-virtuoso-with-morphvox/"><u>[Updated] Becoming a Voice Alteration Virtuoso with MorphVOX</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-is-splitcam-the-premier-choice-for-video-capture/"><u>[Updated] In 2024, Is SplitCam the Premier Choice for Video Capture?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turning-clutter-into-clarity-managing-massive-tiktok-drafters/"><u>[Updated] Turning Clutter Into Clarity  Managing Massive TikTok Drafters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-visual-voyage-from-vimeo-footage-to-animated-artistry/"><u>[Updated] Visual Voyage  From Vimeo Footage to Animated Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illustrate-with-precision-prime-ipados-design-apps/"><u>2024 Approved  Illustrate with Precision  Prime iPadOS Design Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-best-cpu-thermal-pastes-evaluating-and-ranking-top-90-picks/"><u>2024'S Ultimate Guide to the Best CPU Thermal Pastes: Evaluating and Ranking Top 90 Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-14-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi 14 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-tiktok-giveaway-unauthorized-returns-for-safe-and-new-bambu-lab-a1-3d-printers/"><u>Accidental TikTok Giveaway: Unauthorized Returns for Safe and New Bambu Lab A1 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-ai-edgescool-with-freeze-intro-series-three-airjet-pak-models-up-to-25w-capacity/"><u>Advanced AI Edgescool with Freeze Intro Series: Three AirJet PAK Models Up to 25W Capacity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-hub-insights-and-tips-from-toms-hardware/"><u>Advanced PC Review Hub: Insights and Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anycubic-kobra-2-max-analysis-a-surprising-find-for-enthusiasts/"><u>Anycubic Kobra 2 Max Analysis: A Surprising Find for Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-the-agony-top-7-iphone-x-glitches-and-how-to-resolve-them/"><u>Avoid the Agony: Top 7 iPhone X Glitches and How to Resolve Them</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/beginners-pathway-to-premium-gopro-accessories-for-2024/"><u>Beginner’s Pathway to Premium GoPro Accessories for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-choices-amds-premiere-x570-chipset-for-pc-building/"><u>Best Choices: AMD's Premiere X570 Chipset for PC Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-list-elite-laser-carving-tools/"><u>Comprehensive List: Elite Laser Carving Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-the-toms-hardware-showcase/"><u>Discover Cutting-Edge Tech: The Tom's Hardware Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-motherboards-of-2024-a-comprehensive-guide-to-sockets-and-chipsets/"><u>Discover the Leading Gaming Motherboards of 2024: A Comprehensive Guide to Sockets & Chipsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/divine-floral-aroma-of-latest-innovative-heat-conductor/"><u>Divine Floral Aroma of Latest Innovative Heat Conductor</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978946400-easy-guide-to-updating-your-vga-drivers-fetch-them-here/"><u>Easy Guide to Updating Your VGA Drivers – Fetch Them Here!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-eliminating-stringing-issues-in-your-3d-print-projects/"><u>Effective Solutions for Eliminating Stringing Issues in Your 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175662321-expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fastest-and-most-economical-gaming-ram-with-stunning-leds/"><u>Fastest & Most Economical Gaming RAM with Stunning LEDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-fixing-and-refreshing-your-3d-printers-filament-performance/"><u>Guide to Fixing and Refreshing Your 3D Printer's Filament Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-valkyrie-al125-cpu-air-cooler-premium-quality-rgb-led-lighting-and-bright-ips-screen-for-budget-under-20/"><u>High-Performance Valkyrie AL125 CPU Air Cooler: Premium Quality, RGB LED Lighting, and Bright IPS Screen for Budget Under $20</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ideal-6-economical-projector-brands-for-4k/"><u>In 2024, Ideal 6 Economical Projector Brands for 4K</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-visual-content-size-videos-correctly-for-instagram/"><u>In 2024, Mastering Visual Content  Size Videos Correctly for Instagram</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide/"><u>In 2024, The Secret Art of Hidden Streaming  Instagram's Anonymous Spectators Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-strategy-for-elevating-your-video-visibility/"><u>In 2024, The Ultimate Strategy for Elevating Your Video Visibility</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>In 2024, Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-frore-cooling-range-targeted-airjet-pak-freeze-intros-for-edge-computing-under-25w-power/"><u>Introducing the Frore Cooling Range: Targeted AirJet PAK Freeze Intros for Edge Computing Under 25W Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-picks-for-premium-laser-engravers/"><u>Leading Picks for Premium Laser Engravers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-art-on-iphone-discover-the-8-prime-drawing-tools-for-2024/"><u>Master Your Art on iPhone  Discover the 8 Prime Drawing Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-circuitry-on-toms-digital-workbench/"><u>Mastering Gadgets and Circuitry on Tom's Digital Workbench</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-at-toms-hardware-destination/"><u>Mastering Gadgets and Systems at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-landscape-the-ultimate-guide-to-hardware-by-toms-expertise/"><u>Mastering the Digital Landscape - The Ultimate Guide to Hardware by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-of-gadgets-trustworthy-insights-by-tom-on-computer-hardware/"><u>Mastery of Gadgets: Trustworthy Insights by Tom on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-and-components-toms-expertise/"><u>Navigating the World of Computers and Components: Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-innovative-hardware-solutions-with-tom/"><u>Navigating Through Innovative Hardware Solutions with Tom</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-narakeet-review-convenient-text-to-speech-voice-maker/"><u>New In 2024, Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/rapid-video-capture-software-w-audible-commentaries-for-2024/"><u>Rapid Video Capture Software W/ Audible Commentaries for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-edge-40-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-v30-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo V30 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tips-on-how-to-address-stringing-concerns-when-3d-printing-at-home-or-professionally/"><u>Step-by-Step Tips on How to Address Stringing Concerns When 3D Printing at Home or Professionally</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-enthusiast-dream-home-24-million-texas-estate-showcases-integrated-5786-square-foot-data-centre-with-cutting-edge-full-liquid-cooling-system-living-qua10/"><u>Tech Enthusiast Dream Home: $2.4 Million Texas Estate Showcases Integrated 5,786 Square Foot Data Centre with Cutting-Edge Full Liquid Cooling System – Living Quarters Omitted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-gaming-headsets-and-mic-combos-for-online-play/"><u>Ultimate Selection of Gaming Headsets and Mic Combos for Online Play</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-the-fundamentals-of-online-tales/"><u>Understanding the Fundamentals of Online Tales</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-revolutionary-3d-printed-holographics-for-high-capacity-encoding-of-keys-and-addresses-up-to-57n-bits/"><u>Unlock the Potential: Revolutionary 3D-Printed Holographics for High Capacity Encoding of Keys and Addresses (Up to 57N Bits)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-systems-on-toms-tech-hub/"><u>Unveiling New Gadgets and Systems on Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-newest-innovations-a-tour-of-toms-hardware-review-site/"><u>Unveiling the Newest Innovations: A Tour of Tom's Hardware Review Site</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-secrets-the-toms-hardware-way/"><u>Unveiling Top Hardware Secrets - The Tom's Hardware Way</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-note-13-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi Note 13 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

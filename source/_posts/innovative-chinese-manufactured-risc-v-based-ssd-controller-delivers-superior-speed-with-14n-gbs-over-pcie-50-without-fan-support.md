@@ -1,7 +1,7 @@
 ---
 title: Innovative Chinese Manufactured RISC-V Based SSD Controller Delivers Superior Speed with 14.n GB/S over PCIe 5.0 Without Fan Support
-date: 2024-08-14 11:16:40
-updated: 2024-08-17 12:35:11
+date: 2024-08-19T02:34:46.218Z
+updated: 2024-08-20T02:34:46.218Z
 tags:
   - ssd
 categories:
@@ -56,14 +56,23 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -72,10 +81,25 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -140,6 +164,9 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -154,3 +181,50 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>[New] 2024 Approved  The Art of Persuasion on Facebook  A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-rediscover-the-past-watching-youtubes-lost-footage-for-2024/"><u>[New] How to Rediscover the Past  Watching Youtube's Lost Footage for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069464909-updated-2024-approved-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats/"><u>[Updated] 2024 Approved  A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-busting-the-myth-of-perfect-follower-numbers-on-social-media/"><u>[Updated] 2024 Approved  Busting the Myth of 'Perfect' Follower Numbers on Social Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-action-cameras-clash-gopro-hero5-black-against-yi-4k-update/"><u>[Updated] Action Cameras Clash  GoPro Hero5 Black Against Yi 4K Update</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>[Updated] The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-sandbox-games-for-aspiring-explorers-for-2024/"><u>[Updated] Top Sandbox Games for Aspiring Explorers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprints-for-successful-docu-screenplays/"><u>2024 Approved  Blueprints for Successful Docu-Screenplays</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-snapstreak-game-with-savvy-tactics/"><u>2024 Approved  Elevate Your Snapstreak Game with Savvy Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focal-point-expose/"><u>2024 Approved  Focal Point Exposé</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-your-gaming-experience-with-easy-recordings/"><u>2024 Approved  Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-snapchats-zoom-feature/"><u>2024 Approved  The Ultimate Guide to Mastering Snapchat's Zoom Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-liquid-cools-showdown-thermalright-vs-deepcool-aio-reviews-for-gamers/"><u>Affordable High-Performance Liquid Cools Showdown: Thermalright Vs. Deepcool AIO Reviews for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-pauses-financial-outlook-amidst-significant-customer-order-cancellations/"><u>Asetek Pauses Financial Outlook Amidst Significant Customer Order Cancellations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-quality-4k-monitors-best-buys-for-the-new-year/"><u>Budget-Friendly, Premium Quality 4K Monitors - Best Buys for the New Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-evaluation-scythes-quiet-revolution-in-air-conditioning-with-the-mugen-6-lineup-including-black-edition/"><u>Cutting-Edge Evaluation: Scythe's Quiet Revolution in Air Conditioning with the Mugen 6 Lineup, Including Black Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ekwb-admits-mistakes-publicly-apologizes-for-late-employee-and-supplier-payouts-promises-change/"><u>EKWB Admits Mistakes – Publicly Apologizes for Late Employee & Supplier Payouts, Promises Change</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-arctic-liquid-freezer-iii-with-aio-an-honest-review-of-its-disappointments/"><u>Evaluating the Arctic Liquid Freezer III with AIO - An Honest Review of Its Disappointments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom/"><u>Exploring Computer Components with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-comprehensive-guides-and-reviews/"><u>Exploring Hardware with Tom: Comprehensive Guides and Reviews</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fast-windows-content-survey-blueprint/"><u>Fast Windows Content Survey Blueprint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-epson-xp-245-drivers-now-ensure-smooth-printing-on-windows-os-versions-7810/"><u>Get Your New Epson XP 245 Drivers Now! Ensure Smooth Printing on Windows OS Versions (7/8/10)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/groundbreaking-3d-print-method-delivers-operational-prosthetic-hand-in-one-step-advancing-personal-fabrication-for-missing-limbs-at-home/"><u>Groundbreaking 3D Print Method Delivers Operational Prosthetic Hand in One Step, Advancing Personal Fabrication for Missing Limbs at Home</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a54-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/id-coolings-fx310-pro-review-superior-cooling-for-a-budget-of-60-or-less/"><u>ID-Cooling's FX310 Pro Review: Superior Cooling for a Budget of 60$ or Less</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-stealthiest-instagram-story-viewers/"><u>In 2024, The Stealthiest Instagram Story Viewers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-tips-for-your-tech-needs-at-toms-hardware-zone/"><u>In-Depth Analysis & Tips for Your Tech Needs at Tom's Hardware Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tom-unveiling-the-best-in-pc-hardware/"><u>In-Depth Analysis by Tom - Unveiling the Best in PC Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-flsun-s1s-rapid-response-time-and-eccentric-delta-structure-a-reviewers-perspective/"><u>In-Depth Analysis of the FLSun S1's Rapid Response Time and Eccentric Delta Structure – A Reviewer’s Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-comparison-leading-3d-printers-from-fdm-to-resin-and-sub-250-models-unveiled/"><u>In-Depth Comparison: Leading 3D Printers - From FDM to Resin & Sub-$250 Models Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovation-alert-noctuas-latest-tech-pumpless-aio-liquid-cooler-with-advanced-evaporation-method/"><u>Innovation Alert: Noctua's Latest Tech - Pumpless AIO Liquid Cooler with Advanced Evaporation Method</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-gadgets-with-professional-tips-from-toms-hardware/"><u>Master Your Gadgets with Professional Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-setup-with-tips-from-toms-hardware/"><u>Master Your PC Setup with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-troubleshooting-the-vr-game-crashes-on-your-pc/"><u>Resolving Issues: Troubleshooting the VR Game Crashes on Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/track-and-tally-a-systematic-guide-to-documenting-facebook-deeds/"><u>Track and Tally: A Systematic Guide to Documenting Facebook Deeds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-pc-speakers-in-2-best-audio-solutions-for-your-desktop-budget-picks-and-audiophile-gems/"><u>Ultimate Guide to Premium PC Speakers in 2# Best Audio Solutions for Your Desktop - Budget Picks & Audiophile Gems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-a-high-speed-ssd-to-elevate-your-steam-deck-gaming/"><u>Ultimate Guide: Choosing a High-Speed SSD to Elevate Your Steam Deck Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-performance-advanced-tech-knowledge-from-toms-hardware-hub/"><u>Unleash Performance: Advanced Tech Knowledge From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-pc-potential-dive-into-toms-hardware-reviews-and-buying-guides/"><u>Unleash Your PC Potential – Dive Into Tom's Hardware Reviews and Buying Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-high-performance-pc-components-the-toms-hardware-experts-guide/"><u>Unlocking High-Performance PC Components: The Tom's Hardware Experts Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-gear-with-toms-hardware-experts/"><u>Unveiling the Latest in Computer Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-usb-hub-picks-dynamic-powered-models-compact-builds-and-versatile-type-c-ports/"><u>Unveiling Top USB Hub Picks: Dynamic Powered Models, Compact Builds, & Versatile Type-C Ports</u></a></li>
+</ul></div>

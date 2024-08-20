@@ -1,7 +1,7 @@
 ---
 title: "Introducing Prusa's Homegrown Tech: Delaware-Based 3D Printers and Filament Creation"
-date: 2024-08-08T04:23:30.097Z
-updated: 2024-08-09T04:23:30.097Z
+date: 2024-08-19T03:44:28.825Z
+updated: 2024-08-20T03:44:28.825Z
 tags:
   - printer
 categories:
@@ -90,3 +90,64 @@ Printing anything on a 3D printer is an exercise in patience. Though speeds have
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-success-snap-up-your-ideal-video-size/"><u>[New] 2024 Approved  Instagram Success  Snap Up Your Ideal Video Size</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-master-the-art-of-iphone-7-screen-capture/"><u>[New] 2024 Approved  Master the Art of iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-prime-tools-elevating-digital-collaboration/"><u>[New] 2024 Approved  Prime Tools Elevating Digital Collaboration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-efficient-strategies-for-instagram-to-mp3-transformation-for-2024/"><u>[New] Efficient Strategies for Instagram to Mp3 Transformation for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-gamers-sound-showdown-the-top-5-headset-list/"><u>[New] Gamers' Sound Showdown  The Top 5 Headset List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximizing-clicks-ultimate-youtube-banner-guidebook-for-2024/"><u>[New] Maximizing Clicks  Ultimate YouTube Banner Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[Updated] Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length  156 Characters)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhancing-ps5-10-powerful-external-drives/"><u>[Updated] Enhancing PS5  10 Powerful External Drives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expertly-evaluating-webcam-technology-for-professionals/"><u>[Updated] In 2024, Expertly Evaluating WebCam Technology for Professionals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-the-ways-to-share-youtube-listings/"><u>2024 Approved  Navigating the Ways to Share YouTube Listings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-9-fb-scraper-apps-for-films/"><u>2024 Approved  Top 9 FB Scraper Apps for Films</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-gaming-computers-reviewed-find-your-ideal-setup-from-500-to-over-4k/"><u>2024 Gaming Computers Reviewed: Find Your Ideal Setup From $500 to Over $4K</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-magic-v2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Magic V2 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-agni-2-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Agni 2 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-review-of-anycubic-kobra-2-max-beyond-expectations/"><u>A Comprehensive Review of Anycubic Kobra 2 MAX: Beyond Expectations!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-step-by-step-approach-to-movie-recording-on-multiple-os-for-2024/"><u>A Step-by-Step Approach to Movie Recording on Multiple OS for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-hot-40-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Hot 40 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-graphics-cards-of-the-year-top-5-affordable-options/"><u>Best Value Gaming Graphics Cards of the Year - Top 5 Affordable Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x7b-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X7b</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrating-crealitys-decade-anniversary-with-the-release-of-a-vibrant-color-3d-printer/"><u>Celebrating Creality's Decade Anniversary with the Release of a Vibrant Color 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-neptune-4-max-enhanced-speed-and-increased-size-with-minor-glitches/"><u>Comprehensive Evaluation of the Elegoo Neptune 4 Max: Enhanced Speed & Increased Size with Minor Glitches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/december-14th-marks-the-release-of-bamboolabs-cutting-edge-bed-slinger-the-next-generation-a1-3d-printer-for-rapid-production/"><u>December 14Th Marks the Release of BambooLab's Cutting-Edge Bed Slinger - The Next Generation A1 3D Printer for Rapid Production.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-review-how-does-the-creality-k1-carbon-compare-in-the-world-of-advanced-3d-printing-technologies/"><u>Detailed Review: How Does the Creality K1 Carbon Compare in the World of Advanced 3D Printing Technologies?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/edgeai-enhanced-airjet-pak-coolers-frores-freeze-intro-series-for-up-to-25w-systems/"><u>EdgeAI Enhanced AirJet PAK Coolers: Frore's Freeze Intro Series for Up To 25W Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-computer-knowledge-with-toms-hardware-wisdom/"><u>Elevate Your Computer Knowledge with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-pc-performance-xpg-hybrid-dual-fan-cooler-capable-of-managing-up-to-tower-class-280w-processors/"><u>Enhance Your PC Performance: XPG Hybrid Dual-Fan Cooler Capable of Managing Up to Tower-Class 280W Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-cordless-keyboards-on-the-market/"><u>Exploring the Best Cordless Keyboards on the Market</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ical-forecast-the-dominant-23-social-themes-for-2024/"><u>Graphical Forecast  The Dominant '23 Social Themes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/how-to-overlay-photos-on-computer-desktop-and-online-for-2024/"><u>How to Overlay Photos on Computer (Desktop & Online) for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/icefloe-oasis-series-in-depth-analysis-unveiling-the-power-of-budget-friendly-quiet-cooling-at-240360-capacity/"><u>IceFLOE Oasis Series In-Depth Analysis: Unveiling the Power of Budget-Friendly Quiet Cooling at 240/360 Capacity</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s23-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S23 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-open-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Open Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-f23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo F23 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-gt-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix GT 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-gadgets-and-peripherals-by-toms-hardware/"><u>Inside Scoop on Gadgets and Peripherals by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-offset-noctua-nh-d15-g2-subdued-whirring-increased-heatpipe-capacity/"><u>Introducing the New Offset Noctua NH-D15 G2: Subdued Whirring, Increased Heatpipe Capacity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-high-speed-memory-sticks-of-2024-maximizing-storage-on-the-go/"><u>Leading High-Speed Memory Sticks of 2024: Maximizing Storage on the Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ultrawide-gaming-monitors-expert-choices/"><u>Leading Ultrawide Gaming Monitors - Expert Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-computer-technology-with-tips-from-toms-hardware/"><u>Master the World of Computer Technology with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-overheating-the-comprehensive-list-and-rankings-of-top-90-cpu-thermal-pastes/"><u>Mastering Overheating: The Comprehensive List and Rankings of Top 90 CPU Thermal Pastes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-performance-gear-with-tom-a-comprehensive-look-at-hardware/"><u>Navigating High-Performance Gear with Tom: A Comprehensive Look at Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computing-with-expertise-from-toms-hardware/"><u>Navigating the World of High-Performance Computing with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-hardware-selection-tips-from-tom/"><u>Navigating Through Hardware Selection - Tips From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-cpu-chillers-revealed-by-noctua-experience-the-future-with-evaporative-and-pumpless-technology/"><u>Next-Gen CPU Chillers Revealed by Noctua - Experience the Future with Evaporative & Pumpless Technology</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/overcome-post-loading-interruptions-on-snapchat-for-2024/"><u>Overcome Post Loading Interruptions on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975372315-streamlined-setup-expert-tips-for-quickly-downloading-and-installing-your-hp-driver-needs/"><u>Streamlined Setup: Expert Tips for Quickly Downloading & Installing Your HP Driver Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-the-ultimate-gaming-mouse-of-2024/"><u>Top Picks for the Ultimate Gaming Mouse of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-guide-best-mini-itx-computer-chassis-for-small-form-factor-systems-sff/"><u>Ultimate Selection Guide: Best Mini ITX Computer Chassis for Small Form Factor Systems (SFF)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-latest-in-tech-reviews-news-and-advice-from-toms-hardware/"><u>Uncover the Latest in Tech: Reviews, News & Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-heights-with-elegoos-saturn-4-ultra-a-game-changer-in-resin-printing-technology/"><u>Unlocking New Heights with Elegoo's Saturn #4 Ultra: A Game-Changer in Resin Printing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-computers-with-toms-hardware-insights/"><u>Unveiling Cutting-Edge Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-lens/"><u>Unveiling Cutting-Edge Technology Through Tom’s Hardware Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-capabilities-of-mingda-magician-pro2-oversized-prints-and-low-noise-performance/"><u>Unveiling the Capabilities of Mingda Magician Pro2 – Oversized Prints and Low-Noise Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-new-hardware-through-toms-lens/"><u>Your Ultimate Guide to New Hardware Through Tom's Lens</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tech with Tom: Detailed Analysis of PC Gear"
-date: 2024-08-15 10:46:20
-updated: 2024-08-18 11:37:18
+date: 2024-08-19T02:31:36.607Z
+updated: 2024-08-20T02:31:36.607Z
 tags:
   - build
 categories:
@@ -86,6 +86,9 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
@@ -120,20 +123,32 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -150,6 +165,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +188,44 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-camera-restored-obs-problem-fixed-for-2024/"><u>[New] Camera Restored - OBS Problem Fixed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-peak-content-igtvs-leaders-for-2024/"><u>[New] Navigating the Peak Content  IGTV's Leaders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-picks-recommended-spots-for-procuring-snapchat-chime/"><u>[New] Premium Picks  Recommended Spots for Procuring Snapchat Chime</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-classroom-mastery-the-prime-10-audio-visual-aids-for-instructors/"><u>[Updated] In 2024, Classroom Mastery  The Prime 10 Audio-Visual Aids for Instructors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-storytelling-schools-1-8-rankings-and-insights/"><u>[Updated] Top Storytelling Schools  #1-#8 Rankings & Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-clearshot-smoother-mobile-film-gadgetry/"><u>2024 Approved  ClearShot Smoother - Mobile Film Gadgetry</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reversing-os-update-on-macs-back-to-el-capitan/"><u>2024 Approved  Reversing OS Update on Macs  Back to El Capitan</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>In 2024, Revolutionizing Travel  A Dive Into VR Tour Possibilities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-inside-perspective-by-toms-hardware/"><u>Mastering Gadgets and Systems - Inside Perspective by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-premium-heavy-duty-pc-radiator-with-9x200mm-fans-over-35lbs-cooling-power-for-under-600/"><u>MO-RA IV 600: Premium Heavy-Duty PC Radiator with 9X200mm Fans - Over 35Lbs Cooling Power for Under $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-a-journey-with-toms-computer-world/"><u>Navigating New Tech: A Journey with Tom's Computer World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-pro-reviews/"><u>Navigating the World of Electronics with Tom's Pro Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-trustworthy-advice-by-toms-hardware/"><u>Navigating the World of Electronics: Trustworthy Advice by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-in-depth-articles-from-toms-hardware-hub/"><u>Navigating Through Technology: In-Depth Articles From Tom's Hardware Hub</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-and-easy-the-best-online-tone-generator-sites/"><u>New 2024 Approved Free and Easy The Best Online Tone Generator Sites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-innovations-featured-at-toms-hardware/"><u>Pioneering Computer Innovations Featured at Tom's Hardware</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-f5-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-valkyrie-vind-sl125-aesthetics-vs-efficiency-in-motorcycle-engineering/"><u>Review of the Valkyrie Vind SL125: Aesthetics Vs. Efficiency in Motorcycle Engineering</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-thermal-management-noctua-introduces-game-changing-chiller-for-grace-hopper-gpu-architecture/"><u>Revolutionizing Thermal Management: Noctua Introduces Game-Changing Chiller for Grace Hopper GPU Architecture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-chill-grab-the-arctic-aiold2018a-v2-air-cooler-now-at-unbeatable-74-price/"><u>Save Big on Chill: Grab the Arctic AIOLD2018A v2 Air Cooler Now at Unbeatable $74 Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-cutting-edge-reviews-by-toms-hardware/"><u>Stay Ahead of the Curve: Cutting-Edge Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-manufacturing-turn-your-old-plastics-into-top-tier-3d-printing-materials/"><u>Sustainable Manufacturing: Turn Your Old Plastics Into Top-Tier 3D Printing Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-a-z-of-modern-hardware-features-by-toms-technology-spotlight/"><u>The A-Z of Modern Hardware Features by Tom's Technology Spotlight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-top-pick-of-gaming-keyboards-featuring-full-half-and-mini-sizes/"><u>The Ultimate Guide to the Top Pick of Gaming Keyboards : Featuring Full, Half & Mini Sizes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-microsd-memory-cards-for-optimal-raspberry-pi-performance/"><u>Top MicroSD Memory Cards for Optimal Raspberry Pi Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-materials-of-2024/"><u>Top Recommended 3D Printing Materials of 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-strategies-for-effective-use-of-zoom-on-win11-for-2024/"><u>Transformative Strategies for Effective Use of Zoom on Win11 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-quality-gaming-microphones-reviewed-and-compared/"><u>Ultimate List of Quality Gaming Microphones Reviewed and Compared</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-in-computing-with-toms-hardware-wisdom/"><u>Unlocking Performance Secrets in Computing with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-equipment-analysis/"><u>Unveiling the Latest in Technology with Tom's Equipment Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-performance-in-depth-analysis-of-qidi-tech-q1-pro-audio-equipment/"><u>Unveiling the Performance: In-Depth Analysis of QIDI Tech Q1 Pro Audio Equipment</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-converting-sounds-to-words-the-ultimate-free-guide-with-top-3-strategies/"><u>Updated Converting Sounds to Words The Ultimate Free Guide with Top 3 Strategies</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C02 | Dr.fone</u></a></li>
+</ul></div>

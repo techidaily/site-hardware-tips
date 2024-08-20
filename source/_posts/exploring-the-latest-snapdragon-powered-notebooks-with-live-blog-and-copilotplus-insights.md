@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Snapdragon Powered Notebooks with Live Blog and Copilot+ Insights
-date: 2024-08-16 16:10:37
-updated: 2024-08-17 10:22:23
+date: 2024-08-19T02:51:43.259Z
+updated: 2024-08-20T02:51:43.259Z
 tags:
   - laptop
 categories:
@@ -39,6 +39,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,6 +50,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
@@ -57,10 +64,17 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The biggest advantage of the XPS 13 is the screen options available: it starts with a 13.4-inch display with an FHD+ resolution, but you can upgrade it to a QHD+ display. But if you want the best image quality, the XPS 13 can be had with a 3K OLED screen. The XPS 13 starts at $1,299.99 but can quickly jump to $2,499.99 if you max out its specs. It’s now available on the[Dell website](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-3641429059046625036%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2Fsnapdragon%2Fspd%2Fxps-13-9345-laptop%2Fusexchcto9345qcm02) .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Dell Inspiron 14 Plus
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
@@ -77,10 +91,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The laptop is priced at $1,699.00, making it one of the more expensive 14-inch options, and is available for[Pre-Order on the HP page](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1282290516643013755&url=https://www.hp.com/us-en/shop/pdp/hp-elitebook-ultra-14-inch-g1q-notebook-ai-pc) at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## HP OmniBook X 14
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
@@ -91,6 +111,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo offers the Yoga Slim 7x for consumers who want the Copilot+ PC. This laptop uses a Snapdragon X Elite X1E-78-100 processor, and you can choose between 16GB or 32GB of RAM baked into the SoC. It also comes with a 512GB SSD, but you can upgrade it to 1TB for an additional $45.
@@ -107,6 +130,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
@@ -131,6 +157,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  (Image credit: Samsung)
 
  Samsung’s Copilot+ PC offering starts at $1,359.99 with the Galaxy Book4 Edge. This laptop has a 14-inch display and uses a 3.4 GHz Snapdragon X Elite X1E-80-100 chip with 16GB of RAM and 512GB of storage. The Galaxy Book4 also offers the same specs but with a larger 16-inch for $1,449.99.
@@ -153,3 +183,53 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] 2024 Approved  Cutting-Edge Method  Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-achieving-high-quality-videos-with-your-cellphone-webcam/"><u>[Updated] Achieving High-Quality Videos with Your Cellphone Webcam</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones-for-2024/"><u>[Updated] Enhance Your Virtual Stage  The Ultimate List of Top 6 Microphones for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-movie-substitutes-to-explore-top-7-choices/"><u>[Updated] Movie Substitutes to Explore - Top 7 Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-selection-of-2024s-most-innovative-raspberry-pi-pico-powered-boards/"><u>Ace Selection of 2024'S Most Innovative Raspberry Pi Pico-Powered Boards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-tips-straight-from-toms-technology-hub/"><u>Advanced Computing Tips Straight From Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-microelectronics-3d-printers-enabling-the-fabrication-of-intricate-chip-layouts/"><u>Breakthrough in Microelectronics: 3D Printers Enabling the Fabrication of Intricate Chip Layouts</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-wealth-wisely-how-meta-aids-in-the-art-of-monetizing-reels/"><u>Creating Wealth Wisely: How Meta Aids in the Art of Monetizing Reels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-innovative-pc-gear-with-toms-hardware-insights/"><u>Discover Innovative PC Gear with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceeding-300w-efficiently-how-cooler-masters-latest-all-in-one-and-air-coolers-achieve-exceptional-thermal-performance/"><u>Exceeding 300W Efficiently: How Cooler Master's Latest All-In-One and Air Coolers Achieve Exceptional Thermal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pcs-laptops-and-devices-by-toms-technology-hub/"><u>Expert Analysis on PCs, Laptops & Devices by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-rated-4k-3840x2160-gaming-monitors-with-quick-response-time-and-curved-screens-for-ultimate-visuals/"><u>Expert Picks: Top-Rated 4K (3840X2160) Gaming Monitors with Quick Response Time and Curved Screens for Ultimate Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-benefits-of-the-arctic-freezer-36-air-conditioner-a-game-changer-for-budget-cooling-solutions/"><u>Explore the Benefits of the Arctic Freezer 36 Air Conditioner – A Game-Changer for Budget Cooling Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-tech-world-through-toms-lens-mastering-the-complexity-of-computer-components/"><u>Exploring the Tech World Through Tom's Lens: Mastering the Complexity of Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fastest-most-spacious-usb-thumb-drives-the-ultimate-pocketable-solutions/"><u>Fastest, Most Spacious USB Thumb Drives : The Ultimate Pocketable Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-set-to-print-like-never-before-creality-releases-launch-date-cost-and-full-specs-of-their-latest-k1c-masterpiece/"><u>Get Set to Print Like Never Before: Creality Releases Launch Date, Cost and Full Specs of Their Latest K1C Masterpiece!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connectivity-problems-dealing-with-a-non-reactive-dhcp-server/"><u>How to Resolve Connectivity Problems: Dealing with a Non-Reactive DHCP Server</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersion-and-interaction-the-high-definition-shift-of-hp-envy-27/"><u>Immersion and Interaction  The High-Definition Shift of HP Envy 27</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-hot-takes-top-ten-video-hits-from-social-media-giants/"><u>In 2024, Hot Takes  Top Ten Video Hits From Social Media Giants</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-listensmart-beyond-dacast-choices/"><u>In 2024, ListenSmart  Beyond DaCast Choices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-secret-to-capturing-seamless-google-classesmeets/"><u>In 2024, The Secret to Capturing Seamless Google Classes/Meets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-teams-up-with-exxonmobil-to-engineer-advanced-liquid-cooling-solutions-for-next-generation-2000w-tdp-xeon-cpus/"><u>Intel Teams Up with ExxonMobil to Engineer Advanced Liquid Cooling Solutions for Next-Generation 2000W TDP Xeon CPUs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-your-next-build-with-confidence-using-tips-from-toms-hardware-experts/"><u>Navigate Your Next Build with Confidence Using Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-toms-insider-guides-and-tips/"><u>Navigating Gadgets with Tom's Insider Guides and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-choices-expert-advice-from-toms-tech-hub/"><u>Navigating Technology Choices - Expert Advice From Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-guide/"><u>Navigating the World of Computing with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-trustworthy-tips-from-toms-hardware-hub/"><u>Navigating the World of Electronics - Trustworthy Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozen-transform-imaginations-into-colorful-reality-with-their-advanced-3d-printer/"><u>Phrozen: Transform Imaginations Into Colorful Reality with Their Advanced 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-data-effortlessly-with-plastic-3d-holograms-encoding-up-to-576-bits-safely/"><u>Secure Your Data Effortlessly with Plastic 3D Holograms, Encoding Up To 576 Bits Safely</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-with-toms-hardware-reviews-and-tips/"><u>Stay Ahead of the Curve with Tom's Hardware Reviews & Tips</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/steam-freezing-issue-solved-for-seamless-playthroughs/"><u>Steam Freezing Issue Solved for Seamless Playthroughs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-launch-of-pink-caulk-gun-application-thermal-gel-from-tim-a-game-changer-for-component-gaps/"><u>The Launch of Pink 'Caulk Gun' Application Thermal Gel From TIM: A Game-Changer for Component Gaps!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-step-by-step-process-of-partitioning-models-for-optimal-3d-printing/"><u>The Step-by-Step Process of Partitioning Models for Optimal 3D Printing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-10-superior-image-replacement-for-videos-for-2024/"><u>The Ultimate Guide  10 Superior Image Replacement for Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-by-toms-hardware-experts/"><u>The Ultimate Guide to Tech by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-teamgroup-t-force-dark-airflow-i-top-nvme-ssd-cooler-on-the-market/"><u>Ultimate Guide to TeamGroup T-Force Dark AirFlow I - Top NVMe SSD Cooler on the Market</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-city-skylines-game-crashes-expert-advice/"><u>Ultimate Guide: Solving City Skylines Game Crashes - Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-offer-top-notch-black-nylon-filament-for-3d-printing-at-a-steal-just-16kg/"><u>Unbelievable Offer: Top-Notch Black Nylon Filament for 3D Printing at a Steal – Just $16/Kg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-through-toms-critiques/"><u>Unveiling the Latest in Hardware Through Tom's Critiques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-gadgets-insights-from-toms-equipment-hub/"><u>Unveiling Top-Notch Gadgets: Insights From Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-getting-a-3d-printer-during-black-friday-a-5-point-guide/"><u>Why You Should Consider Getting a 3D Printer During Black Friday: A 5-Point Guide</u></a></li>
+</ul></div>

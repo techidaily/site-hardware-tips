@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Gadgets with Tom's Expert Guidance
-date: 2024-08-14 17:32:37
-updated: 2024-08-17 12:12:51
+date: 2024-08-19T02:45:23.421Z
+updated: 2024-08-20T02:45:23.421Z
 tags:
   - monitor
 categories:
@@ -99,16 +99,25 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
  WIthout its stand, the EM105 measures 9.17 x 6.5 x 0.31 inches and weighs 0.8 pounds. For comparison, the 15.6-inch InnoCN 151AF, which is one of the[best portable monitors](https://tools.techidaily.com) , measures 14.1 x 9.0 x 0.3 inches and weighs 1.6 pounds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## On-Screen Display on the Eyoyo EM105 Portable Monitor
 
  You invoke the OSD on the EM105 by pressing in on the three-way rocker switch on the left side of the chassis. Up pops a basic user interface (shared with many budget-oriented portable monitors), where flicking the rocker switch upward navigates up through the OSD and vice versa. You select a menu item by pushing in on the rocker, and then up/down to adjust settings (like brightness and contrast). There’s a dedicated back button to return to the previous menu screen.
 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/gFShqYRhMy9wRrGY5SrCV-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  This no-frills OSD has the usual controls for color temperature, enabling the low blue light mode and adjusting the position of the OSD. I also discovered that the monitor supports AMD FreeSync (which was not documented by the Eyoyo), and that support was confirmed via AMD’s Adrenalin driver software.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Image Quality and Sound on the Eyoyo EM105 Portable Monitor
 
  The EM105 measures 10.5 inches across and has a 3:2 aspect ratio. That results in an[IPS panel](https://tools.techidaily.com) with a resolution of 1920 x 1280, versus the more typical 1920 x 1080 in this segment. However, some people will likely appreciate the extra vertical real estate. It also bucks the trend with a glossy screen coating, which we usually see covering OLED panels.
@@ -117,6 +126,9 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/TH3t3aoSdwsLALA4LxfZdn-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In everyday tasks, the EM105 was perfectly usable as a secondary monitor. Its size means you’ll need to tinker in Windows to make text easier to read. My “old” eyes needed assistance working with[Microsoft](https://tools.techidaily.com) Word and Excel on the small monitor.
@@ -125,6 +137,9 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
  I was shocked to find that the EM105 includes a set of stereo speakers, and even more surprised that they sounded pretty good. Of course, they aren’t powerhouses regarding output, but music and speech sounded good through the speakers, even with the volume cranked to about 75 percent. The speakers are lacking in bass, but at this price point, the speakers are a welcome addition to the EM105.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Eyoyo EM105 portable monitor offers a convincing combination of small size and light weight in a relatively-robust aluminum chassis. It has both USB-C and HDMI connectivity, allowing it to connect with various types of electronics, from PCs to Macs to smartphones to game consoles to Raspberry Pi boards. The EM105 even includes a set of speakers that sounds pretty good, which we can’t often say about portable monitors.
@@ -153,3 +168,46 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-dive-deep-into-tiktoks-voiceover-realm/"><u>[Updated] 2024 Approved  Dive Deep Into TikTok's Voiceover Realm</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-monetize-smart-a-creative-approach-to-earning-with-vimeo-for-2024/"><u>[Updated] Monetize Smart  A Creative Approach to Earning with Vimeo for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-strategic-sharpening-for-pixel-perfect-photos/"><u>[Updated] Strategic Sharpening for Pixel-Perfect Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-magix-photographic-mastery-an-in-depth-review/"><u>2024 Approved  MAGIX Photographic Mastery  An In-Depth Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-liquid-cools-showdown-thermalright-vs-deepcool-aio-reviews-for-gamers/"><u>Affordable High-Performance Liquid Cools Showdown: Thermalright Vs. Deepcool AIO Reviews for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-pauses-financial-outlook-amidst-significant-customer-order-cancellations/"><u>Asetek Pauses Financial Outlook Amidst Significant Customer Order Cancellations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/building-bonds-before-buying-subscription-strategies-for-2024/"><u>Building Bonds Before Buying  Subscription Strategies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discovering-uncharted-territory-on-instagram-for-2024/"><u>Discovering Uncharted Territory on Instagram for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-voice-over-hacks-get-professional-results-fast-for-2024/"><u>Final Cut Pro Voice Over Hacks Get Professional Results Fast for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgets-and-components-toms-detailed-insights-and-rating-guide/"><u>Gadgets and Components: Tom's Detailed Insights & Rating Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-value-playbook-unveiling-the-best-and-most-cost-effective-gaming-gpus-of-2024/"><u>Gamers' Value Playbook: Unveiling the Best and Most Cost-Effective Gaming GPUs of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ahead-of-intel-optimize-for-the-upcoming-arrow-lake-processors-with-arctic-freezer-36-coolers/"><u>Get Ahead of Intel: Optimize for the Upcoming Arrow Lake Processors with Arctic Freezer 36 Coolers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 11 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-upgrade-how-teamgroups-newly-magnetized-t-force-siren-line-revolutionizes-easy-custom-pc-construction/"><u>Innovative Upgrade: How TeamGroup's Newly Magnetized T-Force Siren Line Revolutionizes Easy Custom PC Construction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-the-comprehensive-guide-from-toms-hardware/"><u>Mastering Technology Choices - The Comprehensive Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-froreamoors-your-new-go-to-for-a-submersible-sport-cooler-featuring-waterproof-and-fanless-active-cooling-technology/"><u>Meet Frore'amoors: Your New Go-To for a Submersible Sport Cooler Featuring Waterproof and Fanless Active Cooling Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-electronics-a-guide-to-selecting-top-hardware-by-tom/"><u>Navigating Modern Electronics: A Guide to Selecting Top Hardware by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-gadgets-with-tom-a-hardware-expertise-review/"><u>Navigating the Latest Gadgets with Tom - A Hardware Expertise Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-in-depth-reviews-by-toms-hardware/"><u>Navigating the Tech Landscape: In-Depth Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-stay/"><u>New 2024 Approved Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-innovative-methods-to-sync-photos-and-audio-sound-design-tips-2023/"><u>New Innovative Methods to Sync Photos and Audio Sound Design Tips 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prusa-xl-unveiled-benefits-of-a-huge-printing-area-and-concurrent-five-tool-usage/"><u>Prusa XL Unveiled: Benefits of a Huge Printing Area and Concurrent Five-Tool Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-sweet-creations-the-ultimate-guide-to-your-own-3d-chocolate-printer-with-cocoa-press/"><u>Revolutionizing Sweet Creations: The Ultimate Guide to Your Own 3D Chocolate Printer with Cocoa Press</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-upgrades-by-toms-experts/"><u>The Ultimate Guide to Computer Upgrades by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-components-toms-hardware-breakdown/"><u>The Ultimate Resource for Computer Components - Tom's Hardware Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-companer-for-enthusiasts-beyond-toms-hardware-insights-at-your-brand/"><u>The Ultimate Tech Companer for Enthusiasts – Beyond Tom's Hardware Insights at [Your Brand]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thrilling-results-revealed-non-pump-24oc-edge-lagging-as-much-as-eight-celsius-behind-established-pumped-competitors-during-test-matches/"><u>Thrilling Results Revealed: Non-Pump 24^oC Edge Lagging as Much as Eight Celsius Behind Established Pumped Competitors During Test Matches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-ultimate-guide-to-the-latest-hardware/"><u>Tom's Tech Hub: Ultimate Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-advice/"><u>Tom's Tech Insights: Expert Gadget Reviews & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guides-on-gadgets-and-equipment/"><u>Tom's Tech Review: Comprehensive Guides on Gadgets and Equipment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-text-from-voice-software/"><u>Top Rated Text-From-Voice Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-rigs-of-2e3-options-for-every-price-range-500-4kplus/"><u>Top-Rated Gaming Rigs of 2E3: Options for Every Price Range ($500-$4K+)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-pc-speakers-in-2-best-audio-solutions-for-your-desktop-budget-picks-and-audiophile-gems/"><u>Ultimate Guide to Premium PC Speakers in 2# Best Audio Solutions for Your Desktop - Budget Picks & Audiophile Gems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-a-high-speed-ssd-to-elevate-your-steam-deck-gaming/"><u>Ultimate Guide: Choosing a High-Speed SSD to Elevate Your Steam Deck Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-performance-advanced-tech-knowledge-from-toms-hardware-hub/"><u>Unleash Performance: Advanced Tech Knowledge From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-pc-potential-dive-into-toms-hardware-reviews-and-buying-guides/"><u>Unleash Your PC Potential – Dive Into Tom's Hardware Reviews and Buying Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-high-performance-pc-components-the-toms-hardware-experts-guide/"><u>Unlocking High-Performance PC Components: The Tom's Hardware Experts Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-gear-with-toms-hardware-experts/"><u>Unveiling the Latest in Computer Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-usb-hub-picks-dynamic-powered-models-compact-builds-and-versatile-type-c-ports/"><u>Unveiling Top USB Hub Picks: Dynamic Powered Models, Compact Builds, & Versatile Type-C Ports</u></a></li>
+</ul></div>

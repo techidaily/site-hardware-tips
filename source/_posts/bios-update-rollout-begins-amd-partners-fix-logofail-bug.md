@@ -1,7 +1,7 @@
 ---
 title: "BIOS Update Rollout Begins: AMD Partners Fix LogoFAIL Bug"
-date: 2024-08-14 19:58:16
-updated: 2024-08-17 11:39:59
+date: 2024-08-19T02:37:24.357Z
+updated: 2024-08-20T02:37:24.357Z
 tags:
   - motherboards
 categories:
@@ -101,26 +101,43 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -135,6 +152,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
@@ -175,3 +195,53 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-success-pushing-your-video-into-top-charts/"><u>[New] 2024 Approved  Crafting Success  Pushing Your Video Into Top Charts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlock-screen-saving-potential-on-android-devices-for-2024/"><u>[New] Unlock Screen Saving Potential on Android Devices for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-flight-gear-to-upgrade-your-phantom-4-drone/"><u>[Updated] 2024 Approved  Essential Flight Gear to Upgrade Your Phantom 4 Drone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-youtube-video-preservation-for-2024/"><u>[Updated] Optimizing Your YouTube Video Preservation for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>[Updated] Vimeo Chapter  How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/20-high-end-editors-for-dji-drone-footage-for-2024/"><u>20 High-End Editors for DJi Drone Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-direct-connection-navigating-desktop-display-integration-on-facebook/"><u>2024 Approved  Direct Connection  Navigating Desktop Display Integration on Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pixels-of-peaceful-bedtime-narratives/"><u>2024 Approved  Pixels of Peaceful Bedtime Narratives</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/alienware-aurora-r7-examined-exceptional-power-meets-high-expense/"><u>Alienware Aurora R7 Examined: Exceptional Power Meets High Expense</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-on-bambulabs-x1-carbon-revolutionizing-the-3d-printer-market-leaderboard/"><u>Expert Review on BambuLab's X1-Carbon - Revolutionizing the 3D Printer Market Leaderboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-take-on-phrozen-sonic-mega-8k-styrene-perfect-for-your-print-setup/"><u>Experts' Take on Phrozen Sonic Mega 8K Styrene: Perfect for Your Print Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computing-essentials/"><u>Exploring Tom's Computing Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fastest-picks-in-3d-printing-technology-a-ranking-based-on-production-efficiency/"><u>Fastest Picks in 3D Printing Technology - A Ranking Based on Production Efficiency</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-error-42eb8-in-genshin-impact-step-by-step-troubleshooting/"><u>How to Overcome Error 42Eb8 in Genshin Impact: Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hyte-unveils-latest-upgrades-stylish-coolers-and-advanced-lighting-with-customizable-rgb-and-usb-powered-fan-control/"><u>Hyte Unveils Latest Upgrades: Stylish Coolers & Advanced Lighting with Customizable RGB & USB-Powered Fan Control</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-find-n3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Find N3 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-sovol-sv08-homage-to-the-high-speed-voron/"><u>In-Depth Analysis of Sovol SV08: Homage to the High-Speed Voron</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-imminent-apple-personal-helper-projected-pricing-launch-window-and-innovative-features-uncovered-buzz-about-hidden-functionalities/"><u>Inside Scoop on the Imminent Apple Personal Helper: Projected Pricing, Launch Window & Innovative Features Uncovered; Buzz About Hidden Functionalities!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives-for-2024/"><u>Leveraging FB Platforms for Public Health Initiatives for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-tips-tricks-and-reviews-by-tom/"><u>Mastering Hardware: Tips, Tricks & Reviews by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-orca-slicer-a-step-by-step-guide/"><u>Mastering ORCA-Slicer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-the-ultimate-guide-from-toms-gear-analysis/"><u>Mastering Technology: The Ultimate Guide From Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-cosmos-of-3d-printing-an-expert-review-on-elegoos-revolutionary-neptune-4-plus-with-speedy-outputs/"><u>Mastering the Cosmos of 3D Printing - An Expert Review on Elegoo's Revolutionary Neptune 4 Plus with Speedy Outputs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-machine-tips-from-toms-hardware-pros/"><u>Mastering Your Machine: Tips From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technologys-ocean-with-toms-hardware-wisdom/"><u>Navigating Technology's Ocean with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-cutting-edge-technology-at-toms-hardware-review/"><u>Navigating Through Cutting-Edge Technology at Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronic-marketplace-top-hardware-picks/"><u>Navigating Tom's Electronic Marketplace: Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-gear-discoveries-from-toms-digital-world/"><u>Pioneering Gear Discoveries From Tom's Digital World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pumpless-vs-pump-powered-the-24naio-coolers-remarkable-performance-just-8c-behind-competitors/"><u>Pumpless Vs. Pump-Powered: The 24nAiO Cooler's Remarkable Performance Just 8C Behind Competitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplifying-the-creation-of-colorful-computers-with-hytes-revolutionary-rgb-device-network/"><u>Simplifying the Creation of Colorful Computers with Hyte's Revolutionary RGB Device Network</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-gpu-overheats-preserving-system-availability/"><u>Solutions to GPU Overheats: Preserving System Availability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-showdown-honoring-the-legendary-voron/"><u>Sovol SV08 Speedster Showdown: Honoring the Legendary Voron</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-on-converting-fbx-to-obj-files-for-optimized-3d-prints/"><u>Step-by-Step Tutorial on Converting FBX to OBJ Files for Optimized 3D Prints</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-airdrop-get-back-on-track-with-our-ultimate-guide-16-effective-fixes-inside/"><u>Struggling with AirDrop? Get Back on Track with Our Ultimate Guide - 16 Effective Fixes Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-critics-choice-an-expert-look-at-hardware-by-toms-equipmentreview/"><u>Tech Critic's Choice: An Expert Look at Hardware by Tom's EquipmentReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-surprisingly-hushed-power-of-deepcool-assassin-4s-expert-gaming-cooler-reviews/"><u>The Surprisingly Hushed Power of DeepCool Assassin 4S - Expert Gaming Cooler Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-by-tom/"><u>The Ultimate Resource for Hardware Enthusiasts by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-leading-wireless-keyboard-models-for-2n45/"><u>The Ultimate Selection: Leading Wireless Keyboard Models for 2N45</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiktoks-oversight-leads-to-bambu-lab-buyers-receiving-a1-3d-printer-replacements-safety-concerned-models-included/"><u>TikTok’s Oversight Leads to Bambu Lab Buyers Receiving A1 3D Printer Replacements, Safety Concerned Models Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-deep-dives-into-cutting-edge-hardware-technology/"><u>Tom's Computer Insights: Deep Dives Into Cutting-Edge Hardware Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-top-performance-selecting-quality-computer-hardware/"><u>Tom's Guide to Top Performance: Selecting Quality Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-insider-look-top-tier-tech-and-hardware-reviews/"><u>Tom’s Insider Look: Top-Tier Tech and Hardware Reviews</u></a></li>
+</ul></div>

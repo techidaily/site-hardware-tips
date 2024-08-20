@@ -1,7 +1,7 @@
 ---
 title: "PC Build Without a Hitch: Console-Based Simulator Arrives"
-date: 2024-08-16 15:26:33
-updated: 2024-08-18 12:46:20
+date: 2024-08-19T02:32:31.013Z
+updated: 2024-08-20T02:32:31.013Z
 tags:
   - build
 categories:
@@ -90,6 +90,9 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -120,12 +123,18 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -146,10 +155,21 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +190,54 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stream-to-success-obs-youtube-broadcast-basics/"><u>[New] 2024 Approved  Stream to Success  OBS Youtube Broadcast Basics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-webcam-video-capture-using-vlc-for-2024/"><u>[Updated] Easy Webcam Video Capture Using VLC for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[Updated] In 2024, Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unleash-creativity-with-these-top-10-instagram-reel-apps/"><u>[Updated] In 2024, Unleash Creativity with These Top 10 Instagram Reel Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-5-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Magic 5 by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-refund-how-tiktoks-error-resulted-in-bambu-lab-a1-3d-printing-enthusiasts-getting-new-and-older-printers-by-mistake/"><u>Accidental Refund: How TikTok's Error Resulted in Bambu Lab A1 3D Printing Enthusiasts Getting New and Older Printers by Mistake</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175634502-avoid-potential-warranty-issues-with-arctic-liquid-freezer-iii-essential-custom-contact-solutions-for-intel-processors/"><u>Avoid Potential Warranty Issues with Arctic Liquid Freezer III: Essential Custom Contact Solutions for Intel Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcool-unveils-latest-lineup-of-innovative-coolers-power-units-and-fans-enhance-your-builds-with-stylish-pixel-silicone-accents/"><u>DeepCool Unveils Latest Lineup of Innovative Coolers, Power Units & Fans - Enhance Your Builds with Stylish Pixel Silicone Accents</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-gadget-insights-with-toms-expertise-top-picks/"><u>Detailed Gadget Insights with Tom's Expertise | Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-expert-insights-from-toms-hardware/"><u>Discover Top Hardware Picks - Expert Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-cutting-edge-3d-printing-at-rapid-plus-tct-2024-a-first-look-at-the-latest-printers-and-materials/"><u>Dive Into Cutting-Edge 3D Printing at Rapid + TCT 2024 – A First Look at the Latest Printers & Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-the-world-of-gadgets-premium-guides-and-in-depth-analysis-by-toms-hardware-your-trusted-tech-authority/"><u>Dive Into the World of Gadgets - Premium Guides & In-Depth Analysis by Tom's Hardware | Your Trusted Tech Authority!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-photo-edits-adobes-1-lut-selection-for-lightroom/"><u>Elevate Your Photo Edits  Adobe's #1 LUT Selection For LightRoom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-multitasking-pip-configuration-on-iphone-youtube/"><u>Enhance Multitasking  PIP Configuration on iPhone YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-you-encounter-an-invalid-directory-error-message/"><u>Expert Solutions for When You Encounter an Invalid Directory Error Message</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125171231-get-set-to-print-like-never-before-creality-releases-launch-date-cost-and-full-specs-of-their-latest-k1c-masterpiece/"><u>Get Set to Print Like Never Before: Creality Releases Launch Date, Cost and Full Specs of Their Latest K1C Masterpiece</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-13-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-15-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 15? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-broadcasting-vids-directly-from-phone-twitter-without-retweets/"><u>In 2024, Broadcasting Vids Directly From Phone – Twitter, Without Retweets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-photography-the-leading-cams/"><u>In 2024, Getting Started with Photography  The Leading Cams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>In 2024, Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronics-empire-top-picks-in-computing-hardware/"><u>Navigating Tom's Electronics Empire: Top Picks in Computing Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-your-tech-choices-with-expert-advice-from-toms-hardware-wisdom/"><u>Navigating Your Tech Choices with Expert Advice From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-digital-trailer-development-agencies/"><u>New Digital Trailer Development Agencies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-experience-the-power-of-a-new-superior-radiator-with-moora-iv-600-nine-incredible-200mm-fans-weighing-over-35lbs-at-just-600/"><u>Next-Level Gaming: Experience the Power of a New Superior Radiator with MOORA IV 600 - Nine Incredible 200Mm Fans, Weighing Over 35Lbs at Just $600</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-in-star-wars-squadrons-the-solution-unveiled/"><u>Overcoming Challenges in Star Wars Squadrons - The Solution Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/parrots-advanced-ar-drone-assessment-report/"><u>Parrot's Advanced AR Drone - Assessment Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-up-your-portable-play-with-the-fastest-ssd-options-for-steam-deck-gamers/"><u>Power Up Your Portable Play with the Fastest SSD Options for Steam Deck Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-episodes-your-guide-to-gpodc-mastery-for-2024/"><u>Prime Episodes  Your Guide to GPodC Mastery for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-verdict-unveiling-the-capabilities-of-the-xtool-s1-diode-laser-system-for-personal-workspaces/"><u>Professional Verdict: Unveiling the Capabilities of the XTool S1 Diode Laser System for Personal Workspaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-strategies-for-comprehensible-comic-consumption-on-win11/"><u>Proven Strategies for Comprehensible Comic Consumption on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-diy-fabrication-an-insightful-evaluation-of-the-elegoo-neptune-4-pros-capabilities/"><u>Revolutionizing DIY Fabrication – An Insightful Evaluation of the Elegoo Neptune 4 Pro's Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/speedy-tips-elevating-your-systems-velocity-in-7-ways/"><u>Speedy Tips: Elevating Your System’s Velocity in 7 Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-3d-printing-solutions-with-recycled-kitchenware-as-premium-filament-source/"><u>Sustainable 3D Printing Solutions with Recycled Kitchenware as Premium Filament Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-resource-for-computer-enthusiasts-toms-hardware-explored/"><u>The Definitive Resource for Computer Enthusiasts - Tom's Hardware Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-tenth-birthday-gift-from-creality-unveiling-their-first-multi-colored-3d-printer/"><u>The Perfect Tenth Birthday Gift From Creality: Unveiling Their First Multi-Colored 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-your-next-pc-advice-from-toms-hardware/"><u>The Ultimate Guide to Choosing Your Next PC - Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews & Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performance-nvme-ssds-perfect-for-your-steam-deck-adventures/"><u>Top Performance NVMe SSDs Perfect for Your Steam Deck Adventures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-power-supply-units-ultimate-selection/"><u>Top Rated Gaming Power Supply Units : Ultimate Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-ideal-password-keepers-features-both-gratis-and-premium-choices/"><u>Ultimate Guide to Selecting Ideal Password Keepers - Features Both Gratis and Premium Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-open-source-with-sk1-a-comprehensive-two-trees-supercomputer-evaluation/"><u>Unveiling the Power of Open Source with SK1 - A Comprehensive Two Trees Supercomputer Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-build-with-hyte-newly-released-premium-coolers-eye-catching-lights-and-extensive-control-over-motherboard-components-like-rgb-customization-and13/"><u>Upgrade Your Build with Hyte: Newly Released Premium Coolers, Eye-Catching Lights, and Extensive Control Over Motherboard Components Like RGB Customization and USB-Powered Fans</u></a></li>
+</ul></div>

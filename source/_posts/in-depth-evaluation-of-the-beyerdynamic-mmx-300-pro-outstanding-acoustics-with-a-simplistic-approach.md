@@ -1,7 +1,7 @@
 ---
 title: In-Depth Evaluation of the Beyerdynamic MMX 300 Pro - Outstanding Acoustics with a Simplistic Approach
-date: 2024-08-17 18:19:33
-updated: 2024-08-18 11:26:56
+date: 2024-08-19T02:28:33.842Z
+updated: 2024-08-20T02:28:33.842Z
 tags:
   - peripherals
 categories:
@@ -120,6 +120,9 @@ Today's best Keychron Q1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing and Gaming Experience on the Q1 HE
 
  The prebuilt Q1 HE comes with Gateron 2.0 Nebula switches, which are linear magnetic switches with a starting force of 40g and a bottom-out force of 60g. This is the only prebuilt switch option, but Keychron also sells two other compatible switches separately — Gateron 2.0 Dawn (linear, 30g starting force, 50g bottom-out) and Gateron 2.0 Aurora (linear, 50g starting force, 70g bottom-out).
@@ -128,6 +131,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE's switches are pre-lubed and have a dual-rail structure designed to reduce stem wobble. This works well; the switches are smooth and stable — there's still some stem wobble but it's not bad. The board features a double gasket mount design that makes for a comfortable typing experience, and the case is lined with sound-dampening foam and an acoustic pad to reduce ping. It's a nice-sounding keyboard out of the box, though there's some noticeable stabilizer rattle (especially in the space bar) and bottoming out sounds slightly dull. The Q1 HE's sound is not too far from that of the Boog75 — but I did have a (mild, but definitive) preference for the latter.
@@ -142,6 +148,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can customize the Q1 HE with Keychron Launcher, Keychron's new web-based tool that supports all of its keyboards. It's Keychron's in-house answer to VIA and it's very similar — it only works in WebHID-enabled browsers and you'll need to connect the keyboard via USB-C to use it. It has several sections: HE Mode, keymapping, lighting, macros, firmware updates, key testing, and bug reports. In the HE Mode tab, you can set switch actuation, turn on and customize Rapid Trigger, program multiple inputs on individual keys, and set up gamepad emulation. It's not the most polished software I've used (updating the board's firmware was a little messy) but it wasn't too difficult to figure out.
@@ -150,6 +159,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -162,6 +174,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -178,6 +193,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -186,6 +204,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
@@ -216,3 +237,52 @@ Today's best Keychron Q1 deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-djis-innovation-race-how-mavic-air-shifts-the-scene-against-spark-for-2024/"><u>[New] DJI’s Innovation Race  How Mavic Air Shifts the Scene Against Spark for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ranked-your-must-have-5-iphones-for-excellent-podcasting-for-2024/"><u>[New] Ranked  Your Must-Have 5 iPhones for Excellent Podcasting for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-images-into-textbooks-photo-text-editor-hacks/"><u>[New] Transform Images Into Textbooks  Photo Text Editor Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-efficient-windows-11-recorders-to-ace-your-content/"><u>[Updated] In 2024, Efficient Windows 11 Recorders to Ace Your Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-record-android-internal-sound-4-non-root-methods/"><u>[Updated] Record Android Internal Sound  4 Non-Root Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-new-realms-a-detailed-jaunt-vr-review/"><u>2024 Approved  Exploring New Realms  A Detailed Jaunt VR Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/analyzing-the-flsun-s1s-eccentric-delta-design-and-lightning-quick-functionality-a-comprehensive-review/"><u>Analyzing the FLSun S1's Eccentric Delta Design & Lightning-Quick Functionality – A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-curve-enhanced-monitoring-systems-for-gamers-in-24/"><u>Best Curve-Enhanced Monitoring Systems for Gamers in 2#4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-phrozen-sonic-mega-8ks-synth-resin-evaluation-ideal-for-printing-enthusiasts/"><u>Comprehensive Phrozen Sonic Mega 8Ks Synth Resin Evaluation - Ideal for Printing Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-engineering-sample-for-amd-ryzen-e-9-9950x-efficiency-benchmarks-in-various-tdp-settings/"><u>Comprehensive Review of the Engineering Sample for AMD Ryzen E 9 9950X - Efficiency Benchmarks in Various TDP Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-master-sets-record-straight-on-cryofuze-5-no-artificial-intelligence-just-advanced-thermal-tech/"><u>Cooler Master Sets Record Straight on CryoFuze 5 - No Artificial Intelligence, Just Advanced Thermal Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/corsair-k70-compatibility-download-required-drivers-and-setup-files/"><u>Corsair K70 Compatibility: Download Required Drivers & Setup Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcool-assassin-4s-cooler-evaluation-silent-and-powerful-performance/"><u>DeepCool Assassin 4S Cooler Evaluation: Silent and Powerful Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-in-sound-quality-leading-bluetooth-gaming-headsets-for-gamers-on-a-budget-202/"><u>Discover the Finest in Sound Quality: Leading Bluetooth Gaming Headsets for Gamers on a Budget (202#)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-curated-by-tomn-tech-wisdom/"><u>Discover Top Hardware Picks Curated by Tom'n Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-new-gadgets-with-toms-computing-hub/"><u>Discovering New Gadgets with Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-efficiency-enhance-performance-with-arctics-new-36x36-freezer-for-the-incoming-intel-cpu-lineup/"><u>Embrace Efficiency: Enhance Performance with Arctic's New 36X36 Freezer for the Incoming Intel CPU Lineup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-toms-electronics-hub/"><u>Exploring Gadgets with Tom's Electronics Hub</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressing-gratitude-in-mandarin-a-beginners-guide/"><u>Expressing Gratitude in Mandarin: A Beginner's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-ultimate-budget-gamer-laptop-for-up-to-950/"><u>Find the Ultimate Budget Gamer Laptop for Up to $950</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impressively-sizable-elegoo-3d-printers-can-they-handle-printing-a-toddlers-model/"><u>Impressively Sizable Elegoo 3D Printers – Can They Handle Printing a Toddler's Model?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-search-for-master-video-artists/"><u>In 2024, Navigating the Search for Master Video Artists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-data-encoding-leveraging-common-plastics-for-ultra-efficient-3d-hologram-storage-capable-of-holding-up-to-amoeba-bits/"><u>Innovative Data Encoding: Leveraging Common Plastics for Ultra-Efficient 3D-Hologram Storage Capable of Holding Up to Amoeba Bits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-confirms-upcoming-launch-of-the-arrow-lake-s-processor-range-december-announcement-expected/"><u>Intel Confirms Upcoming Launch of the Arrow Lake-S Processor Range - December Announcement Expected</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintaining-data-security-effective-strategies-for-using-chatgpt-at-work-without-compromising-privacy/"><u>Maintaining Data Security: Effective Strategies for Using ChatGPT at Work Without Compromising Privacy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-the-ultimate-resource-from-toms-hardware/"><u>Mastering Electronics: The Ultimate Resource From Tom's Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wsl-enabling-linux-in-windows-environment/"><u>Mastering WSL: Enabling Linux in Windows Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware/"><u>Navigate the Tech World: In-Depth Analysis by Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-components-insights-from-toms-hardware-review/"><u>Navigating the World of Computer Components: Insights From Tom's Hardware Review</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rumored-december-release-intels-upcoming-arrow-lake-s-processor/"><u>Rumored December Release: Intel's Upcoming Arrow Lake-S Processor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-reducing-and-fixing-stringing-problems-in-your-3d-printing-endeavors/"><u>Strategies for Reducing and Fixing Stringing Problems in Your 3D Printing Endeavors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-from-toms-hardware-exploring-the-latest-in-computing/"><u>Tech Insights From Tom's Hardware - Exploring the Latest in Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-tech-resource-hub-insights-by-toms-hardware-professionals/"><u>The Complete Tech Resource Hub: Insights by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-optimal-cpu-thermal-management-with-aio-units-2024-edition/"><u>The Definitive Guide to Optimal CPU Thermal Management with AIO Units - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-electronics-hardware-deep-dives/"><u>Tom's Guide to Cutting-Edge Electronics: Hardware Deep Dives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-essentials-your-ultimate-guide-to-modern-devices/"><u>Tom's Hardware Essentials: Your Ultimate Guide to Modern Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guide/"><u>Tom's Tech Reviews: In-Depth Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-filaments-of-2024/"><u>Top Recommended 3D Printing Filaments of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-aluminum-intercooler-units-of-2024-the-ultimate-selection/"><u>Top-Rated Aluminum Intercooler Units of 2024: The Ultimate Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultrathin-and-powerful-laptops-of-2024-the-definitive-guide/"><u>Top-Rated Ultrathin & Powerful Laptops of 2024: The Definitive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-2024-cpu-savings-guide-insider-tips-for-buying-amdintel/"><u>Ultimate 2024 CPU Savings Guide: Insider Tips for Buying AMD/Intel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-meme-design-masterpieces-for-2024/"><u>Ultimate List  Meme Design Masterpieces for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computers-insights-from-toms-hardware-hub/"><u>Unraveling the World of Computers: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-exploring-toms-hardware-world/"><u>Unveiling the Latest Gadgets: Exploring Tom's Hardware World</u></a></li>
+</ul></div>

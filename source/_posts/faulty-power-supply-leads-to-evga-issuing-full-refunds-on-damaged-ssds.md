@@ -1,7 +1,7 @@
 ---
 title: Faulty Power Supply Leads to EVGA Issuing Full Refunds on Damaged SSDs
-date: 2024-08-16 20:54:24
-updated: 2024-08-18 12:44:12
+date: 2024-08-19T02:27:08.713Z
+updated: 2024-08-20T02:27:08.713Z
 tags:
   - power-supply
 categories:
@@ -66,12 +66,18 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
  Back to Everything
@@ -80,6 +86,10 @@ Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -92,6 +102,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Black
 
  White
@@ -100,6 +113,18 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -108,6 +133,10 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -274,3 +303,69 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-download-youtube-playlists-in-minutes-for-2024/"><u>[New] Expert Tips  Download YouTube Playlists in Minutes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-computers-notebook-recommendations-for-editors/"><u>[New] In 2024, Cutting-Edge Computers  Notebook Recommendations for Editors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-embracing-digital-learning-a-teachers-resource/"><u>[New] In 2024, Embracing Digital Learning  A Teacher's Resource</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-guide-the-ultimate-list-of-video-converters/"><u>[New] In 2024, Guide  The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-setting-up-your-microphone-on-windows-11/"><u>[New] Setting Up Your Microphone on Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-revolutionize-file-formats-with-rapid-srt-transformation/"><u>[Updated] 2024 Approved  Revolutionize File Formats with Rapid SRT Transformation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks/"><u>[Updated] In 2024, The Ultimate Pathway  Autoplay YouTube Videos Within FB Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ace-your-messaging-must-know-advanced-tricks-and-techniques-in-whatsapp/"><u>2024 Approved  Ace Your Messaging  Must-Know Advanced Tricks and Techniques in WhatsApp</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-practices-selecting-among-top-9-free-logo-designers/"><u>2024 Approved  Best Practices  Selecting Among Top 9 Free Logo Designers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-a-digital-identity-with-inspiring-instagram-captions/"><u>2024 Approved  Crafting a Digital Identity with Inspiring Instagram Captions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860304258-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>2024 Approved  PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-securing-youtube-srt-files-a-threefold-procedure/"><u>2024 Approved  Securing YouTube SRT Files  A Threefold Procedure</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-transform-your-youtube-channels-with-impactful-branding-strategies/"><u>2024 Approved  Transform Your YouTube Channels with Impactful Branding Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/2024s-guide-to-a-working-zoom-camera-on-demand/"><u>2024’S Guide to a Working Zoom Camera on Demand</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-for-high-quality-resin-3d-printers/"><u>2024'S Top Picks for High-Quality Resin 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9-era-begins-as-modelfarm-reduces-failures-by-50-using-unreal-engine-and-intel-cpus-next-up-supercharged-single-threading/"><u>AMD Ryzen 9 Era Begins as ModelFarm Reduces Failures by 50%% Using Unreal Engine & Intel CPUs: Next Up, Supercharged Single-Threading</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-ai-9-hx-aster-apples-m3-max-in-speed-a-deep-dive-into-single-core-benchmark-results/"><u>AMD's Ryzen AI 9 HX Aster Apple's M3 Max in Speed - A Deep Dive Into Single-Core Benchmark Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-your-pc-faster-try-corsairs-new-single-turn-installation-screw-and-save-precious-seconds/"><u>Building Your PC Faster? Try Corsair’s New Single-Turn Installation Screw and Save Precious Seconds!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-the-elegoo-3d-printer-produce-scalable-models-as-big-as-a-small-kid/"><u>Can the Elegoo 3D Printer Produce Scalable Models as Big as a Small Kid?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-conversations-opening-lines-in-audios/"><u>Captivating Conversations  Opening Lines in Audios</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-corsair-air-a115-cooler-analysis-powerful-performance-at-a-high-cost/"><u>Comprehensive Corsair Air A115 Cooler Analysis: Powerful Performance at a High Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-the-problem-insights-into-teredos-eligibility-issues/"><u>Decoding the Problem: Insights Into Teredo's Eligibility Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diving-deeper-into-dac-technology-is-it-worth-adding-to-your-audio-setup/"><u>Diving Deeper Into DAC Technology: Is It Worth Adding To Your Audio Setup?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175725621-edgeai-optimized-coolers-unveiling-frores-aircell-pak-series-ideal-up-to-25-watt-systems/"><u>EdgeAI Optimized Coolers - Unveiling Frore's Aircell PAK Series, Ideal Up To 25 Watt Systems!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714264-explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-tech-at-toms-hardware-gadget-experts/"><u>Explore the Latest Tech at Tom's Hardware - Gadget Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-solutions-on-toms-hardware-hub/"><u>Exploring Advanced Computing Solutions on Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovations-with-toms-hardware-insights/"><u>Exploring Innovations with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-innovations-at-toms-tech-hub/"><u>Exploring the Latest Innovations at Tom's Tech Hub</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175713785-get-the-best-of-both-worlds-a-high-quality-ips-display-and-stunning-rgb-illumination-with-the-valkyrie-al1-125-cpu-cooling-unit-under-20/"><u>Get the Best of Both Worlds: A High-Quality IPS Display and Stunning RGB Illumination with the Valkyrie AL1 125 CPU Cooling Unit Under $20</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/halo-infinite-sound-fixes-effective-solutions-to-restore-your-gaming-experience/"><u>Halo Infinite Sound Fixes: Effective Solutions to Restore Your Gaming Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-anycubic-kobra-3-with-multi-color-capabilities/"><u>In-Depth Review of the Anycubic Kobra 3 with Multi-Color Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-tips-from-toms-tech-hub/"><u>In-Depth Reviews & Tips From Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-machine-expert-advice-from-toms-computer-chronicles/"><u>Master Your Machine: Expert Advice From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-through-toms-tech-wisdom/"><u>Mastering Hardware Knowledge Through Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-trends-with-expert-analysis-by-tom/"><u>Mastering Tech Trends with Expert Analysis by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computer-components-with-toms-hardware-guides/"><u>Mastering the World of Computer Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-with-toms-hardware-experts/"><u>Navigating New Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-trails-with-tom-a-deeper-dive-into-computer-parts-and-systems/"><u>Navigating Technology Trails with Tom: A Deeper Dive Into Computer Parts and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/redefining-thermal-management-noctuas-revolutionary-cooler-design-for-the-grace-hopper-gpu/"><u>Redefining Thermal Management: Noctua's Revolutionary Cooler Design for the Grace Hopper GPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-pc-parts-with-ease-discover-insights-from-toms-tech-hub/"><u>Selecting PC Parts with Ease: Discover Insights From Tom's Tech Hub</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stardew-insider-exploring-ginger-island-thoroughly/"><u>Stardew Insider  Exploring Ginger Island Thoroughly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-on-pc-components-by-toms-gadget-hub/"><u>The Ultimate Resource on PC Components by Tom's Gadget Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-the-latest-in-computing-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest in Computing Hardware</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-11-solutions-to-overcome-borderlands-3-wont-start-issues/"><u>Top 11 Solutions to Overcome 'Borderlands 3 Won't Start' Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-light-into-art-a-comprehensive-guide-to-printing-lithophanes-in-3d/"><u>Transforming Light Into Art: A Comprehensive Guide to Printing Lithophanes in 3D</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-best-college-desktops-perfect-for-study-sessions-and-leisure-time/"><u>Ultimate List of Best College Desktops: Perfect for Study Sessions & Leisure Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-performance-deep-dives-into-computer-components-by-tom/"><u>Unleashing Performance: Deep Dives Into Computer Components by Tom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-savings-discover-our-choice-of-6-cutting-edge-deal-sites/"><u>Unlock Savings: Discover Our Choice of 6 Cutting-Edge Deal Sites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125241888-unlocking-performance-secrets-with-toms-hardware-experts/"><u>Unlocking Performance Secrets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-potential-with-tom-the-definitive-hardware-handbook/"><u>Unlocking Tech Potential with Tom - The Definitive Hardware Handbook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-hardware-technology-by-tom/"><u>Unlocking the Secrets of Hardware Technology by Tom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-key-variations-between-community-driven-company-managed-and-personal-ai-experiences/"><u>Unveiling the Key Variations Between Community-Driven, Company-Managed, and Personal AI Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-screen-reset-3-straightforward-solutions/"><u>Win11 Screen Reset: 3 Straightforward Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/wu-and-orchestrator-the-pillars-of-update-routine/"><u>WU & Orchestrator: The Pillars of Update Routine</u></a></li>
+</ul></div>

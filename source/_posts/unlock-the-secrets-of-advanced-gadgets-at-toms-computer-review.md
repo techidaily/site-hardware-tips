@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Advanced Gadgets at Tom’s Computer Review
-date: 2024-08-15 15:16:47
-updated: 2024-08-17 12:55:20
+date: 2024-08-19T02:50:47.250Z
+updated: 2024-08-20T02:50:47.250Z
 tags:
   - laptop
 categories:
@@ -82,6 +82,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -96,6 +99,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -114,12 +120,23 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -138,12 +155,18 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -164,6 +187,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -176,18 +202,27 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -252,3 +287,61 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-permanent-instagram-exit-strategy/"><u>[New] 2024 Approved  The Ultimate Blueprint for Permanent Instagram Exit Strategy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-snapchat-sponsored-content-for-2024/"><u>[New] Mastering the Art of Snapchat Sponsored Content for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-download-installation-and-operation-simplified-guide-to-ez-grabber/"><u>[Updated] 2024 Approved  Download, Installation, and Operation Simplified Guide to EZ Grabber</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[Updated] 2024 Approved  The Compre Point  Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-correct-fb-chat-display-revealed-as-yourself-for-2024/"><u>[Updated] Correct FB Chat Display  Revealed as Yourself for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insider-secrets-mastering-unseen-social-media-features/"><u>[Updated] In 2024, Insider Secrets  Mastering Unseen Social Media Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-strategies-to-promote-vimeo-films/"><u>[Updated] In 2024, Strategies to Promote Vimeo Films</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-the-potential-of-screen-sharing-on-google-meet-for-2024/"><u>[Updated] Unlocking the Potential of Screen Sharing on Google Meet for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-captivating-storytelling-with-these-6-snapchat-video-editors/"><u>2024 Approved  Captivating Storytelling with These 6 Snapchat Video Editors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Fingerprint Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/celebrating-maker-spirits-creative-otu-packs/"><u>Celebrating Maker Spirits  Creative OTU Packs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-noctuas-game-changer-the-prototype-for-pumpless-eco-friendly-aio-liquid-cooling-system/"><u>Discover Noctua's Game-Changer: The Prototype for Pumpless, Eco-Friendly AIO Liquid Cooling System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-value-cpu-picks-for-2abies-as-tested-and-evaluated-by-toms-hardware/"><u>Discover the Best Value CPU Picks for 2Abies, as Tested and Evaluated by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-reviews/"><u>Discover the Latest in Tech with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-chair-models-of-2-for-optimal-play-comfort/"><u>Discover the Leading Gaming Chair Models of 2# for Optimal Play Comfort</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-secrets-behind-the-popular-creality-ender-3-v3-ke-a-detailed-seo-guide-for-savvy-shoppers/"><u>Discovering the Secrets Behind the Popular Creality Ender 3 V3 Ke - A Detailed SEO Guide for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-top-tier-performance-save-75-with-the-editors-choice-elegoo-neptune-4-pro/"><u>Don't Miss Out on Top-Tier Performance - Save $75 with the Editor's Choice, Elegoo Neptune 4 Pro!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ekwb-owns-up-company-apologizes-for-late-remittances-vows-improved-practices/"><u>EKWB Owns Up: Company Apologizes for Late Remittances, Vows Improved Practices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-playstation-5-experience-with-leading-ssd-upgrades-and-speed-enhancements/"><u>Elevate PlayStation 5 Experience with Leading SSD Upgrades and Speed Enhancements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-scythe-mugen-6-and-mugen-6-black-edition-cutting-edge-quiet-cooling-at-a-competitive-price-range/"><u>Expert Analysis of the Scythe Mugen 6 and Mugen 6 Black Edition: Cutting-Edge Quiet Cooling at a Competitive Price Range</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-how-does-the-levelplay-combat-air-ca4-keep-your-cpu-cool-and-quiet/"><u>Expert Review: How Does the Levelplay Combat Air CA4 Keep Your CPU Cool and Quiet?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-gear-with-tom-insights-and-analysis/"><u>Exploring Advanced Computing Gear with Tom - Insights & Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-your-go-to-guide/"><u>Exploring Technology with Tom - Your Go-To Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-tom-comprehensive-hardware-guides/"><u>Exploring the Latest Gadgets with Tom - Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-guides/"><u>Exploring the Latest Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-role-of-generative-ai-in-propagating-fake-news-what-we-need-to-know/"><u>Exploring the Role of Generative AI in Propagating Fake News: What We Need to Know</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-driver-ac1200wifi-usb-by-netgear/"><u>Get Your Driver: Ac1200WiFi USB by NETGEAR</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/halt-predicted-posts-no-more-suggests-on-insta-for-2024/"><u>Halt Predicted Posts  No More Suggests on Insta for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-phantom-v-flip-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Phantom V Flip Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-xr-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone XR Face ID?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme Narzo 60 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-why-the-arctic-liquid-freezer-iii-aio-doesnt-meet-expectations/"><u>In-Depth Review: Why the Arctic Liquid Freezer III AIO Doesn't Meet Expectations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-tech-solutions-spotlighted-at-toms-hardware-hub/"><u>Innovative Tech Solutions Spotlighted at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lian-lis-innovative-hydroshift-lcd-360s-case-a-game-changer-in-gaming-tech/"><u>Lian Li's Innovative Hydroshift LCD 360S Case: A Game Changer in Gaming Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-build-top-picks-and-reviews-on-the-latest-hardware-by-toms-gurus/"><u>Master Your Build: Top Picks and Reviews on the Latest Hardware by Tom's Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-equipment-choices-the-ultimate-guide-from-toms-hardware/"><u>Mastering Equipment Choices - The Ultimate Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-gizmos-the-ultimate-guide-by-tom/"><u>Mastering Gadgets & Gizmos: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-electronic-insights/"><u>Mastering Gadgets with Tom's Electronic Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-toms-technology-hub/"><u>Mastering Gadgets: The Ultimate Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-hardware-in-depth-reviews-by-tom/"><u>Mastering Modern Hardware: In-Depth Reviews by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-future-of-computing-on-toms-hardware-platform/"><u>Navigating the Future of Computing on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-guidance/"><u>Navigating the Latest in Technology with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-advanced-technology-at-toms-hardware-expert-guidance-for-your-digital-needs/"><u>Navigating the World of Advanced Technology at Tom's Hardware – Expert Guidance for Your Digital Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-at-toms-hardware-haven/"><u>Navigating the World of Tech at Tom's Hardware Haven</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-launcher-lockups-windows-edition/"><u>Navigating Through Launcher Lockups - Windows Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-analysis-on-tomtechchannel/"><u>Pioneering Hardware Analysis on TomTechChannel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-analysis-on-digital-devices-by-toms-technology-experts/"><u>Pioneering Reviews and Analysis on Digital Devices by Tom's Technology Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/removing-user-authentication-code-from-windows-11-a-how-to/"><u>Removing User Authentication Code From Windows 11 – A How-To</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-tp-link-re5-surveillance-5-x-wireless-repeater-a-thorough-review-by-tech-experts/"><u>The TP-Link RE5 Surveillance 5 X Wireless Repeater - A Thorough Review by Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-scoop-on-samsungs-big-day-a-complete-guide-to-whats-coming/"><u>Your Scoop on Samsung's Big Day - A Complete Guide to What’s Coming</u></a></li>
+</ul></div>

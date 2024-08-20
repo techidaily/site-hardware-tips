@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair an Antec Aria AR300 PSU
-date: 2024-08-17 16:53:55
-updated: 2024-08-18 11:15:50
+date: 2024-08-19T02:27:16.354Z
+updated: 2024-08-20T02:27:16.354Z
 tags:
   - power-supply
 categories:
@@ -66,12 +66,18 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
  Back to Everything
@@ -80,6 +86,9 @@ Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -92,6 +101,10 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  Black
 
  White
@@ -100,6 +113,10 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -108,6 +125,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -274,3 +294,59 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-backward-glance-decoding-youtube-video-reversals-for-2024/"><u>[New] Backward Glance  Decoding YouTube Video Reversals for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/levate-your-earning-game-with-youtubes-member-status-for-2024/"><u>[New] Elevate Your Earning Game with YouTube's Member Status for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/1716183625700-new-in-2024-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[New] In 2024, How to Add Instagram Filter to Existing Photos and Videos?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-10-sketch-tools-ideal-for-chromebook-users/"><u>[New] Top 10 Sketch Tools Ideal for Chromebook Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[Updated] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-open-source-video-players-for-linux-windows-and-mac/"><u>2024 Approved  10 Open Source Video Players for Linux, Windows and Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-accessibility-achieved-the-simple-setup-of-ifunny-app/"><u>2024 Approved  Accessibility Achieved  The Simple Setup of iFunny App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>2024 Approved  Becoming an Instagram Video Conversation Guru  Your Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-your-channels-potential-the-cost-analysis/"><u>2024 Approved  Unlocking Your Channel's Potential  The Cost Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-why-and-how-to-choose-a-lone-players-path-in-apex-legends/"><u>2024 Approved  Why and How to Choose a Lone Player's Path in Apex Legends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-chill-expert-analysis-of-id-coolings-frozn-models-a410-and-a/"><u>Affordable Chill: Expert Analysis of ID-Cooling's FROZN Models A410 & A</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aida64-pirate-scandal-lamptron-utilizes-bogus-licenses-for-enhanced-display-tech/"><u>AIDA64 Pirate Scandal: Lamptron Utilizes Bogus Licenses for Enhanced Display Tech</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/break-new-ground-in-social-sagas-free-extended-versions-await-for-2024/"><u>Break New Ground in Social Sagas – Free, Extended Versions Await for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Galaxy F54 5G ?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-energy-providers-for-your-cryptocurrency-venture-dependable-psus-for-eth-and-btc/"><u>Choosing the Best Energy Providers for Your Cryptocurrency Venture: Dependable PSUs for ETH and BTC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-pc-parts-and-devices-a-deep-dive-by-toms-hardware-experts/"><u>Discover Top PC Parts & Devices: A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-cutting-edge-technology-toms-electronic-insights/"><u>Dive Into Cutting-Edge Technology: Tom’s Electronic Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-leading-3d-printing-filaments-to-watch/"><u>Expert Picks: Leading 3D Printing Filaments to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-solutions-with-toms-digital-workshop/"><u>Exploring Hardware Solutions with Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-gaming-keyboard-best-picks-exploring-full-size-tkl-and-compact-varieties/"><u>Find Your Perfect Gaming Keyboard: Best Picks - Exploring Full-Size, TKL and Compact Varieties</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/geekbench-6-showdown-snapdragon-xs-impressive-stats-with-a-month-long-run/"><u>Geekbench 6 Showdown: Snapdragon X's Impressive Stats with a Month-Long Run</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-of-both-worlds-a-high-quality-ips-display-and-stunning-rgb-illumination-with-the-valkyrie-al1-125-cpu-cooling-unit-under-20/"><u>Get the Best of Both Worlds: A High-Quality IPS Display and Stunning RGB Illumination with the Valkyrie AL1 125 CPU Cooling Unit Under $20!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-1n-sound-issues-complete-solution/"><u>How to Repair Windows 1N Sound Issues - Complete Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>In 2024, The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-phrozens-sonic-mega-8ks-resin-a-top-choice-for-advanced-printing-operations/"><u>In-Depth Review of Phrozen's Sonic Mega 8kS Resin: A Top Choice for Advanced Printing Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-top-picks-from-toms-computer-world/"><u>Inside Look: Top Picks From Tom's Computer World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-computing-the-ultimate-guide-by-toms-hardware-specialists/"><u>Inside Scoop on Computing: The Ultimate Guide by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/majority-of-intel-lunar-lake-development-taken-over-by-third-party-enhanced-with-panther-lake-and-clearwater-forest-technologies/"><u>Majority of Intel Lunar Lake Development Taken Over by Third-Party, Enhanced with Panther Lake & Clearwater Forest Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-in-modern-devices-from-toms-hardware-analysis/"><u>Masterclass in Modern Devices From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/masterful-screenshots-made-simple-top-10-free-mac-apps-for-2024/"><u>Masterful Screenshots Made Simple – Top 10 FREE Mac Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-budget-in-additive-manufacturing-a-step-by-step-approach/"><u>Mastering Your Budget in Additive Manufacturing: A Step-by-Step Approach</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/moto-g-power-review-solid-performance-and-outstanding-battery-life/"><u>Moto G Power Review: Solid Performance and Outstanding Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-journey-with-diy-gun-production-via-3d-printer-debunking-the-hype/"><u>My Journey with DIY Gun Production via 3D Printer: Debunking the Hype</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-with-tom-a-hardware-journey/"><u>Navigating the World of Tech with Tom: A Hardware Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-peripherals-and-systems-at-toms-hardware-hub/"><u>Pioneering PC Peripherals and Systems at Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/python-solution-for-silencing-bursty-fan-noises-and-reducing-app-bloat-on-nzxt-kraken-aio-systems/"><u>Python Solution for Silencing Bursty Fan Noises & Reducing App Bloat on NZXT Kraken AIO Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-amazon-kindle-paperwhite-2018-edition-a-comprehensive-book-experience/"><u>The Ultimate Guide to the Amazon Kindle Paperwhite 2018 Edition - A Comprehensive Book Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Reviews & News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-exploring-the-latest-in-hardware/"><u>Tom's Tech Review: Exploring the Latest in Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-components-analysis/"><u>Tom's Tech Reviews: In-Depth Computer Components Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-on-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Guides on the Latest Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-must-have-ai-chatbot-plugins-for-enhanced-vscode-experience/"><u>Top 6 Must-Have AI Chatbot Plugins for Enhanced VSCode Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-step-by-step-overcoming-the-challenge-of-filament-grinding/"><u>Troubleshooting Step-by-Step: Overcoming the Challenge of Filament Grinding</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-removing-blockages-from-your-3d-printers-nozzle/"><u>Ultimate Guide: Removing Blockages From Your 3D Printer's Nozzle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-3d-printer-bargains-your-complete-guide/"><u>Unbeatable 3D Printer Bargains - Your Complete Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-gadgets-with-toms-hardware-experts/"><u>Uncovering the Latest Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlimited-picture-pools-the-best-10-resources/"><u>Unlimited Picture Pools  The Best 10 Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-latest-gadgets-and-pc-specs-toms-guide/"><u>Unveiling Latest Gadgets and PC Specs – Tom's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175717907-upgrade-your-pc-with-the-newly-released-nh-d1nx-chromax-black-noctua-cooler-for-only-99/"><u>Upgrade Your PC with the Newly Released NH-D1nX Chromax Black Noctua Cooler for Only $99!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uphere-m201-ssd-cooler-test-report-unbeatable-nvme-heat-dissipation-for-only-5/"><u>UpHere M201 SSD Cooler Test Report: Unbeatable NVMe Heat Dissipation for Only $5</u></a></li>
+</ul></div>

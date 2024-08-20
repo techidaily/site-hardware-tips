@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Price Alert! Get Your Favorite PC Case, Phanteks Evolv Shift 2 (ITX), for Just $49 After Rebate Today!
-date: 2024-08-16 10:49:34
-updated: 2024-08-18 11:24:23
+date: 2024-08-19T02:31:04.517Z
+updated: 2024-08-20T02:31:04.517Z
 tags:
   - cases
 categories:
@@ -67,6 +67,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,16 +82,30 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -97,6 +114,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -113,6 +133,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -143,3 +166,52 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-compare-the-best-free-screen-recorders-on-windows-os/"><u>[New] Compare the Best Free Screen Recorders on Windows OS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-future-cinema-at-your-fingertips-top-10-players/"><u>[New] In 2024, Future Cinema at Your Fingertips - Top 10 Players</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-desktopmobile-screen-sharing-in-google-meet/"><u>[New] In 2024, Mastering Desktop/Mobile Screen Sharing in Google Meet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-minimca-haven-unveiling-simple-homes-in-minecraft/"><u>[Updated] 2024 Approved  MiniMCA Haven  Unveiling Simple Homes in Minecraft</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>2024 Approved  Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-closer-look-at-pwm-and-dc-fans-determining-the-ideal-choice-for-efficient-home-computer-cooling/"><u>A Closer Look at PWM and DC Fans - Determining the Ideal Choice for Efficient Home Computer Cooling</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-look-at-ffpm-your-pip-guide/"><u>A Comprehensive Look at FFPM  Your PIP Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-valkyrie-al125-processor-heatsink-with-brilliant-rgb-led-lights-and-a-protective-anti-scratch-display-all-under-20/"><u>Affordable Valkyrie AL125 Processor Heatsink with Brilliant RGB LED Lights and a Protective Anti-Scratch Display – All Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aliexpresss-77-3d-printer-a-budget-friendly-device-that-really-works-according-to-user-review/"><u>AliExpress's $77 3D Printer: A Budget-Friendly Device That Really Works, According to User Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/arctics-latest-liquid-cooling-solutions-ready-to-compatibly-enhance-performance-of-new-arrow-lake-and-lga1cups-cpus-from-intel/"><u>Arctic's Latest Liquid Cooling Solutions: Ready to Compatibly Enhance Performance of New Arrow Lake and LGA1cups CPUs From Intel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-evaluation-of-bamboo-sliders-luxury-sleep-solution-in-a-box/"><u>Detailed Evaluation of Bamboo Slider's Luxury Sleep Solution in a Box</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-optimal-choices-a-comprehensive-benchmarking-of-gaming-laptops-available/"><u>Discover the Optimal Choices - A Comprehensive Benchmarking of Gaming Laptops Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-technology-with-toms-hardware-haven/"><u>Dive Into Technology with Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125181063-dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-tom-navigating-modern-technology/"><u>Expert Advice From Tom - Navigating Modern Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-elegoos-mammoth-3d-printers-their-capacity-to-accurately-produce-large-objects-including-child-figures/"><u>Exploring Elegoo's Mammoth 3D Printers: Their Capacity to Accurately Produce Large Objects, Including Child Figures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gear-up-with-toms-electronics-analysis-and-guides/"><u>Gear Up with Tom's Electronics Analysis and Guides</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gopro-hero5-black-evolution-from-hero4-silver/"><u>GoPro Hero5 Black Evolution From Hero4 Silver</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-x-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone X Unavailable Issue With Ease</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-manual-for-crafting-youtube-playlists-for-2024/"><u>How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-7ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 7/iPad/iPod</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-breakdown-of-profit-from-a-million-youtube-watches/"><u>In 2024, Breakdown of Profit From a Million Youtube Watches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-x50-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor X50 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-posts-secrets-to-higher-page-rank/"><u>In 2024, Optimizing Posts  Secrets to Higher Page Rank</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>In 2024, The Future of Gaming at Your Fingertips  Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-photographers-guide-to-maximizing-lunapic-potential/"><u>In 2024, The Photographer's Guide to Maximizing LunaPic Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-of-the-cutting-edge-mole-3d-scanner-by-3dmakerpro-unleashing-a-new-dimension-in-your-pocket/"><u>In-Depth Analysis & Review of the Cutting-Edge Mole 3D Scanner by 3DMakerPro: Unleashing a New Dimension in Your Pocket</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instant-inspiration-the-easy-guide-to-building-custom-youtube-music-mixes-webapp-for-2024/"><u>Instant Inspiration  The Easy Guide to Building Custom YouTube Music Mixes (Web/App) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-laptop-chips-plagued-by-repeated-shutdown-incidents-similarities-to-past-defect-episodes-surface-in-test-results/"><u>Intel Laptop Chips Plagued by Repeated Shutdown Incidents; Similarities to Past Defect Episodes Surface in Test Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lamptrons-latest-cpu-cooler-a-dual-purpose-device-with-iphone-15-screen-size-and-high-resolution-display/"><u>Introducing Lamptron's Latest CPU Cooler: A Dual-Purpose Device with iPhone 15 Screen Size & High-Resolution Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lead-and-low-quality-ingredients-found-in-latest-aio-radiator-test-caseking-halt-production-amidst-quality-concerns-for-barrow-dabel-models/"><u>Lead and Low-Quality Ingredients Found in Latest AIO Radiator Test: CaseKing Halt Production Amidst Quality Concerns for Barrow Dabel Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-resin-3d-printer-choices-our-comprehensive-guide/"><u>Leading Resin 3D Printer Choices : Our Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-specs-and-performance-guidance-from-toms-hardware/"><u>Mastering Computer Specs and Performance: Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-technology-landscape-with-expert-advice-from-toms-gear-guide/"><u>Mastering the Technology Landscape with Expert Advice From Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-a-guide-from-toms-hardware/"><u>Navigating the World of Electronics - A Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-intels-core-series-enhanced-warranty-duration-for-14th-and-15th-gen-chips-in-response-to-performance-problems/"><u>New Intel's Core Series: Enhanced Warranty Duration for 14Th & 15Th Gen Chips in Response to Performance Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-on-high-quality-3d-printing-machines-exclusive-deals-of-202/"><u>Save on High-Quality 3D Printing Machines: Exclusive Deals of 202</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/superior-methods-transforming-pinterest-visuals-into-audios/"><u>Superior Methods  Transforming Pinterest Visuals Into Audios</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-explained/"><u>The Ultimate Resource for Computer Enthusiasts: Tom's Hardware Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-electronics-and-gadgets/"><u>Tom's Tech Hub: Expert Insights on Electronics and Gadgets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-z-flip-5-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy Z Flip 5 Phones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-rated-free-apps-to-download-reels-from-instagram-effortlessly-for-2024/"><u>Top-Rated, Free Apps to Download Reels From Instagram Effortlessly for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175675593-transform-your-pc-construction-routine-save-time-with-corsairs-easy-one-turn-assembly-screw/"><u>Transform Your PC Construction Routine: Save Time with Corsair's Easy One-Turn Assembly Screw</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-resin-3d-printing-solutions-for-professionals-and-hobbyists-alike-2024-edition/"><u>Unveiling the Best Resin 3D Printing Solutions for Professionals & Hobbyists Alike - 2024 Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme GT 5 Pro | Dr.fone</u></a></li>
+</ul></div>

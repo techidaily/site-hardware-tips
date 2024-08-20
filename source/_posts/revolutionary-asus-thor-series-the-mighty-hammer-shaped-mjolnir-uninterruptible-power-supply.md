@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Asus Thor Series: The Mighty Hammer-Shaped Mjolnir Uninterruptible Power Supply"
-date: 2024-08-16 15:33:28
-updated: 2024-08-18 11:57:28
+date: 2024-08-19T02:27:35.209Z
+updated: 2024-08-20T02:27:35.209Z
 tags:
   - power-supply
 categories:
@@ -63,6 +63,9 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -71,12 +74,18 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -95,6 +104,9 @@ Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  New
 
  Refurbished
@@ -103,6 +115,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -111,6 +126,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -277,3 +295,79 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-engagement-with-effortless-youtube-thumbnail-tips/"><u>[New] Boost Engagement with Effortless Youtube Thumbnail Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-new-era-advancements-in-vr-technology/"><u>[New] The New Era  Advancements in VR Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[New] Unlocking Potential  Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-audience-excitement-with-top-ideas/"><u>[Updated] 2024 Approved  Elevating Audience Excitement with Top Ideas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-subtitled-freely-top-10-tools-for-youtubes-text-extractors/"><u>[Updated] 2024 Approved  Subtitled Freely  Top 10 Tools for YouTube's Text Extractors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-aesthetic-innovations-showcase/"><u>[Updated] Aesthetic Innovations Showcase</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevated-engagement-awards-on-video-realms-for-2024/"><u>[Updated] Elevated Engagement Awards on Video Realms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-video-music-services/"><u>[Updated] High-Quality Video Music Services</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-11-ranked-audio-recorders-of-the-year/"><u>[Updated] In 2024, 11 Ranked Audio Recorders of the Year</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>[Updated] Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unseen-approaches-to-bypass-online-educational-content/"><u>[Updated] Unseen Approaches to Bypass Online Educational Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-pictorial-storage-hubs/"><u>2024 Approved  Leading Pictorial Storage Hubs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-recording-process-across-all-tech-platforms/"><u>2024 Approved  Streamline Your Recording Process Across All Tech Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-pathway-to-personalizing-your-game-voice-free-in-free-fire/"><u>2024 Approved  The Beginner's Pathway to Personalizing Your Game Voice, FREE in Free Fire</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-animation-create-your-own-3d-printer-shaped-wireless-charger-for-under-50-using-bambu-labs-technology/"><u>Affordable Animation: Create Your Own 3D-Printer-Shaped Wireless Charger for Under $50 Using Bambu Labs Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/android-audio-goldies/"><u>Android Audio Goldies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/astrological-accuracy-meets-meteoric-speeds-in-elegoo-neptune-4plus-revealed-a-detailed-printer-breakdown-and-review/"><u>Astrological Accuracy Meets Meteoric Speeds in Elegoo Neptune 4+ Revealed - A Detailed Printer Breakdown and Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-hype-why-creating-gun-prototypes-via-3d-printing-is-tougher-than-it-seems/"><u>Beyond the Hype: Why Creating Gun Prototypes via 3D Printing Is Tougher Than It Seems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/caseking-suspends-sale-of-barrow-dabel-radiators-after-new-aio-test-uncovers-lead-content/"><u>CaseKing Suspends Sale of Barrow Dabel Radiators After New AIO Test Uncovers Lead Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/comedy-gold-twitters-hottest-jokes/"><u>Comedy Gold  Twitter's Hottest Jokes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-and-electronics-assessments-by-tom/"><u>Comprehensive Computer and Electronics Assessments by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/david-vs-goliath-revisited-a-tale-of-innovative-crowdfunding-and-its-unexpected-endgame/"><u>David vs Goliath Revisited: A Tale of Innovative Crowdfunding and Its Unexpected Endgame</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deep-dive-into-amds-high-performance-realm-ryzen-cpu-series-comparative-analysis-of-9900x-e9700x-and-9600x-cinebench-scores/"><u>Deep Dive Into AMD's High-Performance Realm: Ryzen CPU Series - Comparative Analysis of 9900X, E9700X and 9600X Cinebench Scores</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-the-depths-integrating-deep-learning-in-bing-android-app/"><u>Delving Into the Depths: Integrating Deep Learning in Bing Android App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-avoiding-tangles-in-your-3d-printing-material/"><u>Effective Strategies for Avoiding Tangles in Your 3D Printing Material</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensuring-privacy-a-users-manual-to-secure-your-android-number/"><u>Ensuring Privacy: A User's Manual to Secure Your Android Number</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-lenovo-thinkpad-x12-a-game-changing-2-in-1-notebook-with-an-exceptional-keyboard-design/"><u>Evaluating the Lenovo ThinkPad X12: A Game-Changing 2-in-1 Notebook with an Exceptional Keyboard Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-choosing-the-ideal-computer-chips-for-your-workstation/"><u>Expert Review: Choosing the Ideal Computer Chips for Your Workstation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-the-ultimate-hardware-guide/"><u>Exploring Technology with Tom - The Ultimate Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-advances-in-computer-components-at-toms-hardware/"><u>Exploring the Latest Advances in Computer Components at Tom's Hardware</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2019-cannot-access-the-file-error-by-stellar-guide/"><u>Fixed Microsoft Excel 2019 Cannot Access the File Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-choice-best-pc-configurations-and-models-of-2aturdays-2023/"><u>Gamers' Choice: Best PC Configurations and Models of 2Aturdays, 2023!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-asus-usb-bt500-bluetooth-50-driver-free-download-for-win11108-systems/"><u>Get Asus USB-BT500 Bluetooth 5.0 Driver - Free Download for Win11/10/8 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-a60s-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel A60s Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-unexpected-token-call-issues-on-windows-devices/"><u>How To Resolve “Unexpected Token Call” Issues on Windows Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Spark 10 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blending-apple-music-with-cinematic-content/"><u>In 2024, Blending Apple Music with Cinematic Content</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A15 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a25-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A25 5Gwith/without a PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-speedy-instagram-video-views-desktop-methods/"><u>In 2024, Speedy Instagram Video Views  Desktop Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-srt-file-handling-on-cross-platform-operating-systems/"><u>In 2024, SRT File Handling on Cross-Platform Operating Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-valkyrie-sync-240-aio-liquid-chiller-efficient-heat-dissipation-hindered-by-clunky-application-software/"><u>In-Depth Review of Valkyrie Sync 240 AIO Liquid Chiller: Efficient Heat Dissipation Hindered by Clunky Application Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-pc-components-and-equipment/"><u>Inside Look at Tom's PC Components and Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computer-world-comprehensive-hardware-reviews/"><u>Inside Tom's Computer World: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-hub-expert-insights-on-cutting-edge-technology/"><u>Inside Tom's Hardware Hub: Expert Insights on Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-world-unveiling-pc-performance-secrets/"><u>Inside Tom's Hardware World: Unveiling PC Performance Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-metal-3d-printing-the-compact-and-economical-micronics-sls-printer-2999/"><u>Introducing the New Era of Metal 3D Printing: The Compact and Economical Micronics' SLS Printer ($2,999)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-eliminating-layers-from-parting-ways-in-3d-print-creations/"><u>Masterclass: Eliminating Layers From Parting Ways in 3D Print Creations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-trends-through-toms-equipment-analysis/"><u>Mastering Tech Trends Through Tom's Equipment Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-expert-advice-from-toms-hardware-team/"><u>Mastering Technology with Expert Advice From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-a-deep-dive-into-hardware-features/"><u>Mastering Technology: A Deep Dive Into Hardware Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125146780-mastering-the-digital-world-with-your-site-name-what-toms-hardware-never-taught-you/"><u>Mastering the Digital World with [Your Site Name]: What Tom's Hardware Never Taught You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-hardware-innovations-at-toms-hardware-emporium/"><u>Navigate the World of Hardware Innovations at Tom's Hardware Emporium</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-sites-to-download-free-hd-video-backgrounds/"><u>New 2024 Approved 10 Best Sites to Download Free HD Video Backgrounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-minecraft-stutter-and-delays-for-an-uninterrupted-gaming-session-on-pc/"><u>Overcome Minecraft Stutter and Delays for an Uninterrupted Gaming Session on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-reviews-by-toms-gear-hub/"><u>Pioneering Computer Reviews by Tom’s Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-computing-by-tom-unmatched-hardware-analysis/"><u>Precision Computing by Tom: Unmatched Hardware Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-detected-hardware-not-supported-issues-in-idt-software-packages/"><u>Resolving 'Detected Hardware Not Supported' Issues in IDT Software Packages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-data-encoding-on-standard-plastics-how-3d-holographic-techniques-store-up-to-576-bits/"><u>Revolutionary Data Encoding on Standard Plastics: How 3D-Holographic Techniques Store Up To 576 Bits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solid-tips-from-toms-digital-workshop-a-hardware-haven/"><u>Solid Tips From Tom’s Digital Workshop: A Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-cpu-cooler-pros-and-cons-of-aio-and-air-options/"><u>The Ultimate Guide to Choosing a CPU Cooler – Pros & Cons of AIO and Air Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-elegoo-neptune-4-max-a-closer-look-at-its-speedy-performance-and-extended-build/"><u>The Ultimate Guide to Elegoo Neptune 4 Max – A Closer Look at Its Speedy Performance and Extended Build</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronic-diary-the-ultimate-guide-to-modern-hardware/"><u>Tom's Electronic Diary: The Ultimate Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-and-advice-mastering-computer-upgrades-and-buying-tips/"><u>Tom's Hardware Review & Advice: Mastering Computer Upgrades and Buying Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-dive-into-the-latest-computer-components/"><u>Tom's Tech Hub: Dive Into the Latest Computer Components</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-12-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme 12 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tips-for-flawless-green-screen-cinematography/"><u>Top Tips for Flawless Green-Screen Cinematography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-coding-toys-learn-programming-with-fun-stem-robot-kits/"><u>Top-Rated Kid's Coding Toys - Learn Programming with Fun STEM Robot Kits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-using-phrozen-sonic-mega-8k-s-resin-in-your-printer-farm-setup/"><u>Ultimate Guide to Using Phrozen Sonic Mega 8K S Resin in Your Printer Farm Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/xstudio-mastery-reviewed-full-technical-study/"><u>XStudio Mastery Reviewed  Full Technical Study</u></a></li>
+</ul></div>

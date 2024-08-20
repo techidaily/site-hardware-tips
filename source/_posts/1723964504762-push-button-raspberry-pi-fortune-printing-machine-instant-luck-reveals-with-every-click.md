@@ -1,7 +1,7 @@
 ---
 title: "Push-Button Raspberry Pi Fortune Printing Machine: Instant Luck Reveals with Every Click"
-date: 2024-08-16 19:34:44
-updated: 2024-08-18 12:21:21
+date: 2024-08-19T02:26:25.545Z
+updated: 2024-08-20T02:26:25.545Z
 tags:
   - raspberry-pi
 categories:
@@ -48,6 +48,9 @@ Though you can run a[Raspberry Pi](https://tools.techidaily.com) effectively wit
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 1\. Argon Neo
 
  Most Stylish great looks, great passive cooling
@@ -172,6 +175,14 @@ Must take apart to remove
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 3\. Official Raspberry Pi Zero Case
 
 Our expert review:
@@ -302,6 +313,9 @@ Instructions could be better
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -314,8 +328,14 @@ Instructions could be better
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### 5\. Retroflag NESPi Case
 
 Best for Retrogamers with Pi 3
@@ -378,24 +398,42 @@ Instructions could be better
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. SilverStone PI02
 
 Best for Silent Passive Cooling
@@ -454,6 +492,9 @@ GPIO access is woeful
 
 ![Retroflag GPi Case](https://cdn.mos.cms.futurecdn.net/emQg5SmuHeQUcN9rpA6Yo3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ### 7\. Retroflag GPi Case
@@ -520,6 +561,9 @@ Long battery life
 
 ![Argon ONE M.2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Argon ONE M.2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -598,6 +642,9 @@ Oversized USB 3.0 connector
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 9\. Pimoroni Aluminium Heatsink Case for Raspberry Pi 4
 
 Simple passive cooling
@@ -658,6 +705,9 @@ Access to PoE pins is troublesome
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### 10\. Argon ONE V3 M.2 NVMe for Raspberry Pi 5
 
  Space age looks and stellar thermal performance
@@ -720,6 +770,9 @@ Fingerprint magnet
 
 ![Akasa Gem Pro](https://cdn.mos.cms.futurecdn.net/ByhXm9QSe2UJgdVZEXasc3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Akasa Gem Pro  (Image credit: Tom's Hardware)
 
 ### 11\. Akasa Gem Pro
@@ -776,6 +829,9 @@ Sharp corners
 
 **Read:** [Akasa Gem Pro Raspberry Pi Case Review](https://tools.techidaily.com)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Other Raspberry Pi Cases Tested
 
  In researching this page, we ended up testing and considering a number of additional products, some of which were quite good, but didn’t quite deserve to be called “the best.” These include:
@@ -894,3 +950,57 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-scrutinizing-active-presenters-record-quality/"><u>[New] 2024 Approved  Scrutinizing Active Presenter's Record Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-craft-professional-scenes-access-these-top-8-free-green-screen-backdrops-sites-for-2024/"><u>[New] Craft Professional Scenes - Access These Top 8 Free Green Screen Backdrops Sites for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-explore-diverse-backdrops-for-tiktok-videos-for-2024/"><u>[New] Explore Diverse Backdrops for TikTok Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-apex-10-royale-showdowns-for-2024/"><u>[Updated] Apex 10 Royale Showdowns for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-viral-path-best-hashtags-for-youtube-riches-for-2024/"><u>[Updated] Crafting a Viral Path  Best Hashtags for YouTube Riches for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-recommended-asmrists-for-nighttime-calmness/"><u>[Updated] In 2024, Top Recommended ASMRists for Nighttime Calmness</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-social-reach-with-tiktok-to-facebook-integration-for-2024/"><u>[Updated] Maximizing Social Reach with TikTok to Facebook Integration for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recording-made-easy-tips-for-youtube-vids-for-2024/"><u>[Updated] Recording Made Easy  Tips for YouTube Vids for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-professional-camera-spin-360-edition-2023/"><u>2024 Approved  Mastering Professional Camera Spin  360° Edition, 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-gaming-monitors-a-comprehensive-list-of-4k-screens-and-high-performance-pc-accessories/"><u>Best Gaming Monitors: A Comprehensive List of 4K Screens and High Performance PC Accessories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-vs-powerful-performance-choosing-the-right-gaming-pc-for-you-in-2e3-budget-friendly-and-high-end/"><u>Best Value Vs. Powerful Performance: Choosing the Right Gaming PC for You in 2E3 (Budget-Friendly and High-End)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-equipment-testing-by-toms-electronic-hub/"><u>Comprehensive Equipment Testing by Tom's Electronic Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-review-network/"><u>Comprehensive Hardware Guides by Tom’s Review Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-collaboration-intel-and-exxonmobil-develop-next-gen-liquid-cooling-tech-for-high-performance-2kw-tdp-xeon-cpus/"><u>Cutting-Edge Collaboration: Intel & ExxonMobil Develop Next-Gen Liquid Cooling Tech for High-Performance 2kW TDP Xeon CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-excellence-with-toms-tech-mastery-series/"><u>Delve Into Hardware Excellence with Tom's Tech Mastery Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-gadgets-with-toms-hardware-insights/"><u>Discover the Latest Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-multimedia-drivers-reinstalled-your-pc-is-fully-compatible/"><u>Essential Multimedia Drivers Reinstalled - Your PC Is Fully Compatible</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-and-testing-at-toms-digital-workshop-for-hardware-enthusiasts/"><u>Expert Analysis & Testing at Tom's Digital Workshop for Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-tech-discovering-toms-hardware/"><u>Exploring the Latest in Tech: Discovering Tom's Hardware</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-s23-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel S23 Phone that is Locked?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-x5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco X5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production-for-2024/"><u>Incorporating Industry Standards  Working with CG Central's LUTs in Post-Production for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-expert-tips-from-toms-gear/"><u>Mastering Hardware with Expert Tips From Tom's Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-market-with-expert-guidance-from-toms-hardware/"><u>Mastering the Market with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977127094-microsoft-wireless-mouse-5000-driver-download-made-simple-and-swift-for-optimal-performance/"><u>Microsoft Wireless Mouse 5000 Driver Download Made Simple and Swift for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mid-august-release-scheduled-intel-to-resolve-crashing-woes-by-addressing-elevated-core-voltages/"><u>Mid-August Release Scheduled: Intel to Resolve Crashing Woes by Addressing Elevated Core Voltages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-cutting-edge-technology-a-deep-dive-with-toms-hardware/"><u>Navigating Cutting Edge Technology: A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-motherboards-and-cpus-with-tom-an-insiders-perspective/"><u>Navigating Through Motherboards and CPUs with Tom - An Insider's Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozens-breakthrough-in-3d-printing-a-vibrant-four-color-impressionist-approach/"><u>Phrozen's Breakthrough in 3D Printing - A Vibrant Four Color Impressionist Approach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rooting-the-risc-v-processor-uncovering-the-dangers-of-the-critical-ghostwrite-security-flaw/"><u>Rooting the RISC-V Processor: Uncovering the Dangers of the Critical GhostWrite Security Flaw</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-hardware-trends-wisdom-from-toms-electronic-journal/"><u>Stay Ahead in Hardware Trends - Wisdom From Tom's Electronic Journal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175686082-stay-chill-with-the-latest-from-deepcool-high-performance-coolers-power-supplies-fans-and-rigs-now-in-vibrant-pixel-silicone-variants/"><u>Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/staying-cool-on-a-budget-evaluating-upheres-c5c-and-d6sec-air-conditioners-under-20/"><u>Staying Cool on a Budget: Evaluating UpHere's C5C and D6Sec Air Conditioners Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-hardware-picks-curated-by-toms-technology-specialists/"><u>The Ultimate Guide to Top Hardware Picks Curated by Tom's Technology Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-superior-vpns-based-on-rigorous-assessments-and-user-feedback/"><u>The Ultimate List of Superior VPNs Based on Rigorous Assessments & User Feedback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-evaluations-by-tom/"><u>The Ultimate Resource for Hardware Evaluations by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-detailed-guide-on-cutting-edge-gadgets/"><u>Tom's Tech Review: A Detailed Guide on Cutting-Edge Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-in-computing-innovation-featured-by-toms-hardware-specialists/"><u>Top Picks in Computing Innovation Featured by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-phrozens-pioneering-four-tone-3d-printer-for-enhanced-production/"><u>Transform Your Workspace with Phrozen’s Pioneering Four Tone 3D Printer for Enhanced Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-ultimate-guide-by-toms-hardware/"><u>Unlocking Technology Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-top-performance-toms-hardware-selection/"><u>Unlocking the Secrets of Top Performance: Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-danger-courageous-penetration-test-uncovers-anycubic-security-gap-for-client-awareness/"><u>Unveiling Danger: Courageous Penetration Test Uncovers Anycubic Security Gap for Client Awareness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-noctua-home-series-products-the-standout-100-nv-fs1-desk-fan-takes-center-stage/"><u>Unveiling Noctua Home Series Products – The Standout $100 NV-FS1 Desk Fan Takes Center Stage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172865-unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-from-toms-computer-review/"><u>Unveiling the Latest From Tom's Computer Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125166415-upgrade-your-creations-with-the-best-exclusive-offer-on-eleegoo-neptune-4-pro-at-just-240-from-newegg/"><u>Upgrade Your Creations with the Best: Exclusive Offer on Eleegoo Neptune 4 Pro at Just $240 From Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-experience-with-deepcools-new-releases-superior-cooling-solutions-and-accessories-accompanied-by-decorative-pixel-silicone-details/"><u>Upgrade Your PC Experience with DeepCool’s New Releases - Superior Cooling Solutions and Accessories Accompanied by Decorative Pixel Silicone Details</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-guide-to-cutting-edge-hardware-solutions-toms-perspective/"><u>Your Guide to Cutting-Edge Hardware Solutions - Tom's Perspective</u></a></li>
+</ul></div>

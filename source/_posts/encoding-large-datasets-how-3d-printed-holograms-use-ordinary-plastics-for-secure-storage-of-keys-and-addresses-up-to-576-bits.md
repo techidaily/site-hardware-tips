@@ -1,7 +1,7 @@
 ---
 title: "Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)"
-date: 2024-08-08T04:23:04.827Z
-updated: 2024-08-09T04:23:04.827Z
+date: 2024-08-19T03:12:57.222Z
+updated: 2024-08-20T03:12:57.222Z
 tags:
   - printer
 categories:
@@ -184,3 +184,66 @@ This week, the world gathered at the Los Angeles Convention Center for a three-d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-5-best-video-effect-sites-that-never-charges-you/"><u>[New] 5 Best Video Effect Sites That Never Charges You</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>[New] Beating the Blues of Overly Green  A Mac Video Editor's Handbook for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-introductory-editor-software-devices/"><u>[New] In 2024, Ultimate Introductory Editor Software (Devices)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-mp4-converting-youtube-shorts/"><u>[Updated] 2024 Approved  Harness the Power of Mp4  Converting YouTube Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reset-and-regain-navigating-the-2023-fb-hack-scenario/"><u>[Updated] Reset & Regain  Navigating the 2023 FB Hack Scenario</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-soundtweetify-quick-audible-maker/"><u>[Updated] SoundTweetify  Quick Audible Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/600-high-capacity-liquid-cooler-with-industrial-strength-mo-ra-iv-s-six-thousand-pound-radiator-nine-top-of-the-line-fans-at-less-than-seven-hundred-dollars14/"><u>$600 High-Capacity Liquid Cooler with Industrial Strength: MO-RA IV S Six Thousand Pound Radiator, Nine Top-of-the-Line Fans at Less than Seven Hundred Dollars</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images/"><u>2024 Approved  Metaverse Mirth Makers  Top Tips for Crafting Hilarious Virtual Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-approach-utilizing-3d-print-technology-to-craft-multilayered-silicon-circuitry/"><u>Advanced Approach: Utilizing 3D Print Technology to Craft Multilayered Silicon Circuitry</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-variances-in-asus-tuf-proart-prime-pcs/"><u>Analyzing the Variances in Asus, Tuf, ProArt, Prime PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-overheating-the-deepcool-as5nplus-cpu-air-cooler-deal-for-below-45-on-amazon/"><u>Beat Overheating: The DeepCool AS5nplus CPU Air Cooler Deal for Below $45 on Amazon</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Honor X50 GT.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-achievement-customized-3d-printer-sets-new-speed-benchmark-with-speed-benchy-model-printed-in-under-two-minutes/"><u>Breakthrough Achievement: Customized 3D Printer Sets New Speed Benchmark with 'Speed Benchy' Model Printed in Under Two Minutes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/conquer-the-connection-mastering-insta-tik-linkage-for-2024/"><u>Conquer the Connection  Mastering Insta-Tik Linkage for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tips-for-deep-cleaning-your-personal-stereo-systems-speakers/"><u>DIY Tips for Deep-Cleaning Your Personal Stereo System's Speakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-builds-discover-teamgroups-latest-addition-the-magnetized-t-force-siren-aio-cpu-cooler-for-hassle-free-pc-tweaking/"><u>Elevate Your Builds: Discover TeamGroup's Latest Addition - The Magnetized T-Force Siren AIO CPU Cooler for Hassle-Free PC Tweaking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceed-expectations-with-cooler-masters-latest-aio-and-liquid-air-coolers-300wplus-thermal-management/"><u>Exceed Expectations with Cooler Master's Latest AIO and Liquid Air Coolers - 300W+ Thermal Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-tips-by-the-leaders-at-tomamoorium-hardware/"><u>Expert Advice and Tips by the Leaders at Tom'amoorium Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-technology-with-tom-your-go-to-resource/"><u>Expert Insights on Technology with Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-technology-reviews/"><u>Exploring Hardware with Tom's Technology Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-hardware-with-toms-gadget-analysis/"><u>Exploring the Latest in Hardware with Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-tech-products-tested-by-professionals-at-tomamhardwarecom/"><u>Find the Best Tech Products Tested by Professionals at Tom'amhardware.com</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-der8auer-acknowledges-his-blunder-with-underwhelming-thermal-grizzly-heatspreaders-and-die-coolers/"><u>How Der8auer Acknowledges His Blunder with Underwhelming Thermal Grizzly Heatspreaders & Die Coolers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-honor-magic-v2-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Honor Magic V2.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus 12 Bootloader Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tom-for-savvy-hardware-enthusiasts/"><u>In-Depth Reviews by Tom for Savvy Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125123567-master-tech-essentials-with-toms-gear-advice-find-the-perfect-components-now/"><u>Master Tech Essentials with Tom’s Gear Advice - Find the Perfect Components Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cooling-supremacy-with-the-thermalright-phantom-spirit-120-evo-a-review-of-unmatched-performance/"><u>Mastering Cooling Supremacy with the Thermalright Phantom Spirit 120 EVO - A Review of Unmatched Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-choices-with-toms-expert-guidance/"><u>Mastering Hardware Choices with Tom's Expert Guidance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-iptv-screen-capture-techniques/"><u>Mastering IPTV Screen Capture Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-innovations-and-specs-wisdom-directed-by-toms-digital-hub/"><u>Mastering PC Innovations and Specs – Wisdom Directed by Tom's Digital Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-electronic-insights/"><u>Mastering Technology with Tom's Electronic Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-cutting-edge-tech-your-one-stop-hub-for-tomamoors-gear-analysis/"><u>Navigate Through Cutting-Edge Tech: Your One-Stop Hub for Tom'amoors Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-toms-digital-forge-a-buyers-guide/"><u>Navigating Hardware with Tom's Digital Forge: A Buyer’s Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-youtube-numbers-views-and-earnings-unpacked-for-2024/"><u>Navigating the Youtube Numbers  Views & Earnings Unpacked for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-tackles-customer-feedback-on-unusual-noise-from-its-latest-nh-d15-g2-cooler-unit/"><u>Noctua Tackles Customer Feedback on Unusual Noise From Its Latest NH-D15 G2 Cooler Unit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recover-lost-d3dx926dll-file-techniques-for-overcoming-dll-not-found-mishaps/"><u>Recover Lost d3dx9_26.dll File - Techniques for Overcoming DLL Not Found Mishaps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-older-methods-with-newly-released-pink-caulking-gel-the-optimal-solution-for-filling-components-voids-and-replacing-thermal-pads/"><u>Say Goodbye to Older Methods with Newly Released Pink Caulking Gel - The Optimal Solution for Filling Components Voids and Replacing Thermal Pads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seeking-the-finest-cinematography-talents-for-2024/"><u>Seeking the Finest Cinematography Talents for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strawberry-scented-pink-thermal-compound-a-match-with-extrememugurisu-4g-for-top-notch-cooling/"><u>Strawberry Scented Pink Thermal Compound: A Match with ExtremeMUGURISU 4G for Top-Notch Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-ranking-of-high-performance-drive-docks-for-pc-users/"><u>The Comprehensive Ranking of High-Performance Drive Docks for PC Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-innovative-reuse-of-plastic-kitchenware-for-superior-3d-printer-filament-production/"><u>The Innovative Reuse of Plastic Kitchenware for Superior 3D Printer Filament Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-high-performance-computer-components-by-tom/"><u>The Ultimate Resource for High-Performance Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-computer-components/"><u>Tom's Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guides-on-hardware/"><u>Tom's Tech Insights: Expert Guides on Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-into-computer-components/"><u>Tom's Tech Review: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-and-ssd-docking-stations/"><u>Top-Rated External HDD & SSD Docking Stations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-in-gadgets-with-tom-your-go-to-tech-guide/"><u>Uncovering the Latest in Gadgets with Tom – Your Go-To Tech Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-comprehensive-guide-by-tom/"><u>Unlocking Technology Secrets: The Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-complexities-of-modern-gadgets-the-toms-insight-series/"><u>Unraveling the Complexities of Modern Gadgets: The Tom's Insight Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-technical-guide/"><u>Unveiling the Latest in Electronics with Tom's Technical Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-audio-reversal-tools-latest-edition-for-pcs-and-mobile-devices/"><u>Updated Top 10 Audio Reversal Tools Latest Edition for PCs & Mobile Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-printing-experience-with-new-epson-wf-7710-drivers-on-win-1181-8-and-7-platforms/"><u>Upgrade Your Printing Experience with New Epson WF-7710 Drivers on Win 11/8.1, 8 & 7 Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-x5-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco X5 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

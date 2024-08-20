@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Expert Guides on Computers and Gadgets"
-date: 2024-08-15 16:30:58
-updated: 2024-08-18 12:37:44
+date: 2024-08-19T02:31:44.474Z
+updated: 2024-08-20T02:31:44.474Z
 tags:
   - build
 categories:
@@ -31,12 +31,18 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -90,10 +96,16 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -148,8 +160,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +188,51 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-getting-comfy-with-video-chats-in-instagrams-ecosystem/"><u>[New] Getting Comfy with Video Chats in Instagram's Ecosystem</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essential-guide-to-uploading-and-sharing-youtube-vids-in-insta-stories-for-2024/"><u>[New] The Essential Guide to Uploading and Sharing YouTube Vids in Insta Stories for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-tiktoks-made-easy/"><u>[New] Tweeting TikToks Made Easy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-clearcut-screen-capture-options-no-commercials/"><u>[Updated] In 2024, Leading Clearcut Screen Capture Options (No Commercials)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-the-secrets-to-collecting-fb-gifs-a-comprehensive-manual/"><u>[Updated] Unlocking the Secrets to Collecting FB GIFs  A Comprehensive Manual</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-download-instagram-videos-on-pc-and-mac/"><u>2024 Approved  How to Download Instagram Videos on PC and Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>2024 Approved  Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-15-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 15 Plus Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-3d-printers-of-the-year-2024-a-closer-look-at-fdm-resin-and-under-250-budget-choices/"><u>Best Value 3D Printers of the Year 2024: A Closer Look at FDM, Resin and Under $250 Budget Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-gaming-rig-selection-top-5-laptops-under-1500/"><u>Budget-Friendly Gaming Rig Selection: Top 5 Laptops Under $1,500</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/challenges-of-creating-functional-guns-through-3d-printing-a-first-hand-experience/"><u>Challenges of Creating Functional Guns Through 3D Printing - A First-Hand Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gadgets-with-thorough-reviews-on-toms-hardware/"><u>Discover Cutting-Edge Gadgets with Thorough Reviews on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-pc-tips-with-toms-technology-guidance/"><u>Discover Top-Notch PC Tips with Tom’s Technology Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125183339-dive-into-the-world-of-gadgets-premium-guides-and-in-depth-analysis-by-toms-hardware-your-trusted-tech-authority/"><u>Dive Into the World of Gadgets - Premium Guides & In-Depth Analysis by Tom's Hardware | Your Trusted Tech Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-game-sound-experiences-top-headset-reviews/"><u>Elite Game Sound Experiences: Top Headset Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-gear-from-toms-workshop/"><u>Expert Insights on Computing Gear From Tom's Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-roundup-of-most-efficient-low-cost-3d-printers-including-fdm-and-resin-series/"><u>Expert Roundup of Most Efficient Low-Cost 3D Printers - Including FDM & Resin Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-top-performer-tech-devices-with-toms-review-digest/"><u>Explore Top Performer Tech Devices with Tom's Review Digest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-electronics-with-tom-your-go-to-source/"><u>Exploring the Latest in Electronics with Tom - Your Go-To Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-review/"><u>Exploring Tom's Hardware: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-tech-essentials-the-creme-de-la-creme-of-wireless-keyboards/"><u>Future Tech Essentials: The Crème De La Crème of Wireless Keyboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-the-quickest-quality-and-affordable-rgb-memory-of-2024/"><u>Gamer's Guide to the Quickest, Quality, and Affordable RGB Memory of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grizzlys-revolutionary-heatspreader-technology-reduces-cpu-temp-by-up-to-15c/"><u>Grizzly's Revolutionary Heatspreader Technology Reduces CPU Temp by Up to 15°C</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-mix-fold-3withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Mix Fold 3with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-12-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 12 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-technology-spotlight-with-toms-hardware-insight/"><u>Innovative Technology Spotlight with Tom's Hardware Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-10k-ai-and-3d-printing-enhance-your-cpu-cooling-efficiency-with-a-nitrogen-based-liquid-container/"><u>Revolutionary $10K AI & 3D Printing: Enhance Your CPU Cooling Efficiency with a Nitrogen-Based Liquid Container</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-deep-dive-into-hardware/"><u>Tom's Tech Insights: A Deep Dive Into Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-analysis-the-best-electronics-from-toms-hardware-tests/"><u>Top Pick Analysis: The Best Electronics From Tom's Hardware Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-graphics-cards-for-cryptocurrency-mining-reviews-by-toms-hardware/"><u>Top Pick Graphics Cards for Cryptocurrency Mining - Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-pcs-within-budget-less-than-1500/"><u>Top-Rated Gaming PCs Within Budget: Less Than $1,500</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-swift-ssds-for-sonys-playstation-5-console/"><u>Ultimate Guide to Choosing Swift SSDs for Sony's PlayStation 5 Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unheard-messages-matter-resolving-discords-microphone-dilemma/"><u>Unheard Messages Matter: Resolving Discord's Microphone Dilemma</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-equipment-cutting-edge-reviews-and-comparisons-on-toms-gear-gazette/"><u>Unleash the Power of Equipment: Cutting-Edge Reviews & Comparisons on Tom's Gear Gazette</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-creativity-with-these-5-reasons-for-acquiring-a-3d-printer-on-black-friday/"><u>Unlock Creativity with These 5 Reasons for Acquiring a 3D Printer on Black Friday</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unlock-endless-entertainment-with-tiktok-on-your-macbook/"><u>Unlock Endless Entertainment with TikTok on Your MacBook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-at-toms-digital-domain/"><u>Unveiling Gadgets and Gizmos at Tom's Digital Domain</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-technologies-through-toms-hardware-perspectives/"><u>Unveiling New Technologies Through Tom's Hardware Perspectives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-customization-in-depth-analysis-of-corsair-icue-link-h150i-rgb/"><u>Unveiling the Power of Customization: In-Depth Analysis of Corsair iCUE Link H150i RGB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-the-elegoo-neptune-4-plus-a-galaxy-class-3d-printer-with-lightning-fast-performance-reviewed/"><u>Unveiling the Power of the Elegoo Neptune 4 Plus - A Galaxy-Class 3D Printer with Lightning Fast Performance Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-hardware-mastery-in-depth-gadget-analyses/"><u>Unveiling Tom's Hardware Mastery: In-Depth Gadget Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-system-ai-thermal-paste-infused-with-nanodiamond-technology-from-cooler-master-comes-in-cryofuze-vee/"><u>Upgrade Your PC's Cooling System - AI 'Thermal Paste' Infused with Nanodiamond Technology From Cooler Master, Comes in CryoFuze Vee</u></a></li>
+</ul></div>

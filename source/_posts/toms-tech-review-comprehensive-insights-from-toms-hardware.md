@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Comprehensive Insights From Tom's Hardware"
-date: 2024-08-15 13:32:13
-updated: 2024-08-17 11:27:20
+date: 2024-08-19T02:50:41.786Z
+updated: 2024-08-20T02:50:41.786Z
 tags:
   - laptop
 categories:
@@ -92,6 +92,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -120,6 +123,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -130,6 +136,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -138,18 +147,27 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -164,6 +182,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -172,6 +193,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -188,6 +212,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -212,6 +239,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
@@ -252,3 +282,49 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-10-histology-streams-for-academics/"><u>[New] 2024 Approved  Top 10 Histology Streams for Academics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-watcher-count-simplified-tactics-exposed/"><u>[Updated] 2024 Approved  Amplify Watcher Count  Simplified Tactics Exposed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-earning-potential-unlocked-profitable-strategies-for-youtube-on-fb-for-2024/"><u>[Updated] Earning Potential Unlocked  Profitable Strategies for YouTube on FB for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>[Updated] In 2024, Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-beginners-roadmap-to-free-youtube-intro-videos/"><u>[Updated] In 2024, The Beginner's Roadmap to Free YouTube Intro Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vidfx-tricks-top-10-text-transformations/"><u>[Updated] In 2024, VidFX Tricks  Top 10 Text Transformations</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes-for-2024/"><u>[Updated] Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fixing-iphone-x-overcoming-face-id-malfunction/"><u>2024 Approved  Fixing iPhone X  Overcoming Face ID Malfunction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-elite-in-depth-analysis-of-amds-x5-mfmotherboard-lineup-for-next-gen-pc-building/"><u>Benchmarking the Elite: In-Depth Analysis of AMD's X5^ MF_Motherboard Lineup for Next-Gen PC Building</u></a></li>
+<li><a href="https://article-tips.techidaily.com/captivating-features-the-allure-of-filmora-editing-for-2024/"><u>Captivating Features  The Allure of Filmora Editing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chill-to-perfection-get-the-best-liquid-freezer-ii-aio-cooler-from-arctic-for-an-unbelievable-bargain-at-only-74-dont-miss-out/"><u>Chill to Perfection: Get the Best Liquid Freezer II AIO Cooler From Arctic for an Unbelievable Bargain at Only $74 — Don't Miss Out</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-of-cutting-edge-gadgets-by-renowned-site-toms-hardware/"><u>Comprehensive Breakdown of Cutting-Edge Gadgets by Renowned Site, Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-calculation-insights-for-efficient-3d-printing-operations/"><u>Cost Calculation Insights for Efficient 3D Printing Operations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cost-conscious-aerial-assistants-top-5-drones-for-2024/"><u>Cost-Conscious Aerial Assistants  Top 5 Drones for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-overhead-cooling-system-mo-ra-iv-600-featuring-nine-powerful-200mm-fans-and-a-massive-weight-of-over-35lbs-for-only-600/"><u>Cutting-Edge Overhead Cooling System: MO-RA IV 600 Featuring Nine Powerful 200Mm Fans and a Massive Weight of over 35Lbs for Only $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-secrets-toms-expert-analysis-and-insights/"><u>Decoding Hardware Secrets: Tom's Expert Analysis and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computing-secrets-at-toms-hardware-universe/"><u>Discover Advanced Computing Secrets at Tom's Hardware Universe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187084-diy-deliciousness-exploring-the-world-of-3d-chocolate-printing-with-cocoapress/"><u>DIY Deliciousness: Exploring the World of 3D Chocolate Printing with CocoaPress</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-se-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-itel-p40-by-fonelab-android-recover-music/"><u>How to recover old music from your Itel P40</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings-for-2024/"><u>Immersive Experience Logging  Top Tips & Techniques for Minecraft Recordings for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/quintessential-memes-the-creation-guide-for-2024/"><u>Quintessential Memes  The Creation Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175713674-stay-chilled-secure-the-ultra-efficient-arctic-aio-cooler-at-an-unbeatable-price-of-only-74/"><u>Stay Chilled: Secure the Ultra-Efficient Arctic AIO Cooler at an Unbeatable Price of Only $74</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-open-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Open ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-path-to-becoming-a-lut-connoisseur-for-2024/"><u>The Path to Becoming a LUT Connoisseur for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-by-tom/"><u>The Ultimate Resource for Hardware Enthusiasts by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-leading-wireless-keyboard-models-for-2n45/"><u>The Ultimate Selection: Leading Wireless Keyboard Models for 2N45</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiktoks-oversight-leads-to-bambu-lab-buyers-receiving-a1-3d-printer-replacements-safety-concerned-models-included/"><u>TikTok’s Oversight Leads to Bambu Lab Buyers Receiving A1 3D Printer Replacements, Safety Concerned Models Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-deep-dives-into-cutting-edge-hardware-technology/"><u>Tom's Computer Insights: Deep Dives Into Cutting-Edge Hardware Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-top-performance-selecting-quality-computer-hardware/"><u>Tom's Guide to Top Performance: Selecting Quality Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-insider-look-top-tier-tech-and-hardware-reviews/"><u>Tom’s Insider Look: Top-Tier Tech and Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-affordable-3d-printers-in-2nndy4-exploring-fdm-resin-and-budget-friendly-options/"><u>Top Picks for Affordable 3D Printers in 2Nndy4: Exploring FDM, Resin, & Budget-Friendly Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175679541-transform-your-tech-indulge-in-the-sweet-scents-of-advanced-cooling-paste-technology/"><u>Transform Your Tech: Indulge in the Sweet Scents of Advanced Cooling Paste Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-value-pick-best-gaming-ram-speed-meets-style-and-savings/"><u>Ultimate Value Pick: Best Gaming RAM – Speed Meets Style & Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-nas-systems-navigating-through-top-rated-network-attached-storage-drives-for-robust-protection-of-your-valuables/"><u>Unbeatable NAS Systems: Navigating Through Top-Rated Network Attached Storage Drives for Robust Protection of Your Valuables</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-high-performance-systems-with-toms-hardware-analyses/"><u>Unlocking the Secrets of High-Performance Systems with Tom’s Hardware Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-discoveries-in-computing-tune-into-toms-hardware-guides/"><u>Unveiling New Discoveries in Computing - Tune Into Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-expert-reviews-by-toms-hardware-team/"><u>Unveiling New Gadgets - Expert Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/updated-noctua-nh-d15-g2-features-enhanced-silence-with-increased-heatpipes-and-modernized-offset-framework/"><u>Updated Noctua NH-D15 G2 Features Enhanced Silence with Increased Heatpipes & Modernized Offset Framework</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/yield-remarkable-outcomes-ek-solutions-aftermarket-cpu-cooler-enhances-intel-core-i9-10900ks-lowers-temps-by-20c/"><u>Yield 'Remarkable Outcomes': EK Solution's Aftermarket CPU Cooler Enhances Intel Core I9-10900KS, Lowers Temps by 20°C</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: $1,100 Laptop with Advanced Specs - Dive Into High-Res Visuals & Top-Tier Performance With the Honor MagicBook Art 14'S OLED Screen & Meteor Processor Technology
-date: 2024-08-16 20:34:13
-updated: 2024-08-17 10:39:57
+date: 2024-08-19T02:53:19.653Z
+updated: 2024-08-20T02:53:19.653Z
 tags:
   - laptop
 categories:
@@ -82,6 +82,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -92,6 +95,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -100,6 +106,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -120,6 +129,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -130,6 +142,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -144,12 +159,18 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -188,18 +209,27 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -252,3 +282,58 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/1715937945528-new-2024-approved-how-to-choose-between-filmora-and-democreator/"><u>[New] 2024 Approved  How to Choose Between Filmora and Democreator?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-editors-guide-to-flawless-frame-acceleration/"><u>[New] 2024 Approved  The Editor's Guide to Flawless Frame Acceleration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-blogging-bravery-following-youtuber-leaders-for-2024/"><u>[New] Boost Your Blogging Bravery  Following YouTuber Leaders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-massive-video-transfers-iphone-mac-edition/"><u>[New] Streamlining Massive Video Transfers  IPhone-Mac Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-essential-quicktime-lapse-maker-5/"><u>[Updated] 2024 Approved  Essential Quicktime-Lapse Maker #5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-playbook-for-twitter-streamers/"><u>[Updated] 2024 Approved  The Ultimate Playbook for Twitter Streamers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comprehensive-manual-best-practices-for-using-mobizen-recording-tool/"><u>[Updated] Comprehensive Manual  Best Practices for Using Mobizen Recording Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[Updated] Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-users-companion-for-durecorder/"><u>[Updated] Ultimate User’s Companion for DuRecorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unraveling-revenue-how-much-do-creators-make-on-youtube-adverts/"><u>[Updated] Unraveling Revenue  How Much Do Creators Make on Youtube Adverts?</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-xcover-7-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy XCover 7 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-fastest-route-to-convert-srt-to-txt-files-for-2024/"><u>2023'S Fastest Route to Convert SRT to TXT Files for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-colorful-cinematography-the-evolving-world-of-4k-chroma-blades/"><u>2024 Approved  Colorful Cinematography  The Evolving World of 4K Chroma Blades</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-free-template-pack-top-titles-for-ae-dreamers/"><u>2024 Approved  Premium FREE Template Pack  Top Titles for AE Dreamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>2024 Approved  Zoom's Best Audio Fixes  Clear Sounds & Hearing Improvement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-tutorial-applying-the-fuzzy-skin-effect-in-cura-to-achieve-professional-looking-3d-prints/"><u>A Comprehensive Tutorial: Applying the Fuzzy Skin Effect in Cura to Achieve Professional-Looking 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-quality-high-definition-8k-phrozens-sonic-mini-s-resin-3d-printer-now-only-325/"><u>Affordable Quality: High Definition 8K Phrozen's Sonic Mini S Resin 3D Printer Now Only $325</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-danger-the-deepening-ai-vulnerability-puzzle/"><u>Augmented Danger: The Deepening AI Vulnerability Puzzle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-a1-3d-printing-mishap-tiktok-accidentally-offers-reimbursement-for-non-defective-and-hazardous-models/"><u>Bambu Lab A1 3D Printing Mishap: TikTok Accidentally Offers Reimbursement for Non-Defective and Hazardous Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706728-beat-the-heat-the-ultimate-liquid-cooler-mo-ra-iv-600-packed-with-9-big-fans-and-weighs-over-35lbs-at-just-600/"><u>Beat the Heat: The Ultimate Liquid Cooler MO-RA IV 600, Packed with 9 Big Fans & Weighs over 35Lbs at Just $600!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-nas-solutions-optimize-your-digital-space-with-reliable-storage-drives/"><u>Best NAS Solutions: Optimize Your Digital Space with Reliable Storage Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-anycubic-kobra-3-multicolor-printer-analysis/"><u>Comprehensive Anycubic Kobra 3 Multicolor Printer Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-elegoo-saturn-4-a-breakthrough-in-advanced-resin-3d-printers/"><u>Comprehensive Review of Elegoo Saturn 4 - A Breakthrough in Advanced Resin 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciding-on-perfect-pc-ventilation-the-battle-between-pwm-and-dc-fans-for-optimal-performance/"><u>Deciding on Perfect PC Ventilation: The Battle Between PWM and DC Fans for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-elite-ps5-ssd-alternatives-the-quickest-nvme-storage-solutions-for-gamers/"><u>Discover Elite PS5 SSD Alternatives: The Quickest NVMe Storage Solutions for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-innovations-with-toms-hardware-hub/"><u>Dive Into Digital Innovations with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-overclocking-game-with-arctic-freezer-36-coolers-specially-designed-for-intels-newest-processors-and-sockets/"><u>Elevate Your Overclocking Game with Arctic Freezer 36 Coolers – Specially Designed for Intel's Newest Processors and Sockets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-the-game-changer-for-compact-pcs-noctuas-newly-launched-nh-l1-cuple-of-77-perfect-ram-clearance-and-vrm-heatsink-efficiency-achieved-in-lo2/"><u>Exclusive Look at the Game Changer for Compact PCs - Noctua's Newly Launched NH-L1 Cuple of 77: Perfect RAM Clearance and VRM Heatsink Efficiency Achieved in Low-Profile Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175720732-get-ready-for-the-game-changing-user-friendly-idiot-proof-thermal-paste-tool-from-x-apply-coming-your-way/"><u>Get Ready for the Game-Changing, User-Friendly 'Idiot-Proof' Thermal Paste Tool From X-Apply - Coming Your Way</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175723186-immerse-in-a-spectacular-gaming-experience-with-an-ips-screen-and-rgb-light-show-on-the-economical-valkyrie-al125-air-cooler-just-20-away/"><u>Immerse in a Spectacular Gaming Experience with an IPS Screen & RGB Light Show on the Economical Valkyrie AL125 Air Cooler – Just $20 Away!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-gionee-f3-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Gionee F3 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft/"><u>In 2024, Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-top-tech-tool-extract-facebook-videos-as-mp4/"><u>In 2024, Top Tech Tool  Extract Facebook Videos as MP4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-drivers-downloading-find-and-install-for-optimal-performance/"><u>NVIDIA Drivers Downloading: Find & Install for Optimal Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/personal-vocalization-changing-your-tone-for-stories-and-reels-for-2024/"><u>Personal Vocalization  Changing Your Tone for Stories & Reels for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-steps-to-correct-and-prevent-black-screen-glitch-in-epic-games-platform/"><u>Resolved: Steps to Correct and Prevent Black Screen Glitch in Epic Games Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125162475-simplify-post-printing-steps-in-resin-3d-printing-discover-the-power-of-the-elegoo-bundle-for-just-149/"><u>Simplify Post-Printing Steps in Resin 3D Printing – Discover the Power of the Elegoo Bundle for Just $149</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-top-performance-pc-gear/"><u>Tom's Guide to Top Performance PC Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-desktop-processors-of-2024-the-ultimate-guide/"><u>Top-Rated Desktop Processors of 2024: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175726933-transform-your-gaming-rig-hytes-nexus-link-offers-seamless-assembly-wireless-components-and-high-performance-aio-technology/"><u>Transform Your Gaming Rig: Hyte's Nexus Link Offers Seamless Assembly, Wireless Components & High-Performance AIO Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718455-understanding-arctic-liquid-freezer-iii-compatibility-could-your-intel-processor-be-at-risk-custom-contact-recommended/"><u>Understanding Arctic Liquid Freezer III Compatibility: Could Your Intel Processor Be at Risk? Custom Contact Recommended</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-in-computers-the-toms-hardware-way/"><u>Unlocking Performance Secrets in Computers - The Tom's Hardware Way</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-hardware-mysteries-with-toms-in-depth-tech-guides/"><u>Unraveling Hardware Mysteries with Tom's In-Depth Tech Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-tech-mysteries-toms-hardware-explorations-and-reviews/"><u>Unraveling Tech Mysteries: Tom's Hardware Explorations and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-toms-computer-and-electronics-guide/"><u>Unveiling Gadgets with Tom's Computer & Electronics Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gaming-screen-innovations-economical-non-straight-layouts-and-high-sync-options/"><u>Unveiling the Latest Gaming Screen Innovations : Economical, Non-Straight Layouts and High Sync Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-insights-from-toms-hardware/"><u>Unveiling the Latest in PC Components - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uphere-m2n1-nvme-cooler-assessment-high-efficiency-low-cost-5-ssd-temperature-control/"><u>UpHere M2n1 NVMe Cooler Assessment: High-Efficiency, Low-Cost ($5) SSD Temperature Control</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's New Game-Changer: ThinkPad T14S Unveiled with Longest Battery Life (29 Hours), High-Performance Qualcomm Processor, and Speed-Boosting SSD Storage"
-date: 2024-08-14 13:30:29
-updated: 2024-08-17 11:55:53
+date: 2024-08-19T02:51:46.085Z
+updated: 2024-08-20T02:51:46.085Z
 tags:
   - laptop
 categories:
@@ -82,6 +82,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -130,6 +133,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -144,6 +150,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -160,10 +169,22 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -172,16 +193,25 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
@@ -194,6 +224,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
@@ -212,6 +245,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
@@ -252,3 +288,53 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-integrating-tiktok-and-facebook-with-minimal-fuss/"><u>[New] 2024 Approved  Integrating TikTok & Facebook with Minimal Fuss</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-achieving-professional-results-video-recordingediting-on-adobe-connect-for-2024/"><u>[New] Achieving Professional Results  Video Recording/Editing on Adobe Connect for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-use-creative-commons-copyright-licenses-complete-guide/"><u>[New] How to Use Creative Commons Copyright Licenses [Complete Guide]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-8-linux-programs-for-media-makers/"><u>[Updated] 2024 Approved  Best 8 Linux Programs for Media Makers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-tiktok-toolkit-increase-views-and-engagement-for-2024/"><u>[Updated] The Ultimate TikTok Toolkit  Increase Views and Engagement for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bending-space-and-time-vrs-cinematic-innovation/"><u>2024 Approved  Bending Space and Time  VR's Cinematic Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/admission-from-der8auer-missteps-with-inefficient-thermal-grizzly-heatsinks-and-direct-die-chillers/"><u>Admission From Der8auer: Missteps with Inefficient Thermal Grizzly Heatsinks and Direct-Die Chillers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-barriers-customized-3d-printer-achieves-lightning-fast-speed-benchy-creation-in-only-2-minutes/"><u>Breaking Barriers: Customized 3D Printer Achieves Lightning-Fast 'Speed Benchy' Creation in Only 2 Minutes</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-edge-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Edge 2023 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creality-unveils-release-schedule-and-price-points-for-the-powerhouse-k1c-3d-printer-with-detailed-specifications/"><u>Creality Unveils Release Schedule & Price Points for the Powerhouse K1C 3D Printer with Detailed Specifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-the-best-heat-conducting-paste-for-your-cpu-in-202e-results-from-our-latest-comparative-study/"><u>Expert Analysis: The Best Heat Conducting Paste for Your CPU in 202E – Results From Our Latest Comparative Study</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-opinions-from-toms-gadget-corner/"><u>Expert Hardware Opinions From Tom's Gadget Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-curated-list-of-superior-smaller-pc-case-options-for-ultra-compact-builds-2e-year-edition/"><u>Expertly Curated List of Superior Smaller PC Case Options for Ultra-Compact Builds, 2E Year Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-computing-with-tom-a-deep-dive-into-hardware-mastery/"><u>Exploring the World of Computing with Tom - A Deep Dive Into Hardware Mastery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-major-contract-terminations-forces-asetek-to-halt-revenue-estimates/"><u>Impact of Major Contract Terminations Forces Asetek to Halt Revenue Estimates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-7-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a59-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A59 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-elegoos-latest-creation-neptune-anno-4-max-a-balance-of-bigger-buggy-and-faster-features/"><u>In-Depth Analysis of Elegoo's Latest Creation - Neptune Anno 4 Max: A Balance of Bigger, Buggy and Faster Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-gaming-pc-power-solutions-unveiled-top-psu-choices-for-2t4/"><u>Leading Gaming PC Power Solutions Unveiled - Top PSU Choices for 2T4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-graphics-processors-for-profitable-crypto-mining-toms-hardware-guide/"><u>Leading Graphics Processors for Profitable Crypto Mining: Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pcs-with-tom-trusted-insights-for-the-modern-consumer/"><u>Mastering Gadgets and PCs with Tom - Trusted Insights for the Modern Consumer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-through-toms-lens-insightful-reviews-and-buyers-guides/"><u>Mastering Gadgets Through Tom's Lens: Insightful Reviews and Buyer’s Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-toms-authoritative-reviews/"><u>Navigating the Tech World with Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-5-top-audio-tools-to-master-recording-your-voice-with-ease/"><u>New 5 Top Audio Tools to Master Recording Your Voice with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-technology-from-noctua-targets-high-performance-nvidia-gh2-superchip/"><u>Next-Level Cooling Technology From Noctua Targets High-Performance NVIDIA GH2# Superchip</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prusas-new-era-begins-manufacturing-3d-printing-devices-and-materials-in-delaware/"><u>Prusa's New Era Begins: Manufacturing 3D Printing Devices & Materials in Delaware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-xpg-hybrid-cooling-system-integrated-pump-and-radiator-for-up-to-280w-cpus/"><u>Revolutionary XPG Hybrid Cooling System: Integrated Pump & Radiator for Up to 280W CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125152197-revolutionizing-3d-printing-an-in-depth-look-at-bambu-labs-top-model-the-x1-carbon/"><u>Revolutionizing 3D Printing - An In-Depth Look at Bambu Lab's Top Model, The X1-Carbon.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sculpting-cinematographic-excellence-in-gopro-editing-for-2024/"><u>Sculpting Cinematographic Excellence in GoPro Editing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sleek-and-powerful-our-experts-top-picks-for-ultra-compact-mini-itx-pc-casing-2024-edition/"><u>Sleek and Powerful: Our Experts' Top Picks for Ultra Compact Mini-ITX PC Casing, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-curve-only-and-mixed-screen-4k-gaming-monitors-of-2024-high-refresh-rate-at-144hz-included-for-optimal-performance/"><u>The Best Curve-Only and Mixed Screen 4K Gaming Monitors of 2024, High Refresh Rate at 144Hz Included for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-building-your-dream-computer-with-toms-advice/"><u>The Ultimate Resource for Building Your Dream Computer with Tom's Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-explained-a-detailed-look-at-computer-tech/"><u>Tom's Hardware Explained: A Detailed Look at Computer Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-computer-reviews/"><u>Tom's Tech Insights: In-Depth Computer Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insights-into-the-latest-hardware/"><u>Tom's Tech Review: Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide/"><u>Tom's Tech Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-computer-hardware-analysis/"><u>Tom's Tech Review: Ultimate Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guides-and-analysis/"><u>Tom's Tech Reviews: Comprehensive Guides and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-compact-computer-chassis-best-mini-itx-enclosures-of-2024/"><u>Top Pick Compact Computer Chassis - Best Mini ITX Enclosures of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-graphics-cards-of-2024-unbeatable-value-and-performance-for-gamers/"><u>Top-Ranked Graphics Cards of 2024: Unbeatable Value and Performance for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-guidance-from-toms-authoritative-hardware-advice/"><u>Unlocking Computer Secrets with Guidance From Tom's Authoritative Hardware Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-by-toms-equipment-insights/"><u>Unveiling the Latest in Technology by Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-electronics-with-toms-hardware-guides/"><u>Unveiling Top-Tier Electronics with Tom's Hardware Guides</u></a></li>
+</ul></div>
