@@ -1,7 +1,7 @@
 ---
 title: Is Investing in a Dedicated Graphics Card on Your Next Laptop Worth It?
-date: 2024-08-26 17:13:56
-updated: 2024-08-29 10:30:49
+date: 2024-08-28T06:10:21.735Z
+updated: 2024-08-29T06:10:21.735Z
 tags:
   - hardware
 categories:
@@ -31,30 +31,50 @@ Justin Duino / How-To Geek
 
  As a rule, dedicated GPUs in laptops offer much more performance than integrated GPUs. Which is why you'll find them in laptops aimed at gamers, creative professionals, or serious scientific and engineering workloads.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  Do I Need High-End Graphics?
 
  Performance is the main reason to opt for a dedicated GPU in a laptop. If you need to run applications that require a powerful GPU, then a dedicated GPU is invariably the way to go.
 
 ![Cyberpunk Motorcycle photo mode shot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cyberpunk-motorcycle-photo-mode-shot.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
  A more complicated question is whether you need high-end graphics while on the go. If you only need those high-end graphics when you're plugged in at a desk, then consider an [eGPU](https://hardware-help.techidaily.com/freshly-updated-guide-to-installing-new-drivers-on-dell-latitude-e6430-running-windows-issue-resolved/). This let's you access a powerful dedicated GPU when you need one, without the drawbacks. That does mean you need to buy a laptop that supports eGPUs, but thankfully these days they aren't rare.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  How Much Does Battery Life Matter?
 
  Dedicated GPUs tend to draw quite a bit of power, and if you want a laptop with some stamina, they might not be the best choice. That being said, many laptops offer both integrated and dedicated GPUs in the same system. For example, laptops that support NVIDIA Optimus will switch between the two GPUs dynamically based on what apps you're using and whether you're on battery power or not.
 
  Regardless, laptops without dedicated GPUs generally have better battery endurance numbers, though you should always make this decision based on the battery benchmark performance of individual laptops that you are considering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Do I Want a Thin and Light Laptop?
 
 ![A MacBook Pro on a table, open and powered on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53527334623_dda9a713d5_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Dedicated GPUs require quite a bit of real estate inside a laptop. Apart from the components on the mainboard, you need heatsinks, fans, power circuitry and vents for this component on top of what the rest of the laptop requires. While some companies have managed to make thin laptops with dGPUs, such as the [Razor Blade](https://extra-resources.techidaily.com/ultimate-thirteen-for-professional-cinematic-equipment/) laptops, you probably don't want to look at the asking prices for those systems.
 
  So, assuming you are someone with a sensible budget, the best thin-and-light laptop options will be sans dedicated GPU.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Can Integrated Graphics Do the Job Now?
 
  What makes this decision a little more complicated these days is that integrated graphics have come a long way. It used to be a simple fact that integrated GPUs were barely usable. They were OK for PowerPoint and watching some YouTube videos, but anything involving 3D would just be yet another boring slideshow.
@@ -81,3 +101,49 @@ Sergio Rodriguez / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-action-camera-mics-top-tier-selection-unveiled/"><u>[New] Action Camera Mics  Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-free-call-apps-on-android-ranks-them/"><u>[New] Best Free Call Apps on Android, Ranks Them</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-gopro-livestreams-connecting-to-facebook-and-periscope-for-2024/"><u>[New] Mastering Gopro Livestreams  Connecting to Facebook & Periscope for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-unknown-to-social-superstar-master-these-15-insta-growth-strategies-for-fast-results-for-2024/"><u>[Updated] From Unknown to Social Superstar  Master These 15 Insta Growth Strategies for Fast Results for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-android-photography-tricks-and-tools/"><u>[Updated] In 2024, Mastering Android  Photography Tricks & Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-definitive-guide-to-youtubes-algorithmic-secrets-for-rankings/"><u>[Updated] In 2024, The Definitive Guide to YouTube's Algorithmic Secrets for Rankings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-protecting-ideas-avoidance-of-rash-removals-for-2024/"><u>[Updated] Protecting Ideas  Avoidance of Rash Removals for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-in-picture-text-edits-and-overlays/"><u>2024 Approved  Masterclass in Picture Text Edits and Overlays</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-reviewing-the-high-quality-video-on-galaxy-s8/"><u>2024 Approved  Reviewing the High-Quality Video on Galaxy S8</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-say-hello-to-banner-creativity-with-our-curated-set-of-50-free-youtube-pieces/"><u>2024 Approved  Say Hello to Banner Creativity with Our Curated Set of 50 Free YouTube Pieces</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-next-generation-of-mac-video-capture-software-not-bandicam/"><u>2024 Approved  The Next Generation of Mac Video Capture Software (Not Bandicam)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-visual-splendor-of-viewsonics-xg272-2k-monitor-gaming-display-evaluation/"><u>Exploring the Visual Splendor of ViewSonic's XG272-2K Monitor: Gaming Display Evaluation 🎮</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-analysis-by-toms-technology-hub-your-ultimate-guide/"><u>Gadget Analysis by Tom’s Technology Hub - Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-most-from-your-budget-with-eyoys-em105-a-must-read-for-fans-of-portable-105-monitors/"><u>Get the Most From Your Budget with EYOY's EM105 - A Must-Read for Fans of Portable 10.5 Monitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-troubleshoot-a-windows-update-that-wont-go-past-0/"><u>How to Easily Troubleshoot a Windows Update That Won't Go Past 0%%</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C32 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-expert-tips-for-penning-engaging-vlogger-scripts/"><u>In 2024, Expert Tips for Penning Engaging Vlogger Scripts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-7-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 7 Smoothly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-master-the-art-of-persuasion-top-30-video-strategies/"><u>In 2024, Master the Art of Persuasion  Top 30 Video Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-focusing-on-roblox-elements-closeup/"><u>In 2024, The Art of Focusing on Roblox Elements Closeup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-hardware-experts-find-your-perfect-pc-build/"><u>In-Depth Analysis by Tom's Hardware Experts - Find Your Perfect PC Build</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tomtech-savvy-unveiled/"><u>In-Depth Reviews by TomTech Savvy Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/indepth-review-gigabyte-aorus-co49dq-oled-monitor-exceptional-color-and-contrast-performance/"><u>InDepth Review: Gigabyte Aorus CO49DQ OLED Monitor - Exceptional Color & Contrast Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-store-your-guide-to-cutting-edge-components/"><u>Inside Tom's Hardware Store: Your Guide to Cutting-Edge Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-dasung-paperlike-the-high-resolution-portable-e-ink-12-display-for-849-now-available-in-us/"><u>Introducing the Dasung Paperlike: The High-Resolution Portable E-Ink 12 Display for $849 - Now Available in U.S</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-systems-with-toms-hardware-expertise/"><u>Mastering Computer Systems with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-visual-brilliance-thorough-examination-of-the-asus-rog-swift-pg3-grove-oled-monitor/"><u>Mastering Visual Brilliance: Thorough Examination of the Asus ROG Swift PG3 Grove-OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-hardware-world-with-toms-gear-insights/"><u>Navigating the Hardware World with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-comprehensive-analysis/"><u>Navigating the World of Gadgets with Tom's Comprehensive Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-c02-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C02 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-insights-by-toms-technology-hub/"><u>Pioneering Reviews & Insights by Tom's Technology Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preventing-and-solving-risk-of-rain-2s-stalling-problems-for-a-smooth-play-experience/"><u>Preventing and Solving Risk of Rain 2'S Stalling Problems for a Smooth Play Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gameplay-with-superior-hues-review-of-gigabytes-aorus-co49dq-monitor/"><u>Revolutionize Your Gameplay with Superior Hues - Review of Gigabyte's Aorus CO49DQ Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-setup-with-msis-advanced-usb-c-connectivity-and-oled-displays/"><u>Revolutionize Your Gaming Setup with MSI's Advanced USB-C Connectivity and OLED Displays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis46/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%%</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-innocns-27-240hz-ips-gaming-display-quality-and-affordability-at-199/"><u>Save Big on Innocn's 27 240Hz IPS Gaming Display - Quality and Affordability at $199!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-savings-of-100-on-the-alienware-aw3225qf-curved-gaming-monitor-featuring-4k-qd-oled-and-240hz-refresh-for-unmatched-speed/"><u>Score a Savings of $100 on the Alienware AW3225QF Curved Gaming Monitor, Featuring 4K QD-OLED and 240Hz Refresh for Unmatched Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-acers-stunning-34-inch-curved-monitor-goes-down-to-200-at-newegg/"><u>Score Big Savings: Acer's Stunning 34-Inch Curved Monitor Goes Down to $200 at Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-leading-ultrawide-gaming-screens-of-2024-unveiled/"><u>The Leading Ultrawide Gaming Screens of 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-advice/"><u>Tom's Tech Insights: In-Depth Reviews & Advice</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Era of Intel Graphics: Making Them a Priority in Tech Discussions"
-date: 2024-08-26 16:28:21
-updated: 2024-08-29 11:50:38
+date: 2024-08-28T06:06:51.874Z
+updated: 2024-08-29T06:06:51.874Z
 tags:
   - hardware
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
  It's been a couple of years since Intel released its first generation of dedicated "Arc" GPUs in March 2022\. After a rocky launch, driver updates have fixed numerous issues, and these GPUs are now at an all-time low in terms of price. So, are Intel Arc GPUs finally worth picking over the juggernauts that are NVIDIA and AMD?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Intel GPUs Are Often Value Kings
 
  Traditionally, AMD GPUs were focused on the low- and mid-market segments, while NVIDIA dominated the high-end with cards like the original GTX Titan and, most recently, the [RTX 4090](https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/). You can still get cheaper NVIDIA cards if you want slightly better FPS, DLSS, and ray-tracing, but you generally get worse value in terms of FPS per dollar.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
 ![Intel ARC GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/arc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Intel_
 
 ##  Intel's Upscaling Is Actually Good
@@ -49,10 +55,16 @@ _Intel_
 
  It's also worth noting that XeSS gives a more significant performance uplift on Intel Arc GPUs than on NVIDIA and AMD. If you've tried XeSS on a non-Intel GPU and liked it, you'll like it even more on an Intel Arc. The silver lining is that upscaling works best at 1440p and sharper resolutions, but Intel doesn't have high-end cards that can reliably run triple-A games at 60+ FPS at resolutions above 1080p.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Intel Arc Can Even Do Ray Tracing
 
 ![Ray tracing comparison in the Apple A17 Pro presentation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/a17_ray_tracing-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ray tracing isn't a gimmick](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/); enabling ray tracing in games that support it improves the image quality like almost no other setting. It delivers realistic lighting, shadows, and reflections. If you like fancy eye candy and wouldn't mind sacrificing half your FPS, you should pay attention to [ray tracing benchmarks](https://vp-tips.techidaily.com/new-capturing-moments-right-ideal-perspectives-on-iphone-for-2024/).
 
  Just like DLSS, NVIDIA is the king of ray tracing if price isn't a factor. [AMD can also do ray tracing](https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6s-by-drfone-ios/), but it doesn't feature hardware-level ray tracing cores like NVIDIA and Intel. These so-called "RT cores" are different from the standard GPU cores, as they're better optimized to handle ray tracing.
@@ -69,10 +81,16 @@ _Intel_
 
  Another notable issue is high power consumption when idle, which seems to be exacerbated if you have multiple displays connected to the GPU. Thankfully, Reddit users found a [workaround](https://www.reddit.com/r/IntelArc/comments/14ea6x3/fix%5Ffor%5Fhigh%5Fpower%5Fconsumption%5Fwhen%5Fintel%5Farc%5Fgpu/) to mitigate the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  When Brands Compete, Users Win
 
 ![Nvidia GeForce RTX logo on a 4070 Ti gaming GPU](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/52607694920_7363808ef2_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 _Justin Duino / How-To Geek_
 
  Linus Tech Tips [once argued](http://www.youtube.com/watch?v=6T9d9LM1TwY) that gamers should buy Intel Arc GPUs, not because they offer good performance for the dollar, but because we should support the "third" GPU manufacturer. This is both to mitigate shortages at a time when GPU supplies are limited and to encourage competition.
@@ -95,3 +113,52 @@ _Justin Duino / How-To Geek_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-video-editors-for-cutting-edge-webcams/"><u>[New] In 2024, Essential Video Editors for Cutting-Edge Webcams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/"><u>[New] In 2024, Essential YouTube Video Editing Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-photograph-entire-screen-area/"><u>[New] In 2024, Photograph Entire Screen Area</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tagging-towards-triumph-the-best-instagram-hashtags/"><u>[New] In 2024, Tagging Towards Triumph  The Best Instagram Hashtags</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-budget-friendly-processors-analyzed-and-ranked-cnet-ratings/"><u>2024'S Best Budget-Friendly Processors Analyzed and Ranked - CNET Ratings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-insight-essential-checks-for-gpts-learning-algorithm/"><u>Academic Insight: Essential Checks for GPT's Learning Algorithm</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieving-perfectly-sealed-3d-prints-how-to-avoid-common-hole-and-gap-issues/"><u>Achieving Perfectly Sealed 3D Prints: How to Avoid Common Hole and Gap Issues.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/addressing-the-issue-head-on-ekwbs-promise-of-rectifying-supplier-and-staff-payment-lapses/"><u>Addressing the Issue Head-On: EKWB's Promise of Rectifying Supplier and Staff Payment Lapses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadgets-reviewed-at-toms-hardware-hub/"><u>Advanced Gadgets Reviewed at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175692064-affordable-valkyrie-al125-processor-heatsink-with-brilliant-rgb-led-lights-and-a-protective-anti-scratch-display-all-under-20/"><u>Affordable Valkyrie AL125 Processor Heatsink with Brilliant RGB LED Lights and a Protective Anti-Scratch Display – All Under $20!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-on-a-budget-expert-analysis-of-upheres-economic-air-coolers-c5c-and-d6sec-under-20/"><u>Beat the Heat on a Budget: Expert Analysis of UpHere's Economic Air Coolers (C5C & D6Sec) Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deep-dive-review-how-the-two-trees-sk1-processor-delivers-high-speed-efficiency-with-open-source-advantage/"><u>Deep Dive Review: How the Two Trees SK1 Processor Delivers High-Speed Efficiency with Open Source Advantage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-the-world-of-computer-tech-with-insights-from-toms-hardware-gurus/"><u>Dive Into the World of Computer Tech with Insights From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-ways-to-determine-how-much-data-youve-used-online/"><u>Efficient Ways to Determine How Much Data You've Used Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-a-chilling-upgrade-with-the-ek-solution-cpu-cooler-witness-up-to-20c-drop-in-intel-core-i9-1efficiency/"><u>Experience a Chilling Upgrade with the EK Solution CPU Cooler - Witness up to 20°C Drop in Intel Core I9-1efficiency!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-the-lian-li-galahad-ii-with-integrated-led-display-ideal-for-overclockers-and-gamers-using-the-i7-14900k/"><u>Expert Review: The Lian Li Galahad II with Integrated LED Display, Ideal for Overclockers and Gamers Using the I7-14900K</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-systems-a-deep-dive-by-toms-technology-insights/"><u>Exploring Advanced Systems - A Deep Dive by Tom’s Technology Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic-6-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor Magic 6 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-6-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 6 for Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-freeze-triad-of-coolers-the-ultimate-edge-ai-companion-by-airjet-powered-up-to-25w/"><u>Introducing the Freeze Triad of Coolers - The Ultimate Edge AI Companion by AirJet, Powered up to 25W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-modern-gadgets-the-ultimate-guide-from-toms-hardware/"><u>Master Modern Gadgets: The Ultimate Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-insights-from-toms-hardware-hub/"><u>Mastering Gadgets with Insights From Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-guide-by-toms-hardware-experts/"><u>Mastering Gadgets: The Ultimate Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-technology-with-toms-expertise-in-computer-hardware/"><u>Navigate the Future of Technology with Tom's Expertise in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-reliable-reviews-and-tips-from-toms-systems/"><u>Navigate the Tech World: Reliable Reviews and Tips From Tom's Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-a-dive-into-hardware-essentials/"><u>Navigating Technology with Tom - A Dive Into Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-top-tech-reviews-by-toms-trustworthy-team/"><u>Navigating Through Circuitry: Top Tech Reviews by Tom's Trustworthy Team</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-get-ready-for-video-editing-premiere-pro-system-requirements-explained-for-2024/"><u>New Get Ready for Video Editing Premiere Pro System Requirements Explained for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliable-pc-part-testing-and-breakdown-by-tomhardwaresolutions/"><u>Reliable PC Part Testing and Breakdown by TomHardwareSolutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ryzen-9-9950x-world-record-breakthrough-in-cinebench-r23-tests-achieved-with-a-blistering-65-ghz-frequency/"><u>Ryzen 9 9950X World Record Breakthrough in Cinebench R23 Tests, Achieved with a Blistering 6.5 GHz Frequency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sanctioned-how-deepcool-continues-power-supply-and-pc-coolers-to-russian-markets-during-ukraine-crisis/"><u>Sanctioned: How DeepCool Continues Power Supply and PC Coolers to Russian Markets During Ukraine Crisis</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-5-best-ways-to-make-money-on-youtube-shorts-today/"><u>The 5 Best Ways to Make Money on YouTube Shorts Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-tech-companion-unlocking-secrets-with-toms-hardware-know-how/"><u>The Comprehensive Tech Companion: Unlocking Secrets with Tom's Hardware Know-How</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-with-tom-in-depth-analysis/"><u>The Ultimate Guide to Gadgets with Tom - In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-desktop-and-nas-storage/"><u>The Ultimate Guide to Selecting the Best Desktop & NAS Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-best-gaming-headsets-in-2eighty-four/"><u>The Ultimate Selection: Best Gaming Headsets in 2Eighty-Four</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronics-expertise-in-depth-gadget-analysis/"><u>Tom's Electronics Expertise: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-expert-reviews-and-in-depth-analysis-of-computer-hardware/"><u>Tom's Tech: Expert Reviews & In-Depth Analysis of Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-consumer-ratings/"><u>Top-Rated VPN Providers: Comprehensive Analysis & Consumer Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-personal-computing-deepcools-fresh-arsenal-of-coolers-psus-and-pc-parts-infused-with-eye-catching-pixel-silicone-customization/"><u>Unveiling the Future of Personal Computing: DeepCool's Fresh Arsenal of Coolers, PSUs, & PC Parts – Infused with Eye-Catching Pixel Silicone Customization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-potential-of-amds-zen-5-packing-a-whopping-8315-billion-transistors-per-compute-die-for-enhanced-performance-up-to-28-higher-den49/"><u>Unveiling the Game-Changing Potential of AMD's Zen 5: Packing a Whopping 8.315 Billion Transistors per Compute Die for Enhanced Performance, Up to 28%% Higher Density</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-toms-review/"><u>Unveiling the Latest in Computing - Tom's Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-a-closer-look-with-tom/"><u>Unveiling the Latest in Hardware - A Closer Look with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-devices-toms-comprehensive-hardware-reviews/"><u>Unveiling Top-Notch Devices: Tom’s Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-enhanced-connectivity-easy-downloads-for-the-intel-wireless-ac-7260-drivers/"><u>Update to Enhanced Connectivity – Easy Downloads for the Intel Wireless AC 7260 Drivers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine
-date: 2024-08-27 23:46:58
-updated: 2024-08-29 12:42:45
+date: 2024-08-28T06:07:22.577Z
+updated: 2024-08-29T06:07:22.577Z
 tags:
   - hardware
 categories:
@@ -33,10 +33,16 @@ Macros are essential to any efficient office setup. You don’t have to have a p
 
  macOS users can benefit from the same thing, though [on macOS it’s a different shortcut](https://vimeo-videos.techidaily.com/2024-approved-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/) you’ll be programming into the macro. You’ll want to use the Shift+Command+4 shortcut inside the macro to capture a portion of the screen and copy it to your clipboard. However, with macOS, once you’re into the screenshot tool, you can click the spacebar to switch between capturing the entire window you’re hovering over or just a portion of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Exporting from Photoshop Made Easy
 
 ![Photoshop Save For Web Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/photoshop-save-for-web-macro-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While I don’t use this macro much anymore (as my Photoshop usage over the past year has gone way down), there was a time that this saved me a _lot_ of time. [In Photoshop](https://video-screen-grab.techidaily.com/in-depth-look-apowersofts-pc-screenshare-technology-for-2024/), if you want to “Save for web”, the keyboard shortcut is Alt+Shift+Ctrl+S. That’s a _lot_ to remember, and it used to have me contorting my hand in a very weird way in order to hit it. Then, once you’re at that popup, you have to hit enter in order to actually save. I know there are other methods to save in Photoshop, but because of what I used to do, this was the best way to export for me.
 
  So, what did I do? I created a macro, of course! With two key presses this time (one to switch layers on my keyboard, and one to trigger the macro), I could save a picture from Photoshop simply, without contorting my fingers.
@@ -47,14 +53,23 @@ Macros are essential to any efficient office setup. You don’t have to have a p
 
  This alone saved me a _lot_ of time every week when I was processing dozens of pictures every day, and sometimes hundreds per week.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Copy a Link and Shorten It in One Move (on macOS)
 
 ![Short-Menu-Shortening-Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/short-menu-shortening-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
  If you’re constantly shortening (or even affiliating) links on macOS, then this piece of software and macro are exactly what you should be leveraging. Using a piece of software called [Short Menu](https://shortmenu.com/mac/), you can program a keyboard shortcut that will shorten any URL you have in your clipboard.
 
  I used this often when I did deals writing, and had the keyboard shortcut programmed as a macro right next to my copy function. So, when I needed to affiliate or shorten a URL, I would start by using my copy macro, then click the button next to that to shorten or affiliate the URL, then click the next button to paste. I took something that would normally take about 6–10 keystrokes and shortened it to 3\. That doesn’t sound like a massive change, but it makes an astronomical difference in your daily workflow for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  What Can You Macro?
 
  As you see above, there are quite a few things that I've turned into a macro that you might not have thought of before. So, what can you macro?
@@ -77,3 +92,61 @@ Macros are essential to any efficient office setup. You don’t have to have a p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-visioncaptor-new-era-of-screen-recorders-unveiled/"><u>[New] 2024 Approved  'VisionCaptor'  New Era of Screen Recorders Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elite-virtual-storage-service-ranking/"><u>[New] 2024 Approved  Elite Virtual Storage Service Ranking</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x/"><u>[New] 2024 Approved  Expert Tips  Top Free Tools to Extract and Save Instagram Videos (Windows/OS X)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aerial-excellence-with-mi-drone-a-high-quality-look/"><u>[New] Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[New] Altering Visuals in Teams Calls  Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-digital-duel-how-jake-paul-triumphed-on-youtube-for-2024/"><u>[New] The Digital Duel  How Jake Paul Triumphed on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tips-for-sending-tweets-video-content-via-whatsapp/"><u>[New] Tips for Sending Tweets' Video Content via WhatsApp</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-automating-meeting-times-a-google-meet-essential/"><u>[Updated] 2024 Approved  Automating Meeting Times  A Google Meet Essential</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[Updated] 2024 Approved  Pro Tips  Configuring Stopwatches in OBS Studio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-androids-prime-video-calls-top-10-cost-free-options/"><u>[Updated] In 2024, Android's Prime Video Calls  Top 10 Cost-Free Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-advice-yt-clip-sharing-using-your-google-id/"><u>[Updated] In 2024, Expert Advice  YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-users-guide-for-navigating-durecorder-world-for-2024/"><u>[Updated] The Ultimate User’s Guide for Navigating DuRecorder World for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-access-the-journey-through-free-visual-resources/"><u>2024 Approved  Mastering Access  The Journey Through Free Visual Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-system-insights-by-toms-computing-hub/"><u>Advanced System Insights by Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-voiding-your-intels-cpu-warranty-the-essential-guide-to-choosing-the-right-liquid-freezer-iii-from-arctic-with-contact-frames/"><u>Avoid Voiding Your Intels CPU Warranty: The Essential Guide to Choosing the Right Liquid Freezer III From Arctic With Contact Frames</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-with-noctuas-ultimate-cooler-designed-specifically-for-nvidia-gh200-superchip/"><u>Beat the Heat with Noctua's Ultimate Cooler Designed Specifically for Nvidia GH200 Superchip</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-ultrawide-gaming-monitors-reviewed-2024-edition/"><u>Best-in-Class Ultrawide Gaming Monitors Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-gamers-keyboard-our-verdict-on-full-size-half-tkl-and-mini-options/"><u>Choosing the Right Gamers' Keyboard : Our Verdict on Full-Size, Half (TKL) & Mini Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-curated-by-toms-team/"><u>Comprehensive Hardware Guides Curated by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-original-prusa-xl-spacious-printing-area-and-multi-toolhead-functionality/"><u>Comprehensive Review of the Original Prusa XL: Spacious Printing Area & Multi-Toolhead Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-installation-time-discover-how-corsairs-redesigned-fan-screws-make-lightning-fast-pc-setup/"><u>Cut Down Installation Time: Discover How Corsair's Redesigned Fan Screws Make Lightning-Fast PC Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-featured-on-toms-hardware-platform/"><u>Discover Cutting-Edge Devices Featured on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-3d-printing-technology-of-2024-featuring-fdm-resin-and-economical-options-under-250/"><u>Discover the Best 3D Printing Technology of 2024: Featuring FDM, Resin and Economical Options Under $250</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-tryx-releases-a-groundbreaking-all-in-one-cooler-with-breaththemediatypea-curved-and-vivid-amoled-visual-experience/"><u>Discover the Future of Computing: Tryx Releases a Groundbreaking All-in-One Cooler with Breaththemediatype:A Curved and Vivid AMOLED Visual Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-power-the-ultimate-selection-of-psus-for-gamers/"><u>Future-Proof Power: The Ultimate Selection of PSUs for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125188820-get-phrozens-premium-sonic-mini-8k-s-resin-printer-for-a-steal-at-325/"><u>Get Phrozen's Premium Sonic Mini 8K S Resin Printer for a Steal at $325!</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-report-an-underage-facebook-account/"><u>How to Report an Underage Facebook Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insights-into-geometric-future-eskimo-jr-outstanding-style-and-soft-noise-emissions-with-fair-usability/"><u>Insights Into Geometric Future Eskimo Jr.: Outstanding Style & Soft Noise Emissions with Fair Usability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marking-a-decade-of-innovation-creality-brings-colorful-technology-to-the-world-with-new-3d-printer-release/"><u>Marking a Decade of Innovation, Creality Brings Colorful Technology to the World with New 3D Printer Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-3d-printing-with-the-powerful-anycubic-kobra-max-expert-review-inside/"><u>Master the Art of 3D Printing with the Powerful Anycubic Kobra Max - Expert Review Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-electronics-with-toms-expert-hardware-analysis/"><u>Mastering Modern Electronics with Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-through-in-depth-reviews-by-toms-specialists/"><u>Mastering Tech Essentials Through In-Depth Reviews by Tom's Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-circuitry-maze-top-picks-by-toms-gadget-analysis/"><u>Navigating the Circuitry Maze: Top Picks by Tom’s Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-guide/"><u>Navigating the Latest in Computer Hardware with Tom's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-professional-insights-from-toms-hardware/"><u>Navigating the Tech Landscape: Professional Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-trustworthy-hardware-reviews-by-tom/"><u>Navigating the World of Tech: Trustworthy Hardware Reviews by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-with-the-user-friendly-x-apply-thermal-paste-applicator-set-releasing-shortly/"><u>Next-Level Cooling with the User-Friendly X-Apply Thermal Paste Applicator Set Releasing Shortly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-equipment-evaluations-at-toms-systems-critique/"><u>Precision Equipment Evaluations at Tom's Systems Critique</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-and-insights-on-qidi-techs-advanced-q1-pro-gaming-earphones/"><u>Review and Insights on QIDI Tech's Advanced Q1 Pro Gaming Earphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-ranking-of-best-in-class-microsd-cards-compatible-with-raspberry-pi-2024-edition/"><u>The Definitive Ranking of Best-in-Class MicroSD Cards Compatible with Raspberry Pi – 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-fastest-3d-printers-unveiled-top-performers-based-on-print-time-analysis/"><u>The Fastest 3D Printers Unveiled – Top Performers Based on Print Time Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-on-latest-hardware-trends/"><u>Tom's Tech Review: In-Depth Guide on Latest Hardware Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-electronics-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Electronics Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-gaming-bundle-sale-snag-the-powerful-aurora-r16-pc-and-impressive-34-alienware-oled-for-just-over-half-price-save-700-today/"><u>Ultimate Gaming Bundle Sale: Snag the Powerful Aurora R16 PC & Impressive 34 Alienware OLED for Just Over Half Price – Save $700 Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-potential-in-additive-manufacturing-learn-the-five-key-stages-of-design-optimization/"><u>Unlock Potential in Additive Manufacturing: Learn the Five Key Stages of Design Optimization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-inside-tips-from-toms-hardware-experts/"><u>Unlocking Performance: Inside Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-power-of-your-system-through-toms-hardware-insights/"><u>Unlocking the Power of Your System Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-instant-fake-faces-top-free-online-generators/"><u>Updated 2024 Approved Get Instant Fake Faces Top Free Online Generators</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated 2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyrie-sync-240-aio-liquid-cooler-evaluation-excellent-thermal-management-but-user-unfriendly-interface/"><u>Valkyrie Sync 240 AIO Liquid Cooler Evaluation: Excellent Thermal Management but User-Unfriendly Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/waterproof-wonders-unveiling-freezes-latest-sport-cooling-device-with-superior-active-cooling-perfect-for-subaqueous-fun/"><u>Waterproof Wonders: Unveiling Freeze's Latest Sport Cooling Device with Superior Active Cooling - Perfect for Subaqueous Fun</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?"
-date: 2024-08-26 17:54:57
-updated: 2024-08-29 10:31:42
+date: 2024-08-28T06:09:25.487Z
+updated: 2024-08-29T06:09:25.487Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Google recently shared its Project Astra, an early demo of what a future AI-powered universal assistant could look like. Near the end of the demo, the Google employee puts on a pair of glasses and seamlessly continues to converse with the assistant. I think smart glasses have just found their killer feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  With Project Astra, the Time Is Right for the Next Generation of Google Glass
 
  By now, [Google Glass](https://facebook-videos.techidaily.com/new-2024-approved-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/) is an old piece of tech, but we can all say that [it was ahead of its time](https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/). The thing is, back in 2013, the tech that could make smart glasses actually useful just wasn’t there. But with Project Astra, Google Glass could finally have its iPhone moment.
@@ -35,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Just imagine wearing smart glasses equipped with a HUD advanced enough to show you messages, appointments, Google search results in textual form, the song you're listening to as well as the rest of the playlist, and other text-based information. This could be a shakeup the world of personal computing needs. Smartphones have turned into commodities anyway, so why not put them in our pockets and let them stay there?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  Smart Glasses Could One Day Be the Only Tech You Need
 
  While the Project Astra demo is indeed impressive, Google and DeepMind [have many issues to solve](https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/)—whether those issues are solvable at all is still an open question—and there are numerous advancements to make before releasing the next generation of the Gemini AI assistant to the public. But, the end result could finally free us from our phones. For real this time. Five years from now, everyone could be wearing glasses instead of always checking their phones.
@@ -53,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Our phones could transform into a sort of “computing station” with our glasses taking the center stage. Smartphones will still be the engines powering all that computing, but they will do that behind the scenes.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Google Should Equip Future Smart Glasses With Certain Privacy Features
 
  One of the most talked-about issues with the original Google Glass back in the day was just how [privacy invasive](https://www.adweek.com/performance-marketing/74-americans-wont-wear-google-glass-because-privacy-worries-156830/) they were. Back in 2013, people weren’t accustomed to other people wearing cameras on their heads and constantly recording with them. But a lot has changed since then—for better or worse.
@@ -81,3 +91,74 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[New] 2024 Approved  Clubbing Essentials  Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-vids-made-easy-and-free-to-gif-transformation/"><u>[New] 2024 Approved  Tweet Vids Made Easy & Free  To GIF Transformation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-ways-to-record-webinar-for-free-for-2024/"><u>[New] 5 Ways to Record Webinar for Free for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaming-gain-graph-finns-financial-flux/"><u>[New] Gaming Gain Graph  Finn's Financial Flux</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-achieving-clear-communication-on-skype/"><u>[New] In 2024, Achieving Clear Communication on Skype</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-use-snap-camera-on-google-meet/"><u>[New] In 2024, How to Use Snap Camera on Google Meet?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-visual-storytelling-planning-strategy-on-instavideo-for-2024/"><u>[New] Mastering Visual Storytelling  Planning Strategy on InstaVideo for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-photography-clarity-revolution-best-fixers-of-the-web-age/"><u>[New] Photography Clarity Revolution  Best Fixers of the Web Age</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-art-of-recording-flawless-podcasts-via-zoom/"><u>[New] The Art of Recording Flawless Podcasts via Zoom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[Updated] 2024 Approved  From Amateur to Professional  Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-selective-choice-top-cards-for-4k-videos/"><u>[Updated] 2024 Approved  Selective Choice  Top Cards for 4K Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>[Updated] 2024 Approved  Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-live-tv-streams-combo-of-global-and-locals/"><u>[Updated] Leading Live TV Streams  Combo of Global and Locals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-title-and-description-tweaks-for-maximum-engagement-on-igtv-for-2024/"><u>[Updated] Title and Description Tweaks for Maximum Engagement on IGTV for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-budgeted-skyvault-storing-mountains-of-data/"><u>2024 Approved  Budgeted SkyVault  Storing Mountains of Data</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-smile-spectrum-ranking-jokes-from-reddit-and-twitter/"><u>2024 Approved  Smile Spectrum  Ranking Jokes From Reddit & Twitter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-your-websites-visual-content-via-cropping/"><u>2024 Approved  Streamlining Your Website's Visual Content via Cropping</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-insiders-tips-on-conveniently-setting-up-google-meet/"><u>2024 Approved  The Insider's Tips on Conveniently Setting Up Google Meet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175708040-2024s-leading-thermal-pastes-for-computers-tested-and-ranked-discover-your-top-picks/"><u>2024'S Leading Thermal Pastes for Computers Tested and Ranked - Discover Your Top Picks!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-step-by-step-approach-to-infusing-conversations-with-gifs-on-snapchat-for-2024/"><u>A Step-by-Step Approach to Infusing Conversations with GIFs on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718089-adata-reveals-dual-cooling-tower-tech-for-enhanced-performance-at-computex-exciting-news-on-next-gen-psus-and-pcie-50-storage/"><u>Adata Reveals Dual-Cooling Tower Tech for Enhanced Performance at Computex: Exciting News on Next-Gen PSUs & PCIe 5.0 Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aio-price-war-winners-thermalright-frozen-notte-vs-deepcool-aqua-elite-v3-reviews-for-budget-builds/"><u>AIO Price War Winners: Thermalright Frozen Notte Vs. Deepcool Aqua Elite V3 Reviews for Budget Builds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apex-legends-cheating-problem-solved-how-to-fix-the-easy-anti-cheat-error/"><u>Apex Legends Cheating Problem Solved: How to Fix the Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/award-winning-cpu-coolers-your-definitive-guide-to-the-best-thermal-pastes-of-2024/"><u>Award-Winning CPU Coolers: Your Definitive Guide to the Best Thermal Pastes of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bits-and-bytes-explore-cutting-edge-gear-at-toms-hardware-haven/"><u>Beyond Bits & Bytes: Explore Cutting-Edge Gear at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/coin-sized-innovation-discover-the-worlds-first-chip-integrated-absolutely-zero-moving-parts/"><u>Coin-Sized Innovation: Discover the World's First Chip-Integrated Absolutely Zero Moving Parts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-data-collection-convert-and-monetize-web-traffic-using-cookiebot-solutions/"><u>Enhancing Data Collection: Convert and Monetize Web Traffic Using Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pc-components-at-toms-gadget-hub/"><u>Expert Analysis on PC Components at Tom's Gadget Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-at-toms-computer-equipment-hub/"><u>Expert Insights at Tom's Computer Equipment Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-top-pc-case-selections-of-2024-to-elevate-your-personal-computer-setup/"><u>Expertly Reviewed Top PC Case Selections of 2024 to Elevate Your Personal Computer Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-best-aio-cooling-units-of-2024-beat-the-heat/"><u>Expertly Selected Best AIO Cooling Units of 2024: Beat the Heat!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-best-3d-printers-of-2024-from-advanced-resin-tech-to-economical-fdm-systems/"><u>Explore the Best 3D Printers of 2024: From Advanced Resin Tech to Economical FDM Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-hashtags-and-more-is-there-a-distinction-between-retweet-and-re-tweet/"><u>Exploring Hashtags & More: Is There a Distinction Between 'Retweet' And 'Re-Tweet'?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computer-equipment-with-toms-review-site/"><u>Exploring the Latest in Computer Equipment with Tom's Review Site</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-cold-pay-less-secure-arctics-high-efficiency-liquid-freezer-ii-aioldii-for-only-74-bucks/"><u>Get Cold, Pay Less: Secure Arctic's High-Efficiency Liquid Freezer II (AIOLDII) for Only 74 Bucks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harness-unmatched-thermal-efficiency-with-pioneercools-ultrafrost-duo-aio-liquid-cooler/"><u>Harness Unmatched Thermal Efficiency with PioneerCool's UltraFrost-Duo AIO Liquid Cooler</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-upgrade-your-amd-radeon-gpu-with-latest-software-version-2410/"><u>How To Upgrade Your AMD Radeon GPU with Latest Software Version 24.10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-13c-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi 13C 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-beelink-gti14-with-pcie-x8-slot-and-integrated-power-built-on-meteor-lake-technology/"><u>Introducing the Revolutionary Beelink GTi14 with PCIe X8 Slot and Integrated Power – Built on Meteor Lake Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125259623-leading-vr-headsets-reviewed-elevate-your-pc-gameplay-today/"><u>Leading VR Headsets Reviewed: Elevate Your PC Gameplay Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maintain-eye-contact-this-helps-establish-rapport-with-the-speaker-and-shows-your-engagement-for-2024/"><u>Maintain Eye Contact  This Helps Establish Rapport with the Speaker and Shows Your Engagement for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-and-software-tips-from-toms-experts/"><u>Mastering Hardware and Software - Tips From Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-space-with-advice-from-toms-hardware/"><u>Mastering Your Digital Space with Advice From Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-secret-to-engaging-lower-thirds-fcpx-best-practices-revealed/"><u>New In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-in-game-alert-game-developer-announces-support-for-intels-13th-and-14th-gen-processors-how-to-prevent-crashes/"><u>New In-Game Alert: Game Developer Announces Support for Intel's 13Th & 14Th Gen Processors - How To Prevent Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-common-hurdles-reviving-your-3d-printers-bed-heater-and-maximizing-performance/"><u>Overcoming Common Hurdles: Reviving Your 3D Printer's Bed Heater and Maximizing Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-shlwapidll-missing-error-step-by-step-solutions/"><u>Resolving the shlwapi.dll Missing Error: Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-raspberry-pi-hat-selections-of-the-year-find-your-perfect-2024-add-on-solution/"><u>The Best Raspberry Pi HAT Selections of the Year: Find Your Perfect 2024 Add-On Solution!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-reviews-by-toms-hardware-authority/"><u>The Ultimate Guide to Tech Reviews by Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-comprehvew-on-cutting-edge-computer-equipment/"><u>Tom's Comprehvew on Cutting-Edge Computer Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-reviews-top-gadgets-and-pc-builds/"><u>Tom's Hardware Reviews: Top Gadgets and PC Builds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-thin-and-robust-usb-c-laptop-chargers-featuring-advanced-gan-circuitry-for-enhanced-performance/"><u>Top 5 Thin and Robust USB-C Laptop Chargers Featuring Advanced GaN Circuitry for Enhanced Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-asus-rog-phone-8-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Asus ROG Phone 8 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-pick-the-most-versatile-gif-software/"><u>Top Pick  The Most Versatile GIF Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-review-discover-the-colors-and-capabilities-of-the-anycubacobra-3/"><u>Top Review: Discover the Colors and Capabilities of the Anycubacobra 3</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-hot-40i-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Hot 40i IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-your-pc-with-tips-from-toms-tech-wisdom/"><u>Unlocking the Potential of Your PC with Tips From Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-trends-at-toms-hardware-chronicles/"><u>Unveiling New Tech Trends at Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-features-the-easy-setup-and-sturdy-construction-of-the-acurite-pro-0103n-weather-monitor/"><u>Unveiling the Features: The Easy Setup & Sturdy Construction of the AcuRite Pro 0103N Weather Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronic-guides/"><u>Unveiling the Latest Gadgets with Tom's Electronic Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-tour-of-toms-technology-rundown/"><u>Unveiling the Latest Gadgets: A Tour of Tom's Technology Rundown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-by-toms-experts/"><u>Unveiling the Latest in Computer Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-hardware-with-toms-review-site/"><u>Unveiling the Power of Hardware with Tom's Review Site</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-video-from-japanese-to-english-online/"><u>Updated How To Translate Video From Japanese to English Online?</u></a></li>
+</ul></div>

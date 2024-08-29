@@ -1,7 +1,7 @@
 ---
 title: AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment
-date: 2024-08-28 20:43:58
-updated: 2024-08-29 10:33:42
+date: 2024-08-28T06:08:58.710Z
+updated: 2024-08-29T06:08:58.710Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While NVIDIA has been working hard on their AI frame generation technology in the form of DLSS 3, which is only supported on the latest RTX 40-Series GPUs, AMD is essentially doing the opposite with driver-based Fluid Motion Frames. The technology has just been updated. Let's see if it's good.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Is AMD Fluid Motion Frames?
 
  AMD Fluid Motion Frames (AFMF) is a frame generation algorithm that interpolates frames similarly to AMD's upscaling technology [FSR](https://review-topics.techidaily.com/how-to-update-iphone-xs-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/). In simple terms, AFMF adds an additional interpolated frame between two real frames to, quite literally, give you more frames per second. It can literally double your FPS. AFMF is not the same as FSR, as it doesn't rely on upscaling from a lower resolution, which sounds like it should work better at lower resolutions, like 1080p.
@@ -47,6 +50,10 @@ AMD
 
 ![The AMD RX 6600 XT Phantom Gaming D graphics card inside of a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/rsz_img20240413025619.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek
 
  Another technology that AFMF works well with is Chill, which is AMD's built-in frame limiter. When it detects motion, it aims to reach your "Peak FPS" setting, and when the screen is idle, Chill targets the "Idle FPS" instead.
@@ -57,14 +64,27 @@ Ismar Hrnjicevic / How-To Geek
 
 ![AMD Chill set to 71 FPS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chill.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  AFMF 2 Isn’t Out Yet, but You Can Try the Preview
 
  AFMF 2 isn't out yet, but you can already [download the Preview Driver](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-AFMF2-TECH-Preview.html) and try it, assuming you have a compatible AMD GPU (RX 6000 or 7000 Series) or APU (AMD 700M). Once you've downloaded and installed the driver, restart your PC. Next, open AMD Software and head over to Gaming > Graphics > Custom. Look for "AMD Fluid Motion Frames" and click on the toggle to enable it.
 
 ![Enabling Fluid Motion Frames 2 in AMD Software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/enable-fmf.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  AFMF 2 should work in most games, as it now supports OpenGL and Vulkan in addition to DirectX 11 and 12\. [Vulkan](https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/) is a low-overhead API that already boasts significant FPS improvements in select titles compared to DirectX and OpenGL. Adding AFMF 2 into the mix could bring select titles to even the weakest of AMD's hardware.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  Testing AFMF 2 in Games
 
  Enough talk; it's time to give AFMF 2 a shot by testing it in a few games. I'll use my RX 6600 XT graphics card (which doesn't support Anti-Lag 2) on my 1080p 144Hz monitor for these tests. The first game I tested was _Fallout 76_, a game that still has serious performance issues.
@@ -97,3 +117,56 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveil-creativity-15plus-free-tools-for-youtube-intros/"><u>[New] Unveil Creativity  15+ Free Tools for YouTube Intros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[Updated] 2024 Approved  How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-composing-prime-canon-temporal-videos/"><u>[Updated] Composing Prime Canon Temporal Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unparalleled-viewing-premium-hdmi-21-gaming-monitors-ps5/"><u>[Updated] In 2024, Unparalleled Viewing  Premium HDMI 2.1 Gaming Monitors [PS5]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-finding-the-best-text-design-resources/"><u>2024 Approved  Expert Tips  Finding the Best Text Design Resources</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-maximizing-your-content-tips-for-rl-recording-and-editing/"><u>2024 Approved  Maximizing Your Content  Tips for RL Recording & Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-premium-flash-memory-sticks-for-efficient-data-transfer-and-ample-space-2024-edition/"><u>Best Premium Flash Memory Sticks for Efficient Data Transfer and Ample Space - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-features-of-arctic-freezer-36-setting-new-standards-for-entry-level-acs/"><u>Breaking Down the Features of Arctic Freezer 36: Setting New Standards for Entry-Level ACs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-spectacular-rainbow-pc-made-simple-with-hytes-connectivity-network/"><u>Building a Spectacular Rainbow PC Made Simple with Hyte's Connectivity Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175709385-chill-out-save-money-invest-in-arctics-liquid-freezer-ii-aio-for-just-74-dollars-limited-time-offer/"><u>Chill Out, Save Money: Invest in Arctic's Liquid Freezer II AIO for Just 74 Dollars - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cinebench-battle-royale-amds-ryzen-9-cpu-lineup-tested-exploring-the-power-of-9900x-9700x-and-9600x/"><u>Cinebench Battle Royale: AMD's Ryzen 9 CPU Lineup Tested - Exploring the Power of 9900X, 9700X, and 9600X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-toms-in-depth-analysis-of-tech-equipment/"><u>Delving Into Digital Devices: Tom’s In-Depth Analysis of Tech Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175712434-discover-exceptional-cooling-value-the-thermalight-phantom-spirit-120-se-now-available-at-an-unbeatable-price-of-just-35/"><u>Discover Exceptional Cooling Value: The Thermalight Phantom Spirit 120 SE, Now Available at an Unbeatable Price of Just $35</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-at-toms-hardware-expert-reviews/"><u>Discover the Latest in Tech at Tom's Hardware Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175687738-effortless-heat-transfer-with-the-stupid-proof-x-apply-temperatures-fixed-kit-upcoming-accessories/"><u>Effortless Heat Transfer with the 'Stupid Proof' X-Apply Temperatures Fixed Kit - Upcoming Accessories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-the-right-method-for-upgrading-dell-webcam-drivers/"><u>Expert Advice: The Right Method for Upgrading Dell Webcam Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-into-toms-computer-components/"><u>Expert Insight Into Tom's Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-hub-unveiling-the-best-pc-gear/"><u>Expert Insights From Tom's Hardware Hub: Unveiling the Best PC Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-gaming-mobos-with-cutting-edge-socket-designs-and-chipsets/"><u>Expert Picks: Top Gaming Mobos with Cutting-Edge Socket Designs and Chipsets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-managing-chatgpt-save-functionality-glitches-in-your-talks/"><u>Expert Tips for Managing ChatGPT Save Functionality Glitches in Your Talks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-with-tom-comprehensive-hardware-insights/"><u>Exploring Advanced Computing with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-and-graphics-cards-with-toms-hardware-review/"><u>Exploring Gadgets and Graphics Cards with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-of-mingda-magician-pro2-substantial-print-size-with-whisper-quiet-functionality/"><u>Exploring the Features of Mingda Magician Pro2: Substantial Print Size with Whisper-Quiet Functionality</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-flipper-tools-top-10-picks-for-rotating-footage/"><u>Free Video Flipper Tools Top 10 Picks for Rotating Footage</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-play-8t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Play 8T Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-6-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic 6 Pro? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-axon-40-lite-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change ZTE Axon 40 Lite Lock Screen Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-submersible-3d-printer-built-by-makers-operating-inside-an-aquarium-and-swimming-pools/"><u>Innovative Submersible 3D Printer Built by Makers: Operating Inside an Aquarium & Swimming Pools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-builds-expert-advice-from-toms-hardware-resource/"><u>Mastering Computer Builds: Expert Advice From Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-from-tomn-hardware-reviews/"><u>Mastering Technology Insights From Tom'n Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-computer-hardware-the-toms-expertise/"><u>Navigating Through Computer Hardware - The Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-the-definitive-tech-analysis-from-toms-experts/"><u>Pioneering Hardware Reviews: The Definitive Tech Analysis From Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-hardware-assessments-toms-technology-hub/"><u>Professional Hardware Assessments - Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-up-pc-assembly-corsairs-innovative-one-turn-screw-for-ultimate-efficiency/"><u>Speed Up PC Assembly: Corsair's Innovative One-Turn Screw for Ultimate Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-charging-and-transportable-usb-hubs-with-quickconnect-technology-type-c/"><u>The Best Charging and Transportable USB Hubs with QuickConnect Technology (Type-C)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-cooler-master-ion-360-reviewed-examining-progress-and-setbacks-in-liquid-cpu-cooling/"><u>The Cooler Master ION 360 Reviewed: Examining Progress and Setbacks in Liquid CPU Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-strength-of-amd-vs-intel-how-zen-technology-surpasses-with-advanced-threading-techniques/"><u>The Strength of AMD vs Intel: How Zen Technology Surpasses with Advanced Threading Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-high-performance-hardware-by-toms-team/"><u>The Ultimate Resource for High-Performance Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiny-yet-titanium-breakthrough-in-3d-printing-metals-bigger-than-the-smallest-virus/"><u>Tiny Yet Titanium: Breakthrough in 3D Printing Metals Bigger Than the Smallest Virus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-hardware-reviews-and-insights-1723267249481/"><u>Tom's Tech Hub: In-Depth Hardware Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Gadget Analysis</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-v30-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo V30 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-4k-ultra-hd-monitors-latest-models-of-2024/"><u>Top Affordable 4K Ultra HD Monitors - Latest Models of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-digital-mastery-exploring-innovations-at-toms-hardware-hub/"><u>Unlocking Digital Mastery: Exploring Innovations at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveil-cutting-edge-tech-the-ultimate-guide-to-hardware-by-tom/"><u>Unveil Cutting-Edge Tech: The Ultimate Guide to Hardware by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-expert-insights/"><u>Unveiling the Latest Gadgets with Tom's Expert Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063358862-upgrade-lenovo-g580-to-effortless/"><u>Upgrade Lenovo G580 to Effortless!</u></a></li>
+</ul></div>

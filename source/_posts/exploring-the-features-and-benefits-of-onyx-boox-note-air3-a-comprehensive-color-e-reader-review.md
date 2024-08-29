@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features & Benefits of Onyx Boox Note Air3: A Comprehensive Color E-Reader Review"
-date: 2024-08-27 10:54:34
-updated: 2024-08-29 11:59:54
+date: 2024-08-28T06:07:14.010Z
+updated: 2024-08-29T06:07:14.010Z
 tags:
   - hardware
 categories:
@@ -119,6 +119,9 @@ Close
 
 ![Settings page open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/settings-page-open-on-the-boox-note-air3-c_53567555564_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With an Android 12 operating system, this tablet offers the best of both worlds. It makes an excellent alternative to a Kindle or Nook, for example, if you're looking for something with extra features. However, because I found one of the best features to be ebook annotation and the notebook capabilities of the Boox Air3 C, I would compare it more readily to the [Amazon Kindle Scribe](https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/).
@@ -131,10 +134,16 @@ Jerome Thomas / How-To Geek
 
  Meanwhile, one of the pros of the Note Air3 C was its storage. The 64GB of space was plenty of space to import documents, download ebooks, and maintain a healthy library of files at my fingertips, and I appreciated that Onyx included a microSD slot for memory expansion.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Notebook Mode: Annotation and Digital Scribing
 
 ![The notepad open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-notepad-open-on-the-boox-note-air3-c_53567432378_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although I'm a proponent of that pen-to-paper feeling, that isn't something I've found on electronic devices, but the Boox Note Air3 C replicated it as well as a tablet can. The tablet came with a large magnetic stylus that easily attached to the side of the device and looped well through the tab of the included cover, which is well-made but nothing to write home about. The lightweight pen was comfortable to grip, and it required no charging—I started writing straight out of the box. The writing pressure needed to use the stylus was similar to using a pencil or smooth-gliding ballpoint pen (not too soft, not too heavy), while the textured feel of the stylus to the screen felt satisfying, and even made a nice noise, if that sort of thing thrills you as it does me.
@@ -157,6 +166,9 @@ Jerome Thomas / How-To Geek
 
  But I digress. The speaker system's sound was not only quiet (even at full volume), but it also sounded quite compressed. The volume was unsatisfying for me. I chose, instead, to listen to those recordings via my Bluetooth headphones, which was far easier than craning to hear the low-volume speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reading With The Boox Note Air3 C
 
 ![A book open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-book-open-on-the-boox-note-air3-c_53567676895_o.jpg) 
@@ -175,10 +187,16 @@ Jerome Thomas / How-To Geek
 
  Perhaps the most useful feature for reading, especially for students or avid annotators, was the ability to highlight passages, add annotations, and write on the ebook. I did so as I pleased, but some features weren't compatible with the Kindle app (specifically, writing on ebooks). All features seemed to work on other ebooks through Play Books, and anything through the Boox Book Store.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Good Battery Life, Standard Charging
 
 ![The app page on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-app-page-on-the-boox-note-air3-c_53567555549_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I used the Note Air3 C moderately, and the battery life lasted about a week. I also had settings for the screen to stay on for 30 minutes without switching to the screensaver. This was more convenient for work purposes, when I would go some time between note-taking, but didn't want to wake the Note Air3 C from sleep every time I needed to write something down. The average drain percentage (including times when it wasn't in use and left on sleep) was about 5 to 10% per day. On days when I used it more heavily, I needed to charge it closer to every four to five days.
@@ -217,3 +235,53 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-guide-free-youtube-downloads-without-programs/"><u>[New] 2024 Approved  Guide  Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-chromebook-screenshots-made-easy-top-5-app-choices/"><u>[New] Chromebook Screenshots Made Easy  Top 5 App Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-straightforward-strategies-for-iphones-screen-recording/"><u>[New] In 2024, Straightforward Strategies for iPhone's Screen Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>2024 Approved  Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-samsungs-galaxy-s8-unveiled-redefining-video-standards/"><u>2024 Approved  Samsung’s Galaxy S8 Unveiled  Redefining Video Standards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-insights-and-comparisons-from-toms-resource-hub/"><u>Advanced Hardware Insights and Comparisons From Tom’s Resource Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-ninescore-launch-postponed-due-to-quality-concerns-new-date-set-for-august-all-distributed-units-reassessed-internally/"><u>AMD's Ryzen Ninescore Launch Postponed Due to Quality Concerns, New Date Set for August; All Distributed Units Reassessed Internally</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-trailblazing-ryzen-9-9950x-achieves-world-record-high-on-cinebench-r23-pushing-boundaries-to-an-unprecedented-65ghz/"><u>AMD's Trailblazing Ryzen 9 9950X Achieves World Record High on Cinebench R23, Pushing Boundaries to an Unprecedented 6.5GHz</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-gadgets-and-motherboards-with-expert-advice-from-toms-corner/"><u>Decoding Gadgets and Motherboards with Expert Advice From Tom's Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-analysis-of-new-age-electronics-by-toms-guys/"><u>Detailed Analysis of New-Age Electronics by Tom's Guys</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-hardware-reviews-at-toms-tech-destination/"><u>Discover Top-Notch Hardware Reviews at Tom’s Tech Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-electronics-thorough-analysis-by-toms-tech-experts/"><u>Dive Into Electronics: Thorough Analysis by Tom’s Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-24-million-homestead-in-texas-built-in-giant-data-center-with-full-liquid-cooling-system-spanning-5786-sq-ft-innovative-living-awaits/"><u>Exclusive $2.4 Million Homestead in Texas: Built-In Giant Data Center with Full Liquid Cooling System Spanning 5,786 Sq Ft – Innovative Living Awaits!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-review-hub/"><u>Expert Insights From Tom's Computer Review Hub</u></a></li>
+<li><a href="https://os-tips.techidaily.com/five-effective-methods-to-troubleshoot-and-repair-your-non-responsive-ipad-power-buttons/"><u>Five Effective Methods to Troubleshoot and Repair Your Non-Responsive iPad Power Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-airdrop-woes-instantly-discover-these-16-easy-to-follow-remedies/"><u>Fix Your AirDrop Woes Instantly - Discover These 16 Easy-to-Follow Remedies</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-sony-xperia-10-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Sony Xperia 10 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-advancements-with-panther-lake-and-clearwater-forest-cpus-now-operational-paving-the-way-to-enhanced-lithography-techniques/"><u>Intel Advancements with Panther Lake and Clearwater Forest CPUs Now Operational, Paving the Way to Enhanced Lithography Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/macs-top-5-mkv-decoder-software-for-2024/"><u>Mac's Top 5 MKV Decoder Software for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-the-art-of-troubleshooting-fixing-your-witcher-n-3-pc-gaming-woes-today/"><u>Master the Art of Troubleshooting: Fixing Your Witcher N 3 PC Gaming Woes Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-devices-with-toms-comprehensive-tech-reviews/"><u>Master Your Devices with Tom's Comprehensive Tech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-with-toms-hardware-experts/"><u>Mastering Gadgets and Systems with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-hardware-guide/"><u>Mastering Gadgets with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-with-toms-hardware-experts/"><u>Mastering PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-performance-the-toms-hardware-guide-to-top-tier-equipment/"><u>Mastering PC Performance: The Tom's Hardware Guide to Top-Tier Equipment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterpiece-narratives-across-the-eightfold-genre-spectrum/"><u>Masterpiece Narratives Across the Eightfold Genre Spectrum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-pc-upgrades-with-insights-from-toms-hardware/"><u>Navigate the World of PC Upgrades with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-hardware-with-toms-expert-insights/"><u>Navigating the Latest in Hardware with Tom's Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computing-a-guide-by-toms-specialists/"><u>Navigating the World of High-Performance Computing: A Guide by Tom's Specialists</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-audio-visual-harmony-merging-films-and-recordings-in-the-digital-age/"><u>New 2024 Approved Audio-Visual Harmony Merging Films and Recordings in the Digital Age</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-vertical-video-editing-made-easy-best-mobile-apps-for-beginners/"><u>New 2024 Approved Vertical Video Editing Made Easy Best Mobile Apps for Beginners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rapid-renderings-the-win10-way-to-work-wonders-on-images-quickly/"><u>Rapid Renderings  The Win10 Way to Work Wonders on Images Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/techniques-for-avoiding-voids-and-bubbles-during-3d-printing/"><u>Techniques for Avoiding Voids and Bubbles During 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-title-captures-the-readers-attention-by-using-words-like-conquering-record-breaking-scores-and-above-108000-this-implies-a-strong-performance-and-provid64/"><u>The Title Captures the Reader's Attention by Using Words Like Conquering, Record-Breaking Scores, and Above 108,000. This Implies a Strong Performance and Provides an Enticing Hook for Readers Looking to Explore High-Performance CPU Benchmark Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-world-navigating-through-the-best-hardware-choices/"><u>Tom's Computer World: Navigating Through the Best Hardware Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-reviews-and-advice/"><u>Tom's Tech Hub: Expert Reviews and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-and-gadget-testing/"><u>Tom's Tech Reviews: In-Depth Guides & Gadget Testing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-best-4k-gaming-displays-for-pc-high-refresh-rates-and-immersive-curves/"><u>Top 5 Best 4K Gaming Displays for PC - High Refresh Rates & Immersive Curves</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-3d-printers-tested-a-comprehensive-speed-ranking/"><u>Top-Performing 3D Printers Tested - A Comprehensive Speed Ranking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-all-in-one-heatsinks-for-gaming-pcs/"><u>Top-Rated All-in-One Heatsinks for Gaming PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-the-best-144hz-gaming-displays-with-4k-clarity-and-curved-designs-updated/"><u>Ultimate Guide to Buying the Best 144Hz Gaming Displays with 4K Clarity and Curved Designs, Updated</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-innovations-a-deep-dive-into-toms-hardware-selections/"><u>Unveiling the Latest Innovations: A Deep Dive Into Tom's Hardware Selections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/windows-and-mac-friendly-techniques-for-fb-video-download-for-2024/"><u>Windows & Mac-Friendly Techniques for FB Video Download for 2024</u></a></li>
+</ul></div>

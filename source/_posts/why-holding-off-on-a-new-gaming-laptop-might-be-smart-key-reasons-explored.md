@@ -1,7 +1,7 @@
 ---
 title: Why Holding Off on a New Gaming Laptop Might Be Smart – Key Reasons Explored
-date: 2024-08-26 13:34:13
-updated: 2024-08-29 10:39:28
+date: 2024-08-28T06:09:34.406Z
+updated: 2024-08-29T06:09:34.406Z
 tags:
   - hardware
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re thinking about upgrading your gaming laptop, postpone the upgrade to 2025 unless your current PC is dead or can't run the games you want to play. 2025 is when we'll see next-gen mobile GPUs and current gaming laptops will miss out on some important upcoming features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Next-Gen Laptop GPUs Aren’t Coming Until 2025
 
  The current lineup of mobile GPUs from NVIDIA is pretty powerful. They feature great [ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) performance, support for [DLSS frame generation](https://extra-resources.techidaily.com/digital-sensations-how-vr-enhances-pleasure/), and commendable power efficiency. However, they’re now more than one and a half years old. The RTX 4090 mobile launched right at the start of 2023.
@@ -34,10 +37,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A GeForce RTX sticker on a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52842958943_3f35b2522f_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jason Montoya / How-To Geek
 
  If you don’t have any good reason to switch to a new gaming laptop right away, my advice is to wait until 2025 to upgrade. The next-gen mobile GPUs will pack better gaming performance and improved power efficiency, while their price should stay around what we’re paying for RTX 4000 mobile GPUs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Next-Gen Mobile CPUs Aren’t Here Yet, Also
 
  While current-gen mobile GPUs are pretty good, current-gen mobile CPUs are somewhat disappointing.
@@ -56,6 +65,9 @@ Jason Montoya / How-To Geek
 
 ![Lunar Lake E-core Power efficiency improvements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lunar-lake-e-core-power-efficiency-improvements.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 Intel
 
  For starters, Intel's [Lunar Lake mobile CPUs](https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c22-drfone-by-drfone-virtual-android/) should bring massive performance improvements alongside an impressive boost to power efficiency, a new NPU, much faster E-cores and P-cores, and an improved Thread Director.
@@ -64,6 +76,9 @@ Intel
 
  If you don't want to wait for 2025 and next-gen mobile GPUs from NVIDIA, my advice is to at least wait a few months and get a gaming laptop equipped with a Lunar Lake or Ryzen AI 300 CPU, even if you’re satisfied with the level of performance offered by RTX 4000 mobile GPUs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  You Could Snag A Current-Gen Laptop For Cheap If You Wait
 
  While 2024 gaming laptops are quite pricey, especially when compared to their 2023 counterparts (which often sport the same gaming performance), this could change once the 2025 lineup launches.
@@ -88,6 +103,9 @@ Microsoft
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Microsoft/Gearbox
 
  One of these exclusive features is Auto Super Resolution, an OS-integrated upscaler that relies on an NPU. It doesn’t require any action from game developers to work, and if Microsoft is to be believed, Auto SR will support most DX11 and DX12 games sooner or later.
@@ -112,3 +130,78 @@ Microsoft/Gearbox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturecraft-in-depth-analysis-of-screen-capture-tech/"><u>[New] 2024 Approved  CaptureCraft  In-Depth Analysis of Screen Capture Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-get-youtube-sponsorship-for-small-channels-easy/"><u>[New] 2024 Approved  How to Get YouTube Sponsorship for Small Channels (Easy)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-8-best-multiple-video-call-and-chat-tools-for-conference-and-friends/"><u>[New] 8 Best Multiple Video Call & Chat Tools for Conference and Friends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-optimize-microphone-use-on-windows-11-for-best-results/"><u>[New] How to Optimize Microphone Use on Windows 11 for Best Results</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-initial-movie-capture-evaluation-with-options/"><u>[New] Initial Movie Capture Evaluation with Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-showdown/"><u>[New] ScreenSnapper Showdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>[Updated] Beginner's Pathway  Photos Transformed Into Videos via Pixiz</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-clear-screen-techniques-focus-on-your-message-not-the-ambiance-for-2024/"><u>[Updated] Clear Screen Techniques  Focus on Your Message, Not the Ambiance for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-interconnecting-platforms-sharing-tiktok-to-facebook/"><u>[Updated] In 2024, Interconnecting Platforms  Sharing TikTok to Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-media-iphoneipad-download-youtube-videos-step-by-step/"><u>[Updated] Maximizing Media  IPhone/iPad - Download Youtube Videos Step-by-Step</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reinforcing-silence-in-obs-recordings-for-2024/"><u>[Updated] Reinforcing Silence in OBS Recordings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-engaging-strategies-to-enlarge-your-instagram-base/"><u>2024 Approved  Engaging Strategies to Enlarge Your Instagram Base</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-videos-seamlessly-using-youtube-studio-editor/"><u>2024 Approved  Enhance Videos Seamlessly Using YouTube Studio Editor</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-precision-photography-the-most-exceptional-phones-for-4k-imaging/"><u>2024 Approved  Precision Photography  The Most Exceptional Phones for 4K Imaging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-budget-friendly-processors-analyzed-and-ranked-cnet-ratings/"><u>2024'S Best Budget-Friendly Processors Analyzed and Ranked - CNET Ratings</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175692064-affordable-valkyrie-al125-processor-heatsink-with-brilliant-rgb-led-lights-and-a-protective-anti-scratch-display-all-under-20/"><u>Affordable Valkyrie AL125 Processor Heatsink with Brilliant RGB LED Lights and a Protective Anti-Scratch Display – All Under $20!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-and-fabric8labs-unveil-the-next-generation-cooling-system-an-artificial-intelligence-enhanced-ecam-cold-plate-manufactured-through-precision-3d-metal19/"><u>Asetek and Fabric^8Labs Unveil the Next Generation Cooling System: An Artificial Intelligence Enhanced ECAM Cold Plate Manufactured Through Precision 3D Metal Printing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-redefines-cooling-efficiency-with-their-latest-artificial-intelligence-ecam-plate-engineered-using-precision-metal-3d-printing-techniques-in-alliance15/"><u>Asetek Redefines Cooling Efficiency with Their Latest Artificial Intelligence ECAM Plate - Engineered Using Precision Metal 3D Printing Techniques in Alliance with Fabric8Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-on-a-budget-expert-analysis-of-upheres-economic-air-coolers-c5c-and-d6sec-under-20/"><u>Beat the Heat on a Budget: Expert Analysis of UpHere's Economic Air Coolers (C5C & D6Sec) Under $20</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-on-the-go-easy-integration-into-your-android-and-ios-phones/"><u>ChatGPT for On-the-Go: Easy Integration Into Your Android & iOS Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-solving-windows-steams-e84-glitches/"><u>Comprehensive Guide to Solving Windows Steam's E84 Glitches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deep-dive-review-how-the-two-trees-sk1-processor-delivers-high-speed-efficiency-with-open-source-advantage/"><u>Deep Dive Review: How the Two Trees SK1 Processor Delivers High-Speed Efficiency with Open Source Advantage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dissecting-the-downfalls-of-arctic-liquid-freezer-iii-aio-an-objective-review/"><u>Dissecting the Downfalls of Arctic Liquid Freezer III AIO - An Objective Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-tech-uncover-the-secrets-of-gadgets-and-pcs-with-toms-hardware/"><u>Dive Into Tech: Uncover the Secrets of Gadgets and PCs with Tom’s Hardware</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/effortless-editing-in-obs-studio-with-top-5-hacks/"><u>Effortless Editing in OBS Studio with Top 5 Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-a-chilling-upgrade-with-the-ek-solution-cpu-cooler-witness-up-to-20c-drop-in-intel-core-i9-1efficiency/"><u>Experience a Chilling Upgrade with the EK Solution CPU Cooler - Witness up to 20°C Drop in Intel Core I9-1efficiency!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-akasas-innovative-gecko-heatsink-optimal-airflow-technology-for-solid-state-drives/"><u>Expert Analysis on Akasa's Innovative Gecko Heatsink - Optimal Airflow Technology for Solid State Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-computer-components-by-toms-hardware-experts/"><u>Expert Insights on Gadgets and Computer Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/re-the-leading-youtube-to-webm-video-conversion-tools-for-2024/"><u>Explore the Leading YouTube-to-WebM Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-systems-a-deep-dive-by-toms-technology-insights/"><u>Exploring Advanced Systems - A Deep Dive by Tom’s Technology Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-architecting-an-inspiring-tiktok-conclusion/"><u>In 2024, Architecting an Inspiring TikTok Conclusion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-sony-xperia-10-v-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Sony Xperia 10 V Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-meizu-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Meizu Phone that is Locked?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y100i-power-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y100i Power 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/infuse-your-ideas-with-humor-easy-to-use-genrator/"><u>Infuse Your Ideas with Humor  Easy-to-Use Gen'rator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-freeze-triad-of-coolers-the-ultimate-edge-ai-companion-by-airjet-powered-up-to-25w/"><u>Introducing the Freeze Triad of Coolers - The Ultimate Edge AI Companion by AirJet, Powered up to 25W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-modern-gadgets-the-ultimate-guide-from-toms-hardware/"><u>Master Modern Gadgets: The Ultimate Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-guide-by-toms-hardware-experts/"><u>Mastering Gadgets: The Ultimate Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-world-top-picks-and-reviews-at-toms-gear-station/"><u>Mastering Your Digital World: Top Picks and Reviews at Tom's Gear Station</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-reliable-reviews-and-tips-from-toms-systems/"><u>Navigate the Tech World: Reliable Reviews and Tips From Tom's Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-a-dive-into-hardware-essentials/"><u>Navigating Technology with Tom - A Dive Into Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-top-tech-reviews-by-toms-trustworthy-team/"><u>Navigating Through Circuitry: Top Tech Reviews by Tom's Trustworthy Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premium-yet-budget-friendly-mechanical-keyboards/"><u>Premium Yet Budget-Friendly Mechanical Keyboards</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rebuild-icon-cache-in-windows-7-windows-8-and-vista-easily/"><u>Rebuild Icon Cache in Windows 7, Windows 8 & Vista Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-moto-g04-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Moto G04 has been deleted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliable-pc-part-testing-and-breakdown-by-tomhardwaresolutions/"><u>Reliable PC Part Testing and Breakdown by TomHardwareSolutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ryzen-9-9950x-world-record-breakthrough-in-cinebench-r23-tests-achieved-with-a-blistering-65-ghz-frequency/"><u>Ryzen 9 9950X World Record Breakthrough in Cinebench R23 Tests, Achieved with a Blistering 6.5 GHz Frequency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sanctioned-how-deepcool-continues-power-supply-and-pc-coolers-to-russian-markets-during-ukraine-crisis/"><u>Sanctioned: How DeepCool Continues Power Supply and PC Coolers to Russian Markets During Ukraine Crisis</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-phantom-v-fold-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Phantom V Fold</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-evolution-of-huaweis-kirin-cpu-insights-into-potential-inspirations-from-apple-m-series-and-intel-lunar-lake-technologies/"><u>The Evolution of Huawei's Kirin CPU - Insights Into Potential Inspirations From Apple M-Series and Intel Lunar Lake Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-with-tom-in-depth-analysis/"><u>The Ultimate Guide to Gadgets with Tom - In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-desktop-and-nas-storage/"><u>The Ultimate Guide to Selecting the Best Desktop & NAS Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-best-gaming-headsets-in-2eighty-four/"><u>The Ultimate Selection: Best Gaming Headsets in 2Eighty-Four</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-expert-reviews-and-insights/"><u>Tom's Tech Gear: Expert Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-equipment/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-economical-processors-of-2024-expert-review-by-toms-hardware/"><u>Top-Ranked Economical Processors of 2024: Expert Review by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-consumer-ratings/"><u>Top-Rated VPN Providers: Comprehensive Analysis & Consumer Ratings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transforming-facebook-watchlists-implementing-autoplay-for-youtube-content/"><u>Transforming Facebook Watchlists  Implementing Autoplay for YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210003398-triumph-over-silent-touchpad-in-device-realm/"><u>Triumph Over Silent Touchpad in Device Realm!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-vr-headset-for-gamers/"><u>Ultimate Guide: Choosing the Perfect VR Headset for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-potential-of-amds-zen-5-packing-a-whopping-8315-billion-transistors-per-compute-die-for-enhanced-performance-up-to-28-higher-den49/"><u>Unveiling the Game-Changing Potential of AMD's Zen 5: Packing a Whopping 8.315 Billion Transistors per Compute Die for Enhanced Performance, Up to 28%% Higher Density</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-toms-review/"><u>Unveiling the Latest in Computing - Tom's Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-a-closer-look-with-tom/"><u>Unveiling the Latest in Hardware - A Closer Look with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-devices-toms-comprehensive-hardware-reviews/"><u>Unveiling Top-Notch Devices: Tom’s Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pcs-sound-capabilities-find-and-install-the-best-windows-7-audio-drivers/"><u>Update Your PC's Sound Capabilities: Find & Install the Best Windows 7 Audio Drivers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-create-ken-burns-effect-detaied-steps-for-2024/"><u>Updated How to Create Ken Burns Effect? Detaied Steps for 2024</u></a></li>
+</ul></div>

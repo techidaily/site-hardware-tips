@@ -1,7 +1,7 @@
 ---
 title: "Galaxies and Gadgets Collide: The Tale of How Samsung Put the Damper on My Celestial Ring Aspirations"
-date: 2024-08-26 17:57:57
-updated: 2024-08-29 11:49:39
+date: 2024-08-28T06:09:14.216Z
+updated: 2024-08-29T06:09:14.216Z
 tags:
   - hardware
 categories:
@@ -33,6 +33,9 @@ Justin Duino / How-To Geek
 
  Samsung has also borrowed from Oura the idea of distilling a lot of complex data into simple metrics, offering you daily sleep and energy scores. Additionally, the Galaxy Ring has FDA clearance to alert you about sleep apnea and irregular heart rhythms which could point to a potentially dangerous heart condition known as atrial fibrillation, or Afib.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  No Subscription Needed
 
  The big news, however, is what Oura _hasn’t_ copied from Oura—namely, the need for a subscription to gain full access to the data.
@@ -41,22 +44,36 @@ Justin Duino / How-To Geek
 
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 Tyler Hayes / How To Geek
 
  The Galaxy Ring, in contrast, gives full access to all available data in the Samsung Health app without any ongoing cost. At a time when consumers are increasingly suffering from subscription fatigue, that’s a big selling point for Samsung. It also means you can gift the ring (or pass it on to someone when you're done with it) without worrying about them needing to pay for a subscription to get the most out of it.
 
  But there’s a problem...
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Galaxy Ring Requires a Galaxy Phone
 
  Samsung has chosen to make the Ring exclusive to Galaxy smartphone owners. To be clear, that’s not a technical issue. The Samsung Health app runs on any smartphone, including iPhone, and the Ring sends its data to the app via a perfectly standard Bluetooth connection. There's no reason the Ring couldn't work with any smartphone that satisfies these requirements.
 
 ![Samsung Galaxy Ring app running on a Galaxy Z Flip 6.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-ring-app-running-on-a-galaxy-z-flip-6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  No, this is a purely commercial decision. Samsung is hoping the Ring will be sufficiently appealing that making it exclusive to its Galaxy phones will persuade people to buy one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  That’s a Gamble With Android
 
  For other Android phone owners, that’s a gamble. Some may not care about the brand of their phone, or be wedded to any particular features or design elements it may offer. That’s a slice of the market which may be happy to switch to Samsung the next time they upgrade. Perhaps some will even be keen enough on the Ring to upgrade ahead of schedule and buy a Galaxy phone now.
@@ -83,6 +100,9 @@ Tim Brookes / How-To Geek
 
  It’s not just the size of the market, either. iPhone owners, on average, have higher disposable incomes, and a known propensity for buying sleek technology. Like, oh, I don’t know, a smart ring.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Samsung Won't Take Your Money
 
  I like my Oura Ring and I think the subscription fee is justified by the combination of the data it provides and the thoughtful ways the app presents that data. But if Samsung could have offered something similar without the annual cost, it could have won my business.
@@ -103,3 +123,55 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-rebooted-social-scene-taking-control-of-fb-again/"><u>[New] 2024 Approved  Rebooted Social Scene  Taking Control of Fb Again</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-uncomplicatedscreensave-free-recording-software/"><u>[New] In 2024, UncomplicatedScreenSave  Free Recording Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlock-15-simple-vlog-inspirations-today/"><u>[New] In 2024, Unlock 15 Simple Vlog Inspirations Today</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-guiding-principles-for-speech-conversion-in-google-translate/"><u>[Updated] In 2024, Guiding Principles for Speech Conversion in Google Translate</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-rotation-video-setup/"><u>[Updated] In 2024, Ultimate Rotation Video Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-audio-dramatic-works/"><u>[Updated] Pinnacle Audio-Dramatic Works</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-how-to-transform-your-ebook-into-a-high-quality-pdf-format-a-comprehensive-guide/"><u>1. How to Transform Your eBook Into a High-Quality PDF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-ryzen-zen-chip-9-hx-grooves-past-intel-in-single-core-performance-leaving-core-ultra-7-268v-and-ryzen-9-7945hx3d-in-the-dust/"><u>AI Ryzen Zen Chip 9 HX Grooves Past Intel in Single-Core Performance, Leaving Core Ultra 7 268V & Ryzen 9 7945HX3D In The Dust</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-ai-9-hx-370-outperforms-apple-m3-max-battle-of-laptop-chips-unfolds/"><u>AMD Ryzen AI 9 HX 370 Outperforms Apple M3 Max: Battle of Laptop Chips Unfolds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen9700x-pushing-boundaries-overclock-to-an-incredible-58ghz-with-heavy-duty-liquid-cooling-plus-reach-a-stunning-idle-of-6-ghz/"><u>AMD Ryzen^9700X Pushing Boundaries: Overclock to an Incredible 5.8GHz with Heavy Duty Liquid Cooling, Plus Reach a Stunning Idle of 6 GHz!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-potential-warranty-issues-with-arctic-liquid-freezer-iii-essential-custom-contact-solutions-for-intel-processors/"><u>Avoid Potential Warranty Issues with Arctic Liquid Freezer III: Essential Custom Contact Solutions for Intel Processors.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-a-successful-item-evaluation-video-series-for-2024/"><u>Beginning a Successful Item Evaluation Video Series for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-ryzen-9s-power-achieve-6ghz-overclock-for-enhanced-multi-core-efficiency-plus27-in-geekbench/"><u>Boost Your Ryzen 9'S Power: Achieve 6GHz Overclock for Enhanced Multi-Core Efficiency (+27%% in GeekBench)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-aprendiendo-los-dias-de-la-semana-en-espanol/"><u>Día a Día: Aprendiendo Los Días De La Semana en Español</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-tech-insights-on-toms-hardware-guide/"><u>Discover Top Tech Insights on Tom's Hardware Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-transforming-word-docs-into-pdf-on-win-11/"><u>Essential Guide: Transforming Word Docs Into PDF on Win 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-correcting-the-error-14-issue-on-ios-devices/"><u>Expert Tips for Correcting the Error 14 Issue on iOS Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-hardware/"><u>Exploring Computer Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-toms-systems/"><u>Exploring the World of Hardware with Tom's Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-s24-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy S24 Without PUK Codes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-platforms-enhancing-online-collaboration/"><u>In 2024, Leading Platforms Enhancing Online Collaboration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>In 2024, The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>In 2024, Tone and Pitch Control on Chrome OS  Select the Best Online Speech Converters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tom-the-hardware-guide/"><u>In-Depth Analysis by Tom - The Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-cutting-edge-flagship-k1c-from-creality-a-new-era-in-3d-printers/"><u>Introducing the Cutting-Edge Flagship K1C From Creality, a New Era in 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262323585-liquid-nitrogen-overclocking-elevates-amds-ryzen-9-9950x-to-unprecedented-67ghz-breaking-world-records/"><u>Liquid Nitrogen Overclocking Elevates AMD's Ryzen #9 9950X to Unprecedented 6.7GHz, Breaking World Records</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-end-hardware-tips-and-tricks-from-tom/"><u>Navigating High-End Hardware: Tips and Tricks From Tom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-zoom-performance-the-ultimate-guide-to-tackling-high-cpu-issues-6-methods/"><u>Optimize Zoom Performance: The Ultimate Guide to Tackling High CPU Issues (6 Methods)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-your-setup-cutting-edge-advice-by-toms-hardware-specialists/"><u>Power Your Setup: Cutting-Edge Advice by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-poco-f5-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco F5 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-single-run-3d-printing-process-produces-operable-prosthetic-hands-paving-the-way-for-personalized-limb-fabrication-at-home/"><u>Revolutionary Single-Run 3D Printing Process Produces Operable Prosthetic Hands, Paving the Way for Personalized Limb Fabrication at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-additive-manufacturing-the-top-review-of-elegoo-saturn-s-cutting-edge-resin-printer/"><u>Revolutionizing Additive Manufacturing: The Top Review of Elegoo Saturn ^'S Cutting-Edge Resin Printer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-void-after-driver-addition/"><u>Silent Void After Driver Addition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-out-with-the-new-release-of-the-150-noctua-flagship-the-nh-d15-g2-next-gen-cooling-solution/"><u>Stay Chilled Out With the New Release of the $150 Noctua Flagship - The NH-D15 G2 Next-Gen Cooling Solution!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-creating-and-3d-printing-your-own-customized-qr-codes/"><u>Step-by-Step Guide: Creating and 3D Printing Your Own Customized QR Codes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/superior-ps5-memory-upgrades-with-nvme-technology-find-the-fastest-ssds-for-gaming-excellence/"><u>Superior PS5 Memory Upgrades with NVMe Technology: Find the Fastest SSDs for Gaming Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/test-drive-the-lian-li-galahad-ii-all-in-one-cooler-an-innovative-solution-for-keeping-your-i7-1-14900k-system-chilled-under-pressure/"><u>Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-hardware-insights-and-expertise/"><u>Tom's Computer Hardware Insights and Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadgets-uncovered-expert-hardware-analysis/"><u>Tom's Gadgets Uncovered: Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components and Gadgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-s23-fe-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy S23 FE Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-comparison-of-120mm-aio-coolers-be-quiet-vs-corsair-vs-cooler-master-vs-enermax/"><u>Ultimate Comparison of 120Mm AIO Coolers: Be Quiet Vs. Corsair Vs. Cooler Master Vs. Enermax</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-staying-cool-with-the-best-nvme-ssd-cooler-on-market-t-forces-dark-airflow-i/"><u>Ultimate Guide to Staying Cool with the Best NVMe SSD Cooler on Market - T-Force's Dark AirFlow I</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-speedy-sovol-sv08-a-tribute-to-vorons-legacy/"><u>Unboxing the Speedy Sovol SV08 - A Tribute to Voron's Legacy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-update-guide-enhanced-acer-support/"><u>Windows 11 Update Guide - Enhanced Acer Support</u></a></li>
+</ul></div>

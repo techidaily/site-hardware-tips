@@ -1,7 +1,7 @@
 ---
 title: Innovative Cleaning Solutions Reviewed - The Autonomous Switchbot S10 Can Empty and Refuel Solo
-date: 2024-08-27 11:18:19
-updated: 2024-08-29 12:50:37
+date: 2024-08-28T06:10:17.576Z
+updated: 2024-08-29T06:10:17.576Z
 tags:
   - hardware
 categories:
@@ -96,12 +96,18 @@ Patrick Campanale / How-To Geek
 
  This solves one of the biggest pain points with robot mops, in my opinion. The dirty water in a mop is always nasty, and something that can sometimes smell, and is something you wouldn’t want to spill when carrying it. So, the fact that the S10 can empty and refill itself is pretty stellar. In my testing of the robot, it did this perfectly every time.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ###  Be Ready To Do Some Plumbing Work, or Just Pick Up the External Water Tank
 
  When it comes to installing the water station, there’s a bit of plumbing that goes into it. It's critical to make sure you have a place for this to live before buying. Initially, I planned to install the water station in my guest bathroom under the toe kick. The station, however, didn’t fit there. So, I moved to my laundry room, where I planned to tie it into my washer water and drain lines. And, to my surprise, the ¾ to ½ tee was already in the package! Sadly, [my washer uses a different thread type](https://blog.boshart.com/ultimate-overview-of-connection-types-pictures-included) (GHT instead of NPT), so I wasn’t able to hook the S10 into my main water supply.
 
 ![SwitchBot S10 Robot Vacuum Auto Water Station with Buckets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-auto-water-station-with-buckets.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  However, [SwitchBot does have an external water tank](https://us.switch-bot.com/products/switchbot-floor-cleaning-robot-s10?variant=47281998659817) for scenarios like this. And, while it costs $80 more, if you aren’t ready to tackle plumbing just yet (or don’t have a place to plumb it in), then this will still allow the robot vacuum/mop to work well. And, while it won’t have an infinite fresh water source, and you’ll have to refill it, there is a benefit to having the external water tank. When set up with the external source, you can, conceivably, put the water source anywhere in your home. I’d venture to only put it on a hard floor, but you’re not limited to where it has to go.
@@ -110,6 +116,9 @@ Patrick Campanale / How-To Geek
 
  Regardless of whether you’re using the external water tank or piping it into your home, simply find the place you want the water station to be, and tell the S10 where it’s at in the app. It’s that simple.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The SwitchBot S10 Cleans Well, if You Don’t Mind the Noise
 
 ![SwitchBot S10 Robot Vacuum AI Object Detection Moving Around Shoe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-ai-object-detection-moving-around-shoe.jpg) 
@@ -124,14 +133,34 @@ Patrick Campanale / How-To Geek
 
  To remedy this, I just set the vacuum strength to the strongest it could be, and that allowed the S10 to pick up the junk that was on the floor with relative ease, though it was much, much louder during the process. I wouldn’t recommend running the S10 at night with how loud it is, as it would keep me up while cleaning.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The S10 Could Do a Better Job at Cleaning Under Cabinets and at Transitions![SwitchBot S10 Robot Vacuum Cleaning Floor](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-cleaning-floor.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In addition to having to turn the suction up to the strongest setting to get the S10 to effectively clean my hard floors, it also didn’t do the best at cleaning under the toe kick of my cabinets or at the transitions from hard floors to carpets. There’s the side brush that’s supposed to kick the stuff along the side into the path of the vacuum, but, because of how tall the vacuum is, it just doesn’t fit under those cabinet areas. Now, your mileage may vary, as our house was built in 1993, and the toe kicks are shorter than in modern homes. But, it’s a problem I ran into nonetheless.
 
  The transitions are something that took me by surprise, however. The S10 left some dirt and dust in the transition between carpet to hard floor in my home. The transition is a bit tall, but I would still expect it to clean it; the other robot vacuums I’ve used cleaned that area (and the area under my toe kicks) with no problem, for comparison.
 
  Outside these two areas, however, the S10 was pretty run-of-the-mill when it comes to cleaning performance. It vacuumed the hard floors well, and the carpets were left clean as well once it ran. It left nice carpet lines too, which was a bonus. However, as typical with robot vacuums, watch out for rugs with tassels. It’ll eat them and pull the rug along with it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ###  Where It Lacks in the Vacuum Department, the Mop Shines
 
 ![SwitchBot S10 Robot Vacuum Going Around Chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-going-around-chair.jpg) 
@@ -158,6 +187,9 @@ Patrick Campanale / How-To Geek
 
  Regardless of the reasoning, I spent about 30 to 45 minutes trying to get the S10 to dock on the carpet before realizing that it just simply wouldn’t, and it would only work on hard floors. That’s a pretty big negative if you’re planning to keep it in a carpeted area. I do have thick carpet, and on a shorter type, you might be fine. But, just keep in mind that you might have to keep the dock located on hard floors for it to function. And, the water station will likewise have to be on hard floors, but it shouldn’t be on carpet anyway just in case a leak does happen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  SwitchBot’s App Offers Some Nice Features
 
 Close 
@@ -168,6 +200,9 @@ Close
 
  Resizing furniture pieces was a little finicky and sometimes worked, and other times didn’t. However, no-go zones were typically pretty reliable to resize. And, this is something that could easily be fixed in a future app update.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  No Camera Access Is Both a Pro and Con
 
 ![SwitchBot S10 Robot Vacuum AI Detection Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-front-on-carpet.jpg) 
@@ -180,6 +215,9 @@ Patrick Campanale / How-To Geek
 
  I don’t see SwitchBot changing this in the future, as they’re touting this as a security feature that other vacuums don’t have, but it would be nice to have a toggle to tell it “only process on-device” or “let me stream the camera” so that way as the end user, it’s an option you or I could choose.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the SwitchBot S10 Robot Vacuum/Mop?
 
 ![SwitchBot S10 Robot Vacuum Top View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-top-view.jpg) 
@@ -194,6 +232,9 @@ Patrick Campanale / How-To Geek
 
 ![SwitchBot S10 Robot Vacuum and Mop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/switchbot-s10-robot-vacuum-mop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  SwitchBot S10 Robot Vacuum and Mop
 
 7/ 10 
@@ -218,3 +259,40 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-business-model-101-how-to-turn-snaps-into-dollars-for-2024/"><u>[New] Snapchat Business Model 101  How to Turn Snaps Into Dollars for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>[New] The Metaverse & MultipleMetaverse Explained  Key Contrasts Highlighted</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>[Updated] 2024 Approved  Dive Into Digital Green Magic  Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-innovative-techniques-for-igtv-backgrounds/"><u>[Updated] 2024 Approved  Innovative Techniques for IGTV Backgrounds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-precise-notes-using-mematic-software/"><u>[Updated] Craft Precise Notes Using Mematic Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-access-recovery-mastering-post-hack-facebook-fixes/"><u>[Updated] In 2024, Access Recovery  Mastering Post-Hack Facebook Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-stealthy-view-tips-for-invisible-instagram-stories-consumption-via-pcandroidiphone-for-2024/"><u>[Updated] Stealthy View  Tips for Invisible Instagram Stories Consumption via PC/Android/iPhone for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cutting-edge-obs-methods-for-ultimate-android-broadcasting/"><u>2024 Approved  Cutting-Edge OBS Methods for Ultimate Android Broadcasting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/"><u>ASUS MG28UQ  Elevating Your Visual Experience to New Heights for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-optimal-performance-with-logitechs-k400plus-wireless-duo-drivers/"><u>Download Now: Optimal Performance with Logitech's K400+ Wireless Duo Drivers</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-x5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco X5 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a1x-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo A1x 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817669-memorial-day-special-unlock-epic-savings-on-dells-32-inch-gaming-display-for-only-279/"><u>Memorial Day Special: Unlock Epic Savings on Dell's 32-Inch Gaming Display for Only $279</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-bargain-asuss-tuf-gaming-monitor-24-ips-165-hz-now-just-99-on-newegg/"><u>Score a Bargain! Asus's TUF Gaming Monitor, 24 IPS, 165 Hz - Now Just $99 on Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-experience-the-thor-darth-vader-look-on-your-desk-with-this-high-performance-24-ips-monitor-at-just-139-from-chinese-retailer/"><u>Score a Steal: Experience the 'Thor Darth Vader' Look on Your Desk With This High-Performance 24 IPS Monitor at Just $139 From Chinese Retailer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862824038-score-big-savings-on-the-ultrawide-aorus-oled-monitor-from-gigabyte-limited-offer-at-969/"><u>Score Big Savings on the Ultrawide, Aorus OLED Monitor From Gigabyte - Limited Offer at $969</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-displays-a-comprehensive-review-of-the-philips-qd-oled-evonia-49m2c8900/"><u>The Future of Gaming Displays: A Comprehensive Review of the Philips QD-OLED Evonia 49M2C8900</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-complication-of-displayport-21-and-its-impact-on-high-speed-cables-unveiling-the-reason-behind-nvidias-persistent-use-of-dp-14-in-rtx-40-series.m62/"><u>The Hidden Complication of DisplayPort 2.1 and Its Impact on High-Speed Cables: Unveiling the Reason Behind Nvidia's Persistent Use of DP 1.4 in RTX 40 Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cost-effective-curved-monitors-with-g-sync-features/"><u>The Ultimate Guide to Cost-Effective Curved Monitors with G-Sync Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-feelworld-dh101-10-inch-portable-screen-a-miniature-device-brimming-with-beneficial-attributes/"><u>The Ultimate Guide to Feelworld DH101 10-Inch Portable Screen - A Miniature Device Brimming with Beneficial Attributes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-hardware-insights-by-tom/"><u>The Ultimate Resource for Computer Hardware Insights by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadgets-review-hub-comprehensive-electronics-analysis/"><u>Tom's Gadgets Review Hub: Comprehensive Electronics Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis/"><u>Tom's Tech Insights: In-Depth Reviews & Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-electronics/"><u>Tom's Tech Review: Comprehensive Insights on Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862813875-unleash-your-game-the-ultimate-offer-on-alienwares-34-inch-oled-monitor-only-749-at-best-buy/"><u>Unleash Your Game: The Ultimate Offer on Alienware's 34-Inch OLED Monitor, Only $749 at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-performance-with-toms-computing-world/"><u>Unleashing Performance with Tom's Computing World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-technology-on-toms-hardware-blog/"><u>Unveiling Cutting-Edge Technology on Tom's Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-tech-choices-with-toms-hardware-experts/"><u>Unveiling the Best Tech Choices with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-toms-authoritative-hardware-reviews/"><u>Unveiling the Latest in Tech: Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-pc-components-a-deep-dive-by-toms-hardware/"><u>Unveiling the Secrets of PC Components - A Deep Dive by Tom's Hardware</u></a></li>
+</ul></div>

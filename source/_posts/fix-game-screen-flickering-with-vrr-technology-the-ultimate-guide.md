@@ -1,7 +1,7 @@
 ---
 title: "Fix Game Screen Flickering with VRR Technology: The Ultimate Guide"
-date: 2024-08-26 18:36:56
-updated: 2024-08-29 12:36:11
+date: 2024-08-28T06:07:16.131Z
+updated: 2024-08-29T06:07:16.131Z
 tags:
   - hardware
 categories:
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ![Graphics settings tab in the NVIDIA App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  If you’re rocking an AMD GPU, open AMD Software, go to the “Gaming” tab, select the "Games" tab, and click the game you want to disable VRR for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Locate the “AMD FreeSync” option.
 
 ![Individual game settings listed in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-03.png) 
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ![AMD FreeSync toggle in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  That’s it!
 
 ##  Set a Framerate Cap In Games That Trigger Screen Flickering
@@ -73,12 +82,18 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  If you own an AMD GPU, you can either use the global frame rate cap or a feature called “Radeon Chill” that can play the role of a frame rate limiter for individual games.
 
  To enable the global frame rate limiter, open AMD software, click the “Gaming” tab, then click the “Graphics” tab. Locate the option called “Frame Rate Target Control,” enable it, and limit the max FPS to the desired value.
 
 ![Frame rate limiter tool in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-07.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
@@ -87,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ![Graphics options in AMD software including Radeon Chill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-08.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  Click “Enable” when asked to enable it. Note that enabling Radeon Chill will disable certain features, including Radeon Super Resolution, AMD Fluid Motion Frames, Radeon Anti-Lag, and Radeon Boost.
 
 ![Enabling Radeon Chill in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  Now, set both the minimum and maximum FPS to the same value.
 
 ![Customizing Radeon Chill options in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-10.png) 
@@ -127,3 +148,49 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>[New] In 2024, Unleash Window History  An In-Depth Look at Spring's Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>[New] The Drone Evolution  A Deep Look at DJI's Mavic Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-mov-recording-potential-win-11s-top-six-methods/"><u>[New] Unlocking .MOV Recording Potential  Win 11'S Top Six Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[Updated] 2024 Approved  Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>[Updated] How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-overcoming-anxiety-in-your-camera-lens-youtube-wisdom/"><u>[Updated] In 2024, Overcoming Anxiety in Your Camera Lens  YouTube Wisdom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlocking-captivates-potential-for-video-creation/"><u>[Updated] In 2024, Unlocking Captivate's Potential for Video Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-full-potential-zdsoft-screen-recorder/"><u>[Updated] In 2024, Unlocking Full Potential  ZDSoft Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-steps-to-ensure-continuous-auto-play-for-fb-content/"><u>[Updated] The Steps to Ensure Continuous Auto-Play for FB Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-colorful-compositions-in-a-click-photoshops-guide/"><u>2024 Approved  Colorful Compositions in a Click  Photoshop's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-your-go-to-list-for-immersive-sandboxes/"><u>2024 Approved  Your Go-To List for Immersive Sandboxes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175708040-2024s-leading-thermal-pastes-for-computers-tested-and-ranked-discover-your-top-picks/"><u>2024'S Leading Thermal Pastes for Computers Tested and Ranked - Discover Your Top Picks!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/3-best-smartphones-for-recording-video/"><u>3 Best Smartphones for Recording Video</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-smart-8-plus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Smart 8 Plus Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718089-adata-reveals-dual-cooling-tower-tech-for-enhanced-performance-at-computex-exciting-news-on-next-gen-psus-and-pcie-50-storage/"><u>Adata Reveals Dual-Cooling Tower Tech for Enhanced Performance at Computex: Exciting News on Next-Gen PSUs & PCIe 5.0 Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/award-winning-cpu-coolers-your-definitive-guide-to-the-best-thermal-pastes-of-2024/"><u>Award-Winning CPU Coolers: Your Definitive Guide to the Best Thermal Pastes of 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flash-on-win11-display/"><u>Banish Flash on Win11 Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bits-and-bytes-explore-cutting-edge-gear-at-toms-hardware-haven/"><u>Beyond Bits & Bytes: Explore Cutting-Edge Gear at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/coin-sized-innovation-discover-the-worlds-first-chip-integrated-absolutely-zero-moving-parts/"><u>Coin-Sized Innovation: Discover the World's First Chip-Integrated Absolutely Zero Moving Parts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-in-depth-analysis-and-reviews-by-toms-hardware-experts/"><u>Discover In-Depth Analysis & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-at-toms-computer-equipment-hub/"><u>Expert Insights at Tom's Computer Equipment Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-best-3d-printers-of-2024-from-advanced-resin-tech-to-economical-fdm-systems/"><u>Explore the Best 3D Printers of 2024: From Advanced Resin Tech to Economical FDM Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-with-toms-innovation-hub/"><u>Exploring Cutting-Edge Gadgets with Tom's Innovation Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovation-in-computers-and-gaming-dive-into-toms-hardware-insights/"><u>Exploring Innovation in Computers and Gaming - Dive Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-your-snap-camera-cannot-detect-an-input-source/"><u>Fixing the Issue When Your Snap Camera Cannot Detect an Input Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-cold-pay-less-secure-arctics-high-efficiency-liquid-freezer-ii-aioldii-for-only-74-bucks/"><u>Get Cold, Pay Less: Secure Arctic's High-Efficiency Liquid Freezer II (AIOLDII) for Only 74 Bucks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-driver-update-successful-error-22/"><u>GPU Driver Update Successful - Error 22</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>In 2024, The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-hub-the-ultimate-guide-to-computer-hardware/"><u>Inside Tom's Electronics Hub: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media-for-2024/"><u>Insta-Marketing Mastery  Crafting Viral Video Campaigns on Social Media for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125259623-leading-vr-headsets-reviewed-elevate-your-pc-gameplay-today/"><u>Leading VR Headsets Reviewed: Elevate Your PC Gameplay Today</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-videos-the-best-free-green-screen-apps-for-android-and-ios-devices/"><u>New In 2024, Transform Your Videos The Best Free Green Screen Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-and-analysis-id-coolings-innovative-frozn-a620-pro-se-exceptional-cooling-value/"><u>Review and Analysis: ID-Cooling's Innovative Frozn A620 Pro SE - Exceptional Cooling Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-beginners-blueprint-learn-how-to-make-stunning-lithophane-artwork-with-a-3d-printer/"><u>The Beginner's Blueprint: Learn How to Make Stunning Lithophane Artwork with a 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-raspberry-pi-hat-selections-of-the-year-find-your-perfect-2024-add-on-solution/"><u>The Best Raspberry Pi HAT Selections of the Year: Find Your Perfect 2024 Add-On Solution!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-flsun-s1-in-detail-dissecting-its-distinctive-warp-speed-and-oddball-delta-features-reviews/"><u>The FLSun S1 in Detail: Dissecting Its Distinctive Warp Speed & Oddball Delta Features – Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cutting-edge-technology-from-toms-hardware-hub/"><u>The Ultimate Guide to Cutting-Edge Technology From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-in-depth-analysis-and-guides/"><u>Tom's Computer Review: In-Depth Analysis & Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronic-guides/"><u>Unveiling the Latest Gadgets with Tom's Electronic Guides</u></a></li>
+</ul></div>

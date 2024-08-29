@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide to USB Cable Colors: What Do Blue, Yellow and Red Mean?"
-date: 2024-08-28 14:22:42
-updated: 2024-08-29 11:24:51
+date: 2024-08-28T06:08:55.055Z
+updated: 2024-08-29T06:08:55.055Z
 tags:
   - hardware
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
  Because there are so many iterations of USB, and the most common USB-A port looks identical on the outside, regardless of the speed and capabilities of the silicon underneath, USB ports employ a color coding system that can give you a crude idea of what you're working with at a glance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  Standard USB Port Colors and Their Meanings
 
  I'm going to group the USB port colors into the standard common ones that you're most likely to actually encounter, and then discuss the more exotic ones.
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 ![A USB hub with white ports, and a single flash drive plugged into it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/white-usb-ports.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [Setyotuhu / Shutterstock.com](https://www.shutterstock.com/image-photo/usb-flash-plug-play-on-port-2390341965)
 
 **White USB ports:** These usually signify USB 1.x which has a maximum speed of 12Mbps. You are highly unlikely to run into these old ports today, and even if you do, there's little you can do with one other than connect a mouse or keyboard to it, or transfer data at an utter snail's pace. My first ever USB 1.1 64MB flash drive took over a minute to fill up, so that gives you an idea of how much speed we're talking here.
@@ -48,10 +54,30 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
  If the colors and standards weren't confusing enough, it's important to note at this point of our journey that [USB 3.1 is actually now USB 3.2](https://www.cnet.com/tech/mobile/confused-by-usb-names-get-used-to-it-as-usb-3-1-becomes-3-2/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ##  Special USB Port Colors and Their Functions
 
 ![White and red USB charger adapter. There are two green and red USB ports.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/orange-and-green-usb-ports.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Lihin abang / Shutterstock.com](https://www.shutterstock.com/image-photo/perak-malaysia-june-5-2024-white-2471570713)
 
  Apart from the common port colors, there are a few that are either rare or proprietary. You're not that likely to run into these, but if you do these are the likely meanings.
@@ -64,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 **Purple USB ports:** This is usually a proprietary Huawei SuperCharge port, but can also just be a regular USB 3.1 port.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  How to Choose the Right USB Port
 
  As I said before, these colors are really mostly just used by convention, so the only way to really know what you're plugging into is to read the specs for the device online or on its box. Don't be too worried about plugging the right thing in. As long as it's not a white or back port, you're likely getting more than enough speed. If you need power for fast charging, well plug it in anyway and see what the charging speed is.
@@ -84,3 +114,54 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-simplicity-in-video-creation-a-guide-to-10-easy-to-make-youtube-videos/"><u>[New] 2024 Approved  Simplicity in Video Creation  A Guide to 10 Easy-to-Make YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-comprehensible-guide-for-mastering-instagram-live-engagements/"><u>[New] In 2024, A Comprehensible Guide for Mastering Instagram Live Engagements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>[New] Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-obs-timeline-expertise-crafting-custom-countdown-features/"><u>[New] Obs Timeline Expertise  Crafting Custom Countdown Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premium-pcmac-screen-capture-application/"><u>[New] Premium PC/Mac Screen Capture Application</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-maximize-profits-the-top-13-no-experience-reddit-hacks-for-2024/"><u>[Updated] Maximize Profits  The Top 13 No-Experience Reddit Hacks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/18-quick-and-inspiring-ideas-to-try-in-your-vlog-for-2024/"><u>18 Quick and Inspiring Ideas to Try in Your Vlog for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apples-m1-performance-enhancing-video-editing/"><u>2024 Approved  Apple’s M1 Performance  Enhancing Video Editing?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-hidden-depths-of-canvas-photo-editor/"><u>2024 Approved  Explore the Hidden Depths of Canva's Photo Editor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-guides-by-toms-computing-corner/"><u>Advanced Hardware Guides by Tom's Computing Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tutorials-and-reviews-by-toms-hardware-experts/"><u>Advanced Tutorials & Reviews by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-top-picks-thermalright-frozen-notte-vs-aqua-elite-360-white-v3-comprehensive-aio-reviews/"><u>Budget-Friendly Top Picks: Thermalright Frozen Notte Vs. Aqua Elite 360 White V3 - Comprehensive AIO Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-pcs-smartly-tips-from-toms-hardware-wisdom/"><u>Building PCs Smartly: Tips From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-technology-the-comprehensive-review-platform-toms-hardware/"><u>Decoding Technology: The Comprehensive Review Platform, Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-computing-with-toms-hardware-expertise/"><u>Dive Into Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-techniques-for-repairing-file-wear-and-tear/"><u>Effective Techniques for Repairing File Wear and Tear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-overclocking-with-xpgs-innovative-dual-fan-cooler-and-integrated-loop-suitable-for-cpus-up-to-280w/"><u>Experience Enhanced Overclocking with XPG's Innovative Dual-Fan Cooler and Integrated Loop - Suitable for CPUs up to 280W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-equipment-reviews/"><u>Exploring the Latest in Computing with Tom's Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extended-warranty-insights-intel-unveils-coverage-for-core-i5-i7-and-i9-processors-in-13th-and-14th-generation-chipsets/"><u>Extended Warranty Insights: Intel Unveils Coverage for Core I5, I7, and I9 Processors in 13Th & 14Th Generation Chipsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-essential-guide-to-the-premier-power-supplies-of-202e4/"><u>Gamers' Essential Guide to the Premier Power Supplies of 202E4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-der8auer-admitted-his-mistake-with-inefficient-grizzly-heatsink-units/"><u>How Der8auer Admitted His Mistake with Inefficient Grizzly Heatsink Units</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-generative-ai-operates-and-which-leading-firms-implement-it/"><u>How Generative AI Operates & Which Leading Firms Implement It</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-building-a-successful-facebook-charity-competition/"><u>In 2024, Building a Successful Facebook Charity Competition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-nord-n30-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Nord N30 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-transform-slide-show-into-video-format/"><u>In 2024, Transform Slide Show Into Video Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-raspberry-pi-pico-accessories-coming-in-25-trending-add-ons-for-raspberry-pi-pico-whats-new/"><u>Innovative Raspberry Pi Pico Accessories Coming in 2#5 Trending Add-Ons for Raspberry Pi Pico - What's New</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-rundown-your-source-for-computer-components/"><u>Inside Tom's Gadget Rundown: Your Source for Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-comprehensive-extended-warranty-program-unveiled-coverage-for-13th-and-14th-gen-core-i5-i7-and-i9-chips/"><u>Intel's Comprehensive Extended Warranty Program Unveiled: Coverage for 13Th & 14Th Gen Core I5, I7, & I9 Chips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125180939-join-felicia-days-newest-adventure-in-the-thangs-3d-community-unique-downloadable-model-collection-available-now/"><u>Join Felicia Day's Newest Adventure in the Thangs 3D Community: Unique, Downloadable Model Collection Available Now!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/keeping-it-real-in-the-rat-race-of-retweets-and-likes-for-2024/"><u>Keeping It Real in the Rat Race of Retweets and Likes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-at-toms-hardware-haven-online/"><u>Mastering Technology at Tom's Hardware Haven Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-tech-scene-toms-precision-hardware-critiques-and-advice/"><u>Mastering the Tech Scene: Tom's Precision Hardware Critiques and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-mega-pc-liquid-cooling-radiator-9x200mm-fans-heavyweight-design-for-superior-performance-over-35lbs-under-600/"><u>MO-RA IV 600 - Mega PC Liquid Cooling Radiator: 9X200mm Fans, Heavyweight Design for Superior Performance (Over 35Lbs) Under $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-toms-in-depth-hardware-analysis/"><u>Navigate the World of Tech with Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tom/"><u>Navigating the World of High-Performance Hardware with Tom</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-easy-movie-maker-how-to-easily-make-a-movie-for-2024/"><u>New Easy Movie Maker How to Easily Make a Movie for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-hub-for-electronics-by-toms-hardware-team/"><u>The Ultimate Review Hub for Electronics by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-world-the-ultimate-hardware-hub/"><u>Tom's Computing World: The Ultimate Hardware Hub</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship-for-2024/"><u>Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computers-and-peripherals-with-toms-analysis/"><u>Unveiling the Latest in Computers & Peripherals with Tom's Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-of-crealitys-k1-carbon-the-next-big-thing-in-carbon-fiber-printing/"><u>Unveiling the Potential of Creality's K1-Carbon: The Next Big Thing in Carbon Fiber Printing?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-performers-a-deep-dive-into-toms-hardware-selection/"><u>Unveiling Top Performers - A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478503521-why-your-iphones-alarm-might-not-be-working-and-how-to-fix-it/"><u>Why Your iPhone's Alarm Might Not Be Working – And How to Fix It!</u></a></li>
+</ul></div>

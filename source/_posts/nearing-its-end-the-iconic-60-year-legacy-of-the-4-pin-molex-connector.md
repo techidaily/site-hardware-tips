@@ -1,7 +1,7 @@
 ---
 title: "Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector"
-date: 2024-08-26 23:52:41
-updated: 2024-08-29 12:25:25
+date: 2024-08-28T06:07:29.002Z
+updated: 2024-08-29T06:07:29.002Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Molex connectors provide power to electronic devices using a secure connection, and because the pins and socket have large contact areas and fit securely, it's appropriate to send power, rather than simply low-power signals.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Brief Look at a Long History
 
  Representing one of the earliest standards in the then-nascent field of electronics, the Molex quickly found its way into everything from home appliances to cars. The Molex connector was developed in the late 1950s by the Molex company, but the version you might know is actually the AMP Mate-n-Lok produced in 1963\. The main difference with the AMP version is the inclusion of two chamfered corners, making it easier to pull out. The AMP connector is not actually interchangeable with the patented Molex connector, but it's the AMP connector that became the standard for floppy and hard drive power connections. Both the AMP and Molex connectors were used in computers, and both were referred to as "Molex" connectors, despite that only being half right.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Establishing the basic facts of the Molex connector's history outside the Wikipedia entry (which has its own issues), proved a little tricky. This seems to be the [1962 patent](https://patents.google.com/patent/US3178673A/en) for the original. Likewise, facts about the Mate-n-Lok and the later 8981 connectors are also hard to nail down, though, of course, we all used them! Even looking for information about them on Molex or TE Connectivity's own sites doesn't yield much, so I've tried to stick to the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Good, the Bad, and the Ugly of the 4-Pin Molex
 
  Molex connectors were clearly a big deal in the world of consumer electronics and later in home computing. It was an easy, widespread standard that made it easy for manufacturers of computer parts to ensure that everything would work together. Since it has such a long lifespan, it also meant that Molex connectors allowed for parts that were many years apart to interoperate.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Two Molex connectors to one 6-pin PCI Express connector on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_244972945.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Olga Popova / Shutterstock.com](https://www.shutterstock.com/image-photo/two-molex-connectors-one-6pin-pci-244972945)
 
  Putting together a system using Molex connectors is a breeze, downright pleasant even. However, when the time came to take that system apart or upgrade or replace a component, the Molex connector demanded its sacrifices. I owe many busted knuckles, torn nails, and once even a cut lip to stubborn Molex connectors that just don't want to let go.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Also, while Molex represented a standard, some companies stuck to it so loosely, that quality could be widely different between cables. The only [computer fire](https://win-solutions.techidaily.com/solved-monster-hunter-rise-wont-start-fixed-solution-inside/) I have personally experienced was caused by a cheap Molex connector which shorted and melted, as flames licked out of the computer's vents. This isn't really the fault of the Molex connector design, just a symptom of a connector that anyone could make, and so some were made poorly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  How the 4-Pin Molex Is Hanging on Today
 
  Few if any computer components still use the Molex connector. The most common device that still uses these connectors is the humble case fan, and then only the cheapest examples. It's more common for good fans to use a [4-pin PWM](https://video-screen-grab.techidaily.com/updated-2024-approved-next-gen-webcams-top-5-featuring-premium-audio-capabilities/) connector that is attached directly to your mother board, or to a fan speed controller. Since all the Molex connector can provide is power, any fan using such a connection will always run at full blast. Not idea for noise or fan longevity.
@@ -71,3 +83,42 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>[New] 2024 Approved  Peals of Laughter  Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-one-shot-screenshot-instruction-for-2024/"><u>[New] One-Shot Screenshot Instruction for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-are-earnings-associated-with-good-and-service-analysis/"><u>[Updated] 2024 Approved  Are Earnings Associated with Good and Service Analysis?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-verification-how-to-get-the-blue-verified-badge-easily-for-2024/"><u>[Updated] Facebook Verification  How to Get the Blue Verified Badge (Easily) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-top-ranked-wireless-keyboards-of-2024-unveiled/"><u>Comprehensive Review: Top-Ranked Wireless Keyboards of 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diving-into-comfort-the-complete-guide-to-bamboo-lab-a1-bed-in-a-slipcover-format-for-king-size-luxury/"><u>Diving Into Comfort: The Complete Guide to Bamboo Lab A1 Bed in a Slipcover Format for King-Size Luxury</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-cutting-edge-devices-by-tom/"><u>Expert Advice on Cutting-Edge Devices by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-computer-and-gadget-critiques-from-toms-hardware-authority/"><u>Expert Computer and Gadget Critiques From Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fire-ant-infestation-on-gamers-pc-devouring-thermal-paste-and-wasteland-shocking-photo-evidence/"><u>Fire Ant Infestation on Gamer's PC: Devouring Thermal Paste & Wasteland - Shocking Photo Evidence</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-explore-these-6-powerful-instagram-reel-tools/"><u>In 2024, Explore These 6 Powerful Instagram Reel Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-high-quality-action-recorders-12-enhanced-with-gps-navigation/"><u>In 2024, High-Quality Action Recorders 12, Enhanced with GPS Navigation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-tech-gear-tips-from-toms-hardware-experts/"><u>Inside the World of Tech Gear: Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/loongsons-cutting-edge-chip-a-competitive-match-to-intels-16-core-ice-lake-processor/"><u>Loongson's Cutting-Edge Chip: A Competitive Match to Intel’s 16-Core Ice Lake Processor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/struggling-division-costs-intel-a-staggering-16-billion-loss-in-recent-quarter/"><u>Struggling Division Costs Intel a Staggering $1.6 Billion Loss in Recent Quarter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/stylish-spectacles-trending-insta-filters-list/"><u>Stylish Spectacles  Trending Insta Filters List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/superior-liquid-cooling-solution-for-gamers-the-new-moora-iv-600-featuring-a-35lbs-radiator-and-9x-200mm-fans-at-600-price-point/"><u>Superior Liquid Cooling Solution for Gamers: The New MOORA IV 600 - Featuring a 35Lbs Radiator & 9X 200MM Fans at ~$600 Price Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-savvy-living-by-toms-gear-experts/"><u>The Definitive Guide to Tech Savvy Living by Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-pulse-on-processors-memory-and-more-in-depth-hardware-reviews-by-tom/"><u>The Pulse on Processors, Memory & More: In-Depth Hardware Reviews by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-2024s-most-efficient-cpu-coolers-all-in-one-and-air-variants/"><u>The Ultimate Selection of 2024'S Most Efficient CPU Coolers: All-in-One and Air Variants</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/this-title-focuses-on-the-impressive-achievement-of-scoring-over-108000-points-while-also-explaining-that-it-is-achieved-through-multi-threading-tests-using57/"><u>This Title Focuses on the Impressive Achievement of Scoring over 108,000 Points, While Also Explaining that It Is Achieved Through Multi-Threading Tests Using the CPU-Z Benchmark</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts/"><u>Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-s18-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo S18 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-gadget-enthusiasts-a-deep-dive-into-toms-hardware-selection/"><u>Top Picks for Gadget Enthusiasts: A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-apex-legends-connections-expert-fixes/"><u>Troubleshooting Your Apex Legends Connections - Expert Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-hidden-gems-in-electronic-devices-with-tom/"><u>Uncovering Hidden Gems in Electronic Devices with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-enthusiasts-insights-by-toms-hardware/"><u>Unlocking Performance Secrets for Enthusiasts - Insights by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-innovations-with-toms-technology-guides/"><u>Unveiling New Innovations with Tom's Technology Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-your-guide-to-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Your Guide to Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-tom/"><u>Unveiling the Latest in Technology with Tom</u></a></li>
+</ul></div>

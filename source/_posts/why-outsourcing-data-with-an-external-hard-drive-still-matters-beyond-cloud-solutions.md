@@ -1,7 +1,7 @@
 ---
 title: "Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions"
-date: 2024-08-26 15:46:58
-updated: 2024-08-29 11:14:39
+date: 2024-08-28T06:06:59.642Z
+updated: 2024-08-29T06:06:59.642Z
 tags:
   - hardware
 categories:
@@ -36,16 +36,25 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
  Flash drives were (physically) never particularly large, but now they're even smaller. Plus, you can get a drive with both a USB-C and USB-A port, so that you're ready for whichever machine you encounter. Though you may be [best off with an external SSD](https://visual-screen-recording.techidaily.com/updated-2024-approved-compre-omprehensive-razer-video-cam-test/), considering how small they've become, too.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You're Not Dependent on an Internet Connection
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Many of us live in places where we take high-speed internet for granted. On the other hand, just as many of us don't, even in places like New York City. Having portable USB storage means you can still access data even when the last bar of signal disappears or everything is constantly buffering.
 
  I grew up with [dial-up](https://extra-resources.techidaily.com/updated-5-premier-drone-engines-to-supercharge-your-qxp/), and my parents still live in a rural area that is only just now getting access to cable internet. Even so, I don't have enough signal to stream anything for half of the drive from my home to theirs. As fast and dependable as my internet may be at home (also in a rural area, mind you), I have never hit the point where I take the internet for granted. Files stored on an external drive are files I can access regardless of how poor the internet connection is. Files stuck in cloud storage feel nearby when the internet is fast, but you become aware of how far away those servers are when the connection slows down or even disappears.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Your Data Is Less Likely to Leak
 
  When you store files online, you copy them from your machine to someone else's. Unless you're encrypting your files before they go off onto the web, you're essentially trusting that someone won't go snooping through your files.
@@ -58,16 +67,25 @@ Bertel King / How-To Geek
 
  It's worth mentioning that simply deleting files on a local drive does not destroy the data. If you want to ensure that your data is truly gone from a drive, you should use a reputable file shredding application to scrub the drive clean and ensure nothing can be recovered from it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  There's No Censorship Over What Files You Can Store
 
  Since your online files are stored on someone else's machines, they're liable for whatever it is that you're uploading. They may take issue with your intimate photos or consider your stash of ripped DVDs to be pirated. When you store stuff online, you have to be mindful of how other people feel about your data.
 
  Unless someone physically gets their hands on your external drive and plugs it into something, they have no idea what's on it. If they don't know what's on it, they can't tell you to delete it. You're the one who decides what gets to go onto your drive.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  USB Storage Is Much, Much Cheaper
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Storage costs have dropped rapidly over the years. You can now buy a 512GB USB stick for the price of treating a date to dinner. For a little bit more, you can [buy an external SSD](https://screen-capture.techidaily.com/new-optimize-logitech-footage-background-free-method/) with much faster transfer speeds. Most of us aren't actually carrying around terabytes of data and don't need to spring for a larger drive.
@@ -107,3 +125,55 @@ Jerome Thomas / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[New] 2024 Approved  Sleeper Coupons in Instagram  The Underrated Tips and Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-creativity-adding-borders-in-video-stories-for-2024/"><u>[New] Unlock Creativity  Adding Borders in Video Stories for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-essence-of-elegance-premium-filters-for-your-snap/"><u>[Updated] 2024 Approved  The Essence of Elegance  Premium Filters for Your Snap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blend-pictures-with-computers-easily/"><u>[Updated] Blend Pictures with Computers Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-the-essence-of-sims-gaming/"><u>[Updated] Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-from-observer-to-participant-tips-for-guesting-on-tiktoks/"><u>[Updated] In 2024, From Observer to Participant  Tips for Guesting on TikToks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ai-enhanced-photoshop-suite/"><u>[Updated] Top AI Enhanced Photoshop Suite</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>2024 Approved  Harnessing Instagram Video Potential  Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-speedy-audio-on-phone-ultimate-list-of-tools/"><u>2024 Approved  Speedy Audio on Phone  Ultimate List of Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aio-price-war-winners-thermalright-frozen-notte-vs-deepcool-aqua-elite-v3-reviews-for-budget-builds/"><u>AIO Price War Winners: Thermalright Frozen Notte Vs. Deepcool Aqua Elite V3 Reviews for Budget Builds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bits-and-bytes-explore-cutting-edge-gear-at-toms-hardware-haven/"><u>Beyond Bits & Bytes: Explore Cutting-Edge Gear at Tom's Hardware Haven</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-games-download-the-new-nvidia-driver-for-windows-users/"><u>Boost Your Games: Download the New Nvidia Driver for Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/building-a-robust-360-video-broadcast-framework-for-fb/"><u>Building a Robust 360 Video Broadcast Framework for FB</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/chuckle-craft-ranking-the-top-10-memes-by-wow-factor/"><u>Chuckle Craft  Ranking the Top 10 Memes by Wow Factor</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-strategies-for-elevating-your-imac-performance-with-intel-upgrades/"><u>Essential Strategies for Elevating Your iMac Performance with Intel Upgrades</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pc-components-at-toms-gadget-hub/"><u>Expert Analysis on PC Components at Tom's Gadget Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-top-pc-case-selections-of-2024-to-elevate-your-personal-computer-setup/"><u>Expertly Reviewed Top PC Case Selections of 2024 to Elevate Your Personal Computer Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-best-aio-cooling-units-of-2024-beat-the-heat/"><u>Expertly Selected Best AIO Cooling Units of 2024: Beat the Heat!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computer-equipment-with-toms-review-site/"><u>Exploring the Latest in Computer Equipment with Tom's Review Site</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harness-unmatched-thermal-efficiency-with-pioneercools-ultrafrost-duo-aio-liquid-cooler/"><u>Harness Unmatched Thermal Efficiency with PioneerCool's UltraFrost-Duo AIO Liquid Cooler</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-a-thrilling-film-outtakes-package/"><u>In 2024, Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-launchpad-for-twitter-beginners/"><u>In 2024, Launchpad for Twitter Beginners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125170665-introducing-the-revolutionary-bamboolabs-bed-slinger-rapid-printing-with-their-latest-a1-3d-printer-coming-soon-on-dec-14th/"><u>Introducing the Revolutionary BambooLab's Bed Slinger: Rapid-Printing with Their Latest A1 3D Printer - Coming Soon on Dec. 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-beelink-gti14-with-pcie-x8-slot-and-integrated-power-built-on-meteor-lake-technology/"><u>Introducing the Revolutionary Beelink GTi14 with PCIe X8 Slot and Integrated Power – Built on Meteor Lake Technology</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-g310-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia G310 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-and-software-tips-from-toms-experts/"><u>Mastering Hardware and Software - Tips From Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-space-with-advice-from-toms-hardware/"><u>Mastering Your Digital Space with Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-in-game-alert-game-developer-announces-support-for-intels-13th-and-14th-gen-processors-how-to-prevent-crashes/"><u>New In-Game Alert: Game Developer Announces Support for Intel's 13Th & 14Th Gen Processors - How To Prevent Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-common-hurdles-reviving-your-3d-printers-bed-heater-and-maximizing-performance/"><u>Overcoming Common Hurdles: Reviving Your 3D Printer's Bed Heater and Maximizing Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-components-by-toms-innovations/"><u>Pioneering Computer Components by Tom's Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pump-inside-radiator-design-dispute-cooler-master-fights-for-patent-rights-against-rival-companies/"><u>Pump-Inside-Radiator Design Dispute: Cooler Master Fights for Patent Rights Against Rival Companies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolved-troubleshooting-windows-11-when-it-refuses-to-go-into-sleep-mode/"><u>Resolved: Troubleshooting Windows 11 When It Refuses to Go Into Sleep Mode</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-zte-nubia-z60-ultra-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your ZTE Nubia Z60 Ultra Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-reviews-by-toms-hardware-authority/"><u>The Ultimate Guide to Tech Reviews by Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-most-affordable-cpus-of-202e-thorough-evaluation-by-anandtech/"><u>The Ultimate Guide to the Most Affordable CPUs of 202E: Thorough Evaluation by AnandTech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-comprehvew-on-cutting-edge-computer-equipment/"><u>Tom's Comprehvew on Cutting-Edge Computer Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-reviews-top-gadgets-and-pc-builds/"><u>Tom's Hardware Reviews: Top Gadgets and PC Builds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-thin-and-robust-usb-c-laptop-chargers-featuring-advanced-gan-circuitry-for-enhanced-performance/"><u>Top 5 Thin and Robust USB-C Laptop Chargers Featuring Advanced GaN Circuitry for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-review-discover-the-colors-and-capabilities-of-the-anycubacobra-3/"><u>Top Review: Discover the Colors and Capabilities of the Anycubacobra 3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-your-pc-with-tips-from-toms-tech-wisdom/"><u>Unlocking the Potential of Your PC with Tips From Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-trends-at-toms-hardware-chronicles/"><u>Unveiling New Tech Trends at Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronic-guides/"><u>Unveiling the Latest Gadgets with Tom's Electronic Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-tour-of-toms-technology-rundown/"><u>Unveiling the Latest Gadgets: A Tour of Tom's Technology Rundown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-by-toms-experts/"><u>Unveiling the Latest in Computer Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-hardware-with-toms-review-site/"><u>Unveiling the Power of Hardware with Tom's Review Site</u></a></li>
+</ul></div>

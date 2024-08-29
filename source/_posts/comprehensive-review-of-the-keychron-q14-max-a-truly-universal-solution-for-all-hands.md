@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Keychron Q14 Max: A Truly Universal Solution for All Hands"
-date: 2024-08-26 21:47:26
-updated: 2024-08-29 12:32:38
+date: 2024-08-28T06:08:06.906Z
+updated: 2024-08-29T06:08:06.906Z
 tags:
   - hardware
 categories:
@@ -116,6 +116,9 @@ Expand
 
 ![Person using comparing the  Microsoft Surface Ergonomic keyboard to the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/person-using-comparing-the-microsoft-surface-ergonomic-keyboard-to-the-keychron-q14-max-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
 ![Person using comparing the  Microsoft Surface Ergonomic keyboard to the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/person-using-comparing-the-microsoft-surface-ergonomic-keyboard-to-the-keychron-q14-max.jpg) 
@@ -134,10 +137,16 @@ Close
 
  On a standard keyboard, I would do both steps with my right hand, which required much more movement. I noted the same improvement in any actions that required me to use the number pad and mouse at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  Adjustment Time Required
 
 ![A hand on the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/a-hand-on-the-keychron-q14-max.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  It certainly takes time to adjust to the Keychron Q14 Max’s Alice layout. Since I’ve previously used a split-key keyboard, it only took a day to settle in, even though I most recently used a TKL. The most intensive adjustment was learning to type efficiently on the number pad with my left hand.
@@ -154,6 +163,9 @@ Hannah Stryker / How-To Geek
 
 ![Keycap puller on the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/keycap-puller-on-the-keychron-q14-max-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  While the layout of this keyboard certainly looks a bit funky if you are not familiar with ergonomic layouts, the overall design and build quality are exactly what you would expect of a Keychron keyboard.
@@ -186,18 +198,30 @@ Hannah Stryker / How-To Geek
 
  I set one of the three customizable buttons above the number pad to check the battery level. You can also do so by pressing fn + b. The number row lights up accordingly to indicate the charge percentage. According to Keychron, the Q14 Max can run for up to four weeks when the lighting effects are turned off, but there's no fun in that. I keep my keyboard twinkling, but that still gives me a few days of use before recharging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Keychron Q14 Max?
 
 ## ![The Keychron Q14 MAX Alice layout keyboard and an ergonomic mouse](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/the-keychron-q14-max-alice-layout-keyboard-and-an-ergonomic-mouse-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
  With its top-of-the-line construction quality, extensive customization options, and multiple connectivity options, the [Keychron Q14 Max](https://www.keychron.com/products/keychron-q14-max-alice-layout-qmk-wireless-custom-mechanical-keyboard) is a solid keyboard. While its unique layout will limit its appeal for many, those who are willing to adjust will likely find a strong admiration for it. I plan to use it for quite some time.
 
  If you lean towards having a TKL keyboard simply for the sake of not having the number pad in the way of your mouse, you might want to consider the Keychron Q14 Max. If you love the idea of the left-sided number pad but want a more typical layout, the [Keychron Q12 Max](https://www.keychron.com/products/keychron-q12-max-qmk-via-wireless-custom-mechanical-keyboard?variant=41003207491673&currency=USD&utm%5Fmedium=product%5Fsync&utm%5Fsource=google&utm%5Fcontent=sag%5Forganic&utm%5Fcampaign=sag%5Forganic&tw%5Fsource=google&tw%5Fadid=&tw%5Fcampaign=19681081342&gad%5Fsource=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqMikml92EffmX74HfhWYeWRAAlryhWrCv-obbmxIAfoF8TP14zHCBRoCxQQQAvD%5FBwE) might be a better fit for you. Conversely, if you are looking for an Alice layout and are unsure of the southpaw number pad, you can consider something like the 75% [Keychron Q10](https://extra-lessons.techidaily.com/updated-best-ranked-5-mobile-backdrop-change-applications-iphone-x78/).
 
 ![Keychron Q14 Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/keychron-q14-max.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  Keychron Q14 Max
 
 8/ 10 
@@ -220,3 +244,49 @@ The Keychron Q14 Max brings Kechron's high quality design standards to a southpa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premium-tech-for-home-screenings/"><u>[New] 2024 Approved  Premium Tech for Home Screenings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[New] 2024 Approved  The Symphony of Social Sharing  Adding Audio to Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precise-age-setting-made-simple-tiktoks-guide/"><u>[New] Precise Age Setting Made Simple  TikTok's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-videos-for-free-leading-enhancement-pages/"><u>[New] Transform Videos for Free  Leading Enhancement Pages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-vlc-player-from-live-viewing-to-recording-for-2024/"><u>[New] VLC Player  From Live Viewing to Recording for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-prime-fb-extra-tools-enhanced-firefox-version-compatibility-for-2024/"><u>[Updated] Prime FB Extra Tools  Enhanced Firefox Version Compatibility for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>[Updated] Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-aerial-editors-handbook-mastering-the-art-of-drone-video-editing/"><u>[Updated] The Aerial Editor's Handbook  Mastering the Art of Drone Video Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/boost-your-fb-ads-strategy-get-free-video-making-kit-for-2024/"><u>Boost Your FB Ads Strategy  Get Free Video-Making Kit for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exceptional-phones-topping-list-for-high-definition-video/"><u>Exceptional Phones  Topping List for High Definition Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-at-toms-computer-world-gear-insights/"><u>Expert Reviews at Tom's Computer World: Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computer-world-a-deep-dive-into-cutting-edge-hardware/"><u>Exploring Tom's Computer World: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-99-for-a-24-dell-monitor-with-freesync-technology/"><u>Grab the Deal: $99 for a 24 Dell Monitor with FreeSync Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-6s-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 6s</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-zoom-dates-into-iosandroid-and-desktop-plans/"><u>In 2024, Streamlining Zoom Dates Into iOS/Android and Desktop Plans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>In 2024, Unleash the Power of Zoom  Your Win10 Journey Begins Here</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-the-path-to-your-facebook-status-video-archive/"><u>In 2024, Unveiling the Path to Your Facebook Status Video Archive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computer-lab-in-depth-hardware-evaluations/"><u>Inside Tom's Computer Lab: In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-modos-papers-groundbreaking-133-inch-e-ink-display-new-open-source-technology-with-a-1200p-resolution-and-low-latency/"><u>Introducing Modos Paper's Groundbreaking 13.3-Inch E-Ink Display: New Open Source Technology with a 1200P Resolution and Low Latency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-modos-paper-monitor-a-game-changer-in-open-source-1200p-e-ink-technology-for-stunning-clarity-and-speed/"><u>Introducing the Modos Paper Monitor - A Game Changer in Open-Source, 1200P E-Ink Technology for Stunning Clarity and Speed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/"><u>Level Up Your Game with Our Top-Pick Dell S3222DGM Gaming Display Now at an All-Time Low - Grab It for $229</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-an-informed-journey-with-toms-expertise/"><u>Mastering Tech Choices - An Informed Journey with Tom’s Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-tom-a-hardware-guide/"><u>Navigating New Gadgets with Tom - A Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-detailed-gadget-analyses-unveiled/"><u>Navigating Technology with Tom: Detailed Gadget Analyses Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-with-toms-gear-guide/"><u>Navigating the Latest in Computing with Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-advice/"><u>Navigating the World of Electronics with Tom's Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-components-with-toms-hardware-insights/"><u>Navigating the World of PC Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-on-a-budget-experience-blur-free-visuals-with-the-159-240-hz-acer-nitro-curved-monitor/"><u>Next-Level Gaming on a Budget: Experience Blur-Free Visuals with the $159, 240 Hz Acer Nitro Curved Monitor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964488050-pre-order-now-the-revolutionary-8bitdo-retro-18-keyboard-available-models-for-nesfamicom-and-more-coming-this-july/"><u>Pre-Order Now: The Revolutionary 8BitDo Retro 18 Keyboard - Available Models for NES/Famicom & More Coming This July!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pushing-boundaries-the-astonishing-gaming-display-features-of-the-philips-evonia-model-49m2c8900-qd-oled-monitor/"><u>Pushing Boundaries: The Astonishing Gaming Display Features of the Philips Evonia Model 49M2C8900 QD-OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-stylish-and-powerful-gigabyte-aorus-fo32u2p-monitor-for-elite-gamers/"><u>Review of the Stylish & Powerful Gigabyte Aorus FO32U2P Monitor for Elite Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-trend-for-oled-displays-analysts-predict-yearly-shipment-of-more-than-1-million-screens/"><u>Rising Trend for OLED Displays: Analysts Predict Yearly Shipment of More Than 1 Million Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-ultra-hd-gaming-screens-the-best-offers-of-202n4/"><u>Save Big on Ultra HD Gaming Screens - The Best Offers of 202N4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-game-changing-34-alienware-curved-oled-screen-limited-time-offer-at-749-from-best-buy/"><u>Score the Game-Changing 34” Alienware Curved OLED Screen - Limited Time Offer at $749 From Best Buy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-starting-problems-in-grand-theft-auto-v/"><u>Troubleshooting Guide: Starting Problems in Grand Theft Auto V</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-videos-at-your-fingertips/"><u>Uninterrupted Videos at Your Fingertips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-reaction-video-masters-5-channels-to-inspire-your-content/"><u>Updated Reaction Video Masters 5 Channels to Inspire Your Content</u></a></li>
+</ul></div>
