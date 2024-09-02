@@ -1,7 +1,7 @@
 ---
 title: Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!
-date: 2024-08-28 17:22:53
-updated: 2024-08-29 12:21:47
+date: 2024-09-01T08:23:16.887Z
+updated: 2024-09-02T08:23:16.887Z
 tags:
   - hardware
 categories:
@@ -75,10 +75,16 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Setup and Connectivity: Not Just For Gamers
 
 ![Package contents for ROG Cetra True Wireless SpeedNova Headphones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/02-2024-04-05-16-15-09.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Establishing a Bluetooth connection is as simple as opening the charging case with the headphones in it and pairing it with your phone or other device. For audio, RGB lighting, and configuration options, you can install the [iPhone](https://apps.apple.com/us/app/armoury-crate/id1381270429) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003119/https://play.google.com/store/apps/details?id=com.asus.rog.roggamingcenter3) Armoury Crate app.
@@ -95,6 +101,9 @@ Close
 
 ![Woman's hands holding ROG Cetra True Wireless SpeedNova Headphones in case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/03-2024-04-05-16-21-12.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The included case, which flips up like a ring box, can be charged over its USB-C port or via wireless charging. I sometimes found the charging to be unreliable when placing the case on one of my wireless chargers, but that's true of most devices with the option.
@@ -107,10 +116,16 @@ Bill Loguidice / How-To Geek
 
  Each earbud supports tap and tap and hold gestures, which are enabled by default and can be disabled or reprogrammed. For instance, by default, tapping once on the left earbud plays or pauses, and tapping twice changes the ANC mode. I found that gesture support worked well regardless of the devices I was using them on. The feature is on the more sensitive side, so I'd often inadvertently tap when placing an earbud in my ear or adjusting its position, causing the built-in voice to announce a change in function.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Sound and Immersion: Lots of Options but Nothing Truly Elevated
 
 ![Side profile of woman as she touches ROG Cetra True Wireless SpeedNova earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/04-2024-05-11-17-58-22.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  By default, a flat sound profile is in place. For music, it's a bit muddy, with a bias towards bass. The sound is a bit more muddier sounding with ANC on. It certainly doesn't sound awful, but for the price, I was expecting something closer to the AirPods Pro. Fortunately, there are plenty of customization options and presets, although no matter what I used, the overall sound quality never really blew me away.
@@ -127,6 +142,10 @@ Close
 
  One feature I did appreciate, and something I don't think should be overlooked for multiplatform gamers, is how easy it is to switch between different platforms with the dongle. For instance, I could remove the dongle from my PC, have it automatically switch to my other audio source, then plug the dongle into my Nintendo Switch OLED and immediately start gaming on that device. This quick switchover holds for any of the platforms that support the dongle.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the ROG Cetra True Wireless SpeedNova Headphones?
 
  The [ROG Cetra True Wireless SpeedNova Headphones](https://www.amazon.com/ASUS-ROG-Headphones-Bone-Conduction-Microphones/dp/B0CXS16KNF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003119&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frog-cetra-true-wireless-speednova-headphones-review%2F&asc%5Fcampaign=Authority) are meant to solve the real problem of a lack of gaming-optimized earbuds. In terms of multi-platform versatility and lag-free performance, they rise to the challenge, but in terms of sound quality, they fall a bit flat.
@@ -157,3 +176,49 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-fix-reappear-hidden-watch-video-icon-for-2024/"><u>[New] Facebook Fix  Reappear Hidden Watch Video Icon for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximizing-gopro-content-integration-with-social-networks/"><u>[New] In 2024, Maximizing GoPro Content  Integration with Social Networks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focusflexpro-x7-smart-resizing-superior-quality/"><u>[Updated] FocusFlexPro X7  Smart Resizing, Superior Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-range-humor-development-unleash-your-wit/"><u>[Updated] Free-Range Humor Development  Unleash Your Wit</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-your-videos-farewell-scene/"><u>[Updated] Perfecting Your Video's Farewell Scene</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-silent-strike-sequels-the-next-10-best-samurai-adventures-for-2024/"><u>[Updated] Silent Strike Sequels  The Next 10 Best Samurai Adventures for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-tricks-from-the-80s-for-stunning-videos/"><u>2024 Approved  Iconic Tricks From the '80S for Stunning Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/beyond-the-screen-top-periscope-substitutes-for-smartphones/"><u>Beyond the Screen  Top Periscope Substitutes for Smartphones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-xs-how-to-unlock-a-disabled-iphone-xs-by-drfone-ios/"><u>Disabled iPhone XS How to Unlock a Disabled iPhone XS?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gain-permission-for-cameras-in-snapchat-easy-troubleshooting-steps/"><u>Gain Permission for Cameras in Snapchat – Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/google-reverses-stance-on-android-permissions-amidst-public-uproar/"><u>Google Reverses Stance on Android Permissions Amidst Public Uproar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-dominance-as-the-primary-creator-of-android-overladen-software/"><u>Google's Dominance as the Primary Creator of Android Overladen Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-cozi-transformed-our-home-into-an-oasis-of-order-a-testament-from-a-family/"><u>How Cozi Transformed Our Home Into an Oasis of Order: A Testament From a Family</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ios-16-borrowed-these-13-ideas-from-android-according-to-tech-experts/"><u>How iOS 16 Borrowed These 13 Ideas From Android, According to Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-removing-obsolete-android-programs-can-boost-your-phones-efficiency-and-speed/"><u>How Removing Obsolete Android Programs Can Boost Your Phone's Efficiency and Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-perform-a-soft-reset-on-android-devices/"><u>How to Perform a Soft Reset on Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-safeguard-against-identity-theft-by-securing-your-mobile-line/"><u>How to Safeguard Against Identity Theft by Securing Your Mobile Line</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-high-end-sophisticated-google-pixel-fold-the-epitome-of-folding-phones/"><u>Introducing the High-End, Sophisticated Google Pixel Fold - The Epitome of Folding Phones.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-key-locators-the-ultimate-guide/"><u>Leading Key Locators: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/live-subtitles-now-available-on-pixel-phones-during-call-conversations/"><u>Live Subtitles Now Available on Pixel Phones During Call Conversations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-mobile-maintenance-ultimate-strategies-for-debugging-your-android-device/"><u>Mastering Mobile Maintenance: Ultimate Strategies for Debugging Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prolong-your-androids-life-tailored-charge-alerts/"><u>Prolong Your Android's Life - Tailored Charge Alerts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-boox-tab-mini-a-compact-and-vibrant-colored-e-reader-alternative-for-amazon-kindle-users/"><u>Review of Boox Tab Mini: A Compact and Vibrant Colored E-Reader Alternative for Amazon Kindle Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-technology-must-haves-including-googles-new-pixel-ebeam-qled-tv-and-hisense-smart-earbuds/"><u>Score Big Savings on Technology Must-Haves - Including Google's New Pixel Ebeam QLED TV & Hisense Smart Earbuds!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securing-your-device-during-crisis-step-by-step-instructions-for-using-androids-lockdown-feature/"><u>Securing Your Device During Crisis: Step-by-Step Instructions for Using Android's Lockdown Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-traveling-locating-convenient-gas-stops-with-google-maps-directions-feature/"><u>Smart Traveling: Locating Convenient Gas Stops with Google Map's Directions Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-activating-developer-mode-and-usb-debugging-on-your-android-device/"><u>Step-by-Step Guide to Activating Developer Mode & USB Debugging on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-accessing-and-understanding-your-android-devices-notification-log/"><u>Step-by-Step Guide: Accessing and Understanding Your Android Device's Notification Log</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-on-configuring-and-implementing-the-android-debug-bridge-utility-adb/"><u>Step-by-Step Tutorial on Configuring & Implementing the Android Debug Bridge Utility (ADB)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steps-to-resolve-recurring-google-message-app-crashes/"><u>Steps to Resolve Recurring Google Message App Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-anticipated-ios-18-function-for-avid-android-users-a-closer-look/"><u>The Most Anticipated iOS 18 Function for Avid Android Users: A Closer Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-debate-does-a-phones-true-width-include-the-camera-bump-stand-with-me-or-face-off/"><u>The Ultimate Debate: Does a Phone's True Width Include the Camera Bump? Stand With Me or Face Off!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-critical-issues-with-usb-c-unveiled-essential-insights/"><u>Top 3 Critical Issues with USB-C Unveiled: Essential Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-upcoming-enhancements-set-to-transform-your-experience-on-the-google-play-store/"><u>Top 5 Upcoming Enhancements Set to Transform Your Experience on the Google Play Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-qdmtkx-695-a-review-of-the-best-android-smartphones/"><u>Top-Performing QDMTKX# 695: A Review of the Best Android Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-premium-case-selection-for-your-google-pixel-6-device/"><u>Ultimate Guide: Premium Case Selection for Your Google Pixel 6 Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-cs2-lag-and-reducing-high-ping-in-your-pc-gameplay/"><u>Ultimate Guide: Solving CS2 Lag & Reducing High Ping in Your PC Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-cost-effective-strategies-for-purchasing-your-next-smartphone/"><u>Uncovering Cost-Effective Strategies for Purchasing Your Next Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-reason-behind-google-pixel-6s-extended-charge-duration/"><u>Understanding the Reason Behind Google Pixel 6'S Extended Charge Duration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-mobility-how-switching-from-pc-to-smartphone-enhances-convenience/"><u>Unleashing the Power of Mobility: How Switching From PC to Smartphone Enhances Convenience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-top-5-must-try-ios-18-accessibility-enhancements-for-an-effortless-user-experience/"><u>Unlock Top 5 Must-Try iOS 18 Accessibility Enhancements for an Effortless User Experience</u></a></li>
+</ul></div>

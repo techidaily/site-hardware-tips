@@ -1,7 +1,7 @@
 ---
 title: Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse
-date: 2024-08-26 10:30:46
-updated: 2024-08-29 10:47:47
+date: 2024-09-01T08:21:40.485Z
+updated: 2024-09-02T08:21:40.485Z
 tags:
   - hardware
 categories:
@@ -134,6 +134,9 @@ Close
 
  There was also a nice lighting strip at the bottom base of the laptop that reflected onto surfaces and made the device look 10 times cooler if you're a sucker for lighting. As for the ventilation, plenty of vents were located on the laptop's bottom and sides.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Ports: Plenty of Options
 
  Plugging in was always convenient with the Legion Pro 7i 16\. On the left side of the laptop was a USB-A 3.2 Gen 1 port and a USB-C 3.2 Gen 2 port. On the right side, I found the headphone and microphone jack and another USB-A port. And finally, at the back of the laptop were all the other ports. The placement of these ports at the back made it much easier for me to plug in items and keep wires out of the way—especially the somewhat bulky charging cable.
@@ -142,22 +145,34 @@ Close
 
  Using the back panel, I could plug into the following ports from left to right—the charging port, two USB-A ports (one with Always On), an HDMI 2.1 port, a USB-C port, and the all-important [RJ45 (Ethernet) port for a faster connection while gaming](https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-10-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Inputs: The Per-Key RGB Keyboard and Touchpad
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 partially open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-pro-7i-16-gen-9-partially-open_53599670631_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  One of the highlights of my experience with the Legion Pro 7i 16 was the keyboard's custom per-key RGB lighting. I was easily able to customize my lighting and switch profiles through the[Lenovo Vantage](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fsoftware%2Fvantage) app's Lenovo Spectrum section. There were six customizable profiles, and selecting the keys was as easy as clicking or dragging. I also customized the lighting strip on the laptop's bottom edge. Once set up, a quick tap of the Fn button and the space bar switched to the next lighting profile.
 
 ![Per-key customization in the Lenovo Spectrum page in the Lenovo Vantage app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-europe-towns-4k-o-scenic-relaxation-film-with-peaceful-relaxing-music-and-nature-video-ultra-hd-youtube-personal-microsoft-edge-6_23_2024-7_21_38-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  As for the keyboard's functionality, its 1.5mm key travel felt great to game on, with a nice spring back and responsiveness without feeling too loose. I never made fatal typos while putting in gaming commands, nor did I struggle to write emails or get fatigue from too-stiff keys. In fact, it felt so nice to type on that I was reminded of why I compare other keyboards to the Legion series' typefeel.
 
  The buttonless touchpad was large, measuring at over 4.7 inches in length, but it never felt like it got in the way. In fact, I preferred to use the touchpad for most activities unless I was playing a game that required more comfortable precision for particular commands. The regular shortcuts like pinching to zoom in or out or dual-finger scrolling were easy to execute, with a quick response and no freezing.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Display and Graphics: A Glorious Screen for Medium Consumption
 
  The Legion Pro 7i 16's display won me over, and is one of the selling points of this device. It has a 2K WQXGA (2,560 x 1,600) with DisplayHDR 400 and a slew of other integrations like Dolby Vision and low blue light. It's also compatible with [NVIDIA's G-Sync](https://tech-haven.techidaily.com/winchatgpt-setup-guide/), which helps prevent screen tearing during fast-paced games. I was also able to consistently eke out impressive frame rates on resource-heavy games, thanks to its 240Hz refresh rate and the option to make the refresh rate adaptive. With a helpful anti-glare coating on the non-touchscreen display, I could game or stream pretty much anywhere—even in my bright living room underneath a sunny skylight. And the low blue light helped keep my tired, overworked eyes from feeling quite as much strain.
@@ -178,6 +193,9 @@ Close
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 playing the game "Assassin's Creed Valhalla."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/hero-gaming-image-assassins-creed-valhalla.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  Gaming with the Legion Pro 7i 16 was a pleasure, as no matter what I played, the device provided consistent performance. For resource-heavy games, I adjusted the settings to GPU overclock, balanced thermal mode with Legion Ai Engine+ turned on, and gaming mode as dGPU (dedicated graphics processor only). Games like "Warhammer 40,000: Darktide" and "Assassin's Creed Valhalla" played seamlessly this way, even with most of the graphics details set on high. I achieved low latency with frame rates of up to 226fps, and with these settings, the two games took about 54% of the GPU, 3% of the CPU, and 47% of the RAM to run.
@@ -200,6 +218,9 @@ Close
 
  The dual microphone system was perfect for gaming (unless you prefer a headset) and captured my voice clearly, even while singing. During singing or louder speech, the noise cancellation kicked in, which resulted in some audio drop-off entirely. This was far less than I've experienced, however, with other microphone systems, and it otherwise did a good job of putting my voice front and center in just about any situation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Battery and Charging: A Typical Drain for a Gaming Laptop
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-pro-7i-16-gen-9-with-is-charger_53599878873_o.jpg) 
@@ -210,6 +231,9 @@ Sergio Rodriguez / How-To Geek
 
  While I _did_ have to plug the Legion in pretty frequently, it also charged fairly fast to compensate. On average, I saw a gain of 1.94% per minute, which means it charged fully in less than an hour. The 330W battery delivers, as does the Super Rapid Charge compatibility, so even if I only had a few minutes to plug in, I was able to keep using the Legion. Since the battery is _so_ large, it, along with the bulky gaming laptop, was a bit of a bear to tote around with me. Hefting around an unwieldy Legion was a lot, and I can't imagine bringing it with me, say, to an airport. It's doable but cumbersome. I should also note that Lenovo offers a smaller 140W AC adapter for those who prefer more portability, but this only solves part of that problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9 Laptop?
 
  For all its features, the [Lenovo Legion Pro 7i 16 (Gen 9)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flenovo-legion-pro-7i-gen-9-%2816-inch-intel%29%2Flen101g0034) gaming laptop is a premium pick for moderate to competitive gamers looking for their next device. But because the processing delivers on everyday tasks, it's also a great choice for casual gamers who want the option of a workhorse and a gaming laptop combined.
@@ -242,3 +266,53 @@ The Lenovo Legion Pro 7i 16 Gen 9 gaming laptop is packed with premium features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-harnessing-instagrams-potential-with-video-posts/"><u>[New] 2024 Approved  Harnessing Instagram's Potential with Video Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides-for-2024/"><u>[New] The Ultimate Cheat Sheet  Inserting Vimeo Videos Into Slides for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>[Updated] 2024 Approved  Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-guide-invert-playback-videos-android/"><u>[Updated] 2024 Approved  Step-by-Step Guide  Invert Playback Videos Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-meme-mastery-iphone-edition/"><u>[Updated] Meme Mastery  IPhone Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-guide-to-adding-filters-effects-and-masks-in-google-meet/"><u>2024 Approved  Guide to Adding Filters, Effects, and Masks in Google Meet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/8gb-gpu-capabilities-ideal-for-casual-games-or-need-more/"><u>8GB GPU Capabilities: Ideal for Casual Games or Need More?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-guide-to-usb-cable-colors-what-do-blue-yellow-and-red-mean/"><u>A Comprehensive Guide to USB Cable Colors: What Do Blue, Yellow and Red Mean?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-essential-tech-gadget-maintenance-kits-a-must-have-for-every-device/"><u>Affordable Essential Tech Gadget Maintenance Kits: A Must-Have for Every Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-non-gamer-desktop-discover-the-ideal-250-custom-pc-built-just-for-you/"><u>Affordable Non-Gamer Desktop: Discover the Ideal $250 Custom PC Built Just For You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-fluid-motion-tech-demonstrates-self-sufficient-frame-creation-without-custom-ai-equipment/"><u>AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-next-gen-ai-processor-coming-to-power-the-asus-rog-zephyrus-g16/"><u>AMD's Next-Gen AI Processor Coming to Power the ASUS ROG Zephyrus G16</u></a></li>
+<li><a href="https://driver-download.techidaily.com/atheros-drivers-installation-steps-and-tips-for-windows-users/"><u>Atheros Drivers Installation: Steps & Tips for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-specs-understanding-that-pcie-numbers-arent-key-for-modern-graphics-drives/"><u>Beyond the Specs: Understanding That PCIe Numbers Aren't Key for Modern Graphics Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-wireless-earbuds-exploring-the-resemblance-between-samsung-galaxy-buds-cups-and-airpods/"><u>Comparing Wireless Earbuds: Exploring the Resemblance Between Samsung Galaxy Buds Cups and AirPods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/competitive-showdown-microsoft-resurrects-surface-laptop-rivals-macbook-air/"><u>Competitive Showdown: Microsoft Resurrects Surface Laptop, Rivals MacBook Air</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-raycon-daily-use-headphones-pro-impressive-longevity-but-limited-features/"><u>Comprehensive Evaluation of Raycon Daily Use Headphones Pro: Impressive Longevity but Limited Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creative-ideas-to-upcycle-vintage-televisions-hiding-in-your-attic-or-cellar/"><u>Creative Ideas to Upcycle Vintage Televisions Hiding in Your Attic or Cellar</u></a></li>
+<li><a href="https://techidaily.com/1723808268031-desktop-icon-shuffle-stop-it-here-simple-fixes-in-a-nutshell/"><u>Desktop Icon Shuffle? Stop It Here: Simple Fixes in a Nutshell!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-availability-where-can-i-find-ultrawide-televisions/"><u>Discovering Availability: Where Can I Find Ultrawide Televisions?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-experience-with-these-fixes-for-cod-modern-warfare-stability-issues/"><u>Enhance Your Gaming Experience with These Fixes for Cod: Modern Warfare Stability Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-immersion-in-gaming-with-the-transition-to-curved-ultrawide-screen-technology/"><u>Enhanced Immersion in Gaming with the Transition to Curved Ultrawide Screen Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-smart-innovations-with-the-latest-ai-upgrades-for-samsung-galaxy-s22-users/"><u>Experience Next-Level Smart Innovations with the Latest AI Upgrades for Samsung Galaxy S22 Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/explore-the-best-data-recovery-programs-for-your-iphone-with-ios-17-top-2024-recommendations/"><u>Explore the Best Data Recovery Programs for Your iPhone with iOS 17: Top 2024 Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-compact-power-asus-launches-miniature-nuc-devices-with-next-gen-rtx-4000-series-graphics/"><u>Explore the Compact Power: ASUS Launches Miniature NUC Devices with Next-Gen RTX 4000 Series Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-fresh-release-of-amazonn-echo-spot-the-innovative-home-device/"><u>Explore the Fresh Release of Amazon'n Echo Spot - The Innovative Home Device!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fairphones-innovative-fairbuds-tested-user-friendly-replacement-earphones-with-sound-performance-review/"><u>Fairphone's Innovative Fairbuds Tested: User-Friendly Replacement Earphones with Sound Performance Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/galaxies-and-gadgets-collide-the-tale-of-how-samsung-put-the-damper-on-my-celestial-ring-aspirations/"><u>Galaxies and Gadgets Collide: The Tale of How Samsung Put the Damper on My Celestial Ring Aspirations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-poco-c50-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Poco C50 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/identifying-factors-for-fluctuating-frames-per-second-fps-issues/"><u>Identifying Factors for Fluctuating Frames Per Second (FPS) Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-x5-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco X5 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v30-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V30 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/incredible-tech-savings-grab-the-anker-nano-portable-charger-pixel-wear-smartwatch-and-blink-security-camera-bundle/"><u>Incredible Tech Savings: Grab the Anker Nano Portable Charger, Pixel Wear Smartwatch, and Blink Security Camera Bundle!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-integrate-ai-in-writing-software/"><u>Innovative Ways to Integrate AI in Writing Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/jabra-finalizes-production-of-premium-elite-and-talk-enabled-wireless-headphones/"><u>Jabra Finalizes Production of Premium Elite and Talk-Enabled Wireless Headphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/key-factors-to-consider-while-selecting-the-ideal-power-plant/"><u>Key Factors to Consider While Selecting the Ideal Power Plant</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-forza-horizon-4-startup-problems-top-fixes-and-strategies-for-a-smooth-experience/"><u>Mastering Forza Horizon 4 Startup Problems: Top Fixes and Strategies for a Smooth Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-your-pcs-performance-for-gaming-a-cost-free-tune-up-guide/"><u>Maximizing Your PC's Performance for Gaming: A Cost-Free Tune-Up Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-hdmi-standards-spotting-differences-between-21-and-21a-cables/"><u>Navigating Through HDMI Standards - Spotting Differences Between 2.1 and 2.1a Cables</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-tips-streamline-screen-capture-on-dell-systems-for-2024/"><u>Quick Tips  Streamline Screen Capture on Dell Systems for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-discipline-banning-unwanted-accounts-from-your-page/"><u>Social Media Discipline: Banning Unwanted Accounts From Your Page</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-edge-40-neo-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Edge 40 Neo Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-importance-of-a-central-hub-in-managing-your-smart-home-ecosystem/"><u>Understanding The Importance of A Central Hub in Managing Your Smart Home Ecosystem</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-mystery-how-artificial-intelligence-enhances-your-logitech-mouse-experience/"><u>Unveiling the Mystery: How Artificial Intelligence Enhances Your Logitech Mouse Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwanted-watchfulness-alert-the-unseen-cameras-lurking-in-your-eco-friendly-cleaning-device/"><u>Unwanted Watchfulness Alert: The Unseen Cameras Lurking in Your Eco-Friendly Cleaning Device!</u></a></li>
+</ul></div>

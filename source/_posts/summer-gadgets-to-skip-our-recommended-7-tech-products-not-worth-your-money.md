@@ -1,7 +1,7 @@
 ---
 title: "Summer Gadgets to Skip: Our Recommended 7 Tech Products Not Worth Your Money"
-date: 2024-08-26 15:53:47
-updated: 2024-08-29 11:31:53
+date: 2024-09-01T08:22:57.112Z
+updated: 2024-09-02T08:22:57.112Z
 tags:
   - hardware
 categories:
@@ -53,18 +53,27 @@ Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation
 
 ![Samsung Watch 7 Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/watch-7-product-image-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #####  Samsung Galaxy Watch 7
 
 The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It resembles the Galaxy Watch 6 but features an enhanced Exynos W1000 chipset, promising significantly improved battery life and performance.
 
 [$300 at Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch7%2F) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004220/https://www.verizon.com/connected-smartwatches/samsung-galaxy-watch7/) [$350 at Amazon](https://amazon.com/dp/B0D1YP5ZQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3  Sonos Arc 
 
  When the [original Sonos Arc](https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70e-device-by-drfone-android/) dropped back in 2020, it disrupted the TV soundbar industry. This was a premium soundbar with Dolby Atmos, a sleek design, and excellent sound quality. However, it was quite expensive when it launched at $799\. What's worse is that it actually got a price bump to [$899](https://www.techradar.com/reviews/sonos-arc#:~:text=The%20Sonos%20Arc%20has%20long,which%20delivers%20high%2Dimpact%205.0.), and it's currently [$872.50](https://www.amazon.com/dp/B087CCKWWP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) for the white model or $889.99 for the black one.
 
 ![Sonos Arc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/sonos-arc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Sonos_
 
  With the [second generation](https://www.techradar.com/televisions/soundbars/sonos-arc-2-set-for-2024-launch-with-next-gen-speaker-tech-and-a-serious-price-tag) apparently around the corner, it makes little sense to buy the original model at such a high price tag. It's worth noting that the 2nd-gen Arc will reportedly cost $1,200, but it'll likely have even better sound quality. If you're an audiophile, and no price is too high, the 2nd-gen Sonos Arc is worth the wait. If you want to upgrade your TV's sound quality at a reasonable price, check out our list of the [best soundbars of 2024](https://discord-videos.techidaily.com/how-to-keep-the-conversation-flowing-on-discord/) instead.
@@ -81,6 +90,9 @@ _Sonos_
 
 Hannah Stryker / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## 5  Nintendo Switch 
 
  The Nintendo Switch is one of the oldest "current-gen" consoles in existence. It was released in 2017, long before [PC-grade handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) powered by advanced SoCs like the [Steam Deck](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) entered the mainstream. Plus, the Switch was [underpowered even at launch](https://www.xda-developers.com/why-switch-cpu-underpowered-switch-2-preview/#:~:text=As%20a%20recap%2C%20the%20Nintendo,launch%20the%20CPU%20was%20underpowered.), so it's fair to say that a Switch 2 is long overdue. The OLED version was a nice improvement, however!
@@ -91,6 +103,9 @@ Hannah Stryker / How-To Geek
 
 Goran Damnjanovic/How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  NVIDIA RTX-40 Series and AMD RX 7000 Series GPUs 
 
  The [NVIDIA RTX-50 Series](https://www.guru3d.com/story/nvidia-geforce-rtx-50series-blackwell-to-launch-in-january-2025-at-ces/) will reportedly launch in January 2025; [AMD RX 8000 Series](https://www.digitaltrends.com/computing/amd-rdna-4-news-release-date-price-rumors/) RDNA 4, along with a long-rumored [RX 7000 Series RDNA 3 refresh](https://wccftech.com/amd-radeon-rx-7950-xtx-7950-xt-7800-xt-7700-xt-7600-xt-7500-xt-rdna-3-gpus-show-up-in-rocm-5-6/), is also coming out at around the same time. It's worth noting that RDNA 4 GPUs focus heavily on ray-tracing performance and, according to [rumors](https://www.pcgamesn.com/amd/radeon-7900-xtx-faster-rdna-4), AMD's next-gen GPUs can't beat AMD's outgoing flagship GPU, the RX 7900 XTX.
@@ -101,6 +116,9 @@ Goran Damnjanovic/How-To Geek
 
 Justin Duino / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7  AMD Ryzen 7000 Series and 14th Gen Intel CPUs 
 
  AMD Ryzen 9000 desktop CPUs are hopefully coming out in [August 2024](https://tools.techidaily.com). They promise a 10–20% performance uplift, so now is perhaps the worst time to buy a Ryzen 7000 Series CPU. Although CPUs like the [Ryzen 5 7600X](https://www.amazon.com/AMD-7600X-12-Thread-Unlocked-Processor/dp/B0BBJDS62Nhttps://www.amazon.com/AMD-7600X-12-Thread-Unlocked-Processor/dp/B0BBJDS62N?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) are already excellent value, it's possible that they'll get even cheaper when the new generation drops.
@@ -125,3 +143,44 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes-for-2024/"><u>[Updated] Echoes of Antiquity  Tracing the Footsteps of Ancient Scribes for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-navigating-new-user-registration-on-twitter/"><u>[Updated] Navigating New User Registration on Twitter</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-leaders-in-fan-following-top-10-global-youtubers-subs/"><u>[Updated] The Leaders in Fan Following  Top 10 Global YouTubers' Subs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-giggle-gang-exploring-the-best-memetic-apps/"><u>2024 Approved  Giggle Gang  Exploring the Best Memetic Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/audio-recording-made-easy-free-x-recorder-for-pc/"><u>Audio Recording Made Easy  Free X-Recorder for PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-techniques-for-capturing-minute-details-on-video/"><u>Expert Techniques for Capturing Minute Details on Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-se-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone SE Passcode Easily Video Inside</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-gt-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50 GT to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-asus-rog-phone-8-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Asus ROG Phone 8 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-design-of-the-new-jabra-elite-series-gen-2-with-revolutionary-smart-case-technology/"><u>Innovative Design of the New Jabra Elite Series - Gen 2 with Revolutionary Smart Case Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-9-versus-pixel-9-pro-and-xl-variants-a-comprehensive-showdown-explained/"><u>Pixel 9 Versus Pixel 9 Pro and XL Variants: A Comprehensive Showdown Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-yourself-for-innovation-samsung-gears-up-to-release-galaxy-s23-lineup-in-february/"><u>Prepare Yourself for Innovation: Samsung Gears Up to Release Galaxy S23 Lineup in February</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-web-picks-for-stylish-3d-sparkling-text/"><u>Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-phone-charger-secure-it-with-our-unique-plug-lock/"><u>Protect Your Phone Charger - Secure It with Our Unique Plug Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-instant-access-to-your-samsung-galaxys-camera-app/"><u>Quick Guide: Instant Access to Your Samsung Galaxy's Camera App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-start-guide-to-resolve-latency-problems-in-assassins-creed-valhalla/"><u>Quick-Start Guide to Resolve Latency Problems in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/regular-maintenance-alert-setup-automatic-weekly-reboot-for-your-samsung-galaxy-device/"><u>Regular Maintenance Alert: Setup Automatic Weekly Reboot for Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-device-charge-with-new-satechi-stands-supporting-both-qi2-and-magsafe-technology/"><u>Revolutionize Your Device Charge with New Satechi Stands Supporting Both Qi2 and MagSafe Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-sharing-showdown-obs-vs-twitch-studio-face-off-for-2024/"><u>Screen Sharing Showdown  OBS vs Twitch Studio Face-Off for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-stable-gameplay-in-pathfinder-wrath-of-the-righteous-no-more-crashing-issues/"><u>Solution Found for Stable Gameplay in Pathfinder: Wrath of the Righteous No More Crashing Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-access-and-modify-image-metadata-on-android-smartphones/"><u>Step-by-Step Guide to Access and Modify Image Metadata on Android Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-to-a-new-default-google-account-on-your-android-device/"><u>Step-by-Step Guide: Switching to a New Default Google Account on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-troubleshooting-for-android-phones-stuck-in-emergency-call-mode/"><u>Step-by-Step Troubleshooting for Android Phones Stuck in Emergency Call Mode</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-prevent-intrusive-phone-calls-using-androids-call-blocking-features/"><u>Step-by-Step Tutorial: How to Prevent Intrusive Phone Calls Using Android's Call-Blocking Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-preventing-apps-from-connecting-to-the-web-on-your-android-phone/"><u>Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stop-automatic-bluetooth-pairing-on-android-a-simple-hack/"><u>Stop Automatic Bluetooth Pairing on Android: A Simple Hack</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-managing-and-reducing-android-phone-temperature/"><u>Strategies for Managing and Reducing Android Phone Temperature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/syncing-and-streaming-your-smartphone-soundtrack-via-windows-11/"><u>Syncing and Streaming Your Smartphone Soundtrack via Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-portable-power-stations-a-must-have-for-all/"><u>The Ultimate Guide to Portable Power Stations - A Must-Have for All!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-strategy-for-posting-srt-content-socially/"><u>The Ultimate Strategy for Posting SRT Content Socially</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-benefits-of-postponing-your-gaming-laptop-purchase-until-2025/"><u>Top 4 Benefits of Postponing Your Gaming Laptop Purchase Until 2025</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-full-customization-potential-with-the-drop-cstm65-the-ultimate-mechanical-keyboard-for-personalized-use/"><u>Unlock Full Customization Potential with the Drop CSTM^65: The Ultimate Mechanical Keyboard for Personalized Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-perks-of-private-space-on-android-15-understanding-its-functionality-and-advantages/"><u>Unveiling the Perks of Private Space on Android 15: Understanding Its Functionality and Advantages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/what-is-5g-ultra-connection-uc-and-how-does-it-impact-your-smartphone-experience/"><u>What Is 5G Ultra-Connection (UC) and How Does It Impact Your Smartphone Experience?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-are-phone-sizes-increasing-the-user-demand-explanation/"><u>Why Are Phone Sizes Increasing? The User Demand Explanation</u></a></li>
+</ul></div>

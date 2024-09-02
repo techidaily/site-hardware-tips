@@ -1,7 +1,7 @@
 ---
 title: "Essential Dimension Verification: The First Step in Assembling Your Custom PC"
-date: 2024-08-27 20:50:43
-updated: 2024-08-29 12:27:23
+date: 2024-09-01T08:21:32.014Z
+updated: 2024-09-02T08:21:32.014Z
 tags:
   - hardware
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  When building a PC, you have to do your due diligence to make sure your hardware is compatible. However, an important aspect that even expert builders can overlook is the physical dimensions of your hardware. So, before you build your PC, here are the measurements you need to check.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Motherboard and Case Form Factor
 
  It might seem obvious, but you must ensure that your motherboard fits your case. Thankfully, this is a standardized system. Motherboards come in a [few different sizes](https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-9a-drfone-by-drfone-virtual-android/), the most common being ATX (Full ATX), mATX (MicroATX), and Mini-ITX.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  Motherboards generally utilize the same mounting holes, which means you can fit a smaller motherboard into a larger case. I use a mATX motherboard in a full tower case, and I still double-checked that the case was mATX compatible before buying it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Graphics Card Length, Width, and Height
 
  Graphics cards have arguably become the most "bloated" piece of hardware—even budget models now feature overbuilt cooling solutions with triple-fan configurations and heatsinks that extend far beyond the graphics card's PCB (Printed Circuit Board).
@@ -51,6 +57,9 @@ Hannah Stryker / How-To Geek
 
  As for slot space, it's common for modern GPUs to take up two or even three PCI slots. If you plan on using your other PCI slots for expansion cards, your best bet will be a [PCI riser cable](https://www.amazon.com/LINKUP-Vertical-Compatible-Designed-Reverse/dp/B0CN9R8QQ4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003295&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbefore-i-build-a-pc-i-triple-check-these-measurements%2F&asc%5Fcampaign=Evergreen) that lets you install the expansion card in a different spot. Also, you should have adequate room for airflow underneath your GPU, so avoid cramming a triple-slot GPU into a tiny case.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  CPU Cooler Height and RAM Clearance
 
  Similar to GPUs, air CPU coolers are larger than ever. Consumers demand powerful [aftermarket cooling](https://some-skills.techidaily.com/2024-approved-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/) that can keep their CPU temps low to maintain their maximum boost clocks for longer. The issue is that CPU coolers have to be physically large to dissipate heat fast enough, which means they can get too wide and tall for your PC.
@@ -67,12 +76,19 @@ Hannah Stryker / How-To Geek
 
 Ismar Hrnjicevic / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Storage Drive Bays
 
  There are two main storage bay sizes—2.5" and 3.5". 2.5" is reserved for SSDs and slim laptop-style HDDs, whereas 3.5" is used for traditional HDDs. Front-facing 3.5" bays are for old-school memory card readers, CD, DVD, and floppy drives, etc. Most modern PC cases no longer have front drive bays, but some of them have gotten rid of 3.5" bays altogether. If you plan to [buy a full-size HDD](https://video-capture.techidaily.com/updated-2024-approved-obs-full-screen-troubles-now-under-control/), look for a case that supports at least one or two 3.5" drives.
 
  Additionally, if you're working with a smaller case, it might only have room for one or two 2.5" drives, which can become an issue if you want to upgrade your storage down the line. So, plan ahead and either buy a larger SSD or a case that supports several 2.5" drives.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  Case Fan Sizes
 
  Although [case fans are universal](https://fox-cloud.techidaily.com/2024-approved-one-stop-guide-for-mastering-srt-conversions-and-formats/), you should pay close attention to what sizes your case supports. In most cases (pun intended), you can't fit a 140mm fan on a panel designed to support only up to 120mm. Likewise, if you install smaller case fans in a place where large fans should go, you'll compromise esthetics and a bit of airflow. That's why you should first check the fan sizes that your case supports.
@@ -91,6 +107,10 @@ Justin Duino / How-To Geek
 
  PSUs generally have cable lengths listed on the spec sheet. If your case doesn't mention anything about cable lengths, it's time to bust out the tape measure and check it manually, assuming you've already bought the case or can check it in-person.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  Radiator Size
 
  If you're a fan of liquid cooling, you should know that radiator sizes aren't fully standardized, but fortunately, they typically follow case fan sizes. They typically support 120mm or 140mm fans, so the most common sizes are 120mm, 140mm, 240mm, 280mm, 360mm, and 420mm. Your PC case will tell you the maximum supported radiator size in each location; they're usually mounted at the top or front of the case.
@@ -115,3 +135,68 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-androids-elite-10-gb-games-simulators/"><u>[New] Android's Elite 10 GB Games Simulators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-beyond-the-screen-shaping-perceptions-on-instagram-through-captions-for-2024/"><u>[New] Beyond the Screen - Shaping Perceptions on Instagram Through Captions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-embedding-yt-playlists-seamlessly-on-webpages-for-2024/"><u>[New] Embedding YT Playlists Seamlessly on Webpages for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlined-screens-on-chrome-os/"><u>[New] In 2024, Streamlined Screens on Chrome OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-wedding-timers-android-and-ios-top-10-picks/"><u>[Updated] Perfect Wedding Timers  Android & iOS' Top 10 Picks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tie-speeches-and-music-to-slide-contents-in-ppt-for-2024/"><u>[Updated] Tie Speeches and Music to Slide Contents in PPT for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-sharpening-a-selective-approach-to-photos/"><u>2024 Approved  Focus Sharpening  A Selective Approach to Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-framefinesse-optimizing-visuals-on-instagram/"><u>2024 Approved  FrameFinesse  Optimizing Visuals on Instagram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>2024 Approved  Prowess in Phrasing  Best Tags for Gamer Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-blueprint-of-movies-a-scripts-role/"><u>2024 Approved  The Blueprint of Movies  A Script's Role</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>2024 Approved  Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-choice-with-the-most-secure-waterproof-phonesleeves-on-the-market/"><u>Ace Your Choice with the Most Secure Waterproof Phonesleeves on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/android-update-timeline-revealed-for-pixel-6-just-three-years-worth-despite-previous-expectations-of-five/"><u>Android Update Timeline Revealed for Pixel 6: Just Three Years Worth, Despite Previous Expectations of Five</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-android-applications-the-ultimate-list-of-top-5-plant-identification-tools/"><u>Best Android Applications: The Ultimate List of Top 5 Plant Identification Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clearing-data-storage-on-android-a-comprehensive-tutorial/"><u>Clearing Data Storage on Android: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complete-walkthrough-freeing-up-space-by-deleting-the-trash-on-android-phones/"><u>Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-your-unique-android-experience-with-no-charge-a-step-by-step-guide/"><u>Crafting Your Unique Android Experience with No Charge: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-android-lock-screen-adjusting-and-styling-the-clock-display-for-a-personal-touch/"><u>DIY Android Lock Screen: Adjusting and Styling the Clock Display for a Personal Touch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-ignore-these-crucial-phone-features-why-they-matter/"><u>Don't Ignore These Crucial Phone Features - Why They Matter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enjoy-cinema-on-the-go-best-no-cost-mobile-apps-for-movie-lovers/"><u>Enjoy Cinema on the Go: Best No-Cost Mobile Apps for Movie Lovers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-steps-to-secure-your-android-device-against-theft/"><u>Essential Steps to Secure Your Android Device Against Theft</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-picked-5-apple-watch-apps-guaranteed-to-optimize-your-sleep-quality/"><u>Explore Our Picked 5 Apple Watch Apps Guaranteed to Optimize Your Sleep Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-casual-player-to-pro-on-android-essential-tips-and-advice-for-gamers/"><u>From Casual Player to Pro on Android: Essential Tips & Advice for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-update-error-dealing-with-windows-1ves-0x80240034-troubleshooting-guide/"><u>How to Overcome the Update Error: Dealing with Windows 1Ve's 0X80240034 Troubleshooting Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-playback-problem-why-cant-i-watch-video-on-sony-a6400/"><u>In 2024, Playback Problem  Why Can't I Watch Video on Sony A6400?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-artisans-guide-to-blending-sound-with-visual-media-on-youtube/"><u>In 2024, The Artisan's Guide to Blending Sound with Visual Media on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-journey-on-youtube-start-here-with-8-tips-for-2024/"><u>Income Journey on YouTube - Start Here with 8 Tips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-machine-learning-for-personalized-content/"><u>Leveraging Machine Learning for Personalized Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-android-app-permissions-a-comprehensive-guide/"><u>Mastering Android App Permissions: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-use-of-googles-magic-eraser-a-comprehensive-guide-for-android-and-ios-users/"><u>Mastering the Use of Google’s Magic Eraser: A Comprehensive Guide for Android & iOS Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/material-you-design-arrives-on-five-popular-android-devices-with-upcoming-android-12-update/"><u>Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/messaging-showdown-google-messages-vs-samsung-messages-on-android/"><u>Messaging Showdown: Google Messages Vs. Samsung Messages on Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-exploring-vn-video-editors-capabilities-on-pc-for-2024/"><u>New Exploring VN Video Editors Capabilities on PC for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-8-best-photo-viewers-for-windows-10-users/"><u>New The Ultimate List 8 Best Photo Viewers for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/oneplus-10t-unveiled-experience-rapid-charge-speeds-and-new-android-12-interface/"><u>OnePlus 10T Unveiled: Experience Rapid Charge Speeds & New Android 12 Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-issues-with-unread-texts-on-samsung-galaxy-phones/"><u>Overcoming Issues with Unread Texts on Samsung Galaxy Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/perfectly-syncing-android-iconography-with-wallpapers-a-comprehensive-guide/"><u>Perfectly Syncing Android Iconography with Wallpapers: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-privacy-how-to-set-up-call-filtering-for-strangers-on-android-phones/"><u>Protect Your Privacy: How to Set Up Call Filtering for Strangers on Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sad-news-the-demise-of-a-beloved-android-version-15-function-due-to-googles-changes/"><u>Sad News: The Demise of a Beloved Android Version 15 Function Due to Google's Changes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/setting-your-favorite-application-as-the-primary-one-in-android-a-step-by-step-guide/"><u>Setting Your Favorite Application as the Primary One in Android: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simple-tips-how-to-enable-call-transfer-features-on-all-phones/"><u>Simple Tips: How to Enable Call Transfer Features on All Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-secrets-to-score-up-to-200-discount-on-new-samsung-electronics/"><u>Slash Prices: Secrets to Score up to $200 Discount on New Samsung Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-installing-non-google-play-store-apps-on-your-android-device/"><u>Step-by-Step Guide: Installing Non-Google Play Store Apps on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-your-location-on-google-play-store/"><u>Step-by-Step Guide: Switching Your Location on Google Play Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-tweaking-your-android-devices-vibrating-intensity-settings/"><u>Step-by-Step Guide: Tweaking Your Android Device's Vibrating Intensity Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tactics-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-giant-google-retracts-new-app-access-rules-due-to-widespread-criticism/"><u>Tech Giant Google Retracts New App Access Rules Due to Widespread Criticism</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-epitome-of-visual-perfection-top-10-monitors-for-mac-users-for-2024/"><u>The Epitome of Visual Perfection - Top 10 Monitors for Mac Users for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-intriguing-power-struggle-within-tropico-a-comprehensive-game-review/"><u>The Intriguing Power Struggle Within Tropico: A Comprehensive Game Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-secret-ingredient-to-seamless-household-harmony-discovering-cozis-magic-with-my-family/"><u>The Secret Ingredient to Seamless Household Harmony - Discovering Cozi's Magic with My Family</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tutorial-implementing-interactive-buttons-in-android-applications/"><u>The Ultimate Tutorial: Implementing Interactive Buttons in Android Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-14-amazing-android-innovations-that-are-worth-your-attention/"><u>Top 14 Amazing Android Innovations That Are Worth Your Attention</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-cyclists-choice-ultimate-guide-to-the-premier-bicycle-smartphone-holders/"><u>Top-Rated Cyclist's Choice: Ultimate Guide to the Premier Bicycle Smartphone Holders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-text-message-issues-why-your-android-device-may-not-be-getting-sms/"><u>Troubleshooting Text Message Issues: Why Your Android Device May Not Be Getting SMS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-elite-selection-of-google-pixel-6-pro-cases-in-2e23/"><u>Ultimate Guide: Elite Selection of Google Pixel 6 Pro Cases in 2E23</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-durable-google-pixel-case-brands-your-complete-guide-to-safekeeping/"><u>Ultimate Selection of Durable Google Pixel Case Brands : Your Complete Guide to Safekeeping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-appeal-what-drives-users-towards-stock-android-devices/"><u>Understanding the Appeal: What Drives Users Towards Stock Android Devices?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-budget-smartphones-with-inferior-glass-can-end-up-being-more-expensive-in-the-long-run/"><u>Why Budget Smartphones with Inferior Glass Can End Up Being More Expensive in the Long Run</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-simple-and-bland-looks-define-top-tier-smartphones-a-look-at-quality-over-flash/"><u>Why Simple and Bland Looks Define Top-Tier Smartphones: A Look at Quality Over Flash</u></a></li>
+</ul></div>

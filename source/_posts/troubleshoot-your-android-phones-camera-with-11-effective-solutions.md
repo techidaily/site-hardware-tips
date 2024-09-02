@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Android Phone's Camera with 11 Effective Solutions
-date: 2024-08-28 19:45:15
-updated: 2024-08-29 10:11:19
+date: 2024-09-01T08:28:03.262Z
+updated: 2024-09-02T08:28:03.262Z
 tags:
   - android
 categories:
@@ -41,6 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The Apps tab in the Android Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apps-in-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  Search for the "Camera" app in the list of apps.
 
 ![Camera app in list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/camera-app-in-list-of-app-settings.png) 
@@ -51,6 +54,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Now, when you open your camera, it will hopefully work smoothly without a crash.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ###  2\. How to Restart an Android Phone
 
  If restarting the camera app does not solve the problem, you should restart your phone. A restart gets rid of bugs and glitches and resets ongoing processes.
@@ -59,8 +65,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Tap "Restart."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230920_164723_nova-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
  Tap "Restart" and your phone will power off and then power on after a few seconds. Your camera should start working properly now. Your phone may have remapped the power button to a different function, [in which case you'll need to go a different route](https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-8-fix-now-drfone-by-drfone-virtual-ios/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ###  3\. Allow All Camera Permissions
 
 [Permissions for camera features](https://fox-hovers.techidaily.com/2024-approved-prime-gopro-movie-maker-list/) might have been accidentally denied for the camera app. To allow permissions for the camera app, go to your app list and press and hold the camera icon until a menu pops up. Tap on "App Info" or the icon that has the letter "i" in a circle.
@@ -75,6 +87,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The camera features should be ae allowed in the settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/camera-app-permissions-allowed.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  4\. Close All Apps Using The Camera
 
  Snapchat, Instagram, other third-party camera apps, and editing apps have access to your phone's camera. Having the camera open in any of these apps in the background while trying to use the default camera app can cause it to crash.
@@ -87,26 +102,49 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The Apps tab in the Android Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apps-in-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the camera app in the list of apps and tap on "Storage."
 
 ![Storage tab in camera app settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/storage-in-camera-app-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  This will open a page showing how much storage space the camera takes; tap the "Clear Data button." This will clear the app data and cache and give the camera app a fresh start.
 
 ![Tap on the clear data button in camera app storage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/clear-data-in-camera-app-storage.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ###  6\. Free Up Storage Space
 
  If your camera app keeps freezing or refuses to take pictures, [freeing up storage space](https://facebook-video-share.techidaily.com/updated-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/) might just be the fix to stop the freezing. You simply have to delete media, documents and other files that are taking up space on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  7\. How to Fix Blurry Pictures on Android
 
 ![The camera on the iPhone 15.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53213583784_476e3c28ab_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek  
   
  You can fix blurry pictures in your camera by cleaning smudges or dirt on your lens with a clean soft cloth. You should also make sure to tap the screen to focus on the subject of your picture before capturing it. This would help you get clear focused pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  8\. Carry Out A Software Update
 
  Keep your phone running smoothly by [staying up-to-date with the latest software](https://common-error.techidaily.com/simple-solutions-troubleshooting-and-enhancing-your-file-explorer-on-windows-11/). To update your Android OS, open the Settings app and tap on "Software Update." You may need to go to "System" first.
@@ -129,6 +167,9 @@ Corbin Davenport / How-To Geek
 
  Ensure that you only install these apps from trusted sources like the Google Play Store so that you don't open your phone up to malware and viruses. Apps like [Cymera](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000728/https://play.google.com/store/apps/details?id=com.cyworld.camera), [Relens](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000728/https://play.google.com/store/apps/details?id=com.accordion.pro.camera), and [Open Camera](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000728/https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) are ideal alternatives for the default camera. All you need to do is to download them and start using them to take pictures and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ###  10\. Factory Reset Your Phone
 
  A factory reset is an extreme action. It clears all your data, media, and apps from your phone permanently and returns it to its default settings. Since this will return your camera app to how it was when the phone was brand new, it should resolve any problems that have occurred since.
@@ -153,3 +194,55 @@ Corbin Davenport / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-excellent-sound-no-mic-included/"><u>[Updated] 2024 Approved  Cutting-Edge Techniques for Excellent Sound, No Mic Included</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imovie-magic-ranking-the-best-8-free-and-paid-film-apps/"><u>[Updated] IMovie Magic  Ranking the Best 8 Free and Paid Film Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3x-bluetooth-speaker-enthusiasm-experience-top-audio-quality/"><u>3X Bluetooth Speaker Enthusiasm: Experience Top Audio Quality!</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x50-gt-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X50 GT? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-stress-effective-techniques-using-chatgpt/"><u>Beating Stress: Effective Techniques Using ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chrome-powered-acer-laptop-delivers-all-essentials-for-budget-conscious-shoppers/"><u>Chrome-Powered Acer Laptop Delivers All Essentials for Budget Conscious Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-wireless-range-solutions-extender-booster-or-repeater-for-your-home-network/"><u>Comparing Wireless Range Solutions: Extender, Booster or Repeater for Your Home Network?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-examination-of-the-kobo-libra-exceptional-digital-book-device-regardless-of-color-viewing-experience/"><u>Comprehensive Examination of the Kobo Libra - Exceptional Digital Book Device, Regardless of Color Viewing Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-switchbots-all-in-one-remote-a-closer-look-at-its-features-and-limitations/"><u>Comprehensive Review of SwitchBot's All-in-One Remote: A Closer Look at Its Features and Limitations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-on-screen-strain-with-the-compact-multicolor-e-ink-monitor-from-dasung/"><u>Cut Down on Screen Strain with the Compact, Multicolor E-Ink Monitor From Dasung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-responsive-speakers-and-headphones-issue-in-windows-11-8-and-7/"><u>Diagnosing and Repairing Non-Responsive Speakers & Headphones Issue in Windows 11, 8, & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-samsungs-new-high-capacity-512gb-usb-c-portable-storage-device/"><u>Discover Samsung's New High-Capacity 512GB USB-C Portable Storage Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-ideal-arlo-security-package-a-step-by-step-guide/"><u>Discover Your Ideal Arlo Security Package: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dissecting-raycons-everyday-pro-earphones-debunking-the-overhyped-promises/"><u>Dissecting Raycon's Everyday Pro Earphones: Debunking the Overhyped Promises</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensure-your-new-graphics-card-features-over-8gb-ram/"><u>Ensure Your New Graphics Card Features Over 8GB RAM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-gaming-evolution-with-razers-deathadder-v3-tailor-your-controllers-speed-like-never-before/"><u>Experience Gaming Evolution with Razer's DeathAdder V3 – Tailor Your Controller’s Speed Like Never Before!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-and-benefits-of-onyx-boox-note-air3-a-comprehensive-color-e-reader-review/"><u>Exploring the Features & Benefits of Onyx Boox Note Air3: A Comprehensive Color E-Reader Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-focus-how-a-chromebook-can-provide-the-uninterrupted-experience-you-need/"><u>Find Your Focus: How a Chromebook Can Provide the Uninterrupted Experience You Need</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fix-game-screen-flickering-with-vrr-technology-the-ultimate-guide/"><u>Fix Game Screen Flickering with VRR Technology: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/going-beyond-portable-computers-how-frameworks-modular-concept-is-revolutionizing-usage-across-devices/"><u>Going Beyond Portable Computers: How Framework's Modular Concept Is Revolutionizing Usage Across Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-boosting-performance-on-your-nvidia-gpu-while-preserving-its-warranty-coverage/"><u>Guide: Boosting Performance on Your NVIDIA GPU While Preserving Its Warranty Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/headphoanagate-lost-my-trusty-tunes-right-when-prime-discounts-hit-peak-season/"><u>Headphoanagate - Lost My Trusty Tunes Right When Prime Discounts Hit Peak Season</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ai-revolutionizes-hardware-the-future-of-enhanced-pc-specifications/"><u>How AI Revolutionizes Hardware: The Future of Enhanced PC Specifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-i-successfully-silenced-unwanted-white-hissing-sound-from-my-audio-system/"><u>How I Successfully Silenced Unwanted White Hissing Sound From My Audio System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-non-programmers-can-harness-the-power-of-keyboard-macros-in-their-routine/"><u>How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-poco-c50-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco C50 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Huawei Nova Y91 FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-intel-reasons-behind-the-recent-spike-in-desktop-processor-malfunctions/"><u>Inside Intel: Reasons Behind the Recent Spike in Desktop Processor Malfunctions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/modern-perspectives-the-case-against-upscaling-traditional-desktops-loses-ground/"><u>Modern Perspectives: The Case Against Upscaling Traditional Desktops Loses Ground</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/more-than-movies-and-shows-how-your-smart-tv-gathers-intelligence-on-your-daily-habits/"><u>More Than Movies and Shows: How Your Smart TV Gathers Intelligence On Your Daily Habits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/multiply-your-channels-subscribers-quickly-for-2024/"><u>Multiply Your Channel's Subscribers Quickly for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-your-journey-to-smart-living-essential-choices-and-guided-actions-for-upgrading-homes/"><u>Navigating Your Journey to Smart Living: Essential Choices & Guided Actions for Upgrading Homes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nearing-its-end-the-iconic-60-year-legacy-of-the-4-pin-molex-connector/"><u>Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-process-obtaining-and-maintaining-the-latest-canon-drivers-for-windows-users/"><u>Step-by-Step Process: Obtaining & Maintaining the Latest Canon Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wi-fi-routers-a-comprehensive-guide/"><u>Top Rated Wi-Fi Routers : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protection-top-samsung-galaxy-z-flip-6-case-picks/"><u>Top-Rated Protection: Top Samsung Galaxy Z Flip 6 Case Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-technology-must-haves-for-savvy-globe-trotters/"><u>Top-Rated Technology Must-Haves for Savvy Globe Trotters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-mobile-typing-how-logitech-elevates-convenience-with-keys-to-go/"><u>Transforming Mobile Typing: How Logitech Elevates Convenience With Keys-To-Go ^</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-roborock-s8-maxv-ultra-a-must-have-luxury-robotic-vacuum/"><u>Ultimate Guide to the Roborock S8 MaxV Ultra: A Must-Have Luxury Robotic Vacuum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-essential-factors-when-does-an-additional-left-keypad-become-crucial/"><u>Uncover Essential Factors: When Does an Additional Left Keypad Become Crucial?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-vrr-why-your-gaming-monitor-might-flicker-and-how-to-stop-it-now/"><u>Understanding VRR: Why Your Gaming Monitor Might Flicker and How to Stop It Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-improved-apple-pencil-pro-a-significant-advancement-in-tech-tools/"><u>Unveiling the Improved Apple Pencil Pro: A Significant Advancement in Tech Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-visuals-with-the-latest-tiny-go-3-from-insta360-capture-images-and-videos-at-true-4k-quality/"><u>Upgrade Your Visuals with the Latest Tiny Go 3 From Insta360 - Capture Images and Videos at True 4K Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/whats-new-with-macos-sequoia-for-users-of-intel-based-mac-computers/"><u>What's New with macOS Sequoia for Users of Intel-Based Mac Computers?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-my-samsung-frame-tv-may-not-impress-everyone-but-it-still-captures-my-heart/"><u>Why My Samsung Frame TV May Not Impress Everyone but It Still Captures My Heart</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-tiny-hands-might-struggle-with-the-cutting-edge-design-of-google-pixel-9-pro-foldable-phone/"><u>Why Tiny Hands Might Struggle with the Cutting-Edge Design of Google Pixel 9 Pro Foldable Phone</u></a></li>
+</ul></div>

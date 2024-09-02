@@ -1,7 +1,7 @@
 ---
 title: A Personal Take on the Downside of Gaming Laptops - My Decision to Avoid Them Regardless of Their Improved Features Today
-date: 2024-08-27 15:24:16
-updated: 2024-08-29 12:10:58
+date: 2024-09-01T08:22:20.547Z
+updated: 2024-09-02T08:22:20.547Z
 tags:
   - hardware
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![HP Omen 17 gaming laptop at CES 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52607528414_5decf98488_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 ##  Desktop PCs Provide an Objectively Better Gaming Experience
@@ -50,6 +53,9 @@ Justin Duino / How-To Geek
 
  My colleague Sydney [loves the portability of a gaming laptop](https://facebook-video-content.techidaily.com/updated-2024-approved-fb-content-design-the-right-orientation-for-your-videos/) because he can put it down in any corner of his house or bring it with him to a coffee shop. I can't see myself doing the same because I prefer a larger, fixed place to game in, so I have no practical use for a gaming laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I Can Mix and Match Parts
 
  I've been essentially building on top of the same PC since 2012\. I upgrade bits and pieces almost every year. Of course, at this point, the only original part that remains is one of the HDDs, which I use for my least important files and games. The PC has seen two motherboards, three CPUs, five GPUs, and a bunch of different coolers and fans.
@@ -60,8 +66,15 @@ Justin Duino / How-To Geek
 
 ![Wooden tabletop surface with several PC parts arranged in a circle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/shutterstock_594646208.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 _[Ruslan Grumble/Shutterstock.com](https://www.shutterstock.com/image-photo/central-processing-unit-other-computer-parts-594646208)_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Desktop PC Parts Give Me More Bang for My Buck
 
  It's not just that I can save money by combining discounted PC parts; I can also get more performance from a typical desktop PC. Gaming laptops have to account for power and temperature requirements, so they usually use the less powerful mobile versions of the same CPU and GPU, but even if they use the desktop version, laptops are still limited by power and thermals. This performance gap is especially prominent with high-end hardware. Maybe performance will improve when [Arm-based CPUs arrive to laptops](https://buynow-reviews.techidaily.com/tablet-faceoff-determining-the-best-between-ipad-kindle-and-nook/).
@@ -70,12 +83,18 @@ _[Ruslan Grumble/Shutterstock.com](https://www.shutterstock.com/image-photo/cent
 
 ![A large air CPU cooler is being installed onto a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_2358109821.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Den Rozhnovsky / Shutterstock.com
 
  Laptop hardware is confined to a much smaller space, so it has to rely on fancy [vapor chambers](https://visual-screen-recording.techidaily.com/updated-in-2024-lenovo-laptop-a-complete-guide-to-recording-screens/) and creative heat dissipation to keep things cool. Batteries don't like to get hot, either, and it's only a matter of time before they deteriorate to the point that the laptop has to remain [plugged in permanently](https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/).
 
  If you're upgrading your desktop PC but already have all the peripherals, you'll save a couple of hundred dollars compared to buying a whole new laptop. Each time you upgrade to a better gaming laptop, you have to pay for the new display, keyboard, battery, cameras, and other smaller features; you can't just upgrade the CPU, GPU, and RAM to improve performance directly and keep costs down.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  It's Easier to Repair a Desktop PC
 
 ![A laptop computer dismantled for repair on internal equipment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/397970a0.jpg) 
@@ -106,3 +125,50 @@ _[Nirat.pix/Shutterstock.com](https://www.shutterstock.com/image-photo/laptop-co
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-perfect-recorder-chromebooks-best-friend/"><u>[New] 2024 Approved  Perfect Recorder  Chromebook's Best Friend</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-restore-lost-watch-icon-on-facebook/"><u>[New] 2024 Approved  Restore Lost Watch Icon on Facebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-visionary-intros-free-templates-for-inspiration/"><u>[New] 2024 Approved  Visionary Intros  Free Templates for Inspiration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-democratize-music-distribution-via-social-media/"><u>[New] In 2024, Democratize Music Distribution via Social Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-master-real-time-video-sharing-on-facebook/"><u>[New] In 2024, How to Master Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-comprehensive-guide-to-slowing-video-on-iphone/"><u>[New] In 2024, The Comprehensive Guide to Slowing Video on iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-luts-premiere-pro-essentials/"><u>[New] Mastering LUTs  Premiere Pro Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-skype-sessions-with-proactive-zoom-tactics/"><u>[New] Transforming Skype Sessions with Proactive Zoom Tactics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unleash-the-power-of-stories-free-online-and-mobile-solutions-for-2024/"><u>[Updated] Unleash the Power of Stories – Free, Online & Mobile Solutions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-handbook-insta-to-tik-tok-connectivity/"><u>2024 Approved  Ultimate Handbook  Insta-to-Tik Tok Connectivity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/appreciate-with-us-open-source-and-subscription-outro-samples-for-2024/"><u>Appreciate with Us  Open-Source & Subscription Outro Samples for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-trend-an-in-depth-look-at-what-makes-a-mobile-device-minimalist/"><u>Decoding the Trend: An In-Depth Look at What Makes a Mobile Device 'Minimalist'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-my-top-six-reasons-to-love-and-utilize-samsung-dex-technology/"><u>Discover My Top Six Reasons to Love and Utilize Samsung DeX Technology!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-future-the-revolutionary-google-pixel-fold/"><u>Discovering the Future: The Revolutionary Google Pixel Fold</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-methods-for-detecting-and-locating-airtags-with-android-smartphones/"><u>Easy Methods for Detecting and Locating AirTags with Android Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-tutorial-capturing-audio-from-voice-calls-on-android-phones/"><u>Easy Tutorial: Capturing Audio From Voice Calls on Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-methods-to-retrieve-deleted-android-contacts/"><u>Effective Methods to Retrieve Deleted Android Contacts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-innovation-in-smartphones-the-latest-galaxy-z-fold-5-by-samsung-boasts-a-refined-hinge-mechanism-and-enhanced-brightness-for-unmatched-viewing-pl2/"><u>Experience Innovation in Smartphones: The Latest Galaxy Z Fold 지빌드 5 by Samsung Boasts a Refined Hinge Mechanism and Enhanced Brightness for Unmatched Viewing Pleasure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-insights-and-predictions-for-googles-2024-creation-post-pixel-9-era/"><u>Exploring the Future: Insights and Predictions for Google's 2024 Creation - Post-Pixel 9 Era</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977359304-get-your-hands-on-the-latest-sound-blaster-audigy-fx-driver-updates-now/"><u>Get Your Hands on the Latest Sound Blaster Audigy FX Driver Updates Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-new-foldable-pixel-expectations-for-potential-adjustments-to-camera-specifications/"><u>Google's New Foldable Pixel: Expectations for Potential Adjustments to Camera Specifications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-the-fundamentals-of-animated-communication-for-2024/"><u>Grasping the Fundamentals of Animated Communication for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-technology-and-gadgets-the-role-of-google-in-promoting-prolonged-device-usage-for-environmental-conservation/"><u>Green Technology and Gadgets: The Role of Google in Promoting Prolonged Device Usage for Environmental Conservation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-does-the-performance-of-motorolas-edge-plus-stack-up-against-the-samsung-galaxy-s22-ultra/"><u>How Does the Performance of Motorola's Edge Plus Stack Up Against the Samsung Galaxy S22 Ultra?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-google-differs-from-apple-in-strategy-why-imitation-falls-short/"><u>How Google Differs From Apple in Strategy - Why Imitation Falls Short</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-consolidate-repeated-names-in-your-android-contact-list/"><u>How to Consolidate Repeated Names in Your Android Contact List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-ensure-full-reception-of-sms-on-your-samsung-galaxy-device/"><u>How to Ensure Full Reception of SMS on Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-revive-battery-life-essential-tips-for-non-charging-android-phones/"><u>How To Revive Battery Life: Essential Tips for Non-Charging Android Phones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-downloading-from-vimeo-made-simple-software-free-or-not/"><u>In 2024, Downloading From Vimeo Made Simple  Software-Free or Not?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>In 2024, Precision Screen Capturing  Top Tools Reviewed on PC/Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unleashing-potential-in-virtual-collaboration-platforms/"><u>In 2024, Unleashing Potential in Virtual Collaboration Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-ways-to-enhance-tech-gadgets-at-home-using-3d-printing-top-10-accessories-for-smartphones-and-computers/"><u>Innovative Ways to Enhance Tech Gadgets at Home Using 3D Printing – Top 10 Accessories for Smartphones & Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-mobile-podcast-software-on-android-devices-the-comprehensive-selection/"><u>Leading Mobile Podcast Software on Android Devices: The Comprehensive Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/managing-security-and-performance-on-outdated-android-devices/"><u>Managing Security and Performance on Outdated Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-mobile-photography-techniques-for-professional-level-phone-shots/"><u>Mastering Mobile Photography: Techniques for Professional-Level Phone Shots</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optical-drive-missing-windows-11-issue-addressed/"><u>Optical Drive Missing: Windows 11 Issue Addressed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-data-a-step-by-step-guide-to-tracking-application-interactions-with-your-clipboard-on-android-devices/"><u>Protect Your Data: A Step-by-Step Guide to Tracking Application Interactions with Your Clipboard on Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-how-to-instantly-read-qr-codes-with-your-android-device/"><u>Quick Guide: How to Instantly Read QR Codes with Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reversing-pictures-in-seconds-a-simple-tutorial-for-android-users/"><u>Reversing Pictures in Seconds: A Simple Tutorial for Android Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/saving-your-focus-a-guide-to-quieting-naysayers-on-google-video-calls-for-2024/"><u>Saving Your Focus  A Guide to Quieting Naysayers on Google Video Calls for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/solving-performance-issues-with-avatar-frontiers-of-pandora-how-to-stop-the-game-from-lagging/"><u>Solving Performance Issues with 'Avatar: Frontiers of Pandora': How to Stop the Game From Lagging</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-higher-engagement-a-guide-to-youtube-success-for-2024/"><u>Unlocking Higher Engagement  A Guide to YouTube Success for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-10-best-online-platforms-to-convert-images-to-videos/"><u>Updated In 2024, 10 Best Online Platforms to Convert Images to Videos</u></a></li>
+</ul></div>

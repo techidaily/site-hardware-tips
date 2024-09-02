@@ -1,7 +1,7 @@
 ---
 title: Closer Than Ever to Flawlessness - A Comprehensive Look at the Samsung Galaxy S22
-date: 2024-08-26 18:20:20
-updated: 2024-08-29 11:26:56
+date: 2024-09-01T08:28:20.885Z
+updated: 2024-09-02T08:28:20.885Z
 tags:
   - android
 categories:
@@ -73,10 +73,16 @@ Related: [Samsung Galaxy S22 Ultra Review: The Total Package](https://www.review
 
  Now that isn't to say the smaller refresh rate window is terrible. Yes, dropping the rate down to 1Hz would be great for battery life, but it's a feature you'll probably forget about within a week. All that matters is that the 120Hz refresh rate display makes for enjoyable scrolling within apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Software and Performance
 
 ![Samsung Galaxy S22's quick settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/260821ab.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Justin Duino / Review Geek_
 
 * Android 12, One UI 4.1
@@ -101,6 +107,9 @@ Related: [Newer Samsung Galaxy Devices Now Get Four Years of Security Updates](h
 
  Lastly, I want to highlight the built-in ultrasonic fingerprint sensor. Although I still prefer the simplicity and ease of using a [rear-facing fingerprint sensor](https://www.reviewgeek.com/50494/rear-fingerprint-sensors-are-the-best-fingerprint-sensors/) or the infrared Face ID system on the iPhone, the biometric system on the Galaxy S22 is fantastic. Coming from the [Pixel 6 Pro](https://www.reviewgeek.com/103821/pixel-6-pro-review-imperfectly-perfect/) with an optical sensor that is slow and hardly works, I have had no issue quickly unlocking the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Cameras
 
 ![Samsung Galaxy S22's rear cameras](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/c55d7a7a.jpg) 
@@ -139,6 +148,18 @@ Close
 
  The Galaxy S22 series also comes with a new AI stereo depth map that will make Portrait mode better. According to Samsung, hair should no longer accidentally blend into the fake bokeh background. While that mostly is true in my Portrait mode image above, there is still a halo effect happening that is really visible around my hair.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Nightography
 
  New this year is a low-light shooting mode that Samsung is calling "Nightography." The company claims this new feature, using "enhanced AI technology powered by the new NPU," allows you to capture more true-to-life colors and details when snapping photos at night.
@@ -149,10 +170,16 @@ Close
 
  If you plan on taking photos at night, I recommend sticking with the primary 50MP camera. It has the widest aperture and will let in the most light. Night mode on the other two sensors didn't look nearly as sharp or clean.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Battery Life
 
 ![Samsung Galaxy S22's overview menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/5f081a11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 _Justin Duino / Review Geek_
@@ -185,6 +212,9 @@ _Justin Duino / Review Geek_
 
 ![f5d573f4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/f5d573f4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Samsung Galaxy S22
 
 8/ 10 
@@ -215,3 +245,59 @@ _Justin Duino / Review Geek_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-teleconference-recordings/"><u>[New] Teleconference Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-groundbreaking-final-cut-pro-extensions/"><u>[Updated] 10 Groundbreaking Final Cut Pro Extensions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-11-list-streaming-audio-recorders-uncovered/"><u>[Updated] 2024 Approved  Ultimate #11 List  Streaming Audio Recorders Uncovered</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamlining-cross-platform-communication-via-skype-chat-rooms/"><u>[Updated] In 2024, Streamlining Cross-Platform Communication via Skype Chat Rooms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-youtube-comment-finder-you-should-try/"><u>[Updated] In 2024, YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>[Updated] Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speeding-up-periscope-live-streams-explained/"><u>2024 Approved  Speeding Up Periscope Live Streams Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-razr-40-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Razr 40 Ultra System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boosting-your-websites-analytics-the-role-of-cookiebot-solutions/"><u>Boosting Your Website's Analytics: The Role of Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862735104-buying-a-new-laptop-choose-from-the-latest-snapdragon-elite-x-series-with-integrated-microsoft-copilot-now-available/"><u>Buying a New Laptop? Choose From the Latest Snapdragon Elite X Series with Integrated Microsoft Copilot Now Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/computex-2024-unveiled-asus-rog-ally-and-qualcomm-powered-laptops-featured-absence-of-latest-gpus-noted/"><u>Computex 2024 Unveiled: Asus ROG Ally & Qualcomm-Powered Laptops Featured, Absence of Latest GPUs Noted</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-usb-composite-device-navigating-its-legacy-in-todays-tech-world/"><u>Demystifying the USB Composite Device - Navigating Its Legacy in Today's Tech World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-high-end-notebooks-and-top-tier-laptops-for-tech-savvy-users-in-202/"><u>Discover the Best High-End Notebooks and Top-Tier Laptops for Tech Savvy Users in 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-deep-into-the-world-of-high-performance-laptops-with-our-review-of-the-asus-zenbook-s1-6-where-we-thoroughly-examine-and-test-its-capabilities-when-pow29/"><u>Dive Deep Into the World of High-Performance Laptops with Our Review of the Asus Zenbook S1 6, Where We Thoroughly Examine and Test Its Capabilities when Powered by the Advanced AMD Ryzen AI 9 HX 370 CPU</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-players-with-sims-aturated-and-her-sister-isabella-was-an-active-child-who-loved-to-play-soccer/"><u>Effective Solutions for Players with Sims Aturated, and Her Sister Isabella Was an Active Child Who Loved to Play Soccer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-of-computing-new-frameworks-laptop-board-compatible-with-risc-v-architecture-teamed-up-with-deepcomputing-for-revolutionary-starfive-so7/"><u>Embracing the Future of Computing: New Framework's Laptop Board Compatible with RISC-V Architecture, Teamed Up with DeepComputing for Revolutionary StarFive SoC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-hardware-by-tom-your-go-to-resource/"><u>Expert Analysis of Hardware by Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-cutting-edge-tech-hardware-by-tom/"><u>Expert Analysis on Cutting-Edge Tech Hardware by Tom</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-multi-image-uploads-how-to-make-it-quick-and-easy/"><u>Facebook Multi-Image Uploads: How To Make It Quick and Easy.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>Fist of Legends  Highest-Rated Kung Fu Virtual Battles</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-camon-30-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Camon 30 Pro 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-mini-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c110-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C110</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s24plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S24+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-your-computer-smartly-lessons-from-toms-gadget-wisdom/"><u>Navigate Your Computer Smartly: Lessons From Tom's Gadget Wisdom</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1722904672732-navigating-style-vs-functionality-an-in-depth-look-at-amazfit-gts-wearable-tech/"><u>Navigating Style vs Functionality: An In-Depth Look at Amazfit GTS Wearable Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-insights-from-toms-hardware-hub/"><u>Navigating the World of Tech: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-framework-overhaul-for-advanced-13-systems-dive-into-enhanced-display-technologies-and-elite-processors/"><u>Next-Gen Framework Overhaul for Advanced 13 Systems - Dive Into Enhanced Display Technologies and Elite Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pro-tips-for-picking-your-next-pc-from-toms-hardware-wisdom/"><u>Pro Tips for Picking Your Next PC From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-tips-for-youtube-and-twitch-streamers-using-obs-effectively/"><u>Professional Tips for YouTube & Twitch Streamers  Using OBS Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-aroma-experience-meet-asuss-new-fragrance-dispensing-adol-book-laptop/"><u>Revolutionary Aroma Experience: Meet Asus's New Fragrance-Dispensing Adol Book Laptop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/seal-the-best-apple-steals-of-the-season-prime-day-edition/"><u>Seal the Best Apple Steals of The Season: Prime Day Edition.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-a-no-cost-licensing-pass-unlock-the-guide-now/"><u>Secure a No-Cost Licensing Pass – Unlock the Guide Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/segmentviewpoint-report/"><u>SegmentViewpoint Report</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-puzzle-effective-solutions-for-smoothing-out-v-rising-performance-hiccups-on-your-computer/"><u>Solving the Puzzle: Effective Solutions for Smoothing Out V-Rising Performance Hiccups on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-tech-trends-with-professional-tips-from-toms-hardware/"><u>Stay Ahead of Tech Trends with Professional Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-modern-computing-wisdom-from-tom/"><u>The Ultimate Guide to Modern Computing - Wisdom From Tom'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-savvy-individuals-toms-computer-components-overview/"><u>The Ultimate Resource for Tech Savvy Individuals – Tom’s Computer Components Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-t172386287986915/"><u>Tom's Tech Insights - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-on-toms-hardware/"><u>Tom's Tech Insights: Comprehensive Guide on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovations/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-computer-hardware/"><u>Tom's Tech Insights: In-Depth Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Review: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-with-acers-incredible-offer-nitro-16-laptop-packing-rtx-4070-and-amd-cpu-for-a-steal-at-1129/"><u>Transform Your Gaming with Acer’s Incredible Offer: Nitro 16 Laptop Packing RTX 4070 & AMD CPU for a Steal at $1,129</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-budget-friendly-premium-gaming-laptops-under-1500/"><u>Ultimate Guide to Budget-Friendly Premium Gaming Laptops Under 1500$</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-asus-rog-zephyrus-g14-laptop-featuring-rtx-graphics-now-just-1099-at-best-buy/"><u>Unbeatable Deal Alert: Asus ROG Zephyrus G14 Laptop Featuring RTX Graphics Now Just $1099 at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-unmatched-speed-and-lower-energy-consumption-with-lenovos-game-changing-thinkpad-p1-gen-e-the-first-to-incorporate-advanced-lpcmam2-ram-technology.m20/"><u>Unleash Unmatched Speed and Lower Energy Consumption with Lenovo's Game-Changing ThinkPad P1 Gen E – The First to Incorporate Advanced Lpcmam2 RAM Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-advanced-gadgets-at-toms-computer-review/"><u>Unlock the Secrets of Advanced Gadgets at Tom’s Computer Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-electronics-insider-reviews-by-toms-hardware-professionals/"><u>Unveiling Top-Tier Electronics: Insider Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-reveal-next-generation-dell-xps-and-snapdragon-x-inspiron-series-a-glimpse-through-image-leaks/"><u>Upcoming Reveal: Next-Generation Dell XPS & Snapdragon X Inspiron Series - A Glimpse Through Image Leaks</u></a></li>
+</ul></div>

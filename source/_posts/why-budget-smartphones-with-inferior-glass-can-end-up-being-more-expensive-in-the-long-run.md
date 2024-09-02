@@ -1,7 +1,7 @@
 ---
 title: Why Budget Smartphones with Inferior Glass Can End Up Being More Expensive in the Long Run
-date: 2024-08-28 18:28:50
-updated: 2024-08-29 11:58:26
+date: 2024-09-01T08:25:02.757Z
+updated: 2024-09-02T08:25:02.757Z
 tags:
   - android
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![pixel 8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 #####  Google Pixel 8
 
 Built with Pixel’s most advanced chip and Google AI to help you do more effortlessly. Its cameras are also great at capturing high-quality images even in poorly light environments.
@@ -39,10 +42,16 @@ Built with Pixel’s most advanced chip and Google AI to help you do more effort
 
  While it might not be the first thing you think about when shopping for cheaper handsets, if you aren't careful you may end up with glass technology from a decade ago!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  The Cost of Dropping a Budget Phone
 
 ![Close-up of a boy's hand looking at his still working phone with a broken screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/close-up-of-a-boy-s-hand-looking-at-his-still-working-phone-with-a-broken-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ganka Trendafilova / Shutterstock.com](https://www.shutterstock.com/image-photo/close-boys-hand-looking-his-still-676003645)
 
  While I hate to have to say it, a "budget" smartphone these days still costs a few hundred dollars. I don't know about you, but I would definitely feel it in my pocket if I dropped and smashed a $300 phone. Given how much I drop my much more expensive phones, I don't think some of these old-generation glass covers would have survived.
@@ -55,12 +64,18 @@ Built with Pixel’s most advanced chip and Google AI to help you do more effort
 
 ![Person holding a Google Pixel 8 Pro with the Android 15 logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/53533188408_8d93bcfdc7_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  So I'm not advocating that you should buy more expensive phones to have a higher chance of saving money when you drop or mildly abuse your phone. Just that, it's worth spending a few seconds researching what glass you'll be getting with your $300 or $500 phone.
 
 ![OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/oneplus-12r.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  OnePlus 12R
 
 8/ 10 
@@ -69,6 +84,10 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
 
 [See at OnePlus](https://onepluscom.pxf.io/c/5597632/916678/12532?subId1=UUhtgUeUpU2004751&subId2=ehtg&u=https%3A%2F%2Fwww.oneplus.com%2Fus%2Foneplus-12r) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Foneplus-12r-128gb-unlocked-iron-gray%2F6571130.p%3FskuId%3D6571130) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Making Up For Weaker Glass
 
  Of course, there's a whole industry built around phone accessories meant to toughen your phone up and protect it. If you have the right case, your screen will hopefully never make contact with the ground, and corner drops might not have enough force to shatter your phone's glass.
@@ -91,3 +110,43 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-practical-approach-to-scheduling-on-zoom-platforms/"><u>[Updated] 2024 Approved  A Practical Approach to Scheduling on Zoom Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-gross-income-estimates-for-youtube-star-pewdopeep/"><u>[Updated] Gross Income Estimates for YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>2024 Approved  The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-budget-friendly-processors-analyzed-and-ranked-cnet-ratings/"><u>2024'S Best Budget-Friendly Processors Analyzed and Ranked - CNET Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175692064-affordable-valkyrie-al125-processor-heatsink-with-brilliant-rgb-led-lights-and-a-protective-anti-scratch-display-all-under-20/"><u>Affordable Valkyrie AL125 Processor Heatsink with Brilliant RGB LED Lights and a Protective Anti-Scratch Display – All Under $20!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-on-a-budget-expert-analysis-of-upheres-economic-air-coolers-c5c-and-d6sec-under-20/"><u>Beat the Heat on a Budget: Expert Analysis of UpHere's Economic Air Coolers (C5C & D6Sec) Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deep-dive-review-how-the-two-trees-sk1-processor-delivers-high-speed-efficiency-with-open-source-advantage/"><u>Deep Dive Review: How the Two Trees SK1 Processor Delivers High-Speed Efficiency with Open Source Advantage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-free-qualcomm-atheros-ar938x-driver-download/"><u>Easy Access to Free Qualcomm Atheros AR938X Driver Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-a-chilling-upgrade-with-the-ek-solution-cpu-cooler-witness-up-to-20c-drop-in-intel-core-i9-1efficiency/"><u>Experience a Chilling Upgrade with the EK Solution CPU Cooler - Witness up to 20°C Drop in Intel Core I9-1efficiency!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-systems-a-deep-dive-by-toms-technology-insights/"><u>Exploring Advanced Systems - A Deep Dive by Tom’s Technology Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform/"><u>In 2024, Transform Your Virtual Meetings  Using Zoom Within the Gmail Platform</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-epson-wf-2630-drivers-fully-functional-on-windows-7-81-and-10-platforms/"><u>Install Epson WF-2630 Drivers: Fully Functional on Windows 7, 8.1 & 10 Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-freeze-triad-of-coolers-the-ultimate-edge-ai-companion-by-airjet-powered-up-to-25w/"><u>Introducing the Freeze Triad of Coolers - The Ultimate Edge AI Companion by AirJet, Powered up to 25W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-modern-gadgets-the-ultimate-guide-from-toms-hardware/"><u>Master Modern Gadgets: The Ultimate Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-guide-by-toms-hardware-experts/"><u>Mastering Gadgets: The Ultimate Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-reliable-reviews-and-tips-from-toms-systems/"><u>Navigate the Tech World: Reliable Reviews and Tips From Tom's Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-a-dive-into-hardware-essentials/"><u>Navigating Technology with Tom - A Dive Into Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-top-tech-reviews-by-toms-trustworthy-team/"><u>Navigating Through Circuitry: Top Tech Reviews by Tom's Trustworthy Team</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-get-more-bang-for-your-buck-4-premiere-rush-alternatives-for-2024/"><u>New Get More Bang for Your Buck 4 Premiere Rush Alternatives for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliable-pc-part-testing-and-breakdown-by-tomhardwaresolutions/"><u>Reliable PC Part Testing and Breakdown by TomHardwareSolutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-zte-blade-a73-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on ZTE Blade A73 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ryzen-9-9950x-world-record-breakthrough-in-cinebench-r23-tests-achieved-with-a-blistering-65-ghz-frequency/"><u>Ryzen 9 9950X World Record Breakthrough in Cinebench R23 Tests, Achieved with a Blistering 6.5 GHz Frequency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sanctioned-how-deepcool-continues-power-supply-and-pc-coolers-to-russian-markets-during-ukraine-crisis/"><u>Sanctioned: How DeepCool Continues Power Supply and PC Coolers to Russian Markets During Ukraine Crisis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-by-step-easy-snapchat-videos-with-multiple-snaps-for-2024/"><u>Step-by-Step  Easy Snapchat Videos with Multiple Snaps for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swift-fixes-to-rectify-non-sending-videos-on-the-social-networking-platform-iphoneandroid/"><u>Swift Fixes to Rectify Non-Sending Videos on the Social Networking Platform iPhone/Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-with-tom-in-depth-analysis/"><u>The Ultimate Guide to Gadgets with Tom - In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-desktop-and-nas-storage/"><u>The Ultimate Guide to Selecting the Best Desktop & NAS Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-best-gaming-headsets-in-2eighty-four/"><u>The Ultimate Selection: Best Gaming Headsets in 2Eighty-Four</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-consumer-ratings/"><u>Top-Rated VPN Providers: Comprehensive Analysis & Consumer Ratings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-crashes-in-battlefield-2042-solutions-explored/"><u>Troubleshooting PC Crashes in Battlefield 2042 - Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tips-for-increasing-fps-performance-in-ring-of-elysium/"><u>Ultimate Tips for Increasing FPS Performance in Ring of Elysium</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-gopros-full-potential/"><u>Unlocking GoPro's Full Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-potential-of-amds-zen-5-packing-a-whopping-8315-billion-transistors-per-compute-die-for-enhanced-performance-up-to-28-higher-den49/"><u>Unveiling the Game-Changing Potential of AMD's Zen 5: Packing a Whopping 8.315 Billion Transistors per Compute Die for Enhanced Performance, Up to 28%% Higher Density</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-toms-review/"><u>Unveiling the Latest in Computing - Tom's Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-a-closer-look-with-tom/"><u>Unveiling the Latest in Hardware - A Closer Look with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-devices-toms-comprehensive-hardware-reviews/"><u>Unveiling Top-Notch Devices: Tom’s Comprehensive Hardware Reviews</u></a></li>
+</ul></div>

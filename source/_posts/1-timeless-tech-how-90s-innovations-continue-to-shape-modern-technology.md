@@ -1,7 +1,7 @@
 ---
 title: "1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology"
-date: 2024-08-28 13:43:44
-updated: 2024-08-29 11:36:43
+date: 2024-09-01T08:22:18.062Z
+updated: 2024-09-02T08:22:18.062Z
 tags:
   - hardware
 categories:
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  I know what you're thinking—we don't still use DVDs in 2024, do we? [Oh yes, yes, we do](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). In fact, DVD sales have been steadily climbing over the last few years, and DVDs absolutely crush Blu-ray sales. It all started in the '90s.
@@ -62,6 +65,9 @@ Hannah Stryker / How-To Geek
 
 ![Android phone with text messages on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-Text-Messages.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Despite having the amazing ability to hear someone's voice and see their face in real-time from thousands of miles away, text-based messaging is still king. There's no denying it's simply the easiest and quickest form of communication, and it got its start in the 90s.
@@ -70,10 +76,16 @@ Justin Duino / How-To Geek
 
  Nowadays, the popularity of SMS varies greatly by region, but text-based messaging is popular everywhere. In the U.S., most people are using iMessage or SMS, while many other countries rely on WhatsApp, WeChat, and Telegram.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Sony Playstation
 
 ![Original PlayStation and controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_2062560902.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 [Matthieu Tuffet/Shutterstock.com](https://www.shutterstock.com/image-photo/fukuoka-japan-october-24-2021-original-2062560902)
 
  Console gaming started to explode in popularity in the 80s, but one of the biggest names got its start in the 90s. The original PlayStation was unveiled by Sony in 1994, and it changed things for the better. Since the PlayStation used a CD-ROM, it was able to make more realistic games that appealed to both adults and kids.
@@ -84,12 +96,18 @@ Justin Duino / How-To Geek
 
 ![The Bluetooth logo on a blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/bluetooth_hero_5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  Wireless technology is something most people use on a daily basis without thinking twice about it. Bluetooth is one of the most commonly used, and it was invented in 1994.
 
 [Bluetooth technology was invented in 1994](https://article-posts.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/) by a team of engineers at Ericsson, led by Dr. Jaap Haartsen. The invention was driven by the need for a wireless communication protocol that could connect mobile phones with computers, headsets, and other accessories over short distances without the constraints of wired connections.
 
  Nowadays, Bluetooth is baked into more devices than you can imagine. Smartphones, smartwatches, headphones, light bulbs, plugs, switches, coffee makers, thermometers, thermostats, door locks, and more, and more, and more. Needless to say, it's been a hit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Smartphones
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
@@ -102,6 +120,9 @@ Justin Duino / How-To Geek
 
  Needless to say, those features have carried over all these years later. Touchscreens are absolutely essential to mobile devices, and making calls and sending emails are considered rudimentary, basic features. It all started with a weird-looking brick.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  MP3 Format
 
 ![2018-08-06_14h28_57](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-06_14h28_57.png) 
@@ -130,3 +151,49 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-grand-photographic-epic-weaver-toolset/"><u>[New] 2024 Approved  Grand Photographic Epic Weaver Toolset</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-transformation-mp4-plus-srt-success/"><u>[New] 2024 Approved  The Ultimate Transformation  MP4 + SRT Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-thors-mighty-saga-ragnarok-dawns/"><u>[New] 2024 Approved  Thor's Mighty Saga  Ragnarok Dawns</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/fficient-techniques-for-youtube-shorts-revenue-for-2024/"><u>[New] Efficient Techniques for YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-crafting-captivating-storytelling-with-a-soundtrack-on-instagram/"><u>[Updated] 2024 Approved  Crafting Captivating Storytelling with a Soundtrack on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfecting-distance-remote-podcast-capture-techniques/"><u>[Updated] 2024 Approved  Perfecting Distance  Remote Podcast Capture Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cost-analysis-completing-a-music-video-shoot-for-2024/"><u>[Updated] Cost Analysis  Completing A Music Video Shoot for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-explore-best-iphone-selfie-boosters-all-free-and-upgraded/"><u>[Updated] In 2024, Explore Best iPhone Selfie Boosters - All Free and Upgraded</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-phones-personality-with-a-customized-whatsapp-tone/"><u>[Updated] Unlock Your Phone's Personality with a Customized WhatsApp Tone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-comprehensive-guide-stopping-ad-tracker-intrusion-on-your-android-device/"><u>1. Comprehensive Guide: Stopping Ad Tracker Intrusion on Your Android Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/androids-nearby-share-feature-set-to-deliver-enhanced-convenience/"><u>Android's Nearby Share Feature Set to Deliver Enhanced Convenience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-smart-ai-integration-new-possibilities-for-previous-generation-samsung-galaxies/"><u>Anticipating Smart AI Integration: New Possibilities for Previous Generation Samsung Galaxies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-top-10-articles-praised-by-our-audience/"><u>Best of the Best: Top 10 Articles Praised by Our Audience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/closer-than-ever-to-flawlessness-a-comprehensive-look-at-the-samsung-galaxy-s22/"><u>Closer Than Ever to Flawlessness - A Comprehensive Look at the Samsung Galaxy S22</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-tutorial-on-epson-es-400-downloads-and-installation-for-windows-users/"><u>Complete Tutorial on Epson ES-400 Downloads & Installation for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-explore-whats-underneath-the-google-pixel/"><u>Comprehensive Breakdown: Explore What's Underneath the Google Pixel 지대폭발</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-mystery-of-frequent-cold-callers-identities-and-intentions-explored/"><u>Decoding the Mystery of Frequent Cold Callers: Identities & Intentions Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-exciting-features-of-your-upcoming-magsafe-enabled-android-device/"><u>Discover the Exciting Features of Your Upcoming MagSafe-Enabled Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-high-memory-usage-by-applications-in-android-phones/"><u>Discovering High Memory Usage by Applications in Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/divide-the-total-distance-traveled-by-all-vehicles-by-the-circumference-of-the-earth-to-find-how-many-times-around-the-earth-this-distance-would-go/"><u>Divide the Total Distance Traveled by All Vehicles by the Circumference of the Earth to Find How Many Times Around the Earth This Distance Would Go.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-android-14-beta-2-without-owning-a-pixel-device-now-available/"><u>Download Android 14 Beta 2 Without Owning a Pixel Device - Now Available</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/downloading-youtubes-srt-subs-three-easy-steps/"><u>Downloading YouTube's SRT Subs  Three Easy Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-to-block-unwanted-robocalls-on-your-android-device/"><u>Effective Strategies to Block Unwanted Robocalls on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-execute-tasks-with-a-simple-tap-at-the-rear-of-your-android-smartphone/"><u>Efficiently Execute Tasks with a Simple Tap at the Rear of Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-ways-to-enable-auto-connect-to-wi-fi-networks-on-your-android-device/"><u>Effortless Ways to Enable Auto-Connect to Wi-Fi Networks on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-affordable-mobile-tech-how-qualcomms-snapdragon/"><u>Elevating Affordable Mobile Tech: How Qualcomm’s Snapdragon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-durability-and-display-unveiling-samsungs-upgraded-galaxy-z-fold-5-with-superior-hinge-design-and-more-luminous-screen-technology/"><u>Enhanced Durability and Display: Unveiling Samsung's Upgraded Galaxy Z Fold 5 with Superior Hinge Design and More Luminous Screen Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-samsung-tech-innovations-for-future-google-pixel-devices/"><u>Essential Samsung Tech Innovations for Future Google Pixel Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-technology-savings-shop-for-jbl-bar-700-speakers-fire-max-tablets-by-amazon-innovative-video-doorbells-and-more-deals/"><u>Exclusive Technology Savings: Shop for JBL Bar 700 Speakers, Fire Max Tablets by Amazon, Innovative Video Doorbells & More Deals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-chatgpts-new-capabilities-top-attractions-in-recent-upgrade/"><u>Explore ChatGPT’s New Capabilities - Top Attractions in Recent Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-android-12l-the-latest-innovations-in-mobile-operating-systems/"><u>Exploring Android 12L: The Latest Innovations in Mobile Operating Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixed-your-androids-missing-calls-problem-essential-solutions-and-tips-for-reliable-connectivity/"><u>Fixed Your Android's Missing Calls Problem? Essential Solutions and Tips for Reliable Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gain-permission-for-cameras-in-snapchat-easy-troubleshooting-steps/"><u>Gain Permission for Cameras in Snapchat – Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-phantom-v-flip-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Phantom V Flip to Protect Your Individual Information</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-15-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 15 iCloud Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-11-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 11 Without Previous Owner?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204890142-overcoming-laptop-compatibility-hurdles-get-your-usb-mouse-working-now/"><u>Overcoming Laptop Compatibility Hurdles – Get Your USB Mouse Working Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-applications-in-3d-animation-design-for-2024/"><u>Pioneering Applications in 3D Animation Design for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/profit-power-up-innovative-ways-to-earning-with-youtube-mobile-views/"><u>Profit Power-Up  Innovative Ways to Earning with YouTube Mobile Views</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-8-plus-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 8 Plus Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-3d-video-software-best-free-and-paid-solutions/"><u>Updated 3D Video Software Best Free and Paid Solutions</u></a></li>
+</ul></div>

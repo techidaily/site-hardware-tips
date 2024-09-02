@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mobile Photography: Techniques for Professional-Level Phone Shots"
-date: 2024-08-28 15:55:38
-updated: 2024-08-29 11:15:14
+date: 2024-09-01T08:27:44.045Z
+updated: 2024-09-02T08:27:44.045Z
 tags:
   - android
 categories:
@@ -80,12 +80,18 @@ Ben Lovejoy / How-To Geek
 
 ![2-Thirds4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-thirds4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  Here, I want the viewer to begin looking at the grille of the car and then follow the line of cars back. (That's another technique that can be useful to play with, known as leading lines.) So here, the grille is bottom-right.
 
 ![2-Thirds3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-thirds3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  In this final example, the woman is, of course, the subject of the shot, and I've positioned her roughly bottom-left. Again, mathematicians might object that her face is more like a sixth of the way from the left, but that's why I refer to it as a guide rather than a rule.
@@ -114,6 +120,9 @@ Ben Lovejoy / How-To Geek
 
  Don't assume that a scene has to be perfectly symmetrical for central placement to be the best choice. I still opted to centrally frame this gorgeous art deco Post Office in Miami, even though the building itself is not symmetrical. To me, the round central component is the focus here, and that part _is_ symmetrical. Again, use your judgment, and experiment, to see what you think looks best.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using Layers to Add Depth
 
  Photographs turn a three-dimensional scene into a two-dimensional image (though things like [Spatial Photos on Vision Pro](https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-blade-a73-5g-by-drfone-android/) may be changing that!). But we can often capture some of that 3D feel by using layering in our photos.
@@ -136,12 +145,18 @@ Ben Lovejoy / How-To Geek
 
  So, it seems I rather frequently use trees for foreground content! This shot of London's Tower Bridge similarly includes the tree on the right, partly to add depth to the shot but also to make for a more pleasing composition, the rounded shape mirroring the curve of the bridge supports.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Getting Creative With Angles
 
  The natural tendency of beginner photographers is to shoot everything square-on, from eye level. Try instead crouching down low, finding a way to get up high, or some other unusual angle. Again, a few examples.
 
 ![5-Angles3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-angles3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  In this case, I've gotten down low and shot directly upwards to create a more interesting view of the Lloyds of London building that we would have got from a more conventional angle.
@@ -154,22 +169,38 @@ Ben Lovejoy / How-To Geek
 
 ![5-Angles4-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-angles4-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  For a shot of this spectacular hotel atrium in Shanghai, I've taken the opposite approach. While it looked good shooting up from the lobby, I found that taking the elevator to the top floor and shooting down gave an even better view. I've also chosen a tight shot to fill the frame with nothing but the atrium.
 
 ![5-Angles7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-angles7.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  Finally, think laterally! It's hard to take a bad shot of a hot-air balloon, but since I was learning to fly them at the time, I had the opportunity to find an unusual angle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  Near & Far: Mixing It Up
 
  Most premium smartphones these days include both wide-angle and telephoto lenses, so rather than stick to the standard lens all the time, try experimenting with these. The great thing about that kind of flexibility is that you can get _very_ different-looking shots from the same place. For example, I visited a viewing deck in the City of London, and here are two photos taken from the same position:
 
 ![6-Wide-close1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close1.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  First, we have a wide-angle shot, which shows a good chunk of the city.
@@ -182,12 +213,24 @@ Ben Lovejoy / How-To Geek
 
 ![6-Wide-close0a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close0a.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  Back to San Francisco, and this is a classic view of the bridge from the viewing point on the Marin Headlands.
 
 ![6-Wide-close0b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close0b.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  But zoom in, and we get a _very_ different shot, again from the same place at the same time. It was this shot I ended up hanging on my wall.
@@ -200,6 +243,9 @@ Ben Lovejoy / How-To Geek
 
 ![6-Wide-close4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  A very close and tight shot of one of the nearby rock formations gave me a very abstract-looking shot that couldn't be more different.
@@ -212,6 +258,10 @@ Ben Lovejoy / How-To Geek
 
 ![6-Wide-close6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  Here's a telephoto shot taken from inside that same space (albeit from floor level rather than the top of the stairs).
@@ -236,3 +286,50 @@ Ben Lovejoy / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-top-5-best-3d-intro-makers-for-youtube/"><u>[New] 2024 Approved  Top 5 Best 3D Intro Makers for YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-innovative-designs-in-syma-x8c/"><u>[New] In 2024, Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-optimizing-your-youtube-video-presentation/"><u>[New] In 2024, Optimizing Your YouTube Video Presentation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones/"><u>[New] In 2024, Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-definitive-guide-for-quick-srt-to-txt-con/"><u>[New] In 2024, The Definitive Guide for Quick SRT to TXT Con</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>[Updated] Harnessing Skills  A Tailored Approach to Graphic Careers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-bandicams-new-features-the-2023-breakdown/"><u>[Updated] Navigating Bandicam's New Features – The 2023 Breakdown</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-simplify-crafting-effective-youtube-subscription-buttons-for-2024/"><u>[Updated] Simplify  Crafting Effective YouTube Subscription Buttons for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ace-your-gift-shopping-the-ultimate-guide-to-selecting-specialty-stores-for-2024/"><u>Ace Your Gift Shopping  The Ultimate Guide to Selecting Specialty Stores for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/boundless-playlist-public-domain-music-for-games-for-2024/"><u>Boundless Playlist  Public Domain Music for Games for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/charting-the-course-for-aspiring-pilots-why-microsoft-flight-simulator-x-gold-still-soars-in-reviews/"><u>Charting the Course for Aspiring Pilots: Why Microsoft Flight Simulator X Gold Still Soars in Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excursion-videography-tools-compilation-for-2024/"><u>Excursion Videography Tools Compilation for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-in-depth-testing-and-review-of-the-linksys-wrt1900acs-for-wi-fi-enthusiasts/"><u>Expert Insights: In-Depth Testing and Review of the Linksys WRT1900ACS for Wi-Fi Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-consolidate-repeated-names-in-your-android-contact-list/"><u>How to Consolidate Repeated Names in Your Android Contact List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-ensure-full-reception-of-sms-on-your-samsung-galaxy-device/"><u>How to Ensure Full Reception of SMS on Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-revive-battery-life-essential-tips-for-non-charging-android-phones/"><u>How To Revive Battery Life: Essential Tips for Non-Charging Android Phones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-v30-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme V30 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-ways-to-enhance-tech-gadgets-at-home-using-3d-printing-top-10-accessories-for-smartphones-and-computers/"><u>Innovative Ways to Enhance Tech Gadgets at Home Using 3D Printing – Top 10 Accessories for Smartphones & Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-mobile-podcast-software-on-android-devices-the-comprehensive-selection/"><u>Leading Mobile Podcast Software on Android Devices: The Comprehensive Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/managing-security-and-performance-on-outdated-android-devices/"><u>Managing Security and Performance on Outdated Android Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenges-steam-reconnects-with-its-network-successfully/"><u>Overcoming the Challenges: Steam Reconnects with Its Network Successfully</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-data-a-step-by-step-guide-to-tracking-application-interactions-with-your-clipboard-on-android-devices/"><u>Protect Your Data: A Step-by-Step Guide to Tracking Application Interactions with Your Clipboard on Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-how-to-instantly-read-qr-codes-with-your-android-device/"><u>Quick Guide: How to Instantly Read QR Codes with Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reversing-pictures-in-seconds-a-simple-tutorial-for-android-users/"><u>Reversing Pictures in Seconds: A Simple Tutorial for Android Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-teases-artificial-intelligence-capabilities-for-legacy-galaxy-devices/"><u>Samsung Teases Artificial Intelligence Capabilities for Legacy Galaxy Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-communication-tips-sending-messages-and-making-calls-without-a-signal/"><u>Seamless Communication Tips: Sending Messages & Making Calls without a Signal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplifying-multi-account-management-connect-more-than-one-google-id-to-an-android-smartphone-or-tablet/"><u>Simplifying Multi-Account Management: Connect More than One Google ID to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/staying-stuck-between-portability-and-power-the-dual-modes-of-androids-tablet-experience/"><u>Staying Stuck Between Portability & Power: The Dual Modes of Android's Tablet Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-uninstalling-quick-setting-widgets-on-your-android-device/"><u>Step-by-Step Guide: Uninstalling Quick Setting Widgets on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-google-pixel-with-the-latest-android-12l-os/"><u>Step-by-Step Guide: Upgrading Your Google Pixel with the Latest Android 12L OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-utilizing-googles-magic-eraser-feature-across-mobile-devices-androidiphone/"><u>Step-by-Step Tutorial: Utilizing Google's Magic Eraser Feature Across Mobile Devices (Android/iPhone)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-growing-trend-of-oversized-phones-understanding-consumer-choices/"><u>The Growing Trend of Oversized Phones: Understanding Consumer Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-long-lasting-charge-unihertz-phones-mega-23800-mah-battery/"><u>The Ultimate Long-Lasting Charge: Unihertz Phone's Mega 23,800 mAh Battery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-understated-charm-of-android-13-embracing-simplicity-over-spectacle/"><u>The Understated Charm of Android 13: Embracing Simplicity Over Spectacle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-essential-android-accessibility-options-for-enhanced-usability/"><u>Top 7 Essential Android Accessibility Options for Enhanced Usability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshoot-your-android-phones-camera-with-11-effective-solutions/"><u>Troubleshoot Your Android Phone's Camera with 11 Effective Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-android-devices-solutions-when-your-phone-wont-charge/"><u>Troubleshooting Android Devices: Solutions When Your Phone Won't Charge</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c50s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C50s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>

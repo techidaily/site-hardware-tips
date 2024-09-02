@@ -1,7 +1,7 @@
 ---
 title: How My Desire for Simplicity Led Me to Pre-Order the Unique Light Phone √†√≠ - Featuring a Rotary Dial and Handcrafted Design
-date: 2024-08-27 10:16:34
-updated: 2024-08-29 11:17:18
+date: 2024-09-01T08:26:34.698Z
+updated: 2024-09-02T08:26:34.698Z
 tags:
   - android
 categories:
@@ -25,10 +25,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Light Phone 2 was a credit-card-sized "minimalist" phone with an e-ink screen and a slew of shortcomings. Now, the Light Phone 3 appears to be solving some of those problems, and I've placed a pre-order. Despite how much I enjoy using my powerful smartphone, I'm considering making the shift.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ##  I Like Minimalist Phones
 
 ![Someone holding a Light Phone 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/light-phone-ii-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Light Phone
 
  I wouldn't say that being a technology writer means I use my phone more than most people, but it does mean I probably think about my phone more often.
@@ -41,6 +47,9 @@ Light Phone
 
  I think of them like the [Playdate](https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/), a black-and-white game console that feels like a modern take on the Game Boy. No one argues that it's better than a Nintendo Switch, but thousands of people have bought one anyway, and they love it. There is something to be appreciated about a niche device designed with care specifically for the kind of people who are into such a thing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ##  I Used the Light Phone 2 for Years
 
  I carried around a Light Phone 2 for years and loved it. In many ways, it delivered on its promise. No, buying a Light Phone doesn't magically make you less addicted to screens or turn you into an expert at all of your hobbies, but it does add friction where you might want there to be friction. Example: I watch much less YouTube when I have a Light Phone because while it's super convenient to watch a video on my phone at any time, I don't necessarily want to grab a laptop or a tablet. I'm also not going to walk down the hall staring at my laptop screen and ignoring family members the same way it's easy to do with my phone.
@@ -49,6 +58,9 @@ Light Phone
 
  When I read the [Light Phone 3 announcement](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/), nearly every single issue I had appears to be solved (though until I get the actual hardware, I can't say for sure).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What I'm Looking Forward to in the Light Phone 3
 
  One of my biggest frustrations with the Light Phone 2 had nothing to do with all the apps I had to give up. No, it was the charging port. The phone used microUSB. This charging cable was once ubiquitous, but those days are gone.
@@ -57,6 +69,9 @@ Light Phone
 
  The Light Phone 3 announcement says the phone will come with a USB-C port, 5G, and stronger radios. If Light re-released the Light Phone 2 with just these changes alone, I'd have been tempted to get one.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Sometimes, a Camera Is Necessary
 
 ![Light Phone 3 in a pocket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-in-a-pocket.png) 
@@ -77,6 +92,23 @@ Light Phone
 
 ![Light Phone 3 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-on-a-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 Light Phone
 
  The Light Phone 2 appeals to a lot of people looking to shrink their digital footprint, and part of that means the e-waste they generate. Unfortunately, while Light has supported the software on their phone for half a decade, the phone isn't easily repaired. It has a non-removable battery, and there is no easy way to get at the screen.
@@ -103,3 +135,71 @@ Light Phone
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elite-architects-best-of-breed-instragram-hlv-artisans/"><u>[New] 2024 Approved  Elite Architects  Best-of-Breed Instragram HLV Artisans</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-video-upload-techniques-for-youtube-via-premiere/"><u>[New] In 2024, Expert Video Upload Techniques for YouTube via Premiere</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-live-streamers-predicament-pick-between-wirecast-and-obs/"><u>[New] Live Streamer's Predicament  Pick Between Wirecast and OBS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-stepwise-journey-to-master-large-heads-in-tiktok-filmmaking-3-strategies-for-2024/"><u>[New] Stepwise Journey to Master Large Heads in TikTok Filmmaking (3 Strategies) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unshackle-your-gaming-experience-with-diverse-capture-tools-for-2024/"><u>[New] Unshackle Your Gaming Experience with Diverse Capture Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-camera-control-tips-for-unshakable-images/"><u>[Updated] Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>[Updated] Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools-for-2024/"><u>[Updated] Mastering the Art of Screen Recording  An In-Depth Look at ZD Software Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-short-form-video-popularity-on-youtube-for-2024/"><u>[Updated] Maximizing Short Form Video Popularity on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-meme-magic-perfect-10-design-tips-and-tricks-for-2024/"><u>[Updated] Meme Magic  Perfect 10 Design Tips & Tricks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tech-for-speedy-video-frame-snapping-for-2024/"><u>[Updated] Top Tech for Speedy Video Frame Snapping for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-epic-visual-storyteller-suite-top-tier/"><u>2024 Approved  Epic Visual Storyteller Suite - Top Tier</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unleash-creativity-on-screen-discover-the-best-reactions/"><u>2024 Approved  Unleash Creativity on Screen  Discover the Best Reactions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptive-tech-past-meets-present-innovative-adapters-for-mounting-gtx-960-onto-outdated-agp-connections/"><u>Adaptive Tech Past Meets Present: Innovative Adapters for Mounting GTX 960 Onto Outdated AGP Connections</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991004872-battlefront-ii-stability-solutions-no-more-pc-disruptions/"><u>Battlefront II Stability Solutions - No More PC Disruptions!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-xbox-storage-capacity-by-1tb-for-just-125-with-this-reliable-seagate-expansion-solution/"><u>Boost Xbox Storage Capacity by 1TB for Just $125 with This Reliable Seagate Expansion Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-now-exclusive-offer-on-corsairs-premium-4000d-case-and-psu-bundle-for-only-139-enhanced-airflow-and-durability/"><u>Buy Now! Exclusive Offer on Corsair's Premium 4000D Case and PSU Bundle for Only $139 – Enhanced Airflow & Durability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-gadget-analysis-by-tom-expert-reviews-and-advice/"><u>Comprehensive Gadget Analysis by Tom - Expert Reviews & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/constructing-a-stunning-mid-tower-with-disco-pixels-pc-and-the-sleek-inwin-309-case/"><u>Constructing a Stunning Mid-Tower with Disco Pixel's PC and the Sleek InWin 309 Case</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooling-solutions-redefined-by-silverstone-icemyst-targeting-hard-to-reach-areas-effortlessly/"><u>Cooling Solutions Redefined by SilverStone IceMyst: Targeting Hard-to-Reach Areas Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disabling-sound-amplification-in-windows-11-a-comprehensive-guide/"><u>Disabling Sound Amplification in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-apple-device-repair-how-the-new-self-service-initiative-empowers-users/"><u>DIY Apple Device Repair: How the New Self-Service Initiative Empowers Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/end-of-year-engineering-triumphs-a-recap-of-the-intense-system-builder-marathon-quarter-4-edition-2015/"><u>End-of-Year Engineering Triumphs: A Recap of the Intense System Builder Marathon, Quarter 4 Edition 2015</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-inwins-latest-collection-easy-to-assemble-flat-pack-cases-with-flexible-frame-options/"><u>Explore InWin's Latest Collection: Easy-to-Assemble Flat-Pack Cases with Flexible Frame Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-components-with-toms-hardware-hub/"><u>Exploring Advanced Components with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-with-toms-hardware-insights/"><u>Exploring High-Performance Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-tom-detailed-analysis-of-pc-gear/"><u>Exploring Tech with Tom: Detailed Analysis of PC Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-tom-a-deep-dive-into-technology-and-gadget-reviews/"><u>Exploring the World of Hardware with Tom: A Deep Dive Into Technology and Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computing-essentials-a-comprehensive-guide-t17239718718531/"><u>Exploring Tom's Computing Essentials: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-export-and-share-your-chatgpt-dialogues-using-these-apps/"><u>How to Export and Share Your ChatGPT Dialogues Using These Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A25 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-of-movies-a-scripts-role/"><u>In 2024, The Blueprint of Movies  A Script's Role</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-12-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 12 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-v29e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo V29e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-hub-comprehensive-gadget-reviews-and-benchmarks/"><u>Inside Tom’s Electronics Hub: Comprehensive Gadget Reviews & Benchmarks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-jonsbos-new-t6-itx-walnut-case-stylish-metal-and-wood-design-now-in-classic-black-or-sleek-silver/"><u>Introducing Jonsbo's New T6 ITX Walnut Case: Stylish Metal & Wood Design, Now in Classic Black or Sleek Silver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-tom-expert-advice-and-reviews/"><u>Mastering Hardware with Tom: Expert Advice and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-landscape-with-toms-gear-advice-a-hardware-guide/"><u>Navigating the Digital Landscape with Tom's Gear Advice: A Hardware Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalize-ai-conversations-building-your-custom-version-of-chatgpt-made-easy/"><u>Personalize AI Conversations: Building Your Custom Version of ChatGPT Made Easy</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-cougar-pc-enclosures-with-customizable-rgb-features-to-display-your-action-figure-collection-spotted-at-computex/"><u>Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-guide-designing-your-podcasts-rss-feed-for-2024/"><u>Simplified Guide  Designing Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-steelseries-atx-mid-tower-with-massive-savings-undercutting-the-market/"><u>Snag a SteelSeries ATX Mid Tower with Massive Savings Undercutting the Market!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-legal-game-music-sources-for-2024/"><u>The Ultimate List  Legal Game Music Sources for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/to-purchase-or-not-evaluating-the-value-of-meta-quest-pro-vr-headset/"><u>To Purchase or Not: Evaluating the Value of Meta Quest Pro VR Headset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-in-depth-reviews-and-buying-guides/"><u>Tom's Computer Components: In-Depth Reviews & Buying Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-expert-guides-on-new-hardware-technology/"><u>Tom's Computing Insights: Expert Guides on New Hardware Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advisor-expert-insights-on-computer-components-and-systems/"><u>Tom's Tech Advisor: Expert Insights on Computer Components and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis-t17239718718582/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-comprehensive-look-at-hardware/"><u>Tom's Tech Review: A Comprehensive Look at Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-expert-insights-into-the-latest-computer-gear/"><u>Tom's Tech: Expert Insights Into the Latest Computer Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-800-gaming-rig-ultimate-built-for-streaming-and-work/"><u>Top-Ranked $800 Gaming Rig: Ultimate Built for Streaming & Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964478248-unbeatable-price-alert-get-your-favorite-pc-case-phanteks-evolv-shift-2-itx-for-just-49-after-rebate-today/"><u>Unbeatable Price Alert! Get Your Favorite PC Case, Phanteks Evolv Shift 2 (ITX), for Just $49 After Rebate Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-the-ideal-80n-pc-setup-for-gamers-streamers-and-professionals/"><u>Unbeatable Value - The Ideal $80N PC Setup for Gamers, Streamers, and Professionals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/understanding-youtubes-user-interaction-options/"><u>Understanding YouTube's User Interaction Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlock-ultimate-convenience-and-safety-on-ios-discover-the-premier-password-protector-app/"><u>Unlock Ultimate Convenience & Safety on iOS - Discover the Premier Password Protector App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-guide-to-cutting-edge-technology/"><u>Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cropping-videos-like-a-pro-tips-tricks-and-techniques-using-avidemux/"><u>Updated In 2024, Cropping Videos Like a Pro Tips, Tricks, and Techniques Using Avidemux</u></a></li>
+</ul></div>

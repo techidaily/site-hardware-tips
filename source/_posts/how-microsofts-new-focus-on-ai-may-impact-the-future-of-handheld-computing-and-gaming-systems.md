@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems
-date: 2024-08-27 10:37:32
-updated: 2024-08-29 11:21:21
+date: 2024-09-01T08:21:35.267Z
+updated: 2024-09-02T08:21:35.267Z
 tags:
   - hardware
 categories:
@@ -49,6 +49,9 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -57,12 +60,18 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -73,6 +82,10 @@ Intel
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -103,3 +116,57 @@ Qualcomm
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-music-a-guide-to-coherence/"><u>[New] 2024 Approved  YouTube Music  A Guide to Coherence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphones-and-light-creating-impactful-silhouettes/"><u>[New] IPhones and Light  Creating Impactful Silhouettes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-youtube-monetization-mastery-how-to-monetize-youtube-videos/"><u>[Updated] 2024 YouTube Monetization Mastery  How to Monetize YouTube Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-3-proven-methods-to-enhance-your-music-archives/"><u>2024 Approved  3 Proven Methods to Enhance Your Music Archives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-alives-low-residue-sound-technique/"><u>2024 Approved  Alive's Low-Residue Sound Technique</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-heavens-phone-panorama-basics/"><u>2024 Approved  Capturing the Heavens  Phone Panorama Basics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x8b-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor X8b</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-steps-toward-constructing-an-energy-efficient-tech-savvy-abode/"><u>Affordable Steps Toward Constructing an Energy-Efficient, Tech-Savvy Abode</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-smart-rings-allowed-in-airports-understanding-security-check-regulations/"><u>Are Smart Rings Allowed in Airports: Understanding Security Check Regulations?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-water-driven-distortions-in-the-bathroom-top-4-strategies-for-optimal-audio-enjoyment/"><u>Avoid Water-Driven Distortions in the Bathroom: Top 4 Strategies for Optimal Audio Enjoyment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-overclocked-gpu-memory-improve-system-speed-and-efficiency-unpacking-the-myths/"><u>Can Overclocked GPU Memory Improve System Speed and Efficiency? Unpacking the Myths.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-ecoflow-delta-pro-3-battery-test-powering-your-home-with-reliable-energy-storage/"><u>Comprehensive EcoFlow Delta Pro 3 Battery Test: Powering Your Home with Reliable Energy Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-usb-categories-and-uses-understanding-every-type/"><u>Comprehensive Guide to USB Categories & Uses: Understanding Every Type</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-brother-wireless-hl-l2/"><u>Comprehensive Review of Brother Wireless HL-L2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-enhanced-artificial-intelligence-capabilities-on-your-new-samsung-galaxy-s22/"><u>Discover Enhanced Artificial Intelligence Capabilities on Your New Samsung Galaxy S22</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-a-comprehensive-review-of-2024s-finest-television-models/"><u>Discovering Excellence: A Comprehensive Review of 2024'S Finest Television Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-release-google-unveils-pixel-9-pro-surprisingly-sooner-than-expected/"><u>Early Release: Google Unveils Pixel 9 Pro Surprisingly Sooner than Expected</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-health-monitoring-with-samsungs-latest-galaxy-ring-innovation/"><u>Effortless Health Monitoring with Samsung's Latest Galaxy Ring Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-homekit-integration-with-the-kasa-ks240-smart-fan-controller-user-reviews/"><u>Effortless HomeKit Integration with the Kasa KS240 Smart Fan Controller - User Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-the-pixel-eighta-now-and-skip-the-long-wait-for-pixel-9-launch/"><u>Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-dimension-verification-the-first-step-in-assembling-your-custom-pc/"><u>Essential Dimension Verification: The First Step in Assembling Your Custom PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-savings-alert-score-your-new-samsung-gaming-display-limited-edition-pixel-watch-gen-2-pre-owned-macbook-air-units-plus-top-tech-specials/"><u>Exclusive Savings Alert! Score Your New Samsung Gaming Display, Limited Edition Pixel Watch Gen 2, Pre-Owned MacBook Air Units, Plus Top Tech Specials!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-trends-what-causes-the-diminishing-demand-for-high-performance-sd-cards-despite-their-advantages/"><u>Exploring Trends: What Causes the Diminishing Demand for High-Performance SD Cards Despite Their Advantages?</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-x-flip-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo X Flip Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-my-gadgets-from-headphones-to-activity-bands-empower-me-to-achieve-100plus-running-miles-monthly/"><u>How My Gadgets From Headphones to Activity Bands Empower Me to Achieve 100+ Running Miles Monthly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-scrutinizing-vsdc-screen-recording-capabilities/"><u>In 2024, Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-secure-your-watchlist-free-playlist-extractors-roundup/"><u>In 2024, Secure Your Watchlist  Free Playlist Extractors Roundup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-compatible-features-in-apples-upcoming-macos-sequoia/"><u>Intel-Compatible Features in Apple's Upcoming macOS Sequoia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kids-can-stay-connected-safely-with-t-mobiles-budget-friendly-monthly-12-child-sized-smartwatch/"><u>Kids Can Stay Connected Safely with T-Mobile’s Budget-Friendly Monthly $12 Child-Sized Smartwatch!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-legion-pro-7i-game-rig-evaluation-the-ultimate-16gb-ram-intel-i7-powerhouse/"><u>Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-during-amazons-prime-day-include-essential-surge-protectors-in-your-purchase/"><u>Maximize Savings During Amazon's Prime Day: Include Essential Surge Protectors in Your Purchase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-launched-satechi-charger-stands-compatible-with-qi2-and-apples-magsafe/"><u>Newly Launched Satechi Charger Stands Compatible with Qi2 & Apple's MagSafe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-powered-intelligent-living-space-setup-explained-in-detail/"><u>Raspberry Pi Powered Intelligent Living Space Setup Explained in Detail</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionize-video-production-150plus-complimentary-pp-samples-for-2024/"><u>Revolutionize Video Production  150+ Complimentary PP Samples for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/troubleshoot-black-screen-woes-in-youtube-playback-for-2024/"><u>Troubleshoot Black Screen Woes in Youtube Playback for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-hidden-purpose-of-this-innovative-logitech-pen/"><u>Uncover the Hidden Purpose of This Innovative Logitech Pen!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-mesh-wi-fi-networks-a-comprehensive-guide/"><u>Understanding Mesh Wi-Fi Networks: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-humor-kapwings-meme-crafting-app/"><u>Unleash Humor  Kapwing's Meme Crafting App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-impulse-buys-from-the-2024-amazon-prime-day-sale-extravaganza/"><u>Unmissable Impulse Buys From the 2024 Amazon Prime Day Sale Extravaganza!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-advanced-artificial-intelligence-chip-in-new-asus-rog-zephyrus-g16-laptop/"><u>Unveiling AMD's Advanced Artificial Intelligence Chip in New ASUS ROG Zephyrus G16 Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-functionality-of-mesh-wireless-technology-explained-simply/"><u>Unveiling the Functionality of Mesh Wireless Technology Explained Simply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-jbl-quantum-stream-the-ultimate-usb-mic-for-aspiring-podcasters/"><u>Unveiling the JBL Quantum Stream: The Ultimate USB Mic for Aspiring Podcasters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-how-every-printed-document-carries-hidden-identifiers/"><u>Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-speednova-experience-in-true-wireless-cetra-gaming-earphones-by-rog-sound-quality-and-latency-tested/"><u>Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-adding-a-docking-station-to-your-laptop-the-ultimate-guide/"><u>Why You Should Consider Adding a Docking Station to Your Laptop: The Ultimate Guide</u></a></li>
+</ul></div>

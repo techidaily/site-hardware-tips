@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to USB Categories & Uses: Understanding Every Type"
-date: 2024-08-27 23:57:32
-updated: 2024-08-29 11:23:33
+date: 2024-09-01T08:21:22.111Z
+updated: 2024-09-02T08:21:22.111Z
 tags:
   - hardware
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 [USB-A](https://vp-tips.techidaily.com/updated-in-2024-exploring-the-full-features-sony-fdr-x1000-model/), or USB Type A, is the original flat and rectangular connector that no one could ever figure out how to plug in correctly the first time. These cables always have USB-A on one end with a different [port type](https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/) on the other, and can be used for device charging and data transfer. USB-A is still widely used and can be found on devices like computers, gaming consoles, TVs, and all kinds of peripherals.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  USB-B
 
 ![Universal Serial Bus (USB) 3.0 type B connector isolated on white.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_527683615.jpg) 
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  USB-B is pretty much only used on large devices, like scanners or printers. Visually, this connector looks almost square. Most of these are USB-B to USB-A cables, though some newer devices have moved on from USB-B to smaller options, like Micro-USB or Mini-USB.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Micro-USB
 
 ![Micro USB on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_441139267.jpg) 
@@ -52,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  Micro-USB was the standard a while back for certain portable devices, like Android tablets and smartphones because it can transfer data and provide charge. It comes in both Type-A Micro and Type-B Micro flavors, and is smaller than USB-A. Some manufacturers still opt for using Micro-USB parts for their devices, as they're less costly than those for USB-C.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ##  Mini-USB
 
 ![Mini USB plug, cable seen in close-up on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_2419872495.jpg) 
@@ -60,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  As its name suggests, Mini-USB is a smaller version of USB-B. It was the standard for charging or transferring data from devices like tablets before Micro-USB was. There are also Type-A and Type-B versions of this connector. It's uncommon to see many products using Mini-USB today, though you can still find them on older electronics like MP3 players or the PlayStation 3 controller.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  USB-C
 
 ![The USB C plug on the Satechi USB C 2.5 Gigabit Ethernet Adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53398648272_e6e75bf794_o.jpg) 
@@ -76,6 +89,9 @@ Sergio Rodriguez / How-To Geek
 
 ![shutterstock_1932371783](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1932371783.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [108photo / Shutterstock](https://www.shutterstock.com/image-photo/currently-there-3-types-cable-charging-1932371783)
 
  Technically, Lightning is not USB, but rather Apple's proprietary connector type that works similarly to USB. You can see it on Apple's devices, like the iPad and iPhone. It's similar to USB-C in that it is reversible. It supports speeds similar to USB 3.0.
@@ -88,6 +104,9 @@ Sergio Rodriguez / How-To Geek
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The first, [USB 1.x](https://vp-tips.techidaily.com/brighten-your-surroundings-with-21plus-collage-wonders-for-2024/), is old and incredibly slow, and can only move 1.5 Mbps. Your odds of finding a device in the wild still on 1.0 are slim to none. The slightly less old (and comfortably slow) USB 2.0, however, is still relatively common. 2.0 has a full-speed option that can handle 12 Mbps, and a high-speed version that can handle 480 Mbps. That's plenty for a lot of peripherals you probably use with your computer, which is why [many PCs still come with USB 2.0 ports](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-pro-phones-by-drfone-android/). In comparison, SuperSpeed USB 3.x can transfer data between 5 to 20 Gbps.
@@ -104,6 +123,9 @@ Jerome Thomas / How-To Geek
 
  In contrast, [USB PD](https://vp-tips.techidaily.com/updated-2024-approved-audience-engagement-trends-to-master-on-instagram/) can handle up to 100W, which is powerful enough to power things like a MacBook Pro, monitors, docking stations, and most TVs. It can also fast-charge smaller compatible devices like your phone or Nintendo Switch. PD also only provides the necessary charge to your device but won't overcharge it. Newer [battery banks](https://www.reviewgeek.com/49104/why-everyone-should-own-a-portable-battery/) are starting to support USB PD, which are more capable of keeping your power-hungry devices powered and fully charged.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Future-Proof With Video Delivery
 
 ![Plugable Thunderbolt 4 set up on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53297961788_658d0b8238_o.jpg) 
@@ -112,6 +134,9 @@ Sergio Rodriguez / How-To Geek
 
  Being able to transfer data _and_ power a device is already impressive. But you can also choose to [use USB-C to connect to monitors](https://video-content-creator.techidaily.com/updated-in-2024-ditch-windows-10-photos-explore-these-8-superior-image-editing-tools/) in place of a bulky HDMI or VGA cable. USB-C also has support for 4K video delivery to a screen. Thunderbolt 4 cables can handle displaying [4K](https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a78-5g-without-puk-codes-by-drfone-android/) content on two monitors at a time, or 8K on a single monitor. Again, this isn't going to be the use case for most people, but as 4K and [8K video](https://video-screen-grab.techidaily.com/updated-thor-vs-jormungandr-ragnaroks-eve-for-2024/) becomes more commonplace, you'll eventually need a cable that can keep up.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  How to Know If You're Using a Safe USB Cable
 
  The rule of thumb is that you should always use the cable that came with your device and that you should buy any replacements from the manufacturer as well. That cable is specifically engineered to be used with your phone, tablet, or computer.
@@ -132,3 +157,52 @@ Sergio Rodriguez / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-advanced-steganography-in-videos-hiding-the-unseen/"><u>[New] 2024 Approved  Advanced Steganography in Videos  Hiding the Unseen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-guide-to-retrieving-and-saving-gifs-from-facebooks-domain/"><u>[New] Guide to Retrieving and Saving GIFs From Facebook's Domain</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ideal-combo-top-10-recommended-tools-for-vimeo-download/"><u>[New] In 2024, Ideal Combo  Top 10 Recommended Tools for Vimeo Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>[Updated] Newbie’s Manual to Vector Art  Grasping Different Kinds & Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sharing-laughter-iphone-memes/"><u>[Updated] Sharing Laughter  IPhone Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[Updated] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-comprehensive-guide-stopping-ad-tracker-intrusion-on-your-android-device/"><u>1. Comprehensive Guide: Stopping Ad Tracker Intrusion on Your Android Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-lol-factory-robotic-deadwalkers/"><u>2024 Approved  LOL Factory  Robotic Deadwalkers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-optimizing-story-video-playback-rate-on-instagram-app/"><u>2024 Approved  Optimizing Story Video Playback Rate on Instagram App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/androids-nearby-share-feature-set-to-deliver-enhanced-convenience/"><u>Android's Nearby Share Feature Set to Deliver Enhanced Convenience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-smart-ai-integration-new-possibilities-for-previous-generation-samsung-galaxies/"><u>Anticipating Smart AI Integration: New Possibilities for Previous Generation Samsung Galaxies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-top-10-articles-praised-by-our-audience/"><u>Best of the Best: Top 10 Articles Praised by Our Audience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/closer-than-ever-to-flawlessness-a-comprehensive-look-at-the-samsung-galaxy-s22/"><u>Closer Than Ever to Flawlessness - A Comprehensive Look at the Samsung Galaxy S22</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-drivers-for-logitech-c270-hd-webcam-on-windows-10-and-11-fast-download-links-here/"><u>Compatible Drivers for Logitech C270 HD Webcam on Windows 10 and 11: Fast Download Links Here!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-explore-whats-underneath-the-google-pixel/"><u>Comprehensive Breakdown: Explore What's Underneath the Google Pixel 지대폭발</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-capabilities-of-samsung-photo-studio/"><u>Decoding the Capabilities of Samsung Photo Studio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-mystery-of-frequent-cold-callers-identities-and-intentions-explored/"><u>Decoding the Mystery of Frequent Cold Callers: Identities & Intentions Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-exciting-features-of-your-upcoming-magsafe-enabled-android-device/"><u>Discover the Exciting Features of Your Upcoming MagSafe-Enabled Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-high-memory-usage-by-applications-in-android-phones/"><u>Discovering High Memory Usage by Applications in Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/divide-the-total-distance-traveled-by-all-vehicles-by-the-circumference-of-the-earth-to-find-how-many-times-around-the-earth-this-distance-would-go/"><u>Divide the Total Distance Traveled by All Vehicles by the Circumference of the Earth to Find How Many Times Around the Earth This Distance Would Go.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-android-14-beta-2-without-owning-a-pixel-device-now-available/"><u>Download Android 14 Beta 2 Without Owning a Pixel Device - Now Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-to-block-unwanted-robocalls-on-your-android-device/"><u>Effective Strategies to Block Unwanted Robocalls on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-execute-tasks-with-a-simple-tap-at-the-rear-of-your-android-smartphone/"><u>Efficiently Execute Tasks with a Simple Tap at the Rear of Your Android Smartphone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968320615-effortless-setup-with-thrustmaster-t150-drivers-download-now/"><u>Effortless Setup with Thrustmaster T150 Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-ways-to-enable-auto-connect-to-wi-fi-networks-on-your-android-device/"><u>Effortless Ways to Enable Auto-Connect to Wi-Fi Networks on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-affordable-mobile-tech-how-qualcomms-snapdragon/"><u>Elevating Affordable Mobile Tech: How Qualcomm’s Snapdragon</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-tweets-as-mp3-audios-via-downloads/"><u>In 2024, Capture Tweets as MP3 Audios via Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-utilize-legal-free-clip-art-resources/"><u>In 2024, How to Utilize Legal, Free Clip-Art Resources</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-lights-camera-action-easy-movie-making-for-all/"><u>New In 2024, Lights, Camera, Action! Easy Movie Making for All</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-visual-output-integrating-luts-into-ae-projects-for-2024/"><u>Perfecting Visual Output  Integrating LUTs Into AE Projects for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>Premium Cloud Services on Android  The Ultimate 2024 Compilation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-benefits-of-deleting-idle-android-applications-enhance-your-devices-performance/"><u>The Benefits of Deleting Idle Android Applications: Enhance Your Device's Performance!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-guide-top-10-facts-you-need-to-consider-when-investing-in-a-foldable-smartphone/"><u>The Essential Guide: Top 10 Facts You Need to Consider When Investing in a Foldable Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-newly-released-unihertz-smartphone-with-its-stunning-5-inch-display/"><u>The Newly Released Unihertz Smartphone with Its Stunning 5-Inch Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-performance-on-your-mobile-device/"><u>Top 8 Essential Tips for Maintaining Optimal Performance on Your Mobile Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-kid-friendly-tablets-your-ultimate-guide/"><u>Top Recommended Kid-Friendly Tablets : Your Ultimate Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-to-fix-valheims-unresponsive-launches/"><u>Troubleshooting Tips to Fix Valheim's Unresponsive Launches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-extended-ram-on-android-devices-feature-or-marketing-hype/"><u>Understanding Extended RAM on Android Devices: Feature or Marketing Hype?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-your-notifications-a-comprehensive-walkthrough-for-android-users/"><u>Unlock the Secrets of Your Notifications - A Comprehensive Walkthrough for Android Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-luxurious-design-of-the-google-pixel-fold-a-premium-foldable-smartphone/"><u>Unveiling the Luxurious Design of the Google Pixel Fold: A Premium Foldable Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-horizon-the-launch-of-samsungs-galaxy-s23-awaits-this-february/"><u>Unveiling the New Horizon: The Launch of Samsung's Galaxy S23 Awaits This February</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-why-google-defends-the-lagging-performance-of-pixel-6s-fingerprint-recognition-system/"><u>Unveiling Why Google Defends the Lagging Performance of Pixel 6'S Fingerprint Recognition System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/whats-next-after-pixel-9-a-sneak-peek-into-the-upcoming-made-by-google-2024/"><u>What's Next After Pixel 9? A Sneak Peek Into the Upcoming Made by Google 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-is-it-time-for-a-replacement-identifying-overuse-symptoms-in-4-year-old-android-phones/"><u>When Is It Time for a Replacement? Identifying Overuse Symptoms in 4-Year-Old Android Phones</u></a></li>
+</ul></div>

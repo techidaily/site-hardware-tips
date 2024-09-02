@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones"
-date: 2024-08-27 11:27:11
-updated: 2024-08-29 10:16:18
+date: 2024-09-01T08:23:31.181Z
+updated: 2024-09-02T08:23:31.181Z
 tags:
   - android
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  In this guide, we'll cover how to empty the trash for Google Photos and Files by Google, which are two of the popular gallery and file manager apps for this operating system. If you use a different app, check the "Recently Deleted" folder, "Trash," or similar places to find and [remove your deleted files](https://youtube-zero.techidaily.com/024-approved-the-definitive-guide-to-crafting-videos-on-youtube/).
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Clear the Trash in Google Photos
 
  To [clear your deleted photos](https://screen-recording.techidaily.com/2024-approved-obs-tutorial-capturing-every-moment-of-gameplay/) and videos, first, launch the Google Photos app on your Android phone.
@@ -43,18 +46,30 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![Screenshot of Google Photos trash, screenshot pointing at the menu icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-google-photos-trash-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From the three-dot menu, select "Empty Trash."
 
 ![Arrow pointing at Empty Trash](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-google-photos-empty-trash.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the prompt, choose "Allow" to confirm your choice.
 
  Make sure you're okay with permanently losing all the items in your trash. You can't recover them once they're gone.
 
 ![Arrow pointing at the Allow button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-google-photos-deletion-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And Google Photos will permanently delete everything from the trash. You're all set.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ##  Empty the Trash in Files by Google
 
  If you [use Files by Google](https://facebook-videos.techidaily.com/updated-recorded-reality-facebook-live-2023/) as your file manager and you want to clear the trash, first, launch the Files by Google app on your phone.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![Arrow pointing at the delete button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-files-by-google-removal-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  And you're done. Files by Google will delete your trashed files for good.
 
 ##  Other Ways to Free Up an Android Phone's Storage
@@ -97,3 +115,44 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-become-a-pro-in-calculating-youtube-ratio-measures/"><u>[New] In 2024, Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-minirecord-screen-snapshot-evaluation/"><u>[New] In 2024, MiniRecord  Screen Snapshot Evaluation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-leading-tools-for-instantaneous-gif-to-video-transformation/"><u>[Updated] 2024 Approved  Leading Tools for Instantaneous GIF to Video Transformation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-prime-windows-11-software-for-cutting-edge-editing-for-2024/"><u>[Updated] Prime Windows 11 Software for Cutting-Edge Editing for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-picking-between-filmora-and-democracy-creator-for-edits/"><u>2024 Approved  Picking Between Filmora and Democracy Creator for Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-scope-on-splitcam-highest-quality-camera/"><u>2024 Approved  The Scope on SplitCam  Highest Quality Camera?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-visual-vanguard-revived-radeon/"><u>2024 Approved  Visual Vanguard  Revived Radeon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-cable-modem-models-reviewed-for-optimal-internet-speed/"><u>2024'S Most Effective Cable Modem Models Reviewed for Optimal Internet Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3d-ideal-printer-selection-for-startup-enterprises/"><u>3D: Ideal Printer Selection for Startup Enterprises</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-acer-chromebook-perfect-blend-of-features-and-value/"><u>Affordable Acer Chromebook: Perfect Blend of Features and Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-bluetooth-free-airtube-headphones-actually-effective-and-true-to-claims/"><u>Are Bluetooth-Free AirTube Headphones Actually Effective and True to Claims?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-the-limitations-a-closer-look-at-samsung-and-ubreakifixs-insufficient-partnership/"><u>Assessing the Limitations: A Closer Look at Samsung and uBreakiFix's Insufficient Partnership</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-technology-products-including-smart-security-cctv-systems-anker-portable-chargers-and-razor-pro-gaming-audio-equipment/"><u>Best Bargains on Technology Products: Including Smart Security CCTV Systems, Anker Portable Chargers & Razor Pro-Gaming Audio Equipment</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-14-pro-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 14 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/dji-drone-limited-use-color-filters-complimentary/"><u>DJI Drone  Limited-Use Color Filters – Complimentary</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-stutter-in-elden-ring-fast-fixes-you-can-do-today/"><u>Eliminate Stutter in Elden Ring - Fast Fixes You Can Do Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g84-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G84 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/memory-mine-for-moments/"><u>Memory Mine for Moments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-between-innovation-and-standardization-a-guide-to-engaging-the-millennial-market-in-banking-and-finance-insights-from-abbyy/"><u>Navigating Between Innovation and Standardization: A Guide to Engaging the Millennial Market in Banking & Finance - Insights From ABBYY</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-alternatives-to-a-high-end-processor-save-money-and-stay-efficient/"><u>Top 5 Alternatives to a High-End Processor: Save Money and Stay Efficient</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-travel-friendly-televisions-of-2024/"><u>Top Rated Travel-Friendly Televisions of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-home-protection-solutions/"><u>Top-Ranked Home Protection Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-alan-wake-2-stability-issues-top-tips-for-gamers/"><u>Troubleshooting Alan Wake 2 Stability Issues: Top Tips for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-with-logitechs-keys-to-go-2-a-revolutionary-compact-keyboard-solution/"><u>Ultimate Portability with Logitech's Keys-To-Go 2: A Revolutionary Compact Keyboard Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-1440pqhd-resolution-key-facts-and-insights/"><u>Understanding 1440P/QHD Resolution: Key Facts and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-debate-a-deep-dive-into-the-controversial-new-anti-cheat-tech/"><u>Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-role-and-benefits-of-placeholder-memory-chips-for-personal-computing-enthusiasts/"><u>Understanding the Role and Benefits of Placeholder Memory Chips for Personal Computing Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undetected-backdoor-discovered-how-a-security-glitch-endangers-amd-cpu-users-with-stealthy-malware/"><u>Undetected Backdoor Discovered: How a Security Glitch Endangers AMD CPU Users with Stealthy Malware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwind-with-bargains-top-deals-on-noise-canceling-earbuds-for-better-sleep/"><u>Unwind with Bargains: Top Deals on Noise-Canceling Earbuds for Better Sleep</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tablet-experience-discover-why-the-zagg-pro-stylus-2-is-an-essential-accessory-for-every-ipad-owner/"><u>Upgrade Your Tablet Experience: Discover Why the ZAGG Pro Stylus 2 Is an Essential Accessory for Every iPad Owner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/week-in-review-changes-to-netflix-plans-and-top-tips-for-upgrading-iphone-repairs/"><u>Week in Review: Changes to Netflix Plans & Top Tips for Upgrading iPhone Repairs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-overcame-my-dislike-of-subscriptions-with-oura-ring/"><u>Why I Overcame My Dislike of Subscriptions with Oura Ring</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-thunderbolt-technology-will-revolutionize-your-laptop-experience-what-you-need-to-know/"><u>Why Thunderbolt Technology Will Revolutionize Your Laptop Experience - What You Need to Know!</u></a></li>
+</ul></div>

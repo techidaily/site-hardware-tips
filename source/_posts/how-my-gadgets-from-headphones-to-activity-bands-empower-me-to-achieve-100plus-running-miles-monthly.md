@@ -1,7 +1,7 @@
 ---
 title: How My Gadgets From Headphones to Activity Bands Empower Me to Achieve 100+ Running Miles Monthly
-date: 2024-08-26 12:38:30
-updated: 2024-08-29 10:14:28
+date: 2024-09-01T08:21:36.391Z
+updated: 2024-09-02T08:21:36.391Z
 tags:
   - hardware
 categories:
@@ -37,26 +37,42 @@ Tyler Hayes / How-To Geek
 
  Since I run without a phone, I have no way to take photos while out running. If I’m somewhere unique, I like to use the [Meta Ray-Ban Smart Glasses](https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/) because they’re sunglasses, have a camera built-in, don’t plug my ears, and sound great. These won’t work for night running, but during the summer they merge two devices into one.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ##  Wearables
 
 ![Apple Watch Ultra 2 showing activity rings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/apple-watch-ultra-2-showing-activity-rings-2.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I credit the Apple Watch’s run-tracking and activity rings for some of my early success. While I’m not running for the metrics, I do want to get credit for them if I’m doing physical work. The watch tracks a lot of data during my runs and then keeps it synced across my devices. The latest [Apple Watch Ultra 2](https://youtube-help.techidaily.com/new-mastering-your-youtube-pinpointing-a-specialized-audience/) has been great with its big and bright display and Action button for quick access to workouts.
 
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How To Geek
 
  In addition to the Apple Watch, I wear an [Oura smart ring](https://tech-recovery.techidaily.com/step-by-step-fix-for-coredll-absent-mistake-on-your-computer/). The watch does a great job of tracking _during_ my run, but the Oura ring is easier to wear at night to do sleep tracking. Because of that sleep tracking, it also does a better job of alerting me to if my body is ready for more or less exercise each particular day. Ideally, I wouldn’t need to wear two fitness trackers, but until one can cover it all there are enough features for each to justify wearing both.
 
  If you do wear an Apple Watch for running or other exercise, I’ve found the [Nomad Sport Band](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2002948%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fsport-band-night-watch-red) to be good at staying tight to monitor my heart rate, but also flexible and comfortable enough that I don't want to take it off. I also haven't had one be ruined by sweat yet.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Other Running-Related Gear
 
 ![Withings Body Scan in the black color option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-in-the-black-color-option.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  While a digital scale isn’t directly tied to my running, I use one in combination with my daily fitness. Currently, I’m using the [Withings Body Scan](https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-15-plusipadipod-by-drfone-ios/). For my more basic uses, it’s overkill, but if you do need to take an ECG regularly or monitor other advanced metrics, it works great.
@@ -79,3 +95,38 @@ Tyler Hayes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users-for-2024/"><u>[New] 8 Compelling No-Cost Video Calls Applications for PC and MAC Users for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-cover-videos-demystified-what-everyone-should-know/"><u>[New] FB Cover Videos Demystified  What Everyone Should Know</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-transform-your-videos-the-ultimate-guide-to-spinning-media-for-2024/"><u>[New] Transform Your Videos  The Ultimate Guide to Spinning Media for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-zooms-full-potential-with-essential-3-methods/"><u>[New] Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cutting-edge-5-home-movie-maker/"><u>[Updated] 2024 Approved  Cutting-Edge 5 Home Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editors-insight-to-seamless-lut-integration-in-premiere/"><u>[Updated] The Editor's Insight to Seamless LUT Integration in Premiere</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-microsofts-new-focus-on-ai-may-impact-the-future-of-handheld-computing-and-gaming-systems/"><u>How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevating-live-game-coverage-tips-and-tricks/"><u>In 2024, Elevating Live Game Coverage  Tips and Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-live-tweets-strategies-unveiled/"><u>In 2024, Leveraging Live Tweets  Strategies Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/regain-control-how-to-combat-cellphone-disruption-in-four-easy-steps/"><u>Regain Control: How to Combat Cellphone Disruption in Four Easy Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliving-the-good-old-days-the-unforgettable-aspects-of-dial-up-connections/"><u>Reliving the Good Old Days: The Unforgettable Aspects of Dial-Up Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/repurposing-your-unused-tablet-as-a-pet-entertainment-device/"><u>Repurposing Your Unused Tablet as a Pet Entertainment Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-gaming-the-impact-of-switching-to-a-curved-ultrawide-display/"><u>Revolutionizing Gaming: The Impact of Switching to a Curved Ultrawide Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-integrate-android-autocarplay-into-your-vehicle-with-simple-steps/"><u>Seamlessly Integrate Android Auto/CarPlay Into Your Vehicle with Simple Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-your-ideal-aqara-smart-lock-models-a-comprehensive-guide/"><u>Selecting Your Ideal Aqara Smart Lock Models: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sony-ult-field-7-audio-review-the-ultimate-party-boombox-with-powerful-bass/"><u>Sony ULT Field 7 Audio Review: The Ultimate Party Boombox with Powerful Bass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-up-your-slow-mo-game-expert-guide-for-amazing-android-videos-for-2024/"><u>Step Up Your Slow Mo Game  Expert Guide for Amazing Android Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-strategies-to-locate-and-retrieve-lost-airpods-devices/"><u>Step-by-Step Strategies to Locate and Retrieve Lost AirPods Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surface-pros-revolutionary-shift-from-intel-processors-to-snapdragon-chips/"><u>Surface Pro's Revolutionary Shift: From Intel Processors to Snapdragon Chips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-advantages-of-opting-for-a-high-performance-arm-copilotplus-system/"><u>The Advantages of Opting for a High-Performance ARM-Copilot+ System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-futuristic-privacy-protecting-cameras-that-convert-humans-to-stick-figures/"><u>The Futuristic Privacy-Protecting Cameras That Convert Humans to Stick Figures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/title-video-card-comparison-tactics-how-to-perform-accurate-benchmark-tests/"><u>Title: Video Card Comparison Tactics: How To Perform Accurate Benchmark Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-alternatives-to-a-high-end-processor-save-money-and-stay-efficient/"><u>Top 5 Alternatives to a High-End Processor: Save Money and Stay Efficient</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-travel-friendly-televisions-of-2024/"><u>Top Rated Travel-Friendly Televisions of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-home-protection-solutions/"><u>Top-Ranked Home Protection Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-with-logitechs-keys-to-go-2-a-revolutionary-compact-keyboard-solution/"><u>Ultimate Portability with Logitech's Keys-To-Go 2: A Revolutionary Compact Keyboard Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-1440pqhd-resolution-key-facts-and-insights/"><u>Understanding 1440P/QHD Resolution: Key Facts and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-debate-a-deep-dive-into-the-controversial-new-anti-cheat-tech/"><u>Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech</u></a></li>
+</ul></div>

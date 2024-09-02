@@ -1,7 +1,7 @@
 ---
 title: How iOS 16 Borrowed These 13 Ideas From Android, According to Tech Experts
-date: 2024-08-27 12:42:17
-updated: 2024-08-29 11:29:51
+date: 2024-09-01T08:28:46.673Z
+updated: 2024-09-02T08:28:46.673Z
 tags:
   - android
 categories:
@@ -33,12 +33,18 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Game Mode made its way from [macOS](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/) to iOS, a feature that the first wave of Android gaming phones pioneered before it got baked into [Android 12](https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions) in 2021\. Game mode minimizes background activity and focuses processing power on your game to achieve better in-game performance and lower latency for accessories like AirPods and wireless controllers.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  RCS Messaging
 
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
 
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  App Lock
 
 ![iPhone iOS 18 app lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-ios-18-app-lock.png) 
@@ -49,14 +55,23 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Custom Lock Screen Shortcuts
 
 ![Custom lock screen shortcuts in iOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/newvoideop-1.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 [Apple](https://www.apple.com/mt/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/)
 
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ##  Password Manager
 
 ![iPhone Passwords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-passwords.png) 
@@ -65,10 +80,16 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  You can actually use Google Password Manager on iOS as well, but it's great to see that Apple is now adding a first-party Passwords app. It'll store your Wi-Fi passwords, passcodes, and verification codes as well, so it'll be a real log-in one-stop shop.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Customization in the Control Center
 
 ![iOS 18 control center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios-18-control-center.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  Apple's Control Center is getting a customization overhaul with iOS 18\. You can change the layout completely by adding custom groups and resizing individual settings. The most exciting part is that you'll now be able to add third-party features directly from the Control Center, such as remote car unlock. [Quick settings customization](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) and third-party options have always been available on custom Android skins, but they were added to the OS with Android 6 in 2015.
 
 ##  Apple Mail Categories
@@ -79,6 +100,9 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Credit where credit is due: I quite like the new digest view that consolidates all emails from a business into one window. This view allows you to quickly check snippets of all emails from a business without having to fiddle around with the search function.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  Calendar Reminders
 
  The Calendar app will now show tasks you create in Reminders. Although this is a simple change, it's a game-changer for busy individuals who rely on their notes to keep track of daily tasks. Google Calendar does the same with Google Tasks and, to a lesser extent, Google Keep, but we'll see [Keep and Tasks sync up](https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/) sometime soon. Ultimately, both Android and iOS will have identical calendar functions when these changes come around.
@@ -89,6 +113,9 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  On-Device AI
 
 ![Apple Intelligence presentation slide at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_splash.png) 
@@ -119,3 +146,41 @@ Apple
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unmatched-budget-friendly-camera-challenges/"><u>[New] In 2024, Unmatched Budget-Friendly Camera Challenges</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-video-chat-on-windows-1-8/"><u>[New] Optimal Video Chat on Windows  #1-8</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-seamless-access-track-down-your-latest-facebook-watches/"><u>[Updated] In 2024, Seamless Access  Track Down Your Latest Facebook Watches</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-detailed-walkthrough-implementing-microsoft-azure-speech-services/"><u>2024 Approved  Detailed Walkthrough  Implementing Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-youtube-livestreams-webcam-selection-mastery/"><u>2024 Approved  Enhance YouTube Livestreams  Webcam Selection Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-the-desk-of-tom-at-techvanguard/"><u>Advanced PC Insights From the Desk of Tom at TechVanguard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-pioneer-mike-clark-on-speeding-up-zen-5-release-and-transforming-desktop-processors-with-compact-cores/"><u>AMD’s Pioneer, Mike Clark, on Speeding up Zen-5 Release and Transforming Desktop Processors with Compact Cores</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-4k-visuals-top-picks/"><u>Budget-Friendly Premium 4K Visuals: Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-these-awesome-monitor-deals-of-2024-4k-brilliance-meets-gamers-needs/"><u>Catch These Awesome Monitor Deals of 2024: 4K Brilliance Meets Gamers’ Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-technology-hub/"><u>Comprehensive Hardware Guides by Tom's Technology Hub</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensuring-accurate-dell-webcam-driver-updates-a-complete-guide/"><u>Ensuring Accurate Dell Webcam Driver Updates: A Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-zero-30-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Zero 30 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-pova-5-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Pova 5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selfies-in-focus-iphones-8-innovative-tools/"><u>In 2024, Selfies in Focus  IPhone's #8 Innovative Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/revolutionize-your-unboxings-proven-tactics-to-impress-on-instagram/"><u>Revolutionize Your Unboxings  Proven Tactics to Impress on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862818642-revolutionize-your-visual-experience-with-the-incredible-deal-lgs-34-curved-monitor-for-only-499-upgrade-now/"><u>Revolutionize Your Visual Experience with the Incredible Deal: LG's 34 Curved Monitor for Only $499 - Upgrade Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/tech-giant-apple-relaxes-restrictions-on-iphone-spare-pieces-market/"><u>Tech Giant Apple Relaxes Restrictions on iPhone Spare Pieces Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-reviews-and-insights-by-toms-hardware-your-ultimate-guide/"><u>Tech Reviews & Insights by Tom's Hardware: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-resource-following-toms-hardware-trail/"><u>The Ultimate Tech Resource: Following Tom's Hardware Trail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-f04-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy F04</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/title-in-depth-performance-analysis-of-the-asus-rog-strix-xg27acs-at-an-unmatched-180hz-for-gamers/"><u>Title: In-Depth Performance Analysis of the Asus ROG Strix XG27ACS at an Unmatched 180Hz for Gamers.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-gear-insights/"><u>Tom's Tech Hub: Comprehensive Reviews & Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware-t17238628801375/"><u>Tom's Tech Hub: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-display-panels-of-2024-ideal-for-gamers-and-remote-work/"><u>Top Rated Portable Display Panels of 2024: Ideal for Gamers & Remote Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-a-stunning-lg-34-inch-curved-ultragear-monitor-for-just-under-500/"><u>Transform Your Workspace with a Stunning LG 34-Inch Curved UltraGear Monitor for Just Under $500.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-aoc-agon-pro-ag456uczd-top-rated-45-ultrawide-oled-gamers-dream-display-with-incredible-speed-and-design/"><u>Ultimate Guide to the AOC Agon Pro AG456UCZD - Top Rated 45 Ultrawide OLED Gamer's Dream Display with Incredible Speed & Design!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817578-unbeatable-deal-alert-dell-s3222dgm-top-ranked-monitor-now-at-an-all-time-price-drop-to-229/"><u>Unbeatable Deal Alert! Dell S3222DGM: Top-Ranked Monitor Now at an All-Time Price Drop to $229!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862829204-unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-in-depth-hardware-review-hub/"><u>Unveiling Gadgets with Tom: In-Depth Hardware Review Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-comprehensive-review-of-feelworlds-foldable-monitor-dh1-for-tech-enthusiasts-seeking-compactness-and-functionality/"><u>Unveiling the Potential: Comprehensive Review of Feelworld's Foldable Monitor DH1# for Tech Enthusiasts Seeking Compactness and Functionality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-10-explainer-video-tools-to-boost-your-brand/"><u>Updated 2024 Approved Top 10 Explainer Video Tools to Boost Your Brand</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-entertainment-asrocks-spectacular-32-inch-er-hz-oled-tv-perfect-for-router-connections/"><u>Upgrade Your Entertainment: ASROCK's Spectacular 32-Inch, Er Hz OLED TV - Perfect for Router Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/vaio-shatters-weight-barrier-the-incredible-visionplus-14-a-record-breakingly-lightweight-monitor-at-072-pounds/"><u>Vaio Shatters Weight Barrier - The Incredible Vision+ 14, a Record-Breakingly Lightweight Monitor at 0.72 Pounds</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/viacheslav-prodan-expertise-in-directing-systemic-operations-and-streamlined-automation/"><u>Viacheslav Prodan: Expertise in Directing Systemic Operations & Streamlined Automation</u></a></li>
+</ul></div>

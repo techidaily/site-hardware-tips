@@ -1,7 +1,7 @@
 ---
 title: "Unlock Full Customization Potential with the Drop CSTM^65: The Ultimate Mechanical Keyboard for Personalized Use"
-date: 2024-08-26 23:48:48
-updated: 2024-08-29 11:36:54
+date: 2024-09-01T08:23:24.643Z
+updated: 2024-09-02T08:23:24.643Z
 tags:
   - hardware
 categories:
@@ -115,6 +115,9 @@ Jerome Thomas / How-To Geek
 
 ![Side view of the drop CSTM65 keyboard with a custom cover attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/side-view-of-the-drop-cstm65-keyboard-with-a-custom-cover-attachedjpg_53518383577_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The CSTM65's claim to fame is that it has loads of customization options. Among those, the swappable top case is one of the more interesting ones. All it takes is unplugging the cable from the CSTM65 and lifting the top case off. The built-in magnets mean no fuss. Popping a new plate on is just as easy.
@@ -125,10 +128,18 @@ Jerome Thomas / How-To Geek
 
  I like that you can choose your own weight and that it's visible when you flip the keyboard over. Yes, most people will never see your shiny keyboard weight, but I think it's a nice touch on a board like the CSTM65\. It ships with a 3.9oz weight, which is heavy enough to keep the keyboard in place under normal circumstances. If you tend to get a little aggressive while gaming and want to make sure the CSTM65 isn't going anywhere, you can choose from CNC-machined brass (12.97oz) and stainless steel (11.96oz) weights. When it comes to the steel weights, you have a few color options, including a slick chroma color weight.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Software: Customization for Keys, Not Lighting
 
 ![CSTM65 backlit with front-key markings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-keyboard-backlit-showing-front-facing-key-markingsjpg_53519440588_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Given that Drop is going all-out on customization options for the CSMT65, it's not surprising that the keyboard is designed for both Mac and Windows. It has Windows keys by default but ships with extra keycaps for Mac users. It offers control software for Windows and Mac.
@@ -137,6 +148,18 @@ Jerome Thomas / How-To Geek
 
  The software doesn't handle the CSTM65's per-key RGB customization, though. For that, you'll need to use the keyboard itself. That likely means going to the website and reading the instructions there. That's going to annoy users who like to have software for customizing that sort of feature. On the other hand, some people will be happy to not have any extra software using their PC's resources.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Drop CSTM65 Keyboard?
 
 ![Drop CSTM65 with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-drop-cstm65-with-keycaps-removedjpg_53519273826_o-1.jpg) 
@@ -149,8 +172,27 @@ Jerome Thomas / How-To Geek
 
 ![Drop keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-22-at-09-27-17-2x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Drop CSTM65 Mechanical Keyboard
 
 8/ 10 
@@ -173,3 +215,56 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-list-of-8-authentic-propagation-tools-for-2024/"><u>[Updated] A Comprehensive List of 8 Authentic Propagation Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook-for-2024/"><u>[Updated] The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-daily-mobile-decor-the-irresistible-habit-of-changing-wallpapers/"><u>1. Daily Mobile Decor: The Irresistible Habit of Changing Wallpapers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerated-image-editing-your-path-to-masterful-windows-photo-work/"><u>2024 Approved  Accelerated Image Editing  Your Path to Masterful Windows Photo Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-samsungs-galaxy-s22-launch-key-dates-revealed/"><u>Anticipating Samsung's Galaxy S22 Launch: Key Dates Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/before-purchasing-a-flexible-display-device-unveiling-10-crucial-points-for-informed-decision-making/"><u>Before Purchasing a Flexible Display Device: Unveiling 10 Crucial Points for Informed Decision-Making</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-simple-swipes-why-pattern-locks-no-longer-offer-adequate-protection-for-android-phones/"><u>Beyond Simple Swipes: Why Pattern Locks No Longer Offer Adequate Protection for Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-use-5g-on-your-smartphone-learn-to-check-compatibility-now/"><u>Can You Use 5G on Your Smartphone? Learn to Check Compatibility Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices-for-2024/"><u>Capturing Impactful Voice  Top Tips for Podcasting Interviews on iDevices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-amazon-fire-max-89-inch-tablet-assessment-your-ultimate-entertainment-companion-on-the-go/"><u>Comprehensive Amazon Fire Max 8.9-Inch Tablet Assessment: Your Ultimate Entertainment Companion on the Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connecting-peripherals-to-android-a-step-by-step-tutorial-for-mice-keyboards-and-gamepads/"><u>Connecting Peripherals to Android: A Step-by-Step Tutorial for Mice, Keyboards, and Gamepads</u></a></li>
+<li><a href="https://facebook.techidaily.com/demystifying-shadowbans-in-online-communities/"><u>Demystifying Shadowbans in Online Communities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-boox-tab-mini-the-ideal-colorful-e-reader-option-for-expanding-beyond-your-kindle-experience/"><u>Discover the Boox Tab Mini - The Ideal Colorful E-Reader Option for Expanding Beyond Your Kindle Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-techniques-for-conducting-video-chats-using-an-android-smartphone-or-tablet/"><u>Easy Techniques for Conducting Video Chats Using an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-handling-overheating-smartphones/"><u>Effective Solutions for Handling Overheating Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-speaking-on-the-go-learn-to-send-voicemails-using-your-iphone/"><u>Effortless Speaking on the Go: Learn to Send Voicemails Using Your iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-android-screen-capture-hacks-top-5-tips-every-user-must-master/"><u>Essential Android Screen Capture Hacks: Top 5 Tips Every User Must Master</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-cutting-edge-technology-in-your-future-magsafe-android-smartphone/"><u>Exploring the Cutting-Edge Technology in Your Future MagSafe Android Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extending-the-lifespan-of-your-smartphone-understanding-android-device-endurance/"><u>Extending the Lifespan of Your Smartphone: Understanding Android Device Endurance</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-silencing-alerts-and-alarms-on-smartphones/"><u>Guide to Silencing Alerts and Alarms on Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-modifying-navigation-controls-and-touch-commands-on-your-android-device/"><u>Guide: Modifying Navigation Controls and Touch Commands on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-shrinking-video-data-footprints-easily-on-android-smartphones-and-tablets/"><u>Guide: Shrinking Video Data Footprints Easily on Android Smartphones and Tablets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-does-wireless-power-sharing-work-understanding-reverse-charging/"><u>How Does Wireless Power Sharing Work: Understanding Reverse Charging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-uninstall-samsungs-built-in-calendar-app-on-galaxy-smartphones/"><u>How to Uninstall Samsung's Built-In Calendar App on Galaxy Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/identifying-power-hungry-applications-a-guide-to-managing-battery-drain-on-your-android-device/"><u>Identifying Power-Hungry Applications: A Guide to Managing Battery Drain on Your Android Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 6</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi K70</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-video-editing-app-now-available-on-chromebooks-and-android-systems/"><u>Latest Video Editing App Now Available on Chromebooks & Android Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-of-oneplus-1/"><u>Launch of OnePlus 1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-caller-id-management-tips-for-tracking-voicemail-messages-on-an-android-smartphone/"><u>Mastering Caller ID Management: Tips for Tracking Voicemail Messages on an Android Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-telegram-how-to-easily-sort-and-manage-chats-with-folder-features-a-regrettable-oversight/"><u>Mastering Telegram: How to Easily Sort and Manage Chats with Folder Features – A Regrettable Oversight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-update-transitioning-to-android-12l-on-your-google-pixel-device/"><u>Mastering the Update: Transitioning to Android 12L on Your Google Pixel Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-use-of-googles-magic-eraser-a-comprehensive-guide-for-android-and-ios-users/"><u>Mastering the Use of Google’s Magic Eraser: A Comprehensive Guide for Android & iOS Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/oneplus-10t-unveiled-experience-rapid-charge-speeds-and-new-android-12-interface/"><u>OnePlus 10T Unveiled: Experience Rapid Charge Speeds & New Android 12 Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-issues-with-unread-texts-on-samsung-galaxy-phones/"><u>Overcoming Issues with Unread Texts on Samsung Galaxy Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/perfectly-syncing-android-iconography-with-wallpapers-a-comprehensive-guide/"><u>Perfectly Syncing Android Iconography with Wallpapers: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-privacy-how-to-set-up-call-filtering-for-strangers-on-android-phones/"><u>Protect Your Privacy: How to Set Up Call Filtering for Strangers on Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sad-news-the-demise-of-a-beloved-android-version-15-function-due-to-googles-changes/"><u>Sad News: The Demise of a Beloved Android Version 15 Function Due to Google's Changes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/setting-your-favorite-application-as-the-primary-one-in-android-a-step-by-step-guide/"><u>Setting Your Favorite Application as the Primary One in Android: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simple-tips-how-to-enable-call-transfer-features-on-all-phones/"><u>Simple Tips: How to Enable Call Transfer Features on All Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-secrets-to-score-up-to-200-discount-on-new-samsung-electronics/"><u>Slash Prices: Secrets to Score up to $200 Discount on New Samsung Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-installing-non-google-play-store-apps-on-your-android-device/"><u>Step-by-Step Guide: Installing Non-Google Play Store Apps on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-your-location-on-google-play-store/"><u>Step-by-Step Guide: Switching Your Location on Google Play Store</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-g24-power-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola G24 Power to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sudden-shutdowns-in-pcs-during-gaming-solutions-for-windows-11-to-7/"><u>Troubleshooting Sudden Shutdowns in PCs During Gaming - Solutions for Windows 11 to 7</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-visualize-your-music-top-free-applications-to-watch-out-for-on-iphones-and-android-devices/"><u>Updated In 2024, Visualize Your Music Top Free Applications to Watch Out For on iPhones and Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-google-play-pass-offers-exceptional-value-a-closer-look-and-room-for-improvement/"><u>Why Google Play Pass Offers Exceptional Value: A Closer Look and Room for Improvement</u></a></li>
+</ul></div>
