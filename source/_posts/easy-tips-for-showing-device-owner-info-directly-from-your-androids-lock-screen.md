@@ -1,7 +1,7 @@
 ---
 title: Easy Tips for Showing Device Owner Info Directly From Your Android's Lock Screen
-date: 2024-09-01T08:25:22.021Z
-updated: 2024-09-02T08:25:22.021Z
+date: 2024-09-05T21:31:05.207Z
+updated: 2024-09-06T21:31:05.207Z
 tags:
   - android
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/08/Android-info-lock-screen-1.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easy Tips for Showing Device Owner Info Directly From Your Android's Lock Screen
 
 If you lose your Android device, it's [not likely you'll get it back](https://tech-recovery.techidaily.com/step-by-step-fix-for-dysfunctional-closed-captioning-on-amazon-prime-streams/). However, there are some kind souls who will want to return it. We'll show you how to make sure they know how to reach you.
@@ -21,22 +33,70 @@ Related: [How to Prepare Your Android Phone to Be Stolen](https://tech-recovery.
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/08/2022-05-17_16-41-20.png) 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On a Google Pixel phone, you'll want to go to "Display." You can skip past this step on a Samsung Galaxy phone.
 
 ![Select "Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/08/2022-05-17_16-41-56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now go to "Lock Screen."
 
 ![Go to "Lock Screen" or "Display."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/08/2022-05-17_16-42-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now tap "Contact Information" or "Add Text on Lock Screen."
 
 ![Go to "Add text on lock screen."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/08/2022-05-17_16-42-47.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A text box will appear and you can enter whatever you'd like. Your name, email address, Twitter handle, etc. Anything that someone could use to contact you. If you enter a phone number, make sure it does not belong to the lost phone. Tap "Save" or "Done" when finished.
 
 ![Enter some contact information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/08/2022-05-17_16-44-11.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it! This is one of a handful of things you can do to [improve your odds of getting back a lost Android phone](https://article-posts.techidaily.com/crafting-stunning-photography-mastering-hdr-merging-in-lightroom/). It certainly doesn't guarantee you'll get the phone back, but it may just make all the difference.
 
 Related: [How to Turn On or Off the Always On Display for Android](https://visual-screen-recording.techidaily.com/updated-essential-recording-steps-in-gh-for-2024/)
@@ -100,7 +160,3 @@ Related: [How to Turn On or Off the Always On Display for Android](https://visua
 <li><a href="https://data-wizards.techidaily.com/video-file-resurrection-4-steps-to-success/"><u>Video File Resurrection: 4 Steps to Success</u></a></li>
 <li><a href="https://hardware-tips.techidaily.com/why-are-phone-sizes-increasing-the-user-demand-explanation/"><u>Why Are Phone Sizes Increasing? The User Demand Explanation</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

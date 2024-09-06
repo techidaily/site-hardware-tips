@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Smart Television: Steps to Block Spying by Top Manufacturers LG, Samsung, Sony, and Vizio"
-date: 2024-08-28T06:08:28.489Z
-updated: 2024-08-29T06:08:28.489Z
+date: 2024-09-05T21:30:59.598Z
+updated: 2024-09-06T21:30:59.598Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/50e7f76f2c8c66324cf56beba95ae0c6f844a64c1
 
 ## Securing Your Smart Television: Steps to Block Spying by Top Manufacturers LG, Samsung, Sony, and Vizio
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Your Smart TV Is Spying on You](https://vp-tips.techidaily.com/updated-innovative-add-ons-to-elevate-your-yi-4k-cameras/)
@@ -28,7 +34,10 @@ thumbnail: https://thmb.techidaily.com/50e7f76f2c8c66324cf56beba95ae0c6f844a64c1
  Your smart TV knows what you watch, when you watch it, and can even link your viewing habits to other devices. To stop this, you have two imperfect options: opt out [or disconnect altogether](https://video-content-creator.techidaily.com/unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Your Smart TV Is Spying on You
 
@@ -40,6 +49,12 @@ thumbnail: https://thmb.techidaily.com/50e7f76f2c8c66324cf56beba95ae0c6f844a64c1
 
 ![Remote control for a 2020 LG CX OLED.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/remote_lg.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The data captured about you can be combined with data from other sources, using cross-device linking. For example, if you have a smartphone on the same wireless network, it’s easy for marketers to link your watching habits with an existing profile that reveals things like your age, location, who you’re likely to vote for, whether you have children, and so on. It’s just one of the [ways advertisers track you across the web](https://facebook-videos.techidaily.com/2024-approved-convert-fb-videos-to-mp4-no-cost-high-definition-available/).
@@ -48,6 +63,12 @@ Tim Brookes / How-To Geek
 
  In addition to marketing, data itself has value. Insights can be gleaned about the habits of certain cohorts and sold for research purposes. It’s impossible to know what these companies are doing with this data, but it’s all in the pursuit of money so ultimately you become the product and your habits are the juicy prize.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Opt out of Data Collection
 
  Most TV platforms offer a way to opt out of some of the more insidious data collection practices, notably ACR. Just because you’ve opted out of this information doesn’t necessarily mean you aren’t still being tracked, in some way.
@@ -56,15 +77,18 @@ Tim Brookes / How-To Geek
 
 ![Opting out of ACR on a 2020 LG CX smart TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/live_plus.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Opting out of these practices is one way you can keep your TV connected to the internet while limiting tracking. This is better than nothing but far from exhaustive. It allows you to still use the TV’s built-in apps, and to receive over-the-air software updates when they become available.
 
 **Note:** Due to the way manufacturers update and change their TV software, it’s not possible to provide a guide that applies to all models. If you can’t follow the exact steps below, we recommend having a dig through the menus and looking for similar options elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Disable Data Tracking on LG (webOS) TVs
 
  Not all LG TVs have the same options, particularly since LG refreshed its webOS interface in the 2021 (C1, G1, B1) models.
@@ -75,9 +99,6 @@ Tim Brookes / How-To Geek
 4. Now find “User Agreements” under General > Additional Settings or Support > Additional Settings.
 5. Now opt-out of any of the following where present: Viewing Information Agreement, Voice Information, Interest-Based Advertisement Agreement, Live Plus Automatic Content Recognition.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Disable Data Tracking on Samsung (Tizen) TVs
 
  You might need to dig around on a Samsung TV since the instructions will vary depending on the model and year of manufacture. The steps below should be used as a rough guide to help you find your way.
@@ -105,8 +126,10 @@ Tim Brookes / How-To Geek
 3. Adjust advert tracking preferences under the “Advertising” menu.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Disable Data Tracking on Roku (TCL, Hisense, Philips, Sharp) TVs
 
@@ -121,7 +144,16 @@ Tim Brookes / How-To Geek
  Note: After disabling these settings, you might find that Roku will ask you to enable these settings again under the guise of “enhancing” your TV experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Disable Data Tracking on Android TV (Sony)
 
@@ -136,9 +168,6 @@ Tim Brookes / How-To Geek
 2. Opt out of any data-collecting practices you like.
 3. Head to Settings > Privacy > Usage & Diagnostics to disable Google’s broader crash reports, diagnostics, and data usage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Disable Data Tracking on Amazon Fire TVs
 
  Amazon puts all of its important privacy options in the same place:
@@ -152,13 +181,16 @@ Tim Brookes / How-To Geek
 
 ![Setting up a voice assistant on a 2020 LG CX smart TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/voice_assist.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Alternatively, don’t. If you never set up the assistant, you’ll never be providing your approval. You might be invited to do this on the first setup (or after factory resetting the unit), so tread carefully when setting up your device. Make sure that you only consent to mandatory agreements, rather than the optional ones.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Disconnecting or Resetting Your Smart TV Works Too
 
  To completely defeat smart TV tracking, disable internet access entirely. If you never connect your TV to the internet, it’s much harder for it to spy on you. The one exception is when you pair a companion smartphone app with your TV to use as a remote (so don’t do that either).
@@ -167,15 +199,18 @@ Tim Brookes / How-To Geek
 
 ![Person connecting an Ethernet cable to the Netgear Nighthawk MK93S main router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/netgear-nighthawk-mesh-router-11-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  If you connect your smart TV to the internet via Ethernet and have never set up a Wi-Fi connection, simply unplug the network cable. Otherwise, you’ll need to find the Wi-Fi setting in your TV’s Settings menu (usually under “Network” or “Connectivity”) and then either disable Wi-Fi altogether or use an option like “Forget This Network.”
 
  Another option is to reset your TV to factory settings, an option you will find buried somewhere in a Settings menu. You’ll need to set up your TV from scratch if you go this route, and you’ll get a chance to reject any privacy policies you may have agreed to the first time around. You’ll also lose any custom picture profiles, input labels, and apps you have downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Dumb TV? Get a Streaming Box
 
  You probably want to access streaming services like Netflix, free resources like YouTube, or even rental services like Apple TV. Without an internet connection, your smart TV can’t do any of that. Instead, you’ll need to invest in a streaming box.

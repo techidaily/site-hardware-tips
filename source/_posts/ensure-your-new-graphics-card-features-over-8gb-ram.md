@@ -1,7 +1,7 @@
 ---
 title: Ensure Your New Graphics Card Features Over 8GB RAM
-date: 2024-08-28T06:07:11.650Z
-updated: 2024-08-29T06:07:11.650Z
+date: 2024-09-05T21:30:58.386Z
+updated: 2024-09-06T21:30:58.386Z
 tags:
   - hardware
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gpu-with-some-numbers-around-it.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ensure Your New Graphics Card Features Over 8GB RAM
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * VRAM is essential for GPU performance; ensure the next GPU purchase has more than 8GB due to increasing VRAM requirements in modern games.
@@ -19,21 +37,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  VRAM is a crucial yet overlooked aspect of any GPU, and there are lots of us out there with 8GB cards. While you're still OK for now, when you buy your next graphics card make sure it's got more than 8GB.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why VRAM Matters
 
 [VRAM](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/) (Video RAM) is to your GPU as [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) is to your CPU. It's lightning-fast memory that holds all the data your GPU needs to render the current scene, plus some of the data it might need to render what's still to come. If the data needed to render a scene is larger than the amount of VRAM your GPU has, then the data will overflow into system RAM, which is much slower to access for the GPU than its own VRAM.
 
  This can lead to stutters and low frame rates, destroying game performance even if your GPU itself is technically powerful enough to do the work. GPU horsepower means nothing if the chip is twiddling its virtual thumbs, waiting for the data it needs.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  8GB Is OK Right Now
 
  If you already have an 8GB GPU, it's far from the end of the world. Most current and past games will run just fine on 8GB of VRAM. You're most likely playing on a 1080p or 1440p display, in which case 8GB is likely still just fine as long as you're sensible with the game's settings. In particular, don't use the [highest texture quality](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-meizu-21-drfone-by-drfone-virtual-android/) settings unless it all fits in VRAM with no performance issues. In current-generation games, the best texture quality setting is designed for 4K displays, so it's largely wasted on 1080p or 1440p screens anyway.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Games Will Need More Soon
 
@@ -42,14 +72,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It won't be that long before the minimum requirements for modern games call for 8GB of VRAM. With all the new visual technologies that make games look as amazing as they do, it's becoming harder to fit everything into an 8GB frame buffer. Even taking advantage of features such as [frame generation or AI upscaling](https://extra-resources.techidaily.com/digital-sensations-how-vr-enhances-pleasure/)can put additional load on VRAM, depending on the specific settings you use. No matter which way you look at it, going ahead 8GB of VRAM will be a squeeze, and paring the settings down to fit will result in a noticeably downgraded game.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  AI Benefits From VRAM Too
 
  If you have any interest in [running AI locally](https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/), that's a whole extra reason to want more VRAM with your next GPU. Local AI models that use the GPU to run need to fit in VRAM entirely, and for use cases such as AI image generation, how complex or high-quality the results are directly corresponds to how much VRAM you have available. With more AI applications that run on your local computer on the way, it's probably a good idea to get a card with as much VRAM as you can afford.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  There’s No Rush
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology"
-date: 2024-09-01T08:22:18.062Z
-updated: 2024-09-02T08:22:18.062Z
+date: 2024-09-05T21:31:02.456Z
+updated: 2024-09-06T21:31:02.456Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 ## 1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [BackRub A.K.A. Google](https://android-unlock.techidaily.com/how-to-change-lenovo-lock-screen-clock-in-seconds-by-drfone-android/)
@@ -24,20 +30,50 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  The 1990s were an incredible time for technology. While car phones and beepers may have died off, plenty of tech from the 90s is still with us today. We'll share some of the best apps, tech, and devices that got their humble start in the darling decade that was the Nineties.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  BackRub A.K.A. Google
 
 ![Original Google Home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2830673252_16c7bf336e_o.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Navigating the internet was not very easy in the '90s. In fact, there really wasn't much "navigating" to do. You mostly just entered a destination and went there. That made it hard to find stuff online that you didn't know about, which is where [Google](https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/)came in.
 
  Google was originally nicknamed "BackRub" by Larry Page and Sergey Brin as a reference to "backlinks." The project started in 1996, and the _google.com_ domain was registered on September 15, 1997\. Page and Brin officially incorporated the company a year later, in September 1998.
 
  Nearly 30 years later, Google Search is the [most-visited website](https://en.wikipedia.org/wiki/List%5Fof%5Fmost-visited%5Fwebsites) in the entire world, and Google has a huge library of apps, services, and devices.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Photoshop
 
 ![First PhotoShop home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/photoshop-source-code-screen-main.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Computer History Museum](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 
  Not many computer applications have garnered the same name recognition as Adobe Photoshop. Any image that appears edited has been "Photoshopped," regardless of which app was actually used. Just like every tissue is a "Kleenex" and every bandage is a "Band-Aid."
@@ -46,13 +82,16 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  Photoshop 1.0 for Mac costs a whopping $895\. Over the next five years, it would be ported to Windows and become much more popular. In 1995, Adobe fully purchased the rights to Photoshop for $34.5\. Nowadays, it generates billions in revenue and has millions of users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  DVDs
 
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  I know what you're thinking—we don't still use DVDs in 2024, do we? [Oh yes, yes, we do](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). In fact, DVD sales have been steadily climbing over the last few years, and DVDs absolutely crush Blu-ray sales. It all started in the '90s.
@@ -61,13 +100,16 @@ Hannah Stryker / How-To Geek
 
  DVDs remain massively popular today due to their low cost and the fact that the picture quality is still "good enough" for many people. [In 2018](https://www.reddit.com/r/4kbluray/comments/pu6o6e/this%5Fabsolutely%5Fbaffling%5Fsales%5Fchart%5Fcredit%5Fto/), DVDs made up around 52% of sales, while Blu-ray accounted for around 47%. Fast-forward three years, and DVDs shot up to 72%, pushing Blu-ray down to 29%. This 90s tech seems to be here to stay.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Text Messaging
 
 ![Android phone with text messages on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-Text-Messages.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Despite having the amazing ability to hear someone's voice and see their face in real-time from thousands of miles away, text-based messaging is still king. There's no denying it's simply the easiest and quickest form of communication, and it got its start in the 90s.
@@ -76,38 +118,32 @@ Justin Duino / How-To Geek
 
  Nowadays, the popularity of SMS varies greatly by region, but text-based messaging is popular everywhere. In the U.S., most people are using iMessage or SMS, while many other countries rely on WhatsApp, WeChat, and Telegram.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Sony Playstation
 
 ![Original PlayStation and controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_2062560902.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [Matthieu Tuffet/Shutterstock.com](https://www.shutterstock.com/image-photo/fukuoka-japan-october-24-2021-original-2062560902)
 
  Console gaming started to explode in popularity in the 80s, but one of the biggest names got its start in the 90s. The original PlayStation was unveiled by Sony in 1994, and it changed things for the better. Since the PlayStation used a CD-ROM, it was able to make more realistic games that appealed to both adults and kids.
 
  The original PlayStation was a smash hit, with [120 million devices sold](https://web.archive.org/web/20090823155448/http://www.scei.co.jp/corporate/release/pdf/051130e.pdf). Sony followed things up in 2000 with the PlayStation 2, which was even more popular, selling over 150 million consoles. To this day, PlayStation is still a huge name in console gaming. As of 2022, Sony accounted for [nearly half of the worldwide console gaming market](https://www.statista.com/statistics/1422309/console-gaming-market-share-worldwide/#:~:text=Market%20share%20of%20console%20gaming%20market%20worldwide%202021%2D2022%2C%20by%20company&text=In%202022%2C%20Sony%20held%2045,25.5%20percent%20in%202021%2C%20respectively.).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Bluetooth
 
 ![The Bluetooth logo on a blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/bluetooth_hero_5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Wireless technology is something most people use on a daily basis without thinking twice about it. Bluetooth is one of the most commonly used, and it was invented in 1994.
 
 [Bluetooth technology was invented in 1994](https://article-posts.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/) by a team of engineers at Ericsson, led by Dr. Jaap Haartsen. The invention was driven by the need for a wireless communication protocol that could connect mobile phones with computers, headsets, and other accessories over short distances without the constraints of wired connections.
 
  Nowadays, Bluetooth is baked into more devices than you can imagine. Smartphones, smartwatches, headphones, light bulbs, plugs, switches, coffee makers, thermometers, thermostats, door locks, and more, and more, and more. Needless to say, it's been a hit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Smartphones
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
@@ -121,7 +157,16 @@ Justin Duino / How-To Geek
  Needless to say, those features have carried over all these years later. Touchscreens are absolutely essential to mobile devices, and making calls and sending emails are considered rudimentary, basic features. It all started with a weird-looking brick.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  MP3 Format
 

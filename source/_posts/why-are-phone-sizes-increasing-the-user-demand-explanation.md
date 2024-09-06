@@ -1,7 +1,7 @@
 ---
 title: Why Are Phone Sizes Increasing? The User Demand Explanation
-date: 2024-09-01T08:24:02.808Z
-updated: 2024-09-02T08:24:02.808Z
+date: 2024-09-05T21:31:04.032Z
+updated: 2024-09-06T21:31:04.032Z
 tags:
   - android
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Why Are Phone Sizes Increasing? The User Demand Explanation
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [​Small Phones Don't Sell](https://digital-screen-recording.techidaily.com/peak-level-hd-mastery-in-the-markets-top-recorders/)
@@ -19,6 +25,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [​Larger Phones Can Run Cooler](https://youtube-zero.techidaily.com/ely-separating-youtube-songs-3-approaches-available-for-free-for-2024/)
 * [​The Supply Chain Favors Big Phones](https://discord-videos.techidaily.com/new-launching-a-channel-a-comprehensive-discosteps-guide/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Small phones don't sell, so manufacturers prioritize larger models.
@@ -29,6 +41,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We can be annoyed at smartphone makers, but really, it's not their fault. It's ours, and it's time to look in the mirror and admit what we've done to our phones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ​Small Phones Don't Sell
 
  Whenever a company launches a small version of a phone alongside a larger model, it simply does not move as many units. This is even the case for Apple, a company with all the clout and brand recognition you could want.
@@ -38,15 +56,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This phenomenon is true even when you compare across different brands. iPhones used to be smaller than Samsung Galaxy phones and other Android devices. Getting a bigger screen was a reason to prefer an Android phone over an iPhone, and back then, Apple didn't have as strong a hold on the market as it does now. Apple responded with larger displays on the iPhone 5 and 6, with the trend continuing until you can now get an iPhone screen as big as most of the competition's—as long as you don't want one that folds.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ​The Way We Use Our Phones Has Changed
 
 ![A Motorola Edge+ inside a Razer Kishi v2 game controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/motorola-edge-plus-razer-kishi-v2.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Why do we want these bigger screens? Let's face it, our phones aren't just phones anymore. They aren't even predominantly phones. Placing calls is one of the rarest things many of us do with our phones.
@@ -56,15 +74,15 @@ Bertel King / How-To Geek
  For many of us, our smartphone is our only computer. For some, like myself, it's a conscious choice. My [book-style foldable with Samsung Dex](https://printer-issues.techidaily.com/turn-your-non-printing-canon-into-a-reliable-device-with-tips/) does all I need. But for many, this same conclusion is reached out of financial necessity. If you can only afford one device, you make sure that device has as big a screen as you can get.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  ​Small Phones Have Less Room for Components
 
 ![The camera on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-camera-on-the-oneplus-12r-3jpg_53484088527_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  In order to do all the things we want our smartphones to do, manufacturers have to pack far more electronics inside each one. Technology has gotten much smaller than it used to be, but there are still physical constraints that must be dealt with.
@@ -73,18 +91,10 @@ Sergio Rodriguez / How-To Geek
 
  Smartphone cameras may rely heavily on processing, but a larger lens still allows for more light and a better photo. Size constraints are the reason that the thinner Galaxy Z Fold has less capable cameras compared to the Galaxy S Ultra, which costs several hundred dollars less. Considering how many people weigh their buying decision based on the quality of the camera. That's reason enough to get a bigger phone.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  ​Larger Phones Can Run Cooler
 
 ![Titanium frame and flat display on the Samsung Galaxy S24 Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/titanium-frame-and-flat-display-on-the-samsung-galaxy-s24-ultra-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Smartphones rely on passive cooling, and powerful CPUs need space to dissipate heat. They need room for heat sinks and air flow. This is part of the reason that when a small version of a phone does launch, it tends to be less powerful than its larger sibling. If you have to throttle a powerful CPU to make it function at all, you might as well ship a cheaper CPU and save money.
@@ -97,6 +107,18 @@ Justin Duino / How-To Geek
 
 ![Samsung Galaxy and Google Pixel phones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/samsung-galaxy-google-pixel.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  It doesn't matter whether your phone's brand is based in China, Europe, Korea, or the US. Just about all phones are products that consist of parts shipped from all over the world. That device in your hand is an international team effort.

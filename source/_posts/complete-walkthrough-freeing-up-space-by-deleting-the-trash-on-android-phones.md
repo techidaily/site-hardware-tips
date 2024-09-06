@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones"
-date: 2024-09-01T08:23:31.181Z
-updated: 2024-09-02T08:23:31.181Z
+date: 2024-09-05T21:31:03.569Z
+updated: 2024-09-06T21:31:03.569Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af23c974168630105d2e88b454.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones
 
 ### Quick Links
@@ -28,7 +34,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  In this guide, we'll cover how to empty the trash for Google Photos and Files by Google, which are two of the popular gallery and file manager apps for this operating system. If you use a different app, check the "Recently Deleted" folder, "Trash," or similar places to find and [remove your deleted files](https://youtube-zero.techidaily.com/024-approved-the-definitive-guide-to-crafting-videos-on-youtube/).
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Clear the Trash in Google Photos
 
@@ -38,6 +47,12 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![Screenshot of the bottom bar in Google Photos, arrow pointing to Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-google-photos-library.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the "Library" screen, at the top, tap "Trash."
 
 ![Screenshot of Google Photos tools, arrow pointing at Trash](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-google-photos-trash.png) 
@@ -47,14 +62,20 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ![Screenshot of Google Photos trash, screenshot pointing at the menu icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-google-photos-trash-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  From the three-dot menu, select "Empty Trash."
 
 ![Arrow pointing at Empty Trash](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-google-photos-empty-trash.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In the prompt, choose "Allow" to confirm your choice.
 
@@ -63,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 ![Arrow pointing at the Allow button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-google-photos-deletion-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And Google Photos will permanently delete everything from the trash. You're all set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ##  Empty the Trash in Files by Google
 
  If you [use Files by Google](https://facebook-videos.techidaily.com/updated-recorded-reality-facebook-live-2023/) as your file manager and you want to clear the trash, first, launch the Files by Google app on your phone.
@@ -92,11 +113,14 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![Arrow pointing at the delete button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-files-by-google-removal-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And you're done. Files by Google will delete your trashed files for good.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Other Ways to Free Up an Android Phone's Storage
 
  Emptying the trash is one of the many ways to [clear your Android phone's storage](https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/). You can use other methods to reclaim even more storage space on your phone. These include [clearing the app cache](https://digital-screen-recording.techidaily.com/new-inexpensive-pc-monitoring-software-for-2024/), (like [Discord's cache files](https://facebook-video-footage.techidaily.com/new-2024-approved-5-second-stories-explained-well/)), [reducing WhatsApp's storage usage](https://facebook-record-videos.techidaily.com/unlocking-creative-potential-in-lyric-videos-with-lyric-video-maker-for-2024/), and [removing Dropbox's cache](https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-14-plus-blacklist-removal-tips-and-tools-by-drfone-ios/).

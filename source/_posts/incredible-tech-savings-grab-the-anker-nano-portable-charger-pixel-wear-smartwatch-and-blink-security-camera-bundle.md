@@ -1,7 +1,7 @@
 ---
 title: "Incredible Tech Savings: Grab the Anker Nano Portable Charger, Pixel Wear Smartwatch, and Blink Security Camera Bundle!"
-date: 2024-08-28T06:09:15.402Z
-updated: 2024-08-29T06:09:15.402Z
+date: 2024-09-05T21:31:00.328Z
+updated: 2024-09-06T21:31:00.328Z
 tags:
   - hardware
 categories:
@@ -15,10 +15,28 @@ It's the biggest shopping event of the year that isn't named Black Friday. Today
 
  While [Prime Day deals](https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-12-5g-tips-tricks-and-helpful-advice-by-drfone-android/) technically only run on July 16-17th, expect lower prices throughout the rest of the week and into the weekend. Below, we've gathered some favorites, including the extremely popular Anker Nano phone charger, Bose headphones, QLED TVs, portable speakers, smart fingerprint-equipped door locks, and other home goods.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Anker Nano Portable Phone Charger for $18 ($12 Off)](https://www.amazon.com/dp/B0C6XLMQNZ?tag=htgprimedaysite-20) 
 
 ![anker nano charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/anker-nano-charger.png) 
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Anker Nano Power Bank (Type-C)
 
 $18 $30 Save $12 
@@ -31,10 +49,22 @@ This tiny charger can give a top off to any of your USB-C devices, including the
 
  The Anker Nano is a small portable power station with a built-in foldable USB-C port that snaps into the bottom of your iPhone 15 or Android without a charging cable. The battery will fully charge most devices once.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Blink Outdoor Security Camera 5-Pack for $160 ($240 Off)](https://www.amazon.com/Blink-Outdoor-4th-Gen-5-Camera/dp/B0B1N4LM4J?tag=htgprimedaysite-20) 
 
 ![Blink Outdoor 4 cameras](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-05-38-am.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Blink Outdoor 4
 
 $232 $400 Save $168 
@@ -48,16 +78,15 @@ Make sure your house is secure with Blink's Outdoor 4 cameras. Cover all corners
  These excellent little cameras are easy to install, have good night vision, and run for roughly a year with replaceable batteries. Get yours while the deal is still available.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [TCL 65-inch QLED 4K Google Smart TV (2024 Model) for $448 ($152 Off)](https://www.amazon.com/TCL-65Q651G-Accelerator-Streaming-Television/dp/B0CZMG5X67?tag=htgprimedaysite-20) 
 
 ![Screenshot 2024-07-16 at 11.02.30 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-16-at-11-02-30-am.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  TCL 65-inch (2024 model) 4K Google Smart TV
 
 TCL's latest 2024-model Q65 series TV delivers a solid bang for your buck. This 65-inch 4k QLED TV has Dolby Atmos, HDR Pro+, and a voice remote all for under $500\. 
@@ -66,16 +95,10 @@ TCL's latest 2024-model Q65 series TV delivers a solid bang for your buck. This 
 
  TVs are getting more affordable each year, but it isn't every day that you find a brand-new 4K QLED TV for under $500\. If you're looking for a new TV but don't need the absolute best of the best, grab the [TCL Q65 for only $448](https://www.amazon.com/TCL-65Q651G-Accelerator-Streaming-Television/dp/B0CZMG5X67?tag=htgprimedaysite-20).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Google Pixel Watch 2 for $270 ($80 Off)](https://www.amazon.com/dp/B0CCQ7DNQL?tag=htgprimedaysite-20) 
 
 ![Google Pixel Watch 2 press image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-05-at-12-01-41-pm.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Google Pixel Watch 2
 
 7/ 10 
@@ -88,18 +111,6 @@ Google's Pixel Watch 2 packs a stylish design featuring a 41mm round display, mu
 
  If you've been waiting for a solid discount before picking up Google's latest smartwatch, now would be a good time. For Amazon Prime Day, you can get the latest Pixel Watch 2 at one of the lowest prices we've seen yet—[only $270](https://www.amazon.com/dp/B0CCQ7DNQL?tag=htgprimedaysite-20).
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Bose QuietComfort Noise Canceling Headphones for $199 ($150 Off)](https://www.amazon.com/dp/B0CCZ1SQ8G?tag=htgprimedaysite-20) 
 
 ![Screenshot 2024-07-16 at 11.11.39 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-16-at-11-11-39-am.jpg) 
@@ -119,7 +130,10 @@ The entry-level Bose QuietComfort over-the-ear Bluetooth headphones deliver grea
 ![A Yale smart lock keypad on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-yale-smart-lock-keypad-on-a-table.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 

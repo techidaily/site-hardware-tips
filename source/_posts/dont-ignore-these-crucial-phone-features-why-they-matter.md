@@ -1,7 +1,7 @@
 ---
 title: Don't Ignore These Crucial Phone Features - Why They Matter
-date: 2024-09-01T08:23:35.185Z
-updated: 2024-09-02T08:23:35.185Z
+date: 2024-09-05T21:31:03.645Z
+updated: 2024-09-06T21:31:03.645Z
 tags:
   - android
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/52708514622_891ccc0eb3_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don't Ignore These Crucial Phone Features - Why They Matter
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [A Bright, Anti-Reflective screen](https://vimeo-videos.techidaily.com/unveiling-the-best-practices-in-downloading-vimeo-videos/)
@@ -33,13 +51,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Combine this with a screen that gets extremely bright in direct sunlight, and you have a display that makes your phone usable when you go outside. I personally now write many of my first drafts using voice commands while going for a walk (one of the [perks of working from a smaller screen](https://youtube-zero.techidaily.com/ed-in-2024-the-social-media-symphony-composing-jake-pauls-youtube-success/)), in part because the screen is bright enough for me to see what the phone thinks I'm saying.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  USB Port With Video Output
 
 ![A Motorola Edge+ connected to a UPerfect lapdock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/android-desktop-lapdock-motorola-uperfect-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  We use our smartphones to watch videos all the time, though we're usually staring at a small screen when we do. Want to watch on a bigger display? Turns out, you don't need to switch to a different device. You can plug your phone directly into your TV or your computer monitor and continue watching with the same accounts. But to do this, you need a USB port that supports video output.
@@ -48,6 +69,12 @@ Bertel King / How-To Geek
 
  Phones with USB 3 don't automatically support video out, such as Google's Pixel phones that largely do nothing when connected to an external display. That can change with a software update. Phones with USB 2 cannot connect to an external display, with or without software updates. This is why the Motorola Edge+ 2023 can run Morotola's desktop mode, but the more expensive Motorola Razr+ 2023 cannot unless you use a (less stable) wireless connection. The latter comes with a USB 2 port, which was one of the ways Motorola cut costs to make it a more affordable foldable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Loud, High-Quality Speakers
 
  Do you need a Bluetooth speaker? If your phone's speakers are good enough, and you typically listen to them in a quiet room when you're alone, then no, probably not. A phone with good speakers sounds great when you're at a desk or watching a video in bed. They're great for games. My phone's speakers may not outperform a soundbar or trump a pair of headphones, but they sound better than any laptop speakers I've owned, and a laptop used to be my primary TV.
@@ -58,9 +85,6 @@ Bertel King / How-To Geek
 
 ![Front facing selfie camera on the Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/front-facing-selfie-camera-on-the-google-pixel-8-pro-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  We take it as a given that a front-facing camera is not as good as a phone's rear camera. This is still largely true, but that does not mean that selfie cameras are bad. Many phones now have selfie cameras that give you beautiful shots, so you can gladly use them for photos to post on social networks.
@@ -69,16 +93,10 @@ Justin Duino / How-To Geek
 
  Good selfie cameras also help with video calls. Again, it makes a good impression, and it just also helps with doing your job when people can see you clearly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Clear Microphone
 
 ![Google Pixel 6a's USB-C port, speaker, and microphone on the bottom of the phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Google-Pixel-6as-USB-C-port-speaker-and-microphone-on-the-bottom-of-the-phone.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 _Justin Duino / How-To Geek_
 
  A microphone can be just as important as a good camera. Even more so in some situations. People need to be able to hear what you are saying clearly.
@@ -89,15 +107,24 @@ _Justin Duino / How-To Geek_
 
  A low-resolution screen at least means better battery life. A fuzzy camera still gets the job done and can scan QR codes. A weak processor can still run most apps just fine. A bad mic is just a bad mic.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Good Vibration Motor
 
  When was the last time you heard your phone ring? If you can't remember, then the quality of your phone's vibration motor is probably more important than the available ringtones. It's what determines whether you actually feel your phone buzz in your pocket and how nice it sounds when you do.
 
  A janky vibration motor can ruin the entire experience. Your phone might vibrate whenever someone calls. It may vibrate with every press of the virtual keyboard as you text people. It can shake whenever you enter your PIN to unlock your device. If the vibration sucks, there isn't something you can do to fix it. Instead, you have to ask yourself: are you okay with turning it off entirely?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  FM Radio & IR Blaster
 
  These two features aren't for everyone, but niche features are often the best ones. FM radio is the OG supplier of free music and news. This feature can also make your phone even more useful during an emergency.
@@ -105,18 +132,33 @@ _Justin Duino / How-To Geek_
  An IR blaster allows your phone to replace a TV remote and provides another way to interact with set-top boxes. It can be faster and more reliable than using a Wi-Fi or Bluetooth-connected app. I haven't used this feature much personally, but I know [many people love IR blasters on phones](https://tech-renaissance.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-unite-online/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Stylus support
 
 ![The Air Command menu on a Samsung Galaxy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/android-stylus-air-command-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  On my Galaxy Z Fold 5, Samsung's S Pen is an optional extra. I'm glad the support is there, even if it's not included out of the box. I [love using a stylus with my phone](https://screen-video-capture.techidaily.com/2024-approved-from-novice-to-expert-perfecting-mac-audio-with-audacity/), as it's a huge part of how I'm able to get so much work done.
 
  A stylus allows you to use your phone as you would use pen and paper. It allows you to use a web browser with the precision of a mouse. It helps with drawing on the screen and manipulating images. But to get the most out of this, you want a phone with a [dedicated, active stylus](https://video-screen-grab.techidaily.com/updated-2024-approved-15-creative-strategies-for-free-capture-of-online-workshops/). Capacitive styluses that imitate your finger are barely any better than just using your finger.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fingerprint Reader
 
 ![Samsung Galaxy Z Fold 5 fingerprint reader](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/samsung-galaxy-z-fold-5-fingerprint-reader.jpg) 

@@ -1,7 +1,7 @@
 ---
 title: Chrome-Powered Acer Laptop Delivers All Essentials for Budget Conscious Shoppers
-date: 2024-08-28T06:07:02.044Z
-updated: 2024-08-29T06:07:02.044Z
+date: 2024-09-05T21:30:58.242Z
+updated: 2024-09-06T21:30:58.242Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/29.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Chrome-Powered Acer Laptop Delivers All Essentials for Budget Conscious Shoppers
 
 Available in early May, the new Acer Chromebook Plus 514 (CB514-4H/T) includes a 13th-gen Intel Core processor, a 1080p anti-glare screen, Wi-Fi 6E connectivity, and an excellent port selection. It has everything that I look for in an affordable laptop.
@@ -19,6 +25,18 @@ Available in early May, the new Acer Chromebook Plus 514 (CB514-4H/T) includes a
 
 ![Labeled port selection of the Acer Chromebook Plus 514.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/28.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Acer
 
  As for the port selection, you get a pair of USB-C ports, a pair of USB 3.2 Type-A ports, a headphone jack, and a microSD reader. The only thing that's missing is an HDMI port, but you won't hear me complaining, as the laptop's USB-C ports offer video output (via DP Alt Mode) and accept passthrough charging from monitors or USB hubs. Other features include Wi-Fi 6E connectivity, upward-firing speakers, and an 11-hour battery life. As with some other Acer laptops, the Chromebook Plus 514 contains recycled materials and ships in sustainable packaging.
@@ -85,7 +103,3 @@ Acer
 <li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-modern-computing-toms-hardware-deep-dive/"><u>Unveiling the Secrets of Modern Computing: Tom's Hardware Deep Dive</u></a></li>
 <li><a href="https://hardware-tips.techidaily.com/valkyrie-syn-2nf-aio-liquid-cooler-evaluation-excellent-cooling-abilities-but-inconvenient-interface/"><u>Valkyrie Syn 2Nf AIO Liquid Cooler Evaluation: Excellent Cooling Abilities but Inconvenient Interface</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Simple Smart Home Setups with Home Assistant: Enhance Daily Living"
-date: 2024-08-28T06:09:30.216Z
-updated: 2024-08-29T06:09:30.216Z
+date: 2024-09-05T21:31:00.549Z
+updated: 2024-09-06T21:31:00.549Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ## Top 8 Simple Smart Home Setups with Home Assistant: Enhance Daily Living
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Automated Lighting](https://facebook-video-recording.techidaily.com/new-find-the-disappeared-watch-tile-for-2024/)
@@ -24,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
  New to Home Assistant? Discover the power of automation with these practical and useful examples to enhance your smart home experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Before We Begin
 
  Please note that the devices referenced in these automations are examples. You will need to modify the automation in the Home Assistant UI to match your specific device needs. To set up these automations in your Home Assistant, follow these steps:
@@ -37,13 +49,16 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
  Still not set up Home Assistant? [Learn more about this open-source smart home platform](https://screen-recording.techidaily.com/updated-top-5-valheim-seed-recommendations-for-bountiful-crops-for-2024/) and how you can [run it using a single board computer like a Raspberry Pi](https://vp-tips.techidaily.com/essential-gopro-video-editors-for-pros-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1  Automated Lighting 
 
 ![Home Assistant automation for automated lighting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-ma.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This automation turns lights on when you enter a room and off when you leave, optimizing your smart home's energy efficiency by ensuring lights are only on when needed.
 
  It works by using a motion sensor to detect room entry and exit, triggering the "light.turn\_on" or "light.turn\_off" action based on sensor detection. To customize, simply replace the "entity\_id" values with your device IDs (e.g. "binary\_sensor.your\_motion\_sensor" and "light.your\_living\_room"), and adjust the timing to suit your needs (e.g. change the "5" minutes to "2" or "10" minutes).
@@ -122,22 +137,16 @@ alias: "Motion-Activated Living Room Lights"
                     mode: single
                     
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2  Smart Thermostat Control 
 
 ![Home Assistant automation for thermostat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-smart-therm.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This automation adjusts the temperature based on your daily routine to make sure that you're comfortable when you're at home and saving on energy costs when you're not. By leveraging a schedule, you can tap into your smart thermostat's energy-saving features.
 
  It works by using a schedule to trigger temperature changes at specific times of the day, setting the temperature to a predefined value. To customize, simply adjust the trigger time to suit your schedule (e.g. change "08:00:00" to "07:00:00" or "09:00:00"), replace the "entity\_id" value with your thermostat ID (e.g. climate.your\_thermostat), and set the desired temperature by adjusting the temperature field (e.g. change "22" to "20" or "24").
@@ -177,10 +186,22 @@ alias: "Temperature Adjustments"
     
                     mode: single 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Morning Routine 
 
 ![Home Assistant automation for morning routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-mr.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This automation helps you start your day off right by turning on lights, adjusting the thermostat, and starting your coffee maker with little effort. By leveraging a schedule, you can ensure your home is comfortable and that you're ready for the day ahead.
 
  It works by triggering these actions at a specific time of day, using a schedule to control multiple devices to create a morning routine. To customize, simply adjust the trigger time to suit your wake-up schedule (e.g. change "07:00:00" to "06:30:00" or "08:00:00"), and replace the "entity\_id" values with your device IDs (e.g. light.your\_living\_room, climate.your\_thermostat, or switch.your\_coffee\_maker). You can also tweak the light brightness and thermostat temperature by adjusting the "brightness\_pct" and "temperature" fields.
@@ -245,9 +266,6 @@ alias: "Morning Routine"
 
 ![Home Assistant automation for security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-sa.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Stay informed and safe with custom security alerts that notify you when motion is detected or a door is opened. This automation keeps you aware of what's happening at home, providing peace of mind wherever you are.
 
  It works by using a motion sensor or door sensor to detect activity, triggering a notification to be sent to your phone or tablet via the "notify.mobile\_app\_your\_device\_name" action. To customize, simply replace "your\_device\_name" with the actual name of your device, as it appears in your Home Assistant configuration.
@@ -296,7 +314,10 @@ alias: "Security Alert"
 ![Home Assistant automation for energy savings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-ato.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Automatically turn off lights, electronics, and appliances when they're not in use, saving energy and reducing your bills. This automation helps you optimize your home's energy efficiency, effortlessly powering down devices when they're idle.
 
@@ -400,16 +421,10 @@ alias: Sunny Weather Adjust
                     mode: single 
                     
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7  Smart Home Theater 
 
 ![Home Assistant automation for home theatre.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-htm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Create an immersive home theater experience with just a single button press. This automation adjusts lighting, temperature, and audio settings to transport you to the movies. By leveraging a single command, you can effortlessly transform your living room into a cozy home theater.
 
  It works by using a remote control or button to trigger multiple actions, setting the mood for a cinematic experience. The lights dim to 20% brightness, the temperature cools to 20°C, and the TV turns on, all with a single press. To customize, simply replace the "entity\_id" values with your device IDs (e.g. "light.your\_living\_room", "climate.your\_thermostat", and "media\_player.your\_tv"), and adjust the lighting brightness, temperature, and audio settings to your liking by modifying the "brightness\_pct", "temperature", and other fields in the action section. You can also change the trigger to respond to a different remote control or button by modifying the "entity\_id" and to fields in the trigger section.
@@ -475,15 +490,26 @@ alias: Home Theater Mode
                     
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8  Vacation Mode 
 
 ![Home Assistant automation for vacation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-vm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Simulate someone being at home while you're away on vacation by automatically turning lights and electronics on and off on a schedule. This automation creates a convincing illusion of occupancy, giving you peace of mind while you're away.
 

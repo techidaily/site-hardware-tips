@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Google Retracts New App Access Rules Due to Widespread Criticism
-date: 2024-09-01T08:24:51.849Z
-updated: 2024-09-02T08:24:51.849Z
+date: 2024-09-05T21:31:04.731Z
+updated: 2024-09-06T21:31:04.731Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/google-play-store-logo-lens.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tech Giant Google Retracts New App Access Rules Due to Widespread Criticism
 
 Ever since app permissions were introduced in Android, the Google Play Store has listed all requested permissions on the listings for every app. Google started to hide the permissions section, but now the company is backtracking.[Google confirmed this week on Twitter](https://twitter.com/AndroidDev/status/1550134139042598913?ref%5Fsrc=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1550134139042598913%7Ctwgr%5E%7Ctwcon%5Es1%5F&ref%5Furl=https%3A%2F%2Fwww.theverge.com%2F2022%2F7%2F21%2F23273288%2Fgoogle-play-store-permissions-section-data-safety-reenabled) that it had removed the app permissions section on Google Play Store app listing pages, but the company "heard your feedback" and has started to bring back the section.
@@ -23,6 +29,18 @@ Related: [How to See an iPhone App's Privacy Details Before Installing It](https
 
 ![Data safety screenshot showing information about location access and personal info](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-22-at-11.36.37-AM.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Data Safety information for Twitter on the Play Store
 
  Google admits in its documentation that the company "cannot make determinations on behalf of the developers of how they handle user data" -- it's up to apps to make sure their Data Safety section is accurate. It's not a perfect system, but neither is the permissions information.
@@ -91,7 +109,3 @@ Data Safety information for Twitter on the Play Store
 <li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronic-guides/"><u>Unveiling the Latest Gadgets with Tom's Electronic Guides</u></a></li>
 <li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-tour-of-toms-technology-rundown/"><u>Unveiling the Latest Gadgets: A Tour of Tom's Technology Rundown</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Production of Fitbit Wearables Halted Forever
-date: 2024-08-28T06:07:32.631Z
-updated: 2024-08-29T06:07:32.631Z
+date: 2024-09-05T21:30:58.701Z
+updated: 2024-09-06T21:30:58.701Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fitbit-versa-4.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Production of Fitbit Wearables Halted Forever
 
 "Pixel Watches are our next iteration of smartwatch for Fitbit,” a Google spokesperson revealed in an interview. Google acquired Fitbit in 2021, and except for two watches in 2022, the company has not released a smartwatch since. After two years of no new watch launches from Fitbit, its parent company confirmed that the Pixel Watch will absorb that department.
@@ -72,7 +78,3 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X6 Pro FRP Bypass</u></a></li>
 <li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-technology-hub/"><u>Unlocking Computer Secrets with Tom's Technology Hub</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

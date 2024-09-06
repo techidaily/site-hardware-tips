@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Android Phone Cloud Migration Using an External Storage Device
-date: 2024-09-01T08:25:45.561Z
-updated: 2024-09-02T08:25:45.561Z
+date: 2024-09-05T21:31:05.558Z
+updated: 2024-09-06T21:31:05.558Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-android-phone-on-the-left-with-android-home-screen-and-a-hard-drive-on-the-right-with-a-hdd-logo.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Tutorial on Android Phone Cloud Migration Using an External Storage Device
 
 ### Key Takeaways
@@ -21,6 +27,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While it's technically easy to copy files over to an external drive manually, that's a tedious way to back up data. Fortunately, there's an Android app that can sync the folders on your phone to an external drive for you. We'll show you how to use an app called FolderSync.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Hardware Do You Need?
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
@@ -34,7 +46,16 @@ Bertel King / How-To Geek
  If you're dealing with a drive without USB-C, then you need a [USB hub](https://some-knowledge.techidaily.com/2024-approved-harmonys-choice-top-10-songs-that-say-yes/) or smartphone docking station with the necessary ports. It will serve as the middleman between your phone and the drive.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Data Can You Back Up?
 
@@ -46,9 +67,6 @@ Bertel King / How-To Geek
 
  For many of us, this isn't the data we're concerned about. We either start fresh or [trust Google to keep it in sync](https://fox-hovers.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/). It's the other data that may take up too much space or that we don't want to keep in cloud storage.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Download FolderSync
 
  FolderSync is an app that advertises its ability to sync files between your Android device and cloud storage. It's been around for years, and we actually [recommended FolderSync for syncing to the cloud](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-7-plus-by-drfone-ios/) many years ago.
@@ -58,8 +76,10 @@ Bertel King / How-To Geek
  FolderSync is ad-supported and free to use. You can opt for FolderSync Pro instead for $5.99, but that's not required for anything I'm about to explain.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Sync Folders Using FolderSync
 
@@ -67,9 +87,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Create 'folder pair' button in FolderSync on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot_20240401_154542.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  "Folder Pair" isn't a common tech team, but it's pretty straightforward. For FolderSync to do its job, you need to designate a pair of folders to sync with one another. In this case, one will be on your phone, and the second will be on the external drive.
 
  You will also need to tell FolderSync what type of syncing you wish to do. There are three choices:
@@ -88,7 +105,10 @@ Close
 ![Beginning a sync using FolderSync](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot_20240401_155915.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once the syncing process has begun, you're welcome to leave the app to do other things. Your phone will continue to sync in the background. If your external drive is plugged directly into your phone, you may want to leave things alone until the process is done since the process will fail if the cable slips out. On the other hand, if you're [using an Android desktop mode](https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-6-by-drfone-ios/) with a USB hub, you can continue to use your desktop as you would on any other PC.
 
@@ -97,7 +117,10 @@ Close
 ![Existing folder pairs in FolderSync](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot_20240401_162653.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera"
-date: 2024-08-28T06:06:50.677Z
-updated: 2024-08-29T06:06:50.677Z
+date: 2024-09-05T21:30:58.071Z
+updated: 2024-09-06T21:30:58.071Z
 tags:
   - hardware
 categories:
@@ -11,12 +11,24 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ## Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Use the Screen Capture Tool](https://youtube-stream.techidaily.com/in-2024-transform-your-videography-using-youtube-to-boost-visual-clarity/)
 * [Use a Keyboard Shortcut](https://extra-lessons.techidaily.com/unveiling-ms-edges-picture-in-picture-magic/)
 * [Where Are Screenshots Saved?](https://screen-video-capture.techidaily.com/updated-in-2024-freeze-time-on-mi-11-with-impeccable-screen-recording-features/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can use the Screen Capture tool from Quick Settings panel for screenshots & video recordings.
@@ -27,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
  Google included a keyboard shortcut for screenshots in the earliest Chromebooks, but a more complete screenshot and screen recording tool was added in the [ChromeOS 89 update](https://vimeo-videos.techidaily.com/new-creating-viral-hashtag-campaigns-on-twitter-for-2024/) in 2021\. You can still take quick screenshots of the entire screen with a keyboard shortcut and crop them later, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use the Screen Capture Tool
 
  First, we'll show you how to use the Chromebook's built-in Screen Capture tool. This tool can do both screenshots and video screen recordings. To get started, click the clock on the Shelf (the taskbar) in the bottom-right corner to open the Quick Settings panel.
@@ -40,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![Screen capture button in ChromeOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-3-02-57-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  This will open the screenshot tool, with a switch for changing from screenshot mode (the camera icon) or screen recording mode (the video camera icon). There are three buttons for both modes: capturing the entire screen, capturing a region of the screen, or capturing a specific window.
 
 ![Screenshot of toolbar in ChromeOS with full screen, partial screen, and window capture buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screen.png) 
@@ -54,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 ![Screenshot notification on ChromeOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-5-02-59-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you start a screen recording, you'll get a short countdown before the capture starts. When you're done recording, click the stop button in the ChromeOS Shelf. The video will be saved to your Downloads folder, unless you picked another folder.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use a Keyboard Shortcut
 
  The Screen Capture tool is pretty easy to open, but you may want an even quicker option if you take a lot of screenshots. There are three keyboard shortcuts associated with the three screenshot methods mentioned above. The shortcuts all use the Window key, which is the key on the top row of the keyboard that looks like three rectangles, as seen below. You can use the F5 key if your keyboard doesn't have the Window key (like an external keyboard with a typical PC layout).
@@ -68,7 +74,10 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 ![The Window key highlighted on a Chromebook keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chromebookkey.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ASUS
 
@@ -81,13 +90,10 @@ ASUS
  Unfortunately, there's not a keyboard shortcut to immediately start or stop a screen recording, like there is on Windows. You need to open the Screen Capture tool first before you can start a recording.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Where Are Screenshots Saved?
 
@@ -95,6 +101,12 @@ ASUS
 
 ![Screenshot of settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/vlcsnap-2024-04-24-16h48m27s001.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The menu will have an option to switch between Downloads or another folder you select. You can view your screenshots and recordings later by opening the Files app on your Chromebook.
 
  As you can see, there are many options for taking a screenshot on a Chromebook. It just depends on which method works best for your situation. Now you know!

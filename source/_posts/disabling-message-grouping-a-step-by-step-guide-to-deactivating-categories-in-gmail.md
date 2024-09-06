@@ -1,7 +1,7 @@
 ---
 title: "Disabling Message Grouping: A Step-by-Step Guide to Deactivating Categories in Gmail"
-date: 2024-09-01T08:25:19.488Z
-updated: 2024-09-02T08:25:19.488Z
+date: 2024-09-05T21:31:05.174Z
+updated: 2024-09-06T21:31:05.174Z
 tags:
   - android
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4fb035ab41968a0873cebbd66.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Disabling Message Grouping: A Step-by-Step Guide to Deactivating Categories in Gmail
 
 Google's Messages app---which is the [default SMS app](https://techtrends.techidaily.com/guide-to-activate-or-deactivate-network-discovery-feature-in-windows-11/) on many Android devices---has "Categories" across the top to organize your text messages. Thankfully, this email-like feature can be turned off if it's not your cup of tea.
@@ -23,20 +35,44 @@ Related: [How to Remove Tab Categories in Gmail](https://extra-resources.techida
 
 ![Tap profile icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-13_11-27-25.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Messages Settings" from the menu.
 
 ![Select "Messages Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-13_11-27-52.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Go to "Message Organization" in the settings."
 
 ![Go to "Message Organization."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-13_11-29-08.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Toggle off the switch for "View Messages by Category."
 
  Unfortunately, you must have this enabled if you want to use the "[Auto-Delete OTPs After 24 Hrs](https://facebook-video-content.techidaily.com/new-in-2024-the-art-of-digital-retrieval-saving-and-storing-chats-on-fb/)" feature found on this same screen.
 
 ![Turn off "View Messages by Category."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-13_11-56-05.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it. Your inbox will be back to the typical layout without any categories at the top of the screen. Messages has some other [organization](https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/) [features](https://smart-video-editing.techidaily.com/updated-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers-for-2024/) that you can use to keep things neat and easy to find.
 
 Related: [How to Pin Text Message Conversations on Android](https://smart-video-editing.techidaily.com/updated-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers-for-2024/)
@@ -101,8 +137,3 @@ Related: [How to Pin Text Message Conversations on Android](https://smart-video-
 <li><a href="https://hardware-tips.techidaily.com/why-budget-smartphones-with-inferior-glass-can-end-up-being-more-expensive-in-the-long-run/"><u>Why Budget Smartphones with Inferior Glass Can End Up Being More Expensive in the Long Run</u></a></li>
 <li><a href="https://hardware-tips.techidaily.com/why-simple-and-bland-looks-define-top-tier-smartphones-a-look-at-quality-over-flash/"><u>Why Simple and Bland Looks Define Top-Tier Smartphones: A Look at Quality Over Flash</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

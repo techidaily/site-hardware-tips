@@ -1,7 +1,7 @@
 ---
 title: "Going Beyond Portable Computers: How Framework's Modular Concept Is Revolutionizing Usage Across Devices"
-date: 2024-08-28T06:07:17.145Z
-updated: 2024-08-29T06:07:17.145Z
+date: 2024-09-05T21:30:58.476Z
+updated: 2024-09-06T21:30:58.476Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee2b82fb5803fb90b93482a66.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Going Beyond Portable Computers: How Framework's Modular Concept Is Revolutionizing Usage Across Devices
 
 Now that Framework has found a foothold in the laptop market, it's preparing to expand into new product categories. Framework will continue with its modular and repairable philosophy, thankfully, but the company is yet to reveal the full scope of its ambitions.
@@ -90,7 +96,3 @@ Now that Framework has found a foothold in the laptop market, it's preparing to 
 <li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-hardware-with-toms-review-site/"><u>Unveiling the Power of Hardware with Tom's Review Site</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-10-best-free-and-paid-2d-animation-software-for-2024/"><u>Updated The Ultimate List 10 Best Free and Paid 2D Animation Software for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Logitech Keys-To-Go 2: An Uncomplicated, Yet Effective Upgrade"
-date: 2024-08-28T06:06:38.876Z
-updated: 2024-08-29T06:06:38.876Z
+date: 2024-09-05T21:30:57.885Z
+updated: 2024-09-06T21:30:57.885Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff75322d1f48a2d2f5ab495fd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Evaluating the Logitech Keys-To-Go 2: An Uncomplicated, Yet Effective Upgrade
 
 ### Key Takeaways
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
 ![Keys-To-Go 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-dslu3o7y-2x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Logitech Keys-To-Go 2
 
 7/ 10 
@@ -40,6 +52,12 @@ Keys-To-Go 2 is Logitech’s most portable keyboard, designed to type on tablets
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Keys-To-Go 2 is available now for $79.99\. It comes in three colors at launch.
@@ -84,16 +102,10 @@ Keys-To-Go 2 is Logitech’s most portable keyboard, designed to type on tablets
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Out With Version One, In With The New
 
 ![Logitech Keys-To-Go 2 next to its packaging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784746945_b8cef045aa_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I bought the original Logitech Keys-To-Go keyboard almost a decade ago, around 2015, because I wanted the absolute thinnest, most minimal keyboard to throw in my backpack and type on my iPad better than I could with the on-screen keyboard.
@@ -115,14 +127,20 @@ Jerome Thomas / How-To Geek
 ![Logitech Keys-To-Go 2 folded on top of its cover on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784746960_6279912402_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Ultimately, I did come to just accept the fact that the inside of the cover, the part that touches the keys, was also the part resting on dirty surfaces. The cover does prop up the keyboard ever-so-slightly, but not enough to make a difference. The design of the cover just doesn’t make much sense to me.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Figuring Out Which iPad Keyboard to Buy
 
@@ -140,13 +158,16 @@ Jerome Thomas / How-To Geek
 
  The one omission when giving up Apple’s option is forfeiting a trackpad. I had to keep reaching out and positioning my cursor within my text document. It’s less ideal for frequent, every single day, use. So again, if you use your iPad like a laptop, Apple’s Magic Keyboard for iPad is probably the way to go. But if you just need an infrequent Bluetooth keyboard, this is the solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Logitech Keys-To-Go 2?
 
 ![Logitech Keys-To-Go 2 with its cover open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784323756_0f5797ec81_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  From the first moment I held the [Logitech Keys-To-Go 2](http://www.logitech.com/keys-to-go2-universal) keyboard I knew I would be buying one of my own. It’s an ideal size and its key action is springy enough to support prolonged typing—for as long as my brain can keep up. I love the Keys-To-Go 2 simple design and its basic features.
@@ -157,9 +178,6 @@ Jerome Thomas / How-To Geek
 
 ![Keys-To-Go 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-dslu3o7y-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 #####  Logitech Keys-To-Go 2
 
 7/ 10 

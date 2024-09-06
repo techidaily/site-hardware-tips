@@ -1,7 +1,7 @@
 ---
 title: Is a Private, Open-Source Option as Good as Google Photos?
-date: 2024-09-01T08:25:33.542Z
-updated: 2024-09-02T08:25:33.542Z
+date: 2024-09-05T21:31:05.389Z
+updated: 2024-09-06T21:31:05.389Z
 tags:
   - android
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Is a Private, Open-Source Option as Good as Google Photos?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Ente?](https://fox-access.techidaily.com/xmlssa-conversion-manual-for-professional-srt-production/)
@@ -27,7 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For many people, Google Photos has taken the stress out of managing photos. Every photo they snap is automatically uploaded to the web. Yet, as a Google service, the app comes with many privacy concerns. There's room for an app to offer a similar service without privacy concerns—"Ente" might be that replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Is Ente?
 
@@ -41,6 +50,12 @@ Close
 
  When we speak of an app as an alternative, it's easy to think of it as an also-ran or a copycat. In this case, that's still true, but what makes Ente worth using are things Google Photos does not and, without a big shift in company culture, cannot deliver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Ente Is Fully Open Source
 
 Close 
@@ -52,7 +67,16 @@ Close
  The code running on Ente's servers is also open source. This goes a step further than Proton, which releases open-source apps but runs proprietary code on its servers. With Ente, the entire loop can be audited, studied, or copied.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Ente Is End-to-End Encrypted
 
@@ -63,14 +87,26 @@ Close
  Ente, the company, doesn't have access to the key needed to decrypt your images. That means it can't scan your images to fund ever more ways to advertise to you. But this is also a big part of the reason Ente can't quite compete with Google Photos on the features many people love. More on that later.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Does Ente Actually Work?
 
  That's the most important question, and the short answer is yes. Here's what it can do.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Ente Automatically Backs Up Photos and Videos
 
@@ -92,18 +128,12 @@ Close
 
  Sharing files between two Ente users is seamless. Add both users to the same folder, and images will appear on both of their devices. Except, let's face it, most people are not Ente users. So, for them, you generate a public link that you can share with anyone. If you've used Dropbox, Google Photos, or basically any cloud storage with photo backup, then you know the deal. It works as you would expect.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ###  Ente Is a Basic Gallery App
 
 Close 
 
  You can use Ente as a replacement for your phone's default gallery app, too. It can display images you've recently shot with your camera in addition to images saved in folders elsewhere. There is a built-in editor for basic tweaks, such as rotating a photo or making it brighter. You can edit metadata and add hashtags to photos to easily search for them later.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Where Ente Falls Short
 
  Unfortunately, I can't just say that anyone using Google Photos will be happy using Ente. A lot of what many people love about the [many features of Google Photos](https://extra-approaches.techidaily.com/in-2024-no-cost-humor-in-your-arsenal-ultimate-meme-guide/) is the secret sauce that is easier to apply when you have as much data as Google does. It's the ability to type in a search and have Google Photos pull up exactly what you're looking for. You can type in "dog" and have it find any picture of a dog you've ever taken. You can even use Google Photos to search through the text of your handwritten notes since the service has OCR built-in. Type "red" and Google will show you pictures that are red.

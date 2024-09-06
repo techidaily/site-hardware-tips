@@ -1,7 +1,7 @@
 ---
 title: Speedy Techniques for Capturing Voice Memos with an Android Phone
-date: 2024-09-01T08:25:42.914Z
-updated: 2024-09-02T08:25:42.914Z
+date: 2024-09-05T21:31:05.515Z
+updated: 2024-09-06T21:31:05.515Z
 tags:
   - android
 categories:
@@ -28,26 +28,74 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2021-11-02_16-04-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, scroll down to "Lock Screen."
 
 ![Select "Lock Screen."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_12-40-48.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Widgets" from the Lock Screen settings.
 
 ![Select "Widgets."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_12-41-17.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  There are a few handy widgets you can choose from. Make sure to toggle on "Voice Recorder." You can also tap "Reorder" to adjust the order of the widgets.
 
 ![Toggle on "Voice Recorder."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_12-47-09.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now let's use the widget. Turn off the display and then wake up the phone so you can see the lock screen. There are two ways to show the widgets: tap the clock or swipe down on it.
 
 ![Tap or swipe down on clock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_12-50-58.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The widgets will appear and you can tap the red record button on the Voice Recorder widget to start taking a voice note!
 
 ![Tap the red button to record.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_12-52-00.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While recording, you can pause, stop, or cancel with the widget as well.
 
 ![Take action while recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_12-52-09.jpg) 
@@ -55,7 +103,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  That's the fastest way to take a voice note on a Samsung Galaxy device.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Take Voice Notes on a Google Pixel Phone
 
@@ -65,37 +122,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Tap the pencil icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-11_11-20-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The tiles at the top of the screen are already in the Quick Settings panel. Find "Recorder" in the bottom section and tap and hold it to drag it to the top section.
 
 ![Drag "Recorder" to the top section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_13-05-53.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Tap the arrow in the top left corner to finish.
 
 ![Tap the arrow when done.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_13-07-18.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Now you can simply open the Quick Settings panel and tap the "Recorder" tile to begin a voice note.
 
 ![Tap "Recorder" to start.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_13-08-16.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Recorder app will immediately launch and begin recording. From there you can pause, delete, and save.
 
 ![Take action while recording.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/2022-04-08_13-08-30.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's the fastest way to take a voice note on a Google Pixel device! These methods are perfect for removing all the barriers that get in the way of getting your thoughts out. If you're looking for a simple method to take text notes, [Google Keep is a great choice as well](https://fox-info.techidaily.com/2024-approved-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/).
 
 Related: [How to Use Google Keep for Frustration-Free Note-Taking](https://fox-info.techidaily.com/2024-approved-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/)

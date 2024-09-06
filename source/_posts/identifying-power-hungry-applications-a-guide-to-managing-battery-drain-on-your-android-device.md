@@ -1,7 +1,7 @@
 ---
 title: "Identifying Power-Hungry Applications: A Guide to Managing Battery Drain on Your Android Device"
-date: 2024-09-01T08:24:28.940Z
-updated: 2024-09-02T08:24:28.940Z
+date: 2024-09-05T21:31:04.428Z
+updated: 2024-09-06T21:31:04.428Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d489da22f5c297b4d52b59271.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Identifying Power-Hungry Applications: A Guide to Managing Battery Drain on Your Android Device
 
 ### Quick Links
@@ -18,6 +24,12 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 * [How to Use Android Battery Saver Mode](https://twitter-videos.techidaily.com/2024-approved-mp4twitterstreamer-sound-tweet-tool/)
 * [How to Close Apps on Android](https://win-blog.techidaily.com/stardew-valley-wont-start-follow-these-steps-to-get-it-running-again/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  Battery usage per app can be found by going to Settings > Battery > Battery Usage, or Settings > Battery and Device Care > Battery on a Samsung Galaxy device.
@@ -25,7 +37,10 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
  If your Android phone's battery always feels a little low, you can find out exactly where that power is going. Android's Battery screen shows you what's used battery power since your last charge, from apps to system services.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Check Battery Usage on Android
 
@@ -35,42 +50,63 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-33-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, go to Battery > Battery Usage.
 
 ![Select "Battery" then "Battery Usage."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-33-43.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now you'll see a list of apps and the percentage of the battery they've used since the last full charge.
 
 ![Battery usage in apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-35-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Keep scrolling to the bottom to see system app usage---[such as Google Play Services](https://tech-recovery.techidaily.com/top-11-free-movie-downloading-websites-you-should-know-about/).
 
 ![System app battery usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-43-57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  With a Samsung Galaxy device, you can see the same list by going to Settings > Battery and Device Care > Battery.
 
 ![Samsung battery settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-38-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The three biggest battery hogs will be shown first, but you can tap "View Details" to see the full list.
 
 ![Tap "View Details."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-41-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  That's all there is to it! Some popular apps have ["Lite" versions](https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y200e-5g-by-drfone-android/) you can try if you find the full version is eating up too much battery.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Stop Apps From Draining Battery on Android
 
@@ -80,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 ![Go to "Apps" and choose an app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-50-53.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, select "Battery" or "App Battery Usage."
 
 ![Select "App Battery Usage."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-52-31.png) 
@@ -96,7 +129,10 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 ![Android battery modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-55-19.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If an app has been using too much battery, you can try the "Optimized" or "Restricted" modes. One thing to note is restricting app's battery usage [can have annoying consequences](https://some-skills.techidaily.com/in-2024-total-command-mastery-powerdirector-review-and-guide/). You may want to keep frequently used apps as "Unrestricted."
 
@@ -108,14 +144,6 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 ![Go to "Battery" then "Battery Saver."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-59-25.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  On a Samsung Galaxy device, open Settings and go to Battery and Device Care > Battery.
 
 ![Samsung battery settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/10/2023-04-11_15-38-01.png) 
@@ -136,15 +164,30 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 ![Samsung adaptive power saving.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/2023-04-13_15-05-49.png) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Samsung also has additional settings for how Power Saving should work. For an "extreme" power saving mode, toggle on "Limit Apps and Home Screen."
 
 ![Samsung's extreme battery saver.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/2023-04-13_15-08-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  These battery saver modes come in handy when you need to squeak out every last drop of your battery. They're really not intended to be enabled all the time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Close Apps on Android
 
  Swipe up on an app from the multitasking screen to lightly close it, or go to Settings > Apps . Select an App > Tap "Close." You can use these methods to [close an app](https://video-capture.techidaily.com/new-expert-tips-on-ipad-screen-casts-for-2024/) if it seems to be using too much battery. Sometimes, a simple restart will fix the app.
@@ -153,24 +196,20 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 ![Swipe up from the bottom of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/09/2022-01-11_16-50-40.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Scroll through the list of recent apps and swipe up on any app to "close" it.
 
 ![Swipe up to close app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/09/2022-01-11_16-51-29.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  To use the more aggressive "Force Close" method, go to the Settings app and open the "Apps" section.
 
 ![Go to the "Apps" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/09/2022-01-11_16-53-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the app you'd like to close or tap "See All Apps" to view the full app list.
 
 ![Select an app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/09/2022-01-11_16-54-01.png) 
@@ -183,6 +222,12 @@ No advertising on the website.
 
 ![Tap "OK" to confirm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/09/2022-01-11_16-55-18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The app and its background services will be killed. If this doesn't solve the battery draining issue, you can [try rebooting the phone](https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-8-fix-now-drfone-by-drfone-virtual-ios/).
 
  If a reboot doesn't work, you may need to [check your Android phone's battery health](https://hardware-updates.techidaily.com/installing-intels-management-engine-drivers-on-windows-11817-complete-tutorial/). It may be time to replace the battery or [get a new phone](https://twitter-videos.techidaily.com/hot-takes-highlight-twitters-trending-topics-for-2024/).

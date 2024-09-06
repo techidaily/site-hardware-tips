@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Overcoming Google Chat Message Glitches in Android's RCS System
-date: 2024-09-01T08:25:23.400Z
-updated: 2024-09-02T08:25:23.400Z
+date: 2024-09-05T21:31:05.235Z
+updated: 2024-09-06T21:31:05.235Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/android-phone-rcs-chat.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effective Solutions for Overcoming Google Chat Message Glitches in Android's RCS System
 
 ### Quick Links
@@ -33,6 +39,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Ultimately, there are several things you can try. If none of those work, the nuclear option is to totally disconnect RCS/Google Chat on the server side. But let's not get ahead of ourselves here—let's first look at how to check the status of RCS on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Check the RCS Connection Status on Android
 
  If you [know your phone has RCS](https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-instagram-videos-for-global-engagement/), and you're having trouble sending messages, checking the status of RCS chat features on your phone is a good place to start.
@@ -50,15 +62,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A screenshot of the Chat features menu showing a Connected status](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-05-30-12_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If it's not connected, however, then it's time to start troubleshooting. Stay in this menu, though—it's where you'll start.
 
  While the following solutions are listed as "options," they're designed to be executed in sequential order. They're laid out from easiest and least destructive to hardest and most aggressive, so start with the first one!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Option One: Toggle Chat Features and Restart
 
  While you're in that Chat features menu, go ahead and hit the "Enable chat features" toggle to _disable_ it.
@@ -67,14 +79,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A screenshot of Android's restart menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-10-08-65_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When it boots back up, use the directions above to jump back into the RCS Chats menu. Tap the "Turn On RCS Chats" toggle and see if it connects. With a little luck, that did the trick. But if not, keep reading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Option Two: Clear Storage for Messages
 
  If you've been an Android user for any reasonable length of time, you've likely done the Clear Cache song and dance. Guess what? This is no different. Okay, maybe it's slightly different—you need to first enable [Airplane Mode](https://audio-shaping.techidaily.com/updated-in-2024-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/).
@@ -88,22 +94,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Android's notification shade wit the setting button highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-12-13-39_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now go to the "Apps" section (or some variation of this—each Android manufacturer out there will have some version of this option) and find the Messages app.
 
 ![Android's Settings menu with the Messages app highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-13-28-12_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Open the storage submenu and tap "Clear Data" or "Clear Storage."
 
 ![The Storage and cache entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-15-13-27_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Disable Airplane Mode, restart your phone, and then re-check RCS status using the method outlined above. If it reconnects, congratulations—you're good to go. If not, well, it's time to keep trying.
 
 ##  Option Three: Clear Storage for Carrier Services
@@ -117,21 +126,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Android's notification shade wit the setting button highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-12-13-39_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Go to the "Apps" section again, and this time find "Carrier Services." If you don't see it, tap the three dots in the upper right corner, and select "Show system."
 
 ![Android settings menu with Carrier Services highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-32-09-01_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the storage submenu and tap "Clear Data" or "Clear Storage."
 
 ![The Storage and cache entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-15-13-27_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
  Disable Airplane Mode, restart your phone and then re-check RCS status using the method outlined above. If it reconnects, you're good to go. If not, we'll need to keep digging. From this point forward, the options get more and more aggressive.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Option Four: Reset Network Options
 
  At this point, we're starting to get a little desperate. Resetting Network options will nuke _all_ of your wireless connections—Wi-Fi, Bluetooth, and mobile data. That means you'll have to set everything up like it's the first time again, which can be irritating. Alas, if it fixes your RCS issues, maybe it's worth it?
@@ -141,25 +168,49 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Android's notification shade wit the setting button highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-12-13-39_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Use the search bar to find](https://desktop-recording.techidaily.com/in-2024-simplify-virtual-collaboration-a-zoom-setup-overview/) the "Reset Network Settings" menu.
 
 ![Searching for reset network settings in the android settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-34-44-60_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Choose "Reset Network Settings" again.
 
 ![The reset options menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-35-17-65_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A warning will pop up to let you know that this will erase all network settings—a necessary evil. Tap the "Reset Network Settings" button.
 
 ![The network reset warning dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-35-57-98_41a74ddf68be21faad2fbbb691b15143.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This will take a few minutes, and afterward, you'll want to set up all your Wi-Fi and Bluetooth connections. But first, head back into the Messages app and recheck the RCS status. Connected? Yay! Still nothing? Oof. Time to go nuclear, at least for now.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Nuclear Option: Disable RCS Completely
 
  If none of the above options worked, then it's [time to let go of RCS for the time being](https://tiktok-videos.techidaily.com/embrace-the-thrill-how-to-engage-in-tiktok-livestreams-for-2024/). It's absolutely frustrating to have your messages end up in the abyss, so at least you can fall back to SMS for now. This is a two-step process, but it's not hard. So tell RCS you love it because it's time to put it to sleep.
@@ -169,7 +220,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A screenshot of the menu in the Messages app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-05-20-29_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Next, tap on "RCS Chats."
 
@@ -179,16 +239,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![showing the Chat features toggle in Messages](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_16-23-47.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  But that doesn't always fix the issue both ways—you might be able to send messages over SMS after this, but there's a good chance messages coming back to you will still come in over RCS. That means you won't get them, so you'll also need to disable RCS on the server side.
 
  First, head over to [Google's Disable Chat page](https://messages.google.com/disable-chat) and scroll to the bottom. Here, you'll input your phone number, and Google will send a six-digit code for verification, which you'll input into the second box.
 
 ![disabling RCS on the server side using Google's web tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_15-39-15.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  After verifying your phone number, Chat/RCS should be completely disabled so you can at least send and receive messages over SMS/MMS.
 
 ##  Keep Trying to Re-enable Chat Features if You Still Want to Use RCS

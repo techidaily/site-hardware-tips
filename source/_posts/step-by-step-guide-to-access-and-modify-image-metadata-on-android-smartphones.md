@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Access and Modify Image Metadata on Android Smartphones
-date: 2024-09-01T08:23:51.246Z
-updated: 2024-09-02T08:23:51.246Z
+date: 2024-09-05T21:31:03.856Z
+updated: 2024-09-06T21:31:03.856Z
 tags:
   - android
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/person-taking-a-selfie-using-the-rear-cameras-on-the-samsung-galaxy-z-fold-5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide to Access and Modify Image Metadata on Android Smartphones
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to View EXIF Data on Android](https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-toms-systems/)
@@ -24,13 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Photo [EXIF data](https://some-knowledge.techidaily.com/new-ignite-motivation-the-hottest-playlists-for-workouts/) is useful for seeing pertinent information about a picture: shutter speed, aperture, exposure, time taken, geolocation—the list goes on and on. Checking this sort of info directly from your phone is simple—so is editing (or removing) it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ##  How to View EXIF Data on Android
 
  If you want to view your pictures' EXIF metadata in its simplest form, you take the simplest approach to do so. We'll be using [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU217038/https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en) to take a look at this info since it's ubiquitous on Android devices at this point.
@@ -39,9 +44,6 @@ No advertising on the website.
 
 ![Open a photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-111927.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Swipe up on the photo or tap the three-dot menu icon in the top right corner.
 
 ![Swipe up or tap the menu icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-111940.png) 
@@ -55,11 +57,14 @@ No advertising on the website.
 
 ![EXIF data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-111954.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  It's a simple and super-efficient way to view basic EXIF data. If that's all you're looking to do, then you're done. If you want to go a step further with this data, continue on.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to View, Edit, and Remove Advanced EXIF Data on Android
 
  If you want to see more information about your photos—or want to remove data—you'll have to look outside of Android's native capabilities and turn to the Play Store.
@@ -70,34 +75,55 @@ No advertising on the website.
 
 ![Open "Photos."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-112142.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The photos view defaults to the "Recent" menu, which opens all pictures recently taken on or added to the device. Tap any photo for which you want to see or edit the data.
 
 ![Select a photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-112202.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can use the "File Browser" option on the startup screen to dive into the device's internal storage for deeper access to your images.
 
 ![Browse through folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-112225.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you've selected an image, the app displays all the available EXIF data. The list gets pretty long and granular, so take your time here.
 
 ![EXIF data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-112242.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Not all images have all the details—some cameras just don't record this much data. If you'd like to hide the data that's unavailable, tap the little eyeball icon in the top right corner. This will make all the available details a little easier to parse.
 
 ![Hide blank details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230929-112257.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If removing EXIF data is what you're after, tap the "Exif" button beside the eyeball.
 
 ![Tap the remove EXIF data button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-29_11-31-08.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The "Remove EXIF" screen is pretty straightforward to use. Just tap the checkbox next to the data you'd like to remove. If you want to remove it all, just hit the very first check box at the top, which will select everything.
 

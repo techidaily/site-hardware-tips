@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Specs: Understanding That PCIe Numbers Aren't Key for Modern Graphics Drives"
-date: 2024-08-28T06:09:01.064Z
-updated: 2024-08-29T06:09:01.064Z
+date: 2024-09-05T21:31:00.128Z
+updated: 2024-09-06T21:31:00.128Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beyond the Specs: Understanding That PCIe Numbers Aren't Key for Modern Graphics Drives
 
 ### Quick Links
@@ -27,7 +33,10 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
  With PCIe 7.0 around the corner, you might be concerned that your "old" PCIe 4.0 motherboard won't be able to keep up with the latest graphics cards releasing. So, do PCIe versions actually matter for graphics cards, or are they overblown?
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  PCIe Is Forward and Backward Compatible
 
@@ -39,15 +48,24 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![PCIe slots, PCI slots, and other electrical parts in a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-05_16h13_28.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  The only difference between PCIe versions is the bandwidth speed per lane. The [maximum transfer rate](https://en.wikipedia.org/wiki/PCI%5FExpress#Hardware%5Fprotocol%5Fsummary:~:text=and%20other%20features.-,Comparison%20table,-%5Bedit%5D) has been roughly doubled between each generation: PCIe 1.0 supports up to 0.250GB/s per lane, PCIe 2.0 supports up to 0.500GB/s per lane, etc. The upcoming PCIe 7.0 will support up to 15.125GB/s in a one-lane configuration, which is close to the bandwidth a PCIe 3.0 x16 slot can do.
 
  While PCIe slots are backward compatible, both your PCIe slot and graphics card have to support the latest version if you want to take full advantage of the higher transfer rates. A PCIe 4.0 graphics card in a PCIe 3.0 slot will be limited to PCIe 3.0 speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Number of PCIe Lanes Is Just as Important as the Version
 
  PCIe lanes are the channels on the motherboard and the graphics card that allow data to be transferred between the computer and graphics card. The number of lanes is indicated by a lower-case "x" followed by the number of lanes—A PCIe x16 slot has 16 lanes, whereas a PCIe x2 only has two lanes.
@@ -59,7 +77,10 @@ Jason Fitzpatrick / How-To Geek
 ![Image of an air CPU cooler with two fans inside a computer with a modern gaming graphics card beneath it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img20231201185642.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek
 
@@ -68,21 +89,24 @@ Ismar Hrnjicevic / How-To Geek
  So, while you should care about PCIe versions, it's not a deal-breaker. Feel free to mix and match graphics cards and motherboards as you see fit. The only notable outliers are PCIe x4 graphics cards, with the most notorious examples being the [RX 6400](https://www.amazon.com/XFX-Speedster-SWFT105-Graphics-RX-64XL4SFG2/dp/B09Y7358KJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-pcie-version-doesnt-matter-for-graphics-cards-like-you-think%2F&asc%5Fcampaign=Evergreen) and [RX 6500 XT](https://www.amazon.com/ASRock-VGA-RX6500XT-PGD-4GO/dp/B09RHQNT5K?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-pcie-version-doesnt-matter-for-graphics-cards-like-you-think%2F&asc%5Fcampaign=Evergreen). These cards only use _four PCIe 4.0 lanes_, which means they suffer from [serious performance issues in a PCIe 3.0 slot](https://tools.techidaily.com). I recommend steering clear of these cards as an upgrade in older systems.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  PCIe Versions Primarily Affect High-Bandwidth SSDs
 
 ![A SanDisk NVMe SSD on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-nvme-ssd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek  
   
  When even the highest-end graphics cards are hardly affected by PCIe versions, you can't help but wonder why manufacturers have been pushing to newer versions in the past few years. The answer is [high-bandwidth NVMe SSDs](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/). High-end SSDs can take advantage of PCIe 4.0 and 5.0 in the form of breakneck transfer speeds. Still, unless you're constantly transferring files from one SSD to another, [you don't really need a PCIe 5.0 SSD](https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/). For gamers, even a PCIe 3.0 NVMe can [offer more than you'll ever need](https://www.techspot.com/review/2116-storage-speed-game-loading/#:~:text=There's%20also%20little%20difference%20between,not%20important%20for%20game%20loading.).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Which PCIe Version Should I Buy?
 

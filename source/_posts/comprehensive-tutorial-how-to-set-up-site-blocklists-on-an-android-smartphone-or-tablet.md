@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: How to Set Up Site Blocklists on an Android Smartphone or Tablet"
-date: 2024-08-26 11:53:33
-updated: 2024-08-29 10:37:47
+date: 2024-09-05T21:29:47.727Z
+updated: 2024-09-06T21:29:47.727Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b136dab287938aeaf206fdd815.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Tutorial: How to Set Up Site Blocklists on an Android Smartphone or Tablet
 
 ### Quick Links
@@ -16,6 +22,18 @@ thumbnail: https://thmb.techidaily.com/f5ca19cfb399293f128bff56ae3fb6cb8b3fe3b13
 * [Block Websites on Android With a Third-Party App](https://screen-mirror.techidaily.com/best-3-infinix-hot-40-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/)
 * [Block a Website on Android Without an App](https://extra-approaches.techidaily.com/updated-pivotal-ideas-in-tech-driven-story-weaving/)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  To block websites on Android, install a third-party app like BlockSite, or use Mozilla Firefox as your browser and get a website-blocking add-on. Switching to a custom DNS server will also block a wide swath of time-wasting and inappropriate websites at once for all Android browsers.
@@ -36,6 +54,18 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Select "Blocklist" and tap "+."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/1-blocksite-add-site.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the "Add Sites/Apps" screen, at the top, tap the text field and type the URL (web link) to the site you want to block. For example, to block 
 
         `wikipedia.org`
@@ -50,6 +80,12 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Specify the sites and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/2-blocksite-specify-site.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Done" in the prompt.
 
 ![Choose "Done" in the prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/3-blocksite-site-added.png) 
@@ -66,10 +102,22 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Configure the block schedule.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/5-blocksite-configure-schedule.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And that's all there is to it. Your specified sites are now inaccessible in your phone's web browsers. If you try to access one of those sites, you'll see a message from BlockSite instead of the actual site content.
 
 ![BlockSite's message for a blocked site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/6-blocksite-blocked-site.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Block a Website on Android Without an App
 
  If you don't wish to use a third-party app to block sites on your Android phone, you can either restrict website access inside Mozilla Firefox or put a blanket ban on adult sites using custom DNS servers.
@@ -92,10 +140,22 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Select "Add" in the bottom-right corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/9-firefox-mobile-install-leechblock-add-on.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When the add-on is installed, select "Okay, Got It."
 
 ![Choose "Okay, Got It."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/10-firefox-mobile-leechblock-add-on-added.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Access Firefox's "Add-Ons" page by tapping the three dots in the browser's top-right corner and choosing "Add-Ons."
 
  Then, tap "LeechBlock NG."
@@ -106,6 +166,12 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 ![Choose "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/12-firefox-mobile-leechblock-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tap the large text field and enter the site URLs you want to block. Specify the schedule for when these sites should remain blocked.
 
  Then, scroll down the page and tap "Save Options & Close."
@@ -118,6 +184,12 @@ Related: [How to Stop Annoying Website Notifications in Chrome on Android](https
 
 Related: [How to Block Facebook (or Any Distracting Website)](https://some-approaches.techidaily.com/updated-the-alliance-formula-youtube-partnerships-with-brands/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use Custom DNS Servers to Block Adult Sites
 
  If you're looking to put a blanket ban on websites containing adult content, pirated media, and malware on your Android phone, [use OpenDNS' free FamilyShield DNS servers](https://instagram-clips.techidaily.com/new-becoming-a-master-of-instagram-auditory-aesthetics/). These servers ensure your phone doesn't load those kinds of websites on your local network.
@@ -130,6 +202,12 @@ Related: [How to Block Facebook (or Any Distracting Website)](https://some-appro
 
 ![Tap "Wi-Fi."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/14-samsung-wi-fi-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next to the Wi-Fi network you're connected to, tap the gear icon.
 
  You'll have to specify these DNS servers for each Wi-Fi network you use. Android won't automatically apply these servers to all your wireless networks.
@@ -172,3 +250,46 @@ Related: [How to Set App Time Limits and Block Apps on Android](https://eaxpv-in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-acid-pro-evaluation-finding-reliable-counterparts/"><u>[New] ACID Pro Evaluation Finding Reliable Counterparts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-determinants-of-your-youtube-view-count-status/"><u>[New] In 2024, Exploring Determinants of Your YouTube View Count Status</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlock-xps-movie-magic-software-essentials/"><u>[New] Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-instantly-post-photosvideos-to-twitter-skipping-retweets/"><u>[Updated] In 2024, Instantly Post Photos/Videos to Twitter, Skipping Retweets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-become-a-digital-native-in-the-metaverse-now/"><u>2024 Approved Become a Digital Native in the Metaverse Now</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>2024 Approved Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastery-in-making-sense-top-6-persuasive-video-types/"><u>2024 Approved Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/against-all-odds-the-remarkable-journey-from-sls-kickstarter-to-acquisition-success/"><u>Against All Odds: The Remarkable Journey From SLS Kickstarter to Acquisition Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/airbus-and-european-space-agency-collaborate-on-a-new-era-of-space-manufacturing-with-isss-metal-3d-printer/"><u>Airbus & European Space Agency Collaborate on a New Era of Space Manufacturing with ISS's Metal 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-imperfections-tips-for-smooth-finishes-in-additive-manufacturing/"><u>Avoiding Imperfections: Tips for Smooth Finishes in Additive Manufacturing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bamboo-comforts-premium-slider-mattress-in-depth-analysis/"><u>Bamboo Comfort's Premium Slider Mattress - In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bluetooth-gaming-headsets-of-202carefully-crafted-to-offer-the-ultimate-wireless-experience-our-selection-includes-budget-and-premium-choices-alike-for4/"><u>Best Bluetooth Gaming Headsets of 202Carefully Crafted to Offer the Ultimate Wireless Experience, Our Selection Includes Budget and Premium Choices Alike for Gamers Seeking High-Quality Sound without Wires</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-performance-with-toms-hardware-reviews/"><u>Discover Cutting-Edge Performance with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-advancement-introducing-the-newly-unveiled-intel-granite-rapids-cpus-featuring-up-to-128-core-configuration-and-a-whopping-500w-tdp/"><u>Discover the Latest Advancement: Introducing the Newly-Unveiled Intel Granite Rapids CPUs Featuring Up To 128 Core Configuration and A Whopping 500W TDP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-innovation-frores-new-airjet-mini-sport-a-subaquatic-solid-state-active-cooler-without-a-fan-for-ultimate-performance/"><u>Dive Into Innovation: Frore's New AirJet Mini Sport - A Subaquatic Solid-State Active Cooler Without a Fan for Ultimate Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-fruity-efficiency-extrememugurisus-strawberry-infused-thermal-gel-vs-grizzlys-kryonaut-compared/"><u>Experience Fruity Efficiency: ExtremeMUGURISU's Strawberry-Infused Thermal Gel Vs. Grizzly's Kryonaut Compared</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultra-efficient-storage-with-teamgroups-new-lpddr5x-camm2-memory-units-your-third-choice-for-the-latest-compact-ram-standard-and-intelligent-bran26/"><u>Experience Ultra-Efficient Storage with TeamGroup's New LPDDR5X CAMM2 Memory Units – Your Third Choice for the Latest Compact RAM Standard and Intelligent Branding!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-into-hardware-by-tom-a-comprehensive-guide/"><u>Expert Insight Into Hardware by Tom: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-reviews-and-insights/"><u>Exploring Computer Components with Tom - Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-top-gadgets-reviewed/"><u>Exploring the Latest in Technology with Tom's Hardware - Top Gadgets Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-access-leveraging-microsoft-bings-ai-with-dall-e-3/"><u>Free Access: Leveraging Microsoft Bing's AI with DALL-E 3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proof-interviews-the-top-9-skype-techniques-of-2e4/"><u>Future-Proof Interviews: The Top 9 Skype Techniques of 2E4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-stability-avoiding-rtx-crashes/"><u>Game Stability: Avoiding RTX Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-rectify-a-non-heating-bed-in-your-3d-printer-comprehensive-guide/"><u>How To Rectify A Non-Heating Bed In Your 3D Printer: Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-video-response-rate-how-to-increase-it/"><u>In 2024, Instagram's Video Response Rate How to Increase It</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>In 2024, Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-detailed-equipment-reviews/"><u>Mastering Electronics with Tom's Detailed Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-technology-trends-at-toms-digital-world/"><u>Navigate Through Technology Trends at Tom's Digital World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-insights-from-toms-hardware-specialists/"><u>Navigating the World of Computing: Insights From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-release-samsung-unveils-the-worlds-slimmest-lpddr5x-memory-chip-in-mass-production/"><u>Revolutionary Release: Samsung Unveils the World’s Slimmest LPDDR5X Memory Chip in Mass Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sk-hynix-turns-the-tide-with-profitability-post-q3-2022-thanks-to-ai-demand-and-soaring-dram-prices/"><u>SK Hynix Turns the Tide with Profitability Post-Q3 2022 Thanks to AI Demand and Soaring DRAM Prices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-choosing-an-exceptional-home-use-xtool-s1-diode-laser-cutting-device/"><u>The Definitive Guide to Choosing an Exceptional Home-Use XTool S1 Diode Laser Cutting Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-resolving-elephants-leg-problems-in-3d-printing/"><u>Ultimate Guide: Resolving Elephant's Leg Problems in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-affordable-precision-with-elegoo-neptune-4-pro-a-comprehensive-review/"><u>Unlock Affordable Precision with Elegoo Neptune 4 Pro - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-launch-of-affordable-snapdragon-x-pcs-at-700-confirms-qualcomm-ceo/"><u>Upcoming Launch of Affordable Snapdragon X PCs at $700, Confirms Qualcomm CEO</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/window-wisdom-taking-precise-screen-captures-for-2024/"><u>Window Wisdom Taking Precise Screen Captures for 2024</u></a></li>
+</ul></div>

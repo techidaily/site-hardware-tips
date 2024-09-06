@@ -1,7 +1,7 @@
 ---
 title: Discover 20 Stunning Titles for High-Quality Gaming Experience on Budget, Potato-Powered Computers!
-date: 2024-08-28T06:09:44.853Z
-updated: 2024-08-29T06:09:44.853Z
+date: 2024-09-05T21:31:00.809Z
+updated: 2024-09-06T21:31:00.809Z
 tags:
   - hardware
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-pc-above-a-table-surrounded-by-potatoes-and-some-games-on-the-screen.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover 20 Stunning Titles for High-Quality Gaming Experience on Budget, Potato-Powered Computers!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is a Potato Gaming PC?](https://extra-information.techidaily.com/18-quick-and-inspiring-ideas-to-try-in-your-vlog/)
@@ -44,9 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I’ve tweaked some settings and options to squeeze every last drop of performance out of my PC and get these games to run. [Learn how to optimize your gaming PC](https://fox-helps.techidaily.com/dissecting-the-sony-s6700-enhancements/) for optimal performance without buying extra parts.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### _Prince of Persia: The Sands of Time Trilogy_ 
 
 _Prince of Persia: The Sands of Time_ is an action-adventure 3D platformer that can even give some modern titles a run for their money. It was released in 2003, but a [remake is slated for 2026](https://news.ubisoft.com/en-us/article/5bpvgE64gxlTtkBULl98XT/first-details-on-the-remake-of-prince-of-persia-the-sands-of-time).
@@ -55,6 +64,18 @@ _Prince of Persia: The Sands of Time_ is an action-adventure 3D platformer that 
 
  For all three titles, the story is captivating, the level designs are awesome, and the time travel shenanigans are super fun and well-integrated.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Assassin's Creed_ (Up To _Black Flag_)
 
 _Assassin’s Creed_ is another action-adventure series that started in 2007, and it’s still going, with [a possible conclusion on the horizon](https://www.gamingbible.com/news/platform/assassins-creed-shadows-open-world-980332-20240610). There are a total of 14 releases in the main series, out of which the first six run on the above-discussed specs. This includes:
@@ -71,15 +92,24 @@ _Assassin’s Creed_ is another action-adventure series that started in 2007, an
 
  At its core, all games have satisfying parkour elements with stealth sequences and some 3D platforming. Depending on the title, you’ll explore historical places like Damascus, Renaissance Italy, Colonial America, and the West Indies during the golden age of piracy—which is why I like _Black Flag_, because you’ll be able to pilot pirate ships and engage in nautical combat.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### _Prototype_ and _Prototype 2_ 
 
 _Prototype_ and its sequel deliver one of, if not the best, power fantasies with brutal, over-the-top, hack-and-slash action. If annihilating armies of mutated zombies on the streets of Manhattan as everything descends into chaos sounds fun—get these games! I’m still praying for _Prototype 3_!
 
  You can shapeshift into other people, run up walls, glide through the air, turn your arm into a massive blade, slice through armored tanks, latch onto helicopters and hack them midair, and more.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Darksiders_ and _Darksiders 2_ 
 
  The _Darksiders_ games have great lore, great combat, great voice acting, awesome Zelda-like puzzle-solving, and massive worlds for you to explore.
@@ -89,8 +119,10 @@ _Darksiders_ has you playing as War, one of the four horsemen of the Apocalypse.
  In _Darksiders 2_, you play as Death, the eldest of the four horsemen. Death is more agile, which leads to parkour segments. There are also a lot of RPG elements and a loot system, meaning different weapons and different fighting styles. The gameplay is richer in the sequel, but the original has a better narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### _Hitman: Absolution_ 
 
@@ -98,39 +130,42 @@ _Darksiders_ has you playing as War, one of the four horsemen of the Apocalypse.
 
  The gameplay revolves around reading the room, analyzing NPC movement, and figuring out the best way to navigate the situation and assassinate your target. The disguise system allows you to blend in with crowds, offering multiple approaches to each mission.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Bioshock Infinite_ 
 
 _BioShock Infinite_ is a visual masterpiece set in the floating city of Columbia. Its early 20th-century Americana aesthetic creates a unique and unforgettable world.
 
  The game's art style combines realistic textures with slightly exaggerated proportions, and Columbia's sun-drenched streets all showcase impressive attention to detail. Aside from the visuals, the game has a gripping story and captivating, fast-paced aerial combat that I adore.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Dragon Age: Inquisition_ 
 
 _Dragon Age: Inquisition_ is an RPG from 2014 featuring diverse, beautifully crafted environments, from lush forests to snow-capped mountains. This is certainly one of the most demanding titles on the list, but I can run it at low graphics settings and with bearable frame drops here and there.
 
  The story evolves depending on the choices you make, and gameplay focuses on tactical combat. You have a “war table” to manage your inquisitions on a global scale which should appeal to players who like strategy games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Half-Life 2_ 
 
  Released in 2004, _Half-Life 2_ set the benchmark for storytelling and physics in FPS games. It looks like a quintessential game from the 2000s, which I don’t particularly see as a bad thing. Character models, especially facial animations, were groundbreaking for their time and are still commendable.
 
  The gameplay revolves around physics-based puzzles and combat, with the iconic Gravity Gun offering unique interaction with the environment. The seamless storytelling, with minimal cutscenes and no QTAs, should teach modern games a thing or two about how to create immersive story-driven gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Need For Speed: Hot Pursuit Remastered_ 
 
  If you love racing, the NFS games are great picks. Released in 2020, _Hot Pursuit Remastered_'s scenic routes and high-speed chases look great. You’ll get almost photorealistic graphics even though it’s running on potato specs.
 
  The 2020 remaster is a graphically revamped version of the 2010 title. The core gameplay is still the same, which is good because everyone loved it. In case you didn’t play the original, it’s an arcade racer with intense chases between racers and police. The sound design is particularly good and definitely helps with the immersion.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Batman Arkham Asylum_ and _Arkham City_ 
 
  If you are looking for some superhero games, our potato rig can comfortably run _Arkham Asylum_ at max settings and _Arkham City_ at medium to high.
@@ -139,15 +174,24 @@ _Arkham Asylum_ traps the caped crusader in the titular prison, which is now tee
 
  Coming to the sequel, _Arkham City_ carries over the strong foundations of _Arkham Asylum_ but expands the map into a larger open world. The game puts you in a walled-off section of Gotham City, allowing for greater freedom and exploration.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### _Ori and The Blind Forest_ 
 
 _Ori and the Blind Forest_ is a personal favorite of mine, with its vibrant hand-painted art style, wonderfully animated characters, emotional story, and hauntingly beautiful and melancholic orchestral score. Potato PC or not, it’s a wonderful Metroidvania platformer that everyone should try out.
 
  The 2D graphics are not only visually stunning but easy on the hardware, making it an excellent choice for potato PCs. It's a prime example of how artistic style can outshine pure graphical power.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Grand Theft Auto V_ 
 
  I saved the most shocking option for last. Yes, _GTA V_ runs on our potato PC. This is a sobering realization of how long we have been waiting for _GTA VI_. Rockstar's open-world crime 'em up was first released back in 2013 and has a minimum system requirement of 4GB RAM and 1GB VRAM. You can expect low to medium graphical fidelity on a potato gaming rig.

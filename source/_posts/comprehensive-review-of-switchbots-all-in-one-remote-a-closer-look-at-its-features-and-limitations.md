@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of SwitchBot's All-in-One Remote: A Closer Look at Its Features and Limitations"
-date: 2024-08-28T06:07:05.712Z
-updated: 2024-08-29T06:07:05.712Z
+date: 2024-09-05T21:30:58.303Z
+updated: 2024-09-06T21:30:58.303Z
 tags:
   - hardware
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755652a56d2cc4cf20f4740048.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Review of SwitchBot's All-in-One Remote: A Closer Look at Its Features and Limitations
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The SwitchBot Universal Remote is lightweight and has a long battery life, but the setup is confusing and requires an additional hub for most functionality.
@@ -44,6 +56,12 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The SwitchBot Universal Remote retails for $59.99\. On its own, without a hub, however, not all features work. Switchbot sells a bundle with its Hub 2 for $109.99 or with its Hub Mini with Matter for $99.99.
@@ -66,13 +84,16 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
  2.4in LCD 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Getting Started Is a Tough Process
 
 ![SwitchBot Universal Remote on a couch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-on-a-couch.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I was primed to love the Universal Remote from SwitchBot because I desperately want more ways to control the smart lights, blinds, and other connected devices in my house. That’s not sarcastic either. Yelling out for Siri is handy, but not always convenient. Neither is constantly needing to pull out my phone and open an app.
@@ -87,16 +108,10 @@ Tyler Hayes / How-To Geek
 
  I ran into enough hiccups during and after the setup process, with commands not being synced or registered, that I wonder if, in the end, the result is worth the benefit for most people.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Universal Remote Can do A lot, But Probably Won’t
 
 ![hand holding showing Matter buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-showing-matter-buttons.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  What do you get if you actually successfully set up the remote? Well, you can use it to control an Apple TV box or Fire TV device. That means it could easily live in your living room and has an excuse to be out and readily accessible.
@@ -113,6 +128,12 @@ Close
 
 ![Apple TV remote next to SwitchBot Universal Remote](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/apple-tv-remote-next-to-switchbot-universal-remote.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The design of the Universal Remote feels mostly utilitarian. It’s large and chunky, but it’s not overly heavy. It has a 2.4-inch LCD screen that I found to be bright and spacious enough. The screen isn’t overly impressive, but it gets the job done.
@@ -126,7 +147,10 @@ Tyler Hayes / How-To Geek
  Despite being a device for the entire home, it’s not a controller that begs to be carried around. The Universal Remote looks like a TV remote and probably best serves its purpose by being left in front of a TV—while still being able to manipulate devices across the home. If you do manage to misplace the large device there's a feature in SwitchBot's app to have the remote make a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Future of This Device Could Be Amazing (But Wait for It)
 
@@ -144,12 +168,21 @@ Tyler Hayes / How-To Geek
 
  SwitchBot advertises a 150-day battery life and even though I haven’t used the remote for half a year, that number doesn’t shock me. When I did test recharging the remote, the USB-C port at the bottom powered it up quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the SwitchBot Universal Remote?
 
 ![hand holding SwitchBot Universal Remote showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-switchbot-universal-remote-showing-buttons.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -159,9 +192,6 @@ Tyler Hayes / How-To Geek
 
 ![SwitchBot Remote Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/switchbot-remote-control.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  SwitchBot Universal Remote
 
 6/ 10 

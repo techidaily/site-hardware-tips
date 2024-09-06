@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers"
-date: 2024-09-01T08:23:15.607Z
-updated: 2024-09-02T08:23:15.607Z
+date: 2024-09-05T21:31:03.338Z
+updated: 2024-09-06T21:31:03.338Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
 ## Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Printers embed yellow dots into documents, impacting privacy and raising potential concerns.
@@ -25,19 +37,31 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
 ![Brother HL-L3295CDW Color Laser Printer Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/brother-hl-l3295cdw-color-laser-printer-screen-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  Tracking codes are typically created by the printer firmware and embedded in the document as it is being printed. The firmware contains algorithms that generate the specific pattern of dots or other steganographic markings based on the printer's identifying information and the timestamp of the printing job. This process is automatic and does not require any user intervention. In fact, most users don't even know their printers are printing information that can track them.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How Did These Codes Come About?
 
 ![A printer printing a black and white "How-To Geek" page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52775531323_2850f9e4cf_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Jason Montoya / How-To Geek
 
@@ -47,16 +71,10 @@ Patrick Campanale / How-To Geek
 
  Despite the controversies surrounding printer tracking codes, they continue to be a standard feature in most modern printers. There used to be [a list of printers](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots) where this stenography showed up, but it was last updated in 2017 and hasn't been kept running since then. The list notes that almost all modern laser printers have some form of steganography tracking, even if they don't print yellow dots.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Printer Tracking Codes Function
 
 ![A person using an all-in-one printer in an office setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/aio-printer-office.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee-using-modern-printer-office-closeup-1923681830)_
 
  When someone prints a sheet of paper on a color printer, a grid of [15 by 8 yellow dots](https://w2.eff.org/Privacy/printers/docucolor/) is embedded within the sheet. The grid is repeated throughout the printed page, and the grids are offset to ensure that each grid print doesn't run into another. The grids are also parallel to the edges of the page. The dots form a series of data, much like punch cards used on the earliest computers.
@@ -79,9 +97,6 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
 
  Instead of reading all of this information, if you want to decode this, there's [a handy website](https://w2.eff.org/Privacy/printers/docucolor/#program) that can attempt to process the data and give you a result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Could This Feature Be Abused?
 
  Like many features installed for security reasons ([like Microsoft's upcoming Recall feature](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/)), steganography can be used for nefarious purposes. One of the main concerns is the lack of transparency surrounding the use of tracking codes. Many users are unaware that their printed documents contain hidden identifying information, and printer manufacturers have not always been forthcoming about the presence or purpose of these codes.
@@ -91,12 +106,21 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
  This is a significant red flag for any individual who's concerned about the privacy of their information. Its use in some cases to [prosecute whistleblowers](https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html#.WTcCt%5Fryvft) who have leaked documents is well-documented.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Can You Disable This Tracking?
 
 ![A Star Delta-10 dot matrix printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/star_dot_matric_printer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Star](https://www.vintagecomputing.com/index.php/archives/973/retro-scan-of-the-week-star-dot-matrix-printer)
 
 A Star Delta-10 dot matrix printer.

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled
-date: 2024-09-01T08:24:11.819Z
-updated: 2024-09-02T08:24:11.819Z
+date: 2024-09-05T21:31:04.180Z
+updated: 2024-09-06T21:31:04.180Z
 tags:
   - android
 categories:
@@ -33,8 +33,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![flip 5-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/flip-5-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Samsung Galaxy Z Flip 5
 
 The Samsung Galaxy Z Flip 5 is a flip-fold style foldable with a big outside display and a small compact size.
@@ -117,6 +129,12 @@ Expand
 
 [$1000 at Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-flip5%2Fbuy%2Fgalaxy-z-flip5-512gb-unlocked-sm-f731ulgexaa%2F) [See at Amazon](http://www.amazon.com/dp/B0CCC2VTWS/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904689&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsamsung-galaxy-z-flip-5-review%2F&asc%5Fcampaign=Short-Term) [$1000 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-z-flip5-512gb-unlocked-mint%2F6548831.p%3FskuId%3D6548831%252F) [$1000 at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU904689/https://www.att.com/buy/phones/samsung-galaxy-z-flip5.html/) [$1000 at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU904689/https://www.verizon.com/smartphones/samsung-galaxy-z-flip5/) [$1000 at T-Mobile](https://www.t-mobile.com/cell-phone/samsung-galaxy-z-flip5?sku=610214678881/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Hardware & Design: Flippin' Great
 
 ![Samsung Galaxy Z Flip 5 laying face down on a table while unfolded](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-18.jpg) 
@@ -138,7 +156,10 @@ Joe Fedewa / How-To Geek
 ![Samsung Galaxy Z Flip 5 cover screen vs the Z Flip 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
@@ -151,7 +172,10 @@ Joe Fedewa / How-To Geek
 ![Samsung Galaxy Z Flip 5 standing upright with no hinge gap next to the Z Flip 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-15.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
@@ -159,9 +183,6 @@ Joe Fedewa / How-To Geek
 
  Overall, I really like the design of the Z Flip 5\. The two-tone front of the Z Flip 4 was cool, but the edge-to-edge black glass that illuminates to show the Cover Screen is a little more mature and elegant looking.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Display(s): Mostly the Same
 
 ![Samsung Galaxy Z Flip 5 partially folded open with the screen turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-26.jpg) 
@@ -174,9 +195,6 @@ Joe Fedewa / How-To Geek
 
 ![Foldable display crease on the Samsung Galaxy Z Flip 5 and Z Flip 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The display has a crease in the middle where it folds, which is inevitable for foldable phones. The crease is visible when the screen is off and when you look at it from certain angles, but it’s not very noticeable when using the phone normally. The new hinge design also makes the crease feel slightly less pronounced than in previous Z Flip models.
@@ -185,13 +203,16 @@ Joe Fedewa / How-To Geek
 
 ![Person holding the Samsung Galaxy Z Flip 5 with the screen open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The one thing that continues to be quirky about the display is the 22:9 aspect ratio. It’s a very tall and narrow display, which can be pretty awkward to use. You’ll definitely want to use [One-Handed Mode](https://youtube-docs.techidaily.com/24-unveiling-the-most-effective-honestly-approved-promotion-strategies/) and maybe try a launcher like [Niagara Launcher](https://win-answers.techidaily.com/fixing-the-unfixable-your-ultimate-compan-groach-on-keeping-state-of-decay-2-running-smoothly-tips-and-tricks/) to improve the experience.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Software: One UI Gonna One UI
 
 ![Flex Mode in the YouTube app on the Samsung Galaxy Z Flip 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-8.jpg) 
@@ -208,9 +229,6 @@ Joe Fedewa / How-To Geek
 
 ![Close up of the Samsung Galaxy Z Flip 5 hinge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  One thing that remains absent from the Z Flip series is [Samsung DeX](https://youtube-video-recordings.techidaily.com/earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much-in-2024/) support. For reasons unknown, Samsung has never included this in any Z Flip phone. The Z Fold and many other Galaxy devices can use the feature, but Z Flip owners are still left out in the cold, despite running on the same hardware under the hood.
@@ -218,12 +236,21 @@ Joe Fedewa / How-To Geek
  The biggest win for One UI is that Samsung promises three years of major Android updates and four years of security updates for the Galaxy Z Flip 5\. It will get Android 14, 15, and 16 in the future. I may not love the look of One UI, but it’s hard to complain with that level of software support.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Cameras: The Weak Spot
 
 ![Samsung Galaxy Z Flip 5 taking photos using the cover screen as the viewfinder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-22.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The Galaxy Z Flip 5 cameras are not very different from those of the Galaxy Z Flip 4\. They offer good performance in most situations but are not outstanding compared to other (and typically cheaper) flagship phones. That’s one of the most disappointing things about the Galaxy Z Flip 5.
@@ -239,13 +266,21 @@ Close
  The Galaxy Z Flip 5 cameras are not bad, but they’re not impressive either. They are adequate for casual and social media use, but they’re not comparable to the cameras of other flagship phones such as the [Samsung Galaxy S23](https://tiktok-videos.techidaily.com/updated-binge-worthy-battles-discovering-the-viral-tiktok-top-10-for-2024/), the [Google Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/), or the [iPhone 14](https://extra-resources.techidaily.com/complete-review-for-hero4-black/). That’s disappointing for a device costing $1,000, but the price clearly compensates more for the foldable display than the camera prowess.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Performance & Battery: Improved
 
 ![Samsung Galaxy Z Flip 5 with the camera app open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-20.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The Galaxy Z Flip 5 is powered by the [Qualcomm Snapdragon 8 Gen 2 processor](https://extra-approaches.techidaily.com/2024-approved-optimizing-your-vlc-livestream-over-the-net/), which is one of the most powerful and efficient chipsets available for Android phones in 2023\. The phone also has 8GB of RAM and 256 or 512GB of internal storage.
@@ -254,22 +289,22 @@ Joe Fedewa / How-To Geek
 
 ![Samsung Galaxy Z Flip 5 sitting halfway flipped open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The Galaxy Z Flip 5 has a dual-battery system that combines two separate batteries into one with a total capacity of 3,700mAh. This is the same size as last year’s Galaxy Z Flip 4’s battery, but still smaller than most other flagship phones’ batteries. I was pleasantly surprised by the battery life. My experience with the Z Flip 3 was not good in this department, so I’m happy to see a marked improvement two generations later.
 
  The phone supports fast charging with a 25W charger (which isn't included in the box). It can charge from zero to 50% in about half an hour, and from zero to 100% in about an hour and a half. The phone also supports 15W wireless charging and 4.5W reverse wireless charging that lets you charge other devices, such as earbuds or Galaxy smartwatches, by placing them on the back of the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Samsung Galaxy Z Flip 5?
 
 ![Samsung Galaxy Z Flip 5 laying on a table flipped closed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  It would be very easy to say the [Samsung Galaxy Z Flip 5](http://www.amazon.com/dp/B0CCC2VTWS/?tag=hotoge-20&ascsubtag=UUhtgUeUpU904689&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsamsung-galaxy-z-flip-5-review%2F&asc%5Fcampaign=Short-Term) is the [best flip phone yet](https://fox-blue.techidaily.com/step-beyond-reality-reviewing-lgs-virtual-vision-for-2024/), but Motorola is doing great stuff with the Razr series. The Z Flip 5 may not have had one of its best features—the massive Cover Screen—if Motorola didn’t push it. Still, Samsung is Samsung, and it’s hard to argue against years of refinement and superior software support.
@@ -286,6 +321,12 @@ Joe Fedewa / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Samsung Galaxy Z Flip 5
 
 The Samsung Galaxy Z Flip 5 is a flip-fold style foldable with a big outside display and a small compact size.

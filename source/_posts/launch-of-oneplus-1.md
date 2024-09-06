@@ -1,7 +1,7 @@
 ---
 title: Launch of OnePlus 1
-date: 2024-09-01T08:24:31.436Z
-updated: 2024-09-02T08:24:31.436Z
+date: 2024-09-05T21:31:04.461Z
+updated: 2024-09-06T21:31:04.461Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/The-back-of-the-OnePlus-10T-in-a-persons-hand-copy.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Launch of OnePlus 1
 
 OnePlus sells some of the most popular Android phones, but some of the company's recent devices have had issues. The OnePlus 10T was revealed today, and the main upgrade this time is super-fast charging.
@@ -21,6 +27,12 @@ Related: [Auto Draft](https://www.reviewgeek.com/119052/oneplus-10-pro-review-th
 
 ![OnePlus 10T from front, back, and side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Image.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _OnePlus_
 
  125W SuperVOOC fast charging is available for models sold in North America, with faster 150W charging speed in other regions. That's a significant step up from the OnePlus 10 Pro, which offered 65W in North America and 80W in other countries. OnePlus will also sell an 80W car charger for $39, which is advertised as powering the OnePlus 10T from 1-50% in 11 minutes.
@@ -29,6 +41,12 @@ _OnePlus_
 
 ![The front of the OnePlus 10T in a person's hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/The-front-of-the-OnePlus-10T-in-a-persons-hand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Justin Duino / How-To Geek_
 
  Another interesting design choice is the removal of the alert slider, which has been present on all flagship OnePlus phones in recent history and works much like the slider on iPhones. OnePlus says it removed the slider to make room for more battery and other components, and the company mentions it may return on future devices.
@@ -120,8 +138,3 @@ Related: [Android 13 Is Almost Here (But Probably Not for Your Phone)](https://s
 <li><a href="https://ai-topics.techidaily.com/updated-the-best-text-to-audio-converters-of-all-times/"><u>Updated The Best Text-to-Audio Converters of All Times</u></a></li>
 <li><a href="https://hardware-tips.techidaily.com/1723262290492-water-cooling-unleashes-power-the-ryzen-9-9950x-secures-5th-fastest-cpu-title-behind-xeon-and-threadripper-in-extreme-benchmarks/"><u>Water Cooling Unleashes Power: The Ryzen 9 9950X Secures 5Th Fastest CPU Title, Behind Xeon and Threadripper in Extreme Benchmarks!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->

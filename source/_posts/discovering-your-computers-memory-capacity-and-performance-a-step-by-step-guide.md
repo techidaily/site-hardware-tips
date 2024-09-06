@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide"
-date: 2024-08-28T06:08:15.142Z
-updated: 2024-08-29T06:08:15.142Z
+date: 2024-09-05T21:30:59.363Z
+updated: 2024-09-06T21:30:59.363Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ## Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is RAM?](https://win-howtos.techidaily.com/laptop-keyboard-not-responding-in-windows-heres-how-to-make-it-work-again-solved/)
@@ -18,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 * [How to Check How Much RAM You Have on Mac](https://extra-information.techidaily.com/dynamic-duo-image-taker-plus-melody-recorders/)
 * [What to Do When You Don't Have Enough RAM](https://instagram-videos.techidaily.com/new-mastering-the-art-of-filter-selection-on-instagram/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  To check how much RAM you have on Windows, press Ctrl+Shift+Esc, select the "Performance" tab, then go to "Memory." On Mac, click the Apple icon, then navigate to About This Mac > Overview > System Report > Memory to get detailed information about your RAM.
@@ -42,15 +60,18 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 ![The Memory dialog in the Windows Task Mangaer with the RAM size highlighted with a red arrow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-23_22h00_56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Information about your RAM is also available in the Settings app.
 
  Open the Start Menu, then search for "Settings" and open the app. Navigate to System > About. information about your RAM is listed under "Device Specifications."
 
 ![Windows 11 settings menu with the Installed RAM statistics highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-23_22h04_00.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To see more specific information about your [RAM timings](https://youtube-video-recordings.techidaily.com/in-2024-amplify-your-voice-on-youtube-mastery-through-tubebuddy/) on any version of Windows, we recommend [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html). Download and install CPU-Z, launch it, and click the "Memory" tab to see this information.
 
 ![CPU-Z menu dialog with the Memory tab and the RAM size elements highlighted with annotations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-23_21h53_14.png) 
@@ -60,7 +81,10 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
  This information is generally displayed in your system's [UEFI firmware or BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/), too. This is particularly helpful if you're using a PC without a working operating system. Just boot it up, use the keyboard shortcut to enter its BIOS or UEFI firmware (it's different on each PC), and look for [information about the system's memory or RAM](https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-n3-flip-frp-bypass-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Check How Much RAM You Have on Mac
 
@@ -71,21 +95,31 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Click the Apple icon in the top-left corner of your Mac's screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/click-the-apple-icon-in-the-top-left-corner.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Next, select the "About This Mac" option from the drop-down context menu.
 
 ![Select "About This Mac" from the drop-down context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/select-about-this-mac-from-thedrop-down-context-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You will now see an overview of your computer's specs, including how much memory is in your Mac. In this example, the MacBook has 16GB of RAM.
 
 ![The memory available on your Mac is displayed on the second line, below the processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Screenshot-2022-12-05-at-12.09.53-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you would like to see which type of RAM you have installed, first, click the "More Info" button.
 
 ![Click &quot;More Info&quot; to view more detailed information about your Mac's hardware.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Click-More-Info.png) 
@@ -99,13 +133,13 @@ The powerful video editing program for your Windows PC</a>
 ![Choose "Memory" from the left sidebar to view your Mac's RAM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/choose-memory-from-the-sidebar-to-view-your-macs-memory.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Newer [Macs](https://techno-recovery.techidaily.com/cat5-or-cat6-choosing-the-right-ethernet-cable-for-your-network-needs/) cannot have their RAM upgraded, but they tend to require significantly less RAM than Windows systems. If you're in the market for a Mac, make sure you buy one with enough RAM for your intended uses.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What to Do When You Don't Have Enough RAM
 
  If you've checked how much RAM you've got and found it doesn't meet the system requirements for the software you want to run, or if it's consistently maxing out and causing freeze-ups, then you'll want to upgrade your RAM.

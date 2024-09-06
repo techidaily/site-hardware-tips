@@ -1,7 +1,7 @@
 ---
 title: "Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions"
-date: 2024-08-28T06:06:59.642Z
-updated: 2024-08-29T06:06:59.642Z
+date: 2024-09-05T21:30:58.198Z
+updated: 2024-09-06T21:30:58.198Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3bb3ac96ddd883f3e1ef8520.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions
 
 ### Quick Links
@@ -20,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 * [USB Storage Is Much, Much Cheaper](https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [USB Drives Have Other Uses Aside From Storage](https://win11-tips.techidaily.com/navigate-with-style-adding-emoji-15-to-win11-setup/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Flash drives and external SSDs transfer files faster than ever.
@@ -30,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
  Here's the thing—modern flash drives and external SSDs are better than they have ever been. As recurring data leaks are keen to remind us, personal drives absolutely have their place.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  This Is the Fastest Way to Transfer Files
 
  If you're trying to move files between two devices that are sitting right next to each other, a flash drive or external SSD is typically the fastest way to do it. A $30 stick can move files at hundreds of megabytes per second. That means you barely have to wait unless you're transferring large videos or an entire library of MP3s. Even then, the transfer will be done in minutes, not the hours it can take to first upload files to the web. Even wireless LAN transfer speeds can leave you wanting by comparison.
@@ -37,14 +55,20 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
  Flash drives were (physically) never particularly large, but now they're even smaller. Plus, you can get a drive with both a USB-C and USB-A port, so that you're ready for whichever machine you encounter. Though you may be [best off with an external SSD](https://visual-screen-recording.techidaily.com/updated-2024-approved-compre-omprehensive-razer-video-cam-test/), considering how small they've become, too.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  You're Not Dependent on an Internet Connection
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Bertel King / How-To Geek
 
@@ -52,9 +76,6 @@ Bertel King / How-To Geek
 
  I grew up with [dial-up](https://extra-resources.techidaily.com/updated-5-premier-drone-engines-to-supercharge-your-qxp/), and my parents still live in a rural area that is only just now getting access to cable internet. Even so, I don't have enough signal to stream anything for half of the drive from my home to theirs. As fast and dependable as my internet may be at home (also in a rural area, mind you), I have never hit the point where I take the internet for granted. Files stored on an external drive are files I can access regardless of how poor the internet connection is. Files stuck in cloud storage feel nearby when the internet is fast, but you become aware of how far away those servers are when the connection slows down or even disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Your Data Is Less Likely to Leak
 
  When you store files online, you copy them from your machine to someone else's. Unless you're encrypting your files before they go off onto the web, you're essentially trusting that someone won't go snooping through your files.
@@ -68,7 +89,16 @@ Bertel King / How-To Geek
  It's worth mentioning that simply deleting files on a local drive does not destroy the data. If you want to ensure that your data is truly gone from a drive, you should use a reputable file shredding application to scrub the drive clean and ensure nothing can be recovered from it.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  There's No Censorship Over What Files You Can Store
 
@@ -76,16 +106,10 @@ Bertel King / How-To Geek
 
  Unless someone physically gets their hands on your external drive and plugs it into something, they have no idea what's on it. If they don't know what's on it, they can't tell you to delete it. You're the one who decides what gets to go onto your drive.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  USB Storage Is Much, Much Cheaper
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Storage costs have dropped rapidly over the years. You can now buy a 512GB USB stick for the price of treating a date to dinner. For a little bit more, you can [buy an external SSD](https://screen-capture.techidaily.com/new-optimize-logitech-footage-background-free-method/) with much faster transfer speeds. Most of us aren't actually carrying around terabytes of data and don't need to spring for a larger drive.

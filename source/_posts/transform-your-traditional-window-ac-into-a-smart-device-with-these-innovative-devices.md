@@ -1,7 +1,7 @@
 ---
 title: Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
-date: 2024-08-28T06:06:55.972Z
-updated: 2024-08-29T06:06:55.972Z
+date: 2024-09-05T21:30:58.147Z
+updated: 2024-09-06T21:30:58.147Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/window-ac-unit.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
 
 ### Quick Links
@@ -19,6 +25,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Window air conditioners have come a long way over the years, but many of us are still rocking trusty old models. They may not have Wi-Fi, remote access through apps, and built-in temperature sensors, but with just a couple of smart home devices, you can easily get all those bells and whistles on the cheap.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Handy Dandy Smart Plug
 
  The first thing you'll need is a smart plug, but not just any 'ol smart plug. Window AC units can require more power than some smart plugs are able to provide safely. I found this out when my Samsung smart plug kept turning off after the AC would run for just a few minutes.
@@ -29,6 +41,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Kasa Smart Outdoor Plug](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/613vwkny3zl-_ac_sl1500_.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Kasa Outdoor Smart Plug
 
 $14 $17 Save $3 
@@ -37,9 +55,6 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 
 [$14 at Amazon](https://amazon.com/dp/B099KLNM24?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  A Wi-Fi Temperature Sensor (or Thermostat)
 
  Now, if you stop at a smart plug, you'll be able to turn the AC on or off from an app. But we can do better than that. Depending on how far you've gone into building out your smart home, you may have the second piece of the puzzle already.
@@ -51,30 +66,35 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 * ![Govee WiFi Thermometer Hygrometer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/untitled.jpg)  
 #####  Govee WiFi Thermometer Hygrometer  
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Easily monitor temp and humidity data in real time from anywhere. This WiFi thermometer provides precise readings. Temperature is accurate to ±0.54℉/±0.3℃, and humidity is ±3%RH.  
 [See at Amazon](https://amazon.com/dp/B0C7QMSMLD?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 * ![ecobee smart thermostat enhanced](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ecobee-smart-thermostat-enhanced.png)  
 #####  Ecobee Smart Thermostat Enhanced  
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your home's temperature with just a tap or command from your Apple smartphone.  
 [$189 at Amazon](https://www.amazon.com/ecobee-Smart-Thermostat-Enhanced-works/dp/B09XXTQPXC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Set Up the Automation
 
@@ -84,9 +104,6 @@ The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your
 
 ![SmartThings devices tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240718-093812.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Next, we'll go to the "Routines" tab and tap the plus icon in the corner again. The "If" part of the routine will be the temperature setting, and the "Then" part is turning on or off the smart plug connected to the AC. Here's an example of a routine you could create.
 
 Close 

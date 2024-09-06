@@ -1,7 +1,7 @@
 ---
 title: "Modern Perspectives: The Case Against Upscaling Traditional Desktops Loses Ground"
-date: 2024-08-28T06:07:24.964Z
-updated: 2024-08-29T06:07:24.964Z
+date: 2024-09-05T21:30:58.601Z
+updated: 2024-09-06T21:30:58.601Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd3b1b129c677df4a5fe1e713.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Modern Perspectives: The Case Against Upscaling Traditional Desktops Loses Ground
 
 ### Key Takeaways
@@ -19,6 +25,12 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  One of the key benefits touted for desktop computers, as opposed to (for example) laptops, is that you can upgrade anything you want later down the line. Which makes more financial sense and offers you endless options. However, the upgrade argument for desktop computers may not be as strong as it once was.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Upgrade Death Spiral
 
  The idea that you can simply upgrade one component sounds great on paper, but in many cases it can result in what I call the "upgrade death spiral" where you effectively end up buying a whole new computer in pieces anyway.
@@ -30,15 +42,15 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
  Of course, upgrading like this has the benefit of spreading the cost of the total upgrade over time, with lopsided performance in the interim, but when this happens it's little different from just buying a whole new computer.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Only the Cheap Components Are Future-proof Anyway
 
 ![A 650W power supply mounted in a desktop PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a-power-supply-mounted-vertically.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  It's true that some parts of your computer can persist through multiple upgrade cycles, which may seem like a win. However, these components are things like the [chassis](https://some-knowledge.techidaily.com/foremost-gallery-storage-solutions-for-2024/), power supply, and perhaps your storage devices, assuming they aren't too slow to keep up with your other new components. These usually make up a pretty small percentage of the cost of a system, so overall you're not gaining that much compared to simply [selling your old system](https://win-dash.techidaily.com/fix-your-connection-woes-solutions-to-win-7-network-adapter-problems/) as a complete working machine and putting the funds towards a new one.
@@ -46,28 +58,34 @@ Hannah Stryker / How-To Geek
  Then again, sometimes you can get more for a computer by selling its parts individually rather than as a whole, but of course, that's a much larger time and effort investment. Even if you don't sell your old computer, having a completely working second computer is more useful than having a pile of parts.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Generational Performance Increases Are Too Small
 
 ![Iridescent silicon microchips in production](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/Iridescent_Silicon_Microchip_Computer_Wafer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Quardia/Shutterstock.com](https://www.shutterstock.com/image-illustration/iridescent-silicon-microchip-computer-wafer-7nm-1919750255)_
 
  The performance gains for components like CPUs and GPUs have become smaller and smaller as manufacturers started pushing against the [laws of physics](https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-huawei-by-drfone-android-unlock-remove-google-frp/). Unless you're one of the tiny percentage of computer enthusiasts who need the latest components no matter what, it doesn't make sense to upgrade every second, or even third generation of components. If you're waiting half a decade for something worth upgrading to appear, then chances are you're going to replace every part of your computer anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  Platforms Change Too Often
 
  While AMD has done a phenomenal job of keeping the same CPU sockets and making motherboard chipsets compatible over many generations, the simple fact is that Intel currently holds 80% of the desktop CPU market. When it comes to Intel's CPUs, you're lucky to get two generations of compatibility these days, so if you want a worthwhile upgrade on the CPU side, that upgrade death spiral is practically guaranteed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Illusion of Freedom
 

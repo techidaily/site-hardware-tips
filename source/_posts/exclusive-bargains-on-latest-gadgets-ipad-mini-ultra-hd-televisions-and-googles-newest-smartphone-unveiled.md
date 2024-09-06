@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Bargains on Latest Gadgets: IPad Mini, Ultra HD Televisions & Google's Newest Smartphone Unveiled"
-date: 2024-08-28T06:08:17.547Z
-updated: 2024-08-29T06:08:17.547Z
+date: 2024-09-05T21:30:59.403Z
+updated: 2024-09-06T21:30:59.403Z
 tags:
   - hardware
 categories:
@@ -9,10 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e6476270a9e9bd6f5a744eb780.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exclusive Bargains on Latest Gadgets: IPad Mini, Ultra HD Televisions & Google's Newest Smartphone Unveiled
 
 You don't have to wait for Labor Day deals to save big on some of the best tech available this summer. We're already seeing lucrative discounts on items like the Google Pixel 8 Pro, 4K TVs in time for football, iPads, smart home gear, and other back-to-school items.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [iPad Mini 6th-Gen with A15 for $380 ($120 Off)—Best Price!](https://www.amazon.com/dp/B09G91LXFP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41ysn-prul-_sl500_.jpg) 
@@ -27,6 +39,12 @@ The iPad Mini is more compact than a typical iPad or iPad Pro, but it can still 
 
  This week you can get the latest generation iPad Mini at one of the lowest prices we've seen yet. This popular little 8.3-inch tablet has a stunning Retina display and 64GB of storage and is currently [$120 off over on Amazon](https://www.amazon.com/dp/B09G91LXFP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Pioneer 65-inch 4K Smart TV for $329 ($170 Off)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpioneer-65-class-led-4k-uhd-smart-xumo-tv%2F6546907.p%3FskuId%3D6546907) 
 
 ![Screenshot 2024-08-13 at 9.49.25 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-13-at-9-49-25-am.jpg) 
@@ -41,16 +59,10 @@ The Pioneer 65-inch smart TV is an affordable yet capable alternative to big-nam
 
  These days, TVs are more affordable than ever, but a lot of them come from no-name brands. And while many of you may not know that Pioneer makes TVs, it does, and you can snag this 65-inch 4K TV for [only $329 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpioneer-65-class-led-4k-uhd-smart-xumo-tv%2F6546907.p%3FskuId%3D6546907). It'll be perfect for a spare bedroom or man cave in time for the NFL regular season.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Anker 100W 3-Port USB Type C Charging Brick for $40 ($35 Off)](https://www.amazon.com/dp/B09Q52CXX1?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-08-13 at 9.59.15 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-13-at-9-59-15-am.jpg) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 #####  Anker 100W GaN Wall Charger
 
 $50 $75 Save $25 
@@ -61,12 +73,27 @@ This capable charger can power just about any USB-C device at the highest suppor
 
  If you're looking for one wall charging brick that'll handle all your devices, Anker's 100W triple port charger covers you. With two high-powered USB-C ports and a regular USB-A option, it'll recharge phones, MacBook devices, and more. Grab yours at a [big discount from Amazon](https://www.amazon.com/dp/B09Q52CXX1?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Sony WH-1000XM4 Wireless Headphones for $198 ($150 Off)](https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![sony xm4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sony-xm4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Sony WH-1000XM4
 
@@ -82,9 +109,6 @@ Sony has the best noise-canceling capabilities, while managing to sound great wi
 
 ![pixel 8pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Google Pixel 8 Pro
 
 $914 $999 Save $85 
@@ -95,20 +119,21 @@ The Google Pixel 8 Pro includes the search giant's latest CPU, the Tensor G3, is
 
  Sure, Google just announced its fancy new Pixel 9 series that'll be available soon, but the Pixel 8 Pro is still an excellent smartphone with plenty to offer. If you don't need the latest and greatest, get the [Pixel 8 Pro for $200 off at Amazon](https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B0D94WJMTT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Tech Deals
 
 ![An iPhone in StandBy Mode on a MagSafe charging stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/twelve-south-hirise-3-magsafe-charging-stand-iphone-standby-mode.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Christian Zibreg / How-To Geek
 

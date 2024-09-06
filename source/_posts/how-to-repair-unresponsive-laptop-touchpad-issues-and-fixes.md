@@ -1,7 +1,7 @@
 ---
 title: "How to Repair: Unresponsive Laptop Touchpad Issues and Fixes"
-date: 2024-08-28T06:10:01.919Z
-updated: 2024-08-29T06:10:01.920Z
+date: 2024-09-05T21:31:00.947Z
+updated: 2024-09-06T21:31:00.947Z
 tags:
   - hardware
 categories:
@@ -31,6 +31,12 @@ Jerome Thomas / How-To Geek
 
  You should see a message on the screen telling you that the touchpad is enabled or disabled. If the message says enabled, check the touchpad to see if it is now working.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Touchpad Has Been Disabled in Settings
 
  Both Windows and macOS allow you to disable the touchpad in the settings. If anyone else uses the laptop, the touchpad could have been disabled in this way.
@@ -39,8 +45,26 @@ Jerome Thomas / How-To Geek
 
 ![The touchpad settings in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/touchpad-settings1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On a [MacBook](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-xiaomi-civi-3-phones-by-drfone-android/), click the Apple menu and go to System Preferences > Accessibility > Pointer Control > Mouse & Trackpad. There isn't a simple on/off switch for the trackpad here, but there is an option to "Disable the Trackpad If an External Mouse Is Connected." Check that this option is not selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Enabling Another Device Has Disabled the Touchpad
 
  As detailed above, your MacBook can be set to automatically disable the [trackpad](https://facebook-video-share.techidaily.com/new-tailor-made-melodies-assembling-your-own-youtube-playlist/) when an external mouse is connected. Windows has a similar setting to disable the laptop touchpad when a mouse is connected.
@@ -48,7 +72,16 @@ Jerome Thomas / How-To Geek
  In Windows, open Settings > Bluetooth & Devices > Touchpad. Click the Touchpad section to expand it, and then check the box next to "Leave Touchpad on When a Mouse Is Connected."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Switching to Tablet Mode Has Disabled the Touchpad
 
@@ -63,7 +96,16 @@ Jerome Thomas / How-To Geek
  Windows 10 doesn't have this automatic function. Instead, touchscreen laptops can be switched to tablet mode from the "Quick Settings" panel in the Action Center. Open the Action Center by clicking the icon (a chat bubble) in the taskbar, or by pressing Windows+A, and make sure tablet mode is turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Your Laptop Needs to Be Rebooted
 
@@ -71,9 +113,6 @@ Jerome Thomas / How-To Geek
 
  If this does fix the problem, it could still be a sign that there is some sort of software problem. Take a few minutes to check for and install any available system updates, as we explain below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Updating Device Drivers Has Caused a Conflict
 
  Regularly [updating drivers](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/) is, of course, recommended to keep your laptop working well. Unfortunately, because PC configurations are not standardized, it is almost impossible to avoid some driver conflicts.
@@ -85,10 +124,19 @@ Jerome Thomas / How-To Geek
 ![Driver rollback option in device manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/rollback-driver.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you are using macOS, you can't roll back driver updates as you can in Windows. But if you have a recent [Time Machine backup](https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/), you could [restore it](https://video-content-creator.techidaily.com/new-in-2024-here-is-the-solution-of-your-all-questions-some-of-the-reliable-and-durable-free-wmv-video-joiners-are-given-below/) back to before the driver was updated.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Touchpad Has Been Disabled in the BIOS
 
  A laptop's touchpad can be disabled in [the BIOS settings](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/). Very occasionally, [flashing or updating the BIOS](https://win11-tips.techidaily.com/running-state-of-the-art-ai-windows-edition/) can cause the touchpad setting to be changed. You can check by booting into the BIOS settings.
@@ -96,7 +144,16 @@ Jerome Thomas / How-To Geek
  Power on your laptop and tap the key used to [boot into BIOS](https://screen-recording.techidaily.com/2024-approved-capture-and-record-a-new-era-of-iphoneipad-recording/). The key you need to press varies between device manufacturers but is usually F2, F10, or F12\. In the "Advanced" BIOS settings, look for "Touchpad" or "Internal Pointing Device", and make sure it has not been disabled. Make sure to save any changes before you exit the BIOS settings.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Your Touchpad or Hands Are Dirty
 
@@ -107,7 +164,10 @@ Jerome Thomas / How-To Geek
 ![Woman's hand cleaning laptop and smartphone by wet wipes tissue and alcohol disinfectant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1753836647.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Jo Panuwat D / Shutterstock](https://www.shutterstock.com/image-photo/woman-cleaning-laptop-smartphone-by-wet-1753836647)
 
@@ -119,9 +179,6 @@ Jerome Thomas / How-To Geek
 
  On a [MacBook](https://phone-solutions.techidaily.com/device-unlock-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/), click the Apple menu > System Preferences > Software Update. Look for all available updates and click the "Update Now" button to install them.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  If All Else Fails, Use a Mouse
 
  If all of the steps above fail to fix the problem with the touchpad, it could be a hardware problem. Consult your laptop's manufacturer to see if it's still under warranty. It may also be possible to repair or [replace your touchpad yourself](https://network-issues.techidaily.com/fixing-the-upside-down-screen-issue/), though you should be warned we [don't recommend DIY tech repairs in every case](https://facebook-record-videos.techidaily.com/updated-the-art-of-ad-driven-earnings-ajays-youtube-strategy/).

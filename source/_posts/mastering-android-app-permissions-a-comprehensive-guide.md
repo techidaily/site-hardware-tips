@@ -1,7 +1,7 @@
 ---
 title: "Mastering Android App Permissions: A Comprehensive Guide"
-date: 2024-09-01T08:23:40.187Z
-updated: 2024-09-02T08:23:40.187Z
+date: 2024-09-05T21:31:03.710Z
+updated: 2024-09-06T21:31:03.710Z
 tags:
   - android
 categories:
@@ -21,6 +21,18 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
  You don't need to [root](https://facebook-videos.techidaily.com/updated-2024-approved-essential-steps-for-embedding-facebook-streams-online/), [install a custom ROM](https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/), or switch to an iPhone to do this anymore. In fact, Android finally has the app permission system it should have had all along, [similar to the iPhone's system](https://extra-resources.techidaily.com/graphic-animation-basic-knowledge-and-practices/) (though still [room for improvement](https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/)).
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Android's Permission System Works
 
  Android apps will ask for permission when they need it. For example, instead of giving an app access to your camera when you install it, you'll be prompted the first time the app wants to access your camera. In addition, you can decide when it gets that permission.
@@ -39,17 +51,32 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
 ![Open the "Apps" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-24-54.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see a list of all the apps installed on your Android device (you may need to expand the list to see them all). Tap one of the apps in the list to view more information.
 
 ![Select an app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-25-32.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Open the "Permissions" section on the App Info page.
 
 ![Tap "Permissions."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-26-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see all of the available permissions the app can use. The permissions you've "Allowed" are at the top, while the "Not Allowed" permissions are underneath. Simply tap a permission to adjust it.
 
  When revoking permissions from older applications, you'll see a warning message saying, "This app was designed for an older version of Android. Denying permission may cause it to no longer function as intended."
@@ -57,24 +84,24 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 ![Select a permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-27-33.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Some permissions only have binary "Allow" or "Don't Allow" options, but other permissions—such as [Location](https://instagram-video-recordings.techidaily.com/new-stepwise-insta-story-image-integration-techniques-for-maximum-impact-for-2024/) and Camera—have more options.
 
 ![Permission options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-29-25.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  At the very bottom of the permissions list is an "Unused Apps" section. This is where you can toggle on a switch to "Remove Permissions and Free Up Space." If you don't use the app for a while, the permissions will be revoked.
 
 ![Unused apps option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-31-16.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to View and Manage All App Permissions
 
@@ -82,17 +109,26 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
 ![Go to the Privacy section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-34-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  You'll see a list of different categories of permissions along with the number of apps installed that have access to that permission. Categories include Body Sensors, Calendar, Call Logs, Camera, Contacts, Files and Media, Location, Microphone, and more.
 
 ![Permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-41-30.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select one of the permissions to see which apps have access to it. If you want to revoke an app's access to that permission, select the app and turn it off.
 
 ![Revoke an app's permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-46-37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As with managing an individual app's permissions above, you'll see a warning message if that app was designed for a previous version of Android. Most apps should continue working fine, anyway—unless you revoke a permission that's central to any functionality.
 
 ---

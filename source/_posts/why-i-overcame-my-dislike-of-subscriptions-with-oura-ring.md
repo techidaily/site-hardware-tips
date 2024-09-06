@@ -1,7 +1,7 @@
 ---
 title: Why I Overcame My Dislike of Subscriptions with Oura Ring
-date: 2024-09-01T08:22:15.477Z
-updated: 2024-09-02T08:22:15.477Z
+date: 2024-09-05T21:31:02.415Z
+updated: 2024-09-06T21:31:02.415Z
 tags:
   - hardware
 categories:
@@ -29,26 +29,44 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  My personal preference is to avoid subscriptions as much as possible. I'd far rather buy an app outright for a fair sum than pay even a very small subscription forever more. But if there's any field where a subscription might be justified, it's health tech.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Value of Health Tech Cannot Be Overstated
 
  I'd argue that health tech has been one of the most significant developments in the past decade or so. There have been numerous examples of health and fitness trackers saving lives, be that from [detecting a fall](https://remote-screen-capture.techidaily.com/new-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools/) or identifying [signs of serious heart conditions](https://instagram-video-files.techidaily.com/the-ultimate-blueprint-for-effective-use-of-audio-emojis-for-2024/).
 
 ![A set of Oura Rings, in different finishes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Oura
 
  But I think there's even more value in the accumulated impact of millions of people being able to track their own health and fitness, all the while being nudged to make small but worthwhile lifestyle changes. Wearing a device that prompts us to consider taking the stairs over the elevator, walking just a little further to hit an activity goal, or simply standing up and moving around once an hour, probably adds more to the average life expectancy than all of the headline stories of health alerts directing people to the ER.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Smart Rings Have Three Benefits Over a Smart Watch
 
  For the best part of a decade, I wore an Apple Watch. There's no doubt that a high-end smartwatch combines a lot of functionality into a single device. I used it as a contactless payment card, used wrist taps for navigation when using Apple Maps, answered my phone when it was in another room, and used it for occasional Siri requests. But smart rings have their own benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  You Can Wear Any Watch (or No Watch)
 
  This was the original selling point for me. After a decade of looking at almost the same device, I was bored with it. Yes, you can mix it up with different faces and complications, but I'm very minimalist in my design preferences, so I always quickly returned to using the same simple face in plain white and with a single complication.
@@ -56,15 +74,15 @@ Oura
  Being able to rotate three different dumb watches has proven a very pleasant change.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Charge Weekly, Not Daily
 
  Using an Apple Watch as a sleep tracker either requires a second watch, so you can wear one overnight while the other is charging, or a _very_ disciplined charging regime (take it off when you wake up, put it on charge while you shower and breakfast, put it back on). My Oura Ring, in contrast, needs charging for a couple of hours every six or seven days.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ###  Potentially Greater Accuracy
 
  So far as I can tell, high-end smartwatches and smart rings use the same sensors, yet there's data to suggest that the latter tend to be more accurate. The prevailing theory is that watch straps tend not to be fully tightened, as a tight strap is uncomfortable, so a ring gets much closer and more reliable contact.
@@ -76,7 +94,10 @@ Oura
  That's certainly been my own experience, especially when it comes to sleep tracking. My Apple Watch would often show me asleep when I was wide awake, sometimes even when using my iPhone (which seems something of an ecosystem fail), while my Oura Ring has been spot-on.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why the Subscription Is Worth It to Me
 
@@ -86,6 +107,18 @@ Oura
 
  But the extremely thoughtful design of the app means that hasn't been the case at all; quite the reverse. The app offers four types of information.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Headline Metrics
 
  The app starts with four numbers:
@@ -110,7 +143,10 @@ Oura
 ![Sleep cycles shown in the app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sleep.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 (Screengrab)
 
@@ -130,6 +166,18 @@ Oura
 * Average oxygen saturation
 * Variations in blood oxygen
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Personalized Recommendations
 
  When the app notices a pattern, it alerts you. For example, in my case it noticed that I got the best night's sleep when I went to bed between 10.30 pm and 11.30 pm, so it proactively recommended this time frame to me. It also started alerting me around an hour before that it was time to start winding down and provided tips on how to achieve this (reduce screen time, reduce exercise, avoid caffeine).
@@ -139,7 +187,10 @@ Oura
  I also like the gentle but effective way it nudges me. For example, while writing this piece, I was informed that I'm close to my activity target for the day, and that a 22-minute walk would do it. Guess what I'm going to be doing as soon as I finish writing?
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Generalized Recommendations
 

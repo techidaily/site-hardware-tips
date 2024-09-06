@@ -1,7 +1,7 @@
 ---
 title: Save Big by Skipping High-End GPUs - Smart Investing with Budget Graphics Options
-date: 2024-08-28T06:10:30.602Z
-updated: 2024-08-29T06:10:30.602Z
+date: 2024-09-05T21:31:01.183Z
+updated: 2024-09-06T21:31:01.183Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-gpu-with-a-few-dollar-bills-underneath.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Save Big by Skipping High-End GPUs - Smart Investing with Budget Graphics Options
 
 ### Quick Links
@@ -17,6 +23,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Custom Graphics Cards Have Few Perks](https://extra-lessons.techidaily.com/leading-slow-mo-camera-apps-for-iphoneandroid-users/)
 * [Just Buy the Cheapest GPU Design on the Market](https://extra-resources.techidaily.com/xsplit-compendium-download-and-review-archive/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Reference design graphics cards offer performance equal to custom models and might be cheaper at launch.
@@ -36,7 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Founders Edition RTX 2080 graphics card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/geforce-rtx-2080-technical-photography-angled-003.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 NVIDIA
 
@@ -47,7 +62,10 @@ NVIDIA
  So, if you find a reference design graphics card at a discount price, don't shy away from it. You'll get the performance promised by the manufacturer and save a good chunk of money.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Custom Graphics Cards Have Few Perks
 
@@ -59,9 +77,6 @@ NVIDIA
 
 ![The AMD RX 6600 XT Phantom Gaming D graphics card inside of a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/rsz_img20240413025619.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek
 
  Before that, I owned a Sapphire RX 580 Special Edition, which allegedly had a "[cherry-picked GPU](https://www.sapphiretech.com/en/consumer/nitro-rx-580-8g-g5-se)," but when I tried overclocking the card, it couldn't go much above the factory overclock.
@@ -69,7 +84,16 @@ Ismar Hrnjicevic / How-To Geek
  Aside from aesthetics, one other reason you might have to go with a custom design is size. If you're building a small [Mini-ITX gaming PC](https://fox-friendly.techidaily.com/updated-stitch-together-photographs-the-montage-masterclass/), you're better off with a smaller graphics card. Some board partners release low-profile and shorter versions, such as the [GIGABYTE GeForce RTX 4060 OC Low Profile](https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N4060OC-8GL/dp/B0CDJLSZ73?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002690&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fstop-wasting-money-on-fancy-gpu-designs-just-buy-the-cheapest-one%2F&asc%5Fcampaign=Evergreen) card, one of the most powerful graphics cards considering its size.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Just Buy the Cheapest GPU Design on the Market
 
@@ -80,13 +104,13 @@ Ismar Hrnjicevic / How-To Geek
 ![MSI GeForce RTX 4070 TI Ventus 12G OC GPU in a gaming PC at CES 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52606768067_aff13d7ea2_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Avoid Unrecognizable Brands
 
  The only graphics card brands you want to avoid at all times are those that aren't board partners. I'm talking about the suspicious $200 "Xyzuzu" RTX 4090 from AliExpress that popped up on your screen while scrolling through Instagram Reels. [NVIDIA lists](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4090-custom-card-roundup/) ASUS, Colorful, Gainward, GALAX, GIGABYTE, INNO3D, KFA2, MSI, Palit, PNY, and ZOTAC as some of their main board partners. [AMD lists](https://www.amd.com/en/support/kb/faq/gpu-91) many of these as well, but also has Sapphire, XFX, Powercolor, Biostar, ASRock, and Acer.

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Lume Cube Edge 2.0: Transforming Workspaces with Unrivaled Brightness"
-date: 2024-08-28T06:10:10.212Z
-updated: 2024-08-29T06:10:10.212Z
+date: 2024-09-05T21:31:00.984Z
+updated: 2024-09-06T21:31:00.984Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521ba3150e32071e917b571fac9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## In-Depth Analysis of Lume Cube Edge 2.0: Transforming Workspaces with Unrivaled Brightness
 
 ### Key Takeaways
@@ -41,6 +47,12 @@ The Lume Cube Edge Light 2.0 is more than just a desk light, it's a light for ev
 
 [$159.99 at Lume Cube](https://lumecube.com/products/edge-light-desk-lamp-with-base) [$140 at Amazon](https://www.amazon.com/LUME-CUBE-Adjustable-Temperature-Brightness/dp/B0CN7BK69P?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003040&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flume-cube-edge-light-20-review%2F&asc%5Fcampaign=Authority) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Lume Cube Edge Light 2.0 is available to purchase directly from Lume Cube, at Amazon, and from B&H Photo for $139.99 in black or white. There's an optional base available for an extra $20.
@@ -81,16 +93,10 @@ The Lume Cube Edge Light 2.0 is more than just a desk light, it's a light for ev
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  The Lume Cube Edge Light 2.0 Doubles as a Desk and Camera Light
 
 ![Lumecube Edgelight 2.0 fully setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/lumecube-edgelight-20-fully-setupjpg_53531037749_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  At my main desk, I have the [Elgato Ring Light](https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-google-pixel-8-by-drfone-android/), which I love when doing video interviews, recording content, and more. But, it’s really _just_ a video light, and not much more. The Lume Cube I was expecting to be the exact opposite: desk light and not for videos. But, it surprised me. The Edge Light 2.0 is such a soft light that it doesn’t hurt to be in front of your eyes, similar to a quality ring light. It provides _very_ soft light, so there are no harsh shadows at all when you’re on camera.
@@ -99,13 +105,16 @@ Jerome Thomas / How-To Geek
 
  The light that shines down on my workspace is perfect for when I’m crafting or assembling projects. When not writing here, I run a small business where I make custom t-shirts and assemble laser-cut components, The Edge Light 2.0 is perfect for that, as it gives me a nice, balanced, shadow-free light on the desk exactly where I need it.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Adjustable Brightness and Color Temperatures Are Nice but Could Use Some Work
 
 ![Close up of the power button and lighting controls on the Lume Cube Edge Light 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/close-up-of-the-power-button-and-lighting-controls-on-the-lume-cube-edge-light-2jpg_53531150915_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  One of the highlight features of this desk light is the ability to change the brightness and color temperature at the touch of a button. The feature works well. Simply tap (or hold) the separate up or down buttons for both brightness and color temperature and the light changes accordingly.
@@ -115,7 +124,10 @@ Jerome Thomas / How-To Geek
 ![The head of the Lumecube Edgelight 2.0 tilts and swivels](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-head-of-the-lumecube-edgelight-20-tilts-and-swivelsjpg_53529825287_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -127,22 +139,27 @@ Jerome Thomas / How-To Geek
 
 ![The Lumecube Edgelight 2.0 comes an additional USB-C and USB-A port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-lumecube-edgelight-20-comes-an-additional-usb-c-and-usb-a-portjpg_53530911718_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the back of the Lume Cube Edge Light 2.0, you’ll find both a USB-A and USB-C port. This makes the light not only great for illuminating either you or your desk, but also for powering your gear. Both ports aren’t the fastest in the bunch, clocking in at around 10W or so, but that’s plenty to keep your phone or watch charged while working.
 
  Both the USB-A and USB-C ports are powered through the light’s standard power supply, meaning that your light and both charging ports are using up just a single wall outlet. This is convenient, low-profile, and multi-functional, everything I’m looking for in a minimal office.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lume Cube Edge Light 2.0?
 
 ![The Edgelight 2.0 is fully adjustable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-edgelight-20-is-fully-adjustablejpg_53531037379_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -152,6 +169,12 @@ Jerome Thomas / How-To Geek
 
 ![Lume-Cube-Edge-Light-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lume-cube-edge-light-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lume Cube Edge Light 2.0
 
 8/ 10 

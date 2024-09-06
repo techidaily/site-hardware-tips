@@ -1,7 +1,7 @@
 ---
 title: "Beyond Promises and Projections: How True Testing Surpasses Branded Estimates in Product Effectiveness"
-date: 2024-08-28T06:08:00.330Z
-updated: 2024-08-29T06:08:00.330Z
+date: 2024-09-05T21:30:59.152Z
+updated: 2024-09-06T21:30:59.152Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/f5d018e237ca35df7bb16fca986876f6ddcdb7436
 
  If you’re shopping for a new piece of computer hardware, be it a GPU, CPU, monitor, wireless router, or case fan, you should avoid manufacturer claims and instead read and watch professional benchmarks and reviews, user reviews, and ask your tech-savvy friends for advice. Here’s why.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Manufacturer Benchmarks Are Often Rife With Cherry-Picked Results
 
  If you’ve ever seen manufacturer benchmarks, you’ve noticed that they always include a selected number of game titles or app benchmarks and that the games and apps change depending on the manufacturer. In other words, there isn’t a standardized benchmark suite that hardware manufacturers use to test their new products.
@@ -29,6 +35,12 @@ thumbnail: https://thmb.techidaily.com/f5d018e237ca35df7bb16fca986876f6ddcdb7436
 
 ![Ryzen 5800X3D gaming performance results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-04.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _AMD_
 
  Let’s take AMD and Intel CPUs as an example. The AMD Ryzen 5800X3D came out on April 20th, 2022, and the AMD Ryzen 7600X on September 27th of the same year. That’s a five-month gap between the two CPUs, but they were listing completely different games in their gaming performance slides. The 5800X3D is shown above this paragraph, with the 7600X performance slides shown below.
@@ -41,6 +53,12 @@ _AMD_
 
 ![Core i9-14900K gaming performance slides.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-01.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Intel_
 
  The release date gap between the two CPUs was about five months. This time, the two products only share one game, _Starfield_.
@@ -56,7 +74,10 @@ _Intel_
  This is why you shouldn’t read or watch just one source of reviews. Instead, you should gather information from various reviewers to get the best overall picture of how the product you want to purchase actually performs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  In Some First-Party Benchmarks, Old Hardware Is Unfairly Handicapped
 
@@ -68,15 +89,15 @@ _Intel_
 
 ![NVIDIA RTX 4000 vs older NVIDIA GPUs gaming benchmarks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 _NVIDIA_
 
  If you jump to TechPowerUp’s [RTX 3060 specs page](https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-12-gb.c3682), you can see that the RTX 4060 is only 18% faster than the RTX 3060\. The incongruity in the measured gaming performance between the two sources stems from the fact that TechPowerUp tests GPUs with a standardized test suite, using the same exact settings for every GPU, and not using features older GPUs do not support, such as DLSS or DLSS frame generation. This also isn’t perfect because, in all honesty, the RTX 4060 is faster than 18% on average than the RTX 3060 when you turn on ray tracing, but TechPowerUp's way of testing GPUs is much more fair to the RTX 3060 compared to what NVIDIA did.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Some Manufacturer Claims Have Little to Do with Reality
 
@@ -89,7 +110,10 @@ _NVIDIA_
  Let’s take the RT-AX88U Pro, one of the [best Wi-Fi routers](https://facebook-video-share.techidaily.com/updated-discovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/) on the market, as an example. If you visit [the router’s web page](https://www.asus.com/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax88u-pro/techspec/), you can see that the maximum bandwidth over the 5GHz band is listed as “up to 4804 Mbps.” However, [a real-world review](https://dongknows.com/asus-rt-ax88u-pro-review/#asus-gt-ax88u-pro-excellent-performance) by Dong Knows Tech has measured only 1510Mbps, with a few other routers surpassing the RT-AX88U Pro. Don’t get me wrong; this is an impressive result, but it is far from ASUS’s claims.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Some Blame Is Reserved for Standardization Bodies and Their Lenient Guidelines
 

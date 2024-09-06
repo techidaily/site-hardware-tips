@@ -1,7 +1,7 @@
 ---
 title: New Software Glitch Impacting Recent Roku Television Models
-date: 2024-08-28T06:10:26.612Z
-updated: 2024-08-29T06:10:26.612Z
+date: 2024-09-05T21:31:01.138Z
+updated: 2024-09-06T21:31:01.138Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/roku-plus-series-tv.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## New Software Glitch Impacting Recent Roku Television Models
 
 Motion smoothing is a controversal feature on TVs, as it generally makes shows and movies look worse and change how they were intended to be watched. It's usually a setting you can turn on or off, but some Roku TV owners are reporting that the feature was turned back on for them automatically, and Roku is still trying to figure out why.
@@ -96,7 +102,3 @@ Motion smoothing is a controversal feature on TVs, as it generally makes shows a
 <li><a href="https://hardware-tips.techidaily.com/1723862833460-unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-mp4-video-editor-for-windows-8-users-2023-update-for-2024/"><u>Updated The Ultimate MP4 Video Editor for Windows 8 Users (2023 Update) for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

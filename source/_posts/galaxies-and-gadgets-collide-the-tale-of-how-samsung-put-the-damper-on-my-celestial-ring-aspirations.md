@@ -1,7 +1,7 @@
 ---
 title: "Galaxies and Gadgets Collide: The Tale of How Samsung Put the Damper on My Celestial Ring Aspirations"
-date: 2024-08-28T06:09:14.216Z
-updated: 2024-08-29T06:09:14.216Z
+date: 2024-09-05T21:31:00.312Z
+updated: 2024-09-06T21:31:00.312Z
 tags:
   - hardware
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb738e8c283227d7e47f57830.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Galaxies and Gadgets Collide: The Tale of How Samsung Put the Damper on My Celestial Ring Aspirations
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Samsung Galaxy Ring is a wearable with a one-time fee, unlike closest rival Oura which requires a subscription.
@@ -19,12 +31,36 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
  As a smart ring wearer, I was excited to see Samsung finally enter the market with a new wearable of its own. But my excitement quickly turned to disappointment when I noticed the large asterisk Samsung had placed on its latest Galaxy device.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Introducing the Samsung Galaxy Ring
 
  Samsung’s long-awaited smart ring, the Galaxy Ring, [finally launched in mid-2024](https://video-capture.techidaily.com/essential-knowledge-how-io-screen-recorder-works/) to take on the market leader, the Oura Ring which is [now on its third-generation](https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-f5-5g-by-fonelab-android-recover-video/).
 
 ![A closeup of a hand wearing the Samsung Galaxy Smart Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53845587922_fea0fbb305_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The new kid on the block has a fair bit going for it. Samsung is a far better-known brand than Oura, and so the company's smart ring received a lot of press attention for this reason. For many people, the first time they become aware of a tech category is when one of the big names gets into the game.
@@ -33,9 +69,6 @@ Justin Duino / How-To Geek
 
  Samsung has also borrowed from Oura the idea of distilling a lot of complex data into simple metrics, offering you daily sleep and energy scores. Additionally, the Galaxy Ring has FDA clearance to alert you about sleep apnea and irregular heart rhythms which could point to a potentially dangerous heart condition known as atrial fibrillation, or Afib.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  No Subscription Needed
 
  The big news, however, is what Oura _hasn’t_ copied from Oura—namely, the need for a subscription to gain full access to the data.
@@ -45,8 +78,10 @@ Justin Duino / How-To Geek
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How To Geek
 
@@ -54,26 +89,16 @@ Tyler Hayes / How To Geek
 
  But there’s a problem...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Galaxy Ring Requires a Galaxy Phone
 
  Samsung has chosen to make the Ring exclusive to Galaxy smartphone owners. To be clear, that’s not a technical issue. The Samsung Health app runs on any smartphone, including iPhone, and the Ring sends its data to the app via a perfectly standard Bluetooth connection. There's no reason the Ring couldn't work with any smartphone that satisfies these requirements.
 
 ![Samsung Galaxy Ring app running on a Galaxy Z Flip 6.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-ring-app-running-on-a-galaxy-z-flip-6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  No, this is a purely commercial decision. Samsung is hoping the Ring will be sufficiently appealing that making it exclusive to its Galaxy phones will persuade people to buy one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  That’s a Gamble With Android
 
  For other Android phone owners, that’s a gamble. Some may not care about the brand of their phone, or be wedded to any particular features or design elements it may offer. That’s a slice of the market which may be happy to switch to Samsung the next time they upgrade. Perhaps some will even be keen enough on the Ring to upgrade ahead of schedule and buy a Galaxy phone now.
@@ -94,15 +119,18 @@ Justin Duino / How-To Geek
 
 ![Apple Watch Series 8 in a person's hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple_watch_s8_hand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  So in making this decision, Samsung is robbing itself of a huge slice of the market. It's more than 70% of the US market, more than 50% in each of Canada and the UK, and more than a quarter of the market in EU countries.
 
  It’s not just the size of the market, either. iPhone owners, on average, have higher disposable incomes, and a known propensity for buying sleek technology. Like, oh, I don’t know, a smart ring.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Samsung Won't Take Your Money
 
  I like my Oura Ring and I think the subscription fee is justified by the combination of the data it provides and the thoughtful ways the app presents that data. But if Samsung could have offered something similar without the annual cost, it could have won my business.

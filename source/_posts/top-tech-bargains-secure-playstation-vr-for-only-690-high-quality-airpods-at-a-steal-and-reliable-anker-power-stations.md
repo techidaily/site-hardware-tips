@@ -1,7 +1,7 @@
 ---
 title: "Top Tech Bargains: Secure PlayStation VR² for Only $690, High-Quality AirPods at a Steal, and Reliable Anker Power Stations!"
-date: 2024-08-28T06:10:44.637Z
-updated: 2024-08-29T06:10:44.637Z
+date: 2024-09-05T21:31:01.422Z
+updated: 2024-09-06T21:31:01.422Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,12 @@ With summer winding down and kids going back to school, now is the perfect time 
 
 ![Anker Solix C1000 Portable Power Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/anker-solixc1000.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Anker SOLIX C1000 Portable Power Station
 
 8/ 10 
@@ -29,10 +35,28 @@ The new Anker SOLIX C1000 is a compact yet powerful 1800W portable power station
 
  I think everyone should have a [portable power station](https://some-approaches.techidaily.com/updated-the-pros-guide-to-conquering-photovideo-importers-in-win11/), and right now, you can get one of Anker's best options at a huge discount. The [Anker SOLIX C1000](https://youtube-lab.techidaily.com/024-approved-crafting-animation-dynamic-bouncy-text-techniques/) delivers 1800W of power, tons of ports, built-in lighting, app controls, and more. Check it out on [Amazon for only $549](https://www.amazon.com/Anker-Portable-Generator-UltraFast-Optional/dp/B0C5C89QKZ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [PlayStation VR2 Headset for $350 ($200 Off)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-vr2-multi%2F6542114.p%3FskuId%3D6542114) 
 
 ![PSVR2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/psvr2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  PlayStation VR2
 
 The powerful PS5 now has a VR headset that does justice to the high-resolution graphics of its best virtual reality games. The PS VR2 is a worthy upgrade to the tried and true PS VR for the latest console generation.
@@ -42,15 +66,15 @@ The powerful PS5 now has a VR headset that does justice to the high-resolution g
  Virtual reality headsets can be expensive, but if you're looking for a lower cost of entry, consider the popular PS VR2\. Not only is Sony getting ready to [open PC support](https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/), but it's still an all-around excellent VR experience for gamers. Give it a try today [while it's $200 off](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-vr2-multi%2F6542114.p%3FskuId%3D6542114).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [TP-Link Deco X55 AX3000 Wi-Fi 6 Mesh System for $170 ($110 Off)](https://www.amazon.com/dp/B09PRB1MZM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term) 
 
 ![Three pack of TP-Link Deco mesh routers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-29-at-10-54-05-am.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 #####  TP-Link Deco X55
 
 $170 $280 Save $110 
@@ -63,16 +87,10 @@ Upgrade your home internet experience (up to 6,500 sqft) with TP-Link's blazing-
 
  This mesh system goes on sale often, but this is one of the lowest prices we've seen. This week it's [down to only $170](https://www.amazon.com/dp/B09PRB1MZM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term). If you want to upgrade your home with the latest Wi-Fi technology, this set covers 6,500 square feet at a price too good to pass up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## [Hisense 65-inch (U6HF) ULED Smart TV for $450 ($300 Off)](https://www.amazon.com/Hisense-65-Inch-Class-Smart-65U6HF/dp/B0CHJ87V95?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6505544_sd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Hisense 65-Inch Class U6H Series Quantum Smart TV
 
 $548 $750 Save $202 
@@ -84,15 +102,15 @@ Enjoy high-quality audio and video powered by Google or Fire TV with this budget
  These days, you can get a quality TV without breaking the bank, and that's more true than ever with the Hisense U6HF 65-inch TV. This is the latest 2024 model, delivering a stunning QLED experience with Fire TV built-in, full-array local dimming, and more. [Get it right now at a $300 discount](https://www.amazon.com/Hisense-65-Inch-Class-Smart-65U6HF/dp/B0CHJ87V95?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [Apple AirPods 2nd Gen Wireless Earbuds for $69.99 ($60 Off)](https://www.amazon.com/dp/B07PXGQC1Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31bo1l1yl7l-_sl500_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 #####  Apple AirPods (2nd Gen) With Lightning Charging Case
 
 $89 $129 Save $40 
@@ -107,6 +125,12 @@ Sleek and comfy, Apple's in-ear iPhone 14 AirPods can serenade you with high-qua
 
 ![Some tech products with several 'x' icons around them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/some-tech-products-with-several-x-icons-around-them.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek
 
  Most of this week's deals are for parents doing back-to-school shopping. While we have a few more of those types of deals below, you can also snag a discounted AMD CPU and build a new PC, a fun KODAK instant camera, or other goodies from this week's top deals.
