@@ -1,7 +1,7 @@
 ---
 title: The Futuristic Privacy-Protecting Cameras That Convert Humans to Stick Figures
-date: 2024-09-05T21:31:02.176Z
-updated: 2024-09-06T21:31:02.176Z
+date: 2024-09-10T11:13:28.481Z
+updated: 2024-09-11T11:13:28.481Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/privacylens.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## The Futuristic Privacy-Protecting Cameras That Convert Humans to Stick Figures
 
 Engineers from the University of Michigan have developed a new camera that replaces people with a stick figure avatar. It could prevent you from going viral after suffering an embarrassing fail on film, among other use cases.
@@ -23,12 +31,26 @@ Engineers from the University of Michigan have developed a new camera that repla
 
 ![the stickman effect from PrivacyLens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stickman-edit.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [University of Michigan](https://news.umich.edu/youre-just-a-stick-figure-to-this-camera/)
 
  The internet is overflowing with fail videos depicting people screwing up, falling down, stepping on rakes and generally having days go sideways on them. Those clips are most often uploaded intentionally to share on social media. The shots of you on the toilet, inadvertently [taken by your passing Roomba](https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/) and then leaked online, or the video of you falling down a subway escalator and [the footage being uploaded](https://privacysos.org/blog/today-in-wtf-mbta-gives-embarrassing-video-of-womans-fall-to-the-press/) by a Massachusetts Bay Transportation Authority employee, most likely were not. Yet as cameras become more ubiquitous in both our public and private spaces, such mishaps are going to happen with increasing regularity.

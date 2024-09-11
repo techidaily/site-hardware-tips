@@ -1,7 +1,7 @@
 ---
 title: Discover Enhanced Artificial Intelligence Capabilities on Your New Samsung Galaxy S22
-date: 2024-09-05T21:31:01.659Z
-updated: 2024-09-06T21:31:01.659Z
+date: 2024-09-10T11:13:27.985Z
+updated: 2024-09-11T11:13:27.985Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52552812831_dd873bdae9_o.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Discover Enhanced Artificial Intelligence Capabilities on Your New Samsung Galaxy S22
 
 It's been a long wait, but the One UI 6.1 update is finally rolling out to select smartphones from Samsung's 2022 lineup. This update includes the Galaxy AI suite and Google's popular Circle to Search technology, which have already made their way to newer Samsung devices.

@@ -1,7 +1,7 @@
 ---
 title: Discover Samsung's New High-Capacity 512GB USB-C Portable Storage Device
-date: 2024-09-05T21:30:58.330Z
-updated: 2024-09-06T21:30:58.330Z
+date: 2024-09-10T11:13:24.609Z
+updated: 2024-09-11T11:13:24.609Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/samsung-portable-ssd-512gb-featured.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Discover Samsung's New High-Capacity 512GB USB-C Portable Storage Device
 
 Samsung has released a 512GB version of its USB-C flash drive, priced at $80\. The sleek metal drive incorporates a USB 3.2 Gen 1 interface capable of reading and writing data up to 400MB/s and 110MB/s, letting you transfer big files between computers, back up data, or even boot a PC.
@@ -29,12 +37,20 @@ Samsung has released a 512GB version of its USB-C flash drive, priced at $80\. T
 
 ![Samsung's 512GB USB-C flash drive in packaging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/samsung-portable-ssd-512gb-packaging-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Christian Zibreg / How-To Geek / Samsung
 
  Flash drives can work as [bootable drives for installing Windows](https://some-techniques.techidaily.com/in-2024-excellent-devices-for-frame-by-frame-filmmaking/) or other operating systems. If you're planning on using this Samsung as your everyday boot drive, it's wiser to consider a [full-size external SSD](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) like the [Samsung T7](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0T/dp/B0874XN4D8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004721&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsamsung-flash-drives-512gb-capacity%2F&asc%5Fcampaign=Short-Term&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsamsung-512gb-usb-c-flash-drive%2F&asc%5Fcampaign=Short-Term) that offers much higher speeds. You could also get an [NVMe drive in a dedicated USB enclosure](https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-pin-by-drfone-android/). Personally, I've been very pleased with [NVMe SSD enclosures from Dockcase](https://www.dockcase.com/category/ssd-enclosure) but feel free to explore your options.

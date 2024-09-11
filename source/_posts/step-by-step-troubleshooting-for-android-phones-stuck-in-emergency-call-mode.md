@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for Android Phones Stuck in Emergency Call Mode
-date: 2024-09-05T21:31:03.875Z
-updated: 2024-09-06T21:31:03.875Z
+date: 2024-09-10T11:13:30.179Z
+updated: 2024-09-11T11:13:30.179Z
 tags:
   - android
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Step-by-Step Troubleshooting for Android Phones Stuck in Emergency Call Mode
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Does “Emergency Calls Only” Mean?](https://facebook-video-recording.techidaily.com/new-in-2024-instantly-spice-up-videos-on-facebook-with-music-steps/)
@@ -25,44 +19,76 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may occasionally see a somewhat cryptic message in the status bar of your Android device that says “Emergency Calls Only." This message sounds concerning, but it's probably not a big deal. There are a number of common causes and easy fixes you can try.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  What Does “Emergency Calls Only” Mean?
 
  All phones—Android, iPhone, smart, or dumb—are required always to be able to make emergency calls regardless of cellular connection. "Emergency Calls Only" means exactly that: you can only dial emergency numbers. In the US, that means you can still call 911, and the same applies to emergency numbers in other parts of the world.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Why Does My Phone Say “Emergency Calls Only”?
 
 ![Emergency Calls Only on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240228-165702.png) 
 
- The most common culprits of the “Emergency Calls Only” message all have to do with network connectivity, as you might expect. It often happens if you're out of your cellular network's coverage area, your SIM is inactive, or airplane mode was accidentally left enabled. The good news is there are simple fixes to these issues.
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ The most common culprits of the “Emergency Calls Only” message all have to do with network connectivity, as you might expect. It often happens if you're out of your cellular network's coverage area, your SIM is inactive, or airplane mode was accidentally left enabled. The good news is there are simple fixes to these issues.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  How to Fix “Emergency Calls Only” on an Android Phone
 
  First and foremost, you may simply be in an area that your cellular network provider doesn't cover. In this case, the only solution is to try to find a location that does have a signal. If that doesn't seem to be the issue, we've got more fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Make Sure Your SIM Card Is Active and Inserted Correctly
 
  Your SIM—physical or eSIM—is usually at the forefront of what's causing the “Emergency Calls Only” message to appear. For some reason or another, it's possible the SIM has become deactivated or wasn't correctly activated to begin with. Let's fix that.
@@ -71,12 +97,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Toggle on SIM on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240228-162257.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Check if Airplane Mode Is Enabled
 
  Airplane mode disables all the wireless connectivity on your phone, including cellular. So, if airplane mode is enabled, you won't be able to make phone calls, and the “Emergency Calls Only” message will appear. Let's fix that.
@@ -85,12 +105,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turning off Airplane Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240227-153801.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Manually Select Your Cellular Provider
 
  Typically, when you insert a SIM card or activate an eSIM, your Android phone will automatically detect the provider (T-Mobile, Google Fi, Verizon, etc). If that doesn't work smoothly, you can always go in and manually select it yourself.
@@ -99,12 +113,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turning off "Automatically Select Network" on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240227-162848-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Downgrade to 3G for Better Cell Signal
 
  Nowadays, Android devices default to 5G or 4G LTE for mobile data, but those networks may not be as expansive as your carrier's 3G or even 2G network ([if they still have one](https://video-screen-grab.techidaily.com/new-2024-approved-a-beginners-guide-to-recording-video-calls-with-google-meets/)). You can try downgrading to 3G to see if there's reception.
@@ -113,18 +135,40 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Android Preferred Network Type.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240227-162848.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Reset Network Settings
 
  You probably know that you can perform a factory reset to wipe your phone completely, but you don't need to go that extreme here. Android also allows you to reset only the network settings.
@@ -137,22 +181,38 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Google Pixel Reset Mobile Network Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240227-161722.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Restart Your Phone
 
  Here's a simple thing you can do that will solve a surprising number of problems: restart your phone. Sounds easy, but it's effective. Typically, you can long-press the power button and select "Reboot" from the menu. However, more and more Android phones have changed this behavior to launch the digital assistant, [so check out our full guide for more restart options.](https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-8-fix-now-drfone-by-drfone-virtual-ios/) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Clear Cache and Force Stop the SIM Toolkit App
 
  If all else has failed, there's one last thing we can try before [resorting to a full factory reset](https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-14-in-the-best-ways-by-drfone-ios/). There's a system app on all Android devices called "SIM Toolkit." Clearing the app's cache and restarting may resolve some issues. This is not an app you'll see in the app drawer, but it can be found in the Settings.
@@ -164,6 +224,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Scroll down and find the "SIM Toolkit" app. Now, [clear the cache](https://on-screen-recording.techidaily.com/updated-2024-approved-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/) and force restart the app.
 
 ![Android SIM Toolkit app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240228-163853.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ---
 

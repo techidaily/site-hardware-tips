@@ -1,7 +1,7 @@
 ---
 title: Samsung Message App Discontinued on New Galaxy Devices
-date: 2024-09-05T21:30:58.053Z
-updated: 2024-09-06T21:30:58.053Z
+date: 2024-09-10T11:13:24.341Z
+updated: 2024-09-11T11:13:24.341Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-person-holding-a-samsung-phone-showing-some-options-from-samsung-messages-app-on-the-screen.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Samsung Message App Discontinued on New Galaxy Devices
 
 After two years of gentle nudging, Samsung now says that it will forcefully push customers toward the Google Messages app. New Galaxy smartphones, starting with the U.S. release of the Galaxy Z Flip 6 and Fold 6, will not come with Samsung Messages preinstalled.

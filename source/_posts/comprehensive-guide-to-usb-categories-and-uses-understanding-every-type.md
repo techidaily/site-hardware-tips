@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to USB Categories & Uses: Understanding Every Type"
-date: 2024-09-05T21:31:01.622Z
-updated: 2024-09-06T21:31:01.622Z
+date: 2024-09-10T11:13:27.948Z
+updated: 2024-09-11T11:13:27.948Z
 tags:
   - hardware
 categories:
@@ -28,44 +28,28 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  When it comes to USB, there are really only four things that matter: form factor, transfer speeds, power delivery, and video delivery. There are multiple types of USB that have popped up over the years, each with a unique design and use case. The most common types are USB-A, Micro-USB, and USB-C, but we'll briefly discuss all of the form factors before getting into the other aspects of USB.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  USB-A
 
 ![USB type A plug isolated on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_233599180.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Kozini / Shutterstock](https://www.shutterstock.com/image-photo/usb-plug-isolated-on-white-background-233599180)
 
 [USB-A](https://vp-tips.techidaily.com/updated-in-2024-exploring-the-full-features-sony-fdr-x1000-model/), or USB Type A, is the original flat and rectangular connector that no one could ever figure out how to plug in correctly the first time. These cables always have USB-A on one end with a different [port type](https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/) on the other, and can be used for device charging and data transfer. USB-A is still widely used and can be found on devices like computers, gaming consoles, TVs, and all kinds of peripherals.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  USB-B
 
 ![Universal Serial Bus (USB) 3.0 type B connector isolated on white.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_527683615.jpg) 
@@ -78,30 +62,60 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![Micro USB on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_441139267.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 [piya kunkayan / Shutterstock](https://www.shutterstock.com/image-photo/micro-usb-on-white-background-441139267)
 
  Micro-USB was the standard a while back for certain portable devices, like Android tablets and smartphones because it can transfer data and provide charge. It comes in both Type-A Micro and Type-B Micro flavors, and is smaller than USB-A. Some manufacturers still opt for using Micro-USB parts for their devices, as they're less costly than those for USB-C.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Mini-USB
 
 ![Mini USB plug, cable seen in close-up on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_2419872495.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 [IH82 / Shutterstock.com](https://www.shutterstock.com/image-photo/mini-usb-plug-cable-seen-close-2419872495)
 
  As its name suggests, Mini-USB is a smaller version of USB-B. It was the standard for charging or transferring data from devices like tablets before Micro-USB was. There are also Type-A and Type-B versions of this connector. It's uncommon to see many products using Mini-USB today, though you can still find them on older electronics like MP3 players or the PlayStation 3 controller.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  USB-C
 
 ![The USB C plug on the Satechi USB C 2.5 Gigabit Ethernet Adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53398648272_e6e75bf794_o.jpg) 
@@ -114,21 +128,23 @@ Sergio Rodriguez / How-To Geek
 
  As manufacturers continue to release new products with ports other than USB-C (looking at you, Apple), we aren't yet able to live in a single-cable society. But we're getting there, and we may eventually be freed from the burden of lugging around multiple cords.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Lightning
 
 ![shutterstock_1932371783](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1932371783.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 [108photo / Shutterstock](https://www.shutterstock.com/image-photo/currently-there-3-types-cable-charging-1932371783)
 
@@ -136,24 +152,26 @@ Sergio Rodriguez / How-To Geek
 
  However, going forward you'll see Lightning less and less, as [Apple gave up using it in 2022](https://tech-renaissance.techidaily.com/comprehensive-tutorial-using-an-ereader-app-to-open-and-consume-epub-files-on-a-desktop-device/) thanks to regulatory pressure from the EU. The [iPhone 15](https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-memorable-honeymoon-video/) and newer [now use USB-C instead](https://fox-access.techidaily.com/2024-approved-the-science-and-magic-behind-full-circle-films/). While you can still buy certain Apple products that use Lightning, you won't see it on any of Apple's latest gear. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Consider Data Transfer Speed
 
  In addition to coming in a variety of shapes and sizes, USB types also have multiple speed standards. Keep in mind that some USB cables are data transfer only, and others are power delivery only, but also that there are options that can handle both tasks. Be sure to verify a cable's abilities before purchasing it.
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  The first, [USB 1.x](https://vp-tips.techidaily.com/brighten-your-surroundings-with-21plus-collage-wonders-for-2024/), is old and incredibly slow, and can only move 1.5 Mbps. Your odds of finding a device in the wild still on 1.0 are slim to none. The slightly less old (and comfortably slow) USB 2.0, however, is still relatively common. 2.0 has a full-speed option that can handle 12 Mbps, and a high-speed version that can handle 480 Mbps. That's plenty for a lot of peripherals you probably use with your computer, which is why [many PCs still come with USB 2.0 ports](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-pro-phones-by-drfone-android/). In comparison, SuperSpeed USB 3.x can transfer data between 5 to 20 Gbps.
@@ -161,6 +179,20 @@ Jerome Thomas / How-To Geek
  The latest entries, USB 4.0, [Thunderbolt 3, and Thunderbolt 4](https://buynow-help.techidaily.com/the-definitive-guide-to-the-elite-samsung-galaxy-tab-s7plus-and-its-unmatched-android-performance/), are where you'll find the highest data transfer speeds: a maximum capable throughput of 40 Gbps. Thunderbolt is another transfer speed standard used in some USB-C cables—all Thunderbolt 3 and 4 cables are USB-C, but [not all USB-C cables are Thunderbolt](https://extra-support.techidaily.com/new-safest-drone-selections-5-great-options-for-young-ones/). So if Thunderbolt is what you're after, you'll need to make sure that's part of the cable you're buying.
 
  These super-high transfer rates are impressive, but they don't matter much if you aren't regularly transferring hundreds of GB of data or doing something wild like editing video on an [external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/). If you are, however, you'll want at least Thunderbolt 3.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Power Delivery Will Vary
 
@@ -170,25 +202,55 @@ Jerome Thomas / How-To Geek
 
  In contrast, [USB PD](https://vp-tips.techidaily.com/updated-2024-approved-audience-engagement-trends-to-master-on-instagram/) can handle up to 100W, which is powerful enough to power things like a MacBook Pro, monitors, docking stations, and most TVs. It can also fast-charge smaller compatible devices like your phone or Nintendo Switch. PD also only provides the necessary charge to your device but won't overcharge it. Newer [battery banks](https://www.reviewgeek.com/49104/why-everyone-should-own-a-portable-battery/) are starting to support USB PD, which are more capable of keeping your power-hungry devices powered and fully charged.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Future-Proof With Video Delivery
 
 ![Plugable Thunderbolt 4 set up on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53297961788_658d0b8238_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  Being able to transfer data _and_ power a device is already impressive. But you can also choose to [use USB-C to connect to monitors](https://video-content-creator.techidaily.com/updated-in-2024-ditch-windows-10-photos-explore-these-8-superior-image-editing-tools/) in place of a bulky HDMI or VGA cable. USB-C also has support for 4K video delivery to a screen. Thunderbolt 4 cables can handle displaying [4K](https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a78-5g-without-puk-codes-by-drfone-android/) content on two monitors at a time, or 8K on a single monitor. Again, this isn't going to be the use case for most people, but as 4K and [8K video](https://video-screen-grab.techidaily.com/updated-thor-vs-jormungandr-ragnaroks-eve-for-2024/) becomes more commonplace, you'll eventually need a cable that can keep up.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Know If You're Using a Safe USB Cable
 

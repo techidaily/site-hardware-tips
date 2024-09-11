@@ -1,7 +1,7 @@
 ---
 title: Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch
-date: 2024-09-05T21:31:01.758Z
-updated: 2024-09-06T21:31:01.758Z
+date: 2024-09-10T11:13:28.086Z
+updated: 2024-09-11T11:13:28.086Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,36 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53715074129_46c1b4e3a1_o.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * The Pixel 8a offers flagship-level performance, camera quality, and screen quality for $500.
@@ -33,22 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Pre-orders for the Pixel 8a began [on May 6th](https://graphic-issues.techidaily.com/mitigating-performance-drops-civ-5-computer/), with orders shipping on May 14th to line up with I/O 2024\. You can find the phone at the [Google Store](https://store.google.com/us/product/pixel%5F8a?hl=en-US) and most third-party retailers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Flagship Specs, Affordable Pricing
 
 ![Person holding the Google Pixel 8a showing the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-lock-screen-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Like all of Google's A-series smartphones, the [Pixel 8a](https://facebook-video-footage.techidaily.com/updated-in-2024-content-creation-evolution-studio-vs-innovative-beta/) offers flagship performance and photo quality at a mid-range price. It runs on the year-old Tensor G3 processor, packs a 6.1-inch 120Hz OLED display with a peak brightness of 2,000 nits, and features a 64MP camera with optical image stabilization and AI enhancement functionality (plus a secondary 13MP ultrawide lens).
@@ -63,12 +67,20 @@ Justin Duino / How-To Geek
 
 ![Google Pixel 8a on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-pixel-8a-on-a-white-background.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Google Pixel 8a
 
 7/ 10 
@@ -77,16 +89,24 @@ The Google Pixel 8a is a mid-range smartphone powered by the Google Tensor G3 So
 
 [$499 at Google Store](https://store.google.com/config/pixel%5F8a) [$499 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-8a-5g-128gb-unlocked-aloe%2F6578509.p) [$499 at Amazon](https://amazon.com/dp/B0CYQ916ZY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003113&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdont-wait-for-pixel-9-buy-the-pixel-8a%2F&asc%5Fcampaign=Short-Term) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  What's So Special About the Pixel 9 Anyway?
 
 ![Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OnLeaks, 91mobiles
 
  Last year's Pixel flagship started at $700—exactly $200 more than the Pixel 8a. Unless the Pixel 9 comes with a price increase, it will also start at $700\. So, if you choose to pay extra for the Pixel 9, what will you get out of it?
@@ -101,9 +121,37 @@ OnLeaks, 91mobiles
 
  Also, the Pixel 8a will last just as long as the Pixel 9\. Both get [seven years](https://techtrends.techidaily.com/download-iphones-handbooks-comprehensive-source-for-each-version-explained/) of Android updates. One phone might be better than the other, but the Pixel 8a is an outrageously great value, and the difference between these two devices will be negligible to most people.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Don't Fall for Smartphone FOMO
 
 ![Google Pixel 8a sitting on a table next to a Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-sitting-on-a-table-next-to-a-pixel-8-pro-1.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Justin Duino / How-To Geek
 

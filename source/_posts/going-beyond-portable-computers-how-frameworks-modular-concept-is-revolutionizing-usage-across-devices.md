@@ -1,7 +1,7 @@
 ---
 title: "Going Beyond Portable Computers: How Framework's Modular Concept Is Revolutionizing Usage Across Devices"
-date: 2024-09-05T21:30:58.476Z
-updated: 2024-09-06T21:30:58.476Z
+date: 2024-09-10T11:13:24.757Z
+updated: 2024-09-11T11:13:24.757Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee2b82fb5803fb90b93482a66.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Going Beyond Portable Computers: How Framework's Modular Concept Is Revolutionizing Usage Across Devices
 
 Now that Framework has found a foothold in the laptop market, it's preparing to expand into new product categories. Framework will continue with its modular and repairable philosophy, thankfully, but the company is yet to reveal the full scope of its ambitions.

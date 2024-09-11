@@ -1,7 +1,7 @@
 ---
 title: Google Enhances Locator Capabilities with Moto's Tracking Technology
-date: 2024-09-05T21:31:02.854Z
-updated: 2024-09-06T21:31:02.854Z
+date: 2024-09-10T11:13:29.127Z
+updated: 2024-09-11T11:13:29.127Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Google Enhances Locator Capabilities with Moto's Tracking Technology
 
 Motorola just launched the Moto Tag, a Bluetooth tracker that matches the design and capabilities of Apple's AirTag. The only substantial difference, aside from a unique multifunction button, is that Moto Tag is designed for Android.
@@ -25,12 +33,20 @@ Motorola just launched the Moto Tag, a Bluetooth tracker that matches the design
 
 ![A closeup of the Moto Tag in green.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/67.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Motorola
 
  In terms of basic design, Moto Tag is nearly a clone of the AirTag. Both trackers are small and circular, without any keyring holes. They both contain user-replaceable CR2032 batteries, and they both sport an IP67 rating for sand and water immersion resistance. Interestingly, Motorola says that Moto Tag "was designed to fit perfectly with most third-party accessories," which leads me to believe that it can fit in AirTag cases (though this hasn't been explicitly confirmed).

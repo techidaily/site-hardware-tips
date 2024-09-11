@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems
-date: 2024-09-05T21:31:01.860Z
-updated: 2024-09-06T21:31:01.860Z
+date: 2024-09-10T11:13:28.163Z
+updated: 2024-09-11T11:13:28.163Z
 tags:
   - hardware
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AMD APUs could offer higher memory bandwidth but sacrifice memory cache thanks to requirements for AI performance laid about by Microsoft.
@@ -24,6 +18,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * ARM chips like the Snapdragon X Elite could power future handheld gaming PCs with promising efficiency.
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
@@ -35,12 +43,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _AMD_
 
  One of the solutions here is to equip future APUs with larger amounts of [cache memory](https://extra-guidance.techidaily.com/updated-parrot-ar-drone-elite-edition-expert-evaluation/), allowing both the CPU and GPU to use this local, on-die memory instead of the system memory. This should satisfy the thirst for memory bandwidth and noticeably improve gaming performance.
@@ -61,12 +77,20 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -75,24 +99,40 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -103,12 +143,20 @@ Intel
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.

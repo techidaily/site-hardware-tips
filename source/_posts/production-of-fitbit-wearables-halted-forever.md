@@ -1,7 +1,7 @@
 ---
 title: Production of Fitbit Wearables Halted Forever
-date: 2024-09-05T21:30:58.701Z
-updated: 2024-09-06T21:30:58.701Z
+date: 2024-09-10T11:13:24.985Z
+updated: 2024-09-11T11:13:24.985Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fitbit-versa-4.png
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Production of Fitbit Wearables Halted Forever
 
 "Pixel Watches are our next iteration of smartwatch for Fitbit,” a Google spokesperson revealed in an interview. Google acquired Fitbit in 2021, and except for two watches in 2022, the company has not released a smartwatch since. After two years of no new watch launches from Fitbit, its parent company confirmed that the Pixel Watch will absorb that department.

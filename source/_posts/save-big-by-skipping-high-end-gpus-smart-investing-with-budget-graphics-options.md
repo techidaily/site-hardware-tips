@@ -1,7 +1,7 @@
 ---
 title: Save Big by Skipping High-End GPUs - Smart Investing with Budget Graphics Options
-date: 2024-09-05T21:31:01.183Z
-updated: 2024-09-06T21:31:01.183Z
+date: 2024-09-10T11:13:27.495Z
+updated: 2024-09-11T11:13:27.495Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,35 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-gpu-with-a-few-dollar-bills-underneath.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Save Big by Skipping High-End GPUs - Smart Investing with Budget Graphics Options
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -23,12 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Custom Graphics Cards Have Few Perks](https://extra-lessons.techidaily.com/leading-slow-mo-camera-apps-for-iphoneandroid-users/)
 * [Just Buy the Cheapest GPU Design on the Market](https://extra-resources.techidaily.com/xsplit-compendium-download-and-review-archive/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Reference design graphics cards offer performance equal to custom models and might be cheaper at launch.
@@ -36,6 +52,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * In most cases, you should opt for the cheapest graphics card design available as long as it's from a reputable brand.
 
  With so many different graphics card brands, shopping for a new model has never been harder. Do you get the "OC" model, the triple-fan configuration, or something else entirely? Fret not, because I'll explain everything you need to know before buying a new graphics card.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Reference Designs Perform Just as Well
 
@@ -47,12 +77,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Founders Edition RTX 2080 graphics card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/geforce-rtx-2080-technical-photography-angled-003.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 NVIDIA
 
  One thing all reference designs share in common is that they have a less flashy design compared to the custom models their board partners release. Also, they tend to feature the GPU manufacturer's logo (e.g. AMD) on the fans and side instead of the board partner's one (e.g., ASUS ROG STRIX).
@@ -61,12 +99,6 @@ NVIDIA
 
  So, if you find a reference design graphics card at a discount price, don't shy away from it. You'll get the performance promised by the manufacturer and save a good chunk of money.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Custom Graphics Cards Have Few Perks
 
  You must be wondering what you're actually getting by paying $20–80 more for a custom, factory-overclocked graphics card. In addition to the subjectively cooler aesthetics and fancy RGB effects, you might get a slightly larger heatsink, better fans, VRMs (Voltage Regulator Modules) for a more stable and higher power draw, and maybe a [binned GPU](https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/) or slightly faster VRAM.
@@ -83,18 +115,6 @@ Ismar Hrnjicevic / How-To Geek
 
  Aside from aesthetics, one other reason you might have to go with a custom design is size. If you're building a small [Mini-ITX gaming PC](https://fox-friendly.techidaily.com/updated-stitch-together-photographs-the-montage-masterclass/), you're better off with a smaller graphics card. Some board partners release low-profile and shorter versions, such as the [GIGABYTE GeForce RTX 4060 OC Low Profile](https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N4060OC-8GL/dp/B0CDJLSZ73?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002690&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fstop-wasting-money-on-fancy-gpu-designs-just-buy-the-cheapest-one%2F&asc%5Fcampaign=Evergreen) card, one of the most powerful graphics cards considering its size.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Just Buy the Cheapest GPU Design on the Market
 
  My main gripe with custom graphics cards is that they often cost significantly more than the reference models. In some cases, you're paying so much more money that you'd be better off getting a higher-tier graphics card model altogether.
@@ -103,13 +123,35 @@ Ismar Hrnjicevic / How-To Geek
 
 ![MSI GeForce RTX 4070 TI Ventus 12G OC GPU in a gaming PC at CES 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52606768067_aff13d7ea2_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Avoid Unrecognizable Brands
 

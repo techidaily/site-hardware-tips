@@ -1,7 +1,7 @@
 ---
 title: Jabra Finalizes Production of Premium Elite and Talk-Enabled Wireless Headphones
-date: 2024-09-05T21:31:00.341Z
-updated: 2024-09-06T21:31:00.341Z
+date: 2024-09-10T11:13:26.646Z
+updated: 2024-09-11T11:13:26.646Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/481a17ae-aa5a-4161-8abf-a2ebb980bee7.JPG
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Jabra Finalizes Production of Premium Elite and Talk-Enabled Wireless Headphones
 
 Jabra has been in the audio industry for a long time, and in recent years, the company has competed more directly in the earbuds and headphones market. Even though its Elite and Talk devices are impressive, the company is exiting the consumer market.

@@ -1,7 +1,7 @@
 ---
 title: AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment
-date: 2024-09-05T21:31:00.099Z
-updated: 2024-09-06T21:31:00.099Z
+date: 2024-09-10T11:13:26.401Z
+updated: 2024-09-11T11:13:26.401Z
 tags:
   - hardware
 categories:
@@ -11,24 +11,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is AMD Fluid Motion Frames?](https://article-knowledge.techidaily.com/updated-is-auroras-hdr-enhancing-your-viewing-experience-for-2024/)
 * [AFMF 2 Isn’t Out Yet, but You Can Try the Preview](https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Testing AFMF 2 in Games](https://youtube-video-recordings.techidaily.com/new-constructing-a-custom-youtube-subscription-url/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * AMD Fluid Motion Frames (AFMF) generates interpolated frames to double FPS on all RDNA 2 GPUs.
@@ -47,12 +49,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AFMF 2 Cyberpunk 2077 latency.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/afmf-2-cyberpunk-2077-latency-chart3.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 AMD
 
  A major change is the addition of two new modes, Search Mode and Performance Mode. AMD calls them "modes," but you can think of them as settings that adjust how AFMF works. The first iteration of the technology was just an on/off toggle, so it's great to see some options.
@@ -65,6 +75,20 @@ AMD
 
 ![The AMD RX 6600 XT Phantom Gaming D graphics card inside of a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/rsz_img20240413025619.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Ismar Hrnjicevic / How-To Geek
 
  Another technology that AFMF works well with is Chill, which is AMD's built-in frame limiter. When it detects motion, it aims to reach your "Peak FPS" setting, and when the screen is idle, Chill targets the "Idle FPS" instead.
@@ -75,38 +99,48 @@ Ismar Hrnjicevic / How-To Geek
 
 ![AMD Chill set to 71 FPS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chill.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  AFMF 2 Isn’t Out Yet, but You Can Try the Preview
 
  AFMF 2 isn't out yet, but you can already [download the Preview Driver](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-AFMF2-TECH-Preview.html) and try it, assuming you have a compatible AMD GPU (RX 6000 or 7000 Series) or APU (AMD 700M). Once you've downloaded and installed the driver, restart your PC. Next, open AMD Software and head over to Gaming > Graphics > Custom. Look for "AMD Fluid Motion Frames" and click on the toggle to enable it.
 
 ![Enabling Fluid Motion Frames 2 in AMD Software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/enable-fmf.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- AFMF 2 should work in most games, as it now supports OpenGL and Vulkan in addition to DirectX 11 and 12\. [Vulkan](https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/) is a low-overhead API that already boasts significant FPS improvements in select titles compared to DirectX and OpenGL. Adding AFMF 2 into the mix could bring select titles to even the weakest of AMD's hardware.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ AFMF 2 should work in most games, as it now supports OpenGL and Vulkan in addition to DirectX 11 and 12\. [Vulkan](https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/) is a low-overhead API that already boasts significant FPS improvements in select titles compared to DirectX and OpenGL. Adding AFMF 2 into the mix could bring select titles to even the weakest of AMD's hardware.
+
 ##  Testing AFMF 2 in Games
 
  Enough talk; it's time to give AFMF 2 a shot by testing it in a few games. I'll use my RX 6600 XT graphics card (which doesn't support Anti-Lag 2) on my 1080p 144Hz monitor for these tests. The first game I tested was _Fallout 76_, a game that still has serious performance issues.
@@ -114,6 +148,26 @@ Ismar Hrnjicevic / How-To Geek
  I tested my FPS in a busy area with lots of enemies and got an average FPS of 48\. I enabled AFMF 2 by simply alt-tabbing to the driver, and my FPS immediately doubled to an average of 96 without even having to restart the game. I saw similar results in _Returnal_, where my average FPS went from 40–45 to around 90.
 
 ![A screenshot from the game 'Fallout 76.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/f76.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  AMD's performance overlay suggested that AFMF 2 added about 8–13 ms of frame generation lag, but I couldn't notice it. I didn't see any noticeable visual artifacts, either. What I _did_ notice was the significantly smoother performance. The only weird thing is that Fallout 76 would get extremely choppy in situations where my FPS dropped to 60–70, but this is more of an issue with the game itself. I see similar frame drops when AFMF 2 is disabled, and if anything, AFMF 2 makes it slightly less choppy.
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech"
-date: 2024-09-05T21:31:02.316Z
-updated: 2024-09-06T21:31:02.316Z
+date: 2024-09-10T11:13:28.623Z
+updated: 2024-09-11T11:13:28.623Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0dba8c64f2b9f80cb0b9c338e.jpg
 ---
 
-## Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Kernel-level anti-cheats grant extensive access and pose potential security risks to users' PCs.
@@ -31,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  The latest anti-cheat software being developed by big-name game developers, like Riot Games and EA, is implemented at the kernel level. While it might make gameplay more fair, it could also have an impact on your computer’s security.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is a Kernel Level Anti-Cheat?
 
  The operating system [kernel](https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/) is responsible for necessary processes to keep your machine running smoothly, including memory management and resource allocation. Crucially, the kernel has the lowest level of access to your computer’s resources—it has access to parts of the computer that even you, as the user, don’t.
@@ -47,32 +63,34 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
 ![Riot's Vanguard anti-cheat displayed as background process and as a popup tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image_2024-07-22_133248143.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This lets the software look outside the scope of the game to check for tools that might impact gameplay, like [aimbots](https://facebook-videos.techidaily.com/new-in-2024-linking-your-favorite-tiktoks-seamlessly-to-facebook/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why It's Controversial
 
  Kernel-level anti-cheats are a clever solution to monitor competitive integrity in online games, many of which are esports. _Counter-Strike_ has a longstanding successful esports scene, with one of the largest prize pools of any current esport, so ensuring that professional play is rigorous is understandable. After all, professional athletes are tested against steroid use! Counter-Strike tournaments have been using the kernel-level anti-cheat software [Faceit](https://www.faceit.com/en) since its launch in 2016, so the technology itself isn't new.
 
  However, allowing companies to install software with this level of access onto your machine seems like overkill for the average at-home gamer. With anti-cheat software able to monitor all programs on your machine, you run the risk of facing bans (many of them being hardware) for having any program deemed suspicious with no recourse to challenge it. Giving large companies to have such unfettered access to your PC, superseding your _own_ access rights, sets a potentially dangerous precedent that could affect the safety of your PC and your data.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Risking the Safety of Your PC
 
  Externally downloaded applications that you cannot control or see are eerily reminiscent of malware, with these types of software being [rootkits](https://article-posts.techidaily.com/updated-2024-approved-vector-fundamentals-unpacked-for-novices-categories-and-software/). In fact, in 2013, an anti-cheat provider was fined for installing hidden [Bitcoin miners](https://www.wired.com/2013/11/e-sports/). While extreme, it’s a cautionary tale in allowing rootkits on your machine. You are entirely reliant on an anti-cheat provider employing best practices.
@@ -81,9 +99,43 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  What’s concerning, is that any weaknesses in these systems which can be exploited aren’t just localized to one application, but the _entire_ system. Compound that with the fact that more game developers are shipping their own kernel-level anti-cheats, and you now have several potential points of failure within your OS kernel. That’s a pretty significant risk, especially when most PC gamers are unlikely to have a dedicated machine just for gaming.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Balancing User Security and Competitive Fairness
 
 ![Team of Professional eSport Gamers Playing in Competitive Video Games on a Cyber Games Tournament. They Lost. Emotionally Charged Moment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_705666403.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Gorodenkoff/shutterstock.com
 
@@ -93,18 +145,20 @@ Gorodenkoff/shutterstock.com
 
  Developers need to be held accountable for protecting the rights of their player base with extensive and transparent privacy policies, while also returning control to the user. There is no reason why anti-cheat software needs to be running as a background process when you are not playing a game, or if you are using hacks for single-player games. However, until there’s ample incentive for developers, this is unlikely to change.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Getting to the Kernel of Truth
 
  Kernel-level anti-cheats are becoming standard practice across many competitive games, so it's ultimately your choice to decide if a particular game is worth the potential risk to your PC. If you have multiple machines and a dedicated gaming PC, you’re probably okay, otherwise it seems wise to limit the number of anti-cheat apps you have installed, or even opt out of having them at all.

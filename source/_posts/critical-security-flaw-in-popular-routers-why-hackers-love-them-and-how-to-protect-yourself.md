@@ -1,7 +1,7 @@
 ---
 title: "Critical Security Flaw in Popular Routers: Why Hackers Love Them & How To Protect Yourself"
-date: 2024-09-05T21:31:02.635Z
-updated: 2024-09-06T21:31:02.635Z
+date: 2024-09-10T11:13:28.939Z
+updated: 2024-09-11T11:13:28.939Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224df2564f74c71f59044219de.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Critical Security Flaw in Popular Routers: Why Hackers Love Them & How To Protect Yourself
 
 Security researchers have discovered a critical vulnerability that affects D-Link DIR-859 Wi-Fi routers. This vulnerability, which is currently being exploited by hackers, can expose user credentials and provide remote access to a user's local network. D-Link won't patch the problem and suggests that customers buy a new router.
@@ -31,12 +33,20 @@ Security researchers have discovered a critical vulnerability that affects D-Lin
 
 ![The D-Link DIR-856 router on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/74.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 D-Link
 
 > "The exploit's variations, including one observed in the wild by GreyNoise, enable the extraction of account details from the device. The product is End-of-Life, so it won't be patched, posing long-term exploitation risks. Multiple XML files can be invoked using the vulnerability." - GreyNoise

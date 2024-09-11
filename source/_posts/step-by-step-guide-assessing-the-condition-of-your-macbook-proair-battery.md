@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Assessing the Condition of Your MacBook Pro/Air Battery"
-date: 2024-09-05T21:30:59.631Z
-updated: 2024-09-06T21:30:59.631Z
+date: 2024-09-10T11:13:25.940Z
+updated: 2024-09-11T11:13:25.940Z
 tags:
   - hardware
 categories:
@@ -9,31 +9,41 @@ categories:
 thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c6f73b5cf48b17efe5272ad6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Step-by-Step Guide: Assessing the Condition of Your MacBook Pro/Air Battery
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Guide: Assessing the Condition of Your MacBook Pro/Air Battery
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [How to Check a MacBook's Battery Health](https://video-screen-grab.techidaily.com/in-2024-top-6-online-webcam-recorders-2023/)
 * [How to Check the Battery Cycle Count on Your Mac](https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-gionee-frp-without-computer-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Check the battery health on a MacBook in the System Settings app with macOS Ventura & above.
@@ -50,19 +60,69 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Opening Battery Health details in the Settings app on a MacBook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-battery-health-on-a-mac-1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  This will open a new window where you can see details about the overall condition of your battery, as well as how much of its original capacity remains (as a percentage).
 
 ![Battery Condition and Maximum Capacity information on MacBook's Battery settings page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-battery-health-on-a-mac-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Here, if your Battery Condition status is "Normal," like in our case, it means the battery is functioning normally and you don't need to do anything with it.
 
  However, if it says "Service Recommended," it indicates that the battery isn't able to hold the charge for as long as it could earlier. Check the Maximum Capacity status, in this case, to see how much your battery has depleted compared to when it was new. You may need to replace the battery if the capacity is below 80%.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+##  How to Check the Battery Cycle Count on Your Mac
+
+ A charge cycle is one full charge and discharge of the battery in any way—it can be 100% to empty and back again, or 100% to 80% five times. Modern MacBook batteries are rated for 1000 cycles but some older models (pre-2010) are rated for 500 or 300 cycles.
+
+ While the battery won't suddenly fail when it reaches its limit, it'll start to hold less and less charge as it approaches that limit. Eventually, you'll need to keep your Mac connected to its power cable to use it.
+
+ To check how many charge cycles your battery has been through, hold down the Option key, click the Apple icon in the top left corner of the screen, and then select "System Information." (If you don't hold down the Option key, you'll see an "About This Mac" command instead.)
+
+![Accessing System Information on a MacBook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-battery-health-on-a-mac-4.jpg) 
+
+
+
+
 
 <!-- affiliate ads begin -->
 <span id="1975658">
@@ -76,32 +136,14 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-##  How to Check the Battery Cycle Count on Your Mac
 
- A charge cycle is one full charge and discharge of the battery in any way—it can be 100% to empty and back again, or 100% to 80% five times. Modern MacBook batteries are rated for 1000 cycles but some older models (pre-2010) are rated for 500 or 300 cycles.
 
- While the battery won't suddenly fail when it reaches its limit, it'll start to hold less and less charge as it approaches that limit. Eventually, you'll need to keep your Mac connected to its power cable to use it.
 
- To check how many charge cycles your battery has been through, hold down the Option key, click the Apple icon in the top left corner of the screen, and then select "System Information." (If you don't hold down the Option key, you'll see an "About This Mac" command instead.)
-
-![Accessing System Information on a MacBook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-battery-health-on-a-mac-4.jpg) 
 
  Under the Hardware category on the left, select the "Power" option. You'll now see all the stats for your battery in the right pane. Look for the "Cycle Count" entry under the Health Information section to see how many full charge/recharge cycles your battery has had.
 
 ![Cycle Count on MacBook's System Information page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-battery-health-on-a-mac-3.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there's a problem with your battery, the Condition entry (which shows "Normal" in our example) will display something like "Service Battery."
 
 ---

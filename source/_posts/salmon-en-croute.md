@@ -1,13 +1,27 @@
 ---
 title: Salmon en Croute
-date: 2024-09-05T21:30:58.745Z
-updated: 2024-09-06T21:30:58.745Z
+date: 2024-09-10T11:13:25.028Z
+updated: 2024-09-11T11:13:25.028Z
 tags:
   - hardware
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/welov-purifier-controls-2100x1400.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Salmon en Croute
 
@@ -17,18 +31,20 @@ Through technological advancements, [AiDot](https://www.aidot.com/?utm%5Fsource=
 
  “Works with AiDot” (WWA) is a symbol of interconnectivity encompassing a range of brands and devices. Products bearing this label can integrate seamlessly into AiDot's comprehensive smart home ecosystem, including offerings from leading brands such as Linkind, OREiN, Winees, WELOV, and many others.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  AiDot and the Matter Protocol
 
 ![aidot welov purifier with smart bulbs and smart plug](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/aidot-welov-purifier-2100x1400.jpg) 
@@ -47,16 +63,38 @@ AiDot
 > 
 > Jon Harros, Head of Certification & Testing Programs, [Connectivity Standards Alliance](http://csa-iot.org/).
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  The WELOV P200 Pro: Design and Features
 
 ![linkind smart plug with welove air purifier in the background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/linkind-smart-plug-out-of-box-2100x1400.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 AiDot
 
  The [WELOV P200 Pro](https://www.amazon.com/WELOV-Purifiers-Coverage-P200-Pro/dp/B0CQ1XWXLN?maas=maas%5Fadg%5F0C608AA5B28E926CE5C9D91B50E4AFEE%5Fafap%5Fabs&ref%5F=aa%5Fmaas&tag=maas) is the world’s first Matter-certified air purifier. With the release of Matter 1.2, you can integrate the P200 Pro with other Matter-certified devices, including light bulbs, switches, and plugs, into your existing smart home ecosystem.
@@ -67,12 +105,6 @@ AiDot
 
 ![aidot home automation diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/aidot-go-beyond-smart.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 AiDot
 
  It also offers boundless home automation possibilities. Imagine waking up and simply saying “Good morning” to activate your purifier from Sleep Mode. You can then adjust the smart lights to your preference, turn on the humidifier, and enable a whole host of other conveniences. While voice commands may be preferable, you can also effortlessly control the WELOV P200 Pro using the AiDot app.
@@ -81,22 +113,24 @@ AiDot
 > 
 > Chris LaPré, Head of Technology, [Connectivity Standards Alliance](http://csa-iot.org/).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Precise Air Insights and External Environment Monitoring
 
 ![aidot precise air insights data from app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/aidot-precise-air-insights.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 AiDot
 
  Intelligent air monitoring actively scans outdoor conditions and adjusts its settings based on the pollutants present to optimize your air quality indoors. These pollutants include pollen, smoke, and pollution.
@@ -105,18 +139,6 @@ AiDot
 
  These innovative monitoring features ensure you and your family can breathe easy, no matter what is happening on the outside, be it high pollen, peak-time traffic, or any other polluting nuisance.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Different Modes for Different Scenarios
 
 Close 
@@ -125,12 +147,6 @@ Close
 
  In Manual Mode, you can set the appliance to low, medium, or high settings, and then there is also the all-important Sleep Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Sleep Mode and Apple Health Integration
 
 ![welove p200 pro sleep mode screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/welove-p200-pro-sleep-mode.jpeg) 
@@ -143,12 +159,20 @@ AiDot
 
 ![sleep insights from welov app overlay with purifier, bed, and person in background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/sleep-insights-welov.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 AiDot
 
  This research is why AiDot has focused primarily on developing its innovative Sleep Mode on the WELOV P200 Pro air purifier. You can adjust Sleep Mode settings to suit your personal needs and sleep patterns by syncing your data from Apple Health.
@@ -159,11 +183,45 @@ AiDot
 
 ![linkind bulb close up with welov air purifier in background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/linkind-bulb-close-up-2100x1400.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 AiDot
 
  Another Matter-certified product on offer from AiDot’s sub-brands is the [Linkind A19 Matter Smart Light Bulb](https://www.amazon.com/Linkind-Matter-Certified-A19-Equivalent/dp/B0BHRZFJDN?maas=maas%5Fadg%5F1C21C6443C3F9856DF1A41FB49D4AF1B%5Fafap%5Fabs&ref%5F=aa%5Fmaas&tag=maas). It’s available in various pack sizes and is the first ever light bulb to have Matter certification. With this, you get smart home integration across all major platforms, including Alexa, Apple HomeKit, Google Nest, and SmartThings, without the need for a separate hub or app.
 
  Other excellent products include the [Linkind Matter Smart Light Switch](https://www.amazon.com/Linkind-Matter-Switch-SmartThings-Neutral/dp/B0C74J9FCN?maas=maas%5Fadg%5F0F4AA9BF94FD5079ED2303104E777BA2%5Fafap%5Fabs&ref%5F=aa%5Fmaas&tag=maas), a Matter-certified dimmer switch you can control from anywhere, and the [Linkind Matter Smart Plug](https://www.amazon.com/gp/product/B0C371HB66?maas=maas%5Fadg%5F3369E60A34A2EB52F029711BB162BCEE%5Fafap%5Fabs&ref%5F=aa%5Fmaas&tag=maas&th=1).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  AiDot: Pioneering the Matter-Connected Smart Home
 

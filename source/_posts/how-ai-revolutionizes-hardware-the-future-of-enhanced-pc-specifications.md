@@ -1,7 +1,7 @@
 ---
 title: "How AI Revolutionizes Hardware: The Future of Enhanced PC Specifications"
-date: 2024-09-05T21:30:58.531Z
-updated: 2024-09-06T21:30:58.531Z
+date: 2024-09-10T11:13:24.814Z
+updated: 2024-09-11T11:13:24.814Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7017365a21e0c4d6f492b770.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How AI Revolutionizes Hardware: The Future of Enhanced PC Specifications
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -25,18 +47,6 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
  The age of the "AI PC" is upon us, and you'll soon have the option to run some AI features locally without an internet connection even on relatively modest systems. However, what you may not realize is that despite having AI accelerators, these computers will still need a heap of memory and storage just to offer local AI features.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  AI PCs Have the Power for Local Processing
 
  Microsoft's Copilot AI feature is one of the main reasons that a new generation of computers with specialized NPUs (Neural Processing Units) are coming to market. That's one reason why [new Surface Pro](https://extra-resources.techidaily.com/enhancing-stories-through-animations-with-movie-maker/) devices have ARM Snapdragon processors usually found in phones. Right now, the minimum requirement for a Copilot AI PC is an NPU with 40 TOPS (Trillions of Operations Per Second) and that's what these new chips have packed inside them.
@@ -53,22 +63,38 @@ Microsoft
 
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Models Have to Live in RAM
 
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Lucas Gouveia / How-To Geek
 
 AI chip hologram with circuits around
@@ -79,23 +105,35 @@ AI chip hologram with circuits around
 
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  16GB Is the Absolute Minimum
 
  While 8GB of RAM is still perfectly fine for a modern office desktop or laptop used for general productivity and media consumption, Windows computers with AI features simply would not get by with that little space. Which is why Microsoft has made 16GB of RAM the [absolute minimum for Copilot PCs](https://www.techpowerup.com/317978/microsoft-sets-16-gb-ram-as-minimum-requirement-for-copilot-and-windows-ai-features).
 
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Some AI PCs Won’t Have Upgradable RAM
 
  If your new AI Windows PC uses an integrated system-on-a-chip or has its RAM soldered permanently, as is the case with many thin and light laptops, then you're going to be stuck with whatever amount of RAM the system came with. Which means you need to get the amount of RAM you need right at the start, or you'll end up needing a whole new computer if it turns out you've done your sums wrong.
 
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
+
+
+
+
 
 <!-- affiliate ads begin -->
 <span id="1983588">
@@ -109,6 +147,10 @@ AI chip hologram with circuits around
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  If You Care About AI, Get More Memory
 
  Whether you care about local AI features is, of course, what actually matters here. If you don't, then it's great that these Copilot PCs are pushing the RAM minimum to 16GB. Just disable or ignore the AI part of the equation and you'll be just fine. In fact, unless you have some compelling alternative reason, skip these AI PCs completely and stick with more mainstream option.

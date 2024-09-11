@@ -1,7 +1,7 @@
 ---
 title: "Exploring Trends: What Causes the Diminishing Demand for High-Performance SD Cards Despite Their Advantages?"
-date: 2024-09-05T21:31:01.839Z
-updated: 2024-09-06T21:31:01.839Z
+date: 2024-09-10T11:13:28.143Z
+updated: 2024-09-11T11:13:28.143Z
 tags:
   - hardware
 categories:
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 
  SD cards have long been a staple in digital storage. While they're still used by photographers, handheld gamers, and enthusiasts, they've fallen out of the mainstream since the moment phones stopped shipping with microSD card slots. I believe they deserve to be back in the spotlight.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Terabyte in Your Wallet
 
  My favorite thing about SD cards is that they're so small that you can put one into a paper-thin wallet and hardly notice it, yet they can store vast amounts of data. Regular-size SD cards are already tiny, but microSD cards are absolutely minuscule; you can hold one at the tip of your finger. It's truly impressive that manufacturers have somehow managed to squeeze in [1.5TB and even 2TB](https://eaxpv-info.techidaily.com/updated-how-to-make-the-most-of-youtube-tv-offerings-for-2024/) worth of storage.
@@ -43,24 +31,26 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 
 ![A microSD card and SD card adapter placed on a brown leather wallet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/rsz_img20240729164143.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Ismar Hrnjicevic / How-To Geek
 
  These modern, high-capacity microSD cards aren't your regular run-off-the-mill storage devices, either, as most of them have reasonably fast transfer rates. It's no [Thunderbolt 5](https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-drfone-by-drfone-ios/), but V90 SD cards can do a _minimum_ of 90MB/sec, enough to record 8K video directly to the SD card.
 
  Fast SD cards are awesome for a lot of things, as you can transfer files from one device to another in a short amount of time. For instance, if you go to a [LAN party](https://win11-tips.techidaily.com/how-to-resolve-windows-upgrade-failures-and-errors/) and need to get a game quickly onto your laptop, you could create a copy from a PC that already has the game, paste it onto your laptop, and start playing in just 15–20 minutes. It's miles faster than downloading the game from the web, and you wouldn't steal internet bandwidth from your friends.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Better Than USB Flash Drives
 
  Almost everything I've said so far also rings true for USB flash drives. USB flash drives are also reasonably small, have large storage capacities, and can potentially reach higher transfer speeds thanks to newer USB interfaces. This [SanDisk 1TB USB flash drive](https://www.amazon.com/dp/B0CLBNMBK2?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen) can reach read speeds of up to 400MB/s. Not to mention that the USB interface is ubiquitous, in no small part, thanks to [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/).
@@ -69,12 +59,20 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A microSD card and SD card adapter next to three different USB flash drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img20240729173912.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Ismar Hrnjicevic / How-To Geek
 
  My new [128GB Kingston Exodia](https://www.amazon.com/Kingston-DataTraveler-Exodia-DTX-128GBCR/dp/B09GKZHXQY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen) USB flash drive is huge and has a ridiculously large keychain loop, so I just carry it around in my pocket. The smallest of the three fits onto my keychain, but it's still too big for my wallet, whereas I don't even notice the microSD card when I have it on me.
@@ -85,11 +83,39 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A person holding a microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/52849011009_f6e8b51064_o.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Jordan Gloor / How-To Geek
 
  The last argument in favor of microSD cards is standardization. The [SD Association](https://www.sdcard.org/) sets the standards for various SD card specifications. This includes clearly defined speed classes that ensure consistent performance, which makes shopping for a microSD card a stress-free experience. If your device calls for a [UHS-II U3 card](https://www.amazon.com/SanDisk-128GB-Extreme-UHS-II-Memory/dp/B08YF7PB14?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen), you can get a microSD card with that specification (or better), knowing it'll work as expected.
 
  In contrast, USB flash drives often highlight their maximum potential speeds, which don't necessarily reflect their real-world performance. The USB interface is standardized, but the speed ratings that flash drives promise are not. Just because a USB flash drive uses the USB 3.2 connector doesn't mean that it can hit data transfer rates of up to 20Gbps.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Hot-Swappable Media
 
@@ -101,12 +127,6 @@ Jordan Gloor / How-To Geek
 
 ![SD and MicroSD cards on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sd-cards-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ##  Cheap Offline Storage
@@ -115,28 +135,38 @@ Corbin Davenport / How-To Geek
 
  In addition to the cloud, you should always have [offline backups](https://extra-information.techidaily.com/concealed-viewers-guide-to-instagram-live-broadcasting-without-attention-for-2024/) of your most important files on as many offline storage devices as possible, so SD cards are a cheap way to create redundant backups. Just remember to check the SD cards occasionally to make sure your data doesn't get corrupted.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Expandable Storage in Phones Needs a Comeback
 
 ![Phone with microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/phone-with-microsd-card.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-inserting-memory-card-sim-smartphone-1135113893)_
 
  While SD cards aren't going anywhere anytime soon, they are undoubtedly declining in popularity, and I think that it's a shame. It speaks volumes that you can't find a flagship phone with an SD card slot anymore; they're only available on budget and mid-range devices like the [OnePlus Nord N30 5G](https://www.amazon.com/OnePlus-Unlocked-Dual-SIM-Charging-Chromatic/dp/B0C22BRGLG?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen).

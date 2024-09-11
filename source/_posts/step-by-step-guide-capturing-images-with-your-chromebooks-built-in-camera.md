@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera"
-date: 2024-09-05T21:30:58.071Z
-updated: 2024-09-06T21:30:58.071Z
+date: 2024-09-10T11:13:24.359Z
+updated: 2024-09-11T11:13:24.359Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b455745b734da2cba3671e13.jpg
 ---
 
-## Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Use the Screen Capture Tool](https://youtube-stream.techidaily.com/in-2024-transform-your-videography-using-youtube-to-boost-visual-clarity/)
 * [Use a Keyboard Shortcut](https://extra-lessons.techidaily.com/unveiling-ms-edges-picture-in-picture-magic/)
 * [Where Are Screenshots Saved?](https://screen-video-capture.techidaily.com/updated-in-2024-freeze-time-on-mi-11-with-impeccable-screen-recording-features/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can use the Screen Capture tool from Quick Settings panel for screenshots & video recordings.
@@ -45,13 +61,67 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![Screenshot pointing to the Quick Settings in Chrome OS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-3-02-46-pm.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Next, click the "Screen Capture" button. If your Chromebook is stuck on an older version of ChromeOS, you might have to expand the panel first (there's a an arrow near the top of the panel) before clicking the Screen capture button.
 
 ![Screen capture button in ChromeOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-3-02-57-pm.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  This will open the screenshot tool, with a switch for changing from screenshot mode (the camera icon) or screen recording mode (the video camera icon). There are three buttons for both modes: capturing the entire screen, capturing a region of the screen, or capturing a specific window.
 
 ![Screenshot of toolbar in ChromeOS with full screen, partial screen, and window capture buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screen.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The **Full Screen mode** allows you to click anywhere on the screen to take a screenshot or recording of the entire screen. In **Partial Screen mode**, you can click and drag your mouse or trackpad pointer to select an area of the screen, move it around if needed, and then click the 'Capture' button. Finally, the **Window mode** lets you click an application window to only capture that window.
 
@@ -59,12 +129,20 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![Screenshot notification on ChromeOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-23-5-02-59-pm.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  When you start a screen recording, you'll get a short countdown before the capture starts. When you're done recording, click the stop button in the ChromeOS Shelf. The video will be saved to your Downloads folder, unless you picked another folder.
 
 ##  Use a Keyboard Shortcut
@@ -73,12 +151,6 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![The Window key highlighted on a Chromebook keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chromebookkey.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ASUS
 
  Below are the three keyboard shortcuts to screenshot on a Chromebook:
@@ -89,24 +161,12 @@ ASUS
 
  Unfortunately, there's not a keyboard shortcut to immediately start or stop a screen recording, like there is on Windows. You need to open the Screen Capture tool first before you can start a recording.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Where Are Screenshots Saved?
 
  Screenshots and screen recordings are saved to the Downloads folder by default. You can change the folder by opening the Screen Capture tool (either from the shelf or using the **Ctrl+Alt+Window** keyboard shortcut), then clicking the Settings gear button.
 
 ![Screenshot of settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/vlcsnap-2024-04-24-16h48m27s001.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The menu will have an option to switch between Downloads or another folder you select. You can view your screenshots and recordings later by opening the Files app on your Chromebook.
 
  As you can see, there are many options for taking a screenshot on a Chromebook. It just depends on which method works best for your situation. Now you know!

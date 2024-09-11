@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace"
-date: 2024-09-05T21:31:01.201Z
-updated: 2024-09-06T21:31:01.201Z
+date: 2024-09-10T11:13:27.517Z
+updated: 2024-09-11T11:13:27.517Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace
 
 ### Key Takeaways
@@ -27,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Autonomous SmartDesk Levitate
 
 5/ 10 
@@ -52,6 +40,20 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 [$999 at Autonomous](https://www.autonomous.ai/standing-desks/smartdesk-levitate) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Price and Availability
 
@@ -93,17 +95,25 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Assembly: More of a Chore Than Needed
 
  Before getting to the meat of it, assembly is key when considering office furniture. I have assembled [quite a few standing desks](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23-fe-by-drfone-android/) over the past year alone. I'm used to the flow and, for the most part, can do it without much assistance from the manual. That was not the case with the SmartDesk Levitate. I question going with four individual legs, as that added more opportunity for a malfunction and made the assembly that much more difficult.
 
 ![Autonomous SmartDesk Levidesk out of packaging and ready for assembly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-assembly.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Mark LoProto / How-to Geek
 
@@ -111,20 +121,36 @@ Mark LoProto / How-to Geek
 
 ![Autonomous SmartDesk Levidesk wire organization and built-in wells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-wires.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Mark LoProto / How-to Geek
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+Mark LoProto / How-to Geek
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Durable Frame and Sturdy Desktop
 
  A two-motor setup would have been infinitely easier to assemble. I tend to find the thicker dual legs on models like [FlexiSpots Q8](https://youtube-videos.techidaily.com/new-essential-tips-for-youtube-shorts-success/) and [SecretLab's Magnus Pro](https://instagram-video-recordings.techidaily.com/new-mastering-amazing-ig-video-creation-for-2024/) offer better stability. The SmartDesk Levitate’s frame is made of thick steel, so while the legs were a little shaky, I was confident it wouldn’t randomly collapse. I was surprised by the 310-pound weight limit, even at its maximum height of 44.1 inches. I expected it to be lower, especially considering the Magnus Pro tops at 265lbs and feels like a more stable desk.
@@ -141,18 +167,26 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  It’s Not All Bad
 
  I think there’s a neat idea in here. This implementation just isn't it. I was surprised mainly by how well the sensor responded to my hand movements. I don’t recall an instance where it raised when I wanted it to lower or didn’t pick up that I was moving my hand. So long as I moved slowly and steadily and kept my hand at the same distance from the sensor while it moved, it worked well. If the sensor stopped registering my hand, which happened immediately after assembly and perhaps a week into use, the underside button is used to reset the system.
 
 ![Autonomous SmartDesk Levitate  sensor built into the desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-sensor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Mark LoProto / How-to Geek
 
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
@@ -160,6 +194,20 @@ Mark LoProto / How-to Geek
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Mark LoProto / How-to Geek
 
@@ -169,12 +217,6 @@ Mark LoProto / How-to Geek
 
  Promo materials suggest routing your monitor’s cord into the well and pulling it back out to hide excess, but the small cutout limits the types of cords that will fit. You can just hide the wire and leave the ends exposed, but that’s less wire management and more creating a tangled mess elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Autonomous SmartDesk Levitate?
 
  It is rare that I outright don’t recommend something. I feel there’s a market for everything. As much as [I typically like](https://facebook-video-content.techidaily.com/updated-2024-approved-the-path-to-an-irresistible-cover-video/) Autonomous products, though, I don’t see the market for its [SmartDesk Levitate](https://www.autonomous.ai/standing-desks/smartdesk-levitate). From the incredibly frustrating assembly to the impractical sensor; too many kinks need to be worked out for something that costs $999.
@@ -184,6 +226,20 @@ Mark LoProto / How-to Geek
  For its cost, I think there is way too much that needs to be addressed before this standing desk is anything beyond fodder for technology lovers like myself.
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Autonomous SmartDesk Levitate
 

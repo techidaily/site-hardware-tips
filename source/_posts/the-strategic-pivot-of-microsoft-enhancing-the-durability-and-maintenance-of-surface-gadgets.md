@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Pivot of Microsoft: Enhancing the Durability and Maintenance of Surface Gadgets"
-date: 2024-09-05T21:30:58.835Z
-updated: 2024-09-06T21:30:58.835Z
+date: 2024-09-10T11:13:25.119Z
+updated: 2024-09-11T11:13:25.119Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda6764b32f863c3da9da1ce561fb.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## The Strategic Pivot of Microsoft: Enhancing the Durability and Maintenance of Surface Gadgets
 
 Microsoft is having its "Apple Silicon" moment with the new Surface Pro 11 and Laptop 7\. These devices use ultra-efficient ARM processors to achieve an extreme battery life with desktop-class performance. Critics are sure to compare ARM-based Surface devices and MacBooks for years to come, but one point is already clearer than day—Microsoft wins in repairability.

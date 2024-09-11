@@ -1,7 +1,7 @@
 ---
 title: "Unwanted Watchfulness Alert: The Unseen Cameras Lurking in Your Eco-Friendly Cleaning Device!"
-date: 2024-09-05T21:31:01.507Z
-updated: 2024-09-06T21:31:01.507Z
+date: 2024-09-10T11:13:27.833Z
+updated: 2024-09-11T11:13:27.833Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e811859d2e2792db0d3e9e3a.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Unwanted Watchfulness Alert: The Unseen Cameras Lurking in Your Eco-Friendly Cleaning Device!
 
 A pair of security researchers have discovered that Ecovacs vacuums and lawn mowers can be hijacked over a Bluetooth connection. These devices, which contain cameras and microphones, may be utilized for "spying" if compromised. Concerningly, Ecovacs has not acknowledged the problem.

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse
-date: 2024-09-05T21:31:01.931Z
-updated: 2024-09-06T21:31:01.931Z
+date: 2024-09-10T11:13:28.235Z
+updated: 2024-09-11T11:13:28.235Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/a-gaming-mouse-set-up-next-to-the-lenovo-legion-pro-7i-16-gen-9-with-the-display-on_53599878868_o.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse
+
 ### Key Takeaways
 
 * Lenovo's Legion Pro 7i 16 (Gen 9) offers a premium gaming experience with NVIDIA RTX 4080 GPU and Intel Core i9-14900HX.
@@ -39,14 +35,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 gaming laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/d3be7cbg5mzynrp1qsplcz2cczf2bl057182.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
 #####  Lenovo Legion Pro 7i 16 Gen 9
 
 9/ 10 
@@ -68,12 +72,6 @@ The Lenovo Legion Pro 7i 16 Gen 9 gaming laptop is packed with premium features 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Lenovo Legion Pro 7i 16 Gen 9 laptop is available now on Lenovo's website, starting at $2,390.
@@ -150,21 +148,49 @@ The Lenovo Legion Pro 7i 16 Gen 9 gaming laptop is packed with premium features 
 
 Expand 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Design: A Familiar Favorite
 
 ![Legion logo on the Lenovo Legion Pro 7i 16 Gen 9.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/legion-logo-on-the-lenovo-legion-pro-7i-16-gen-9_53600002269_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 
@@ -184,12 +210,20 @@ Close
 
  Using the back panel, I could plug into the following ports from left to right—the charging port, two USB-A ports (one with Always On), an HDMI 2.1 port, a USB-C port, and the all-important [RJ45 (Ethernet) port for a faster connection while gaming](https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-10-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Inputs: The Per-Key RGB Keyboard and Touchpad
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 partially open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-pro-7i-16-gen-9-partially-open_53599670631_o.jpg) 
@@ -200,18 +234,20 @@ Sergio Rodriguez / How-To Geek
 
 ![Per-key customization in the Lenovo Spectrum page in the Lenovo Vantage app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-europe-towns-4k-o-scenic-relaxation-film-with-peaceful-relaxing-music-and-nature-video-ultra-hd-youtube-personal-microsoft-edge-6_23_2024-7_21_38-pm.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Cianna Garrison / How-To Geek
 
  As for the keyboard's functionality, its 1.5mm key travel felt great to game on, with a nice spring back and responsiveness without feeling too loose. I never made fatal typos while putting in gaming commands, nor did I struggle to write emails or get fatigue from too-stiff keys. In fact, it felt so nice to type on that I was reminded of why I compare other keyboards to the Legion series' typefeel.
@@ -246,21 +282,29 @@ Cianna Garrison / How-To Geek
 
  On 3DMark's Time Spy, this device scored 17,457, which was above an average gaming laptop's performance, but below a high-end gaming PC by a few hundred. On the Steel Nomad benchmark, the score was 3,337.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Speakers, Camera, and Microphones: Great Sights and Sounds
 
 ![The camera on the Lenovo Legion Pro 7i 16 Gen 9.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-camera-on-the-lenovo-legion-pro-7i-16-gen-9_53599670526_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 
@@ -272,21 +316,43 @@ Close
 
  The dual microphone system was perfect for gaming (unless you prefer a headset) and captured my voice clearly, even while singing. During singing or louder speech, the noise cancellation kicked in, which resulted in some audio drop-off entirely. This was far less than I've experienced, however, with other microphone systems, and it otherwise did a good job of putting my voice front and center in just about any situation.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Battery and Charging: A Typical Drain for a Gaming Laptop
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-pro-7i-16-gen-9-with-is-charger_53599878873_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  If you've used a gaming laptop, you know they aren't the best for battery life simply because they require more power to operate. (This is especially true if you're running effects on the RGB keyboard and keep the brightness set high, like I did.) Still, the Legion Pro 7i Gen 9 has the largest battery a gaming laptop can have (99.99Whr), so it felt a bit better than some other models, with a drain of about 0.43% per minute (25% per hour) with moderate use.During gaming, it drained faster. My average rate was 1.1% per minute (66% per hour). I found its drain rate comparable to my own Legion laptop, the Legion Pro 5i Gen 8, with a slightly longer usage time before I needed to plug in.
 
  While I _did_ have to plug the Legion in pretty frequently, it also charged fairly fast to compensate. On average, I saw a gain of 1.94% per minute, which means it charged fully in less than an hour. The 330W battery delivers, as does the Super Rapid Charge compatibility, so even if I only had a few minutes to plug in, I was able to keep using the Legion. Since the battery is _so_ large, it, along with the bulky gaming laptop, was a bit of a bear to tote around with me. Hefting around an unwieldy Legion was a lot, and I can't imagine bringing it with me, say, to an airport. It's doable but cumbersome. I should also note that Lenovo offers a smaller 140W AC adapter for those who prefer more portability, but this only solves part of that problem.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9 Laptop?
 
@@ -298,18 +364,26 @@ Sergio Rodriguez / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983584">
+<span id="1993652">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Lenovo Legion Pro 7i 16 Gen 9
 
 9/ 10 

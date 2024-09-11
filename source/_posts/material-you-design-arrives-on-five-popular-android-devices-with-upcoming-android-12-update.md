@@ -1,7 +1,7 @@
 ---
 title: Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update
-date: 2024-09-05T21:31:03.722Z
-updated: 2024-09-06T21:31:03.722Z
+date: 2024-09-10T11:13:29.970Z
+updated: 2024-09-11T11:13:29.970Z
 tags:
   - android
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/material-you-new-phones.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update
 
 Google is finally getting other developers on board with its [Material You](https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-itel-p55plus-drfone-by-drfone-virtual-android/) color themes. The company revealed five specific phones that would get the theming options shortly. It also annoucned a bunch of brands that'll start using it.

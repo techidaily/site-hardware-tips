@@ -1,7 +1,7 @@
 ---
 title: Effortless HomeKit Integration with the Kasa KS240 Smart Fan Controller - User Reviews
-date: 2024-09-05T21:31:01.740Z
-updated: 2024-09-06T21:31:01.740Z
+date: 2024-09-10T11:13:28.067Z
+updated: 2024-09-11T11:13:28.067Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-tp-link-kasa-ks240-smart-controller-next-to-its-app_53572324832_o.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Effortless HomeKit Integration with the Kasa KS240 Smart Fan Controller - User Reviews
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Effortless HomeKit Integration with the Kasa KS240 Smart Fan Controller - User Reviews
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * The TP-Link Kasa KS240 Smart Fan Controller/Dimmer is a versatile device for making an existing light and fan smart.
@@ -77,9 +99,43 @@ TP-Link's latest Kasa KS240 Smart Fan Control & Light Dimmer pairs seamlessly wi
 
  Yes 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Installation Is Easy Thanks to Color-Coded Wires
 
 ![The wiring labels of the TP-Link Kasa KS240 Smart Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-wiring-labels-of-the-tp-link-kasa-ks240-smart-controller_53573510379_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 
@@ -93,12 +149,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The face plate next to the TP-Link Kasa KS240 Smart Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-face-plate-next-to-the-tp-link-kasa-ks240-smart-controller_53573629015_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  After I got the switch installed and flipped the breaker on, I pulled my phone out to pair it to HomeKit. There’s a HomeKit sticker on the switch, but my iPhone 15 Pro on iOS 18 beta wasn’t able to pick it up. I later found a larger version of the sticker in the box that might have worked better, but instead, I just manually typed in the pairing code to the Home app, and it immediately locked on and started working.
@@ -109,42 +159,60 @@ Sergio Rodriguez / How-To Geek
 
 ![Slider instructions on the TP-Link Kasa KS240 Smart Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/slider-instructions-on-the-tp-link-kasa-ks240-smart-controller_53573392403_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  You can customize the default state for when the switch turns on. This can be the last “on” state, so if the switch was at 45% when you turned it off, it’ll turn back on at 45%. Or, you can set it to a custom setting, so that way it always comes on at 100%, and then you have to back it down. I left mine to be in the last "on" state.
 
 ![Fan and light icons on the TP-Link Kasa KS240 Smart Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/fan-and-light-icons-on-the-tp-link-kasa-ks240-smart-controller_53573392398_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  I really enjoyed having the option to determine what happens when power is lost and then restored. You can choose between turn on, turn off, or go to its last state. I want the switch to turn off. This means if the power comes back on in the middle of the night, the lights don’t turn back on, because it’s in my bedroom.
 
  Then, there are a bunch of other options, like sleep mode, which slowly turns your fan off over some time.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Design Is Nice, but the Touch Is a Bit Sensitive
 
 ![Close up of the sliders on the TP-Link Kasa KS240 Smart Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/close-up-of-the-sliders-on-the-tp-link-kasa-ks240-smart-controller_53573187236_o.jpg) 
@@ -161,6 +229,20 @@ Sergio Rodriguez / How-To Geek
 
  Overall, the aesthetic is nice. You can customize how the LEDs look, and the functionality is pretty good. Simply slide your finger up or down on the fan or light side to change the speed or brightness, and you’re good to go.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  A Fan and Light on a Single Switch Is Convenient For Voice Control
 
 ![The TP-Link Kasa KS240 Smart Controller main body](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-tp-link-kasa-ks240-smart-controller-main-body_53573187216_o.jpg) 
@@ -175,22 +257,10 @@ Sergio Rodriguez / How-To Geek
 
  This is my favorite part of the switch. Being able to ask Siri to control the fan has been fantastic. This is my first smart fan controller, but it won't be my last.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the TP-Link Kasa KS240 Smart Fan Controller & Light Dimmer?
 
 ![The components of the TP-Link Kasa KS240 Smart Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-components-of-the-tp-link-kasa-ks240-smart-controller_53573392338_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Having used many different brands of smart dimmer light switches, the setup of [TP-Link Kasa KS240 Smart Fan Controller & Light Dimmer](https://www.amazon.com/Kasa-Smart-Adjustable-Brightness-KS240/dp/B0CTDCQJVZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003895&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-kasa-ks240-smart-switch-review%2F&asc%5Fcampaign=Authority) was the easiest by far. The setup and functionality make this switch one that I highly recommend people get if they want to make both a light and a fan smart, and have the wiring to support it. It's a great value and functions well.
@@ -199,12 +269,20 @@ Sergio Rodriguez / How-To Geek
 
 ![TP-Link Kasa KS240 Smart Dimmer Fan Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tp-link-kasa-ks240-smart-dimmer-fan-controller.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  TP-Link Kasa KS240 Smart Fan Control & Light Dimmer

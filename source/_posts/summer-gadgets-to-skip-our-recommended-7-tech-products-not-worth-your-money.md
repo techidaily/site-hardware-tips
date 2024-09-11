@@ -1,7 +1,7 @@
 ---
 title: "Summer Gadgets to Skip: Our Recommended 7 Tech Products Not Worth Your Money"
-date: 2024-09-05T21:31:03.060Z
-updated: 2024-09-06T21:31:03.060Z
+date: 2024-09-10T11:13:29.308Z
+updated: 2024-09-11T11:13:29.308Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f904615df4dae698bbf74beb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Summer Gadgets to Skip: Our Recommended 7 Tech Products Not Worth Your Money
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Summer Gadgets to Skip: Our Recommended 7 Tech Products Not Worth Your Money
+
 ### Quick Links
 
 * [iPhone and Some Other Apple Products](https://visual-screen-recording.techidaily.com/updated-from-pixels-to-perfection-selecting-the-premier-screen-recording-software/)
@@ -47,12 +43,20 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 ![Person holding an iPhone 15 Pro Max.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53228140359_7acd288927_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
 
  A new iPhone 15 is still [at full price](https://www.amazon.com/stores/page/77D9E1F7-0337-4282-9DB6-B6B8FB2DC98D/search?ref%5F=ast%5Fbln&store%5Fref=bl%5Fast%5Fdp%5FbrandLogo%5Fsto&terms=iphone+15&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term), and it'll remain that way until the [iPhone 16](https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/) is announced and/or released. Even if the iPhone 16 has a higher price tag than the 15 at launch, the old model should still drop in price by around $50–100\. Older iPhones should follow suit as well.
@@ -61,12 +65,6 @@ Justin Duino / How-To Geek
 
 ![apple-airpods-pro-2nd-generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/apple-airpods-pro-2nd-generation.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Apple AirPods Pro (2nd Generation) 
 
 $190 $249 Save $59 
@@ -74,6 +72,20 @@ $190 $249 Save $59
 Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation release, powered by Apple's H2 processor. Delivering twice the active noise cancellation, spatial audio, and more. 
 
 [Buy on Amazon](https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0D1XD1ZV3/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) [See at Apple](https://www.apple.com/shop/product/MTJV3LL/A/airpods-pro) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fairpods-pro-2nd-generation-with-magsafe-case-usb-c%2F-%2FA-85978622) [See at Walmart](https://www.walmart.com/ip/AirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C/5689919121) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 2  Google Pixel Phone, Watch, and Buds Pro 
 
@@ -83,46 +95,56 @@ Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation
 
 ![Samsung Watch 7 Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/watch-7-product-image-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Samsung Galaxy Watch 7
 
 The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It resembles the Galaxy Watch 6 but features an enhanced Exynos W1000 chipset, promising significantly improved battery life and performance.
 
 [$300 at Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch7%2F) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004220/https://www.verizon.com/connected-smartwatches/samsung-galaxy-watch7/) [$350 at Amazon](https://amazon.com/dp/B0D1YP5ZQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) 
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Sonos Arc 
 
  When the [original Sonos Arc](https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70e-device-by-drfone-android/) dropped back in 2020, it disrupted the TV soundbar industry. This was a premium soundbar with Dolby Atmos, a sleek design, and excellent sound quality. However, it was quite expensive when it launched at $799\. What's worse is that it actually got a price bump to [$899](https://www.techradar.com/reviews/sonos-arc#:~:text=The%20Sonos%20Arc%20has%20long,which%20delivers%20high%2Dimpact%205.0.), and it's currently [$872.50](https://www.amazon.com/dp/B087CCKWWP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) for the white model or $889.99 for the black one.
 
 ![Sonos Arc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/sonos-arc.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 _Sonos_
 
  With the [second generation](https://www.techradar.com/televisions/soundbars/sonos-arc-2-set-for-2024-launch-with-next-gen-speaker-tech-and-a-serious-price-tag) apparently around the corner, it makes little sense to buy the original model at such a high price tag. It's worth noting that the 2nd-gen Arc will reportedly cost $1,200, but it'll likely have even better sound quality. If you're an audiophile, and no price is too high, the 2nd-gen Sonos Arc is worth the wait. If you want to upgrade your TV's sound quality at a reasonable price, check out our list of the [best soundbars of 2024](https://discord-videos.techidaily.com/how-to-keep-the-conversation-flowing-on-discord/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4  PlayStation 5 
 
  AMD has launched a new generation of [Zen 5 CPUs](https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-8-without-backup-by-fonelab-android-recover-pictures/), and RDNA 3.5 GPUs are coming soon as well. With this news in mind, it comes as no surprise that Sony is working hard to release the [PlayStation 5 Pro](https://www.techopedia.com/ps5-pro-release-date) before Christmas. We don't know if the PS5 Pro will use Zen 5 CPUs or the slightly older Zen 4 models, but we know that it'll be a significant performance uplift over the original PlayStation 5.
@@ -143,7 +165,35 @@ Hannah Stryker / How-To Geek
 
 ![A Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nintendo-switch-lite.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Goran Damnjanovic/How-To Geek
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 6  NVIDIA RTX-40 Series and AMD RX 7000 Series GPUs 
 
@@ -153,19 +203,21 @@ Goran Damnjanovic/How-To Geek
 
 ![MSI GeForce RTX 4070 TI Ventus 12G OC GPU in a gaming PC at CES 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52606768067_aff13d7ea2_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 7  AMD Ryzen 7000 Series and 14th Gen Intel CPUs 
 

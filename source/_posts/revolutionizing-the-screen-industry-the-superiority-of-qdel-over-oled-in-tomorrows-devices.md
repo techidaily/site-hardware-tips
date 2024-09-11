@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing the Screen Industry: The Superiority of QDEL over OLED in Tomorrow's Devices"
-date: 2024-09-05T21:30:59.577Z
-updated: 2024-09-06T21:30:59.577Z
+date: 2024-09-10T11:13:25.886Z
+updated: 2024-09-11T11:13:25.886Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c673912341c93c2d4c06d1ec.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Revolutionizing the Screen Industry: The Superiority of QDEL over OLED in Tomorrow's Devices
 
 ### Key Takeaways
@@ -25,24 +33,46 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
  At the moment, OLED is the best consumer-grade display technology on the market. But soon, this could change! Enter QDEL—a display technology that uses self-emitting quantum dots to produce an image on par or better than what’s possible with OLED.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Is QDEL, and How Does It Work?
 
  QDEL, an abbreviation for “quantum dot electroluminescent,” is also known as "QD-EL" and "nanoLED." The tech is based on self-emitting quantum dots, which differ from quantum dots seen in QD-OLED and QLED displays in that they emit their own light, thus the self-emitting part in “self-emitting quantum dots.”
 
 ![Artist's impression of quantum dots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-04.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Nanosys_
 
  As you can see below, technologies that utilize quantum dots, namely [QLED](https://extra-hints.techidaily.com/how-to-do-time-lapse-on-samsung-phones/) and [QD-OLED](https://win-answers.techidaily.com/solved-metro-exodus-pc-enhanced-edition-keeps-crashing/), use quantum dots to produce more vibrant colors than regular LCD and [OLED](https://review-topics.techidaily.com/mkv-to-sony-xperia-5-v-converter-convert-mkv-for-sony-xperia-5-v-by-aiseesoft-video-converter-play-mkv-on-android/) displays. In the case of QLED displays, which combine quantum dots with a [mini-LED](https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/) backlight layer, you also get higher contrast compared to edge-lit LCD panels. The next step is using only self-emitting quantum dots, which produce color and backlight without the need for an LCD or a blue OLED layer, nor a backlight layer, thus allowing for thinner displays with a wider color gamut.
@@ -59,24 +89,26 @@ _Nanosys_
 
 ![Lifespan of different cd-free quantum dots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [_Ishida et al./Information Display_](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1395)
 
  While the QD lifespan has improved in recent years, scaling the manufacturing of QDEL panels is yet another hurdle QDEL panel manufacturers need to overcome before the technology enters mass production.
 
 ![Patterning methods used for manufacturing of QDEL displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-02.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [_Ishida et al./Information Display_](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1395)
 
  While inkjet printing is the main method of manufacturing QDEL displays right now, its main disadvantage is not being able to produce panels that have a pixel density noticeably higher than 200ppi. Luckily, there's another method to manufacture QDEL displays—photolithography. This solves the low pixel density issue. This should ultimately result in QDEL displays being suitable for smartphones, smartwatches, and VR headsets.
@@ -84,6 +116,20 @@ _Nanosys_
 ![Different manufacturing methods of QDEL displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-03.png) 
 
 [_Ishida et al./Information Display_](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1395)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How Is QDEL Better Than OLED?
 
@@ -93,18 +139,20 @@ _Nanosys_
 
  Because QDEL panels use fewer layers, we should also expect wider color gamuts in mass-produced QDEL displays compared to what regular OLED screens are capable of. For example, TCL’s prototype display covers more than 85% of the Rec. 2020 image space, while OLEDs [can reproduce](https://avantama.com/comparing-color-gamut-qd-and-oled-displays/#:~:text=Rec.2020%20Coverage%20with%20QD%20and%20OLED%20Displays&text=Perovskite%20Quantum%20Dots-,Rec.,technologies%20and%20content%20producers%20alike.) up to about 75% of Rec. 2020\. The best QD-OLED TVs, though, such as the Samsung S95C, [cover nearly 90%](https://www.digitec.ch/en/page/a-qd-oled-miracle-testing-samsungs-best-tv-ever-28920) of the Rec. 2020 color space.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  When Can You Expect QDEL TVs and Monitors?
 
  In early 2023, Nanosys, the company behind the quantum dots used by Samsung and others in their QLED and QD-OLED panels, [mentioned 2025 or 2026](https://www.hdtvtest.co.uk/n/Nanosys-shows-off-next-generation-NanoLED-display-tech) as tentative dates for the beginning of mass production of its QDEL panels. [In a statement](https://arstechnica.com/gadgets/2024/04/meet-qdel-the-backlight-less-display-tech-that-could-replace-oled-in-premium-tvs/) to Ars Technica from April 2024, a Nanosys representative reiterated 2026 as the commercial readiness date for QDEL panels.

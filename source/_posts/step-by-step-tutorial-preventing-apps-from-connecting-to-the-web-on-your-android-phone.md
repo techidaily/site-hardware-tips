@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone"
-date: 2024-09-05T21:31:03.922Z
-updated: 2024-09-06T21:31:03.922Z
+date: 2024-09-10T11:13:30.339Z
+updated: 2024-09-11T11:13:30.339Z
 tags:
   - android
 categories:
@@ -9,14 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a1cf9aa58c2806ddb93b59d9.jpg
 ---
 
-## Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone
+
 ### Quick Links
 
 * [Why Should You Restrict Internet Access for Specific Apps](https://screen-video-capture.techidaily.com/new-5-easy-ways-to-record-youtube-videos-for-2024/)
@@ -24,12 +32,20 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 * [How to Create a Network Firewall on Android](https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Some Pro Tips](https://instagram-video-files.techidaily.com/2024-approved-showcasing-self-with-instagram-a-collection-of-100-captions/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Block internet access for apps collecting data or spamming to protect your privacy.
@@ -37,6 +53,20 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 * NetGuard offers features like lockdown mode, system app blocking, and fine-tuned customization for effective firewall setup.
 
  It may not seem like it these days, but not every app _needs_ internet access to work. Malicious apps can mine your device for data or spam you with ads. Happily, there’s an easy fix for these troublemakers—just block their internet access. Here’s how you can do that.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Why Should You Restrict Internet Access for Specific Apps
 
@@ -56,28 +86,24 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 
 ![NetGuard active session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/01-main.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 NetGuard
 
 ![NetGuard active notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/08-notifications.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 NetGuard
 
 Close 
@@ -86,12 +112,26 @@ Close
 
  The app itself uses very little memory and battery. But you’ll notice that it has a big data usage footprint. That’s because Android mistakes the traffic routed through NetGuard as the app’s usage.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How to Create a Network Firewall on Android
 
  To set up the NetGuard firewall, first [download NetGaurd from the Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003419/https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en%5FUS). Accept the privacy policy after installing to continue. NetGuard has a pretty simple UI. The toggle on the top corner is the master switch for enabling and disabling the firewall.
@@ -100,31 +140,27 @@ Close
 
 ![Open button for NetGuard on the Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-20-10-660_com-android-vending.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NetGuard terms of condition dialog.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-12-52-08-442_eu-faircode-netguard.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Next to the master switch, you’ll find a list of all your apps. Each app has Wi-Fi and data icons next to it. Tapping one or both of these icons will turn them orange. A teal icon means the app has internet access; orange means it’s blocked. That’s how you can selectively allow or block access for any app or combination of apps.
 
 ![Activating NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-22-56-683_eu-faircode-netguard.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 
@@ -132,30 +168,26 @@ Close
 
 ![NetGuard individual app options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-06-11-103_eu-faircode-netguard.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  You can skip this step if you don’t want to use the lockdown feature. To exclude an app from lockdown mode, enable “Allow in lockdown mode” under the Conditions section. You can trigger lockdown by tapping the three-dot menu and enabling “Lockdown Traffic.” The red lock icon next to an app shows that it’s currently locked down. You can exclude as many apps as you want.
 
 ![Enabling lockdown mode for an app in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-10-16-135_eu-faircode-netguard.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Close 
 
  With the apps correctly configured, we’re ready to use the NetGuard service. Simply toggle the master switch to activate NetGuard. You might see a pop-up asking you to disable battery optimization for NetGuard. It’s a good idea to run NetGuard without interference from Android’s [battery saver mode](https://vp-tips.techidaily.com/updated-2024-approved-make-your-images-pop-with-backdrop-removal-techniques-in-canva/). Just tap “OK” and select “All Apps” from the drop-down menu. Locate NetGuard on the list and tap it. Finally, select “Don’t Optimize” and tap “Done.”
@@ -172,12 +204,20 @@ Close
 
  NetGuard should be up and running once you’ve toggled the master switch.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Some Pro Tips
 
  Instead of blocking apps one by one, you can use the Blacklist and Whitelist features in NetGuard. Tap the three-dot menu and open Settings. Here, tap “Defaults” and enable “Block Wi-Fi,” “Block Mobile,” or both to apply the blocking to all apps. You can just block all apps from using the internet in the background. Tap “Apply when screen on rules” to whitelist apps while the screen is on. You also get separate controls for Wi-Fi and mobile data that apply globally.
@@ -186,23 +226,87 @@ Close
 
 ![Selecting the default settings on NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-34-513_eu-faircode-netguard-copy.jpg) 
 
-![Toggling global Wi-Fi and data blocking on NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-55-59-467_eu-faircode-netguard.jpg) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![Toggling global Wi-Fi and data blocking on NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-13-55-59-467_eu-faircode-netguard.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Close 
 
  What makes NetGuard truly powerful is that it can also block system apps. Open Settings, tap “Advanced Options,” and enable “Manage System Apps.” After that, every single system app will show up in the list, alongside user apps. Working with system apps might accidentally break some functionality if you’re not careful. Be sure you’ve figured out exactly what an app does and how to block its network access before proceeding.
 
 ![Opening the settings in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-12-58-39-972_eu-faircode-netguard-copy-1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Opening advanced settings in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-34-513_eu-faircode-netguard.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Enabling system apps in NetGuard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-05-30-14-00-31-282_eu-faircode-netguard.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Close 
 
@@ -212,28 +316,30 @@ Close
 
 ![Exporting NetGuard settings to an XML file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-18-570_eu-faircode-netguard-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saving the NetGuard settings file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-24-395_com-google-android-documentsui.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Importing NetGuard settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-18-570_eu-faircode-netguard-2.jpg) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![Importing NetGuard settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-18-570_eu-faircode-netguard-2.jpg) 
+
 ![Imported NetGuard settings from a saved file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-03-01-42-34-265_com-google-android-documentsui.jpg) 
 
 Close 

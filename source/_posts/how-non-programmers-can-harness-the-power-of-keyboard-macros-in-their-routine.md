@@ -1,7 +1,7 @@
 ---
 title: How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine
-date: 2024-09-05T21:30:58.568Z
-updated: 2024-09-06T21:30:58.568Z
+date: 2024-09-10T11:13:24.851Z
+updated: 2024-09-11T11:13:24.851Z
 tags:
   - hardware
 categories:
@@ -9,28 +9,24 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53678655809_0a032a3e9f_o.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine
 
 Macros are essential to any efficient office setup. You don’t have to have a programming degree in order to create useful macros that can save you time throughout your workweek. Not sure where to get started with macros? Well, let me tell you about a few of my favorite shortcuts.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copy and Paste Macros Get Daily Usage
 
 ![Bazcore-Copy-Paste-Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bazcore-copy-paste-macro.jpg) 
@@ -41,37 +37,67 @@ Macros are essential to any efficient office setup. You don’t have to have a p
 
  I use a pretty premium keyboard that has several keys where others only have one, but it’ll work just the same on any keyboard capable of using macros. I simply have one of the buttons below the left spacebar on my [Dygma Raise](https://dygma.com/pages/dygma-raise-2) programmed to copy, and then one on the right set to paste. I simply have to click a single button and my computer copies what's highlighted or pastes whatever is on the clipboard. This ties well into the next macro too, as it will paste more than just text. Whatever is in your clipboard will be inserted into the receiving program, just like if you were hitting Ctrl+V or Command+V.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Screenshots With a Single Keystroke
 
 ![Bazcore-Overview-Dygma-Raise-Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bazcore-overview-dygma-raise-keyboard.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Screenshots used to not be the easiest thing to do on Windows, as you only had the Print Screen function and then would have to dive into Paint or another program to crop it. Well, with [Windows 10 and 11](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/), you have the keyboard shortcut Windows+Shift+S to capture a portion of your screen and copy it to the clipboard. That’s a pretty complicated shortcut to memorize, and requires contorting your fingers in weird ways to hit it properly. While possible, it’s easier to just remember a single keyboard shortcut, and that’s where this macro comes into play.
 
  To the right of my copy macro key on my keyboard, I have a macro that takes a screenshot. It simply mimics me hitting Windows+Shift+S and drops me into the screenshot tool. From there, I use my mouse (which sits between my two keyboard halves like all mice should) and drag it across the portion of my screen that I want to capture. Now, that’s in my clipboard and ready for me to use the paste macro to insert into a program!
 
  macOS users can benefit from the same thing, though [on macOS it’s a different shortcut](https://vimeo-videos.techidaily.com/2024-approved-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/) you’ll be programming into the macro. You’ll want to use the Shift+Command+4 shortcut inside the macro to capture a portion of the screen and copy it to your clipboard. However, with macOS, once you’re into the screenshot tool, you can click the spacebar to switch between capturing the entire window you’re hovering over or just a portion of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Exporting from Photoshop Made Easy
 
 ![Photoshop Save For Web Macro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/photoshop-save-for-web-macro-1.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  While I don’t use this macro much anymore (as my Photoshop usage over the past year has gone way down), there was a time that this saved me a _lot_ of time. [In Photoshop](https://video-screen-grab.techidaily.com/in-depth-look-apowersofts-pc-screenshare-technology-for-2024/), if you want to “Save for web”, the keyboard shortcut is Alt+Shift+Ctrl+S. That’s a _lot_ to remember, and it used to have me contorting my hand in a very weird way in order to hit it. Then, once you’re at that popup, you have to hit enter in order to actually save. I know there are other methods to save in Photoshop, but because of what I used to do, this was the best way to export for me.
 
@@ -87,15 +113,37 @@ Macros are essential to any efficient office setup. You don’t have to have a p
 
 ![Short-Menu-Shortening-Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/short-menu-shortening-shortcut.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you’re constantly shortening (or even affiliating) links on macOS, then this piece of software and macro are exactly what you should be leveraging. Using a piece of software called [Short Menu](https://shortmenu.com/mac/), you can program a keyboard shortcut that will shorten any URL you have in your clipboard.
 
  I used this often when I did deals writing, and had the keyboard shortcut programmed as a macro right next to my copy function. So, when I needed to affiliate or shorten a URL, I would start by using my copy macro, then click the button next to that to shorten or affiliate the URL, then click the next button to paste. I took something that would normally take about 6–10 keystrokes and shortened it to 3\. That doesn’t sound like a massive change, but it makes an astronomical difference in your daily workflow for sure.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  What Can You Macro?
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Simple Swipes: Why Pattern Locks No Longer Offer Adequate Protection for Android Phones"
-date: 2024-09-05T21:31:04.104Z
-updated: 2024-09-06T21:31:04.104Z
+date: 2024-09-10T11:13:30.767Z
+updated: 2024-09-11T11:13:30.767Z
 tags:
   - android
 categories:
@@ -9,13 +9,21 @@ categories:
 thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446ee8e6c9838cd48c592632a7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beyond Simple Swipes: Why Pattern Locks No Longer Offer Adequate Protection for Android Phones
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -25,6 +33,26 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 * [Other People Can Easily Spy on Your Pattern](https://some-skills.techidaily.com/updated-the-photomontage-effect-visual-synthesis-techniques/)
 * [There Are Better Alternatives to Pattern Locks](https://facebook-videos.techidaily.com/updated-2024-approved-reviving-your-facebook-viewing-experience-see-the-suggested-vids-again/)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Most people use easily guessed common shapes or letters in their pattern locks.
@@ -33,54 +61,46 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  You wake up and grab your phone off the nightstand, eyes still bleary from sleep. As the pattern lock screen pops up, you mindlessly draw your familiar pattern without thought. It's quick, easy, and lets you get right to scrolling through notifications. But how secure is that pattern keeping prying eyes out?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Most People Use Common Shapes or Letters
 
  Let’s face it: we’re creatures of habit. When setting up a pattern lock, we naturally gravitate towards what’s familiar. It’s a no-brainer to connect the dots to form letters like b, C, d, D, e, g, G, L, M, N, O, P, R, S, U, W, and Z, or numbers like 2, 5, 6, 7, and 9\. Even shapes like a square or a triangle seem like good choices. They’re easy to remember, and let’s be honest, who wants to spend time recalling a complex pattern just to check a notification?
 
 ![Android Lock Screen patterns.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/android-lock-screen.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Oluwademilade Afolabi / How-To Geek
 
  However, the problem is, if it's easy for you, it's easy for someone else to guess, too. Especially if others know you well enough to predict you'd choose letters from your name or your birthday number. Moreover, according to a study reported by [Arstechnica](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/), most people tend to create patterns starting from the top-left corner and moving from left to right or top to bottom. This makes guessing even easier.
 
  So, if your pattern lock is similar to the ones in the image above, it might be time for a change. If your phone ever falls into the wrong hands, those are the patterns they’ll likely try first. So, how about switching things up a bit? Opt for something a tad more complex—think overlaps, slashes, or movements that double back over areas you’ve already traced. It doesn’t have to be a brain teaser, but the more unique and intricate it is, the better your odds of keeping your pattern lock a secret. Just a little food for thought for the next time you’re setting up a pattern lock.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Smudges on Your Screen Can Reveal Your Pattern Lock
 
  Every time you swipe your finger across the screen to unlock your phone, you leave behind a trail of oily residue or “smudges.” Normally, they’re just a nuisance that makes your screen look dirty. But in the wrong hands, these smudges can reveal your unlock pattern.
@@ -89,12 +109,20 @@ Oluwademilade Afolabi / How-To Geek
 
 [According to a study](https://www.usenix.org/legacy/events/woot10/tech/full%5Fpapers/Aviv.pdf) \[PDF\] by researchers from the University of Pennsylvania, a smudge attack can successfully identify lock patterns in 68% of cases under ideal conditions. The study also found that more complex patterns with more turns and hooks actually left greater contrast and were sometimes easier to recognize than simpler patterns in smudge photographs, which is quite surprising.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  There Are Far Fewer Pattern Combinations
 
  You can start your pattern from any of the nine dots in the 3x3 grid—which is the typical size. But once you’ve chosen your starting point, your options for the next point become limited. You can’t repeat a dot, and some dots can’t be reached unless you’ve passed through others first.
@@ -103,12 +131,6 @@ Oluwademilade Afolabi / How-To Geek
 
  The relatively small pattern space means an attacker could use software to check all possible patterns to unlock your phone systematically. That can be done with PINs and passwords, too, but it's not as easy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Other People Can Easily Spy on Your Pattern
 
  Imagine you’re in a public place, casually unlocking your phone. Little do you know, there’s someone nearby stealing a glance at your screen. With a quick look over your shoulder, they can observe and memorize the pattern you drew. This sneaky tactic is known as a “shoulder-surfing attack” (but is it really an attack?!).
@@ -116,6 +138,20 @@ Oluwademilade Afolabi / How-To Geek
  The beauty and curse of pattern locks lie in their simplicity and visual nature. They’re easy to remember, even from a distance or with just a fleeting look. So, anyone who can catch a glimpse of your screen when you unlock your phone could potentially learn your pattern.
 
  But don’t worry; there’s a simple trick to make you less vulnerable to this issue in public areas. Just use your device at an angle that shields your screen from prying eyes.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  There Are Better Alternatives to Pattern Locks
 

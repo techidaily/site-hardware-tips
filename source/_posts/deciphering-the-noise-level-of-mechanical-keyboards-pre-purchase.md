@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase
-date: 2024-09-05T21:30:59.298Z
-updated: 2024-09-06T21:30:59.298Z
+date: 2024-09-10T11:13:25.603Z
+updated: 2024-09-11T11:13:25.603Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,36 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-mechanical-keyboard-with-a-graph-above-measuring-the-keyboard-s-loud.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Mechanical keyboards generally come with keycaps made of ABS or PBT, with PBT typically being the quieter option.
@@ -31,42 +47,66 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Many people strongly prefer mechanical keyboards for the distinct typing feel they provide. Their trademark clicking and clacking can be a dealbreaker, though, if you are shopping for a new keyboard to use in a shared space. Luckily, there are ways to get an idea of how noisy a mechanical keyboard will be before you buy.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Check the Keycap Material
 
  Mechanical keyboards generally feature keycaps made of either Acrylonitrile Butadiene Styrene (ABS) or Polybutylene Terephthalate (PBT). Checking the keycap material is one of the first things to do when comparing keyboard options as it impacts durability, price, and even typing volume.
 
 ![A close up of the keys on the Kensington QuietType Pro Silent Wireless Mechanical Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52942186127_50ef51c54e_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  Keycaps made of ABS are more affordable but less durable. ABS is also a relatively soft material, resulting in a high-pitched sound when the cap hits the frame of your keyboard when typing. Some options, like the [Kensington MK7500F QuietType Pro Silent](https://www.amazon.com/Kensington-MK7500F-Silent-Mechanical-Keyboard/dp/B0BZNRNXWC/ref=sr%5F1%5F3?crid=2OTAVMJX5QUY2&dib=eyJ2IjoiMSJ9.ETYKibaveJ%5FrZZsFH-6LwvbN4yBgaCPfkeopHGYhx571EN8fup7GBabFW4YM5tDwfVNKr034RngavitE-pkwxSI%5FC%5Fjj7MjE3C1xZp1d1NY.DBD6rzg%5Flq7BrUzA4gguq22wF6bNnCJTrLEAB5uIx5o&dib%5Ftag=se&keywords=quiettype+pro+silent+keyboard&qid=1720622031&sprefix=quiettype+pro+silent+keyboard%2Caps%2C89&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004053&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-can-you-tell-how-loud-a-mechanical-keyboard-will-be-before-you-buy-it%2F&asc%5Fcampaign=Evergreen) keyboard, feature dampening pads to reduce the sound created by their ABS keys.
 
  By comparison, PBT is a dense and durable keycap material. The density of a PBT keycap results in a deeper sound with less rattle when typing, making it preferable for those who find high-pitched typing to be grating. It is worth noting that [replacing keycaps](https://vp-tips.techidaily.com/new-2024-approved-caption-crafting-select-writing-apps-for-your-photos/) is a fairly simple process.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Choose the Right Keycap Profile
 
  The profile, or overall shape and height, of a keyboard's keycaps can also greatly affect the sound produced when typing. This is largely because the amount of force and effort a person exerts on the keys while typing is likely to change based on the keycap profile.
@@ -89,12 +129,26 @@ Hannah Stryker / How-To Geek
 
 ![A man pulling a switch from the Vissles V84 Mechanical Keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/3ff2bf8a.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Danny Chadwick / Review Geek
 
  There are three main switch types, with each one affecting the sound of your typing in different ways:

@@ -1,7 +1,7 @@
 ---
 title: Dynamic Lighting Features Now Available on Asus Motherboards with Windows 11
-date: 2024-09-05T21:30:57.827Z
-updated: 2024-09-06T21:30:57.827Z
+date: 2024-09-10T11:13:24.134Z
+updated: 2024-09-11T11:13:24.134Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_1916803091.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Dynamic Lighting Features Now Available on Asus Motherboards with Windows 11
 
 One huge problem with RGB lighting is that it's not standardized at all. ARGB has tried to address that problem, but it can still get tricky to have RGB all synced up for certain peripherals and hardware due to the need to download third-party software. Windows Dynamic Lighting wants to fix that, and now, ASUS is adding support for that on its motherboards.

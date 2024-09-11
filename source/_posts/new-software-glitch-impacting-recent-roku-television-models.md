@@ -1,7 +1,7 @@
 ---
 title: New Software Glitch Impacting Recent Roku Television Models
-date: 2024-09-05T21:31:01.138Z
-updated: 2024-09-06T21:31:01.138Z
+date: 2024-09-10T11:13:27.448Z
+updated: 2024-09-11T11:13:27.448Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/roku-plus-series-tv.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## New Software Glitch Impacting Recent Roku Television Models
 
 Motion smoothing is a controversal feature on TVs, as it generally makes shows and movies look worse and change how they were intended to be watched. It's usually a setting you can turn on or off, but some Roku TV owners are reporting that the feature was turned back on for them automatically, and Roku is still trying to figure out why.

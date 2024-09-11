@@ -1,7 +1,7 @@
 ---
 title: "The NZXT Function Nv Capsule TKL In-Depth Review: Approaching the Ultimate Gamepad"
-date: 2024-09-05T21:30:58.821Z
-updated: 2024-09-06T21:30:58.821Z
+date: 2024-09-10T11:13:25.106Z
+updated: 2024-09-11T11:13:25.106Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca8c86ab396fe09af56299ebf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The NZXT Function Nv Capsule TKL In-Depth Review: Approaching the Ultimate Gamepad
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * NZXT Function 2 MiniTKL features hot-swappable optical linear switches & per-key RGB backlighting.
@@ -105,12 +87,6 @@ Expand
 
 [$107 at Amazon](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002778&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-function-2-minitkl-review%2F&asc%5Fcampaign=Authority) [$129.99 at nzxt](https://nzxt.com/product/function-2-minitkl) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hot-Swappable Switches…Kinda
 
 ![The Function 2 MiniTKL with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-with-keycaps-removedjpg_53488291767_o.jpg) 
@@ -121,9 +97,43 @@ Jerome Thomas / How-To Geek
 
  NZXT said that they’re using the bottom portion that’s used by Gateron switches, but can’t guarantee that Gateron switches will work if inserted. Officially, the NZXT Function 2 keyboard only supports the brand’s own switches that are included in the box, which is a bit of a letdown. While the optical linear switches are good, I would have liked to, at some point, swap them out for something a little more clicky, mechanical, and tactile, like a Kailh Copper or MX Brown.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  The Switches Do Feel Good, Which Is Nice Since You Can’t Really Change Them
 
 ![The Function 2 MiniTKL plugged in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-plugged-injpg_53489604800_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
@@ -133,36 +143,46 @@ Jerome Thomas / How-To Geek
 
  In practice, the actuation force is not something that I personally use a lot, but it’s nice to have. Depending on the games you play, it’s nice to be able to make certain keys easier to press and others slightly more difficult without having to physically change out the switches.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Build Quality Is Great, Offering Solid Acoustics
 
 ![Bottom of the Function 2 MiniTKL showing the rubber feet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/bottom-of-the-function-2-minitkl-showing-the-rubber-feetjpg_53489340643_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
  NZXT went the extra mile when it comes to acoustics with the Function 2 MiniTKL. The top frame plate is made from 3mm aluminum, and you’ll find dual-layer sound-dampening foam and tape on the PCB to ensure that there’s no unwanted pinging noise. In practice, this works great. The keyboard sounded fantastic when typing, and there was no pinging or hollowness to the keystrokes at all. Plus, the aluminum gives it a nice heft without adding tons of weight and making it super heavy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Extra Keys Are Laid Out Weird
 
 ![The volume wheel, mute, windows lock and backlight buttons on the Function 2 MiniTKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-volume-wheel-mute-windows-lock-and-backlight-buttons-on-the-function-2-minitkljpg_53489492524_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT wanted to pack all it could into the 65% layout. It did a great job at that, with all but three keys. There’s a weird, and not all-that-useful custom NZXT key above the arrows, which, by default, doesn’t do anything when pressed, making it feel a little out of place to me. Meanwhile, keys that you would actually want to have quick access to, like volume and Windows lock, have been moved off to the left side of the keyboard—not to a key, but to a button on the side.
@@ -171,37 +191,61 @@ Jerome Thomas / How-To Geek
 
  Along that same left side you’ll also find a volume wheel, which works great and isn’t out of place at all on the side. Meanwhile, the other media keys, like play and pause, seek, and reverse, are located on the print screen, scroll lock, and pause keys at the top right of the keyboard and require a function press to activate. Ideally, I would have liked to have seen mute be activated by pressing the volume scroll wheel and have had media keys on the left side, with the Windows lock and brightness buttons under function keys somewhere else on the keyboard.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  NZXT CAM Gives You All the Customization One Could Want
 
 ![The Function 2 MiniTKL without the backlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-without-the-backlightjpg_53489191606_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT CAM is your hub for all things NZXT when it comes to customization. It works great. You can use CAM to change the per-key lighting of the Function 2 MiniTKL, as well as reprogram what keys do what, and change the actuation of the keyboard. CAM is where you’ll really dial in the settings to your heart’s content.
 
  In addition to the standard stuff, like RGB and key remapping, you’ll also find macro programming within CAM. This will allow you to complete complex functions with a single keystroke, which can save you lots of time when doing repetitive tasks. Plus, CAM allows you to program up to four different profiles on the keyboard, each of which can be accessed on-device by holding the function key and clicking F1-F4.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the NZXT Function 2 MiniTKL Keyboard?
 
 ![NZXT Function 2 MINITKL keyboard in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/nzxt-function-2-minitkl-keyboard-in-front-of-boxjpg_53489190826_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
@@ -212,6 +256,20 @@ Jerome Thomas / How-To Geek
  While I absolutely want to love the keyboard, and do in many respects, the side-mounted keys here seal the deal for me. There were several times when I couldn’t use my Windows key only to realize I had inadvertently locked it out by accidentally clicking the button. That got old, real quick. At the end of the day, if NZXT put the secondary keys somewhere else, this would easily be my new favorite gaming keyboard, as I can get over not being able to change the switches. But the side button placement gets me every time.
 
 ![NZXT Function 2 MiniTKL Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-function-2-minitkl-keyboard.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  NZXT Function 2 MiniTKL Keyboard
 

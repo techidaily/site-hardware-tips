@@ -1,13 +1,27 @@
 ---
 title: Is Investing in a Dedicated Graphics Card on Your Next Laptop Worth It?
-date: 2024-09-05T21:31:01.074Z
-updated: 2024-09-06T21:31:01.074Z
+date: 2024-09-10T11:13:27.384Z
+updated: 2024-09-11T11:13:27.384Z
 tags:
   - hardware
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-gaming-laptop-with-a-no-buy-icon.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Is Investing in a Dedicated Graphics Card on Your Next Laptop Worth It?
 
@@ -19,71 +33,117 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One of the biggest decisions you need to make when buying a new laptop is whether your GPU should be "integrated" or "dedicated." This has a major knock-on effect for the entire computer, so let's get to the bottom of what makes a dGPU essential or superfluous.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What’s a Dedicated GPU?
 
  Just like a standalone graphics card in a desktop PC, a dedicated GPU in a laptop stands on its own two feet. It has its own separate processor package, its own memory, and its own cooling system. It's a completely separate component from the CPU.
 
 ![Close up of a Gigabyte gaming laptop's RGB keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52616157863_0f198149c7_k-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  That's as opposed to [an "integrated" GPU](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/) which sits in the same processor package as the CPU, and shares the same pool of memory.
 
  As a rule, dedicated GPUs in laptops offer much more performance than integrated GPUs. Which is why you'll find them in laptops aimed at gamers, creative professionals, or serious scientific and engineering workloads.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Do I Need High-End Graphics?
 
  Performance is the main reason to opt for a dedicated GPU in a laptop. If you need to run applications that require a powerful GPU, then a dedicated GPU is invariably the way to go.
 
 ![Cyberpunk Motorcycle photo mode shot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cyberpunk-motorcycle-photo-mode-shot.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- A more complicated question is whether you need high-end graphics while on the go. If you only need those high-end graphics when you're plugged in at a desk, then consider an [eGPU](https://hardware-help.techidaily.com/freshly-updated-guide-to-installing-new-drivers-on-dell-latitude-e6430-running-windows-issue-resolved/). This let's you access a powerful dedicated GPU when you need one, without the drawbacks. That does mean you need to buy a laptop that supports eGPUs, but thankfully these days they aren't rare.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ A more complicated question is whether you need high-end graphics while on the go. If you only need those high-end graphics when you're plugged in at a desk, then consider an [eGPU](https://hardware-help.techidaily.com/freshly-updated-guide-to-installing-new-drivers-on-dell-latitude-e6430-running-windows-issue-resolved/). This let's you access a powerful dedicated GPU when you need one, without the drawbacks. That does mean you need to buy a laptop that supports eGPUs, but thankfully these days they aren't rare.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  How Much Does Battery Life Matter?
 
  Dedicated GPUs tend to draw quite a bit of power, and if you want a laptop with some stamina, they might not be the best choice. That being said, many laptops offer both integrated and dedicated GPUs in the same system. For example, laptops that support NVIDIA Optimus will switch between the two GPUs dynamically based on what apps you're using and whether you're on battery power or not.
 
  Regardless, laptops without dedicated GPUs generally have better battery endurance numbers, though you should always make this decision based on the battery benchmark performance of individual laptops that you are considering.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Do I Want a Thin and Light Laptop?
 
 ![A MacBook Pro on a table, open and powered on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53527334623_dda9a713d5_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 

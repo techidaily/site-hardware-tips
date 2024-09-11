@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Examination of the Kobo Libra - Exceptional Digital Book Device, Regardless of Color Viewing Experience
-date: 2024-09-05T21:30:58.285Z
-updated: 2024-09-06T21:30:58.285Z
+date: 2024-09-10T11:13:24.563Z
+updated: 2024-09-11T11:13:24.563Z
 tags:
   - hardware
 categories:
@@ -23,18 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Kobo Libra Colour
 
 7/ 10 
@@ -55,6 +43,20 @@ The Kobo Libra Colour shines as a color eReader with its easy-to-use interface, 
 [$220 at Amazon](https://www.amazon.com/Kobo-Glare-Free-KaleidoTM-Audiobooks-Waterproof/dp/B0CZXX465Z?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004032&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frakuten-kobo-libra-colour-review%2F&asc%5Fcampaign=Authority) [$220 at Kobo](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=37217&murl=https%3A%2F%2Fus.kobobooks.com%2Fcollections%2Fereaders%2Fproducts%2Fkobo-libra-colour&u1=htglibracolourreview) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Price and Availability
 
@@ -116,6 +118,20 @@ Expand
 
 ![Top view of the Kobo Libra Colour with a novel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/top-view-of-the-kobo-libra-colour-with-a-novel.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  People dedicated to reading daily shouldn’t blink an eye at the Kobo Libra Colour’s $220 price tag. It has the same ethos as the [Libra 2](https://common-error.techidaily.com/get-rid-of-the-google-chrome-critical-error-scam-a-comprehensive-guide/) eReader which I loved. Its color screen really does make it more enjoyable to browse books and makes it possible to take notes.
@@ -128,12 +144,6 @@ Tyler Hayes / How-To Geek
 
 ![Kobo Libra Colour showing a color book cover](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/kobo-libra-colour-showing-a-color-book-cover.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Instead of going tall and narrow, the Libra Colour goes wider. One side of the device extends out for one-handed holding and two physical buttons. I find this design extremely comfortable and versatile.
@@ -144,21 +154,37 @@ Tyler Hayes / How-To Geek
 
  Unlike the Libra 2, I didn’t notice any creaking with the back plastic piece on the Libra Colour. It’s hard to tell if that was a manufacturing issue or a random one-off annoyance, but I’m happy to report there was no squeaking under my fingers while holding the eReader.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Do You Need Color E Ink?
 
 ![Side view of a book cover on the Kobo Libra Colour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/side-view-of-a-book-cover-on-the-kobo-libra-colour.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tyler Hayes / How-To Geek
 
@@ -170,12 +196,20 @@ Tyler Hayes / How-To Geek
 
 ![Kobo Libra Colour with a stylus on top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/kobo-libra-colour-with-a-stylus-on-top.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  Unfortunately, I never did find myself wanting to take notes or highlight passages. I’ve never been into that and, Personally, I wouldn’t use an eReader as my main device for taking notes. I need them in too many other places to put notes and tasks on the Libra Colour. Some book formats don't allow marking them up too, so it's not a universal capability.
@@ -184,18 +218,20 @@ Tyler Hayes / How-To Geek
 
  I liked having the color display, but its presence on this portable device is highly niche, rather than critical.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Reading Is Easy, but Getting Books Is Less So
 
  The savior of the Libra Colour is its Overdrive, Dropbox, and Google Drive integration. The availability of the Kobo store to buy ebooks is great, just like the Kindle store, but buying every single book you read gets expensive.
@@ -210,18 +246,6 @@ Close
 
  As for Google Drive, its integration is simple, easy, and quick. I wish native Google Doc files were supported though. It's easy enough to convert files within Google Drive on a computer, but it's another step.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Kindle Vs. Kobo
 
  Boox is a worthy contender in the eReader space, but for people who primarily want to load up books and sit and read them, a Kobo or Kindle device is the better bet.
@@ -234,18 +258,20 @@ Close
 
 ![top view of Kobo Libra Colour color display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/top-view-of-kobo-libra-colour-color-display.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  The [Rakuten Kobo Libra Colour](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=37217&murl=https%3A%2F%2Fus.kobobooks.com%2Fcollections%2Fereaders%2Fproducts%2Fkobo-libra-colour&u1=htglibracolourreview) is a fantastic eReader because it gets all the basics right. The physical buttons are well-placed. Its dimensions are compact, yet sizeable. It’s waterproof and has enough software features built-in to keep it useful long into the future by syncing your own content to it. It's a good device to read a novel on.
@@ -256,13 +282,27 @@ Tyler Hayes / How-To Geek
 
 ![kobo libra colour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/kobo-libra-color.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Kobo Libra Colour
 

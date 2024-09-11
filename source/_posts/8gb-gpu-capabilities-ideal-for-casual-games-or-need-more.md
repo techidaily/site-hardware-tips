@@ -1,7 +1,7 @@
 ---
 title: "8GB GPU Capabilities: Ideal for Casual Games or Need More?"
-date: 2024-09-05T21:31:00.018Z
-updated: 2024-09-06T21:31:00.018Z
+date: 2024-09-10T11:13:26.319Z
+updated: 2024-09-11T11:13:26.319Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,21 @@ categories:
 thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec3e87ce12f12836d8ba534a0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8GB GPU Capabilities: Ideal for Casual Games or Need More?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -25,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec
 
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
 
  Gamers who play less demanding indie titles, eSports multiplayer games, and older AAA games (released in 2020 and earlier) shouldn’t worry about their 8GB GPUs. I have yet to have any issues playing these types of games, even at my monitor's native 1440p ultrawide resolution (3440x1440).
@@ -41,12 +43,20 @@ thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -55,12 +65,20 @@ Cianna Garrison / How-To Geek
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Things Get Complicated With Newer AAA Games
 
  If you’re eyeing AAA games released in 2021 and later, 8GB of video memory will limit performance in some scenarios. For example, _Forza Horizon 5_, released in the second part of 2021, runs fine with textures set to extreme, even though the game hits you with a low memory warning minutes after you start driving.
@@ -68,6 +86,20 @@ Cianna Garrison / How-To Geek
  But after some time—about half an hour at 1440p ultrawide, a bit longer at 1080p—you will notice slowdowns, corrupted textures, and you might even experience a crash or two. Lowering the texture quality to ultra fixes the issue, but _Forza Horizon 5_ is far from the only game that doesn’t play nice with 8GB of VRAM.
 
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Cianna Garrison / How-To Geek
 
@@ -95,22 +127,38 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy an 8GB GPU in 2024?
 
  Unless you’re shopping for a budget graphics card you plan on using for 1080p or 1440p gaming, you should avoid 8GB GPUs in 2024\. Future AAA games can only become more demanding, and you shouldn’t limit yourself to medium texture quality unless you’re gaming on a budget.

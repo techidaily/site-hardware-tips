@@ -1,7 +1,7 @@
 ---
 title: "OnePlus 10T Unveiled: Experience Rapid Charge Speeds & New Android 12 Interface"
-date: 2024-09-05T21:31:04.547Z
-updated: 2024-09-06T21:31:04.547Z
+date: 2024-09-10T11:13:31.184Z
+updated: 2024-09-11T11:13:31.184Z
 tags:
   - android
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035d00b9c9dec8888ac005aab8.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## OnePlus 10T Unveiled: Experience Rapid Charge Speeds & New Android 12 Interface
 
 OnePlus sells some of the most popular Android phones, but some of the company's recent devices have had issues. The OnePlus 10T was revealed today, and the main upgrade this time is super-fast charging.
@@ -27,12 +35,20 @@ Related: [Auto Draft](https://www.reviewgeek.com/119052/oneplus-10-pro-review-th
 
 ![OnePlus 10T from front, back, and side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Image.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _OnePlus_
 
  125W SuperVOOC fast charging is available for models sold in North America, with faster 150W charging speed in other regions. That's a significant step up from the OnePlus 10 Pro, which offered 65W in North America and 80W in other countries. OnePlus will also sell an 80W car charger for $39, which is advertised as powering the OnePlus 10T from 1-50% in 11 minutes.
@@ -41,12 +57,26 @@ _OnePlus_
 
 ![The front of the OnePlus 10T in a person's hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/The-front-of-the-OnePlus-10T-in-a-persons-hand.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Justin Duino / How-To Geek_
 
  Another interesting design choice is the removal of the alert slider, which has been present on all flagship OnePlus phones in recent history and works much like the slider on iPhones. OnePlus says it removed the slider to make room for more battery and other components, and the company mentions it may return on future devices.

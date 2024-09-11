@@ -1,7 +1,7 @@
 ---
 title: "Essential Dimension Verification: The First Step in Assembling Your Custom PC"
-date: 2024-09-05T21:31:01.779Z
-updated: 2024-09-06T21:31:01.779Z
+date: 2024-09-10T11:13:28.107Z
+updated: 2024-09-11T11:13:28.107Z
 tags:
   - hardware
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8774f81e39bb2cfd9b5790b4.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Essential Dimension Verification: The First Step in Assembling Your Custom PC
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -21,18 +49,20 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 * [PSU Form Factor and Cables](https://blog-min.techidaily.com/how-to-sign-xlsm-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/)
 * [Radiator Size](https://tiktok-video-recordings.techidaily.com/cutting-edge-tiktok-editing-3-streamlined-methods-for-backdrop-changes-for-2024/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Check the motherboard, case, and GPU dimensions before building.
@@ -41,18 +71,6 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  When building a PC, you have to do your due diligence to make sure your hardware is compatible. However, an important aspect that even expert builders can overlook is the physical dimensions of your hardware. So, before you build your PC, here are the measurements you need to check.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Motherboard and Case Form Factor
 
  It might seem obvious, but you must ensure that your motherboard fits your case. Thankfully, this is a standardized system. Motherboards come in a [few different sizes](https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-9a-drfone-by-drfone-virtual-android/), the most common being ATX (Full ATX), mATX (MicroATX), and Mini-ITX.
@@ -75,18 +93,6 @@ Hannah Stryker / How-To Geek
 
  As for slot space, it's common for modern GPUs to take up two or even three PCI slots. If you plan on using your other PCI slots for expansion cards, your best bet will be a [PCI riser cable](https://www.amazon.com/LINKUP-Vertical-Compatible-Designed-Reverse/dp/B0CN9R8QQ4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003295&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbefore-i-build-a-pc-i-triple-check-these-measurements%2F&asc%5Fcampaign=Evergreen) that lets you install the expansion card in a different spot. Also, you should have adequate room for airflow underneath your GPU, so avoid cramming a triple-slot GPU into a tiny case.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  CPU Cooler Height and RAM Clearance
 
  Similar to GPUs, air CPU coolers are larger than ever. Consumers demand powerful [aftermarket cooling](https://some-skills.techidaily.com/2024-approved-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/) that can keep their CPU temps low to maintain their maximum boost clocks for longer. The issue is that CPU coolers have to be physically large to dissipate heat fast enough, which means they can get too wide and tall for your PC.
@@ -101,6 +107,20 @@ Hannah Stryker / How-To Geek
 
 ![Image of an air CPU cooler with two fans inside a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/rsz_1img20231201185642-3.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Ismar Hrnjicevic / How-To Geek
 
 ##  Storage Drive Bays
@@ -109,12 +129,6 @@ Ismar Hrnjicevic / How-To Geek
 
  Additionally, if you're working with a smaller case, it might only have room for one or two 2.5" drives, which can become an issue if you want to upgrade your storage down the line. So, plan ahead and either buy a larger SSD or a case that supports several 2.5" drives.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Case Fan Sizes
 
  Although [case fans are universal](https://fox-cloud.techidaily.com/2024-approved-one-stop-guide-for-mastering-srt-conversions-and-formats/), you should pay close attention to what sizes your case supports. In most cases (pun intended), you can't fit a 140mm fan on a panel designed to support only up to 120mm. Likewise, if you install smaller case fans in a place where large fans should go, you'll compromise esthetics and a bit of airflow. That's why you should first check the fan sizes that your case supports.
@@ -123,13 +137,35 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A gaming PC with Kingston memory, RGB fans, lights, MSI CPU cooler, and GeForce RTX GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52647613799_d0b8785135_k.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  PSU Form Factor and Cables
 
@@ -139,18 +175,6 @@ Justin Duino / How-To Geek
 
  PSUs generally have cable lengths listed on the spec sheet. If your case doesn't mention anything about cable lengths, it's time to bust out the tape measure and check it manually, assuming you've already bought the case or can check it in-person.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Radiator Size
 
  If you're a fan of liquid cooling, you should know that radiator sizes aren't fully standardized, but fortunately, they typically follow case fan sizes. They typically support 120mm or 140mm fans, so the most common sizes are 120mm, 140mm, 240mm, 280mm, 360mm, and 420mm. Your PC case will tell you the maximum supported radiator size in each location; they're usually mounted at the top or front of the case.

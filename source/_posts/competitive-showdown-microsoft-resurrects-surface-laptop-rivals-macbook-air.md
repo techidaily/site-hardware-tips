@@ -1,7 +1,7 @@
 ---
 title: "Competitive Showdown: Microsoft Resurrects Surface Laptop, Rivals MacBook Air"
-date: 2024-09-05T21:31:00.159Z
-updated: 2024-09-06T21:31:00.159Z
+date: 2024-09-10T11:13:26.462Z
+updated: 2024-09-11T11:13:26.462Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/a49c2f71f9d056e749c5a574cc37d025a924e06d161f32912baf28d3cb32fbc8.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Competitive Showdown: Microsoft Resurrects Surface Laptop, Rivals MacBook Air
 
 Microsoft is finally having its "Apple Silicon" moment with the new Surface Laptop. Powered by a Snapdragon X mobile processor, the Surface Laptop boasts desktop-class power with a massive 20+ hour battery life. It's effectively Microsoft's version of the M1 MacBook.
@@ -29,12 +37,20 @@ Microsoft is finally having its "Apple Silicon" moment with the new Surface Lapt
 
 ![The Microsoft Surface Laptop in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/33.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft
 
  If everything goes well, this will be remembered as a turning point for Microsoft, Windows, and PCs in general. Qualcomm's Snapdragon X processor eschews the typical x86 architecture (Intel or AMD) [in favor of ARM](https://fox-that.techidaily.com/troubleshooting-what-to-try-when-iphone-events-are-nowhere-to-be-found/), an architecture that's typically reserved for smartphones.

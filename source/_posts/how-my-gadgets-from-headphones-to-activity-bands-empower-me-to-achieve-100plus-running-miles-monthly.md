@@ -1,7 +1,7 @@
 ---
 title: How My Gadgets From Headphones to Activity Bands Empower Me to Achieve 100+ Running Miles Monthly
-date: 2024-09-05T21:31:01.876Z
-updated: 2024-09-06T21:31:01.876Z
+date: 2024-09-10T11:13:28.178Z
+updated: 2024-09-11T11:13:28.178Z
 tags:
   - hardware
 categories:
@@ -9,32 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/running-shoes-with-an-apple-watch-and-earbuds.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How My Gadgets From Headphones to Activity Bands Empower Me to Achieve 100+ Running Miles Monthly
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Headphones](https://youtube-lab.techidaily.com/iscover-the-leading-free-naming-resources-11-must-have-makers/)
@@ -43,21 +19,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  I started running seriously in 2020, but even before that, my music-playing Apple Watch and a pair of earbuds really motivated me to get outside more often. The gear you use can make a difference. Here are the products I use to run over 100 miles each month.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Headphones
 
 ![person wearing Bose Ultra Open Earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-wearing-bose-ultra-open-earbuds.JPG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tyler Hayes / How-To Geek
 
@@ -69,12 +47,20 @@ Tyler Hayes / How-To Geek
 
 ![Ray-Ban Meta Smart Glasses sitting on grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/ray-ban-meta-smart-glasses-sitting-on-grass.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  Since I run without a phone, I have no way to take photos while out running. If I’m somewhere unique, I like to use the [Meta Ray-Ban Smart Glasses](https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/) because they’re sunglasses, have a camera built-in, don’t plug my ears, and sound great. These won’t work for night running, but during the summer they merge two devices into one.
@@ -83,33 +69,89 @@ Tyler Hayes / How-To Geek
 
 ![Apple Watch Ultra 2 showing activity rings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/apple-watch-ultra-2-showing-activity-rings-2.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  I credit the Apple Watch’s run-tracking and activity rings for some of my early success. While I’m not running for the metrics, I do want to get credit for them if I’m doing physical work. The watch tracks a lot of data during my runs and then keeps it synced across my devices. The latest [Apple Watch Ultra 2](https://youtube-help.techidaily.com/new-mastering-your-youtube-pinpointing-a-specialized-audience/) has been great with its big and bright display and Action button for quick access to workouts.
 
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How To Geek
 
  In addition to the Apple Watch, I wear an [Oura smart ring](https://tech-recovery.techidaily.com/step-by-step-fix-for-coredll-absent-mistake-on-your-computer/). The watch does a great job of tracking _during_ my run, but the Oura ring is easier to wear at night to do sleep tracking. Because of that sleep tracking, it also does a better job of alerting me to if my body is ready for more or less exercise each particular day. Ideally, I wouldn’t need to wear two fitness trackers, but until one can cover it all there are enough features for each to justify wearing both.
 
  If you do wear an Apple Watch for running or other exercise, I’ve found the [Nomad Sport Band](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2002948%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fsport-band-night-watch-red) to be good at staying tight to monitor my heart rate, but also flexible and comfortable enough that I don't want to take it off. I also haven't had one be ruined by sweat yet.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Other Running-Related Gear
 
 ![Withings Body Scan in the black color option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-in-the-black-color-option.JPG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tyler Hayes / How-To Geek
 

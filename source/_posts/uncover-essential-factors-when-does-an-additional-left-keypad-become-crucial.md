@@ -1,7 +1,7 @@
 ---
 title: "Uncover Essential Factors: When Does an Additional Left Keypad Become Crucial?"
-date: 2024-09-05T21:30:59.884Z
-updated: 2024-09-06T21:30:59.884Z
+date: 2024-09-10T11:13:26.198Z
+updated: 2024-09-11T11:13:26.198Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Uncover Essential Factors: When Does an Additional Left Keypad Become Crucial?
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Uncover Essential Factors: When Does an Additional Left Keypad Become Crucial?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * The numpad's traditional right-handed location forces you to contort your body in un-ergonomic ways.
@@ -37,12 +47,20 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
  An ergonomic computer setup requires a bit of rule-breaking. You might buy a goofy trackball mouse, for example, or stand at your desk like some kind of heathen. But have you ever tried using a numpad on the left-hand side of your keyboard? It goes against all things natural, but it's one of the easiest ways to increase your comfort at a desk.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Traditional Keyboard Layout Is an Ergonomic Mess
 
 ![Numpad on the Kensington QuietType Pro Silent Wireless Mechanical Keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52943173015_77386d41d0_o.jpg) 
@@ -57,12 +75,20 @@ Hannah Stryker / How-To Geek
 
  So, I'd like to propose an alternative solution. Instead of giving up on the numpad, you should use a numpad on the left-hand side of the keyboard. This gives you the full benefit of a discreet numerical input device without the slow (and potentially debilitating) curse of poor computer posture.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Yes, a Left-Handed Numpad Is Bad in Some Situations
 
  For fear of being jumped by a gaggle of accountants, I must make a sad admission. A left-handed numpad isn't always a good idea. In fact, it can be a downright terrible idea in some professions, particularly those that involve data entry.
@@ -71,12 +97,6 @@ Hannah Stryker / How-To Geek
 
 ![NOOX USB Numpad thumbnail.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-25-at-10-41-33-am.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  NOOX USB Numpad
 
 Experience the comfort of a left-handed numpad with this extremely affordable USB numpad. It doesn't offer any flashy features and it requires a wired USB connection, hence the low price.
@@ -91,12 +111,26 @@ Experience the comfort of a left-handed numpad with this extremely affordable US
 
 ![A hand holding a standalone wireless numpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/43.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Andrew Heinzman / How-To Geek
 
  Casual computer users, gamers, and spreadsheet-averse individuals may benefit from a left-handed numpad. However, very few keyboards are built to this unique specification. The only notable exception is the [Keychron Q12](https://www.keychron.com/products/keychron-q12-qmk-custom-mechanical-keyboard), a keyboard for those with a healthy bank balance and an unrestrained, pigeon-sized brain—I only fit the latter criteria.
@@ -110,6 +144,26 @@ Andrew Heinzman / How-To Geek
  Standalone numpads come in all shapes and sizes. Some are [cheap and simple](https://www.amazon.com/Portable-Keyboard-Computer-ChromBook-Calculate/dp/B0871J67HD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002103&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnumpad-left-side-of-keyboard%2F&asc%5Fcampaign=Evergreen), while others use [mechanical switches](https://www.amazon.com/EPOMAKER-Bluetooth-Swappable-Aluminum-Programmable/dp/B0C6LYHFT5/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002103&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnumpad-left-side-of-keyboard%2F&asc%5Fcampaign=Evergreen) and have customizable knobs or buttons. You can also choose between some wired or wireless options, though I should warn that the ultra-cheap wireless numpads don't have a power switch and will devour AA batteries.
 
 ![EPOMAKER wireless numpad thumbnail.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-25-at-10-30-15-am.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  EPOMAKER EK21 VIA Wireless Number Pad
 

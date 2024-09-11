@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From 4:3 to 16:9 Screens: Impacts on Productivity & Daily Routines"
-date: 2024-09-05T21:30:58.995Z
-updated: 2024-09-06T21:30:58.995Z
+date: 2024-09-10T11:13:25.294Z
+updated: 2024-09-11T11:13:25.294Z
 tags:
   - hardware
 categories:
@@ -9,7 +9,41 @@ categories:
 thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b49411aac162c7581850732b.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Transitioning From 4:3 to 16:9 Screens: Impacts on Productivity & Daily Routines
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -19,38 +53,42 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 
  If you were born in the 90s or earlier, you might remember those big boxy computer monitors with an almost square display. Then, at some point, we gradually shifted to widescreen monitors. So, why did we make the shift, and how does it affect the way we use our personal computers?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The History of 4:3 Monitors and Shift to 16:9 Monitors
 
  In the early days, there wasn't a specific aspect ratio for computer monitors. You'd see all sorts of form factors—boxy, rectangular, and everything in between. But gradually, everyone settled on the 4:3 aspect ratio.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  The Era of the 4:3 Monitor
 
 ![An old beige PC with a CRT monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-old-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Santi S / Shutterstock.com
 
  One of the main reasons 4:3 monitors became popular during the '80s and '90s was because it was the [standard in television broadcasting](https://en.wikipedia.org/wiki/Standard-definition%5Ftelevision). That said, even on a practical level, this aspect ratio was great for most computing tasks at that time.
@@ -69,18 +107,26 @@ Santi S / Shutterstock.com
 
 ![The Razer Aether monitor light bar lighting up a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-razer-aether-monitor-light-bar-lighting-up-a-desk_53629693315_o.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  More powerful computers also meant you could run multiple apps together. A wider screen allowed for better multitasking, as you could now open and work with [multiple apps side by side](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
  Granted, this shift didn't happen overnight—but by the 2010s, widescreens were the norm. You could (and still can) find a few manufacturers making 4:3 monitors for industrial and CCTV use. However, you'd be hard-pressed to find these in somebody's home or even in an office setup.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  From 4:3 to 16:9 Monitors: How Did It Change Computing?
 
  Your monitor is the primary output device for your computer. Changing how you see information has a huge influence on how you interact with your PC.
@@ -99,18 +145,26 @@ Jerome Thomas / How-To Geek
 
  So, as you can see, considering the same monitor size, a 4:3 monitor will give you more vertical screen real estate compared to a 16:9 alternative. This has had an effect on the placement of the taskbar, user interfaces in game design, and more.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Impact on the Placement of the Taskbar
 
  The taskbar is crucial in desktop computing. It shows all your running apps and lets you pin favorites for quick access. By default, it’s always placed at the bottom—the taskbar on Windows and the Dock on MacOS. But why?
 
 ![The default Windows 11 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52881834365_511de40661_o-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Developers and designers created this convention back in the 4:3 monitor era. Since you had more vertical screen space, you could have OS elements on the top and bottom, and app windows could still show sufficient information. You also had modest horizontal space for some split-screen action.
@@ -119,12 +173,6 @@ Hannah Stryker / How-To Geek
 
 ![A Linux Terminal open on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52849124270_37375d86a3_o-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
@@ -143,12 +191,6 @@ Hannah Stryker / How-To Geek
 
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Ergonomic Considerations
 
  It might seem like I’m championing the boxy aspect ratios, but I do acknowledge their ergonomic shortcomings, especially when considering large-screen monitors. The human visual field is naturally wider than it is tall. We're built to [scan horizontally rather than vertically](https://www.researchgate.net/figure/The-FOV-of-human-eyes-is-approximately-135-vertically-and-200-horizontally%5Ffig3%5F263161973). This biological limitation makes widescreen monitors a natural and more ergonomic fit—we see more of what’s on-screen without moving our heads.
@@ -157,21 +199,49 @@ Hannah Stryker / How-To Geek
 
 ![Portrait Orientation of Samsung's Epic Odyssey Ark 55-inch Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/76f86454.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fgaming%2F55-odyssey-ark-4k-uhd-165hz-1ms-quantum-mini-led-curved-gaming-screen-ls55bg970nnxgo%2F)_
 
  Of course, this doesn’t mean wider screens are automatically better ergonomically. The goal is to keep the screen in your field of view with limited neck movement. However, wider aspect ratios are better ergonomically with larger screens and the typically close viewing distance standard with PC monitors.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Future Monitors Are Getting Even Wider
 
  I already touched on how [ultrawide monitors](https://snapchat-videos.techidaily.com/in-2024-the-perfect-method-for-saving-camera-images-on-snapchat/) are becoming more common. I also have a 34-inch 21:9 ultrawide monitor. These monitors are great for three-window workflows, but things get a bit cramped when I open four windows. This is where [_super ultrawide monitors_](https://tech-savvy.techidaily.com/behind-the-scenes-operational-dynamics-of-predictive-ai/)with 32:9 aspect ratios come into the picture. While I personally switched to a [dual monitor workflow](https://extra-information.techidaily.com/selecting-superior-free-srt-translation-apps-today/), when I need four windows open side-by-side, I can see the charm of a super ultrawide monitor.
 
 ![HP E45c G5 Super Ultrawide monitor  against an orange background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hp-e45c-g5.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 HP
 

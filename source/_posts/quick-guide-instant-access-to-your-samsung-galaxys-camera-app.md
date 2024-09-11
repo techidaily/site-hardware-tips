@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Instant Access to Your Samsung Galaxy's Camera App"
-date: 2024-09-05T21:31:03.798Z
-updated: 2024-09-06T21:31:03.798Z
+date: 2024-09-10T11:13:30.045Z
+updated: 2024-09-11T11:13:30.045Z
 tags:
   - android
 categories:
@@ -11,16 +11,44 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
 ## Quick Guide: Instant Access to Your Samsung Galaxy's Camera App
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Double Tap the Power Button](https://screen-recording.techidaily.com/in-2024-temporaryfreeze-immediate-recording-guide/)
 * [Quick Launch From the Lock Screen](https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-pro-max-by-drfone-ios/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -32,22 +60,24 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  If your child is acting cute and silly, or you have a dog lying in the sunlight looking majestic, the moment won't last for long. If you're too busy fumbling through your lock screen and pin code or searching for the camera app, you'll miss it. Luckily, thanks to Samsung's camera quick launch feature, you don't need to unlock your phone or even put an app shortcut on your home screen. Here's how to enable or use it.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Double Tap the Power Button
 
 ![Rear of the Galaxy S22 Ultra with a finger hitting the power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/galaxy-s22-rear-cameras.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Did you know you could launch the camera on a Galaxy phone in under a second by quickly double-tapping the power button? There's no swiping or unlocking the screen, either. This works from anywhere, even if the screen is off or you're watching a YouTube video. When you quickly double-press the power button, the camera will immediately launch.
@@ -56,22 +86,38 @@ Justin Duino / How-To Geek
 
 ![Screenshot_20240117_093445_Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240117_093445_settings.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![Screenshot_20240117_093455_Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240117_093455_settings.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![Screenshot_20240117_093521_Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240117_093521_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  To start, pull down the notification bar and tap the gear-shaped settings icon. In settings, you'll head to Advanced Features > Side Button > and flip the switch to enable the double-press camera feature. You can customize this to open any app you'd like, but it defaults to "Quick Launch Camera."
@@ -82,12 +128,20 @@ Close
 
 ![Man holding the Galaxy S23 with the lock screen showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/s23-in-hand.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
 
  Many of you are probably familiar with the traditional lock screen shortcut. If not, we have you covered. All Galaxy phones have a [camera shortcut located in the bottom right corner of the lock screen](https://hardware-help.techidaily.com/1722962740745-download-drivers-for-canon-mf8500c-printer-compatible-with-windows-7-81-and-10/). Use it to launch straight to the camera without unlocking the device.

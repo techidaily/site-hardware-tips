@@ -1,7 +1,7 @@
 ---
 title: "Capture Memories in High Definition: New Feature Enables Ray-Ban's Meta Glasses to Film for 3 Minutes Straight!"
-date: 2024-09-05T21:30:57.723Z
-updated: 2024-09-06T21:30:57.723Z
+date: 2024-09-10T11:13:24.027Z
+updated: 2024-09-11T11:13:24.027Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b2149d6ee352dfe8394d4845198.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Capture Memories in High Definition: New Feature Enables Ray-Ban's Meta Glasses to Film for 3 Minutes Straight!
 
 After launching in 2021, the Ray-Ban Smart Glasses quickly became the most recognizable and well-known smart glasses on the market. Still, Meta is finding new ways to improve its fresh frames, and the latest improvement is a much-needed three-minute video recording option.

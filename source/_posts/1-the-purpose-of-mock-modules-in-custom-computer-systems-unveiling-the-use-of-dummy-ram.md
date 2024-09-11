@@ -1,7 +1,7 @@
 ---
 title: "1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM"
-date: 2024-09-05T21:30:57.657Z
-updated: 2024-09-06T21:30:57.657Z
+date: 2024-09-10T11:13:23.959Z
+updated: 2024-09-11T11:13:23.959Z
 tags:
   - hardware
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 ## 1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Dummy RAM looks like real RAM but has no memory chips, it's only for esthetic purposes.
@@ -25,26 +33,56 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  For many people, a desktop PC is more than just a functional device. PC building has become a fine art in some circles, and in the pursuit of the perfect PC build, some enthusiasts have resorted to a mild kind of fakery, in the form of "dummy" RAM.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Is Dummy RAM Anyway?
 
  Dummy RAM looks like regular [RAM sticks](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/). You can plug them into your RAM slots, power them all up, and they'll light up if it's the kind with RGB lighting. However, there aren't actually any memory chips on that stick. Your computer's RAM count won't go up, and you'll enjoy no practical benefit from it at all. These dummy RAM sticks are marketed under different names, the best known likely being "[Light Enhancement Kit](https://www.corsair.com/us/en/p/pc-components-accessories/cmwlekit2/vengeance-rgb-pro-light-enhancement-kit-aca-a-black-cmwlekit2)"
 
 ![Corsair Vengeance Pro lighting enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-16-19-49.png) 
 
-Corsair
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+Corsair
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Empty RAM Slots Are Ugly
 
  As that more euphemistic name suggests, these dummy RAM sticks are all about esthetics. Most mainstream motherboards come with four memory slots, and some boards may even have six for a triple-channel setup. The thing is, most people don't actually need that much RAM, so you may not be able to fill all the slots without wasting money on memory you don't need. For example, if you only need [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/), then a 2x16GB RAM kit will do the job nicely.
@@ -53,48 +91,52 @@ Corsair
 
  In the meantime, these empty slots make the computer look unfinished, and some people consider them an eyesore. Somewhat more cynically, using dummy sticks can also be a way to make a computer look more "tricked out" with hardware than it really is.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Dummy RAM Can Still Do Stuff
 
  Although dummy RAM has no functional use from a performance standpoint, if you like [RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/), it still functions as fully-featured components of your RGB setup. You can use them as part of the decorative lighting display, and program them to enhance your lighting, just as the name promises.
 
  Apart from RGB, you could also think of them as protective placeholder, keeping dust and other gunk out of your empty RAM slots, but honestly, that's probably a stretch!
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Not Just Buy Regular RAM?
 
  I've sort of touched on this already, but there are many situations where getting the right number and combination of RAM sticks just isn't possible for your build, and if you really can't stand those open slots, then dummy RAM can be an affordable way to simply paper over the cracks. Of course, since not all RAM kits have a dummy kit version available, you'll need to plan things ahead of your build if you want to use them. Ironically, this might also influence what brand and model of RAM you get, since you'll need to stick to RAM models that have a dummy variant.
 
 ![Corsair Vengeance PRO RGB light enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/corsairram.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Corsair Vengeance RGB PRO Light Enhancement Kit
 
 This "dummy" RAM won't get you any additional memory, but pair it with a set of real Vengeance RGB Pro RAM sticks, and you'll have a complete, coordinated light show in your PC.

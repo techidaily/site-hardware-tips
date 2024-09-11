@@ -1,7 +1,7 @@
 ---
 title: "Understanding VRR: Why Your Gaming Monitor Might Flicker and How to Stop It Now!"
-date: 2024-09-05T21:30:59.904Z
-updated: 2024-09-06T21:30:59.904Z
+date: 2024-09-10T11:13:26.219Z
+updated: 2024-09-11T11:13:26.219Z
 tags:
   - hardware
 categories:
@@ -19,12 +19,20 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
  Variable refresh rate (VRR) flicker affects virtually every VA and OLED monitor, as well as some IPS and TN monitors. While the issue can be pretty frustrating, there are a number of ways to solve it. Before I share them, let me explain what causes VRR flicker.
 
+
+
+
+
 <!-- affiliate ads begin -->
 <a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
   <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
 <img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Causes VRR Flicker?
 
 [VRR](https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/) flicker occurs because of inconsistent or highly unstable [frame rate](https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-7-hd-devices-by-drfone-android/) in certain games or due to sudden frame time variations caused by issues like [shader compilation](https://some-knowledge.techidaily.com/incremental-sound-diminishment-guidebook-for-2024/) or traversal stutter—when the next area of an open world game is loaded.
@@ -43,50 +51,62 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Graphics settings tab in the NVIDIA App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-01.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you’re rocking an AMD GPU, open AMD Software, go to the “Gaming” tab, select the "Games" tab, and click the game you want to disable VRR for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Locate the “AMD FreeSync” option.
 
 ![Individual game settings listed in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Change the option from “AMD Optimized” or “On” to “Off” and exit AMD Software.
 
 ![AMD FreeSync toggle in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- That’s it!
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ That’s it!
+
 ##  Set a Framerate Cap In Games That Trigger Screen Flickering
 
  In games where I’ve experienced VRR flickering even during the slightest frame rate or frame time variations, like in _Marvel’s Spider-Man_ and _Marvel's Spider-Man: Miles Morales_, I’ve found that capping the maximum frame rate to a value my [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) can consistently maintain solves the issue. In the case of _Marvel’s Spider-Man_, that value was 60fps since I play the game with [ray-tracing effects](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/).
@@ -105,12 +125,6 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Graphics settings listed in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you should enable the option, set the maximum FPS, and click “Apply,”
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
@@ -121,18 +135,6 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Frame rate limiter tool in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-07.png) 
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
@@ -141,33 +143,83 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Graphics options in AMD software including Radeon Chill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-08.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Click “Enable” when asked to enable it. Note that enabling Radeon Chill will disable certain features, including Radeon Super Resolution, AMD Fluid Motion Frames, Radeon Anti-Lag, and Radeon Boost.
 
 ![Enabling Radeon Chill in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-09.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Now, set both the minimum and maximum FPS to the same value.
 
 ![Customizing Radeon Chill options in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-10.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can also use a third-party app, such as [RivaTuner Statistics Server](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) (RTSS), to limit max FPS globally or in specific games.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  VRR Flicker Should Be Less Noticeable At Higher Framerates
 
@@ -176,6 +228,20 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
  For example, in _Halo Infinite_, a game that triggers very noticeable VRR flicker at lower FPS values, I’ve noticed that as long as my FPS doesn’t drop below \~75fps, I don’t perceive any VRR flicker. So, I tweaked the visual settings until I managed to consistently maintain the FPS value above 75fps, which solved the issue.
 
  The cutoff value for your monitor could be higher, but the general rule is that as long as your GPU can maintain the frame rate at or above 100fps, you shouldn’t notice any VRR flicker regardless of your monitor's max refresh rate.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Upgrade Your Monitor
 

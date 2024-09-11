@@ -1,7 +1,7 @@
 ---
 title: Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
-date: 2024-09-05T21:30:58.147Z
-updated: 2024-09-06T21:30:58.147Z
+date: 2024-09-10T11:13:24.438Z
+updated: 2024-09-11T11:13:24.438Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/window-ac-unit.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
 
 ### Quick Links
@@ -25,12 +33,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Window air conditioners have come a long way over the years, but many of us are still rocking trusty old models. They may not have Wi-Fi, remote access through apps, and built-in temperature sensors, but with just a couple of smart home devices, you can easily get all those bells and whistles on the cheap.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  A Handy Dandy Smart Plug
 
  The first thing you'll need is a smart plug, but not just any 'ol smart plug. Window AC units can require more power than some smart plugs are able to provide safely. I found this out when my Samsung smart plug kept turning off after the AC would run for just a few minutes.
@@ -41,12 +57,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Kasa Smart Outdoor Plug](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/613vwkny3zl-_ac_sl1500_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Kasa Outdoor Smart Plug
 
 $14 $17 Save $3 
@@ -54,6 +64,20 @@ $14 $17 Save $3
 Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great everywhere. It has a single 15A outlet that can be programmed to control just about anything.
 
 [$14 at Amazon](https://amazon.com/dp/B099KLNM24?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  A Wi-Fi Temperature Sensor (or Thermostat)
 
@@ -65,37 +89,47 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 
 * ![Govee WiFi Thermometer Hygrometer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/untitled.jpg)  
 #####  Govee WiFi Thermometer Hygrometer  
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Easily monitor temp and humidity data in real time from anywhere. This WiFi thermometer provides precise readings. Temperature is accurate to ±0.54℉/±0.3℃, and humidity is ±3%RH.  
 [See at Amazon](https://amazon.com/dp/B0C7QMSMLD?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 * ![ecobee smart thermostat enhanced](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ecobee-smart-thermostat-enhanced.png)  
 #####  Ecobee Smart Thermostat Enhanced  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your home's temperature with just a tap or command from your Apple smartphone.  
 [$189 at Amazon](https://www.amazon.com/ecobee-Smart-Thermostat-Enhanced-works/dp/B09XXTQPXC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Set Up the Automation
 
  There are a bunch of different ways you can automate this setup. The Google Home app is a popular choice, but it doesn't have the automation options we need in this case. Instead, we can use the SmartThings app for [iPhone](https://apps.apple.com/us/app/smartthings/id1222822904) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004235/https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en%5FUS). Both the Kasa smart plug and Govee temperature sensor are compatible with SmartThings—no hub required.
@@ -103,6 +137,20 @@ The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your
  After you set up an account and sign in, you'll need to add the devices to your home. You can do that from the plus icon (+) in the top corner of the "Devices" tab.
 
 ![SmartThings devices tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240718-093812.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Next, we'll go to the "Routines" tab and tap the plus icon in the corner again. The "If" part of the routine will be the temperature setting, and the "Then" part is turning on or off the smart plug connected to the AC. Here's an example of a routine you could create.
 
