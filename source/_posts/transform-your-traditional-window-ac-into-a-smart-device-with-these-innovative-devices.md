@@ -1,27 +1,13 @@
 ---
 title: Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
-date: 2024-09-10T11:13:24.438Z
-updated: 2024-09-11T11:13:24.438Z
+date: 2024-09-12T16:50:38.821Z
+updated: 2024-09-16T16:09:30.729Z
 tags:
   - hardware
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/window-ac-unit.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
 
@@ -32,20 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Set Up the Automation](https://tech-revival.techidaily.com/unveiling-cybersecurity-threats-in-ai-the-functionality-behind-prompt-injection-attacks/)
 
  Window air conditioners have come a long way over the years, but many of us are still rocking trusty old models. They may not have Wi-Fi, remote access through apps, and built-in temperature sensors, but with just a couple of smart home devices, you can easily get all those bells and whistles on the cheap.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  A Handy Dandy Smart Plug
 
@@ -65,20 +37,6 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 
 [$14 at Amazon](https://amazon.com/dp/B099KLNM24?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  A Wi-Fi Temperature Sensor (or Thermostat)
 
  Now, if you stop at a smart plug, you'll be able to turn the AC on or off from an app. But we can do better than that. Depending on how far you've gone into building out your smart home, you may have the second piece of the puzzle already.
@@ -90,25 +48,6 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 * ![Govee WiFi Thermometer Hygrometer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/untitled.jpg)  
 #####  Govee WiFi Thermometer Hygrometer  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Easily monitor temp and humidity data in real time from anywhere. This WiFi thermometer provides precise readings. Temperature is accurate to ±0.54℉/±0.3℃, and humidity is ±3%RH.  
 [See at Amazon](https://amazon.com/dp/B0C7QMSMLD?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 * ![ecobee smart thermostat enhanced](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ecobee-smart-thermostat-enhanced.png)  
@@ -116,19 +55,12 @@ Easily monitor temp and humidity data in real time from anywhere. This WiFi ther
 The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your home's temperature with just a tap or command from your Apple smartphone.  
 [$189 at Amazon](https://www.amazon.com/ecobee-Smart-Thermostat-Enhanced-works/dp/B09XXTQPXC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Set Up the Automation
 
@@ -138,19 +70,12 @@ The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your
 
 ![SmartThings devices tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240718-093812.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Next, we'll go to the "Routines" tab and tap the plus icon in the corner again. The "If" part of the routine will be the temperature setting, and the "Then" part is turning on or off the smart plug connected to the AC. Here's an example of a routine you could create.
 
@@ -168,8 +93,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,40 +102,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-discover-the-5-best-android-software-for-ps2-games/"><u>[New] 2024 Approved  Discover the 5 Best Android Software for PS2 Games</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-autoplay-youtube-videos-on-facebook/"><u>[New] 2024 Approved  How to Autoplay Youtube Videos on Facebook?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-select-8-android-apps-combining-free-and-paid-video-collages/"><u>[New] Select 8 Android Apps  Combining Free and Paid Video Collages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-insights-and-comparisons-from-toms-resource-hub/"><u>Advanced Hardware Insights and Comparisons From Tom’s Resource Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-trailblazing-ryzen-9-9950x-achieves-world-record-high-on-cinebench-r23-pushing-boundaries-to-an-unprecedented-65ghz/"><u>AMD's Trailblazing Ryzen 9 9950X Achieves World Record High on Cinebench R23, Pushing Boundaries to an Unprecedented 6.5GHz</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-gadgets-and-motherboards-with-expert-advice-from-toms-corner/"><u>Decoding Gadgets and Motherboards with Expert Advice From Tom's Corner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/detailed-analysis-of-new-age-electronics-by-toms-guys/"><u>Detailed Analysis of New-Age Electronics by Tom's Guys</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-hardware-reviews-at-toms-tech-destination/"><u>Discover Top-Notch Hardware Reviews at Tom’s Tech Destination</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/17245041329111-exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-issues-managing-devices-already-running-programs/"><u>Fixing HDMI Issues: Managing Devices Already Running Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-upgrade-to-windows-11-22h2-on-unsupported-hardware/"><u>How to Upgrade to Windows 11 22H2 on Unsupported Hardware</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/hpe-litigates-against-chinas-inspur-patent-violation-allegations-overshadowed-by-ongoing-sanction-defying-business-activities-in-the-us/"><u>HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gaming-frontier-exploration-premium-oculus-players-guide/"><u>In 2024, Gaming Frontier Exploration  Premium Oculus Players Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-guides-by-toms-hardware-team/"><u>In-Depth Reviews & Guides by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-goliath-of-computing-amperes-revolutionary-512-core-ampereone-aurora-with-advanced-ai-capabilities-and-compatibility-with-high-bandwidth78/"><u>Introducing the New Goliath of Computing: Ampere's Revolutionary 512-Core AmpereOne Aurora with Advanced AI Capabilities and Compatibility with High Bandwidth Memory</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-it-safe-for-chatgpt-to-control-your-house-gadgets/"><u>Is It Safe for ChatGPT to Control Your House Gadgets?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-devices-with-toms-comprehensive-tech-reviews/"><u>Master Your Devices with Tom's Comprehensive Tech Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-with-toms-hardware-experts/"><u>Mastering Gadgets and Systems with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-hardware-guide/"><u>Mastering Gadgets with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-performance-the-toms-hardware-guide-to-top-tier-equipment/"><u>Mastering PC Performance: The Tom's Hardware Guide to Top-Tier Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computing-a-guide-by-toms-specialists/"><u>Navigating the World of High-Performance Computing: A Guide by Tom's Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimize-your-setup-with-best-gaming-and-work-from-anywhere-displays-our-top-picks/"><u>Optimize Your Setup with Best Gaming & Work-From-Anywhere Displays: Our Top Picks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/record-internal-audio-in-android-without-root-4-ways-for-2024/"><u>Record Internal Audio in Android without Root [4 Ways] for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/techniques-for-avoiding-voids-and-bubbles-during-3d-printing/"><u>Techniques for Avoiding Voids and Bubbles During 3D Printing</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-title-captures-the-readers-attention-by-using-words-like-conquering-record-breaking-scores-and-above-108000-this-implies-a-strong-performance-and-provid64/"><u>The Title Captures the Reader's Attention by Using Words Like Conquering, Record-Breaking Scores, and Above 108,000. This Implies a Strong Performance and Provides an Enticing Hook for Readers Looking to Explore High-Performance CPU Benchmark Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-ultimate-guide-to-hardware-and-gadgets/"><u>Tom's Tech Hub: Your Ultimate Guide to Hardware and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-and-gadget-testing/"><u>Tom's Tech Reviews: In-Depth Guides & Gadget Testing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-10-video-calls-software-compared-side-by-side-for-2024/"><u>Top 10 Video Calls Software Compared Side by Side for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-best-4k-gaming-displays-for-pc-high-refresh-rates-and-immersive-curves/"><u>Top 5 Best 4K Gaming Displays for PC - High Refresh Rates & Immersive Curves</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-displays-ultimate-guide-to-choosing-monitors-for-playstation-5-xbox-series-x-and-s/"><u>Top Gaming Displays: Ultimate Guide to Choosing Monitors for PlayStation 5, Xbox Series X & S</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-all-in-one-heatsinks-for-gaming-pcs/"><u>Top-Rated All-in-One Heatsinks for Gaming PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-digital-innovations-toms-guide-to-cutting-edge-gear/"><u>Unveiling Digital Innovations: Tom's Guide to Cutting-Edge Gear</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-cutting-edge-video-editing-top-3-4k8k-software-solutions/"><u>Updated In 2024, Cutting-Edge Video Editing Top 3 4K/8K Software Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-rotating-the-ripple-effect-mastering-instagrams-video-manipulation-art/"><u>[New] Rotating the Ripple Effect Mastering Instagram's Video Manipulation Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-and-mp4-synergy-expert-advice-edition/"><u>2024 Approved SRT & MP4 Synergy Expert Advice Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-discover-the-endurance-of-hps-omnibook-x-with-snapdragon-chip-power/"><u>Comprehensive Assessment: Discover the Endurance of HP's OmniBook X with Snapdragon Chip Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-of-gigabytes-g6x-for-gamers-solid-execution-lackluster-uniqueness/"><u>Comprehensive Breakdown of Gigabyte's G6X for Gamers: Solid Execution, Lackluster Uniqueness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-superior-efficiency-ubuntu-triumphs-over-windows-11-for-the-latest-amd-equipped-laptops/"><u>Discover Superior Efficiency: Ubuntu Triumphs Over Windows 11 for the Latest AMD-Equipped Laptops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/draft-satirical-graphics-for-giphy-use/"><u>Draft Satirical Graphics for Giphy Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-play-the-zephyrus-g14-by-asus-redefines-laptop-aesthetics-with-a-colorful-adaptive-e-paper-screen/"><u>Elevate Your Play: The Zephyrus G1^4 by Asus Redefines Laptop Aesthetics With a Colorful, Adaptive E-Paper Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-errors-recovering-a-lost-python24dll-file/"><u>Eliminate Errors: Recovering a Lost Python24.dll File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-enterprise-stances-top-5-reasons-to-ban-chatgpt/"><u>Exploring Enterprise Stances: Top 5 Reasons to Ban ChatGPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-for-restoring-fuzzy-cctv-videos/"><u>Tips for Restoring Fuzzy CCTV Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/xbox-one-elite-series-2-controller-review/"><u>Xbox One Elite Series 2 Controller Review</u></a></li>
 </ul></div>
+

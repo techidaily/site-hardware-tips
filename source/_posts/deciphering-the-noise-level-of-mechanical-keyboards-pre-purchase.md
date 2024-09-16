@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase
-date: 2024-09-10T11:13:25.603Z
-updated: 2024-09-11T11:13:25.603Z
+date: 2024-09-12T16:25:09.466Z
+updated: 2024-09-16T16:05:30.204Z
 tags:
   - hardware
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-mechanical-keyboard-with-a-graph-above-measuring-the-keyboard-s-loud.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -47,65 +19,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Many people strongly prefer mechanical keyboards for the distinct typing feel they provide. Their trademark clicking and clacking can be a dealbreaker, though, if you are shopping for a new keyboard to use in a shared space. Luckily, there are ways to get an idea of how noisy a mechanical keyboard will be before you buy.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Check the Keycap Material
 
  Mechanical keyboards generally feature keycaps made of either Acrylonitrile Butadiene Styrene (ABS) or Polybutylene Terephthalate (PBT). Checking the keycap material is one of the first things to do when comparing keyboard options as it impacts durability, price, and even typing volume.
 
 ![A close up of the keys on the Kensington QuietType Pro Silent Wireless Mechanical Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52942186127_50ef51c54e_o.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Hannah Stryker / How-To Geek
 
  Keycaps made of ABS are more affordable but less durable. ABS is also a relatively soft material, resulting in a high-pitched sound when the cap hits the frame of your keyboard when typing. Some options, like the [Kensington MK7500F QuietType Pro Silent](https://www.amazon.com/Kensington-MK7500F-Silent-Mechanical-Keyboard/dp/B0BZNRNXWC/ref=sr%5F1%5F3?crid=2OTAVMJX5QUY2&dib=eyJ2IjoiMSJ9.ETYKibaveJ%5FrZZsFH-6LwvbN4yBgaCPfkeopHGYhx571EN8fup7GBabFW4YM5tDwfVNKr034RngavitE-pkwxSI%5FC%5Fjj7MjE3C1xZp1d1NY.DBD6rzg%5Flq7BrUzA4gguq22wF6bNnCJTrLEAB5uIx5o&dib%5Ftag=se&keywords=quiettype+pro+silent+keyboard&qid=1720622031&sprefix=quiettype+pro+silent+keyboard%2Caps%2C89&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004053&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-can-you-tell-how-loud-a-mechanical-keyboard-will-be-before-you-buy-it%2F&asc%5Fcampaign=Evergreen) keyboard, feature dampening pads to reduce the sound created by their ABS keys.
 
  By comparison, PBT is a dense and durable keycap material. The density of a PBT keycap results in a deeper sound with less rattle when typing, making it preferable for those who find high-pitched typing to be grating. It is worth noting that [replacing keycaps](https://vp-tips.techidaily.com/new-2024-approved-caption-crafting-select-writing-apps-for-your-photos/) is a fairly simple process.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Choose the Right Keycap Profile
 
@@ -123,31 +47,31 @@ Hannah Stryker / How-To Geek
 
  Putting sound aside, it is also important to consider how the height and shape of your keycaps, as well as the shape of the keyboard's rows, will affect ergonomics and [your ability to type quickly](https://extra-support.techidaily.com/updated-prime-video-upload-solutions-for-twitter/) by feeling your way across the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Don't Overlook Keyboard Switch Types
 
  When you focus on the shape, feel, and material of a mechanical keyboard, it can be easy to forget to "look under the hood," so to speak. Beneath each keycap is the switch mechanism that registers your keystrokes on the keyboard's circuit board. Keyboards that use this switch mechanism rather than a rubber membrane are less likely to strain your wrist because they encourage proper finger placement and reinforce good typing technique by providing tactile feedback. These ergonomic features represent the appeal of choosing a mechanical keyboard in the first place.
 
 ![A man pulling a switch from the Vissles V84 Mechanical Keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/3ff2bf8a.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Danny Chadwick / Review Geek
 
@@ -169,8 +93,6 @@ Danny Chadwick / Review Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,40 +102,20 @@ Danny Chadwick / Review Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-core-auditory-stimulation-channels/"><u>[New] In 2024, Core Auditory Stimulation Channels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crucial-info-every-asmr-viewer-should-absorb/"><u>[New] In 2024, Crucial Info Every ASMR Viewer Should Absorb</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-comparison-of-best-linux-screenshare-utilities/"><u>[Updated] 2024 Approved  A Comparison of Best Linux Screenshare Utilities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-tailored-techniques-for-thriving-on-igtv/"><u>[Updated] In 2024, Tailored Techniques for Thriving on IGTV</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-strike-a-chord-with-instagram-reels-using-tiktoks-hit-hacks-for-2024/"><u>[Updated] Strike a Chord with Instagram Reels Using TikTok's Hit Hacks for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-creme-de-la-creme-of-25-instagram-talents/"><u>[Updated] The Crème De La Crème of 25 Instagram Talents</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insights-into-whatsapps-voice-chatting-capabilities/"><u>2024 Approved  Insights Into WhatsApp's Voice Chatting Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-comprehensive-guide-to-truthgpt-coin-evaluating-its-authenticity-and-scam-risks/"><u>A Comprehensive Guide to TruthGPT Coin: Evaluating Its Authenticity and Scam Risks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862792461-ace-the-market-highly-rated-dell-s3222dgm-monitor-drops-in-price-to-just-229-dont-miss-out/"><u>Ace the Market: Highly Rated Dell S3222DGM Monitor Drops in Price to Just $229 – Don't Miss Out!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862762693-affordable-luxury-buy-a-new-samsung-odyssey-g50a-monitor-27-inch-qhd-ips-at-amazing-price-255/"><u>Affordable Luxury! Buy a New Samsung Odyssey G50A Monitor, 27-Inch QHD IPS at Amazing Price: $255</u></a></li>
-<li><a href="https://win-blog.techidaily.com/garrys-mod-crash-fixes-expert-advice-and-best-practices-for-a-stable-experience/"><u>Garry's Mod Crash Fixes - Expert Advice and Best Practices for a Stable Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-razer-blade-17-up-to-date-with-driver-support-for-windows-systems/"><u>How to Keep Your Razer Blade 17 Up-to-Date with Driver Support for Windows Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c210-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C210?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 13 mini</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-gif-a-step-by-step-guide/"><u>Mastering GIF  A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862755273-samsungs-high-res-5k-ips-screen-with-integrated-cu4k-camera-hits-899-save-44-on-pixel-dense-viewfinity-s9/"><u>Samsung's High-Res 5K IPS Screen with Integrated Cu4k Camera Hits $899 – Save 44%% on Pixel-Dense ViewFinity S9</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-new-odyssey-ark-the-ultimate-bargain-on-a-4k-gaming-display-for-enthusiasts/"><u>Samsung's New Odyssey Ark - The Ultimate Bargain on a 4K Gaming Display for Enthusiasts.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862757242-score-big-win-on-tech-top-choice-dell-s3222dgm-gaming-screen-hits-record-low-only-229/"><u>Score Big Win on Tech: Top Choice Dell S3222DGM Gaming Screen Hits Record Low - Only $229</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-software-fixes-for-z50-70-units/"><u>Streamlined Software Fixes for Z50-70 Units</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-authoritative-source-for-new-tech-gear-features-and-comparisons-by-toms-team/"><u>The Authoritative Source for New Tech Gear Features and Comparisons by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-rise-of-lgs-tandem-oled-technology-in-mainstream-manufacturing-epitomized-by-the-flourishing-display-of-dell-xps-narratives/"><u>The Rise of LG's Tandem OLED Technology in Mainstream Manufacturing, Epitomized by the Flourishing Display of Dell XPS Narratives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-surprisingly-stellar-review-of-pixio-px277-oled-for-gamers-a-rare-find-in-disguise/"><u>The Surprisingly Stellar Review of Pixio PX277 OLED for Gamers - A Rare Find in Disguise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-by-toms-electronics-review-site/"><u>The Ultimate Guide by Tom's Electronics Review Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-hub-for-advanced-computer-components-recommended-by-toms-team/"><u>The Ultimate Resource Hub for Advanced Computer Components - Recommended by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/thrifty-shopper-alert-high-quality-samsung-odyssey-g50a-27-monitor-for-just-255-on-amazon/"><u>Thrifty Shopper Alert: High-Quality Samsung Odyssey G50A 27 Monitor for Just $255 on Amazon!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-hardware/"><u>Tom's Tech Hub: Unveiling the Latest in Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-advice-t17238628801243/"><u>Tom's Tech Insights: Expert Gadget Reviews and Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components-t17238628801232/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-the-newly-released-minisforums-lightweight-laptop-with-a-stunning-156-screen-144hz-refresh-rate-and-ultra-hd-resolution-at-unbelie71/"><u>Transform Your Gaming Rig: The Newly Released Minisforum's Lightweight Laptop with a Stunning 15.6 Screen, 144Hz Refresh Rate & Ultra HD Resolution at Unbelievable Price of $189</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-creativity-harnessing-gs-power-in-kinemaster/"><u>Unleash Creativity  Harnessing GS Power in KineMaster</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-ultimate-gaming-experience-incredible-value-of-innocns-high-definition-27-240hz-ips-monitor-for-199/"><u>Unleash the Ultimate Gaming Experience: Incredible Value of Innocn's High-Definition 27 240Hz IPS Monitor for $199</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-look-inside-with-toms-hardware-insights/"><u>Unveiling the Latest Gadgets: A Look Inside with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gaming-affordable-high-performance-the-second-generation-55-inch-samsung-odyssey-monitor-4k-now-available-for-less/"><u>Unveiling the Latest in Gaming: Affordable, High-Performance - The Second Generation 55-Inch Samsung Odyssey Monitor (4K) Now Available for Less</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-tips-and-reviews-by-toms-experts/"><u>Unveiling the Latest in PC Hardware - Tips and Reviews by Tom's Experts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-next-level-game-capture-strategies-for-high-definition-quality/"><u>[New] Next-Level Game Capture Strategies for High Definition Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-scoring-big-on-youtube-how-much-do-ad-revenues-add-up-for-2024/"><u>[Updated] Scoring Big on YouTube How Much Do Ad Revenues Add Up for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unmatched-warfare-the-hunt-for-top-fps-games-for-2024/"><u>[Updated] Unmatched Warfare The Hunt for Top FPS Games for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-black-friday-deals-top-5-discounts-on-pc-software-beyond-thanksgiving/"><u>Best Black Friday Deals: Top 5 Discounts on PC Software Beyond Thanksgiving</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-your-sites-performance-using-cookiebot-driven-data-insights-for-targeted-seo-strategies/"><u>Boost Your Site's Performance Using Cookiebot-Driven Data Insights for Targeted SEO Strategies</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-x50-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor X50 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-t172386287986915/"><u>Tom's Tech Insights - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-on-toms-hardware/"><u>Tom's Tech Insights: Comprehensive Guide on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovations/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-computer-hardware/"><u>Tom's Tech Insights: In-Depth Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Review: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-with-acers-incredible-offer-nitro-16-laptop-packing-rtx-4070-and-amd-cpu-for-a-steal-at-1129/"><u>Transform Your Gaming with Acer’s Incredible Offer: Nitro 16 Laptop Packing RTX 4070 & AMD CPU for a Steal at $1,129</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-budget-friendly-premium-gaming-laptops-under-1500/"><u>Ultimate Guide to Budget-Friendly Premium Gaming Laptops Under 1500$</u></a></li>
 </ul></div>
+

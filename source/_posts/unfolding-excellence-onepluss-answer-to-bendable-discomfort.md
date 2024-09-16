@@ -1,7 +1,7 @@
 ---
 title: "Unfolding Excellence: OnePlus's Answer to Bendable Discomfort"
-date: 2024-09-01T08:26:00.950Z
-updated: 2024-09-02T08:26:00.950Z
+date: 2024-09-10T16:07:40.595Z
+updated: 2024-09-16T16:32:37.854Z
 tags:
   - android
 categories:
@@ -142,9 +142,6 @@ Close
 
  Overall, I was very impressed with the design and build of the OnePlus Open. Before using a foldable like this, I was worried they would feel too bulky and heavy in my pocket. That was not the case with the OnePlus Open at all. I primarily used the phone with the back half of the included case and it still didn’t feel overly chunky. (The case is two separate parts.) How it will hold up in the long term with OnePlus’ material choices is yet to be seen, but I’m optimistic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  OnePlus Open Displays: Beautiful and Surprisingly Flat
 
 ![OnePlus Open with inside display opened.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-28.jpg) 
@@ -157,10 +154,6 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  I really liked the aspect ratios of both displays on the OnePlus Open. When closed, the outside display felt like just a normal phone. In fact, it was _easier_ to use than most normal phones. The Open is shorter and wider than [my daily driver Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/) when closed. Phone designs moved away from 16:9 screens when they expanded into the top and bottom bezels. I didn’t realize how much I missed that.
@@ -177,6 +170,13 @@ Close
 
 ![OnePlus Open home screen launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-32.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  At the time of writing in October 2023, the OnePlus Open was running OxygenOS 13.2 based on Android 13\. Software is incredibly important for foldables, and this is OnePlus’ first attempt at this form factor. My experience was mostly good, but there were some definite quirks.
@@ -185,9 +185,6 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open with split screen apps and keyboard open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
 [OnePlus released a tablet earlier this year](https://graphic-issues.techidaily.com/expertise-meets-simplicity-effortless-graphic-driver-update-on-windows-os/), and much of the tablet optimization has been carried over to the OnePlus Open. The dock holds up to four icons, but when you’re in tablet mode it can expand to show an additional three recent app icons and a shortcut to open a floating app drawer. I found this to be a nice way to keep the dock simple in phone mode, but add more functionality when using the larger screen.
@@ -208,6 +205,19 @@ Close
 
  Overall, I was impressed with OxygenOS on a foldable device. There are some features that I think I would genuinely miss if I switched to a Pixel Fold or Galaxy Z Fold. It's not a perfect OS by any means, but the problems can be solved with updates. Oh, and OnePlus, please stop forcing a red lock screen clock on everyone.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  OnePlus Open Performance & Battery Life: Awesome
 
 ![OnePlus Open running four apps at once.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-21.jpg) 
@@ -222,27 +232,27 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open battery settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-15-00-27-21-87_0ba066473b79d6e213a1f6f52505e2ee.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Like most OnePlus devices, the Open is equipped with the company’s “SUPERVOOC” fast wired charging. The 67W charging can take the battery from 1-100% in around 40 minutes, which is a pretty incredible feat. However, I have to admit, as cool as that is, I would much rather have wireless charging. With battery life this good, I never really needed a super fast top-up at an inopportune time.
 
  Performance and battery life is a category where I feel like the less I have to say, the better. To be a successful tablet-like foldable, the OnePlus Open needed to be powerful and it needed to have a long-lasting battery. Check and check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ##  OnePlus Open Camera Quality: Pretty Good For OnePlus
 
 ![OnePlus Open rear camera array.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-8.jpg) 
 
 <!-- affiliate ads begin -->
-
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  OnePlus excels at a lot of things, but I don’t think the company has ever truly _nailed_ cameras. That’s the case again with the OnePlus Open, but it's very close to being great.
@@ -260,6 +270,13 @@ Close
  I’ve found that I use telephoto cameras nearly as much as I use the main cameras on phones, and the 3x optical zoom on the OnePlus Open worked great. I just wish OnePlus wouldn’t put so many zoom increments in the camera app—I never wanted to use the fake 2X or 6X digital zoom, and that includes the buzzword "120X Ultra Red Zoom."
 
 ![OnePlus Open camera viewfinder from the outside display,](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-20.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -279,9 +296,6 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open in black and green.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53230069333_a424095a91_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Of course, the OnePlus Open is not the only phone to bring this concept to the market. However, at $1,699, it’s $100 cheaper than the Pixel Fold or Galaxy Z Fold 5\. The extra $100 gets you wireless charging and an IPX8 rating. $1,699 is still not cheap, but it would be pretty easy to spend that much on a phone and tablet separately. I don't think I truly appreciated that aspect of this type of foldable until I had one in my hands. There's a reason why my iPad has been getting dusty since I started using the OnePlus Open.
@@ -291,8 +305,12 @@ Justin Duino / How-To Geek
 ![OnePlus Open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/productstill_2cmf_01_rgb-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  OnePlus Open
@@ -371,8 +389,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -382,38 +398,12 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/"><u>[New] In 2024, Evolutionary Tools Redefining the Art of Game Capture Beyond FBX</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-macwebcam-tutorial-filming-basics-decoded/"><u>[New] In 2024, MacWebCam Tutorial  Filming Basics Decoded</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-olyx-zones-the-creme-de-la-snowspeedcross-for-2024/"><u>[New] OlyX-Zones  The Crème De La Snowspeedcross for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smilesphere-explore-limitless-meme-landscapes/"><u>[New] SmileSphere  Explore Limitless Meme Landscapes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimizing-playback-speed-with-professional-tactics/"><u>[Updated] Optimizing Playback Speed with Professional Tactics</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-vlogging-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>[Updated] Vlogging Vs. Micro-Video  Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>2024 Approved  Capturing Every Moment  An Overview of Apowersoft's Screenshot Tool</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-top-screenshopping-save-on-premium-4k-and-gamer-monitors/"><u>2024'S Top Screenshopping: Save on Premium 4K and Gamer Monitors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-giant-on-a-budget-in-depth-review-of-the-40-monoprice-gaming-monitor-with-crystal-clear-display-and-stunning-gameplay/"><u>Affordable Giant on a Budget: In-Depth Review of the 40 Monoprice Gaming Monitor with Crystal Clear Display & Stunning Gameplay</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/alienware-34-ultra-hd-curved-monitor-unbeatable-deal-at-best-buy-for-just-749/"><u>Alienware 34'' Ultra HD Curved Monitor - Unbeatable Deal at Best Buy For Just $749</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bargain-bin-marvels-discover-the-curious-139-chinese-display-mash-up-of-thor-and-darth-vader/"><u>Bargain Bin Marvels: Discover the Curious $139 Chinese Display Mash-Up of Thor and Darth Vader</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/behold-brilliance-in-motion-the-ultimate-review-of-asus-rog-swift-pg49wcds-49-inch-oled-gaming-display/"><u>Behold Brilliance in Motion: The Ultimate Review of Asus ROG Swift PG49WCD's 49-Inch OLED Gaming Display</u></a></li>
-<li><a href="https://win-blog.techidaily.com/destiny-2-disconnect-woes-heres-how-to-re-establish-your-server-link-successfully/"><u>Destiny ^2 Disconnect Woes? Here's How to Re-Establish Your Server Link Successfully!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-elite-range-of-new-4k-resolution-monitors-for-gamers-up-to-144hz-curved-screens-included/"><u>Discover the Elite Range of New 4K Resolution Monitors for Gamers - Up to 144Hz, Curved Screens Included</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-gaming-monitors-of-2024-from-cost-effective-choices-to-advanced-curvature-and-sync-technologies/"><u>Discover the Finest Gaming Monitors of 2024: From Cost-Effective Choices to Advanced Curvature & Sync Technologies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-correct-colored-lines-and-visual-flaws-on-your-pc-display/"><u>Effective Techniques to Correct Colored Lines & Visual Flaws on Your PC Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-choices-in-ultrawide-gaming-technology-what-to-buy-in/"><u>Elite Choices in Ultrawide Gaming Technology - What to Buy In</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-gaming-on-the-new-cooler-master-super-wide-4k-dual-mini-led-monitor-57-inches-of-immersion/"><u>Experience Next-Level Gaming on the New Cooler Master Super Wide, 4K Dual Mini LED Monitor - 57 Inches of Immersion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-clarity-on-asrocks-premium-32-inch-480-hz-oled-screen-optimized-for-your-internet-setup/"><u>Experience Unparalleled Clarity on ASROCK's Premium 32-Inch 480 Hz OLED Screen - Optimized for Your Internet Setup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-gadgets-and-pc-hardware-from-toms-forum/"><u>Expert Advice on Gadgets and PC Hardware From Tom's Forum</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eyoyo-em1n05-the-ultimate-compact-and-cost-effective-choice-in-portable-105-display-tech/"><u>Eyoyo EM1n05: The Ultimate Compact & Cost-Effective Choice in Portable 10.5” Display Tech</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-error-free-workflow-tips-tricks-and-techniques-for-2024/"><u>FCPX Error-Free Workflow Tips, Tricks, and Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/game-like-never-before-tcl-revolutionizes-the-market-with-a-high-refresh-4k-gaming-display/"><u>Game Like Never Before: TCL Revolutionizes the Market with a High-Refresh 4K Gaming Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-latest-24-inch-dell-freesync-monitor-now-for-less-than-100/"><u>Get Your Hands on the Latest 24 Inch Dell FreeSync Monitor Now for Less Than $100</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-demystifying-instagrams-videography-cap-constraint/"><u>In 2024, Demystifying Instagram’s Videography Cap Constraint</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-frontier-of-gesture-based-technology-advancements/"><u>In 2024, The Frontier of Gesture-Based Technology Advancements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-aoc-agon-pro-ag45/"><u>Introducing the AOC Agon Pro AG45</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-portable-viewsonic-va1655-just-fine-comprehensive-product-analysis-reveals-more/"><u>Is the Portable ViewSonic VA1655 Just 'Fine': Comprehensive Product Analysis Reveals More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-selection-dive-into-toms-world-of-hardware-reviews-and-guides/"><u>Mastering Tech Selection: Dive Into Tom's World of Hardware Reviews and Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-discover-toms-hardware-wisdom/"><u>Mastering Technology Insights: Discover Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-a60-by-fonelab-android-recover-data/"><u>Recover lost data from Itel A60</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/rising-stars-in-digital-domain/"><u>Rising Stars in Digital Domain</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streaming-learn-obs-for-youtube-now/"><u>Started Streaming? Learn OBS for Youtube Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-virtual-meetings-googles-facetime-tutorial-for-2024/"><u>[Updated] Unlocking Virtual Meetings Google's Facetime Tutorial for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y100-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y100 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-design-your-dream-rainbow-pc-using-hytes-nexus-link-ecosystem/"><u>Effortlessly Design Your Dream Rainbow PC Using Hyte's Nexus Link Ecosystem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-tech-from-toms-systems-guide/"><u>Expert Insights on Tech From Tom's Systems Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-resource-for-enthusiasts-toms-hardware-explored/"><u>The Essential Resource for Enthusiasts: Tom's Hardware Explored</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-role-of-workspace-dynamics-in-employee-output/"><u>The Role of Workspace Dynamics in Employee Output</u></a></li>
 </ul></div>
+

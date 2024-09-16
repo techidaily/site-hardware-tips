@@ -1,7 +1,7 @@
 ---
 title: "8GB GPU Capabilities: Ideal for Casual Games or Need More?"
-date: 2024-09-10T11:13:26.319Z
-updated: 2024-09-11T11:13:26.319Z
+date: 2024-09-11T16:54:51.914Z
+updated: 2024-09-16T16:13:57.339Z
 tags:
   - hardware
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec
 ---
 
 ## 8GB GPU Capabilities: Ideal for Casual Games or Need More?
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -43,20 +29,6 @@ thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -65,20 +37,6 @@ Cianna Garrison / How-To Geek
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Things Get Complicated With Newer AAA Games
 
  If you’re eyeing AAA games released in 2021 and later, 8GB of video memory will limit performance in some scenarios. For example, _Forza Horizon 5_, released in the second part of 2021, runs fine with textures set to extreme, even though the game hits you with a low memory warning minutes after you start driving.
@@ -86,20 +44,6 @@ Cianna Garrison / How-To Geek
  But after some time—about half an hour at 1440p ultrawide, a bit longer at 1080p—you will notice slowdowns, corrupted textures, and you might even experience a crash or two. Lowering the texture quality to ultra fixes the issue, but _Forza Horizon 5_ is far from the only game that doesn’t play nice with 8GB of VRAM.
 
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Cianna Garrison / How-To Geek
 
@@ -127,37 +71,16 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Should You Buy an 8GB GPU in 2024?
 
@@ -173,8 +96,6 @@ _GIGABYTE_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,45 +105,21 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/est-8-linux-platforms-for-video-mastery/"><u>[New] Best 8 Linux Platforms for Video Mastery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-boosting-your-fb-pages-advanced-ranking-strategies-for-2024/"><u>[New] Boosting Your FB Pages  Advanced Ranking Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-profile-clips-for-impact/"><u>[Updated] Enhancing Profile Clips for Impact</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-zoom-meeting-insight-through-grid-view-settings/"><u>[Updated] Maximizing Zoom Meeting Insight Through Grid View Settings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-media-mapping-charting-your-course-against-competitors-videos/"><u>[Updated] Strategic Media Mapping  Charting Your Course Against Competitors' Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-vibrant-leap-into-the-future-celebrating-crealitys-tenth-birthday-with-their-revolutionary-colored-3d-printing-machine/"><u>A Vibrant Leap Into the Future: Celebrating Creality’s Tenth Birthday with Their Revolutionary Colored 3D Printing Machine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-system-insights-by-toms-hardware-specialists/"><u>Advanced System Insights by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/airflow-success-story-introducing-the-ek-solution-cpu-heatsink-a-game-changer-for-intel-core-i9-10900ks-enthusiasts/"><u>Airflow Success Story: Introducing the EK Solution CPU Heatsink, a Game-Changer for Intel Core I9-10900KS Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-pc-performance-up-to-3x-faster-discover-the-power-of-our-innovative-nitrogen-liquid-cooler-designed-by-ai-for-10000/"><u>Boost PC Performance Up to 3X Faster – Discover the Power of Our Innovative Nitrogen Liquid Cooler Designed by AI for $10,000</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/boosting-connectivity-with-creative-fb-slideshow-ideas/"><u>Boosting Connectivity with Creative FB Slideshow Ideas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooler-master-strikes-back-with-lawsuits-over-intellectual-property-theft-in-radiator-innovation/"><u>Cooler Master Strikes Back with Lawsuits Over Intellectual Property Theft in Radiator Innovation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-unparalleled-performance-in-depth-review-of-hyte-thicc-q60-quietest-and-strongest-240mm-aio-cooler/"><u>Discover Unparalleled Performance: In-Depth Review of Hyte THICC Q60 Quietest & Strongest 240MM AIO Cooler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-hardware-with-tom-a-comprehensive-guide/"><u>Exploring Advanced Hardware with Tom - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-comprehensive-system-insights/"><u>Exploring Technology with Tom: Comprehensive System Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market/"><u>From Frame to Phrase  Expertly Ranked 29 Video Translators on the Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-ensure-accurate-layer-adhesion-and-prevent-shifting-on-your-3d-printer/"><u>How to Ensure Accurate Layer Adhesion and Prevent Shifting on Your 3D Printer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers/"><u>In 2024, Optimize Your Windows 11 Photo Viewing  Include Audio Files and Artistic Layers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-computing-devices-by-tom-hardware-specialist/"><u>In-Depth Evaluation of Computing Devices by Tom Hardware Specialist</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/increase-your-gaming-performance-fixing-freezing-issues-with-pubg-on-desktop/"><u>Increase Your Gaming Performance: Fixing Freezing Issues with PUBG on Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-intels-latest-leap-in-technology-the-new-nine-14th-gen-cpus-excluding-efficiency-cores-a-deep-dive-into-the-overclockable-flagship-core-core-i9-46/"><u>Introducing Intel's Latest Leap in Technology: The New Nine 14Th Gen CPUs Excluding Efficiency Cores - A Deep Dive Into the Overclockable Flagship Core, Core I9-14901KE for Embedded Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-cpu-hierarchy-review-identifying-the-fastest-processors-of-2024/"><u>Latest CPU Hierarchy Review: Identifying the Fastest Processors of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-desktop-cpu-choices-for-high-performance-workstation-setups-2eplusto3d4/"><u>Leading Desktop CPU Choices for High-Performance Workstation Setups, 2E+to3d4</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technological-components-with-advice-from-toms-hq/"><u>Mastering Technological Components with Advice From Tom's HQ</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-new-wave-in-depth-exploration-of-zen-5-ryzen-9000-chipset-ai-benchmarks-and-cutting-edge-gpu-innovations-by-amd/"><u>Mastering the New Wave: In-Depth Exploration of Zen 5, Ryzen 9000 Chipset, AI Benchmarks and Cutting-Edge GPU Innovations by AMD</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-tom-expert-insights-on-hardware-choices/"><u>Navigating Gadgets with Tom: Expert Insights on Hardware Choices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-technology-insights-by-tom-the-hardware-hub/"><u>Navigating Technology Insights by Tom - The Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-insights-from-toms-hardware-your-ultimate-resource-for-computer-components/"><u>Pioneering Tech Insights From Tom's Hardware: Your Ultimate Resource for Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-new-cpu-order-today-where-to-shop-for-the-cutting-edge-ryzen-7-9700x-and-ryzen-5-9600x/"><u>Secure Your New CPU Order Today: Where to Shop for the Cutting-Edge Ryzen 7 9700X & Ryzen 5 9600X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/selecting-superior-gaming-displays-ideal-matches-for-playstation-5-and-microsofts-latest-consoles/"><u>Selecting Superior Gaming Displays: Ideal Matches for PlayStation 5 & Microsoft's Latest Consoles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-review-the-authority-on-hardware-analysis/"><u>Tom's Computing Review: The Authority on Hardware Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-expert-insights/"><u>Tom's Tech Hub: Comprehensive Reviews & Expert Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-computer-components/"><u>Tom's Tech Insights - Your Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-pioneering-computer-reviews/"><u>Tom's Tech Insights: Pioneering Computer Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-hardware-excellence/"><u>Tom's Tech Insights: Your Guide to Hardware Excellence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insights-on-the-latest-gadgets-and-hardware/"><u>Tom's Tech Review: Insights on the Latest Gadgets and Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tomtech-universe-navigating-the-world-of-computer-components/"><u>TomTech Universe: Navigating the World of Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-comprehensive-gadget-and-hardware-analysis-by-toms-team/"><u>Unveiling the Future of Tech: Comprehensive Gadget and Hardware Analysis by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-arctic-freezer-how-its-transforming-affordable-cold-air-delivery/"><u>Unveiling the Power of Arctic Freezer 지도 - How It's Transforming Affordable Cold Air Delivery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-expertise-on-computer-systems/"><u>Unveiling Tom’s Expertise on Computer Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gadgets-and-tech-trends-a-look-through-toms-hardware-lens/"><u>Unveiling Top Gadgets and Tech Trends: A Look Through Tom's Hardware Lens</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-explainer-video-makers-for-businesses/"><u>Updated 2024 Approved The Best Explainer Video Makers for Businesses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-comprehensible-guide-to-mac-based-ootd-videography/"><u>[New] 2024 Approved The Comprehensible Guide to Mac-Based OOTD Videography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-ultimate-guide-to-full-screen-video/"><u>[New] Facebook's Ultimate Guide to Full Screen Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-ad-free-high-quality-video-experience-awaits-you/"><u>[New] In 2024, The Ultimate Ad-Free, High Quality Video Experience Awaits You</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/icrovid-virtuoso-for-2024/"><u>[New] MicroVid Virtuoso for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo/"><u>2024 Approved Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-testimonial-recovered-thousands-of-photos-from/"><u>Customer Testimonial: Recovered Thousands of Photos From</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-technology-the-toms-hardware-experience/"><u>Exploring Cutting-Edge Technology: The Tom's Hardware Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-novel-selections-top-picks-for-new-language-learners/"><u>French Novel Selections: Top Picks for New Language Learners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-like-never-before-on-the-latest-asus-woled-monitor-27-ultra-smooth-no-flickering-with-adaptive-sync-technology/"><u>Game Like Never Before on the Latest Asus WOLED Monitor - 27 Ultra Smooth, No Flickering with Adaptive Sync Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-ultimate-gaming-experience-purchase-the-high-performance-acer-nitro-27/"><u>Get the Ultimate Gaming Experience: Purchase the High-Performance Acer Nitro 27</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-titan-army-p27a2r-high-performance-gaming-display-at-180hz/"><u>In-Depth Analysis of the Titan Army P27A2R - High-Performance Gaming Display at 180Hz</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-analysis-by-toms-tech-experts/"><u>In-Depth Hardware Analysis by Tom's Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computing-gear-expert-insights-and-opinions/"><u>Inside Tom's Computing Gear: Expert Insights & Opinions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-minisforums-new-portable-gaming-laptop-156-144hz-full-hd-display-at-just-189/"><u>Introducing Minisforum's New Portable Gaming Laptop: 15.6 144Hz Full HD Display at Just $189</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tailoring-content-to-trends-organic-growth-strategies-for-youtubers-for-2024/"><u>Tailoring Content to Trends Organic Growth Strategies for YouTubers for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-tutorial-easily-disable-and-remove-web-browser-plug-ins/"><u>Windows 11 Tutorial: Easily Disable and Remove Web Browser Plug-Ins</u></a></li>
 </ul></div>
+

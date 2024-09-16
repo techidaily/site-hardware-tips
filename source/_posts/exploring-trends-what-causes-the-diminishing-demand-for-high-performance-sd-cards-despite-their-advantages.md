@@ -1,7 +1,7 @@
 ---
 title: "Exploring Trends: What Causes the Diminishing Demand for High-Performance SD Cards Despite Their Advantages?"
-date: 2024-09-10T11:13:28.143Z
-updated: 2024-09-11T11:13:28.143Z
+date: 2024-09-12T16:56:12.660Z
+updated: 2024-09-16T16:23:54.337Z
 tags:
   - hardware
 categories:
@@ -31,20 +31,6 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 
 ![A microSD card and SD card adapter placed on a brown leather wallet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/rsz_img20240729164143.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Ismar Hrnjicevic / How-To Geek
 
  These modern, high-capacity microSD cards aren't your regular run-off-the-mill storage devices, either, as most of them have reasonably fast transfer rates. It's no [Thunderbolt 5](https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-drfone-by-drfone-ios/), but V90 SD cards can do a _minimum_ of 90MB/sec, enough to record 8K video directly to the SD card.
@@ -59,20 +45,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A microSD card and SD card adapter next to three different USB flash drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img20240729173912.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Ismar Hrnjicevic / How-To Geek
 
  My new [128GB Kingston Exodia](https://www.amazon.com/Kingston-DataTraveler-Exodia-DTX-128GBCR/dp/B09GKZHXQY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen) USB flash drive is huge and has a ridiculously large keychain loop, so I just carry it around in my pocket. The smallest of the three fits onto my keychain, but it's still too big for my wallet, whereas I don't even notice the microSD card when I have it on me.
@@ -83,39 +55,11 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A person holding a microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/52849011009_f6e8b51064_o.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Jordan Gloor / How-To Geek
 
  The last argument in favor of microSD cards is standardization. The [SD Association](https://www.sdcard.org/) sets the standards for various SD card specifications. This includes clearly defined speed classes that ensure consistent performance, which makes shopping for a microSD card a stress-free experience. If your device calls for a [UHS-II U3 card](https://www.amazon.com/SanDisk-128GB-Extreme-UHS-II-Memory/dp/B08YF7PB14?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen), you can get a microSD card with that specification (or better), knowing it'll work as expected.
 
  In contrast, USB flash drives often highlight their maximum potential speeds, which don't necessarily reflect their real-world performance. The USB interface is standardized, but the speed ratings that flash drives promise are not. Just because a USB flash drive uses the USB 3.2 connector doesn't mean that it can hit data transfer rates of up to 20Gbps.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Hot-Swappable Media
 
@@ -135,37 +79,23 @@ Corbin Davenport / How-To Geek
 
  In addition to the cloud, you should always have [offline backups](https://extra-information.techidaily.com/concealed-viewers-guide-to-instagram-live-broadcasting-without-attention-for-2024/) of your most important files on as many offline storage devices as possible, so SD cards are a cheap way to create redundant backups. Just remember to check the SD cards occasionally to make sure your data doesn't get corrupted.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Expandable Storage in Phones Needs a Comeback
 
 ![Phone with microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/phone-with-microsd-card.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-inserting-memory-card-sim-smartphone-1135113893)_
 
@@ -185,8 +115,6 @@ _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,46 +124,12 @@ _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-implementing-seamless-audio-diminishment/"><u>[New] Implementing Seamless Audio Diminishment</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expeditious-approaches-to-slide-storage/"><u>[New] In 2024, Expeditious Approaches to Slide Storage</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[Updated] From Novice to Pro  How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-laptops-and-chromebooks-what-sets-them-apart/"><u>Comparing Laptops and Chromebooks – What Sets Them Apart?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/constructing-your-first-desktop-system-5-essential-steps-and-recommendations/"><u>Constructing Your First Desktop System: 5 Essential Steps and Recommendations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-security-flaw-in-popular-routers-why-hackers-love-them-and-how-to-protect-yourself/"><u>Critical Security Flaw in Popular Routers: Why Hackers Love Them & How To Protect Yourself</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-tips-for-successfully-refreshing-your-airpod-firmware/"><u>Easy Tips for Successfully Refreshing Your AirPod Firmware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embrace-costly-luxury-with-apples-new-ipad-pro-m4-an-irresistible-tech-marvel/"><u>Embrace Costly Luxury with Apple's New iPad Pro (M4): An Irresistible Tech Marvel!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embrace-digital-serenity-unveiling-the-light-phone-3-the-pinnacle-of-minimalist-mobile-tech/"><u>Embrace Digital Serenity: Unveiling the Light Phone 3, the Pinnacle of Minimalist Mobile Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-gameplay-using-noise-cancelling-earphones-to-ignore-computer-sound-interference/"><u>Enhance Your Gameplay: Using Noise-Cancelling Earphones to Ignore Computer Sound Interference</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-ipad-artistry-with-the-ultimate-precision-tool-the-zagg-pro-stylus-2/"><u>Enhance Your iPad Artistry with the Ultimate Precision Tool - The ZAGG Pro Stylus 2!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-bargains-on-technology-10th-generation-ipad-at-334-roku-streaming-stick-with-4k-support-and-premium-anker-chargers/"><u>Exclusive Bargains on Technology: 10Th Generation iPad at $334, Roku Streaming Stick with 4K Support, & Premium Anker Chargers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanding-fmd-network-google-integrates-motorolas-tracking-features-for-better-device-management/"><u>Expanding FMD Network, Google Integrates Motorola’s Tracking Features for Better Device Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-upgraded-sonos-roam-2-say-goodbye-to-past-imperfections/"><u>Experience the Upgraded Sonos Roam 2 - Say Goodbye to Past Imperfections</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-11-key-smart-home-configurations-that-transform-your-living-experience/"><u>Expert Advice: 11 Key Smart Home Configurations That Transform Your Living Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-selected-elite-nas-solutions/"><u>Expertly Selected Elite NAS Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-meetings-to-media-how-zoom-powers-fb-live-content/"><u>From Meetings to Media  How Zoom Powers FB Live Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-enhances-locator-capabilities-with-motos-tracking-technology/"><u>Google Enhances Locator Capabilities with Moto's Tracking Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-select-an-ideal-keyboard-attachment-for-your-steam-deck-ownership-journey/"><u>How to Select an Ideal Keyboard Attachment for Your Steam Deck Ownership Journey</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-ends-distribution-of-printers-solely-integrated-with-cloud-technology/"><u>HP Ends Distribution of Printers Solely Integrated with Cloud Technology</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-c67-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme C67 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-12-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme 12 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>In 2024, Podcast Scriptwriting Made Easy  Techniques and Illustrative Templates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-reviews-with-us-unveiling-the-secrets-of-our-how-to-geek-rigorous-testing-methods/"><u>Master Reviews with Us: Unveiling the Secrets of Our How-To Geek Rigorous Testing Methods</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-durability-effective-strategies-for-extending-your-hard-drives-lifespan/"><u>Maximizing Durability: Effective Strategies for Extending Your Hard Drive's Lifespan</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-league-of-legends-lag-speedy-solutions-for-downloads-and-more/"><u>Overcome League of Legends Lag: Speedy Solutions for Downloads and More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pixel-buds-pro-2-doubling-down-on-anc-and-quality-for-an-unmatched-audio-experience/"><u>Pixel Buds Pro 2: Doubling Down on ANC and Quality for an Unmatched Audio Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-kitchen-cleanup-with-a-hack-washing-tech-devices-in-the-dishwasher/"><u>Revolutionize Your Kitchen Cleanup with a Hack: Washing Tech Devices in the Dishwasher!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-affordable-mobile-tech-how-snapdragon-7c-gen-4-elevates-entry-level-smartphones/"><u>Revolutionizing Affordable Mobile Tech: How Snapdragon 7C Gen 4 Elevates Entry-Level Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-device-longevity-microsofts-shift-towards-easier-surface-fixes/"><u>Revolutionizing Device Longevity: Microsoft's Shift Towards Easier Surface Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-goes-head-to-head-with-apple-can-the-galaxy-book-pro-360-eclipse-the-macbook-air/"><u>Samsung Goes Head-to-Head with Apple: Can the Galaxy Book ˈPro 360 Eclipse the MacBook Air?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamlessly-connect-and-use-several-computers-with-inteln-thunderbolt-share-innovation/"><u>Seamlessly Connect and Use Several Computers with Intel'n Thunderbolt Share Innovation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/summer-gadgets-to-skip-our-recommended-7-tech-products-not-worth-your-money/"><u>Summer Gadgets to Skip: Our Recommended 7 Tech Products Not Worth Your Money</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essential-technology-ranging-from-audio-devices-to-wearable-trackers-that-fuels-my-monthly-marathon-goals/"><u>The Essential Technology, Ranging From Audio Devices to Wearable Trackers, That Fuels My Monthly Marathon Goals</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-update-ati-radeon-video-driver-in-windows-os/"><u>The Ultimate Walkthrough to Update ATI Radeon Video Driver in Windows OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-features-that-make-intels-new-generation-of-mobile-processors-a-game-changer/"><u>Top 6 Features That Make Intel's New Generation of Mobile Processors a Game-Changer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-savings-in-tech-gadgets-snag-discounted-qled-tv-sets-high-quality-beats-headphones-affordable-mac-minis-and-more-deals-today/"><u>Top Savings in Tech Gadgets - Snag Discounted QLED TV Sets, High-Quality Beats Headphones, Affordable Mac Minis, and More Deals Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-network-attached-storage-nas-units/"><u>Top-Ranked Network Attached Storage (NAS) Units</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-lifestyle-with-these-clever-smart-home-upgrades-for-enhanced-convenience/"><u>Transform Your Lifestyle with These Clever Smart Home Upgrades for Enhanced Convenience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-from-rivalry-to-necessity-my-journey-with-indispensable-phone-ring-holders/"><u>Transforming From Rivalry to Necessity: My Journey with Indispensable Phone Ring Holders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargains-on-gadgets-spotlights-on-ecoflow-power-station-and-more-essential-tech/"><u>Unbeatable Bargains on Gadgets: Spotlights on EcoFlow Power Station & More Essential Tech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-z-flip-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy Z Flip 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>[New] Tales Before Twilight A Review of Video-Driven Narratives for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-memes-with-a-smile-builder-for-2024/"><u>[New] Top Memes with a Smile Builder for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-note-30i-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Note 30i to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-maxsuns-innovative-itx-motherboard-with-reverse-gpu-slots-for-optimal-cooling/"><u>Introducing MaxSun's Innovative ITX Motherboard with Reverse GPU Slots for Optimal Cooling</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a2frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A2FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-hardware-wisdom-from-toms-hardware/"><u>Mastering Gadgets & Hardware: Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-tips-from-toms-hardware-hub/"><u>Mastering Technology Tips From Tom's Hardware Hub</u></a></li>
 </ul></div>
+

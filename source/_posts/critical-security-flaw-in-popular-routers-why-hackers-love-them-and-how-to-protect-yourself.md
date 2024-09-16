@@ -1,27 +1,13 @@
 ---
 title: "Critical Security Flaw in Popular Routers: Why Hackers Love Them & How To Protect Yourself"
-date: 2024-09-10T11:13:28.939Z
-updated: 2024-09-11T11:13:28.939Z
+date: 2024-09-11T16:34:59.029Z
+updated: 2024-09-16T16:29:49.573Z
 tags:
   - hardware
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224df2564f74c71f59044219de.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Critical Security Flaw in Popular Routers: Why Hackers Love Them & How To Protect Yourself
 
@@ -32,20 +18,6 @@ Security researchers have discovered a critical vulnerability that affects D-Lin
  Hackers can exploit the CVE to target the 'DEVICE.ACCOUNT.xml' file and obtain sensitive information, such as the device's password. Configuration files associated with access control lists (ACLs) and device firewall settings may also be targeted.
 
 ![The D-Link DIR-856 router on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/74.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 D-Link
 
@@ -69,8 +41,6 @@ D-Link
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,42 +50,24 @@ D-Link
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-script-to-screen-animating-stories-using-wmm/"><u>[New] 2024 Approved  From Script to Screen  Animating Stories Using WMM</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-sync-music-and-visuals-the-art-of-canva-editing/"><u>[New] 2024 Approved  Sync Music & Visuals  The Art of Canva Editing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-deciphering-the-language-of-youtube-live-images/"><u>[New] Deciphering the Language of YouTube Live Images</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-efficient-whiteboard-use-in-webinars-apple-android-and-pc-solutions-explored/"><u>[New] Efficient Whiteboard Use in Webinars  Apple, Android & PC Solutions Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-gameplay-success-with-ps3-screen-recording/"><u>[Updated] 2024 Approved  Unlocking Gameplay Success with PS3 Screen Recording</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy-for-2024/"><u>A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-choice-with-the-most-secure-waterproof-phonesleeves-on-the-market/"><u>Ace Your Choice with the Most Secure Waterproof Phonesleeves on the Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/android-update-timeline-revealed-for-pixel-6-just-three-years-worth-despite-previous-expectations-of-five/"><u>Android Update Timeline Revealed for Pixel 6: Just Three Years Worth, Despite Previous Expectations of Five</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-android-applications-the-ultimate-list-of-top-5-plant-identification-tools/"><u>Best Android Applications: The Ultimate List of Top 5 Plant Identification Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/clearing-data-storage-on-android-a-comprehensive-tutorial/"><u>Clearing Data Storage on Android: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/complete-walkthrough-freeing-up-space-by-deleting-the-trash-on-android-phones/"><u>Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-your-unique-android-experience-with-no-charge-a-step-by-step-guide/"><u>Crafting Your Unique Android Experience with No Charge: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-android-lock-screen-adjusting-and-styling-the-clock-display-for-a-personal-touch/"><u>DIY Android Lock Screen: Adjusting and Styling the Clock Display for a Personal Touch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-ignore-these-crucial-phone-features-why-they-matter/"><u>Don't Ignore These Crucial Phone Features - Why They Matter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enjoy-cinema-on-the-go-best-no-cost-mobile-apps-for-movie-lovers/"><u>Enjoy Cinema on the Go: Best No-Cost Mobile Apps for Movie Lovers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-steps-to-secure-your-android-device-against-theft/"><u>Essential Steps to Secure Your Android Device Against Theft</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-casual-player-to-pro-on-android-essential-tips-and-advice-for-gamers/"><u>From Casual Player to Pro on Android: Essential Tips & Advice for Gamers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-galaxy-f14-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Galaxy F14 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-k11-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo K11 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-android-app-permissions-a-comprehensive-guide/"><u>Mastering Android App Permissions: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/material-you-design-arrives-on-five-popular-android-devices-with-upcoming-android-12-update/"><u>Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/messaging-showdown-google-messages-vs-samsung-messages-on-android/"><u>Messaging Showdown: Google Messages Vs. Samsung Messages on Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pixel-9-versus-pixel-9-pro-and-xl-variants-a-comprehensive-showdown-explained/"><u>Pixel 9 Versus Pixel 9 Pro and XL Variants: A Comprehensive Showdown Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prepare-yourself-for-innovation-samsung-gears-up-to-release-galaxy-s23-lineup-in-february/"><u>Prepare Yourself for Innovation: Samsung Gears Up to Release Galaxy S23 Lineup in February</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-guide-instant-access-to-your-samsung-galaxys-camera-app/"><u>Quick Guide: Instant Access to Your Samsung Galaxy's Camera App</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/regular-maintenance-alert-setup-automatic-weekly-reboot-for-your-samsung-galaxy-device/"><u>Regular Maintenance Alert: Setup Automatic Weekly Reboot for Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-device-charge-with-new-satechi-stands-supporting-both-qi2-and-magsafe-technology/"><u>Revolutionize Your Device Charge with New Satechi Stands Supporting Both Qi2 and MagSafe Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-access-and-modify-image-metadata-on-android-smartphones/"><u>Step-by-Step Guide to Access and Modify Image Metadata on Android Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-to-a-new-default-google-account-on-your-android-device/"><u>Step-by-Step Guide: Switching to a New Default Google Account on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-troubleshooting-for-android-phones-stuck-in-emergency-call-mode/"><u>Step-by-Step Troubleshooting for Android Phones Stuck in Emergency Call Mode</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-prevent-intrusive-phone-calls-using-androids-call-blocking-features/"><u>Step-by-Step Tutorial: How to Prevent Intrusive Phone Calls Using Android's Call-Blocking Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-preventing-apps-from-connecting-to-the-web-on-your-android-phone/"><u>Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stop-automatic-bluetooth-pairing-on-android-a-simple-hack/"><u>Stop Automatic Bluetooth Pairing on Android: A Simple Hack</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-managing-and-reducing-android-phone-temperature/"><u>Strategies for Managing and Reducing Android Phone Temperature</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/syncing-and-streaming-your-smartphone-soundtrack-via-windows-11/"><u>Syncing and Streaming Your Smartphone Soundtrack via Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-simple-and-bland-looks-define-top-tier-smartphones-a-look-at-quality-over-flash/"><u>Why Simple and Bland Looks Define Top-Tier Smartphones: A Look at Quality Over Flash</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-reverse-the-norm-creative-methods-for-backward-youtube-watching/"><u>[New] 2024 Approved Reverse the Norm Creative Methods for Backward Youtube Watching</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-trifecta-guide-for-extracting-youtube-subtitled-content/"><u>[New] A Trifecta Guide for Extracting YouTube Subtitled Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtubes-power-for-profit-mastering-short-video-earnings-for-2024/"><u>[Updated] Harnessing YouTube's Power for Profit Mastering Short Video Earnings for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>2024 Approved A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-guru-toms-hardware-insider-guides/"><u>Gadget Guru Tom's Hardware Insider Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huawei-powered-first-ever-consumer-ssds-hit-shelves-meet-kitstores-premium-xtreme-series-with-ample-storage-up-to-4tb/"><u>Huawei-Powered First Ever Consumer SSDs Hit Shelves - Meet KitStore's Premium Xtreme Series with Ample Storage up to 4TB</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-production-cinematic-techniques-in-fcpx/"><u>In 2024, Elevate Your Video Production Cinematic Techniques in FCPX</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-social-caricature-craft-design-your-distinctive-avatar/"><u>In 2024, Social Caricature Craft Design Your Distinctive Avatar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-ultimate-method-for-mobile-igtv-downloads/"><u>In 2024, Your Ultimate Method for Mobile IGTV Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-gadget-guide-unlocking-the-secrets-of-pc-hardware/"><u>In-Depth Analysis by Tom's Gadget Guide: Unlocking the Secrets of PC Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-chinese-manufactured-risc-v-based-ssd-controller-delivers-superior-speed-with-14n-gbs-over-pcie-50-without-fan-support/"><u>Innovative Chinese Manufactured RISC-V Based SSD Controller Delivers Superior Speed with 14.n GB/S over PCIe 5.0 Without Fan Support</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector"
-date: 2024-09-10T11:13:24.935Z
-updated: 2024-09-11T11:13:24.935Z
+date: 2024-09-10T17:13:21.073Z
+updated: 2024-09-16T17:27:29.391Z
 tags:
   - hardware
 categories:
@@ -9,47 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34ec60d7f7f9e3cbb3a84553c.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -59,39 +19,11 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  For the entirety of my PC building career, the 4-pin Molex power connector has been there. At one point it felt like everything on my computer used it, but my love-hate relationship with this common connector is almost at an end, it seems. So it's time to prepare the eulogy.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Say Hello to the 4-Pin Molex
 
  The 4-pin Molex connector is a pin-and-socket design with a molded plug shaped to make it impossible to plug it in the wrong way around. It has four pins, with one yellow +12V, two black ground connectors, and one red +5V connection. Although, you'll find many variations on this pinout and wiring scheme as the connector has been adapted for different purposes over the years.
 
  Molex connectors provide power to electronic devices using a secure connection, and because the pins and socket have large contact areas and fit securely, it's appropriate to send power, rather than simply low-power signals.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  A Brief Look at a Long History
 
@@ -109,19 +41,12 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Two Molex connectors to one 6-pin PCI Express connector on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_244972945.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 [Olga Popova / Shutterstock.com](https://www.shutterstock.com/image-photo/two-molex-connectors-one-6pin-pci-244972945)
 
@@ -131,19 +56,18 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Also, while Molex represented a standard, some companies stuck to it so loosely, that quality could be widely different between cables. The only [computer fire](https://win-solutions.techidaily.com/solved-monster-hunter-rise-wont-start-fixed-solution-inside/) I have personally experienced was caused by a cheap Molex connector which shorted and melted, as flames licked out of the computer's vents. This isn't really the fault of the Molex connector design, just a symptom of a connector that anyone could make, and so some were made poorly.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How the 4-Pin Molex Is Hanging on Today
 
@@ -159,8 +83,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,39 +92,20 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>[New] 2024 Approved  Peals of Laughter  Fun Tones Websites Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-one-shot-screenshot-instruction-for-2024/"><u>[New] One-Shot Screenshot Instruction for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-are-earnings-associated-with-good-and-service-analysis/"><u>[Updated] 2024 Approved  Are Earnings Associated with Good and Service Analysis?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-verification-how-to-get-the-blue-verified-badge-easily-for-2024/"><u>[Updated] Facebook Verification  How to Get the Blue Verified Badge (Easily) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-top-ranked-wireless-keyboards-of-2024-unveiled/"><u>Comprehensive Review: Top-Ranked Wireless Keyboards of 2024 Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diving-into-comfort-the-complete-guide-to-bamboo-lab-a1-bed-in-a-slipcover-format-for-king-size-luxury/"><u>Diving Into Comfort: The Complete Guide to Bamboo Lab A1 Bed in a Slipcover Format for King-Size Luxury</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-cutting-edge-devices-by-tom/"><u>Expert Advice on Cutting-Edge Devices by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-computer-and-gadget-critiques-from-toms-hardware-authority/"><u>Expert Computer and Gadget Critiques From Tom's Hardware Authority</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fire-ant-infestation-on-gamers-pc-devouring-thermal-paste-and-wasteland-shocking-photo-evidence/"><u>Fire Ant Infestation on Gamer's PC: Devouring Thermal Paste & Wasteland - Shocking Photo Evidence</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-explore-these-6-powerful-instagram-reel-tools/"><u>In 2024, Explore These 6 Powerful Instagram Reel Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-high-quality-action-recorders-12-enhanced-with-gps-navigation/"><u>In 2024, High-Quality Action Recorders 12, Enhanced with GPS Navigation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-tech-gear-tips-from-toms-hardware-experts/"><u>Inside the World of Tech Gear: Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/loongsons-cutting-edge-chip-a-competitive-match-to-intels-16-core-ice-lake-processor/"><u>Loongson's Cutting-Edge Chip: A Competitive Match to Intel’s 16-Core Ice Lake Processor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/struggling-division-costs-intel-a-staggering-16-billion-loss-in-recent-quarter/"><u>Struggling Division Costs Intel a Staggering $1.6 Billion Loss in Recent Quarter</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/stylish-spectacles-trending-insta-filters-list/"><u>Stylish Spectacles  Trending Insta Filters List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/superior-liquid-cooling-solution-for-gamers-the-new-moora-iv-600-featuring-a-35lbs-radiator-and-9x-200mm-fans-at-600-price-point/"><u>Superior Liquid Cooling Solution for Gamers: The New MOORA IV 600 - Featuring a 35Lbs Radiator & 9X 200MM Fans at ~$600 Price Point</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-savvy-living-by-toms-gear-experts/"><u>The Definitive Guide to Tech Savvy Living by Tom's Gear Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-pulse-on-processors-memory-and-more-in-depth-hardware-reviews-by-tom/"><u>The Pulse on Processors, Memory & More: In-Depth Hardware Reviews by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-2024s-most-efficient-cpu-coolers-all-in-one-and-air-variants/"><u>The Ultimate Selection of 2024'S Most Efficient CPU Coolers: All-in-One and Air Variants</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/this-title-focuses-on-the-impressive-achievement-of-scoring-over-108000-points-while-also-explaining-that-it-is-achieved-through-multi-threading-tests-using57/"><u>This Title Focuses on the Impressive Achievement of Scoring over 108,000 Points, While Also Explaining that It Is Achieved Through Multi-Threading Tests Using the CPU-Z Benchmark</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts/"><u>Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-vivo-s18-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo S18 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-gadget-enthusiasts-a-deep-dive-into-toms-hardware-selection/"><u>Top Picks for Gadget Enthusiasts: A Deep Dive Into Tom's Hardware Selection</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-your-apex-legends-connections-expert-fixes/"><u>Troubleshooting Your Apex Legends Connections - Expert Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-hidden-gems-in-electronic-devices-with-tom/"><u>Uncovering Hidden Gems in Electronic Devices with Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-enthusiasts-insights-by-toms-hardware/"><u>Unlocking Performance Secrets for Enthusiasts - Insights by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-innovations-with-toms-technology-guides/"><u>Unveiling New Innovations with Tom's Technology Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-your-guide-to-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Your Guide to Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-tom/"><u>Unveiling the Latest in Technology with Tom</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[New] Step-by-Step Inserting Chapters in Vimeo Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[New] Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>[New] The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photobooth-video-glitch-understanding-the-halt/"><u>[Updated] Photobooth Video Glitch - Understanding the Halt</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-upward-landscapes-with-phones/"><u>In 2024, The Art of Upward Landscapes with Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-frameworks-upgraded-new-13-inch-laptops-with-advanced-intel-and-amd-zen-4-chipset/"><u>Revolutionary Frameworks Upgraded: New 13-Inch Laptops with Advanced Intel & AMD Zen 4 Chipset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-creating-your-own-dvd-backup-in-iso-format-with-winx-dvd-copy-software/"><u>Step-by-Step Guide: Creating Your Own DVD Backup in ISO Format with WinX DVD Copy Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-laptops-asus-unveils-a-customizable-zephyrus-g14-with-dynamic-colored-e-paper-screen-technology/"><u>The Future of Gaming Laptops: Asus Unveils a Customizable Zephyrus G14 with Dynamic Colored E-Paper Screen Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-components-by-toms-technology-hub/"><u>The Ultimate Guide to PC Components by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-the-latest-hardware/"><u>Tom's Tech Review: Comprehensive Insights on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-t172386287985010/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-digital-experience-with-the-highly-functional-acemagic-x1-the-must-have-two-screen-computer/"><u>Transform Your Digital Experience with the Highly Functional Acemagic X1: The Must-Have Two-Screen Computer.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-ringtones-guide-top-downloads/"><u>Ultimate Ringtones Guide Top Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-chatgpt-jailbreaks-pros-cons-and-should-you-utilize-them/"><u>Unveiling the Secrets of ChatGPT Jailbreaks: Pros, Cons & Should You Utilize Them?</u></a></li>
 </ul></div>
+

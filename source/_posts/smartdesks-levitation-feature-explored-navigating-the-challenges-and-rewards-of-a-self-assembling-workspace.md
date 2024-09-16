@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace"
-date: 2024-09-10T11:13:27.517Z
-updated: 2024-09-11T11:13:27.517Z
+date: 2024-09-11T16:55:36.143Z
+updated: 2024-09-16T17:22:22.522Z
 tags:
   - hardware
 categories:
@@ -40,20 +40,6 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 [$999 at Autonomous](https://www.autonomous.ai/standing-desks/smartdesk-levitate) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Price and Availability
 
@@ -101,61 +87,26 @@ Expand
 
 ![Autonomous SmartDesk Levidesk out of packaging and ready for assembly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-assembly.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Mark LoProto / How-to Geek
 
  I needed to wire each leg to its counterpart, which meant fussing with tight built-in wire wells and various connectors. Making matters worse, the instructions weren't accurate to the actual assembly. As I got to the second to last step, I realized the instructions had mislabeled two legs, which meant they had mismatched wires. I stepped away for a minute before returning to break the table down to the initial steps.
 
 ![Autonomous SmartDesk Levidesk wire organization and built-in wells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-wires.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Mark LoProto / How-to Geek
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ###  Durable Frame and Sturdy Desktop
 
  A two-motor setup would have been infinitely easier to assemble. I tend to find the thicker dual legs on models like [FlexiSpots Q8](https://youtube-videos.techidaily.com/new-essential-tips-for-youtube-shorts-success/) and [SecretLab's Magnus Pro](https://instagram-video-recordings.techidaily.com/new-mastering-amazing-ig-video-creation-for-2024/) offer better stability. The SmartDesk Levitate’s frame is made of thick steel, so while the legs were a little shaky, I was confident it wouldn’t randomly collapse. I was surprised by the 310-pound weight limit, even at its maximum height of 44.1 inches. I expected it to be lower, especially considering the Magnus Pro tops at 265lbs and feels like a more stable desk.
 
  The desktop itself is also a nice, light wood finish. It reminds me a little of FlexiSpot’s Q8 Pro Standing Desk, just thicker. Unfortunately, the thick desktop and steel frame made it impossible for me to use my clamp monitor arm without having to modify the arm in ways it’s not meant to be modified.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Levitate Sensor: Who Asked for This?
 
@@ -167,19 +118,12 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ###  It’s Not All Bad
 
@@ -191,23 +135,16 @@ Mark LoProto / How-to Geek
 
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Mark LoProto / How-to Geek
 
@@ -227,20 +164,6 @@ Mark LoProto / How-to Geek
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 #####  Autonomous SmartDesk Levitate
 
 5/ 10 
@@ -255,8 +178,6 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,34 +187,16 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-a-beginners-insight-into-av1-encoding/"><u>[New] A Beginner's Insight Into AV1 Encoding</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-tech-for-instant-time-lapse-videos/"><u>2024 Approved  Essential Tech for Instant Time-Lapse Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-6-social-spaces-for-enterprise-driven-collaboration/"><u>2024 Approved  Leading 6 Social Spaces for Enterprise-Driven Collaboration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-installation-process-of-wm6/"><u>2024 Approved  Master Installation Process of WM6</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expedited-removal-strategies-for-ssgnature-bg/"><u>Expedited Removal Strategies for Ssgnature BG</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/googles-proven-technique-for-accurate-speech-conversion/"><u>Google’s Proven Technique for Accurate Speech Conversion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-impact-text-visual-effects/"><u>High-Impact Text Visual Effects</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-honor-70-lite-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Honor 70 Lite 5G Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-how-luts-transform-visual-elements-in-photos/"><u>In 2024, Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-new-technology-trends-insights-from-toms-hardware-hub/"><u>Navigate New Technology Trends: Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-gamers-display-in-depth-review-of-the-colorful-oled-asus-rog-swift-pg49wcd-monitor/"><u>Next-Level Gamers' Display: In-Depth Review of the Colorful OLED Asus ROG Swift PG49WCD Monitor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/nvidias-decision-why-the-rtx-40-series-maintains-displayport-14-despite-uhbr-certification-issues/"><u>NVIDIA's Decision: Why the RTX 40 Series Maintains DisplayPort 1.4 Despite UHBR Certification Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-tips-for-your-tech-needs-toms-hardware-way/"><u>Precision Tips for Your Tech Needs - Tom's Hardware Way</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-samsung-odyssey-g50a-a-quality-27-qhd-ips-display-now-at-only-255-on-amazon/"><u>Save Big with the Samsung Odyssey G50A - A Quality 27 QHD IPS Display Now At Only $255 on Amazon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/saving-money-without-sacrificing-quality-an-expert-take-on-144hz-and-40-inch-monoprices-gaming-marvel-at-a-steal-price/"><u>Saving Money without Sacrificing Quality: An Expert Take on 144Hz and 40-Inch Monoprice's Gaming Marvel at a Steal Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-on-your-game-setup-with-alienwares-curved-masterpiece-secure-100-off-the-aw3225qf-stunning-4k-gaming-qd-oled-quality-and-ultra-fast-240-hz-refresh61/"><u>Score Big on Your Game Setup with Alienware's Curved Masterpiece: Secure $100 Off the AW3225QF - Stunning 4K Gaming, QD-OLED Quality & Ultra Fast 240 Hz Refresh Rate</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/steal-the-deal-acers-34-wqhd-curved-monitor-for-a-steal-at-just-200-newegg-exclusive/"><u>Steal the Deal: Acer's 34 WQHD Curved Monitor for a Steal at Just $200 - Newegg Exclusive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tcl-unveils-next-gen-4k-display-gamers-experience-up-to-1000-hz-smoothness/"><u>TCL Unveils Next-Gen 4K Display: Gamers Experience Up to 1,000 Hz Smoothness</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-reviews-and-insights-by-toms-hardware-your-ultimate-guide/"><u>Tech Reviews & Insights by Tom's Hardware: Your Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-resource-following-toms-hardware-trail/"><u>The Ultimate Tech Resource: Following Tom's Hardware Trail</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/title-in-depth-performance-analysis-of-the-asus-rog-strix-xg27acs-at-an-unmatched-180hz-for-gamers/"><u>Title: In-Depth Performance Analysis of the Asus ROG Strix XG27ACS at an Unmatched 180Hz for Gamers.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-gear-insights/"><u>Tom's Tech Hub: Comprehensive Reviews & Gear Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware-t17238628801375/"><u>Tom's Tech Hub: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-display-panels-of-2024-ideal-for-gamers-and-remote-work/"><u>Top Rated Portable Display Panels of 2024: Ideal for Gamers & Remote Work</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-a-stunning-lg-34-inch-curved-ultragear-monitor-for-just-under-500/"><u>Transform Your Workspace with a Stunning LG 34-Inch Curved UltraGear Monitor for Just Under $500.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-aoc-agon-pro-ag456uczd-top-rated-45-ultrawide-oled-gamers-dream-display-with-incredible-speed-and-design/"><u>Ultimate Guide to the AOC Agon Pro AG456UCZD - Top Rated 45 Ultrawide OLED Gamer's Dream Display with Incredible Speed & Design!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-in-depth-hardware-review-hub/"><u>Unveiling Gadgets with Tom: In-Depth Hardware Review Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-comprehensive-review-of-feelworlds-foldable-monitor-dh1-for-tech-enthusiasts-seeking-compactness-and-functionality/"><u>Unveiling the Potential: Comprehensive Review of Feelworld's Foldable Monitor DH1# for Tech Enthusiasts Seeking Compactness and Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-entertainment-asrocks-spectacular-32-inch-er-hz-oled-tv-perfect-for-router-connections/"><u>Upgrade Your Entertainment: ASROCK's Spectacular 32-Inch, Er Hz OLED TV - Perfect for Router Connections</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-social-media-platforms-exploring-the-meaning-and-impact-of-fbs-metaverse/"><u>Beyond Social Media Platforms: Exploring the Meaning & Impact of FB’s Metaverse</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-effective-power-indicators-in-windows/"><u>Crafting Effective Power Indicators in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-photovideo-gimbal-unmatched-stabilization/"><u>Dynamic Photo/Video Gimbal Unmatched Stabilization</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/examining-performance-fluctuations-in-seatechs-portable-blu-ray-burner-for-external-usb-use/"><u>Examining Performance Fluctuations in SeaTech's Portable Blu-Ray Burner for External USB Use</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-10-virtual-photo-backdrop-modifiers/"><u>Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-inadvertent-tiktok-redownload-whats-next/"><u>In 2024, Inadvertent TikTok Redownload – What's Next?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-up-your-game-with-the-new-acer-triad-of-oled-monitors-showcasing-the-fastest-480hz-in-the-market-predator-x27u-f3/"><u>Step Up Your Game with the New Acer Triad of OLED Monitors, Showcasing the Fastest 480Hz in the Market: Predator X27U F3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-computer-hardware-by-toms-electronic-forum/"><u>The Definitive Guide to Computer Hardware by Tom's Electronic Forum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-hardware-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Hardware by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-the-ultimate-guide/"><u>Tom's Hardware Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
 </ul></div>
+

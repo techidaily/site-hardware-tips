@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Implementing Interactive Buttons in Android Applications"
-date: 2024-09-05T21:31:04.773Z
-updated: 2024-09-06T21:31:04.773Z
+date: 2024-09-10T16:18:41.372Z
+updated: 2024-09-16T17:26:15.643Z
 tags:
   - android
 categories:
@@ -9,32 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Tutorial: Implementing Interactive Buttons in Android Applications
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Button Mapper](https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2020-unavailable-issue-with-ease-drfone-by-drfone-ios/)
@@ -55,28 +31,10 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
  When you select a button to customize, you can enable actions for single taps, double taps, or long-pressing the button. There's a long list of available actions. Things like toggling the flashlight, switching to the last app, voice typing, opening the camera, and launching apps. It's a powerful tool that can add tons of extra features to your phone.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tap the Back of Your Phone
 
 ![Finger tapping the back of Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-tap-back.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  You may not know this, but the back of your Android phone can also be used as a button. Google Pixel and Samsung Galaxy devices have built-in features for doing this, and all other devices can use a handy third-party app.
@@ -88,27 +46,29 @@ Joe Fedewa / How-To Geek
  For everyone else, an app called "Tap, Tap" works very similar to Samsung's official method. You can set up actions for double-tap and triple-tap and further adjust how and when the gestures should be detected. The app works for all Android devices. [Check out our full guide for all three methods](https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-narzo-n53-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Dimple Buttons
 
 ![dimple.io buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dimpleio.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Unbox Therapy](https://youtu.be/6Mp01eg0-ZM)
 
  We've been talking about using the buttons already available on your device, but there's actually a clever solution for adding even more physical buttons. The product is called “[Dimple.io](https://dimple.io/)," and it can add up to four buttons to any phone with NFC. That covers pretty much any Android phone on the market.
@@ -129,8 +89,6 @@ Add up to four buttons to the back of your phone using the power of NFC.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,43 +98,18 @@ Add up to four buttons to the back of your phone using the power of NFC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-creating-smooth-motion-flows-the-ken-burns-effect-walkthrough-for-2024/"><u>[New] Creating Smooth Motion Flows  The Ken Burns Effect Walkthrough for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-cross-platform-content-transfer-youtube-meets-facebook-for-2024/"><u>[Updated] Cross-Platform Content Transfer  YouTube Meets Facebook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-clarity-the-essential-list-of-macos-recorders/"><u>[Updated] In 2024, Capturing Clarity  The Essential List of macOS Recorders</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-chat-with-direct-spotify-streaming-in-discord/"><u>[Updated] In 2024, Enhance Your Chat with Direct Spotify Streaming in Discord</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-quick-climb-up-the-feed-use-of-likes-and-video-content/"><u>[Updated] Quick Climb Up the Feed  Use of Likes and Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>[Updated] Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>2024 Approved  Ideal Illustration Tools for Windows  No Cost, High Prices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-gamers-choice-the-finest-pc-cases-tested-in-202am-optimized-for-your-next-upgrade/"><u>Ace Gamer's Choice: The Finest PC Cases Tested in 202Am, Optimized for Your Next Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-reviews-with-a-focus-on-performance-toms-hardware-unveiled/"><u>Advanced Gadget Reviews with a Focus on Performance – Tom's Hardware Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-overviews-discover-more-at-tomngear/"><u>Advanced Tech Overviews: Discover More at Tom'n'Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-9-9950x-shatters-benchmarking-records-on-cinebench-r23-at-65ghz-a-new-era-of-processor-performance/"><u>AMD's Ryzen 9 9950X Shatters Benchmarking Records on Cinebench R23 at 6.5GHz: A New Era of Processor Performance</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/practices-in-choosing-the-perfect-format-for-youtube-videos/"><u>Best Practices in Choosing the Perfect Format for YouTube Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-at-toms-electronic-emporium/"><u>Discover Cutting-Edge Devices at Tom's Electronic Emporium</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-innovative-hardware-solutions-on-toms-review-platform/"><u>Discover Innovative Hardware Solutions on Tom’s Review Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-toms-hardware-reviews-and-insights-online/"><u>Discover Tom's Hardware Reviews and Insights Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-hassle-free-pc-cooling-the-upcoming-tim-applying-solution-by-x-apply-no-more-mistakes-guaranteed/"><u>Experience Hassle-Free PC Cooling: The Upcoming TIM Applying Solution by X-Apply – No More Mistakes Guaranteed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-power-of-qidi-tech-q1-pro-a-comprehensive-gaming-headset-evaluation/"><u>Experience the Power of QIDI Tech Q1 Pro - A Comprehensive Gaming Headset Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-analysis-on-cutting-edge-electronics-toms-hardware-experts/"><u>Expert Advice and Analysis on Cutting-Edge Electronics - Tom's Hardware Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-hidden-how-to-make-your-youtube-comments-visible-again/"><u>Fix the Hidden: How to Make Your YouTube Comments Visible Again</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-premium-printing-quality-instantly-grab-the-editor-selected-elegoo-neptune-4-pro-for-75-less/"><u>Get Premium Printing Quality Instantly: Grab the Editor-Selected Elegoo Neptune 4 Pro for $75 Less</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125156692-get-the-ultimate-deal-highly-rated-eleegoo-neptune-4-pro-now-priced-at-240-on-newegg/"><u>Get the Ultimate Deal - Highly Rated Eleegoo Neptune 4 Pro Now Priced at $240 on Newegg!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-x-flip-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo X Flip</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-analysis-by-toms-gadget-guide/"><u>In-Depth Hardware Analysis by Tom's Gadget Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-noctuas-investigation-of-reported-rattling-phenomenon-on-their-nh-d15-g2-cpu-cooler-units/"><u>Inside Noctua’s Investigation of Reported Rattling Phenomenon on Their NH-D15 G2 CPU Cooler Units</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/kodak-fz53-zoom-affordable-photography-companion/"><u>Kodak FZ53 Zoom: Affordable Photography Companion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-game-with-these-premier-gaming-chair-reviews-and-ratings/"><u>Master the Game with These Premier Gaming Chair Reviews and Ratings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-digital-devices-wisdom-from-toms-hardware-analysis/"><u>Mastering Digital Devices: Wisdom From Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-tom-the-ultimate-guide-to-pc-building/"><u>Mastering Hardware with Tom: The Ultimate Guide to PC Building</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-guidance/"><u>Navigating the World of Gadgets with Tom's Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-critiques-from-toms-authority-hub/"><u>Pioneering Hardware Critiques From Tom's Authority Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-evaluations-of-electronics-with-toms-hardware/"><u>Professional Evaluations of Electronics with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-the-77-aliexpress-3d-printer-delivers-quality-performance/"><u>Review: The $77 AliExpress 3D Printer Delivers Quality Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-7-unbreakable-methods-for-complete-file-deletion-on-any-computer/"><u>Top 7 Unbreakable Methods for Complete File Deletion on Any Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choice-air-cooled-heatsinks-of-2024-your-guide/"><u>Top Choice Air-Cooled Heatsinks of 2024: Your Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-enclosures-of-2024-a-comprehensive-guide/"><u>Top Raspberry Pi Enclosures of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/troubleshooting-sony-a6400-lost-video-viewing/"><u>Troubleshooting Sony A6400  Lost Video Viewing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlock-insta-money-potential-with-our-top-7-list/"><u>Unlock Insta Money Potential with Our Top 7 List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-a-comprehensive-guide-to-new-hardware/"><u>Unveiling Gadgets with Tom: A Comprehensive Guide to New Hardware</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-hidden-shot-snaps-keeping-your-captures-under-wraps-for-2024/"><u>[New] Hidden Shot Snaps Keeping Your Captures Under Wraps for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-ranking-8-proven-online-promotion-techniques-for-videos/"><u>[New] Ranking 8 Proven Online Promotion Techniques for Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-top-5-mac-snippet-applications-for-2024/"><u>[Updated] Unveiling Top 5 Mac Snippet Applications for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-innovation-frores-new-airjet-mini-sport-a-subaquatic-solid-state-active-cooler-without-a-fan-for-ultimate-performance/"><u>Dive Into Innovation: Frore's New AirJet Mini Sport - A Subaquatic Solid-State Active Cooler Without a Fan for Ultimate Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-rectify-a-non-heating-bed-in-your-3d-printer-comprehensive-guide/"><u>How To Rectify A Non-Heating Bed In Your 3D Printer: Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>In 2024, Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-choosing-an-exceptional-home-use-xtool-s1-diode-laser-cutting-device/"><u>The Definitive Guide to Choosing an Exceptional Home-Use XTool S1 Diode Laser Cutting Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-collection-of-gopro-complements-for-2024/"><u>The Prime Collection of GoPro Complements for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-evaluation-of-the-google-pixel-3-the-quintessential-android-experience/"><u>Ultimate Evaluation of the Google Pixel 3: The Quintessential Android Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminating-latency-issues-and-reducing-high-ping-in-bless-unleashed-on-pc/"><u>Ultimate Guide: Eliminating Latency Issues & Reducing High Ping in Bless Unleashed on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-resolving-elephants-leg-problems-in-3d-printing/"><u>Ultimate Guide: Resolving Elephant's Leg Problems in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-affordable-precision-with-elegoo-neptune-4-pro-a-comprehensive-review/"><u>Unlock Affordable Precision with Elegoo Neptune 4 Pro - A Comprehensive Review</u></a></li>
 </ul></div>
+

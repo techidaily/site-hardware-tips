@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of SwitchBot's All-in-One Remote: A Closer Look at Its Features and Limitations"
-date: 2024-09-10T11:13:24.582Z
-updated: 2024-09-11T11:13:24.582Z
+date: 2024-09-11T16:16:46.327Z
+updated: 2024-09-16T17:10:25.390Z
 tags:
   - hardware
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755652a56d2cc4cf20f4740048.png
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Comprehensive Review of SwitchBot's All-in-One Remote: A Closer Look at Its Features and Limitations
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -98,20 +70,6 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
 ![SwitchBot Universal Remote on a couch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-on-a-couch.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Tyler Hayes / How-To Geek
 
  I was primed to love the Universal Remote from SwitchBot because I desperately want more ways to control the smart lights, blinds, and other connected devices in my house. That’s not sarcastic either. Yelling out for Siri is handy, but not always convenient. Neither is constantly needing to pull out my phone and open an app.
@@ -126,23 +84,22 @@ Tyler Hayes / How-To Geek
 
  I ran into enough hiccups during and after the setup process, with commands not being synced or registered, that I wonder if, in the end, the result is worth the benefit for most people.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  The Universal Remote Can do A lot, But Probably Won’t
 
 ![hand holding showing Matter buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-showing-matter-buttons.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -159,6 +116,19 @@ Close
 ##  The Design Is Nice Enough but a Little Boring
 
 ![Apple TV remote next to SwitchBot Universal Remote](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/apple-tv-remote-next-to-switchbot-universal-remote.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -178,37 +148,16 @@ Tyler Hayes / How-To Geek
 
  Similarly, Alexa and Google Home support are said to be coming in the future as well. The remote is continuing to get software updates to rid it of bugs too. This is all great and encouraging, but don’t buy the Universal Remote now if you plan on using it with one of those devices. Wait until the features are released.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Battery Is a Highlight
 
 ![SwitchBot Universal Remote lying upside down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-lying-upside-down.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -216,43 +165,16 @@ Tyler Hayes / How-To Geek
 
  SwitchBot advertises a 150-day battery life and even though I haven’t used the remote for half a year, that number doesn’t shock me. When I did test recharging the remote, the USB-C port at the bottom powered it up quickly.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Should You Buy the SwitchBot Universal Remote?
 
 ![hand holding SwitchBot Universal Remote showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-switchbot-universal-remote-showing-buttons.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -278,8 +200,6 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,39 +209,14 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-recording-device-quality-analysis/"><u>[New] 2024 Approved  Recording Device Quality Analysis</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices/"><u>[New] In 2024, Your Ultimate Guide to Choosing VR Headsets  Opt for Easy Steps with Mobile or Connected Devices?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades/"><u>[New] The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-expert-free-fb-image-creator-no-fee/"><u>[Updated] 2024 Approved  Expert Free FB Image Creator (No Fee)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screen-savants-a-comprehensive-guide-to-hd-recorders/"><u>[Updated] 2024 Approved  Screen Savants  A Comprehensive Guide to HD Recorders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-make-your-mark-active-living-on-facebook/"><u>2024 Approved  How to Make Your Mark  Active Living on Facebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-guide-for-selecting-tiktok-wallpapers/"><u>2024 Approved  Master Guide for Selecting TikTok Wallpapers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-system-insights-by-toms-computing-hub/"><u>Advanced System Insights by Tom's Computing Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-voiding-your-intels-cpu-warranty-the-essential-guide-to-choosing-the-right-liquid-freezer-iii-from-arctic-with-contact-frames/"><u>Avoid Voiding Your Intels CPU Warranty: The Essential Guide to Choosing the Right Liquid Freezer III From Arctic With Contact Frames</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-with-noctuas-ultimate-cooler-designed-specifically-for-nvidia-gh200-superchip/"><u>Beat the Heat with Noctua's Ultimate Cooler Designed Specifically for Nvidia GH200 Superchip</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/become-officially-recognized-how-to-secure-verification-on-the-platform-once-called-twitter/"><u>Become Officially Recognized: How To Secure Verification On The Platform Once Called Twitter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-in-class-ultrawide-gaming-monitors-reviewed-2024-edition/"><u>Best-in-Class Ultrawide Gaming Monitors Reviewed: 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-gamers-keyboard-our-verdict-on-full-size-half-tkl-and-mini-options/"><u>Choosing the Right Gamers' Keyboard : Our Verdict on Full-Size, Half (TKL) & Mini Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-curated-by-toms-team/"><u>Comprehensive Hardware Guides Curated by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-down-installation-time-discover-how-corsairs-redesigned-fan-screws-make-lightning-fast-pc-setup/"><u>Cut Down Installation Time: Discover How Corsair's Redesigned Fan Screws Make Lightning-Fast PC Setup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-3d-printing-technology-of-2024-featuring-fdm-resin-and-economical-options-under-250/"><u>Discover the Best 3D Printing Technology of 2024: Featuring FDM, Resin and Economical Options Under $250</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-3d-toolkit-creating-engaging-video-beginnings/"><u>Essential 3D Toolkit  Creating Engaging Video Beginnings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-power-the-ultimate-selection-of-psus-for-gamers/"><u>Future-Proof Power: The Ultimate Selection of PSUs for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-choice-analyzing-the-pros-and-cons-of-game-downloads/"><u>Gamer's Choice: Analyzing the Pros & Cons of Game Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125188820-get-phrozens-premium-sonic-mini-8k-s-resin-printer-for-a-steal-at-325/"><u>Get Phrozen's Premium Sonic Mini 8K S Resin Printer for a Steal at $325!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-3d-printing-with-the-powerful-anycubic-kobra-max-expert-review-inside/"><u>Master the Art of 3D Printing with the Powerful Anycubic Kobra Max - Expert Review Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-modern-electronics-with-toms-expert-hardware-analysis/"><u>Mastering Modern Electronics with Tom's Expert Hardware Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/measuring-electrical-use-for-windows-pcs-effectively/"><u>Measuring Electrical Use for Windows PCs Effectively</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-circuitry-maze-top-picks-by-toms-gadget-analysis/"><u>Navigating the Circuitry Maze: Top Picks by Tom’s Gadget Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-guide/"><u>Navigating the Latest in Computer Hardware with Tom's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-professional-insights-from-toms-hardware/"><u>Navigating the Tech Landscape: Professional Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-trustworthy-hardware-reviews-by-tom/"><u>Navigating the World of Tech: Trustworthy Hardware Reviews by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-equipment-evaluations-at-toms-systems-critique/"><u>Precision Equipment Evaluations at Tom's Systems Critique</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-electronics-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Electronics Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-gaming-bundle-sale-snag-the-powerful-aurora-r16-pc-and-impressive-34-alienware-oled-for-just-over-half-price-save-700-today/"><u>Ultimate Gaming Bundle Sale: Snag the Powerful Aurora R16 PC & Impressive 34 Alienware OLED for Just Over Half Price – Save $700 Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-potential-in-additive-manufacturing-learn-the-five-key-stages-of-design-optimization/"><u>Unlock Potential in Additive Manufacturing: Learn the Five Key Stages of Design Optimization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/valkyrie-sync-240-aio-liquid-cooler-evaluation-excellent-thermal-management-but-user-unfriendly-interface/"><u>Valkyrie Sync 240 AIO Liquid Cooler Evaluation: Excellent Thermal Management but User-Unfriendly Interface</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-icdrama-ultimate-guide-seamless-installation-of-the-kodi-addon-for-authentic-asian-entertainment/"><u>1. ICDRAMA Ultimate Guide: Seamless Installation of the Kodi Addon for Authentic Asian Entertainment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dells-newest-xps-13-plus-revolutionizing-battery-efficiency-with-qualcomm-snapdragon-x-chips/"><u>Dell's Newest XPS 13 Plus: Revolutionizing Battery Efficiency with Qualcomm Snapdragon X Chips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-endurance-with-lenovos-new-thinkpad-t1-4s-exclusive-specs-include-up-to-29-hour-battery-life-x-elite-cpu-and-expansive-storage/"><u>Experience Unmatched Endurance with Lenovo's New ThinkPad T1 4S: Exclusive Specs Include Up to 29-Hour Battery Life, X Elite CPU and Expansive Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-insights/"><u>Exploring the Latest Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/finding-the-one-how-ai-assistant-chatgpt-transforms-modern-dating/"><u>Finding 'The One': How AI Assistant ChatGPT Transforms Modern Dating</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Samsung Galaxy F15 5G.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-digital-dollars-an-effective-triple-step-process-to-determine-your-subscriber-profits/"><u>In 2024, Decoding Digital Dollars An Effective Triple Step Process to Determine Your Subscriber Profits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-explanation-designer-for-2024/"><u>Lyrical Explanation Designer for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-electric-cars-a-side-by-side-of-bev-phev-fcev-and-hybrid-models/"><u>Understanding Electric Cars: A Side-by-Side of BEV, PHEV, FCEV, and Hybrid Models</u></a></li>
 </ul></div>
+

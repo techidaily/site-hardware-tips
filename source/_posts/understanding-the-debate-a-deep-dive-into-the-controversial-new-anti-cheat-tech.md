@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech"
-date: 2024-09-10T11:13:28.623Z
-updated: 2024-09-11T11:13:28.623Z
+date: 2024-09-15T17:17:51.560Z
+updated: 2024-09-16T16:58:10.920Z
 tags:
   - hardware
 categories:
@@ -9,41 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0dba8c64f2b9f80cb0b9c338e.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -71,25 +37,12 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  However, allowing companies to install software with this level of access onto your machine seems like overkill for the average at-home gamer. With anti-cheat software able to monitor all programs on your machine, you run the risk of facing bans (many of them being hardware) for having any program deemed suspicious with no recourse to challenge it. Giving large companies to have such unfettered access to your PC, superseding your _own_ access rights, sets a potentially dangerous precedent that could affect the safety of your PC and your data.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Risking the Safety of Your PC
 
@@ -99,43 +52,22 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  What’s concerning, is that any weaknesses in these systems which can be exploited aren’t just localized to one application, but the _entire_ system. Compound that with the fact that more game developers are shipping their own kernel-level anti-cheats, and you now have several potential points of failure within your OS kernel. That’s a pretty significant risk, especially when most PC gamers are unlikely to have a dedicated machine just for gaming.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Balancing User Security and Competitive Fairness
 
 ![Team of Professional eSport Gamers Playing in Competitive Video Games on a Cyber Games Tournament. They Lost. Emotionally Charged Moment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_705666403.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Gorodenkoff/shutterstock.com
 
@@ -144,20 +76,6 @@ Gorodenkoff/shutterstock.com
  However, strong-arming players into downloading kernel-level software onto their personal machines in order to play games is an uncomfortable proposition that extends beyond fairness. Asking players to compromise their machine safety to play _games_ is unreasonable, and relies on players not understanding the risks involved in kernel-level software.
 
  Developers need to be held accountable for protecting the rights of their player base with extensive and transparent privacy policies, while also returning control to the user. There is no reason why anti-cheat software needs to be running as a background process when you are not playing a game, or if you are using hacks for single-player games. However, until there’s ample incentive for developers, this is unlikely to change.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Getting to the Kernel of Truth
 
@@ -171,8 +89,6 @@ Gorodenkoff/shutterstock.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,44 +98,21 @@ Gorodenkoff/shutterstock.com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-5-second-lapses-recorder-top-pick-for-2024/"><u>[New] Best 5-Second Lapses Recorder - Top Pick for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-complete-guide-to-capturing-ps4-games-via-obs/"><u>[New] In 2024, Complete Guide to Capturing PS4 Games via OBS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-creative-power-of-youtube-themes/"><u>[New] Unlock Creative Power of YouTube Themes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-vimeo-vs-youtube-differences-between-vimeo-and-youtube/"><u>[New] Vimeo vs YouTube  Differences Between Vimeo and YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-a-unique-identity-step-by-step-audio-customizations-on-android-phones/"><u>[Updated] Crafting a Unique Identity  Step-by-Step Audio Customizations on Android Phones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snapchat-three-simple-steps-for-calls-and-chats-for-2024/"><u>[Updated] Mastering Snapchat  Three Simple Steps for Calls and Chats for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-capabilities-upgrading-to-macos-sierra/"><u>[Updated] Maximizing Capabilities  Upgrading to macOS Sierra</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-visionary-leap-the-ubd-k850-ultrablade-2023/"><u>[Updated] Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-exclusive-12-live-views-at-your-fingertips/"><u>2024 Approved  Exclusive 12 Live Views at Your Fingertips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-snapchat-gif-steps-for-every-user/"><u>2024 Approved  The Ultimate Snapchat GIF Steps for Every User</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/8gb-gpu-capabilities-ideal-for-casual-games-or-need-more/"><u>8GB GPU Capabilities: Ideal for Casual Games or Need More?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-guide-to-usb-cable-colors-what-do-blue-yellow-and-red-mean/"><u>A Comprehensive Guide to USB Cable Colors: What Do Blue, Yellow and Red Mean?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-essential-tech-gadget-maintenance-kits-a-must-have-for-every-device/"><u>Affordable Essential Tech Gadget Maintenance Kits: A Must-Have for Every Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/alternate-avenues-10-great-games-like-gta-v-for-2024/"><u>Alternate Avenues  10 Great Games Like GTA V for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2010-files-easily-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2010 Files Easily</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-get-your-discord-webcam-functioning-again/"><u>Fixing the Issue: How to Get Your Discord Webcam Functioning Again</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/follow-the-leaders-on-igtv-for-inspiration-for-2024/"><u>Follow the Leaders on IGTV for Inspiration for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fun-filled-family-adventure-our-in-depth-review-of-plants-vs-zombies-battle-for-neighborville/"><u>Fun-Filled Family Adventure! Our In-Depth Review of Plants Vs. Zombies: Battle for Neighborville</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-watch-instagram-live-anonymously-for-2024/"><u>How to Watch Instagram Live Anonymously for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-by-skipping-high-end-gpus-smart-investing-with-budget-graphics-options/"><u>Save Big by Skipping High-End GPUs - Smart Investing with Budget Graphics Options</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/smartdesks-levitation-feature-explored-navigating-the-challenges-and-rewards-of-a-self-assembling-workspace/"><u>SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-assess-the-strength-of-your-home-internet-connection-through-wi-fi-signals/"><u>Step-by-Step Tutorial: How To Assess the Strength of Your Home Internet Connection Through Wi-Fi Signals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/streamline-your-surveillance-blink-simplifies-multi-camera-control/"><u>Streamline Your Surveillance: Blink Simplifies Multi-Camera Control</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-dawn-of-ultimate-storage-mobility-worlddirects-groundbreaking-6tb-solid-state-drive-launches/"><u>The Dawn of Ultimate Storage Mobility - WorldDirect's Groundbreaking 6TB Solid State Drive Launches</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-game-changer-in-portable-computing-asus-expertbook-p5-featuring-revolutionary-energy-efficiency-and-expandable-ram-up-to-32gb/"><u>The Game Changer in Portable Computing - ASUS ExpertBook P5 Featuring Revolutionary Energy Efficiency & Expandable RAM up to ^32GB</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-snappy-driver-installer-v113-user-insights-and-review/"><u>The Ultimate Guide to Snappy Driver Installer v1.13 - User Insights & Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/this-weeks-tech-highlights-discontinuation-of-netflix-basic-plan-and-improved-strategies-for-iphone-fixes/"><u>This Week's Tech Highlights: Discontinuation of Netflix Basic Plan & Improved Strategies for iPhone Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-pitfalls-in-designing-your-intelligent-residence-tips-for-effective-smart-home-planning/"><u>Top 10 Pitfalls in Designing Your Intelligent Residence: Tips for Effective Smart Home Planning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-expectations-from-nvidias-revolutionary-arm-based-cpu-architecture/"><u>Top 5 Expectations From NVIDIA's Revolutionary ARM-Based CPU Architecture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-leading-network-attached-storage-nas-solutions-optimized-for-plex/"><u>Top Picks: Leading Network-Attached Storage (NAS) Solutions Optimized for Plex</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-pro-11-protective-covers-shop-now/"><u>Top Rated iPad Pro 11 Protective Covers - Shop Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-bargains-secure-playstation-vr-for-only-690-high-quality-airpods-at-a-steal-and-reliable-anker-power-stations/"><u>Top Tech Bargains: Secure PlayStation VR² for Only $690, High-Quality AirPods at a Steal, and Reliable Anker Power Stations!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-photo-scanners-the-ultimate-buyers-guide/"><u>Top-Rated Photo Scanners : The Ultimate Buyer's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-audio-experience-with-a-switch-from-stereo-to-immersive-spatial-headphones/"><u>Transform Your Audio Experience with a Switch From Stereo to Immersive Spatial Headphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-gadget-offers-score-deals-on-galaxy-s24-fire-tv-stick-plus-essential-eco-friendly-tech-products/"><u>Unbeatable Gadget Offers: Score Deals on Galaxy S24, Fire TV Stick + Essential Eco-Friendly Tech Products!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-importance-of-a-central-hub-in-managing-your-smart-home-ecosystem/"><u>Understanding The Importance of A Central Hub in Managing Your Smart Home Ecosystem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-mystery-how-artificial-intelligence-enhances-your-logitech-mouse-experience/"><u>Unveiling the Mystery: How Artificial Intelligence Enhances Your Logitech Mouse Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unwanted-watchfulness-alert-the-unseen-cameras-lurking-in-your-eco-friendly-cleaning-device/"><u>Unwanted Watchfulness Alert: The Unseen Cameras Lurking in Your Eco-Friendly Cleaning Device!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-discover-prime-sites-to-download-your-got-favorite-tunes-for-2024/"><u>[New] Discover Prime Sites to Download Your GoT Favorite Tunes for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-zoom-tools-for-clear-session-capture/"><u>[Updated] 2024 Approved Best Zoom Tools for Clear Session Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-can-a-brief-subscribe-boost-your-content-viewing-for-2024/"><u>[Updated] Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-essential-tips-for-skyrocketing-your-instagram-followers/"><u>2024 Approved Essential Tips for Skyrocketing Your Instagram Followers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-monetization-101-a-step-by-step-guide-for-profits/"><u>2024 Approved Vimeo Monetization 101 A Step-by-Step Guide for Profits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-uncovered-by-tom-top-picks-and-performance-tips/"><u>Advanced Hardware Uncovered by Tom: Top Picks and Performance Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insight-a-closer-look-at-components-toms-hardware/"><u>Advanced Tech Insight: A Closer Look at Components - Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862862001-affordable-gaming-asus-prime-x670-p-wifi-am5-motherboard-for-a-budget-friendly-135/"><u>Affordable Gaming: ASUS Prime X670-P Wifi AM5 Motherboard for a Budget-Friendly $135!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-website-traffic-with-the-expertise-of-cookiebot/"><u>Boost Your Website Traffic with the Expertise of Cookiebot!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-drivers-for-hp-scanjet-printers-on-windows-os-windows-1087/"><u>Download Updated Drivers for HP Scanjet Printers on Windows OS (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862865384-experiencing-chilly-performance-on-gigabytes-pricey-but-high-quality-b65t-aorus-elite-ax-ice-mobo-usb-galore-included/"><u>Experiencing Chilly Performance on Gigabyte's Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore Included</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862875747-introducing-the-icraft-b760m-motherboard-where-intel-meets-anime-aesthetics-in-a-pastel-package/"><u>Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel Package</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-computer-hardware-tips-from-toms-digital-world/"><u>Mastering Computer Hardware - Tips From Tom's Digital World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-ryzen-9000-and-zen-nine-processors-gigabyte-prepares-beta-bios-for-wraith-500-series-motherboards/"><u>Upcoming Ryzen 9000 & Zen Nine Processors: Gigabyte Prepares Beta BIOS for Wraith 500 Series Motherboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862867665-us-customers-rejoice-premium-loongson-processor-integrated-boards-and-pc-units-start-as-low-as-3er-thousand-starting-your-tech-upgrade-effortlessly/"><u>US Customers Rejoice: Premium Loongson Processor-Integrated Boards and PC Units Start As Low as $3Er Thousand, Starting Your Tech Upgrade Effortlessly!</u></a></li>
 </ul></div>
+

@@ -1,27 +1,13 @@
 ---
 title: The Futuristic Privacy-Protecting Cameras That Convert Humans to Stick Figures
-date: 2024-09-10T11:13:28.481Z
-updated: 2024-09-11T11:13:28.481Z
+date: 2024-09-14T17:19:10.718Z
+updated: 2024-09-16T16:58:24.795Z
 tags:
   - hardware
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/privacylens.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## The Futuristic Privacy-Protecting Cameras That Convert Humans to Stick Figures
 
@@ -30,26 +16,6 @@ Engineers from the University of Michigan have developed a new camera that repla
  They call it the [PrivacyLens](https://news.umich.edu/youre-just-a-stick-figure-to-this-camera/). Its two-camera setup leverages both a standard video camera and a thermal imaging system. Those two images are overlaid and aligned before its hybrid "Thermal Subtraction" mode uses object detection machine learning techniques to create bounding boxes around the subject's thermal outline. These "define the pixels to be sanitized from the RGB image," per [the recently released study](https://petsymposium.org/popets/2024/popets-2024-0146.pdf), which are then removed from the video feed and replaced with a real-time animated stick figure that moves in sync with the subject. It's essentially the same idea as the [Glowstick Stickman dancing meme](https://www.tiktok.com/discover/glowstick-stickman-dancing-meme) that sprang up on social media a few years back.
 
 ![the stickman effect from PrivacyLens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stickman-edit.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 [University of Michigan](https://news.umich.edu/youre-just-a-stick-figure-to-this-camera/)
 
@@ -67,8 +33,6 @@ Engineers from the University of Michigan have developed a new camera that repla
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,58 +42,26 @@ Engineers from the University of Michigan have developed a new camera that repla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-agile-approaches-storing-ppt-speeches/"><u>[New] 2024 Approved  Agile Approaches  Storing PPT Speeches</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-removing-unseen-frames-from-video-recordings/"><u>[New] Removing Unseen Frames From Video Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-steady-selfies-and-photos/"><u>[New] The Art of Steady Selfies & Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>[New] The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails-for-2024/"><u>[Updated] From Ordinary to Outstanding  Crafting Unique Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-5-mkv-player-picks-for-macos-enthusiasts-for-2024/"><u>[Updated] Top 5 MKV Player Picks for macOS Enthusiasts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-daily-mobile-decor-the-irresistible-habit-of-changing-wallpapers/"><u>1. Daily Mobile Decor: The Irresistible Habit of Changing Wallpapers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-crafting-the-perfect-pitch-inviting-listeners-to-join-us/"><u>2024 Approved  Crafting the Perfect Pitch  Inviting Listeners to Join Us</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-culinary-cinema-secrets-the-best-tips-to-make-your-kitchen-films-pop/"><u>2024 Approved  Culinary Cinema Secrets - The Best Tips to Make Your Kitchen Films Pop</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/alternative-methods-charging-your-smartphone-when-youre-out-of-power/"><u>Alternative Methods: Charging Your Smartphone When You're Out of Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipating-samsungs-galaxy-s22-launch-key-dates-revealed/"><u>Anticipating Samsung's Galaxy S22 Launch: Key Dates Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/before-purchasing-a-flexible-display-device-unveiling-10-crucial-points-for-informed-decision-making/"><u>Before Purchasing a Flexible Display Device: Unveiling 10 Crucial Points for Informed Decision-Making</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-simple-swipes-why-pattern-locks-no-longer-offer-adequate-protection-for-android-phones/"><u>Beyond Simple Swipes: Why Pattern Locks No Longer Offer Adequate Protection for Android Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-motorola-edge-40-neo-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Edge 40 Neo? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-you-use-5g-on-your-smartphone-learn-to-check-compatibility-now/"><u>Can You Use 5G on Your Smartphone? Learn to Check Compatibility Now</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrating-1500-free-daily-lessonsback-buttonfilter-button/"><u>Celebrating 1500 Free Daily LessonsBack ButtonFilter Button</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/choreographing-climactic-crescendos-for-2024/"><u>Choreographing Climactic Crescendos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-amazon-fire-max-89-inch-tablet-assessment-your-ultimate-entertainment-companion-on-the-go/"><u>Comprehensive Amazon Fire Max 8.9-Inch Tablet Assessment: Your Ultimate Entertainment Companion on the Go</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/connecting-peripherals-to-android-a-step-by-step-tutorial-for-mice-keyboards-and-gamepads/"><u>Connecting Peripherals to Android: A Step-by-Step Tutorial for Mice, Keyboards, and Gamepads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-boox-tab-mini-the-ideal-colorful-e-reader-option-for-expanding-beyond-your-kindle-experience/"><u>Discover the Boox Tab Mini - The Ideal Colorful E-Reader Option for Expanding Beyond Your Kindle Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-techniques-for-conducting-video-chats-using-an-android-smartphone-or-tablet/"><u>Easy Techniques for Conducting Video Chats Using an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-handling-overheating-smartphones/"><u>Effective Solutions for Handling Overheating Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-android-screen-capture-hacks-top-5-tips-every-user-must-master/"><u>Essential Android Screen Capture Hacks: Top 5 Tips Every User Must Master</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-cutting-edge-technology-in-your-future-magsafe-android-smartphone/"><u>Exploring the Cutting-Edge Technology in Your Future MagSafe Android Smartphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extending-the-lifespan-of-your-smartphone-understanding-android-device-endurance/"><u>Extending the Lifespan of Your Smartphone: Understanding Android Device Endurance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-to-silencing-alerts-and-alarms-on-smartphones/"><u>Guide to Silencing Alerts and Alarms on Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-modifying-navigation-controls-and-touch-commands-on-your-android-device/"><u>Guide: Modifying Navigation Controls and Touch Commands on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-shrinking-video-data-footprints-easily-on-android-smartphones-and-tablets/"><u>Guide: Shrinking Video Data Footprints Easily on Android Smartphones and Tablets</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 14 Plus</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/innovative-puzzles-await-in-leading-room-escape-experiences/"><u>Innovative Puzzles Await in Leading Room Escape Experiences</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inside-toms-gadget-guide-reliable-assessments-of-hardware-products/"><u>Inside Tom's Gadget Guide: Reliable Assessments of Hardware Products</u></a></li>
-<li><a href="https://techidaily.com/remove-hot-40i-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Hot 40i unlock screen</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-playback-manual-for-nintendo-switch-games-for-2024/"><u>The Complete Playback Manual for Nintendo Switch Games for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-advanced-techniques-in-youtube-video-editing-for-2024/"><u>The Ultimate Guide to Advanced Techniques in YouTube Video Editing for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-digitizing-your-comic-book-collection-switching-from-print-to-tablet/"><u>Top 6 Benefits of Digitizing Your Comic Book Collection: Switching From Print to Tablet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-x50-gt-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor X50 GT Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-google-pixel-6-in-2/"><u>Top-Rated Protective Covers for Google Pixel 6 in 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshoot-mobile-internet-issues-top-8-solutions-when-your-androids-data-wont-connect/"><u>Troubleshoot Mobile Internet Issues: Top 8 Solutions When Your Android's Data Won't Connect</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-durable-phone-cases-for-google-pixel-7a-2023-edition/"><u>Ultimate Selection: Durable Phone Cases for Google Pixel 7a - 2023 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-tips-for-choosing-and-configuring-default-programs-on-your-android-device/"><u>Ultimate Tips for Choosing and Configuring Default Programs on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-functionality-of-carkey-technology-in-android-devices/"><u>Understanding the Functionality of CarKey Technology in Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-security-of-googles-find-my-device-how-effective-is-it-in-locating-lost-phones-or-tablets/"><u>Understanding the Security of Google's Find My Device: How Effective Is It in Locating Lost Phones or Tablets?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unfolding-excellence-onepluss-answer-to-bendable-discomfort/"><u>Unfolding Excellence: OnePlus's Answer to Bendable Discomfort</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-power-of-accessibility-step-by-step-tutorial-for-enabling-live-captions-on-pixel-smartphones/"><u>Unlock the Power of Accessibility: Step-by-Step Tutorial for Enabling Live Captions on Pixel Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-android-15-every-google-pixel-phone-slated-for-the-update/"><u>Upcoming Android 15: Every Google Pixel Phone Slated for the Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-mobile-experience-live-wallpapers-that-serve-as-interactive-digital-dashboards-available-now/"><u>Upgrade Your Mobile Experience - Live Wallpapers That Serve as Interactive Digital Dashboards Available Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/what-is-reverse-wireless-charging-and-are-optimized-for-seo-with-relevant-keywords-like-wireless-power-sharing-and-reverse-inductive-charging-technology/"><u>What Is Reverse Wireless Charging? And Are Optimized for SEO with Relevant Keywords Like Wireless Power Sharing and Reverse Inductive Charging Technology.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-android-13-delivers-quiet-elegance-a-refreshing-departure-from-the-flashy/"><u>Why Android 13 Delivers Quiet Elegance: A Refreshing Departure From the Flashy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-google-play-pass-offers-exceptional-value-a-closer-look-and-room-for-improvement/"><u>Why Google Play Pass Offers Exceptional Value: A Closer Look and Room for Improvement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-sound-saturated-instagram-visuals/"><u>[New] Crafting Sound-Saturated Instagram Visuals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-views-through-imaginative-video-thumbnails/"><u>[New] In 2024, Boosting Views Through Imaginative Video Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>[Updated] Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>2024 Approved Revenue Breakdown A Deep Dive Into Podcast Finances</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-breakdown-the-toms-hardware-perspective/"><u>Advanced Computing Breakdown: The Tom's Hardware Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-guidance-insights-from-toms-hardware-experience/"><u>Advanced Gadget Guidance - Insights From Tom's Hardware Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-introduces-cost-effective-ddr5-support-with-latest-z790-aywifi-wd-motherboard-perfect-for-overclockers/"><u>Asus Introduces Cost-Effective DDR5 Support with Latest Z790-AYWIFI WD Motherboard Perfect for Overclockers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862857266-asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862843691-building-computers-made-easy-with-diy-compatible-motherboards-no-expertise-needed/"><u>Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise Needed!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-rtx-2080-graphics-card-drivers-compatible-with-windows-11-7-and-8/"><u>New RTX 2080 Graphics Card Drivers Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-woes-master-the-tricks-to-stop-hell-let-loose-from-crashing/"><u>PC Gaming Woes? Master the Tricks to Stop Hell Let Loose From Crashing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-installation-guide-huion-tablet-software-updates-and-downloads-on-windows/"><u>Successful Installation Guide: Huion Tablet Software Updates and Downloads on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-game-plan-to-trendsetting-video-content-for-2024/"><u>The Game Plan to Trendsetting Video Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862859030-unbeatable-price-alert-get-the-asus-prime-x670-p-am5-motherboard-for-a-steal-at-135/"><u>Unbeatable Price Alert: Get the Asus Prime X670-P AM5 Motherboard for a Steal at $135!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
