@@ -1,7 +1,7 @@
 ---
 title: Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse
-date: 2024-09-13T16:13:31.671Z
-updated: 2024-09-16T17:35:15.283Z
+date: 2024-09-16T16:04:51.781Z
+updated: 2024-09-21T19:57:57.653Z
 tags:
   - hardware
 categories:
@@ -134,13 +134,6 @@ Close
 
  There was also a nice lighting strip at the bottom base of the laptop that reflected onto surfaces and made the device look 10 times cooler if you're a sucker for lighting. As for the ventilation, plenty of vents were located on the laptop's bottom and sides.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Ports: Plenty of Options
 
  Plugging in was always convenient with the Legion Pro 7i 16\. On the left side of the laptop was a USB-A 3.2 Gen 1 port and a USB-C 3.2 Gen 2 port. On the right side, I found the headphone and microphone jack and another USB-A port. And finally, at the back of the laptop were all the other ports. The placement of these ports at the back made it much easier for me to plug in items and keep wires out of the way—especially the somewhat bulky charging cable.
@@ -148,6 +141,13 @@ Close
 Close 
 
  Using the back panel, I could plug into the following ports from left to right—the charging port, two USB-A ports (one with Always On), an HDMI 2.1 port, a USB-C port, and the all-important [RJ45 (Ethernet) port for a faster connection while gaming](https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-10-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Inputs: The Per-Key RGB Keyboard and Touchpad
 
@@ -158,13 +158,6 @@ Sergio Rodriguez / How-To Geek
  One of the highlights of my experience with the Legion Pro 7i 16 was the keyboard's custom per-key RGB lighting. I was easily able to customize my lighting and switch profiles through the[Lenovo Vantage](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fsoftware%2Fvantage) app's Lenovo Spectrum section. There were six customizable profiles, and selecting the keys was as easy as clicking or dragging. I also customized the lighting strip on the laptop's bottom edge. Once set up, a quick tap of the Fn button and the space bar switched to the next lighting profile.
 
 ![Per-key customization in the Lenovo Spectrum page in the Lenovo Vantage app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-europe-towns-4k-o-scenic-relaxation-film-with-peaceful-relaxing-music-and-nature-video-ultra-hd-youtube-personal-microsoft-edge-6_23_2024-7_21_38-pm.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -184,6 +177,13 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Performance and Gaming: Processing to Remember
 
  Whatever my workload was, the Intel Core i9 14900-HX processor delivered some of the fastest performance I've seen in a while. In case you need a refresher on [Intel's suffixes](https://hardware-updates.techidaily.com/creative-webcam-drivers-download-and-update-for-windows/), H stands for high performance graphics and X for extreme edition. This top-tier processor certainly delivered. The only case of stuttering I saw was when I was downloading multiple large game files at once and running several programs, including the notorious resource hog, Photoshop. It has 24 cores and 32 threads, so multitasking of any kind was smooth, and a max 5.8GHz turbo clock speed made performance feel like lightspeed when using demanding programs. With a few programs open and idle (including Photoshop) and using the browser, the CPU w 4% use and RAM at about 50%.
@@ -193,10 +193,10 @@ Close
 ![The Lenovo Legion Pro 7i 16 Gen 9 playing the game "Assassin's Creed Valhalla."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/hero-gaming-image-assassins-creed-valhalla.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -212,10 +212,10 @@ Cianna Garrison / How-To Geek
 ![The camera on the Lenovo Legion Pro 7i 16 Gen 9.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-camera-on-the-lenovo-legion-pro-7i-16-gen-9_53599670526_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -228,6 +228,13 @@ Close
 
  The dual microphone system was perfect for gaming (unless you prefer a headset) and captured my voice clearly, even while singing. During singing or louder speech, the noise cancellation kicked in, which resulted in some audio drop-off entirely. This was far less than I've experienced, however, with other microphone systems, and it otherwise did a good job of putting my voice front and center in just about any situation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery and Charging: A Typical Drain for a Gaming Laptop
 
 ![The Lenovo Legion Pro 7i 16 Gen 9 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-pro-7i-16-gen-9-with-is-charger_53599878873_o.jpg) 
@@ -237,13 +244,6 @@ Sergio Rodriguez / How-To Geek
  If you've used a gaming laptop, you know they aren't the best for battery life simply because they require more power to operate. (This is especially true if you're running effects on the RGB keyboard and keep the brightness set high, like I did.) Still, the Legion Pro 7i Gen 9 has the largest battery a gaming laptop can have (99.99Whr), so it felt a bit better than some other models, with a drain of about 0.43% per minute (25% per hour) with moderate use.During gaming, it drained faster. My average rate was 1.1% per minute (66% per hour). I found its drain rate comparable to my own Legion laptop, the Legion Pro 5i Gen 8, with a slightly longer usage time before I needed to plug in.
 
  While I _did_ have to plug the Legion in pretty frequently, it also charged fairly fast to compensate. On average, I saw a gain of 1.94% per minute, which means it charged fully in less than an hour. The 330W battery delivers, as does the Super Rapid Charge compatibility, so even if I only had a few minutes to plug in, I was able to keep using the Legion. Since the battery is _so_ large, it, along with the bulky gaming laptop, was a bit of a bear to tote around with me. Hefting around an unwieldy Legion was a lot, and I can't imagine bringing it with me, say, to an airport. It's doable but cumbersome. I should also note that Lenovo offers a smaller 140W AC adapter for those who prefer more portability, but this only solves part of that problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9 Laptop?
 
@@ -278,21 +278,16 @@ The Lenovo Legion Pro 7i 16 Gen 9 gaming laptop is packed with premium features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ffortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>[New] Unlocking Speedy Streams The Noob’s Snapchat Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>[Updated] Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-f15-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy F15 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-with-toms-hardware-wisdom/"><u>Delving Into Digital Devices with Tom’s Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-gadgets-with-toms-hardware-reviews/"><u>Discover the Latest in Gadgets with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-new-asus-z790-ayw-motherboard-unbeatable-value-for-ddr5-enthusiasts-seeking-overclocking-performance/"><u>Discover the New Asus Z790-AYW Motherboard: Unbeatable Value for DDR5 Enthusiasts Seeking Overclocking Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-unique-combination-of-luxury-and-performance-in-gigabytes-golden-socketed-intel-motherboard-the-z7n90-aorus-xtreme-x-ice-sports-edition/"><u>Discover the Unique Combination of Luxury and Performance in Gigabyte's Golden Socketed Intel Motherboard - The Z7n90 Aorus Xtreme X Ice Sports Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-new-gadgets-and-pc-parts-with-toms-hardware-hub/"><u>Discovering New Gadgets and PC Parts with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/educate-yourself-learn-about-the-signs-of-drug-and-alcohol-use-as-well-as-the-types-of-substances-that-might-be-accessible-to-teenagers-in-your-area-this-kn80/"><u>Educate Yourself: Learn About the Signs of Drug and Alcohol Use, as Well as the Types of Substances that Might Be Accessible to Teenagers in Your Area. This Knowledge Can Help You Spot Potential Red Flags More Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-computing-a-detailed-analysis-of-the-asus-pro-b760m-ct-csm-motherboard/"><u>Experience Next-Level Computing: A Detailed Analysis of the Asus Pro B760M-CT CSM Motherboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Note 30 VIP Racing Edition.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/icloud-cleanup-without-losses-a-step-by-step-guide-for-iphone-users/"><u>ICloud Cleanup Without Losses: A Step-by-Step Guide for iPhone Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-puzzles-four-key-deterrents/"><u>PS5 Puzzles: Four Key Deterrents</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quintessential-6-realistic-mojave-homes-for-2024/"><u>Quintessential 6 Realistic Mojave Homes for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smooth-image-shift-exclusive-selection-of-the-top-1-mantle-for-2024/"><u>Smooth Image Shift Exclusive Selection of the Top 1 Mantle for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-video-ranking-breakdown-how-it-works/"><u>[New] 2024 Approved YouTube Video Ranking Breakdown How It Works</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dive-into-the-world-of-creative-filters-for-zoom-calls/"><u>[New] Dive Into the World of Creative Filters for Zoom Calls</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y200e-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y200e 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>In 2024, Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125180939-join-felicia-days-newest-adventure-in-the-thangs-3d-community-unique-downloadable-model-collection-available-now/"><u>Join Felicia Day's Newest Adventure in the Thangs 3D Community: Unique, Downloadable Model Collection Available Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/luminary-lessons-teaching-the-power-of-proper-lighting/"><u>Luminary Lessons Teaching the Power of Proper Lighting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-at-toms-hardware-haven-online/"><u>Mastering Technology at Tom's Hardware Haven Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-your-new-m1-max-clip-world-for-2024/"><u>Navigating Through Your New M1 Max Clip World for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-of-crealitys-k1-carbon-the-next-big-thing-in-carbon-fiber-printing/"><u>Unveiling the Potential of Creality's K1-Carbon: The Next Big Thing in Carbon Fiber Printing?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-say-cheese-16-best-apps-to-convert-your-photos-into-cartoons/"><u>Updated 2024 Approved Say Cheese! 16 Best Apps to Convert Your Photos Into Cartoons</u></a></li>
 </ul></div>
 

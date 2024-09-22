@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to USB Categories & Uses: Understanding Every Type"
-date: 2024-09-11T17:04:54.232Z
-updated: 2024-09-16T16:27:30.810Z
+date: 2024-09-18T10:33:13.612Z
+updated: 2024-09-22T01:48:42.558Z
 tags:
   - hardware
 categories:
@@ -44,33 +44,27 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  USB-B is pretty much only used on large devices, like scanners or printers. Visually, this connector looks almost square. Most of these are USB-B to USB-A cables, though some newer devices have moved on from USB-B to smaller options, like Micro-USB or Mini-USB.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Micro-USB
 
 ![Micro USB on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_441139267.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [piya kunkayan / Shutterstock](https://www.shutterstock.com/image-photo/micro-usb-on-white-background-441139267)
 
  Micro-USB was the standard a while back for certain portable devices, like Android tablets and smartphones because it can transfer data and provide charge. It comes in both Type-A Micro and Type-B Micro flavors, and is smaller than USB-A. Some manufacturers still opt for using Micro-USB parts for their devices, as they're less costly than those for USB-C.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Mini-USB
 
@@ -80,28 +74,15 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  As its name suggests, Mini-USB is a smaller version of USB-B. It was the standard for charging or transferring data from devices like tablets before Micro-USB was. There are also Type-A and Type-B versions of this connector. It's uncommon to see many products using Mini-USB today, though you can still find them on older electronics like MP3 players or the PlayStation 3 controller.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  USB-C
 
 ![The USB C plug on the Satechi USB C 2.5 Gigabit Ethernet Adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53398648272_e6e75bf794_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -111,6 +92,13 @@ Sergio Rodriguez / How-To Geek
  USB-C can do more than other USB types can, and get it done faster. USB-C has the potential to replace all other cables, thanks to its diverse multi-tasking abilities. It has the ability to power even the most power-hungry devices, like laptops and TVs. It can also transfer 40 gigabits of data per second (Gbps), and can be used to deliver 5K video to [external monitors](https://fox-http.techidaily.com/fundamental-definitions-in-virtual-narrative-art/).
 
  As manufacturers continue to release new products with ports other than USB-C (looking at you, Apple), we aren't yet able to live in a single-cable society. But we're getting there, and we may eventually be freed from the burden of lugging around multiple cords.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Lightning
 
@@ -128,6 +116,19 @@ Sergio Rodriguez / How-To Geek
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The first, [USB 1.x](https://vp-tips.techidaily.com/brighten-your-surroundings-with-21plus-collage-wonders-for-2024/), is old and incredibly slow, and can only move 1.5 Mbps. Your odds of finding a device in the wild still on 1.0 are slim to none. The slightly less old (and comfortably slow) USB 2.0, however, is still relatively common. 2.0 has a full-speed option that can handle 12 Mbps, and a high-speed version that can handle 480 Mbps. That's plenty for a lot of peripherals you probably use with your computer, which is why [many PCs still come with USB 2.0 ports](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-pro-phones-by-drfone-android/). In comparison, SuperSpeed USB 3.x can transfer data between 5 to 20 Gbps.
@@ -135,19 +136,6 @@ Jerome Thomas / How-To Geek
  The latest entries, USB 4.0, [Thunderbolt 3, and Thunderbolt 4](https://buynow-help.techidaily.com/the-definitive-guide-to-the-elite-samsung-galaxy-tab-s7plus-and-its-unmatched-android-performance/), are where you'll find the highest data transfer speeds: a maximum capable throughput of 40 Gbps. Thunderbolt is another transfer speed standard used in some USB-C cables—all Thunderbolt 3 and 4 cables are USB-C, but [not all USB-C cables are Thunderbolt](https://extra-support.techidaily.com/new-safest-drone-selections-5-great-options-for-young-ones/). So if Thunderbolt is what you're after, you'll need to make sure that's part of the cable you're buying.
 
  These super-high transfer rates are impressive, but they don't matter much if you aren't regularly transferring hundreds of GB of data or doing something wild like editing video on an [external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/). If you are, however, you'll want at least Thunderbolt 3.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Power Delivery Will Vary
 
@@ -186,13 +174,20 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-live-action-top-9-gaming-portals/"><u>[New] Live Action Top 9 Gaming Portals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-stories-in-motion-best-video-theme-choices/"><u>[Updated] Captivating Stories in Motion Best Video Theme Choices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-the-desk-of-tom-at-techvanguard/"><u>Advanced PC Insights From the Desk of Tom at TechVanguard</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-4k-visuals-top-picks/"><u>Budget-Friendly Premium 4K Visuals: Top Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/catch-these-awesome-monitor-deals-of-2024-4k-brilliance-meets-gamers-needs/"><u>Catch These Awesome Monitor Deals of 2024: 4K Brilliance Meets Gamers’ Needs</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-niche-expertise-to-viral-star/"><u>From Niche Expertise to Viral Star</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-portability-the-creme-de-la-creme-nintendo-switch-docks/"><u>Mastering Portability: The Crème De La Créme Nintendo Switch Docks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-how-to-empty-your-facebook-cache-across-all-devices-windows-mac-android-ios/"><u>Ultimate Step-by-Step Tutorial: How to Empty Your Facebook Cache Across All Devices (Windows, Mac, Android, iOS)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-picks-for-the-ultimate-gopro-experience/"><u>[New] 2024 Approved Premium Picks for the Ultimate Gopro Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-inshot-essential-laptop-editing-tools/"><u>[New] Beyond Inshot Essential Laptop Editing Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/slr-vs-mirrorless-optimal-choice-for-video-production/"><u>[New] DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-use-telegram-web-step-by-step-guide/"><u>[Updated] How To Use Telegram Web Step-By-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-imperfections-tips-for-smooth-finishes-in-additive-manufacturing/"><u>Avoiding Imperfections: Tips for Smooth Finishes in Additive Manufacturing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bluetooth-gaming-headsets-of-202carefully-crafted-to-offer-the-ultimate-wireless-experience-our-selection-includes-budget-and-premium-choices-alike-for4/"><u>Best Bluetooth Gaming Headsets of 202Carefully Crafted to Offer the Ultimate Wireless Experience, Our Selection Includes Budget and Premium Choices Alike for Gamers Seeking High-Quality Sound without Wires</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-geometrically-designed-future-eskimo-junior-24-a-blend-of-quiet-operation-and-satisfactory-results/"><u>Discover the Geometrically Designed Future Eskimo Junior 24: A Blend of Quiet Operation and Satisfactory Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-advancement-introducing-the-newly-unveiled-intel-granite-rapids-cpus-featuring-up-to-128-core-configuration-and-a-whopping-500w-tdp/"><u>Discover the Latest Advancement: Introducing the Newly-Unveiled Intel Granite Rapids CPUs Featuring Up To 128 Core Configuration and A Whopping 500W TDP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-top-gadgets-reviewed/"><u>Exploring the Latest in Technology with Tom's Hardware - Top Gadgets Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461852733-get-more-bang-for-your-buck-turbocharge-your-mobile-data-speeds-in-a-few-ticks/"><u>Get More Bang for Your Buck: Turbocharge Your Mobile Data Speeds in a Few Ticks!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-v-purse-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from V Purse</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zero-price-mac-video-maker/"><u>In 2024, Zero-Price Mac Video Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-detailed-equipment-reviews/"><u>Mastering Electronics with Tom's Detailed Equipment Reviews</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-premium-microphone-selection-for-your-podcast/"><u>The Premium Microphone Selection for Your Podcast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
 </ul></div>
 

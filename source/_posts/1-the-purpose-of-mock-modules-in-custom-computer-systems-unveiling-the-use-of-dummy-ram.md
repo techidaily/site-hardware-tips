@@ -1,7 +1,7 @@
 ---
 title: "1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM"
-date: 2024-09-13T17:19:57.198Z
-updated: 2024-09-16T16:13:13.157Z
+date: 2024-09-15T23:42:21.582Z
+updated: 2024-09-22T10:58:27.680Z
 tags:
   - hardware
 categories:
@@ -35,19 +35,6 @@ Corsair
 
  In the meantime, these empty slots make the computer look unfinished, and some people consider them an eyesore. Somewhat more cynically, using dummy sticks can also be a way to make a computer look more "tricked out" with hardware than it really is.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Dummy RAM Can Still Do Stuff
 
  Although dummy RAM has no functional use from a performance standpoint, if you like [RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/), it still functions as fully-featured components of your RGB setup. You can use them as part of the decorative lighting display, and program them to enhance your lighting, just as the name promises.
@@ -55,16 +42,10 @@ Corsair
  Apart from RGB, you could also think of them as protective placeholder, keeping dust and other gunk out of your empty RAM slots, but honestly, that's probably a stretch!
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Not Just Buy Regular RAM?
@@ -72,6 +53,13 @@ Corsair
  I've sort of touched on this already, but there are many situations where getting the right number and combination of RAM sticks just isn't possible for your build, and if you really can't stand those open slots, then dummy RAM can be an affordable way to simply paper over the cracks. Of course, since not all RAM kits have a dummy kit version available, you'll need to plan things ahead of your build if you want to use them. Ironically, this might also influence what brand and model of RAM you get, since you'll need to stick to RAM models that have a dummy variant.
 
 ![Corsair Vengeance PRO RGB light enhancement kit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/corsairram.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Corsair Vengeance RGB PRO Light Enhancement Kit
 
@@ -100,21 +88,12 @@ This "dummy" RAM won't get you any additional memory, but pair it with a set of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-3-fb-movie-extractors/"><u>2024 Approved Ultimate 3 Fb Movie Extractors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y100a-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-anker-maggo-triple-port-wireless-charger-evaluation-reveals-critical-flaws/"><u>Comprehensive Anker MagGo Triple Port Wireless Charger Evaluation Reveals Critical Flaws</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-bose-soundlink-max-evaluation-a-remarkably-flawless-wireless-audio-experience/"><u>Comprehensive Bose SoundLink Max Evaluation: A Remarkably Flawless Wireless Audio Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-brother-hl-l3295cdw-a-high-speed-and-superior-quality-color-laser-printer/"><u>Comprehensive Evaluation of the Brother HL-L3295CDW - A High-Speed and Superior Quality Color Laser Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-keychron-q14-max-a-truly-universal-solution-for-all-hands/"><u>Comprehensive Review of the Keychron Q14 Max: A Truly Universal Solution for All Hands</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-ultimate-ears-everboom-assessment-exceptional-audio-quality-and-impressive-functionalities/"><u>Comprehensive Ultimate Ears Everboom Assessment: Exceptional Audio Quality and Impressive Functionalities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/d-links-ignored-vulnerability-unpatched-routers-attracting-cybercriminals-what-you-need-to-know/"><u>D-Link's Ignored Vulnerability: Unpatched Routers Attracting Cybercriminals - What You Need to Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-the-noise-level-of-mechanical-keyboards-pre-purchase/"><u>Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/diving-into-twitter-starting-fresh/"><u>Diving Into Twitter Starting Fresh</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-neo-5-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Realme GT Neo 5.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-cutting-edge-designs-top-8-popular-instagram-template-groups/"><u>In 2024, Cutting Edge Designs Top 8 Popular Instagram Template Groups</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quintessential-5-add-ons-for-sea-cameras/"><u>Quintessential 5 Add-Ons for Sea Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-apex-legends-crashes-w11/"><u>Strategies to Prevent Apex Legends Crashes W11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-mesh-wi-fi-setups-the-ultimate-guide/"><u>Top Rated Mesh Wi-Fi Setups: The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/"><u>[New] 2024 Approved Easy Steps for Achieving Facebook's Prestigious Blue Badge</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-beyond-the-basics-streamlabs-competitors-analyzed/"><u>[New] In 2024, Beyond the Basics Streamlabs Competitors Analyzed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elite-audio-capture-top-9-mic-recorders-showcase/"><u>Elite Audio Capture Top 9 Mic Recorders Showcase</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-savings-of-100-on-the-alienware-aw3225qf-curved-gaming-monitor-featuring-4k-qd-oled-and-240hz-refresh-for-unmatched-speed/"><u>Score a Savings of $100 on the Alienware AW3225QF Curved Gaming Monitor, Featuring 4K QD-OLED and 240Hz Refresh for Unmatched Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-acers-stunning-34-inch-curved-monitor-goes-down-to-200-at-newegg/"><u>Score Big Savings: Acer's Stunning 34-Inch Curved Monitor Goes Down to $200 at Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-leading-ultrawide-gaming-screens-of-2024-unveiled/"><u>The Leading Ultrawide Gaming Screens of 2024 Unveiled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Specs: Understanding That PCIe Numbers Aren't Key for Modern Graphics Drives"
-date: 2024-09-09T16:32:04.256Z
-updated: 2024-09-16T17:14:15.872Z
+date: 2024-09-18T02:05:15.001Z
+updated: 2024-09-21T21:13:21.555Z
 tags:
   - hardware
 categories:
@@ -42,6 +42,13 @@ Jason Fitzpatrick / How-To Geek
 
  While PCIe slots are backward compatible, both your PCIe slot and graphics card have to support the latest version if you want to take full advantage of the higher transfer rates. A PCIe 4.0 graphics card in a PCIe 3.0 slot will be limited to PCIe 3.0 speeds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Number of PCIe Lanes Is Just as Important as the Version
 
  PCIe lanes are the channels on the motherboard and the graphics card that allow data to be transferred between the computer and graphics card. The number of lanes is indicated by a lower-case "x" followed by the number of lanes—A PCIe x16 slot has 16 lanes, whereas a PCIe x2 only has two lanes.
@@ -52,13 +59,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![Image of an air CPU cooler with two fans inside a computer with a modern gaming graphics card beneath it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/img20231201185642.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ismar Hrnjicevic / How-To Geek
 
  The good news is that the performance impact is mostly negligible because your graphics card uses less bandwidth than you might think. I have an RX 6600 XT, which uses PCIe x8 4.0, installed in an older motherboard with a PCIe x16 3.0 slot, and I haven't noticed any performance issues. Gamers Nexus tested the high-end RTX 4090 in PCIe 3.0, 4.0, and 5.0 slots and only found a performance difference of about 1–3% in most games.
@@ -66,10 +66,10 @@ Ismar Hrnjicevic / How-To Geek
  So, while you should care about PCIe versions, it's not a deal-breaker. Feel free to mix and match graphics cards and motherboards as you see fit. The only notable outliers are PCIe x4 graphics cards, with the most notorious examples being the [RX 6400](https://www.amazon.com/XFX-Speedster-SWFT105-Graphics-RX-64XL4SFG2/dp/B09Y7358KJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-pcie-version-doesnt-matter-for-graphics-cards-like-you-think%2F&asc%5Fcampaign=Evergreen) and [RX 6500 XT](https://www.amazon.com/ASRock-VGA-RX6500XT-PGD-4GO/dp/B09RHQNT5K?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthe-pcie-version-doesnt-matter-for-graphics-cards-like-you-think%2F&asc%5Fcampaign=Evergreen). These cards only use _four PCIe 4.0 lanes_, which means they suffer from [serious performance issues in a PCIe 3.0 slot](https://tools.techidaily.com). I recommend steering clear of these cards as an upgrade in older systems.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  PCIe Versions Primarily Affect High-Bandwidth SSDs
@@ -99,18 +99,17 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-reimagined-sony-bdp-s6700-experience/"><u>[Updated] In 2024, The Reimagined Sony BDP-S6700 Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/849-portable-e-ink-color-monitor-with-12-inches-of-quality-display-introducing-the-us-market-dasung-paperlike/"><u>$849, Portable E-Ink Color Monitor with 12 Inches of Quality Display - Introducing the U.S.-Market Dasung Paperlike</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/abbyy-groups-latest-update-insights-from-ulf-persson-ceo-regarding-the-current-covid-19-pandemic-breaking-news/"><u>ABBYY Group's Latest Update: Insights From Ulf Persson, CEO, Regarding the Current COVID-19 Pandemic - Breaking News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-exploration-by-tom-top-picks-and-advice/"><u>Advanced Hardware Exploration by Tom - Top Picks and Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-toms-equipment-experts/"><u>Advanced PC Insights From Tom's Equipment Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-game-launch-errors-a-comprehensive-fix-for-steam-woes-in-windows-11/"><u>Defeat Game Launch Errors: A Comprehensive Fix for Steam Woes in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-amazon-halo-a-deep-dive-into-personal-health-and-fitness-monitoring/"><u>Discover Amazon Halo: A Deep Dive Into Personal Health and Fitness Monitoring</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y56-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y56 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/limited-time-dji-drone-visual-enhancements-no-pay-required-for-2024/"><u>Limited-Time DJI Drone Visual Enhancements No Pay Required for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/retro-social-media-revelations-mastering-outdated-fb-functionality-for-2024/"><u>Retro Social Media Revelations Mastering Outdated FB Functionality for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-damaged-mp4mov-videos-a-step-by-step-guide-with-vlc-media-player/"><u>Reviving Damaged MP4/MOV Videos: A Step-by-Step Guide with VLC Media Player</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862834483-unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-the-best-lipo-cells-for-quality-flight-time/"><u>[New] 2024 Approved Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-maximize-video-impact-with-full-screen-settings/"><u>[New] In 2024, Maximize Video Impact with Full-Screen Settings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leveraging-virtual-board-features-for-enhanced-collaboration-in-zoom/"><u>[New] Leveraging Virtual Board Features for Enhanced Collaboration in Zoom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unlocking-the-art-of-ps3-gaming-footage-collection/"><u>[New] Unlocking the Art of PS3 Gaming Footage Collection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-professional-level-youtube-streams-using-wirecast-for-2024/"><u>[Updated] Achieving Professional-Level Youtube Streams Using WireCast for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bangla-journey-easy-daily-practice-for-mastery/"><u>Bangla Journey: Easy Daily Practice for Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-comprehensive-insights-and-reviews/"><u>Exploring Tom's Hardware: Comprehensive Insights and Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-magic5-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Magic5 Ultimate? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-circuitry-with-toms-hardware-experts/"><u>Navigating the Circuitry with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-the-right-components-for-your-build-in-our-q1-2016-masterclass-series/"><u>Selecting the Right Components for Your Build in Our Q1 2016 Masterclass Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-expert-reviews-and-buying-guides-t17239718709632/"><u>Tom's Computer Components: Expert Reviews and Buying Guides</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Keychron Q14 Max: A Truly Universal Solution for All Hands"
-date: 2024-09-15T17:02:41.807Z
-updated: 2024-09-16T17:15:46.827Z
+date: 2024-09-20T18:50:41.234Z
+updated: 2024-09-21T22:00:09.734Z
 tags:
   - hardware
 categories:
@@ -134,23 +134,9 @@ Close
 
  On a standard keyboard, I would do both steps with my right hand, which required much more movement. I noted the same improvement in any actions that required me to use the number pad and mouse at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Adjustment Time Required
 
 ![A hand on the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/a-hand-on-the-keychron-q14-max.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -164,9 +150,23 @@ Hannah Stryker / How-To Geek
 
  Most people who are willing to ditch the norm and go with an Alice-style keyboard are at least moderately concerned about ergonomics, which makes the lack of wrist rest options more pressing than it would be for standard keyboards. [Keychron sells a wooden one,](https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest?variant=40532687585369) which I will likely end up purchasing since there aren’t many third-party options that you can guarantee will sit well against the unique bottom profile.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Well Built and Enjoyable to Use
 
 ![Keycap puller on the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/keycap-puller-on-the-keychron-q14-max-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -178,6 +178,13 @@ Hannah Stryker / How-To Geek
 
 ![Keycap removed from the Keychron Q14 MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/keycap-removed-from-the-keychron-q14-max.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  It is a bit harder to remove the keycaps than normal since the remover tool gets caught on the metal body's jagged edges. It’s just a minor inconvenience that comes from the Alice layout, but it is worth noting.
@@ -185,13 +192,6 @@ Hannah Stryker / How-To Geek
  If you are looking to swap out keycaps, make sure to thoroughly check that they will accommodate the Alice layout. I had a hard time finding compatible alternative options.
 
  I particularly enjoy the south-facing RGB lighting. No matter which of the twenty-two lighting presets you select, there is little more than a subtle glow when viewed from angles other than that of use. When using these keyboards for work, you can personally enjoy the light show without being too flashy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Easy to Adjust to Your Preferences
 
@@ -211,13 +211,6 @@ Hannah Stryker / How-To Geek
 
 ## ![The Keychron Q14 MAX Alice layout keyboard and an ergonomic mouse](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/the-keychron-q14-max-alice-layout-keyboard-and-an-ergonomic-mouse-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With its top-of-the-line construction quality, extensive customization options, and multiple connectivity options, the [Keychron Q14 Max](https://www.keychron.com/products/keychron-q14-max-alice-layout-qmk-wireless-custom-mechanical-keyboard) is a solid keyboard. While its unique layout will limit its appeal for many, those who are willing to adjust will likely find a strong admiration for it. I plan to use it for quite some time.
 
  If you lean towards having a TKL keyboard simply for the sake of not having the number pad in the way of your mouse, you might want to consider the Keychron Q14 Max. If you love the idea of the left-sided number pad but want a more typical layout, the [Keychron Q12 Max](https://www.keychron.com/products/keychron-q12-max-qmk-via-wireless-custom-mechanical-keyboard?variant=41003207491673&currency=USD&utm%5Fmedium=product%5Fsync&utm%5Fsource=google&utm%5Fcontent=sag%5Forganic&utm%5Fcampaign=sag%5Forganic&tw%5Fsource=google&tw%5Fadid=&tw%5Fcampaign=19681081342&gad%5Fsource=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqMikml92EffmX74HfhWYeWRAAlryhWrCv-obbmxIAfoF8TP14zHCBRoCxQQQAvD%5FBwE) might be a better fit for you. Conversely, if you are looking for an Alice layout and are unsure of the southpaw number pad, you can consider something like the 75% [Keychron Q10](https://extra-lessons.techidaily.com/updated-best-ranked-5-mobile-backdrop-change-applications-iphone-x78/).
@@ -225,6 +218,13 @@ Hannah Stryker / How-To Geek
 ![Keychron Q14 Max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/keychron-q14-max.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Keychron Q14 Max
 
@@ -249,18 +249,16 @@ The Keychron Q14 Max brings Kechron's high quality design standards to a southpa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-efficient-video-download-from-facebooks-domain/"><u>[New] 2024 Approved Efficient Video Download From Facebook's Domain</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-secure-transfer-of-twitter-video-files-to-android/"><u>[Updated] 2024 Approved Secure Transfer of Twitter Video Files to Android</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-snipping-an-easy-method-for-capturing-twitters-gifs/"><u>[Updated] 2024 Approved Social Media Snipping An Easy Method for Capturing Twitter’s GIFs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/efficient-document-production-using-chatgpt-integration-in-microsoft-word/"><u>Efficient Document Production Using ChatGPT Integration in Microsoft Word</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-the-spoken-word-writing-compelling-narratives/"><u>In 2024, Crafting the Spoken Word Writing Compelling Narratives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leaked-computex-202n4-lineup-reveals-asus-rog-ally-and-snapdragon-x-laptops-without-graphics-card-updates/"><u>Leaked Computex 202N4 Lineup Reveals Asus ROG Ally and Snapdragon X Laptops Without Graphics Card Updates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-the-ultimate-resource-by-tom/"><u>Mastering Gadgets & Components - The Ultimate Resource by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meet-the-dali-concept-transforming-gamers-experience-with-customizable-asus-zephyrus-g14-screen-options/"><u>Meet the Dali Concept: Transforming Gamers’ Experience with Customizable Asus Zephyrus G1^4 Screen Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-reveals-enhanced-prism-performance-boosts-for-gamers-copilots/"><u>Microsoft Reveals Enhanced Prism Performance Boosts for Gamer's Copilots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-your-computer-smartly-lessons-from-toms-gadget-wisdom/"><u>Navigate Your Computer Smartly: Lessons From Tom's Gadget Wisdom</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionizing-home-connectivity-a-thorough-review-of-google-nest-wi-fis-lightning-fast-speeds-and-dependable-mesh-networking-solutions/"><u>Revolutionizing Home Connectivity: A Thorough Review of Google Nest Wi-Fi's Lightning-Fast Speeds and Dependable Mesh Networking Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/turn-off-subtitle-feature-easily-on-an-lg-smart-tv-complete-instructions/"><u>Turn Off Subtitle Feature Easily on an LG Smart TV – Complete Instructions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/shing-potential-in-your-channel-through-studio/"><u>Unleashing Potential in Your Channel Through Studio</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-playtime-5-techniques-for-gamers/"><u>[New] 2024 Approved Streamline Your Playtime 5 Techniques for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommendations-for-limitless-data-holding/"><u>[Updated] Expert Recommendations for Limitless Data Holding</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-iconic-trailer-highlight-assortment/"><u>2024 Approved Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-vlogging-starting-kit-and-tools/"><u>2024 Approved Master the Art of Vlogging Starting Kit & Tools</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/exploring-georgia-pavlous-cinematography-with-movavi-photo-library/"><u>Exploring Georgia Pavlou's Cinematography with Movavi Photo Library</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-preview-app-on-mac-complete-guide/"><u>In 2024, How to Use Preview App on Mac [Complete Guide]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-amd-radeon-graphics-driver-update-version-2410-release/"><u>Latest AMD Radeon Graphics Driver Update - Version 24.10 Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-innovations-unveiling-pcie-60s-superior-thermal-solutions-compared-to-pcie-50/"><u>Next-Level Cooling Innovations: Unveiling PCIe 6.0'S Superior Thermal Solutions Compared to PCIe 5.0</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-stress-homemade-motherboards-perfect-for-a-smooth-computer-building-experience/"><u>No-Stress Homemade Motherboards: Perfect for a Smooth Computer Building Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-gear-guidance-by-toms-hardware-experts/"><u>Precision Gear Guidance by Tom's Hardware Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-and-blue-screen-dilemma-dealing-with-the-dxgmms2sys-malfunction-successfully/"><u>Windows 11 and Blue Screen Dilemma - Dealing with the dxgmms2.sys Malfunction Successfully</u></a></li>
 </ul></div>
 

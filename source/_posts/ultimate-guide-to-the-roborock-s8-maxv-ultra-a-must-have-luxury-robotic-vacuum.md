@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Roborock S8 MaxV Ultra: A Must-Have Luxury Robotic Vacuum"
-date: 2024-09-13T17:23:45.500Z
-updated: 2024-09-16T17:27:07.850Z
+date: 2024-09-18T09:29:03.969Z
+updated: 2024-09-21T17:02:36.318Z
 tags:
   - hardware
 categories:
@@ -160,6 +160,13 @@ Justin Duino / How-To Geek
 
  The mop cleaning feature has also been upgraded. Last year, Roborock added a heater to the dock to dry the mop after it was washed. The 8-in-1 RockDock Ultra takes that up a level and washes the S8 MaxV Ultra's two mop pads with 140-degree F water. Assuming you're adding a cleaning solution to the dock, you could theoretically leave the mop on your bot permanently as it's being washed and dried in a way that should kill off any unwanted bacteria (though it probably wouldn't hurt to toss it in the wash for a thorough cleaning periodically).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Mobile App Worth Using
 
 Close 
@@ -183,6 +190,13 @@ Close
  The cutest new addition is a pet mode that automatically snaps a picture of your cat or dog as it's cleaning, which you can download later. You can also check in on your furry companion when remotely controlling the robot and then tapping on the "Search for the Pet" button. Your robovac will then move from room to room, searching for your animal. The images aren't of the highest quality (and if your dog is like mine, likely running away from the vacuum), but the camera is primarily there for object avoidance, not to capture your next Instagram Story.
 
  Roborock also included a custom voice assistant in the S8 MaxV Ultra. Say something like, "Hello, Rocky, mop the kitchen," and the bot will start on that task, all without you taking out your phone. The feature also works without a network connection, just as long as the device has an offline map of your home saved. It's definitely helpful for one-off messes when you can send the robot to a single room without directing it through the mobile app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Self-Emptying but Not Maintenance-Free
 
@@ -222,13 +236,6 @@ Close
 
 ![Roborock S8 MaxV Ultra mopping and vacuuming the floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/roborock-s8-maxv-ultra-mopping-and-vacuuming-the-floor-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  If you're considering picking up an [S8 MaxV Ultra](https://amazon.com/dp/B0CQLPNB2X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002813&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Froborock-s8-maxv-ultra-review%2F&asc%5Fcampaign=Authority), the only reason why I'd suggest looking elsewhere is the robot's price tag. At $1,800, Roborock is pricing its top-of-the-line robovac to match its premium feature set. As someone who literally runs this vacuum every single morning and enjoys not seeing a spec of dirt on the floor when making my coffee, I think the price is worth considering as it's providing my family with enough value.
@@ -240,20 +247,13 @@ Justin Duino / How-To Geek
 ![Roborock S8 MaxV Ultra on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/roborock-s8-maxv-ultra-on-a-white-background.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Roborock S8 MaxV Ultra
 
@@ -278,14 +278,16 @@ The Roborock S8 MaxV Ultra is a robot vacuum cleaner with an automatic emptying 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-15-cameras-excelling-in-live-streaming/"><u>[Updated] 2024 Approved Top 15 Cameras Excelling in Live Streaming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>[Updated] In 2024, No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
-<li><a href="https://fox-links.techidaily.com/all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates/"><u>All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-the-toms-innovative-insights-series/"><u>Exploring Advanced Computing: The Tom's Innovative Insights Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-digital-innovations-with-toms-technology-insights/"><u>Exploring Digital Innovations with Tom's Technology Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-phantom-v-fold-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Tecno Phantom V Fold Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-next-generation-of-microsofts-surface-and-surface-pro-with-advanced-copilotplus-ai-assistance/"><u>In-Depth Review: The Next Generation of Microsoft’s Surface and Surface Pro with Advanced Copilot+ AI Assistance</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/masterful-instagram-storytelling-with-templates-and-hacks/"><u>Masterful Instagram Storytelling with Templates & Hacks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pixel-playfulness-harnessing-funny-lenses-in-snapchat-for-2024/"><u>Pixel Playfulness Harnessing Funny Lenses in Snapchat for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-ai-for-stunning-photo-creation/"><u>[New] Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-live-link-lifters-annual-archive-access/"><u>[Updated] In 2024, Live Link Lifters - Annual Archive Access</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-disabling-and-uninstalling-windows-os-version-updates-in-win10-and-win11-through-revouninstaller-software/"><u>Expert Tips for Disabling and Uninstalling Windows OS Version Updates in Win10 & Win11 Through RevoUninstaller Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-role-of-vector-databases-in-accelerating-artificial-intelligence/"><u>Exploring the Role of Vector Databases in Accelerating Artificial Intelligence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hololens-unravelled-microsofts-augmented-future-insight/"><u>HoloLens Unravelled Microsoft’s Augmented Future Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-world-record-achieved-gskills-ddr4-6666-memory-dominates-performance/"><u>New World Record Achieved: G.Skill's DDR4-6666 Memory Dominates Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-netflix-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Netflix Error NW-1-19</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-a-trustworthy-guide-to-your-tech-needs/"><u>Tom's Computer Components: A Trustworthy Guide to Your Tech Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-expert-guides-and-reviews/"><u>Tom's Tech Advice: Expert Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/webinars-in-written-form/"><u>Webinars in Written Form</u></a></li>
 </ul></div>
 

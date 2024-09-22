@@ -1,7 +1,7 @@
 ---
 title: Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices
-date: 2024-09-12T16:50:38.821Z
-updated: 2024-09-16T16:09:30.729Z
+date: 2024-09-18T18:15:35.069Z
+updated: 2024-09-22T10:56:29.468Z
 tags:
   - hardware
 categories:
@@ -56,10 +56,10 @@ The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your
 [$189 at Amazon](https://www.amazon.com/ecobee-Smart-Thermostat-Enhanced-works/dp/B09XXTQPXC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set Up the Automation
@@ -71,10 +71,10 @@ The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your
 ![SmartThings devices tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240718-093812.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we'll go to the "Routines" tab and tap the plus icon in the corner again. The "If" part of the routine will be the temperature setting, and the "Then" part is turning on or off the smart plug connected to the AC. Here's an example of a routine you could create.
@@ -102,16 +102,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-rotating-the-ripple-effect-mastering-instagrams-video-manipulation-art/"><u>[New] Rotating the Ripple Effect Mastering Instagram's Video Manipulation Art</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-and-mp4-synergy-expert-advice-edition/"><u>2024 Approved SRT & MP4 Synergy Expert Advice Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-discover-the-endurance-of-hps-omnibook-x-with-snapdragon-chip-power/"><u>Comprehensive Assessment: Discover the Endurance of HP's OmniBook X with Snapdragon Chip Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-of-gigabytes-g6x-for-gamers-solid-execution-lackluster-uniqueness/"><u>Comprehensive Breakdown of Gigabyte's G6X for Gamers: Solid Execution, Lackluster Uniqueness</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-superior-efficiency-ubuntu-triumphs-over-windows-11-for-the-latest-amd-equipped-laptops/"><u>Discover Superior Efficiency: Ubuntu Triumphs Over Windows 11 for the Latest AMD-Equipped Laptops</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/draft-satirical-graphics-for-giphy-use/"><u>Draft Satirical Graphics for Giphy Use</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-play-the-zephyrus-g14-by-asus-redefines-laptop-aesthetics-with-a-colorful-adaptive-e-paper-screen/"><u>Elevate Your Play: The Zephyrus G1^4 by Asus Redefines Laptop Aesthetics With a Colorful, Adaptive E-Paper Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-errors-recovering-a-lost-python24dll-file/"><u>Eliminate Errors: Recovering a Lost Python24.dll File</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-enterprise-stances-top-5-reasons-to-ban-chatgpt/"><u>Exploring Enterprise Stances: Top 5 Reasons to Ban ChatGPT</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tips-for-restoring-fuzzy-cctv-videos/"><u>Tips for Restoring Fuzzy CCTV Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/xbox-one-elite-series-2-controller-review/"><u>Xbox One Elite Series 2 Controller Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixed-7-fixes-for-goose-goose-duck-crashing-on-pc/"><u>[FIXED] 7 Fixes for Goose Goose Duck Crashing on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-flawless-frame-grabber-selection-no-lag-included-for-2024/"><u>[New] Flawless Frame Grabber Selection - No Lag Included for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bringing-rhythm-to-instagrams-visual-narratives-for-2024/"><u>[Updated] Bringing Rhythm to Instagram's Visual Narratives for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-synchronizing-with-instagram-perfect-video-integration/"><u>[Updated] In 2024, Synchronizing With Instagram Perfect Video Integration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-build-toms-authoritative-hardware-wisdom/"><u>Mastering the Build: Tom's Authoritative Hardware Wisdom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximize-flow-in-valorant-expert-tips-to-enhance-fps-and-eliminate-freezing-issues/"><u>Maximize Flow in Valorant: Expert Tips to Enhance FPS and Eliminate Freezing Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-future-of-display-technology-top-picks-for-high-performance-monitors-2024-edition/"><u>Navigating the Future of Display Technology: Top Picks for High-Performance Monitors, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-gamers-choice-top-ultra-wide-gaming-monitor-reviews/"><u>Next-Gen Gamer's Choice: Top Ultra-Wide Gaming Monitor Reviews</u></a></li>
 </ul></div>
 

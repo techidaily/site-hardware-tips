@@ -1,7 +1,7 @@
 ---
 title: "Beyond Promises and Projections: How True Testing Surpasses Branded Estimates in Product Effectiveness"
-date: 2024-09-12T16:48:49.127Z
-updated: 2024-09-16T17:33:35.042Z
+date: 2024-09-14T16:46:39.963Z
+updated: 2024-09-22T01:14:43.462Z
 tags:
   - hardware
 categories:
@@ -70,10 +70,10 @@ _NVIDIA_
  If you jump to TechPowerUp’s [RTX 3060 specs page](https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-12-gb.c3682), you can see that the RTX 4060 is only 18% faster than the RTX 3060\. The incongruity in the measured gaming performance between the two sources stems from the fact that TechPowerUp tests GPUs with a standardized test suite, using the same exact settings for every GPU, and not using features older GPUs do not support, such as DLSS or DLSS frame generation. This also isn’t perfect because, in all honesty, the RTX 4060 is faster than 18% on average than the RTX 3060 when you turn on ray tracing, but TechPowerUp's way of testing GPUs is much more fair to the RTX 3060 compared to what NVIDIA did.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some Manufacturer Claims Have Little to Do with Reality
@@ -87,10 +87,10 @@ _NVIDIA_
  Let’s take the RT-AX88U Pro, one of the [best Wi-Fi routers](https://facebook-video-share.techidaily.com/updated-discovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/) on the market, as an example. If you visit [the router’s web page](https://www.asus.com/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax88u-pro/techspec/), you can see that the maximum bandwidth over the 5GHz band is listed as “up to 4804 Mbps.” However, [a real-world review](https://dongknows.com/asus-rt-ax88u-pro-review/#asus-gt-ax88u-pro-excellent-performance) by Dong Knows Tech has measured only 1510Mbps, with a few other routers surpassing the RT-AX88U Pro. Don’t get me wrong; this is an impressive result, but it is far from ASUS’s claims.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some Blame Is Reserved for Standardization Bodies and Their Lenient Guidelines
@@ -126,19 +126,21 @@ _NVIDIA_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-techniques-for-efficient-iphone-7-recording-for-2024/"><u>[Updated] Essential Techniques for Efficient iPhone 7 Recording for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[Updated] Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-polishing-job-experience-descriptions/"><u>2024 Approved Polishing Job Experience Descriptions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cash-in-comms-how-much-does-youtube-star-pewdopeep-make/"><u>Cash in Comms How Much Does YouTube Star PewDoPeep Make?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-peripherals-at-toms-hardware-hub/"><u>Mastering Gadgets and Peripherals at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-setup-with-expertise-from-toms-hardware-hub/"><u>Mastering Your Tech Setup with Expertise From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mediatek-steps-up-with-arm-processors-for-windows-laptops-as-qualcomm-exclusivity-term-ends/"><u>MediaTek Steps Up with Arm Processors for Windows Laptops as Qualcomm Exclusivity Term Ends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-newest-tech-trends-in-depth-analysis-by-toms-computing-experts/"><u>Navigate Through Newest Tech Trends: In-Depth Analysis by Tom's Computing Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-technology-insights-with-toms-authoritative-guides/"><u>Navigating Technology Insights with Tom's Authoritative Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qualcomm-outspends-rivals-in-marketing-war-chest-attributes-copilotplus-success-to-exceptional-battery-life/"><u>Qualcomm Outspends Rivals in Marketing War Chest, Attributes Copilot+ Success to Exceptional Battery Life</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-x-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone X Is Unlocked</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-the-turing-test-and-its-prospect-for-a-champion/"><u>What Is the Turing Test and Its Prospect for a Champion?</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-s23-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy S23 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-choose-the-best-lipo-battery-for-your-drone/"><u>[Updated] How to Choose the Best LiPo Battery for Your Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-the-ideal-soundtrack-for-your-boxings/"><u>[Updated] In Search of the Ideal Soundtrack for Your Boxings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-chinese-vr-headset-marketplace-wonders/"><u>2024 Approved Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mp43gp/"><u>網站自由下載Movavi MP4至3GP格式轉檔器 - 線上無限制</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862862001-affordable-gaming-asus-prime-x670-p-wifi-am5-motherboard-for-a-budget-friendly-135/"><u>Affordable Gaming: ASUS Prime X670-P Wifi AM5 Motherboard for a Budget-Friendly $135!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-edgeplus-2023-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola Edge+ (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862865384-experiencing-chilly-performance-on-gigabytes-pricey-but-high-quality-b65t-aorus-elite-ax-ice-mobo-usb-galore-included/"><u>Experiencing Chilly Performance on Gigabyte's Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore Included</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-ethernet-malfunctions-in-windows-10windows-7-systems/"><u>Expert Tips for Correcting Ethernet Malfunctions in Windows 10/Windows 7 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-artificial-intelligence-strategies-to-boost-academic-study/"><u>Top 4 Artificial Intelligence Strategies to Boost Academic Study</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus Ace 3 FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-hardware-experts/"><u>Unlocking Computer Secrets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-performance-tech-the-ultimate-guide-on-toms-hardware/"><u>Unveiling High-Performance Tech: The Ultimate Guide on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-through-toms-eyes/"><u>Unveiling the Latest in Technology Through Tom's Eyes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-pc-hardware-insights-with-tom/"><u>Unveiling the Latest PC Hardware Insights with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-ryzen-9000-and-zen-nine-processors-gigabyte-prepares-beta-bios-for-wraith-500-series-motherboards/"><u>Upcoming Ryzen 9000 & Zen Nine Processors: Gigabyte Prepares Beta BIOS for Wraith 500 Series Motherboards</u></a></li>
+<li><a href="https://driver-download.techidaily.com/xbox-360-controllers-get-the-newest-drivers-for-seamless-gaming-experience/"><u>Xbox 360 Controllers: Get the Newest Drivers for Seamless Gaming Experience</u></a></li>
 </ul></div>
 

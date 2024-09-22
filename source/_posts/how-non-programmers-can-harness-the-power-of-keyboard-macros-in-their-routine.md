@@ -1,7 +1,7 @@
 ---
 title: How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine
-date: 2024-09-14T17:08:46.516Z
-updated: 2024-09-16T16:49:10.901Z
+date: 2024-09-16T20:41:12.202Z
+updated: 2024-09-21T20:47:04.994Z
 tags:
   - hardware
 categories:
@@ -48,26 +48,26 @@ Macros are essential to any efficient office setup. You don’t have to have a p
  This alone saved me a _lot_ of time every week when I was processing dozens of pictures every day, and sometimes hundreds per week.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Copy a Link and Shorten It in One Move (on macOS)
 
 ![Short-Menu-Shortening-Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/short-menu-shortening-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re constantly shortening (or even affiliating) links on macOS, then this piece of software and macro are exactly what you should be leveraging. Using a piece of software called [Short Menu](https://shortmenu.com/mac/), you can program a keyboard shortcut that will shorten any URL you have in your clipboard.
 
  I used this often when I did deals writing, and had the keyboard shortcut programmed as a macro right next to my copy function. So, when I needed to affiliate or shorten a URL, I would start by using my copy macro, then click the button next to that to shorten or affiliate the URL, then click the next button to paste. I took something that would normally take about 6–10 keystrokes and shortened it to 3\. That doesn’t sound like a massive change, but it makes an astronomical difference in your daily workflow for sure.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Can You Macro?
 
@@ -92,18 +92,20 @@ Macros are essential to any efficient office setup. You don’t have to have a p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-tactical-approach-to-youtube-video-enhancement-with-imovie/"><u>[New] 2024 Approved A Tactical Approach to YouTube Video Enhancement with iMovie</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ladies-of-the-digital-battlefield-youtubes-leading-tens/"><u>[New] Ladies of the Digital Battlefield YouTube's Leading Tens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1100-laptop-with-advanced-specs-dive-into-high-res-visuals-and-top-tier-performance-with-the-honor-magicbook-art-14s-oled-screen-and-meteor-processor-techno9/"><u>$1,100 Laptop with Advanced Specs - Dive Into High-Res Visuals & Top-Tier Performance With the Honor MagicBook Art 14'S OLED Screen & Meteor Processor Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>2024 Approved A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>2024 Approved Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-magic-v2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Magic V2?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unleash-creativity-in-photography-no-cost-some-pay-luts/"><u>In 2024, Unleash Creativity in Photography No Cost, Some Pay LUTs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamlined-recovery-system-stellars-consumer-focused-tech-update/"><u>Streamlined Recovery System: Stellar’s Consumer-Focused Tech Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-laptop-alert-the-budget-friendly-lenovo-legion-slim-5-available-for-under-1100-at-newegg/"><u>Top Gaming Laptop Alert: The Budget-Friendly Lenovo Legion Slim 5 – Available for Under $1,100 at Newegg!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862741727-unbeatable-razer-blade-15-promotion-1000-cut-back-for-limited-time-only-rare-opportunity-to-score/"><u>Unbeatable Razer Blade 15 Promotion: $1,000 Cut Back for Limited Time Only – Rare Opportunity to Score!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-linux-gaming-potential-with-tuxedos-cutting-edge-sirius-gen2-laptop-powered-by-amd-and-featuring-a-vibrant-165-hz-ips-screen-at-1699plus-start-price36/"><u>Unleash Linux Gaming Potential with Tuxedo's Cutting-Edge Sirius Gen2 Laptop: Powered by AMD and Featuring a Vibrant 165 Hz IPS Screen at €1,699+ Start Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-ultra-high-gaming-potential-with-razers-latest-laptop-the-blade-18-packed-with-the-powerful-i9-14900hx-cpu-and-nvidia-rtx-4090-gpu-for-4799/"><u>Unleash Ultra High Gaming Potential with Razer's Latest Laptop - The Blade 18: Packed With the Powerful I9-14900HX CPU and Nvidia RTX 4090 GPU for $4,799</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-performing-gadgets-with-toms-hardware-guide/"><u>Unveiling Top-Performing Gadgets with Tom's Hardware Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-channels-a-guide-to-best-youtube-seo-resources-for-2024/"><u>[New] Boost Your Channels A Guide to Best YouTube SEO Resources for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-basics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube/"><u>[New] In 2024, Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-using-laptopsmobile-for-google-meet-join/"><u>[Updated] In 2024, Using Laptops/Mobile for Google Meet Join</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-find-n3-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo Find N3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-of-computer-hardware-from-tomtech-central/"><u>Expert Reviews of Computer Hardware From TomTech Central</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-digital-universe-with-toms-hardware/"><u>Exploring the Digital Universe with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17238628801376/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-inside-scoop-on-tech-trends-with-toms-hardware-expertise/"><u>Get the Inside Scoop on Tech Trends with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-blaze-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Blaze Pro 5G Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-11-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-titans-180hz-p27a2r-monitor-value-meets-performance-in-the-gaming-world/"><u>In-Depth Review of the Titan's 180Hz P27A2R Monitor: Value Meets Performance in the Gaming World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-lightest-portable-display-vaios-visionplus-14-screen-a-featherlight-072-pounds/"><u>Introducing the Lightest Portable Display: Vaio’s Vision+ ([14” Screen - a Featherlight 0.72 Pounds)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-voice-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Essential When Interacting with Voice Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-on-the-crystal-clear-lg-ultragear-qhd-monitor-w-g-sync-just-549-from-amazon/"><u>Limited Offer on the Crystal Clear LG Ultragear QHD Monitor W/ G-Sync - Just $549 From Amazon.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/when-machines-mentored-humanity-the-dawn-of-ai/"><u>When Machines Mentored Humanity: The Dawn of AI</u></a></li>
 </ul></div>
 

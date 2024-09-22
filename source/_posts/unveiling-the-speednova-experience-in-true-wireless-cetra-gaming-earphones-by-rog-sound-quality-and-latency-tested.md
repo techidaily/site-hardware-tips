@@ -1,7 +1,7 @@
 ---
 title: Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!
-date: 2024-09-14T17:02:43.541Z
-updated: 2024-09-16T16:14:59.472Z
+date: 2024-09-15T03:38:04.342Z
+updated: 2024-09-22T02:13:44.215Z
 tags:
   - hardware
 categories:
@@ -95,6 +95,13 @@ Close
 
 ![Woman's hands holding ROG Cetra True Wireless SpeedNova Headphones in case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/03-2024-04-05-16-21-12.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bill Loguidice / How-To Geek
 
  The included case, which flips up like a ring box, can be charged over its USB-C port or via wireless charging. I sometimes found the charging to be unreliable when placing the case on one of my wireless chargers, but that's true of most devices with the option.
@@ -106,13 +113,6 @@ Bill Loguidice / How-To Geek
  Befitting their gaming-centric status, the headphones feature Asus Aura RGB lighting, with up to 16.8 million colors and both preset and customizable lighting effects. While I appreciate the effort, it's impossible to notice the lighting effects when you're wearing the earbuds, making it an easy option to turn off to improve battery life.
 
  Each earbud supports tap and tap and hold gestures, which are enabled by default and can be disabled or reprogrammed. For instance, by default, tapping once on the left earbud plays or pauses, and tapping twice changes the ANC mode. I found that gesture support worked well regardless of the devices I was using them on. The feature is on the more sensitive side, so I'd often inadvertently tap when placing an earbud in my ear or adjusting its position, causing the built-in voice to announce a change in function.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Sound and Immersion: Lots of Options but Nothing Truly Elevated
 
@@ -134,6 +134,13 @@ Close
 
  One feature I did appreciate, and something I don't think should be overlooked for multiplatform gamers, is how easy it is to switch between different platforms with the dongle. For instance, I could remove the dongle from my PC, have it automatically switch to my other audio source, then plug the dongle into my Nintendo Switch OLED and immediately start gaming on that device. This quick switchover holds for any of the platforms that support the dongle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the ROG Cetra True Wireless SpeedNova Headphones?
 
  The [ROG Cetra True Wireless SpeedNova Headphones](https://www.amazon.com/ASUS-ROG-Headphones-Bone-Conduction-Microphones/dp/B0CXS16KNF/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003119&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frog-cetra-true-wireless-speednova-headphones-review%2F&asc%5Fcampaign=Authority) are meant to solve the real problem of a lack of gaming-optimized earbuds. In terms of multi-platform versatility and lag-free performance, they rise to the challenge, but in terms of sound quality, they fall a bit flat.
@@ -141,13 +148,6 @@ Close
  The overall audio profile is never quite crystal clear, sound separation is often subpar, and the microphone technology, while clever, can make you sound a bit robotic. If you need multi-platform earbuds that can keep up with high-performance gaming, these do a good job with that, but I can't help but wonder how much more of a recommendation these would have been with just a little more attention paid to how they sound.
 
 ![ROG Cetra True Wireless SpeedNova Headphones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/61nr-5he6ul-_ac_sl1500_.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  ROG Cetra True Wireless SpeedNova Headphones
 
@@ -172,21 +172,18 @@ Bluetooth and 2.4GHz wireless gaming headphones with ROG SpeedNova wireless tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-standout-80s-visual-tricks-to-enhance-films/"><u>[New] In 2024, Standout 80S Visual Tricks to Enhance Films</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-methods-for-converting-twitter-videos-into-mp3-format/"><u>2024 Approved Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-14-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-k70e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi K70E Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/constructing-a-stunning-mid-tower-with-disco-pixels-pc-and-the-sleek-inwin-309-case/"><u>Constructing a Stunning Mid-Tower with Disco Pixel's PC and the Sleek InWin 309 Case</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cracking-the-code-43-problem-effective-solutions-for-nvidia-gtx-950-on-windows-11-systems/"><u>Cracking the Code 43 Problem: Effective Solutions for NVIDIA GTX 950 on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/end-of-year-engineering-triumphs-a-recap-of-the-intense-system-builder-marathon-quarter-4-edition-2015/"><u>End-of-Year Engineering Triumphs: A Recap of the Intense System Builder Marathon, Quarter 4 Edition 2015</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-tom-detailed-analysis-of-pc-gear/"><u>Exploring Tech with Tom: Detailed Analysis of PC Gear</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-x-fold-2-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo X Fold 2</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-hub-comprehensive-gadget-reviews-and-benchmarks/"><u>Inside Tom’s Electronics Hub: Comprehensive Gadget Reviews & Benchmarks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/introducing-high-quality-capture-with-yi-for-2024/"><u>Introducing High-Quality Capture with YI for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-expert-insights-into-the-latest-computer-gear/"><u>Tom's Tech: Expert Insights Into the Latest Computer Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-the-ideal-80n-pc-setup-for-gamers-streamers-and-professionals/"><u>Unbeatable Value - The Ideal $80N PC Setup for Gamers, Streamers, and Professionals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-the-art-of-storytelling-on-ig-for-higher-engagement/"><u>[New] In 2024, Mastering the Art of Storytelling on IG for Higher Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-apex-palette-adjuster/"><u>[Updated] Apex Palette Adjuster</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-lone-airpod-troubleshooting-for-optimal-sound-quality/"><u>Addressing Lone AirPod Troubleshooting for Optimal Sound Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-tom-a-detailed-review-on-toms-hardware/"><u>Exploring the World of Gadgets with Tom - A Detailed Review on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-system-upgrades-and-reviews/"><u>Inside Tom's System Upgrades & Reviews</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-newly-released-soundblaster-software-on-your-pc-with-windows-10/"><u>Install Newly Released SoundBlaster Software on Your PC with Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximizing-gopro-content-integration-with-social-networks-for-2024/"><u>Maximizing GoPro Content Integration with Social Networks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/neweggs-cpu-exchange-initiative-limited-rewards-up-to-300-for-intel-core-i9-14900k-220-for-amd-ryzen-7-7800x3d/"><u>Newegg's CPU Exchange Initiative: Limited Rewards - Up to $300 for Intel Core I9-14900K, $220 for AMD Ryzen 7 7800X3D</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-your-netflix-hurdles-effective-solutions-for-a-seamless-viewing-experience-on-roku/"><u>Overcome Your Netflix Hurdles: Effective Solutions for a Seamless Viewing Experience on Roku</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smart-strategies-for-effective-windows-based-hp-printer-setups/"><u>Smart Strategies for Effective Windows-Based HP Printer Setups</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-to-transforming-wmv-files-into-mp4-format-on-windows-pcs/"><u>Step-by-Step Guide to Transforming WMV Files Into MP4 Format on Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-laptops-of-2024-comprehensive-tests-and-reviews/"><u>Top Rated Gaming Laptops of 2024 - Comprehensive Tests & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175681047-unveiling-the-power-of-akasa-gecko-a-top-notch-blow-cooler-for-your-ssd-reviewed-here/"><u>Unveiling the Power of Akasa Gecko: A Top-Notch Blow Cooler for Your SSD Reviewed Here</u></a></li>
 </ul></div>
 

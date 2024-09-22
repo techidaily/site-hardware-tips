@@ -1,7 +1,7 @@
 ---
 title: "Fix Game Screen Flickering with VRR Technology: The Ultimate Guide"
-date: 2024-09-13T16:34:03.481Z
-updated: 2024-09-16T17:02:51.019Z
+date: 2024-09-21T05:32:34.785Z
+updated: 2024-09-22T09:04:08.605Z
 tags:
   - hardware
 categories:
@@ -51,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
  That’s it!
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Set a Framerate Cap In Games That Trigger Screen Flickering
 
  In games where I’ve experienced VRR flickering even during the slightest frame rate or frame time variations, like in _Marvel’s Spider-Man_ and _Marvel's Spider-Man: Miles Morales_, I’ve found that capping the maximum frame rate to a value my [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) can consistently maintain solves the issue. In the case of _Marvel’s Spider-Man_, that value was 60fps since I play the game with [ray-tracing effects](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/).
@@ -82,22 +69,16 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ![Graphics settings listed in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-05.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you should enable the option, set the maximum FPS, and click “Apply,”
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you own an AMD GPU, you can either use the global frame rate cap or a feature called “Radeon Chill” that can play the role of a frame rate limiter for individual games.
 
@@ -106,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 ![Frame rate limiter tool in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
@@ -119,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
  Next, scroll down until you see a setting called “Radeon Chill” and enable the option.
 
 ![Graphics options in AMD software including Radeon Chill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-08.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click “Enable” when asked to enable it. Note that enabling Radeon Chill will disable certain features, including Radeon Super Resolution, AMD Fluid Motion Frames, Radeon Anti-Lag, and Radeon Boost.
 
@@ -130,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
  You can also use a third-party app, such as [RivaTuner Statistics Server](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) (RTSS), to limit max FPS globally or in specific games.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  VRR Flicker Should Be Less Noticeable At Higher Framerates
 
  If you don’t want to limit your maximum frame rate, another way to remove VRR flicker is to maintain the frame rate above a certain value by lowering in-game graphics settings. At higher frame rates, VRR flicker is less noticeable; at 100fps and higher values, you shouldn’t notice it at all.
@@ -137,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
  For example, in _Halo Infinite_, a game that triggers very noticeable VRR flicker at lower FPS values, I’ve noticed that as long as my FPS doesn’t drop below \~75fps, I don’t perceive any VRR flicker. So, I tweaked the visual settings until I managed to consistently maintain the FPS value above 75fps, which solved the issue.
 
  The cutoff value for your monitor could be higher, but the general rule is that as long as your GPU can maintain the frame rate at or above 100fps, you shouldn’t notice any VRR flicker regardless of your monitor's max refresh rate.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Upgrade Your Monitor
 
@@ -168,20 +156,17 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-5-essential-steps-to-create-viral-titles-online/"><u>[New] 2024 Approved 5 Essential Steps to Create Viral Titles Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-the-dynamics-of-ppt-sessions-across-devices-and-platforms/"><u>[New] 2024 Approved Mastering the Dynamics of PPT Sessions Across Devices and Platforms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-migrating-from-spotify-to-a-personalized-youtube-music-list/"><u>[New] 2024 Approved Migrating From Spotify to a Personalized YouTube Music List</u></a></li>
-<li><a href="https://facebook.techidaily.com/6-essential-elements-to-feature-on-your-snapshots/"><u>6 Essential Elements to Feature on Your Snapshots</u></a></li>
-<li><a href="https://win11.techidaily.com/champion-windows-options-for-true-nintendo-switch-experience/"><u>Champion Windows Options for True Nintendo Switch Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-reviews-by-toms-hardware-gurus/"><u>Comprehensive Reviews by Tom's Hardware Gurus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-pc-prowess-with-toms-hardware-mastery-guides/"><u>Decoding PC Prowess with Tom's Hardware Mastery Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/digitaldomain-discoveries-a-deep-dive-into-todays-premium-hardware-picks/"><u>DigitalDomain Discoveries: A Deep Dive Into Today’s Premium Hardware Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exciting-news-mediatek-announces-arm-based-chips-coming-to-windows-devices-post-qualcomm-monopoly/"><u>Exciting News: MediaTek Announces ARM-Based Chips Coming to Windows Devices - Post Qualcomm Monopoly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-gen-computing-with-acer-dell-hp-and-lenovos-affordable-1099-snapdragon-x-windows-copilot-pcs-boasting-long-battery-durations/"><u>Experience Next-Gen Computing With Acer, Dell, HP & Lenovo's Affordable $1,099 Snapdragon X Windows Copilot PCs Boasting Long Battery Durations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-visuals-and-gaming-prowess-on-the-hp-omen-transcend-14-secure-your-deal-now-for-just-300-less/"><u>Experience Next-Level Visuals and Gaming Prowess on the HP Omen Transcend 14: Secure Your Deal Now for Just $300 Less</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915258477-navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>New Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-improve-your-iphones-picture-quality-by-correcting-the-focus-problem/"><u>Troubleshoot and Improve Your iPhone's Picture Quality by Correcting the Focus Problem</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-teacher-friendly-screen-capture-apps/"><u>[New] 2024 Approved The Ultimate List of Teacher-Friendly Screen Capture Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ccess-royalty-free-beats-for-your-vlog-and-more/"><u>[New] Access Royalty-Free Beats for Your Vlog & More</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-storage-expansion-for-sony-a7c-cameras/"><u>[New] Best Storage Expansion for Sony A7C Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-first-steps-to-enhanced-gopro-experience/"><u>[Updated] First Steps to Enhanced GoPro Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y78-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-and-upgrade-the-latest-dynabox-docking-device-drivers-for-windows-computers/"><u>Install and Upgrade the Latest Dynabox Docking Device Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computer-systems-with-toms-hardware-expertise/"><u>Mastering Modern Computer Systems with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-game-changer-in-budget-gaming-minisforums-innovative-affordable-156-144-hz-1440p-portable-monitor-for-just-189/"><u>Meet the Game-Changer in Budget Gaming - Minisforum’s Innovative, Affordable 15.6” 144 Hz 1440P Portable Monitor for Just $189</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-new-technology-trends-insights-from-toms-hardware-hub/"><u>Navigate New Technology Trends: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-canon-camcorder-video-editing-made-easy-tips-tricks-and-software/"><u>New Canon Camcorder Video Editing Made Easy Tips, Tricks, and Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gamers-display-in-depth-review-of-the-colorful-oled-asus-rog-swift-pg49wcd-monitor/"><u>Next-Level Gamers' Display: In-Depth Review of the Colorful OLED Asus ROG Swift PG49WCD Monitor</u></a></li>
 </ul></div>
 

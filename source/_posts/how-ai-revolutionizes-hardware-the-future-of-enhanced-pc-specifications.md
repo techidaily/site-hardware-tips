@@ -1,7 +1,7 @@
 ---
 title: "How AI Revolutionizes Hardware: The Future of Enhanced PC Specifications"
-date: 2024-09-12T16:48:48.206Z
-updated: 2024-09-16T16:23:25.211Z
+date: 2024-09-19T11:23:02.443Z
+updated: 2024-09-22T01:34:39.299Z
 tags:
   - hardware
 categories:
@@ -35,6 +35,13 @@ Microsoft
 
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Models Have to Live in RAM
 
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
@@ -56,10 +63,10 @@ AI chip hologram with circuits around
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some AI PCs Won’t Have Upgradable RAM
@@ -67,13 +74,6 @@ AI chip hologram with circuits around
  If your new AI Windows PC uses an integrated system-on-a-chip or has its RAM soldered permanently, as is the case with many thin and light laptops, then you're going to be stuck with whatever amount of RAM the system came with. Which means you need to get the amount of RAM you need right at the start, or you'll end up needing a whole new computer if it turns out you've done your sums wrong.
 
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  If You Care About AI, Get More Memory
 
@@ -96,16 +96,20 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-filtering-the-truth-in-your-insta-network-for-2024/"><u>[Updated] Filtering the Truth in Your Insta Network for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-error-14-on-your-iphone/"><u>How to Fix Error 14 on Your iPhone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-13c-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi Redmi 13C Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-by-tom-your-trusted-source/"><u>Pioneering Hardware Reviews by Tom - Your Trusted Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qualcomms-millions-on-promotion-prove-effective-as-better-battery-outshines-ai-in-copilotplus-pc-popularity/"><u>Qualcomm's Millions on Promotion Prove Effective as Better Battery Outshines AI in Copilot+ PC Popularity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-experts-project-a-12-jump-in-standard-laptop-ram-expected-to-hit-an-average-of-118gb-this-year/"><u>Tech Experts Project a 12% Jump in Standard Laptop RAM: Expected to Hit an Average of 11.8GB This Year</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-savvy-choices-navigating-toms-hardware-reviews-and-recommendations/"><u>Tech Savvy Choices: Navigating Tom's Hardware Reviews and Recommendations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews & Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-professional-goals-ais-contribution-to-employment/"><u>Unlocking Professional Goals: AI's Contribution to Employment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-the-art-of-gif-to-sticker-transition-on-various-messaging-platforms/"><u>[New] Perfecting the Art of GIF to Sticker Transition on Various Messaging Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professionals-playbook-merging-srt-captions-into-mp4/"><u>2024 Approved Professional's Playbook Merging SRT Captions Into MP4</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-premiere-lineup-elite-sleeves-and-shields-for-your-ipad-pro-13-inch/"><u>2024'S Premiere Lineup: Elite Sleeves and Shields for Your iPad Pro 13-Inch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-the-desk-of-tom-at-techvanguard/"><u>Advanced PC Insights From the Desk of Tom at TechVanguard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-4k-visuals-top-picks/"><u>Budget-Friendly Premium 4K Visuals: Top Picks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/harness-free-fb-link-downloaders-for-2024/"><u>Harness Free FB Link Downloaders for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-g54-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola G54 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tricks-to-fix-tracking-glitches-on-apple-magic-mouse/"><u>Quick Tricks to Fix Tracking Glitches on Apple Magic Mouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862818642-revolutionize-your-visual-experience-with-the-incredible-deal-lgs-34-curved-monitor-for-only-499-upgrade-now/"><u>Revolutionize Your Visual Experience with the Incredible Deal: LG's 34 Curved Monitor for Only $499 - Upgrade Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817578-unbeatable-deal-alert-dell-s3222dgm-top-ranked-monitor-now-at-an-all-time-price-drop-to-229/"><u>Unbeatable Deal Alert! Dell S3222DGM: Top-Ranked Monitor Now at an All-Time Price Drop to $229!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862829204-unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlock-screen-saving-potential-on-android-devices-for-2024/"><u>Unlock Screen Saving Potential on Android Devices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-entertainment-asrocks-spectacular-32-inch-er-hz-oled-tv-perfect-for-router-connections/"><u>Upgrade Your Entertainment: ASROCK's Spectacular 32-Inch, Er Hz OLED TV - Perfect for Router Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/vaio-shatters-weight-barrier-the-incredible-visionplus-14-a-record-breakingly-lightweight-monitor-at-072-pounds/"><u>Vaio Shatters Weight Barrier - The Incredible Vision+ 14, a Record-Breakingly Lightweight Monitor at 0.72 Pounds</u></a></li>
 </ul></div>
 

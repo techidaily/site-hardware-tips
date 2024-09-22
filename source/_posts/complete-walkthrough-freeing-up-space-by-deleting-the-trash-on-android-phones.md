@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones"
-date: 2024-09-13T17:37:07.628Z
-updated: 2024-09-16T16:34:54.947Z
+date: 2024-09-15T06:44:07.469Z
+updated: 2024-09-21T19:36:31.371Z
 tags:
   - android
 categories:
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![Arrow pointing at the Google Files menu button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-files-by-google-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the menu that opens, select "Trash."
 
 ![Arrow pointing at Google Files trash](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-files-by-google-trash.png) 
@@ -77,20 +84,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![Arrow pointing at the delete button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-files-by-google-removal-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And you're done. Files by Google will delete your trashed files for good.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other Ways to Free Up an Android Phone's Storage
@@ -112,19 +112,19 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-icicle-illusions-winter-games-showcase/"><u>[New] 2024 Approved Icicle Illusions Winter Games Showcase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-icecream-screen-recorder-indepth-review/"><u>[New] Icecream Screen Recorder Indepth Review</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-aerial-artistry-mastering-the-craft-of-drone-video-editing/"><u>[Updated] Aerial Artistry Mastering the Craft of Drone Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>[Updated] Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-computing-hub/"><u>Advanced Gadget Analysis by Tom's Computing Hub</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-power-of-next-gen-viewing-hitachis-integration-of-4k-uhd-and-roku-on-one-screen/"><u>Discover the Power of Next-Gen Viewing: Hitachi's Integration of 4K UHD and Roku on One Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964474181-get-the-sleek-look-with-a-steal-fractal-design-north-pc-case-for-only-119/"><u>Get the Sleek Look with a Steal: Fractal Design North PC Case for Only $119</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-moto-g04-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola Moto G04</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-antec-wooden-desktop-chassis-choose-either-walnut-or-birch-finish-for-your-custom-build/"><u>Latest Antec Wooden Desktop Chassis: Choose Either Walnut or Birch Finish for Your Custom Build</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-tom-your-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Mastering Gadgets with Tom: Your Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Gadget Reviews and Comparisons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components and Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/uniting-emails-adding-gmail-accounts-to-outlook-windows-style/"><u>Uniting Emails: Adding Gmail Accounts to Outlook, Windows Style</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-device-removing-a-pin-from-windows-11-without-hitches/"><u>Unlocking Your Device: Removing a Pin From Windows 11 Without Hitches</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-a-step-by-step-to-achieving-realism-in-photoshop-artwork/"><u>2024 Approved A Step-by-Step to Achieving Realism in Photoshop Artwork</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-insights-by-toms-electronics-hub/"><u>Advanced Computing Insights by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-device-reviews-unveiled-in-toms-computing-chronicles/"><u>Advanced Device Reviews Unveiled in Tom's Computing Chronicles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/amelioration-et-reparation-dimages-de-haute-resolution-avec-winxvideo-ia/"><u>Amélioration Et Réparation D'Images De Haute Résolution Avec WinxVideo IA</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-maxoak-185whr-and-50k-mah-portable-charger-a-must-have-gadget-review/"><u>Comprehensive Analysis of the MaxOak 185W/Hr & 50K mAh Portable Charger: A Must-Have Gadget Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dissecting-youtubes-features-and-mechanisms-after-uploading-content-for-2024/"><u>Dissecting YouTube’s Features and Mechanisms After Uploading Content for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-compress-your-videos-using-clipmad-a-complete-guide/"><u>How to Compress Your Videos Using Clipmad - A Complete Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-m14-4g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy M14 4G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-the-market-highest-ranked-cablerouter-combinations/"><u>Navigating the Market: Highest-Ranked Cable/Router Combinations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-hardware/"><u>Tom's Tech Review - Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-gaming-memory-modules-of-2024-with-brilliant-lighting-features/"><u>Top Affordable Gaming Memory Modules of 2024 with Brilliant Lighting Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-picks-with-toms-industry-experts/"><u>Unveiling Top Hardware Picks with Tom's Industry Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zen-5-processor-production-flaws-revealed-ryzen-9000-dl-defect-causes-initial-loss/"><u>Zen 5 Processor Production Flaws Revealed: Ryzen 9000 DL Defect Causes Initial Loss</u></a></li>
 </ul></div>
 

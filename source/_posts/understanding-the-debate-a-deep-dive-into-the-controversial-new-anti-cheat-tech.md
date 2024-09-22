@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech"
-date: 2024-09-15T17:17:51.560Z
-updated: 2024-09-16T16:58:10.920Z
+date: 2024-09-21T08:03:45.494Z
+updated: 2024-09-21T22:33:26.365Z
 tags:
   - hardware
 categories:
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
  However, allowing companies to install software with this level of access onto your machine seems like overkill for the average at-home gamer. With anti-cheat software able to monitor all programs on your machine, you run the risk of facing bans (many of them being hardware) for having any program deemed suspicious with no recourse to challenge it. Giving large companies to have such unfettered access to your PC, superseding your _own_ access rights, sets a potentially dangerous precedent that could affect the safety of your PC and your data.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Risking the Safety of Your PC
@@ -51,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
  When Riot launched Vanguard (their proprietary anti-cheat solution) into the existing popular game and esport League of Legends, users complained of PC crashes. It's not confirmed that Vanguard was the cause of these crashes, but a malfunction of a kernel-level driver has whole-system ramifications compared to a user-level application like Discord.
 
  What’s concerning, is that any weaknesses in these systems which can be exploited aren’t just localized to one application, but the _entire_ system. Compound that with the fact that more game developers are shipping their own kernel-level anti-cheats, and you now have several potential points of failure within your OS kernel. That’s a pretty significant risk, especially when most PC gamers are unlikely to have a dedicated machine just for gaming.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Balancing User Security and Competitive Fairness
 
@@ -76,6 +69,13 @@ Gorodenkoff/shutterstock.com
  However, strong-arming players into downloading kernel-level software onto their personal machines in order to play games is an uncomfortable proposition that extends beyond fairness. Asking players to compromise their machine safety to play _games_ is unreasonable, and relies on players not understanding the risks involved in kernel-level software.
 
  Developers need to be held accountable for protecting the rights of their player base with extensive and transparent privacy policies, while also returning control to the user. There is no reason why anti-cheat software needs to be running as a background process when you are not playing a game, or if you are using hacks for single-player games. However, until there’s ample incentive for developers, this is unlikely to change.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting to the Kernel of Truth
 
@@ -98,21 +98,17 @@ Gorodenkoff/shutterstock.com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-discover-prime-sites-to-download-your-got-favorite-tunes-for-2024/"><u>[New] Discover Prime Sites to Download Your GoT Favorite Tunes for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-zoom-tools-for-clear-session-capture/"><u>[Updated] 2024 Approved Best Zoom Tools for Clear Session Capture</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-can-a-brief-subscribe-boost-your-content-viewing-for-2024/"><u>[Updated] Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-essential-tips-for-skyrocketing-your-instagram-followers/"><u>2024 Approved Essential Tips for Skyrocketing Your Instagram Followers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-monetization-101-a-step-by-step-guide-for-profits/"><u>2024 Approved Vimeo Monetization 101 A Step-by-Step Guide for Profits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-uncovered-by-tom-top-picks-and-performance-tips/"><u>Advanced Hardware Uncovered by Tom: Top Picks and Performance Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insight-a-closer-look-at-components-toms-hardware/"><u>Advanced Tech Insight: A Closer Look at Components - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862862001-affordable-gaming-asus-prime-x670-p-wifi-am5-motherboard-for-a-budget-friendly-135/"><u>Affordable Gaming: ASUS Prime X670-P Wifi AM5 Motherboard for a Budget-Friendly $135!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-website-traffic-with-the-expertise-of-cookiebot/"><u>Boost Your Website Traffic with the Expertise of Cookiebot!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-drivers-for-hp-scanjet-printers-on-windows-os-windows-1087/"><u>Download Updated Drivers for HP Scanjet Printers on Windows OS (Windows 10/8/7)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862865384-experiencing-chilly-performance-on-gigabytes-pricey-but-high-quality-b65t-aorus-elite-ax-ice-mobo-usb-galore-included/"><u>Experiencing Chilly Performance on Gigabyte's Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore Included</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862875747-introducing-the-icraft-b760m-motherboard-where-intel-meets-anime-aesthetics-in-a-pastel-package/"><u>Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel Package</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-computer-hardware-tips-from-toms-digital-world/"><u>Mastering Computer Hardware - Tips From Tom's Digital World</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-ryzen-9000-and-zen-nine-processors-gigabyte-prepares-beta-bios-for-wraith-500-series-motherboards/"><u>Upcoming Ryzen 9000 & Zen Nine Processors: Gigabyte Prepares Beta BIOS for Wraith 500 Series Motherboards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862867665-us-customers-rejoice-premium-loongson-processor-integrated-boards-and-pc-units-start-as-low-as-3er-thousand-starting-your-tech-upgrade-effortlessly/"><u>US Customers Rejoice: Premium Loongson Processor-Integrated Boards and PC Units Start As Low as $3Er Thousand, Starting Your Tech Upgrade Effortlessly!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-efficient-screenshot-and-video-recorder-choice-guide-for-pc/"><u>[New] 2024 Approved Efficient Screenshot & Video Recorder Choice Guide for PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-creating-a-video-channel-reviewing-tech-accessories/"><u>[New] Step-by-Step Guide to Creating a Video Channel Reviewing Tech Accessories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>2024 Approved Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/global-gourmet-worlds-favorite-culinary-creations/"><u>Global Gourmet World's Favorite Culinary Creations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y78+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-edge-40-neo-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mingda-magician-pro2-assessment-enormous-and-silent-print-output/"><u>Mingda Magician Pro2 Assessment: Enormous and Silent Print Output</u></a></li>
+<li><a href="https://network-issues.techidaily.com/normalizing-opposite-orientation-screens-windows-11/"><u>Normalizing Opposite Orientation Screens, Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-checklist-for-optimal-yt-brand-aesthetics-for-2024/"><u>The Ultimate Checklist for Optimal YT Brand Aesthetics for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-gadget-enthusiasts-by-toms-hardware/"><u>The Ultimate Resource for Gadget Enthusiasts by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undersea-creations-the-innovative-3d-printer-running-in-a-water-tank/"><u>Undersea Creations: The Innovative 3D Printer Running in a Water Tank</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-m4v-file-a-comprehensive-guide-on-opening-and-managing-video-formats/"><u>Understanding the M4V File: A Comprehensive Guide on Opening and Managing Video Formats</u></a></li>
 </ul></div>
 

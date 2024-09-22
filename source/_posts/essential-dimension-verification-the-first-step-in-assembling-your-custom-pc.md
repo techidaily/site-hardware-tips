@@ -1,7 +1,7 @@
 ---
 title: "Essential Dimension Verification: The First Step in Assembling Your Custom PC"
-date: 2024-09-14T17:39:01.668Z
-updated: 2024-09-16T17:11:58.224Z
+date: 2024-09-15T20:45:04.401Z
+updated: 2024-09-21T23:01:08.275Z
 tags:
   - hardware
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  Motherboards generally utilize the same mounting holes, which means you can fit a smaller motherboard into a larger case. I use a mATX motherboard in a full tower case, and I still double-checked that the case was mATX compatible before buying it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Graphics Card Length, Width, and Height
 
  Graphics cards have arguably become the most "bloated" piece of hardware—even budget models now feature overbuilt cooling solutions with triple-fan configurations and heatsinks that extend far beyond the graphics card's PCB (Printed Circuit Board).
@@ -74,24 +67,18 @@ Hannah Stryker / How-To Geek
 
 Ismar Hrnjicevic / How-To Geek
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Storage Drive Bays
 
  There are two main storage bay sizes—2.5" and 3.5". 2.5" is reserved for SSDs and slim laptop-style HDDs, whereas 3.5" is used for traditional HDDs. Front-facing 3.5" bays are for old-school memory card readers, CD, DVD, and floppy drives, etc. Most modern PC cases no longer have front drive bays, but some of them have gotten rid of 3.5" bays altogether. If you plan to [buy a full-size HDD](https://video-capture.techidaily.com/updated-2024-approved-obs-full-screen-troubles-now-under-control/), look for a case that supports at least one or two 3.5" drives.
 
  Additionally, if you're working with a smaller case, it might only have room for one or two 2.5" drives, which can become an issue if you want to upgrade your storage down the line. So, plan ahead and either buy a larger SSD or a case that supports several 2.5" drives.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Case Fan Sizes
 
@@ -102,13 +89,26 @@ Ismar Hrnjicevic / How-To Geek
 ![A gaming PC with Kingston memory, RGB fans, lights, MSI CPU cooler, and GeForce RTX GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52647613799_d0b8785135_k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  PSU Form Factor and Cables
 
@@ -143,18 +143,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-motion-dynamics-synopsis/"><u>[New] Comprehensive Motion Dynamics Synopsis</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nveiling-the-secrets-of-youtube-video-dimensions-and-resolution-for-2024/"><u>[New] Unveiling the Secrets of YouTube Video Dimensions & Resolution for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-gadgets-and-hardware-with-toms-technology-insights/"><u>Discover Top-Notch Gadgets and Hardware with Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-advancements-in-camm2-faster-speed-reduced-size-and-enhanced-upgradability/"><u>Discovering the Advancements in CAMM2: Faster Speed, Reduced Size & Enhanced Upgradability!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-tech-at-computex-spotlight-on-gigabytes-revolutionary-aorus-xtreme-and-xtreme-ice-motherboards-with-next-gen-gpus/"><u>Experience Enhanced Tech at Computex: Spotlight on Gigabyte’s Revolutionary Aorus Xtreme & Xtreme Ice Motherboards with Next-Gen GPUs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-complete-framework-preview-of-pcie-gen-7-specification-closer-than-ever-to-public-debut/"><u>Explore the Complete Framework: Preview of PCIe Gen 7 Specification Closer than Ever to Public Debut</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-asrock-b7n60m-pro-rs-an-economical-choice-with-abundant-m2-connectivity-options/"><u>Exploring the ASRock B7n60M Pro RS: An Economical Choice with Abundant M.2 Connectivity Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-asrock-z790i-lightning-wireless-networking-mini-marvel-with-maximum-impact/"><u>Exploring the ASROCK Z790I 'Lightning' Wireless Networking: Mini Marvel with Maximum Impact</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x7b-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X7b by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-motorola-defy-2-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Motorola Defy 2? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ranking-win11s-best-no-cost-screen-recording-software-for-2024/"><u>Ranking Win11's Best No-Cost Screen Recording Software for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-owc-mercury-pro-superior-performance-for-top-tier-storage-needs/"><u>Reviewing the OWC Mercury Pro: Superior Performance for Top-Tier Storage Needs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>[New] The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-comprehensive-guide-to-idevices-recording-tools/"><u>2024 Approved Comprehensive Guide to iDevices Recording Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>2024 Approved How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximum-frame-rate-for-languid-motion-videos/"><u>2024 Approved Maximum Frame Rate for Languid Motion Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-vibrant-leap-into-the-future-celebrating-crealitys-tenth-birthday-with-their-revolutionary-colored-3d-printing-machine/"><u>A Vibrant Leap Into the Future: Celebrating Creality’s Tenth Birthday with Their Revolutionary Colored 3D Printing Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/bouncing-back-deleted-folders-on-your-pc/"><u>Bouncing Back Deleted Folders on Your PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/boundless-knowledge-journey-rejoicing-in-anniversary-of-1500-free-classes/"><u>Boundless Knowledge Journey: Rejoicing in Anniversary of 1500 Free Classes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-quadro-rtx-8000-graphics-card-drivers-compatible-with-win-10-8-and-7/"><u>Get the Latest Nvidia Quadro RTX 8000 Graphics Card Drivers Compatible with Win 10, 8 & 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronizing-dates-with-visual-memories/"><u>In 2024, Synchronizing Dates with Visual Memories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-cpu-hierarchy-review-identifying-the-fastest-processors-of-2024/"><u>Latest CPU Hierarchy Review: Identifying the Fastest Processors of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technological-components-with-advice-from-toms-hq/"><u>Mastering Technological Components with Advice From Tom's HQ</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-tom-expert-insights-on-hardware-choices/"><u>Navigating Gadgets with Tom: Expert Insights on Hardware Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insights-on-the-latest-gadgets-and-hardware/"><u>Tom's Tech Review: Insights on the Latest Gadgets and Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tomtech-universe-navigating-the-world-of-computer-components/"><u>TomTech Universe: Navigating the World of Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gadgets-and-tech-trends-a-look-through-toms-hardware-lens/"><u>Unveiling Top Gadgets and Tech Trends: A Look Through Tom's Hardware Lens</u></a></li>
 </ul></div>
 

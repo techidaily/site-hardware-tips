@@ -1,7 +1,7 @@
 ---
 title: Ensure Your New Graphics Card Features Over 8GB RAM
-date: 2024-09-11T17:18:23.079Z
-updated: 2024-09-16T16:59:02.406Z
+date: 2024-09-18T02:32:14.403Z
+updated: 2024-09-21T20:17:36.404Z
 tags:
   - hardware
 categories:
@@ -29,28 +29,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you already have an 8GB GPU, it's far from the end of the world. Most current and past games will run just fine on 8GB of VRAM. You're most likely playing on a 1080p or 1440p display, in which case 8GB is likely still just fine as long as you're sensible with the game's settings. In particular, don't use the [highest texture quality](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-meizu-21-drfone-by-drfone-virtual-android/) settings unless it all fits in VRAM with no performance issues. In current-generation games, the best texture quality setting is designed for 4K displays, so it's largely wasted on 1080p or 1440p screens anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Games Will Need More Soon
 
  Features like [ray-tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) will significantly increase VRAM usage, and newer games are starting to be more VRAM hungry even at resolutions like 1080p and 1440p. You may wonder how the consoles are getting away with it, but current-generation consoles have 16GB of unified memory, which means that with some careful memory management, it's possible to effectively give games more than 8GB of VRAM.
 
  It won't be that long before the minimum requirements for modern games call for 8GB of VRAM. With all the new visual technologies that make games look as amazing as they do, it's becoming harder to fit everything into an 8GB frame buffer. Even taking advantage of features such as [frame generation or AI upscaling](https://extra-resources.techidaily.com/digital-sensations-how-vr-enhances-pleasure/)can put additional load on VRAM, depending on the specific settings you use. No matter which way you look at it, going ahead 8GB of VRAM will be a squeeze, and paring the settings down to fit will result in a noticeably downgraded game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI Benefits From VRAM Too
 
  If you have any interest in [running AI locally](https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/), that's a whole extra reason to want more VRAM with your next GPU. Local AI models that use the GPU to run need to fit in VRAM entirely, and for use cases such as AI image generation, how complex or high-quality the results are directly corresponds to how much VRAM you have available. With more AI applications that run on your local computer on the way, it's probably a good idea to get a card with as much VRAM as you can afford.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  There’s No Rush
@@ -72,19 +72,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[New] 2024 Approved Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-prime-net-selections-personalized-alarm-rhythm-files/"><u>[New] Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-for-successful-video-game-broadcasting/"><u>[Updated] Tips for Successful Video Game Broadcasting</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-which-action-camera-takes-the-crown-gopro-vs-yi/"><u>2024 Approved Which Action Camera Takes the Crown ? GoPro Vs. YI</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dive-into-the-digital-realm-the-most-exquisite-pc-vr-players/"><u>Dive Into the Digital Realm The Most Exquisite PC VR Players</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-v27-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V27 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-typographic-animations-compiled-for-2024/"><u>Optimal Typographic Animations Compiled for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/precision-in-proportion-finding-aspect-ratio-perfection/"><u>Precision in Proportion Finding Aspect Ratio Perfection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tier-computer-components-by-toms-gear/"><u>The Ultimate Guide to Top-Tier Computer Components by Tom's Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-the-ultimate-guide-t17238628798429/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-gadgets-in-depth-reviews-on-hardware/"><u>Tom's Gadgets: In-Depth Reviews on Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-pc-review-hub-for-top-notch-components-and-systems/"><u>Tom's PC Review Hub for Top-Notch Components and Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-precision-reviews-your-ultimate-resource-for-hardware-knowledge/"><u>Tom's Precision Reviews: Your Ultimate Resource for Hardware Knowledge</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-stabilize-your-camera-without-buying-a-tripod/"><u>[New] 2024 Approved How to Stabilize Your Camera without Buying a Tripod?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-in-depth-evaluation-affordable-quality-and-rich-functions-in-the-keychron-c3-pro-wired-mechanical-keyboard/"><u>1. In-Depth Evaluation: Affordable Quality and Rich Functions in the Keychron C3 Pro Wired Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862811481-game-changer-alert-snag-a-monster-sized-999-39-lg-ultragear-wqhd-curved-monitor-from-amazon-right-now/"><u>Game Changer Alert: Snag a Monster-Sized $999, 39” LG Ultragear WQHD Curved Monitor From Amazon Right Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862768155-get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-precision-listening-top-audio-customization-techniques/"><u>New Precision Listening Top Audio Customization Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-rainbow-six-siege-startup-issues-now-fixed/"><u>Resolved: Rainbow Six Siege Startup Issues Now Fixed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smart-strategies-achieving-advertising-excellence/"><u>Smart Strategies Achieving Advertising Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862841022-transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computing Hardware with Tom - A Comprehensive Guide</u></a></li>
 </ul></div>
 

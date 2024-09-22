@@ -1,7 +1,7 @@
 ---
 title: Innovative Cleaning Solutions Reviewed - The Autonomous Switchbot S10 Can Empty and Refuel Solo
-date: 2024-09-10T16:42:21.647Z
-updated: 2024-09-16T16:38:20.551Z
+date: 2024-09-20T05:10:24.184Z
+updated: 2024-09-22T05:49:50.278Z
 tags:
   - hardware
 categories:
@@ -96,6 +96,13 @@ Patrick Campanale / How-To Geek
 
  This solves one of the biggest pain points with robot mops, in my opinion. The dirty water in a mop is always nasty, and something that can sometimes smell, and is something you wouldn’t want to spill when carrying it. So, the fact that the S10 can empty and refill itself is pretty stellar. In my testing of the robot, it did this perfectly every time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Be Ready To Do Some Plumbing Work, or Just Pick Up the External Water Tank
 
  When it comes to installing the water station, there’s a bit of plumbing that goes into it. It's critical to make sure you have a place for this to live before buying. Initially, I planned to install the water station in my guest bathroom under the toe kick. The station, however, didn’t fit there. So, I moved to my laundry room, where I planned to tie it into my washer water and drain lines. And, to my surprise, the ¾ to ½ tee was already in the package! Sadly, [my washer uses a different thread type](https://blog.boshart.com/ultimate-overview-of-connection-types-pictures-included) (GHT instead of NPT), so I wasn’t able to hook the S10 into my main water supply.
@@ -110,9 +117,23 @@ Patrick Campanale / How-To Geek
 
  Regardless of whether you’re using the external water tank or piping it into your home, simply find the place you want the water station to be, and tell the S10 where it’s at in the app. It’s that simple.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The SwitchBot S10 Cleans Well, if You Don’t Mind the Noise
 
 ![SwitchBot S10 Robot Vacuum AI Object Detection Moving Around Shoe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-ai-object-detection-moving-around-shoe.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -132,19 +153,6 @@ Patrick Campanale / How-To Geek
 
  Outside these two areas, however, the S10 was pretty run-of-the-mill when it comes to cleaning performance. It vacuumed the hard floors well, and the carpets were left clean as well once it ran. It left nice carpet lines too, which was a bonus. However, as typical with robot vacuums, watch out for rugs with tassels. It’ll eat them and pull the rug along with it.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Where It Lacks in the Vacuum Department, the Mop Shines
 
 ![SwitchBot S10 Robot Vacuum Going Around Chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-going-around-chair.jpg) 
@@ -161,23 +169,9 @@ Close
 
  This helps a lot with cleaning up and is particularly useful if you have a dusty mess for it to clean. I simulated spilling flour on the floor by putting some baking soda in the path of the vacuum. When set to clean and mop (and one time only), it left tracks all over the place. However, when I flipped it to clean twice, it went back and picked up the original tracks the second time since it shifted the cleaning route by 90 degrees. So, if you want the most thorough clean possible, you'll want to make sure to enable the two passes and be prepared for cleaning to take twice as long. But, on the bright side, the vacuum is smart enough to dock itself to empty the dust bin or empty the dirty water/refill the clean water tank mid-cleaning, as well as charge, should it need to.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don’t Place Your Dock on the Carpet
 
 ![SwitchBot S10 Robot Vacuum Dock On Hard Floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-dock-on-hard-floor.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -200,10 +194,16 @@ Close
 ![SwitchBot S10 Robot Vacuum AI Detection Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-front-on-carpet.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
@@ -213,6 +213,13 @@ Patrick Campanale / How-To Geek
  However, there’s no access to the camera while it’s cleaning. On some other robot vacuums, like the [Roborock S8 MaxV Ultra](https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-s23-ultra-by-drfone-android/), you can pull up a live feed of the camera to see where the robot is, what it’s stuck on, or just monitor where it’s going. The SwitchBot S10 has a camera capable of this, but, for privacy's sake, does all its AI processing locally on-device. That means the camera feed, according to SwitchBot, doesn’t go to the cloud at all. This is why you’re not able to access the feed on your phone since the camera feed never actually leaves the device.
 
  I don’t see SwitchBot changing this in the future, as they’re touting this as a security feature that other vacuums don’t have, but it would be nice to have a toggle to tell it “only process on-device” or “let me stream the camera” so that way as the end user, it’s an option you or I could choose.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the SwitchBot S10 Robot Vacuum/Mop?
 
@@ -227,13 +234,6 @@ Patrick Campanale / How-To Geek
  However, if the allure of the water station isn’t as big of a draw for you, then I’d recommend you look at some other vacuums in this price range, like the [Yeedi M12 Pro+](https://fox-direct.techidaily.com/new-in-2024-sculpting-textual-space-with-ais-powerful-features/). It’s less expensive, and impressed Tyler quite a bit in cleaning tests, making it a solid alternative to the S10.
 
 ![SwitchBot S10 Robot Vacuum and Mop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/switchbot-s10-robot-vacuum-mop.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  SwitchBot S10 Robot Vacuum and Mop
 
@@ -260,13 +260,21 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-10-audio-elevators-on-computersmobile/"><u>[Updated] Ultimate 10 Audio Elevators on Computers/Mobile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-4k-battle-royale-of-high-resolution-cams-in-23/"><u>2024 Approved GoPro and Yi 4K Battle Royale of High-Resolution Cams in '23</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-14-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 14 Pro Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-top-pc-components-from-toms-review-hub/"><u>Expert Insights on Top PC Components From Tom's Review Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-retro-to-revolutionary-how-a-classic-crt-monitor-managed-extreme-70-groove-refresh-rate-at-the-expense-of-resolution/"><u>From Retro to Revolutionary: How a Classic CRT Monitor Managed Extreme 70 Groove Refresh Rate at the Expense of Resolution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-ready-for-a-game-changer-the-massive-cooler-master-gaming-screen-featuring-dual-ultrawide-4k-and-mini-leds/"><u>Get Ready for a Game Changer: The Massive Cooler Master Gaming Screen Featuring Dual Ultrawide 4K and Mini LEDs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pclaptop-editors-without-relying-on-inshot/"><u>PC/Laptop Editors without Relying on Inshot</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-new-developments-in-facebook-2023-edition/"><u>[New] New Developments in Facebook - 2023 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-tech-premium-choices-of-mac-videograbbers-for-2024/"><u>[Updated] Leading Tech Premium Choices of Mac Videograbbers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-stream-rates-on-netflix/"><u>[Updated] Optimizing Stream Rates on Netflix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pic-perfect-ranking-the-best-photo-stickering-apps-for-iphonesandroids/"><u>[Updated] Pic Perfect Ranking the Best Photo Stickering Apps for iPhones/Androids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-remove-a-saved-wi-fi-network-from-windows-11/"><u>4 Ways to Remove a Saved Wi-Fi Network From Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-the-steal-of-a-lifetime-premium-corsairs-1000w-small-form-factor-psu-at-an-unbeatable-price/"><u>Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-corsair-tx550m-psu-evaluation-a-detailed-performance-analysis/"><u>Comprehensive Corsair TX550M PSU Evaluation: A Detailed Performance Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-solutions-to-overcome-chatgpt-plugin-service-interaction-failures/"><u>Effective Solutions to Overcome ChatGPT-Plugin Service Interaction Failures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-gadget-analysis-by-tom-in-depth-reviews-of-latest-electronics/"><u>Expert Gadget Analysis by Tom: In-Depth Reviews of Latest Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hardcore-hardware-insights-by-tom-your-ultimate-guide/"><u>Hardcore Hardware Insights by Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>In 2024, .MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-gear-with-tom-in-depth-reviews-from-toms-hardware-experts/"><u>Navigating Computer Gear with Tom: In-Depth Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-analysis-and-insights-on-the-evga-supernova-85nv-gaming-psu-gen-7-review/"><u>Performance Analysis and Insights on the EVGA SuperNova 85Nv Gaming PSU (Gen 7) Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-3-tech-powered-linguistic-advancement-tools-announced-today/"><u>Top 3 Tech-Powered Linguistic Advancement Tools Announced Today</u></a></li>
 </ul></div>
 

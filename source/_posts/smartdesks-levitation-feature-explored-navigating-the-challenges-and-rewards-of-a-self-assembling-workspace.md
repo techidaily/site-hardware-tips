@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk's Levitation Feature Explored: Navigating the Challenges and Rewards of a Self-Assembling Workspace"
-date: 2024-09-11T16:55:36.143Z
-updated: 2024-09-16T17:22:22.522Z
+date: 2024-09-20T03:48:26.787Z
+updated: 2024-09-22T01:43:59.018Z
 tags:
   - hardware
 categories:
@@ -95,18 +95,18 @@ Mark LoProto / How-to Geek
 
 Mark LoProto / How-to Geek
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Durable Frame and Sturdy Desktop
 
  A two-motor setup would have been infinitely easier to assemble. I tend to find the thicker dual legs on models like [FlexiSpots Q8](https://youtube-videos.techidaily.com/new-essential-tips-for-youtube-shorts-success/) and [SecretLab's Magnus Pro](https://instagram-video-recordings.techidaily.com/new-mastering-amazing-ig-video-creation-for-2024/) offer better stability. The SmartDesk Levitate’s frame is made of thick steel, so while the legs were a little shaky, I was confident it wouldn’t randomly collapse. I was surprised by the 310-pound weight limit, even at its maximum height of 44.1 inches. I expected it to be lower, especially considering the Magnus Pro tops at 265lbs and feels like a more stable desk.
 
  The desktop itself is also a nice, light wood finish. It reminds me a little of FlexiSpot’s Q8 Pro Standing Desk, just thicker. Unfortunately, the thick desktop and steel frame made it impossible for me to use my clamp monitor arm without having to modify the arm in ways it’s not meant to be modified.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Levitate Sensor: Who Asked for This?
 
@@ -117,13 +117,6 @@ Mark LoProto / How-to Geek
 Your browser does not support the video tag. 
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  It’s Not All Bad
 
@@ -136,15 +129,22 @@ Mark LoProto / How-to Geek
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mark LoProto / How-to Geek
 
@@ -187,16 +187,18 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/beyond-social-media-platforms-exploring-the-meaning-and-impact-of-fbs-metaverse/"><u>Beyond Social Media Platforms: Exploring the Meaning & Impact of FB’s Metaverse</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-effective-power-indicators-in-windows/"><u>Crafting Effective Power Indicators in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-photovideo-gimbal-unmatched-stabilization/"><u>Dynamic Photo/Video Gimbal Unmatched Stabilization</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/examining-performance-fluctuations-in-seatechs-portable-blu-ray-burner-for-external-usb-use/"><u>Examining Performance Fluctuations in SeaTech's Portable Blu-Ray Burner for External USB Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-10-virtual-photo-backdrop-modifiers/"><u>Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-inadvertent-tiktok-redownload-whats-next/"><u>In 2024, Inadvertent TikTok Redownload – What's Next?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-up-your-game-with-the-new-acer-triad-of-oled-monitors-showcasing-the-fastest-480hz-in-the-market-predator-x27u-f3/"><u>Step Up Your Game with the New Acer Triad of OLED Monitors, Showcasing the Fastest 480Hz in the Market: Predator X27U F3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-computer-hardware-by-toms-electronic-forum/"><u>The Definitive Guide to Computer Hardware by Tom's Electronic Forum</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-hardware-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Hardware by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-the-ultimate-guide/"><u>Tom's Hardware Review: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-simple-steps-to-modify-screen-capture-on-macos/"><u>[New] 2024 Approved Simple Steps to Modify Screen Capture on macOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-subtitle-tactics-for-instagrams-video-feed/"><u>2024 Approved Subtitle Tactics for Instagram's Video Feed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harnessing-power-and-potential-how-the-innovative-raspberry-pi-rp2/"><u>Harnessing Power and Potential: How the Innovative Raspberry Pi RP2</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-e13-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto E13 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/integrating-advanced-movie-capture-on-diverse-tech-environments-for-2024/"><u>Integrating Advanced Movie Capture on Diverse Tech Environments for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-components-with-toms-hardware-guides/"><u>Navigating the World of Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-skype-microphone-problem-in-windows-10-systems/"><u>Resolving Your Skype Microphone Problem in Windows 10 Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamline-meeting-recording-on-devices-with-gotomeeting-for-2024/"><u>Streamline Meeting Recording on Devices with GoToMeeting for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-the-definitive-guide-to-tech-gear/"><u>Tom's Computer Review: The Definitive Guide to Tech Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-closer-look-at-the-latest-innovations/"><u>Tom's Tech Insights: A Closer Look at the Latest Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-hardware-innovations/"><u>Tom's Tech Reviews: Unveiling the Latest in Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/travel-friendly-raspberry-pi-gaming-stations-for-event-goers/"><u>Travel-Friendly Raspberry Pi Gaming Stations for Event Goers</u></a></li>
 </ul></div>
 

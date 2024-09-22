@@ -1,7 +1,7 @@
 ---
 title: Researchers at the University,
-date: 2024-09-18 23:17:53
-updated: 2024-09-20 10:22:31
+date: 2024-09-17T17:09:45.749Z
+updated: 2024-09-21T18:04:08.252Z
 tags:
   - tvs
 categories:
@@ -62,11 +62,28 @@ The rollout will happen over the next few weeks, starting with Roku-branded TVs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/outubes-finest-ranked-by-skyrocketing-subscriber-numbers/"><u>[New] YouTube's Finest Ranked by Skyrocketing Subscriber Numbers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/7-ideas-to-improve-the-unboxing-experience/"><u>7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-high-memory-usage-by-applications-in-android-phones/"><u>Discovering High Memory Usage by Applications in Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/divide-the-total-distance-traveled-by-all-vehicles-by-the-circumference-of-the-earth-to-find-how-many-times-around-the-earth-this-distance-would-go/"><u>Divide the Total Distance Traveled by All Vehicles by the Circumference of the Earth to Find How Many Times Around the Earth This Distance Would Go.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-android-14-beta-2-without-owning-a-pixel-device-now-available/"><u>Download Android 14 Beta 2 Without Owning a Pixel Device - Now Available</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-online-presence-with-manycams-virtual-webcam-technology/"><u>Master Your Online Presence with ManyCam's Virtual Webcam Technology</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

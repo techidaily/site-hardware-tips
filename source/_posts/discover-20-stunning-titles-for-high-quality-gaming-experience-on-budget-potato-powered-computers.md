@@ -1,7 +1,7 @@
 ---
 title: Discover 20 Stunning Titles for High-Quality Gaming Experience on Budget, Potato-Powered Computers!
-date: 2024-09-12T16:26:30.578Z
-updated: 2024-09-16T17:15:35.462Z
+date: 2024-09-19T21:02:22.915Z
+updated: 2024-09-22T07:51:00.876Z
 tags:
   - hardware
 categories:
@@ -45,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve tweaked some settings and options to squeeze every last drop of performance out of my PC and get these games to run. [Learn how to optimize your gaming PC](https://fox-helps.techidaily.com/dissecting-the-sony-s6700-enhancements/) for optimal performance without buying extra parts.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### _Prince of Persia: The Sands of Time Trilogy_ 
@@ -58,6 +58,13 @@ _Prince of Persia: The Sands of Time_ is an action-adventure 3D platformer that 
  That said, the graphics of the original hold up well. I’d argue the original looks better than its sequels—_Warrior Within_ and _Two Thrones_. Although to be fair, the sequels offered a more refined combo-based combat system and expanded the world, both spatially and narratively.
 
  For all three titles, the story is captivating, the level designs are awesome, and the time travel shenanigans are super fun and well-integrated.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### _Assassin's Creed_ (Up To _Black Flag_)
 
@@ -75,18 +82,18 @@ _Assassin’s Creed_ is another action-adventure series that started in 2007, an
 
  At its core, all games have satisfying parkour elements with stealth sequences and some 3D platforming. Depending on the title, you’ll explore historical places like Damascus, Renaissance Italy, Colonial America, and the West Indies during the golden age of piracy—which is why I like _Black Flag_, because you’ll be able to pilot pirate ships and engage in nautical combat.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### _Prototype_ and _Prototype 2_ 
 
 _Prototype_ and its sequel deliver one of, if not the best, power fantasies with brutal, over-the-top, hack-and-slash action. If annihilating armies of mutated zombies on the streets of Manhattan as everything descends into chaos sounds fun—get these games! I’m still praying for _Prototype 3_!
 
  You can shapeshift into other people, run up walls, glide through the air, turn your arm into a massive blade, slice through armored tanks, latch onto helicopters and hack them midair, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### _Darksiders_ and _Darksiders 2_ 
 
@@ -101,13 +108,6 @@ _Darksiders_ has you playing as War, one of the four horsemen of the Apocalypse.
  Step into the shoes of Agent 47 as you stealthily walk, crouch, and scramble through meticulously detailed levels, performing creative assassinations. The game was released back in 2012, but the overall attention to detail, lighting effects, and most notably crowd simulation are extremely impressive.
 
  The gameplay revolves around reading the room, analyzing NPC movement, and figuring out the best way to navigate the situation and assassinate your target. The disguise system allows you to blend in with crowds, offering multiple approaches to each mission.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### _Bioshock Infinite_ 
 
@@ -133,6 +133,13 @@ _Dragon Age: Inquisition_ is an RPG from 2014 featuring diverse, beautifully cra
 
  The 2020 remaster is a graphically revamped version of the 2010 title. The core gameplay is still the same, which is good because everyone loved it. In case you didn’t play the original, it’s an arcade racer with intense chases between racers and police. The sound design is particularly good and definitely helps with the immersion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### _Batman Arkham Asylum_ and _Arkham City_ 
 
  If you are looking for some superhero games, our potato rig can comfortably run _Arkham Asylum_ at max settings and _Arkham City_ at medium to high.
@@ -142,10 +149,10 @@ _Arkham Asylum_ traps the caped crusader in the titular prison, which is now tee
  Coming to the sequel, _Arkham City_ carries over the strong foundations of _Arkham Asylum_ but expands the map into a larger open world. The game puts you in a walled-off section of Gotham City, allowing for greater freedom and exploration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### _Ori and The Blind Forest_ 
@@ -153,13 +160,6 @@ _Arkham Asylum_ traps the caped crusader in the titular prison, which is now tee
 _Ori and the Blind Forest_ is a personal favorite of mine, with its vibrant hand-painted art style, wonderfully animated characters, emotional story, and hauntingly beautiful and melancholic orchestral score. Potato PC or not, it’s a wonderful Metroidvania platformer that everyone should try out.
 
  The 2D graphics are not only visually stunning but easy on the hardware, making it an excellent choice for potato PCs. It's a prime example of how artistic style can outshine pure graphical power.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### _Grand Theft Auto V_ 
 
@@ -190,13 +190,13 @@ _Ori and the Blind Forest_ is a personal favorite of mine, with its vibrant hand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortless-facebook-live-streams-from-your-smartphone/"><u>[New] In 2024, Effortless Facebook Live Streams From Your Smartphone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[Updated] In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazfit-bip-review-an-amazing-entry-level-smartwatch/"><u>Amazfit Bip Review: An Amazing Entry-Level Smartwatch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-best-exceptional-scoring-and-lowest-ever-cost-for-alienware-360hz-oled-monitor/"><u>Experience the Best: Exceptional Scoring & Lowest Ever Cost for Alienware 360Hz OLED Monitor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-hub/"><u>Expert Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-at-toms-computer-world-gear-insights/"><u>Expert Reviews at Tom's Computer World: Gear Insights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/photograph-whole-page-spectacle-for-2024/"><u>Photograph Whole Page Spectacle for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/profi-mp4-cutter-unter-windows-10-und-11-sichere-bearbeitung-ohne-neukodierung-erforderlich/"><u>Profi-MP4 Cutter Unter Windows 10 Und 11: Sichere Bearbeitung Ohne Neukodierung Erforderlich</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[New] 2024 Approved FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-diving-into-the-world-of-instagrams-reels-and-stories/"><u>2024 Approved Diving Into the World of Instagram's Reels & Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-industrial-giants-taking-flight-heavy-duty-drones/"><u>In 2024, Industrial Giants Taking Flight Heavy-Duty Drones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23plusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23+FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-beyerdynamic-mmx-300-pro-outstanding-acoustics-with-a-simplistic-approach/"><u>In-Depth Evaluation of the Beyerdynamic MMX 300 Pro - Outstanding Acoustics with a Simplistic Approach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-ducky-one-x-a-trailblazer-with-cutting-edge-cherry-inductive-keyboard-mechanisms/"><u>Introducing the Ducky One X - A Trailblazer with Cutting-Edge Cherry Inductive Keyboard Mechanisms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/magma-gloves-by-gamertech-the-perfectly-warmed-grip-for-elite-gamers/"><u>Magma Gloves by GamerTech: The Perfectly Warmed Grip for Elite Gamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-hp-laserjet-p2c35-driver-problems-for-windows-users/"><u>Resolving HP LaserJet P2C35 Driver Problems for Windows Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology"
-date: 2024-09-10T16:55:10.673Z
-updated: 2024-09-16T16:47:46.317Z
+date: 2024-09-18T19:25:04.631Z
+updated: 2024-09-22T02:48:44.797Z
 tags:
   - hardware
 categories:
@@ -46,22 +46,16 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  Photoshop 1.0 for Mac costs a whopping $895\. Over the next five years, it would be ported to Windows and become much more popular. In 1995, Adobe fully purchased the rights to Photoshop for $34.5\. Nowadays, it generates billions in revenue and has millions of users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  DVDs
 
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -71,16 +65,16 @@ Hannah Stryker / How-To Geek
 
  DVDs remain massively popular today due to their low cost and the fact that the picture quality is still "good enough" for many people. [In 2018](https://www.reddit.com/r/4kbluray/comments/pu6o6e/this%5Fabsolutely%5Fbaffling%5Fsales%5Fchart%5Fcredit%5Fto/), DVDs made up around 52% of sales, while Blu-ray accounted for around 47%. Fast-forward three years, and DVDs shot up to 72%, pushing Blu-ray down to 29%. This 90s tech seems to be here to stay.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Text Messaging
 
 ![Android phone with text messages on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-Text-Messages.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -104,24 +98,18 @@ Justin Duino / How-To Geek
 
 ![The Bluetooth logo on a blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/bluetooth_hero_5.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wireless technology is something most people use on a daily basis without thinking twice about it. Bluetooth is one of the most commonly used, and it was invented in 1994.
 
 [Bluetooth technology was invented in 1994](https://article-posts.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/) by a team of engineers at Ericsson, led by Dr. Jaap Haartsen. The invention was driven by the need for a wireless communication protocol that could connect mobile phones with computers, headsets, and other accessories over short distances without the constraints of wired connections.
 
  Nowadays, Bluetooth is baked into more devices than you can imagine. Smartphones, smartwatches, headphones, light bulbs, plugs, switches, coffee makers, thermometers, thermostats, door locks, and more, and more, and more. Needless to say, it's been a hit.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Smartphones
 
@@ -135,16 +123,16 @@ Justin Duino / How-To Geek
 
  Needless to say, those features have carried over all these years later. Touchscreens are absolutely essential to mobile devices, and making calls and sending emails are considered rudimentary, basic features. It all started with a weird-looking brick.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  MP3 Format
 
 ![2018-08-06_14h28_57](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-06_14h28_57.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  MP3 Players have come and gone, but [MP3 files](https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-insta-vids-into-music-your-complete-guide/) have stood the test of time. If you're dealing with an audio file on your computer or mobile device, there's a good chance it's an MP3\. The MP3 format was first released in 1991.
 
@@ -171,16 +159,15 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-leverage-windows-movie-maker-to-upgrade-your-youtube-videos/"><u>[New] In 2024, Leverage Windows Movie Maker to Upgrade Your YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-comprehensible-explanation-of-youtubes-viewership-puzzle-for-2024/"><u>[Updated] A Comprehensible Explanation of YouTube's Viewership Puzzle for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/dark-screenwork-in-premiere-pro-for-2024/"><u>Dark Screenwork in Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift-for-2024/"><u>How to Prepare Your Room and VR-Ready PC for Oculus Rift for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-apowersoft-unpacked-in-depth-review-and-comparisons-required/"><u>In 2024, Apowersoft Unpacked In-Depth Review & Comparisons Required</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-value-of-the-asrock-b7n60m-pro-rs-motherboard-great-affordability-and-extensive-mc2-support/"><u>Unveiling the Value of the ASRock B7n60M Pro RS Motherboard: Great Affordability and Extensive M.C.2 Support</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/us-customers-rejoice-premium-loongson-processor-integrated-boards-and-pc-units-start-as-low-as-3er-thousand-starting-your-tech-upgrade-effortlessly/"><u>US Customers Rejoice: Premium Loongson Processor-Integrated Boards and PC Units Start As Low as $3Er Thousand, Starting Your Tech Upgrade Effortlessly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-cutting-edge-computer-gear-toms-hardware-haven/"><u>Your Trusted Source for Cutting-Edge Computer Gear - Tom's Hardware Haven</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>[New] In 2024, 2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-10-keys-to-picking-your-perfect-broadcast-platform/"><u>[New] Uncover 10 Keys to Picking Your Perfect Broadcast Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-steps-to-create-a-compelling-community-giving-event-post/"><u>[Updated] Steps to Create a Compelling Community Giving Event Post</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exceptional-counsel-premium-ringtone-developers/"><u>2024 Approved Exceptional Counsel Premium Ringtone Developers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12 4G without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-pcs-for-students-proven-choices-for-study-designing-playing-and-beyond/"><u>Best PCs for Students: Proven Choices for Study, Designing, Playing, and Beyond</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-neptune-4-plus-3d-printer-superior-quality-and-rapid-printing-speeds/"><u>Comprehensive Evaluation of the Elegoo Neptune 4 Plus 3D Printer: Superior Quality and Rapid Printing Speeds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-x8b-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor X8b to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-resin-3d-printing-machines-of-2024/"><u>Top-Rated Resin 3D Printing Machines of 2024</u></a></li>
 </ul></div>
 

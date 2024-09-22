@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems
-date: 2024-09-11T17:11:14.755Z
-updated: 2024-09-16T17:19:53.331Z
+date: 2024-09-14T17:40:09.067Z
+updated: 2024-09-22T04:55:56.157Z
 tags:
   - hardware
 categories:
@@ -64,10 +64,10 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -81,10 +81,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -118,17 +118,19 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-earnings-through-effective-facebook-page-practices/"><u>[New] 2024 Approved Elevate Earnings Through Effective Facebook Page Practices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>[New] Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[Updated] 2024 Approved Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamline-your-video-search-on-facebook-tips-and-tricks/"><u>[Updated] Streamline Your Video Search on Facebook (Tips & Tricks)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>In 2024, The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-toshiba-device-drivers-free-downloads-and-updates-for-windows/"><u>Latest Toshiba Device Drivers: Free Downloads & Updates for Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/msi-takes-responsibility-for-heatsink-issue-on-z7/"><u>MSI Takes Responsibility for Heatsink Issue on Z7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-tech-landscapes-essential-guides-by-toms-hardware-gurus/"><u>Navigate Tech Landscapes: Essential Guides by Tom's Hardware Gurus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-the-gigabyte-b650-aorus-elite-ax-ice-motherboard-costly-but-cool-with-extensive-usb-support/"><u>Review of the Gigabyte B650 Aorus Elite AX Ice Motherboard - Costly but Cool with Extensive USB Support</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-it-innovations-with-toms-hardware-analysis/"><u>Stay Ahead in IT Innovations with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-standard-to-spectacular-the-journey-with-vce-22/"><u>[New] From Standard to Spectacular The Journey with VCE 2.2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-nba-viewing-discover-the-best-15-streaming-options/"><u>[New] Seamless NBA Viewing Discover the Best 15 Streaming Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-uploading-basics/"><u>[New] Twitter Video Uploading Basics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tutorials-and-reviews-by-toms-hardware-experts/"><u>Advanced Tutorials & Reviews by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-computing-with-toms-hardware-expertise/"><u>Dive Into Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-techniques-for-repairing-file-wear-and-tear/"><u>Effective Techniques for Repairing File Wear and Tear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-essential-guide-to-the-premier-power-supplies-of-202e4/"><u>Gamers' Essential Guide to the Premier Power Supplies of 202E4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/historys-high-scorers-on-reddit-top-10-list/"><u>History's High Scorers on Reddit - Top 10 List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-your-pathway-to-instagram-stardom-top-video-strategies/"><u>In 2024, Your Pathway to Instagram Stardom Top Video Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/installation-route-to-windows-movie-maker-6-version-6/"><u>Installation Route to Windows Movie Maker 6 Version 6</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-tech-scene-toms-precision-hardware-critiques-and-advice/"><u>Mastering the Tech Scene: Tom's Precision Hardware Critiques and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tom/"><u>Navigating the World of High-Performance Hardware with Tom</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/permanently-wipe-out-digital-clutter-with-these-proven-deletion-methods/"><u>Permanently Wipe Out Digital Clutter with These Proven Deletion Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-techniques-for-rtx-3080/"><u>Troubleshooting Techniques for RTX 3080</u></a></li>
 </ul></div>
 

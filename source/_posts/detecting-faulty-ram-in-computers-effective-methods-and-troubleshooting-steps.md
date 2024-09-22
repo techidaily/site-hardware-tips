@@ -1,7 +1,7 @@
 ---
 title: "Detecting Faulty RAM in Computers: Effective Methods and Troubleshooting Steps"
-date: 2024-09-11T16:54:09.057Z
-updated: 2024-09-16T17:11:38.753Z
+date: 2024-09-15T00:57:50.011Z
+updated: 2024-09-22T10:54:59.218Z
 tags:
   - hardware
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
  The best RAM testing tools require you to reboot your computer into a special bootable system. This gets Windows (or another operating system) out of the way and ensures the tool has full low-level access to your RAM. There are tools you can run from within Windows, like [HCI Design's MemTest,](https://hcidesign.com/memtest/download.html) but they just won't be as reliable. We don't recommend them.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Test Your RAM?
 
  The most common reason people test their computer's memory is to resolve issues with repeated crashes. If you frequently get [BSODs](https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-approaches-to-ppt-video-captures/), a RAM test is a good way to diagnose issues. This is especially the case if [the BSOD error message](https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/) makes reference to computer memory. We've found faulty RAM to be to blame for specific error messages like the common ["Page Fault in Nonpaged Area" error](https://instagram-video-recordings.techidaily.com/2024-approved-the-social-strategists-guide-to-capturing-feedback-via-instagram-story-polls/).
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
  By the way, though we're showing you different memory testing tools, it's not a bad idea to use both. Different software might be better or worse at detecting specific types of errors, so there's a minor chance one will catch something that the other doesn't. If you've got the time, we recommend getting a "second opinion" this way.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Option 1: Run the Windows Memory Diagnostic
 
  Windows has a built-in RAM testing tool. It's included on Windows 10, Windows 11, Windows 7, and all other modern versions of Windows.
@@ -57,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  To launch the Windows Memory Diagnostic tool, open the Start menu, type "Windows Memory Diagnostic", and press Enter.
 
 ![Windows 11 Start menu with the Windows Memory Diagnostic app visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-22_19h07_35.png) 
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also press Windows Key+R, type "mdsched.exe" into the Run dialog that appears, and press Enter.
 
@@ -84,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  However, you don't need to watch the test—you can leave your computer alone and come back to see the results later.
 
 ![Windows Memory Diagnostics Tool running on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_133527_602.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -106,10 +100,10 @@ Jordan Gloor / How-To Geek
  The text doesn't wrap inside the window, so you can't see it in the screenshot above, but in our case Windows returned a message stating no errors were found in our RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Option 2: Boot and Run MemTest86
@@ -124,6 +118,19 @@ Jordan Gloor / How-To Geek
 
 ![imageUSB interface for writing the Memtest86 image to a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-152233.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've created bootable media, restart your computer and [tell it to boot from the USB drive](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/) you copied the memory test tool to.
 
  The tool will boot and automatically start scanning your memory, running through test after test and informing you if it finds a problem. It will keep running tests until you choose to stop it, allowing you to test how the memory behaves over a longer period of time. Information about any errors will be displayed on your screen. When you're done, you can just press the "Esc" key to exit it and restart your computer.
@@ -131,13 +138,6 @@ Jordan Gloor / How-To Geek
 ![MemTest86 running a memory check on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_161655_906.jpg) 
 
 Jordan Gloor / How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What to Do If a Memory Test Finds Errors
 
@@ -164,16 +164,20 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-securesave-professionals-assessment/"><u>[New] SecureSave Professionals' Assessment</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-reconnecting-sound-tracks-to-obs-broadcasts/"><u>[Updated] Reconnecting Sound Tracks to OBS Broadcasts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlined-approach-upload-your-videos-from-youtube-to-dailymotion/"><u>2024 Approved Streamlined Approach Upload Your Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y55s-5g-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y55s 5G (2023) Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-dynamic-action-sequences-on-iphone/"><u>Capturing Dynamic Action Sequences on iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-look-ups-top-15-luts-for-gopro-action-footage/"><u>Cutting-Edge Look-Ups Top 15 LUTs for GoPro Action Footage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-the-turing-test-determine-ai-intelligence-and-can-machines-triumph-over-humans/"><u>How Does the Turing Test Determine AI Intelligence, and Can Machines Triumph Over Humans?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-s17e-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo S17e on Windows??</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-vrr-why-your-gaming-monitor-might-flicker-and-how-to-stop-it-now/"><u>Understanding VRR: Why Your Gaming Monitor Might Flicker and How to Stop It Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-improved-apple-pencil-pro-a-significant-advancement-in-tech-tools/"><u>Unveiling the Improved Apple Pencil Pro: A Significant Advancement in Tech Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-visuals-with-the-latest-tiny-go-3-from-insta360-capture-images-and-videos-at-true-4k-quality/"><u>Upgrade Your Visuals with the Latest Tiny Go 3 From Insta360 - Capture Images and Videos at True 4K Quality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[Updated] In 2024, Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grab-your-guiltless-film-endings-with-our-template-service/"><u>2024 Approved Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/automating-the-transformation-from-mxf-to-mp3-a-comprehensive-tutorial/"><u>Automating the Transformation From MXF to MP3: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gaming-setup-with-a-bargain-the-spectacular-acer-nitro-27/"><u>Elevate Your Gaming Setup with a Bargain - The Spectacular Acer Nitro 27</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-best-exceptional-scoring-and-lowest-ever-cost-for-alienware-360hz-oled-monitor/"><u>Experience the Best: Exceptional Scoring & Lowest Ever Cost for Alienware 360Hz OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-hub/"><u>Expert Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-at-toms-computer-world-gear-insights/"><u>Expert Reviews at Tom's Computer World: Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computer-world-a-deep-dive-into-cutting-edge-hardware/"><u>Exploring Tom's Computer World: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-gt-neo-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme GT Neo 5 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-7-essential-tips-for-flawless-underwater-filming/"><u>In 2024, 7 Essential Tips for Flawless Underwater Filming</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-uniting-slack-and-filmora-for-ultimate-collaborative-gatherings/"><u>In 2024, Uniting Slack and Filmora for Ultimate Collaborative Gatherings</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-techniques-for-high-quality-console-recordings-on-pcs/"><u>Precision Techniques for High-Quality Console Recordings on PCs</u></a></li>
 </ul></div>
 

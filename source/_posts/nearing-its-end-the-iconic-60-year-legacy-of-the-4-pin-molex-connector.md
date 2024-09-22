@@ -1,7 +1,7 @@
 ---
 title: "Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector"
-date: 2024-09-10T17:13:21.073Z
-updated: 2024-09-16T17:27:29.391Z
+date: 2024-09-18T23:29:41.492Z
+updated: 2024-09-22T07:18:48.856Z
 tags:
   - hardware
 categories:
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Establishing the basic facts of the Molex connector's history outside the Wikipedia entry (which has its own issues), proved a little tricky. This seems to be the [1962 patent](https://patents.google.com/patent/US3178673A/en) for the original. Likewise, facts about the Mate-n-Lok and the later 8981 connectors are also hard to nail down, though, of course, we all used them! Even looking for information about them on Molex or TE Connectivity's own sites doesn't yield much, so I've tried to stick to the basics.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Good, the Bad, and the Ugly of the 4-Pin Molex
 
  Molex connectors were clearly a big deal in the world of consumer electronics and later in home computing. It was an easy, widespread standard that made it easy for manufacturers of computer parts to ensure that everything would work together. Since it has such a long lifespan, it also meant that Molex connectors allowed for parts that were many years apart to interoperate.
@@ -40,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  Power supplies that only offered Molex connections were given even more life by how simple it was to create Molex adapters to other newer standards, such as SATA power connectors. These connectors were easy to insert, and it's unlikely that someone would fail to insert them far enough, or that one would accidentally come undone.
 
 ![Two Molex connectors to one 6-pin PCI Express connector on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_244972945.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Olga Popova / Shutterstock.com](https://www.shutterstock.com/image-photo/two-molex-connectors-one-6pin-pci-244972945)
 
@@ -57,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  Also, while Molex represented a standard, some companies stuck to it so loosely, that quality could be widely different between cables. The only [computer fire](https://win-solutions.techidaily.com/solved-monster-hunter-rise-wont-start-fixed-solution-inside/) I have personally experienced was caused by a cheap Molex connector which shorted and melted, as flames licked out of the computer's vents. This isn't really the fault of the Molex connector design, just a symptom of a connector that anyone could make, and so some were made poorly.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How the 4-Pin Molex Is Hanging on Today
@@ -92,20 +92,20 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[New] Step-by-Step Inserting Chapters in Vimeo Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[New] Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>[New] The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photobooth-video-glitch-understanding-the-halt/"><u>[Updated] Photobooth Video Glitch - Understanding the Halt</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-upward-landscapes-with-phones/"><u>In 2024, The Art of Upward Landscapes with Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-frameworks-upgraded-new-13-inch-laptops-with-advanced-intel-and-amd-zen-4-chipset/"><u>Revolutionary Frameworks Upgraded: New 13-Inch Laptops with Advanced Intel & AMD Zen 4 Chipset</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-creating-your-own-dvd-backup-in-iso-format-with-winx-dvd-copy-software/"><u>Step-by-Step Guide: Creating Your Own DVD Backup in ISO Format with WinX DVD Copy Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-laptops-asus-unveils-a-customizable-zephyrus-g14-with-dynamic-colored-e-paper-screen-technology/"><u>The Future of Gaming Laptops: Asus Unveils a Customizable Zephyrus G14 with Dynamic Colored E-Paper Screen Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-components-by-toms-technology-hub/"><u>The Ultimate Guide to PC Components by Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-the-latest-hardware/"><u>Tom's Tech Review: Comprehensive Insights on the Latest Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-t172386287985010/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-digital-experience-with-the-highly-functional-acemagic-x1-the-must-have-two-screen-computer/"><u>Transform Your Digital Experience with the Highly Functional Acemagic X1: The Must-Have Two-Screen Computer.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-ringtones-guide-top-downloads/"><u>Ultimate Ringtones Guide Top Downloads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-chatgpt-jailbreaks-pros-cons-and-should-you-utilize-them/"><u>Unveiling the Secrets of ChatGPT Jailbreaks: Pros, Cons & Should You Utilize Them?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-visuals-accompanied-by-audio/"><u>[New] 2024 Approved Quick Visuals Accompanied by Audio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-critical-review-of-google-maps-application-version-compatible-with-iphone/"><u>A Critical Review of Google Maps Application Version Compatible with iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-advancements-in-camm2-faster-speed-reduced-size-and-enhanced-upgradability/"><u>Discovering the Advancements in CAMM2: Faster Speed, Reduced Size & Enhanced Upgradability!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-tech-at-computex-spotlight-on-gigabytes-revolutionary-aorus-xtreme-and-xtreme-ice-motherboards-with-next-gen-gpus/"><u>Experience Enhanced Tech at Computex: Spotlight on Gigabyte’s Revolutionary Aorus Xtreme & Xtreme Ice Motherboards with Next-Gen GPUs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-analysis-highest-quality-video-snappers/"><u>Expert Analysis Highest Quality Video Snappers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-complete-framework-preview-of-pcie-gen-7-specification-closer-than-ever-to-public-debut/"><u>Explore the Complete Framework: Preview of PCIe Gen 7 Specification Closer than Ever to Public Debut</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-asrock-b7n60m-pro-rs-an-economical-choice-with-abundant-m2-connectivity-options/"><u>Exploring the ASRock B7n60M Pro RS: An Economical Choice with Abundant M.2 Connectivity Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-asrock-z790i-lightning-wireless-networking-mini-marvel-with-maximum-impact/"><u>Exploring the ASROCK Z790I 'Lightning' Wireless Networking: Mini Marvel with Maximum Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-hardware-with-toms-guidance/"><u>Exploring the Latest in Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-new-wave-of-amds-800-series-motherboard-chipsets-designed-for-ryzen-9000-with-naming-schemes-parallel-to-intel/"><u>Exploring the New Wave of AMD’s 800 Series Motherboard Chipsets Designed for Ryzen 9000, With Naming Schemes Parallel to Intel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-epson-stylus-nx420-printer-drivers-for-your-windows-pc-windows-7810/"><u>Get Epson Stylus NX420 Printer Drivers for Your Windows PC (Windows 7/8/10)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-se-2020-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone SE (2020)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avchdmov8/"><u>あらゆる種類の動画ファイルを変換する方法講座：AVCHD、MOV・・・全解説8ページ目</u></a></li>
 </ul></div>
 

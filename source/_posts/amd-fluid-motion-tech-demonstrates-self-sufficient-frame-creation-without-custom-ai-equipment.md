@@ -1,7 +1,7 @@
 ---
 title: AMD Fluid Motion Tech Demonstrates Self-Sufficient Frame Creation Without Custom AI Equipment
-date: 2024-09-10T17:37:36.966Z
-updated: 2024-09-16T16:20:03.658Z
+date: 2024-09-15T04:21:12.063Z
+updated: 2024-09-21T23:00:45.193Z
 tags:
   - hardware
 categories:
@@ -57,32 +57,32 @@ Ismar Hrnjicevic / How-To Geek
 
 ![AMD Chill set to 71 FPS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chill.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AFMF 2 Isn’t Out Yet, but You Can Try the Preview
 
  AFMF 2 isn't out yet, but you can already [download the Preview Driver](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-AFMF2-TECH-Preview.html) and try it, assuming you have a compatible AMD GPU (RX 6000 or 7000 Series) or APU (AMD 700M). Once you've downloaded and installed the driver, restart your PC. Next, open AMD Software and head over to Gaming > Graphics > Custom. Look for "AMD Fluid Motion Frames" and click on the toggle to enable it.
 
 ![Enabling Fluid Motion Frames 2 in AMD Software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/enable-fmf.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  AFMF 2 should work in most games, as it now supports OpenGL and Vulkan in addition to DirectX 11 and 12\. [Vulkan](https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/) is a low-overhead API that already boasts significant FPS improvements in select titles compared to DirectX and OpenGL. Adding AFMF 2 into the mix could bring select titles to even the weakest of AMD's hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Testing AFMF 2 in Games
@@ -118,17 +118,20 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-laughter-legends-unwrapping-goofy-odyssey/"><u>[New] 'Laughter Legends' - Unwrapping 'Goofy Odyssey'</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughter-in-the-clouds-iphone/"><u>2024 Approved Laughter in the Clouds (iPhone)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-windows-ranked-5-best-screen-capture-programs/"><u>2024 Approved Mastering Windows Ranked 5 Best Screen Capture Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-reboot-your-macs-network-preferences/"><u>Complete Guide: Steps to Reboot Your Mac's Network Preferences</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862750484-eyoyo-em105-review-the-perfect-blend-of-size-value-and-power-in-a-105-inch-screen/"><u>Eyoyo EM105 Review: The Perfect Blend of Size, Value & Power in a 10.5-Inch Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/logic-pro-guide-gradually-lowering-audio-levels-for-2024/"><u>Logic Pro Guide Gradually Lowering Audio Levels for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-evolution-of-display-excellence-lg-kicks-off-full-scale-tandem-oled-output-for-dell-xps-13/"><u>The Evolution of Display Excellence: LG Kicks Off Full-Scale Tandem OLED Output for Dell XPS 13</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-components/"><u>Tom's Tech Insights: Exploring the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-top-rated-ultrawide-monitors-for-serious-gamers-2024/"><u>Ultimate Selection: Top-Rated Ultrawide Monitors for Serious Gamers, 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-hot-40i-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Hot 40i.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-with-tom-top-picks-and-detailed-reviews/"><u>Unveiling the Latest in Hardware with Tom - Top Picks and Detailed Reviews</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches-for-2024/"><u>[New] A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-breakdown-of-youtubes-money-making-mechanisms-cpm/"><u>[New] In 2024, Breakdown of YouTube’s Money-Making Mechanisms (CPM)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-groundbreaking-examples-of-the-metaverse-unpacked/"><u>2024 Approved 10 Groundbreaking Examples of the Metaverse Unpacked</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazonbasics-tripod-review-easy-photography-setup/"><u>AmazonBasics Tripod Review - Easy Photography Setup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/bring-your-videos-to-life-border-magic-on-ig/"><u>Bring Your Videos to Life Border Magic on IG</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/epic-game-pass-offers-free-trial-of-popular-pc-building-simulator-app/"><u>Epic Game Pass Offers Free Trial of Popular PC Building Simulator App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-rig-configurations-with-jon-bach-from-puget-systems/"><u>Expert Insights on Computing Rig Configurations with Jon Bach From Puget Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pocket-playlist-portraits-actors-and-audio-art/"><u>In 2024, Pocket Playlist Portraits Actors & Audio Art</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-resolved-faulty-obs-camera/"><u>In 2024, Resolved Faulty OBS Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-craftsman-designs-bespoke-star-trek-computer-enclosure/"><u>Innovative Craftsman Designs Bespoke Star Trek Computer Enclosure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-advanced-computing-components-with-toms-gadget-analysis/"><u>Inside Look at Advanced Computing Components with Tom's Gadget Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/integrating-obs-streams-with-the-worlds-largest-social-network-fb/"><u>Integrating OBS Streams with the World's Largest Social Network, FB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-it-time-to-make-the-switch-to-amds-next-gen-ryzen-processors/"><u>Is It Time to Make the Switch to AMD's Next-Gen Ryzen Processors?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-components/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Components</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-windows-10-audio-issues-a-comprehensive-guide/"><u>Troubleshoot & Fix Windows 10 Audio Issues – A Comprehensive Guide</u></a></li>
 </ul></div>
 

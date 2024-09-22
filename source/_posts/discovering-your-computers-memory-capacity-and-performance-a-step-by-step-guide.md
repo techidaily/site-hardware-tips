@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide"
-date: 2024-09-13T16:13:49.024Z
-updated: 2024-09-16T17:11:22.255Z
+date: 2024-09-19T23:49:00.812Z
+updated: 2024-09-21T20:04:20.448Z
 tags:
   - hardware
 categories:
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 [How much RAM you need](https://fox-direct.techidaily.com/new-curbing-inertia-in-high-altitude-cinematography/) depends on what you do. You'll need more RAM for playing the latest PC games, running [virtual machines](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/), and editing 4K videos.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Check How Much RAM You Have on Windows
@@ -76,21 +82,22 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Select "About This Mac" from the drop-down context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/select-about-this-mac-from-thedrop-down-context-menu.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will now see an overview of your computer's specs, including how much memory is in your Mac. In this example, the MacBook has 16GB of RAM.
 
 ![The memory available on your Mac is displayed on the second line, below the processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Screenshot-2022-12-05-at-12.09.53-PM.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you would like to see which type of RAM you have installed, first, click the "More Info" button.
 
@@ -101,22 +108,15 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 ![Scroll down to the bottom of the &quot;About&quot; page, then click &quot;System Report.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Scroll-down-then-click-System-Report.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, choose "Memory" from the left sidebar. The amount of memory and type of RAM will be displayed on the right side of the screen.
 
 ![Choose "Memory" from the left sidebar to view your Mac's RAM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/choose-memory-from-the-sidebar-to-view-your-macs-memory.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Newer [Macs](https://techno-recovery.techidaily.com/cat5-or-cat6-choosing-the-right-ethernet-cable-for-your-network-needs/) cannot have their RAM upgraded, but they tend to require significantly less RAM than Windows systems. If you're in the market for a Mac, make sure you buy one with enough RAM for your intended uses.
 
@@ -145,17 +145,19 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-harmonious-hub-swapping-your-soundtrack-selection/"><u>2024 Approved Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-premiere-pro-full-screen-magic/"><u>2024 Approved Unlocking Premiere Pro Full-Screen Magic</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-hardware-reviews/"><u>Exploring Technology with Tom’s Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/high-end-spec-showdown-unveiling-the-true-potential-of-the-asus-rog-zephyrus-g16-for-gamers/"><u>High-End Spec Showdown: Unveiling the True Potential of the Asus ROG Zephyrus G16 for Gamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immediate-deployment-top-8-adaptable-gpt-models-awaiting-your-use/"><u>Immediate Deployment: Top 8 Adaptable GPT Models Awaiting Your Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-13-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 13 Pro Max SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimizing-video-production-a-guide-to-vimeos-capabilities/"><u>In 2024, Optimizing Video Production A Guide to Vimeo's Capabilities</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-spark-go-2023-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Spark Go (2023) Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-computex-2024s-early-leaks-asus-rog-ally-and-snapdragon-x-laptops-announced-no-mention-of-upcoming-gpu-innovations/"><u>Inside Computex 2024'S Early Leaks: Asus ROG Ally & Snapdragon X Laptops Announced, No Mention of Upcoming GPU Innovations</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-download-edit-and-share-the-complete-online-video-guide/"><u>New Download, Edit, and Share The Complete Online Video Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-a-frozen-overwatch-voice-chat-steps-for-instant-resolution/"><u>Unstick a Frozen Overwatch Voice Chat: Steps for Instant Resolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-average-profit-per-million-youtube-viewers/"><u>[New] 2024 Approved Average Profit per Million YouTube Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-story-structuring-at-its-core/"><u>[New] Story Structuring at Its Core</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>[Updated] In 2024, Transforming Footage A Guide to GoPro Color Tweaks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-podcast-remotely/"><u>2024 Approved How to Record Podcast Remotely</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-playback-android-videos/"><u>Enhance Playback: Android Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862653269-epic-savings-alert-the-mighty-16-inch-dell-g16-gaming-laptop-now-at-a-steal-949/"><u>Epic Savings Alert: The Mighty 16-Inch Dell G16 Gaming Laptop Now at a Steal ($949)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-more-than-just-storage-experts-review-patriot-viper-vp4300-lite-for-ultimate-ssd-capacity-at-cost-efficient-prices/"><u>Get More Than Just Storage: Experts Review Patriot Viper VP4300 Lite for Ultimate SSD Capacity at Cost-Efficient Prices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-quantum-hdr-techniques-for-professionals-for-2024/"><u>Mastering Quantum HDR Techniques for Professionals for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-networking-for-gamers-guilds/"><u>Next-Gen Networking for Gamers' Guilds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-toms-computer-review-hub/"><u>Unveiling the Secrets of Tom's Computer Review Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-800-series-motherboard-chipsets-from-amd-for-ryzen-9000-processors-set-to-challenge-intels-dominance/"><u>Upcoming 800 Series Motherboard Chipsets From AMD for Ryzen 9000 Processors Set to Challenge Intel's Dominance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgraded-msi-motherboards-now-adheres-to-intels-official-power-specs-with-i9-cpus-to-tackle-crash-concerns-as-intel-probes-further/"><u>Upgraded MSI Motherboards: Now Adheres to Intel's Official Power Specs with I9 CPUs to Tackle Crash Concerns as Intel Probes Further</u></a></li>
 </ul></div>
 

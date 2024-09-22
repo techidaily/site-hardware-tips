@@ -1,7 +1,7 @@
 ---
 title: "Affordable Beats Solo Wireless Earbuds Review: Tradeoffs for Price Savings"
-date: 2024-09-12T16:53:49.059Z
-updated: 2024-09-16T17:19:00.589Z
+date: 2024-09-18T22:53:04.697Z
+updated: 2024-09-21T16:33:16.757Z
 tags:
   - hardware
 categories:
@@ -125,10 +125,10 @@ The case is small enough to completely wrap in my hand.
  While the Solo Buds themselves aren’t microscopic, the case they go into felt minuscule in my hand. It disappeared in my pants pockets and could get lost in a purse. All things considered, removing the battery from the case seems like a fine trade-off to me. The smaller size was a real benefit and the earbuds' battery life lasted me days. Casual listeners should get at least a week of listening time before power becomes an issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Audio Quality Is on the B-Side
@@ -147,6 +147,13 @@ Close
 
  General parity between iOS and Android devices rounds out another significant reason for consideration. There's Find My (Apple) and Find My Device (Google) location tracking. Native fast pairing and device switching are also supported across platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can You Hear the Microphone Tests?
 
  Each earbud has a custom digital MEMS microphone you can use for calls. Much like the music quality, I thought my voice sounded fine and very passable, but not amazing.
@@ -154,16 +161,10 @@ Close
  One area budget earbuds tend to fall down hard is in the microphone performance. So while I don’t know if I would want to use these exclusively for work, they sounded better than a lot of other sub-$100 earbuds.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Comfort Reigns While Controls Strain
@@ -179,19 +180,6 @@ Tyler Hayes / How-To Geek
  Instead of touch-sensitive controls, a clicky button is hidden above the “b” logo. I appreciate that there is a physicality to each control, but right out of the box I had trouble using it. I couldn’t find the right spot.
 
  After a few hours, I was able to get a feel for it, but still needed to pitch each side of the bud so that the earbuds wouldn’t press hard into my ears for the rigid click to engage. I doubt this will be a universal problem, but I much prefer how much easier the controls on the Studio Buds and Fit Pro are.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Beats Solo Buds?
 
@@ -228,13 +216,21 @@ Beats Solo Buds deliver native ecosystem benefits with an enhanced experience fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-leading-360-action-footage-options/"><u>[New] Leading 360° Action Footage Options</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-find-x6-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Find X6 Screen | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-role-of-background-melody-in-a-cinematic-commercial/"><u>In 2024, The Role of Background Melody in a Cinematic Commercial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-devoted-ahead-of-computex-newly-certified-msi-arrow-lake-s-ready-boards-z890-and-b8n60-unveiled/"><u>Inside Look: Devoted Ahead of Computex, Newly Certified MSI Arrow Lake S Ready Boards Z890 & B8n60 Unveiled!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-icraft-b760m-motherboard-where-intel-meets-anime-aesthetics-in-a-pastel-package/"><u>Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel Package!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leaked-database-reveals-advanced-motherboard-specs-msis-premium-z890-and-b86-boards-equipped-for-the-forthcoming-intel-arrow-lake-s-detailed-overview-pre-co75/"><u>Leaked Database Reveals Advanced Motherboard Specs: MSI's Premium Z890 and B86) Boards Equipped for the Forthcoming Intel Arrow Lake-S - Detailed Overview Pre-Computex 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/portable-gaming-revolutionized-evaluating-the-features-and-value-of-the-nintendo-switch-lite/"><u>Portable Gaming Revolutionized: Evaluating the Features and Value of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-easysnap-win11-no-hassle-just-screenshots/"><u>[Updated] 2024 Approved EasySnap Win11 No Hassle, Just Screenshots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-broadcasting-conferences-with-no-expense-account/"><u>[Updated] Broadcasting Conferences with No Expense Account</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-drive-traffic-and-growth-with-youtube-analytic-insights/"><u>[Updated] Drive Traffic and Growth with YouTube Analytic Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-superior-class-of-8-best-4k-high-definition-players/"><u>2024 Approved Superior Class of 8 Best 4K High Definition Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-look-at-premium-gaming-keyboards-available-full-tenkeyless-and-miniature/"><u>A Comprehensive Look at Premium Gaming Keyboards Available - Full, Tenkeyless, and Miniature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-master-unveils-vibrant-ai-enhanced-thermal-paste-powered-by-nanodiamond-tech-in-cryofuze-5/"><u>Cooler Master Unveils Vibrant AI Enhanced 'Thermal Paste' - Powered by Nanodiamond Tech in CryoFuze 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/iobit-screen-recorder-review-for-2024/"><u>IObit Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970775923-keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-devices-with-toms-comprehensive-hardware-guides/"><u>Master Your Devices with Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-error-262-in-roblox-games/"><u>Remedying Error 262 in Roblox Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-chronicles-by-tom-unraveling-secrets-of-modern-computer-systems/"><u>Tech Chronicles by Tom: Unraveling Secrets of Modern Computer Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-hub-your-source-for-in-depth-hardware-insights/"><u>Tom's Gear Hub: Your Source for In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-opinions/"><u>Tom's Tech Review: In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-pc-masterpieces-discovering-top-tier-hardware-at-toms-place/"><u>Unveiling PC Masterpieces: Discovering Top-Tier Hardware at Tom's Place</u></a></li>
 </ul></div>
 

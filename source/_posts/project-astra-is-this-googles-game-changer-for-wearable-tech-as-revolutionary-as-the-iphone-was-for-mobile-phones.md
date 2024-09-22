@@ -1,7 +1,7 @@
 ---
 title: "Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?"
-date: 2024-09-09T16:19:54.204Z
-updated: 2024-09-16T16:10:21.071Z
+date: 2024-09-14T21:09:35.688Z
+updated: 2024-09-21T20:44:40.092Z
 tags:
   - hardware
 categories:
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Just imagine wearing smart glasses equipped with a HUD advanced enough to show you messages, appointments, Google search results in textual form, the song you're listening to as well as the rest of the playlist, and other text-based information. This could be a shakeup the world of personal computing needs. Smartphones have turned into commodities anyway, so why not put them in our pockets and let them stay there?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Smart Glasses Could One Day Be the Only Tech You Need
@@ -61,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Our phones could transform into a sort of “computing station” with our glasses taking the center stage. Smartphones will still be the engines powering all that computing, but they will do that behind the scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google Should Equip Future Smart Glasses With Certain Privacy Features
@@ -96,16 +102,18 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevate-video-impact-proven-youtube-seo-methods/"><u>[Updated] Elevate Video Impact Proven YouTube SEO Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-leveraging-googles-board-tools-for-smooth-online-engagement-on-all-platforms-for-2024/"><u>[Updated] Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c300-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C300 Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy S23 Ultra without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/revive-vanished-watch-video-icon/"><u>Revive Vanished Watch Video Icon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-get-your-hands-on-the-crisp-clear-gaming-screen-of-innocns-240hz-ips-monitor-at-just-199/"><u>Unbeatable Deal: Get Your Hands on the Crisp, Clear Gaming Screen of Innocn’s 240Hz IPS Monitor at Just $199</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-next-level-gameplay-on-the-alienware-aw2725df-360-hz-oled-monitor-evaluation-for-avid-gamers/"><u>Unleash Next-Level Gameplay on the Alienware AW2725DF: 360 Hz OLED Monitor Evaluation for Avid Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-tech-potential-insights-from-toms-hardware-reviews/"><u>Unleash Tech Potential - Insights From Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-pc-components-at-toms-hardware-hub/"><u>Unlock the Secrets of PC Components at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-guide/"><u>Unveiling the Latest Gadgets with Tom's Hardware Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[New] 2024 Approved From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-effortless-facial-obscurity-in-photos-for-2024/"><u>[New] Effortless Facial Obscurity in Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-video-marketing-youtube-or-tiktok-for-2024/"><u>[New] Exploring Video Marketing YouTube or TikTok for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-art-of-minimizing-lag-with-additional-ram-for-minecraft/"><u>[Updated] 2024 Approved The Art of Minimizing Lag with Additional RAM for Minecraft</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-leading-file-format-transformations/"><u>[Updated] In 2024, Leading File Format Transformations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-which-one-wins-in-ease-of-use-and-reliability-claude-or-chatgpt/"><u>AI Showdown: Which One Wins in Ease of Use and Reliability - Claude or ChatGPT?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/citing-ai-tools-correctly-the-step-by-step-process-for-mentioning-chatgpt/"><u>Citing AI Tools Correctly: The Step-by-Step Process for Mentioning ChatGPT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s24-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy S24 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-puget-passes-quality-test-demonstrates-superior-failure-ratings-over-competitor-amd-ryzen-insights-from-system-builders-detailed-analysis/"><u>Intel's Puget Passes Quality Test: Demonstrates Superior Failure Ratings Over Competitor AMD Ryzen - Insights From System Builder's Detailed Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-showdown-how-kingstons-c38-ddr5-7200-camm2-stacks-up-against-conventional-dimm-memory-modules-a-benchmark-study/"><u>Performance Showdown: How Kingston's C38 DDR5-7200 CAMM2 Stacks Up Against Conventional DIMM Memory Modules - A Benchmark Study</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-evolution-of-excellence-lg-bp550-for-2024/"><u>The Evolution of Excellence - LG BP550 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-hardware-evaluations/"><u>Tom's Tech Review: Comprehensive Guide on Hardware Evaluations</u></a></li>
 </ul></div>
 

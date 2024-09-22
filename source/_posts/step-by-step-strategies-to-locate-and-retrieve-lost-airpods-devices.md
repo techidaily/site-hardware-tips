@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategies to Locate and Retrieve Lost AirPods Devices
-date: 2024-09-12T17:11:46.485Z
-updated: 2024-09-16T17:34:33.013Z
+date: 2024-09-18T05:11:25.160Z
+updated: 2024-09-21T20:18:50.689Z
 tags:
   - hardware
 categories:
@@ -54,6 +54,13 @@ Apple
 
 ![Screenshot of the Play Sound button for AirPods in the Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have the AirPods Pro (2nd Generation), you can [play a sound on the charging case](https://facebook-videos.techidaily.com/updated-how-to-embed-facebook-live-on-a-website/) as well.
 
 ![Screenshot of the options to locate the charging case or both AirPods in the Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-1.png) 
@@ -67,6 +74,13 @@ Apple
  The Directions section either shows the [current location of your AirPods](https://some-skills.techidaily.com/2024-approved-unlocking-vsco-photo-editing-tips-and-tricks/) (if they're online) or the last known location (if they're dead, but more on that later).
 
 ![Screenshot of the Directions option in Apple's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/directions-to-airpods-pro-in-find-my.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For [AirPods (3rd Generation)](https://www.howtogeek.com/100819/3rd-gen-airpods-debut-with-spatial-audio-more-for-179/) and AirPods Pro (1st Generation), you can see the location of only one earbud at a time. To find both earbuds, locate the one that Find My shows on the map and put it back in the charging case. In a few seconds, you should be able to track the second one.
 
@@ -90,6 +104,13 @@ Close
 
 ![Screenshot of the new location for Notify When Leave Behind in Find My.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-location-for-notify-when-leave-behind.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What if Your AirPods Are Offline?
 
  There's no way to actively track your earbuds (or the charging case) once they run out of battery. However, you can still check their [last known location in the Find My App](https://win-able.techidaily.com/overcoming-valheim-stability-issues-a-guide-to-stop-pc-freezing-and-crashing/). As the name suggests, the feature gives you an idea of where your AirPods were before completely draining their battery.
@@ -98,26 +119,27 @@ Close
 
 ![Last known location in Find My on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/last_known_airpods.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you've left your AirPods behind or suspect they've been stolen, [consider enabling Lost Mode](https://twitter-videos.techidaily.com/new-2024-approved-pioneering-success-with-real-time-twitter-videos/). Although it can't help you find a dead device, Lost Mode alerts you when your AirPods come back online and connect to a nearby device. AirPods can't access the Find My network independently; they require a nearby Apple device (with access to GPS) to update their location.
 
  To enable the lost mode, head to Find My > Devices > AirPods, and hit "Activate" under "Mark As Lost."
 
 ![Screenshot of the option to mark AirPods Pro as lost in Find My.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/option-to-mark-airpods-pro-as-lost-in-find-my.png) 
 
- The device will try to update the location of your earbuds as soon as it can. On the other hand, the user trying to connect to the AirPods will see the "Not Your AirPods" message if they try to use them with an Apple device. You can also customize the message, especially if you think the AirPods have been stolen. You might want to add contact details or instructions on where to leave them in this event.
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The device will try to update the location of your earbuds as soon as it can. On the other hand, the user trying to connect to the AirPods will see the "Not Your AirPods" message if they try to use them with an Apple device. You can also customize the message, especially if you think the AirPods have been stolen. You might want to add contact details or instructions on where to leave them in this event.
 
 ##  Find AirPods Using iCloud
 
@@ -127,23 +149,9 @@ Close
 
 ![Screenshot of Find My on iCloud for Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/find-my-on-icloud-for-web.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open Find My's web interface, which lists all the linked products to the left. Select your AirPods and check their current or last known location (on a map).
 
 ![Locating AirPods Pro using Find My on iCloud for Web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-pro-using-find-my-on-icloud-for-web.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Using Find My for the web, you can also play a sound on the AirPods. For some odd reason, though, Apple doesn't allow AirPods Pro (2nd Generation) users to play a sound on the charging case.
 
@@ -158,13 +166,6 @@ Close
  Hit the information icon next to the AirPods (on the map) to play sound or get directions to the device.
 
 ![Screenshot of the Play Sound and Direction option on Mac's Find My app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/locating-airpods-using-find-my-on-mac-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In my experience, I've noticed that when both the earbuds are out of the case (even on the second-generation AirPods Pro), the Find My app on Mac first locates one earbud and then the other. However, unlike Find My on the web, you can play a sound on the AirPods Pro (2nd Generation)'s charging case.
 
@@ -181,13 +182,6 @@ Close
  In the Find Devices app, scroll down and tap on the AirPods.
 
 ![Screenshot of the option to find AirPods Pro in Find Devices on Apple Watch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/airpods-pro-in-find-devices-on-apple-watch.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the following screen, you can check the AirPods's current address and use the other features to locate them.
 
@@ -210,17 +204,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>[New] Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-steps-to-identify-your-dream-livestream-platform/"><u>[Updated] Steps to Identify Your Dream Livestream Platform</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pushing-limits-with-4k-vision-lgs-monitor-the-31mu97-b/"><u>2024 Approved Pushing Limits with 4K Vision – LG's Monitor, the 31MU97-B</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-pc-how-to-resolve-constant-f1-2020-game-crashes/"><u>Fix Your PC: How to Resolve Constant F1 2020 Game Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-night-light-feature-in-windows-10-and-11/"><u>Fixing the Issue: How to Restore Night Light Feature in Windows 10 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>In 2024, Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linear-bavarder-procedure-on-a-linux-device/"><u>Linear Bavarder Procedure on a Linux Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-toms-hardware-analysis-and-advice/"><u>The Ultimate Tom's Hardware Analysis and Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-hub-in-depth-tech-reviews-and-expert-advice/"><u>Tom's Computing Hub: In-Depth Tech Reviews & Expert Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-pc-diary-a-deep-dive-into-cutting-edge-hardware-analysis/"><u>Tom's PC Diary: A Deep Dive Into Cutting-Edge Hardware Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-videos-to-life-a-step-by-step-guide-to-the-ken-burns-effect-in-final-cut-pro/"><u>Updated Bring Your Videos to Life A Step-by-Step Guide to the Ken Burns Effect in Final Cut Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-essential-software-update-installing-the-right-oculus-driver-for-various-windows-versions/"><u>[Free] Essential Software Update: Installing the Right Oculus Driver for Various Windows Versions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-infinity-sharp-monitors-top-5-gaming-panels-with-hdmi-21-ps5/"><u>[New] In 2024, Infinity Sharp Monitors Top 5 Gaming Panels with HDMI 2.1 [PS5]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>[Updated] 2024 Approved In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://win-answers.techidaily.com/errgfxstate-problem-on-redd2-heres-your-comprehensive-fix-guide/"><u>ERR_GFX_STATE Problem on REDD2? Here's Your Comprehensive Fix Guide!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-extends-support-with-additional-two-years-of-warranty-on-latest-generation-processors-to-combat-instability-issues/"><u>Intel Extends Support with Additional Two Years of Warranty on Latest Generation Processors to Combat Instability Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-latest-tech-trends-through-toms-hardware-insight/"><u>Mastering the Latest Tech Trends Through Tom's Hardware Insight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-guide-to-pc-mac-and-phone-movie-playback/"><u>The Complete Guide to PC, Mac & Phone Movie Playback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-discover-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews - Discover the Latest in Computer Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-terraria-game-crashes-top-techniques-for-a-smooth-play-in-2/"><u>Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2#</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-expert-analysis-by-toms-hardware/"><u>Unveiling the Latest in Technology - Expert Analysis by Tom's Hardware</u></a></li>
 </ul></div>
 

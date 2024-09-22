@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera"
-date: 2024-09-10T16:59:47.396Z
-updated: 2024-09-16T17:11:52.347Z
+date: 2024-09-17T06:29:45.718Z
+updated: 2024-09-22T07:19:48.326Z
 tags:
   - hardware
 categories:
@@ -66,10 +66,10 @@ ASUS
  Unfortunately, there's not a keyboard shortcut to immediately start or stop a screen recording, like there is on Windows. You need to open the Screen Capture tool first before you can start a recording.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Where Are Screenshots Saved?
@@ -79,10 +79,16 @@ ASUS
 ![Screenshot of settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/vlcsnap-2024-04-24-16h48m27s001.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The menu will have an option to switch between Downloads or another folder you select. You can view your screenshots and recordings later by opening the Files app on your Chromebook.
@@ -104,20 +110,18 @@ ASUS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-mastering-filmmaker-mode-crafting-viral-tiktok-reactions-with-filmora/"><u>[New] Mastering Filmmaker Mode Crafting Viral TikTok Reactions with Filmora</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-scripted-time-warps-a-cinematic-approach/"><u>[New] Scripted Time Warps A Cinematic Approach</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/haping-viewers-attention-employing-jump-cuts-in-video-editing/"><u>[New] Shaping Viewers’ Attention Employing Jump Cuts in Video Editing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-flashback-2022s-snowboard-x-winners/"><u>2024 Approved Ultimate Flashback 2022'S Snowboard X Winners</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-zte-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For ZTE</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/compensation-for-ailing-apples-butterfly-keyboard-eligible-users-get-up-to-395-back-on-each-laptop/"><u>Compensation for Ailing Apple's Butterfly Keyboard: Eligible Users Get Up to $395 Back on Each Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-in-technology-with-toms-hardware-guides/"><u>Discovering the Latest in Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-logitech-g23-racing-wheel-setup-free-driver-download-and-installation-instructions-for-windows-7810-systems/"><u>Easy Logitech G23 Racing Wheel Setup: Free Driver Download & Installation Instructions For Windows 7/8/10 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-gt-5-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme GT 5</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-fix-what-to-do-when-you-encounter-pc-app-execution-errors/"><u>Mastering the Fix: What to Do When You Encounter PC App Execution Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-message-app-discontinued-on-new-galaxy-devices/"><u>Samsung Message App Discontinued on New Galaxy Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862706379-save-big-this-memorial-day-with-the-2024-asus-tuf-gaming-a15-laptop-now-for-a-steal-at-658/"><u>Save Big This Memorial Day with the 2024 Asus TUF Gaming A15 Laptop Now for a Steal at $658!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-perfect-match-for-all-audio-lovers-top-10-free-video-to-audio-conversion-services/"><u>Updated The Perfect Match for All Audio Lovers Top 10 Free Video to Audio Conversion Services</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrading-made-easy-checking-if-your-system-supports-the-latest-gpu-upgrade/"><u>Upgrading Made Easy: Checking if Your System Supports the Latest GPU Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-outsourcing-data-with-an-external-hard-drive-still-matters-beyond-cloud-solutions/"><u>Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-audiophiles-dilemma-podcast-or-youtube-dominance/"><u>[New] 2024 Approved Audiophile's Dilemma Podcast or YouTube Dominance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>[Updated] Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-voice-transcription-appraisal/"><u>[Updated] In 2024, Voice Transcription Appraisal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>2024 Approved Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862792461-ace-the-market-highly-rated-dell-s3222dgm-monitor-drops-in-price-to-just-229-dont-miss-out/"><u>Ace the Market: Highly Rated Dell S3222DGM Monitor Drops in Price to Just $229 – Don't Miss Out!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719219819181-explore-the-full-capabilities-of-windows-snip-and-sketch-tool/"><u>Explore the Full Capabilities of Windows' Snip & Sketch Tool.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862837737-gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862825765-in-depth-evaluation-of-alienwares-latest-masterpiece-the-aw2725df-360hz-oled-display-ultimate-choice-for-serious-gamers/"><u>In-Depth Evaluation of Alienware's Latest Masterpiece: The AW2725DF 360Hz OLED Display - Ultimate Choice for Serious Gamers!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-channel-branding-to-skyrocket-subscriber-numbers-for-2024/"><u>Optimizing Channel Branding to Skyrocket Subscriber Numbers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862816577-score-the-game-changing-34-alienware-curved-oled-screen-limited-time-offer-at-749-from-best-buy/"><u>Score the Game-Changing 34” Alienware Curved OLED Screen - Limited Time Offer at $749 From Best Buy!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seafarers-choice-top-5-pro-fish-cameras/"><u>Seafarer's Choice Top 5 Pro-Fish Cameras</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-8-mirrorless-cameras-ideal-for-vloggers/"><u>Top 8 Mirrorless Cameras Ideal for Vloggers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862833460-unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience</u></a></li>
 </ul></div>
 

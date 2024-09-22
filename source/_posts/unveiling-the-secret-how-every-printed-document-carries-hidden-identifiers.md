@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers"
-date: 2024-09-13T16:24:06.001Z
-updated: 2024-09-16T16:54:33.247Z
+date: 2024-09-15T07:22:39.476Z
+updated: 2024-09-22T01:07:24.516Z
 tags:
   - hardware
 categories:
@@ -33,13 +33,6 @@ Patrick Campanale / How-To Geek
 
 ![A printer printing a black and white "How-To Geek" page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52775531323_2850f9e4cf_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Jason Montoya / How-To Geek
 
  Printer tracking codes, also known as machine identification codes (MIC) or yellow dots, have been used by printer manufacturers since the mid-1980s. The [patent for this technology](http://patents.google.com/patent/US5515451A/en) was originally granted in 1993 but has expired. The origin of printer tracking codes can be traced back to the cooperation between the U.S. government and printer manufacturers to prevent counterfeiting. In the 1980s, the U.S. Secret Service approached the Japanese Ministry of Finance to address [the issue of counterfeit currencies](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots) produced using color copiers.As a result, copier manufacturers agreed to implement machine identification codes.
@@ -51,13 +44,6 @@ Patrick Campanale / How-To Geek
 ##  How Printer Tracking Codes Function
 
 ![A person using an all-in-one printer in an office setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/aio-printer-office.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee-using-modern-printer-office-closeup-1923681830)_
 
@@ -89,9 +75,23 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
 
  This is a significant red flag for any individual who's concerned about the privacy of their information. Its use in some cases to [prosecute whistleblowers](https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html#.WTcCt%5Fryvft) who have leaked documents is well-documented.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can You Disable This Tracking?
 
 ![A Star Delta-10 dot matrix printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/star_dot_matric_printer.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Star](https://www.vintagecomputing.com/index.php/archives/973/retro-scan-of-the-week-star-dot-matrix-printer)
 
@@ -116,14 +116,17 @@ A Star Delta-10 dot matrix printer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exclusive-rescue-regaining-fb-passwords/"><u>[New] 2024 Approved Exclusive Rescue Regaining FB Passwords</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-maximize-impact-with-professional-360-video-uploads-for-youtube/"><u>[New] 2024 Approved Maximize Impact with Professional 360° Video Uploads for YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-10-escape-houses-challenges-for-intellects/"><u>[Updated] In 2024, Top 10 Escape Houses Challenges for Intellects</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-free-auditory-gamespace-vaults-copyright-free/"><u>2024 Approved Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adaptive-tech-past-meets-present-innovative-adapters-for-mounting-gtx-960-onto-outdated-agp-connections/"><u>Adaptive Tech Past Meets Present: Innovative Adapters for Mounting GTX 960 Onto Outdated AGP Connections</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-apple-device-repair-how-the-new-self-service-initiative-empowers-users/"><u>DIY Apple Device Repair: How the New Self-Service Initiative Empowers Users</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-se-2022-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone SE (2022) Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-800-gaming-rig-ultimate-built-for-streaming-and-work/"><u>Top-Ranked $800 Gaming Rig: Ultimate Built for Streaming & Work</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-name-alteration-for-meet-sessions-laptopmobile/"><u>[New] Efficient Name Alteration for Meet Sessions (Laptop/Mobile)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-your-reach-live-360-videos-on-facebook-for-2024/"><u>[Updated] Maximizing Your Reach Live 360 Videos on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-intels-newest-powerhouse-core-i7-14700k-leaps-past-core-ultra-7-265kf-by-gaining-a-solid-7-in-benchmark-speed/"><u>Discover How Intel's Newest Powerhouse, Core I7-14700K, Leaps Past Core Ultra 7 (265KF) by Gaining a Solid 7% in Benchmark Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-hardware-guides/"><u>Exploring the Latest in Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/extreme-focus-powerhouse-discover-nikons-coolpix-p1000/"><u>Extreme Focus Powerhouse – Discover Nikon's COOLPIX P1000</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-energy-for-health-selecting-prime-workout-music-for-2024/"><u>Harness Energy for Health Selecting Prime Workout Music for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-play-40c-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor Play 40C Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-innovative-gadgets-expertise-from-toms-hardware-zone/"><u>Inside the World of Innovative Gadgets: Expertise From Tom's Hardware Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-and-buying-guides/"><u>Tom's Tech Insights: Expert Reviews & Buying Guides</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-pairing-your-pc-with-a-wireless-bluetooth-speaker/"><u>Ultimate Guide: Pairing Your PC with a Wireless Bluetooth Speaker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/x-apply-presents-upcoming-stencil-tool-for-simplified-error-free-tim-application-stay-tuned/"><u>X-Apply Presents Upcoming Stencil Tool for Simplified, Error-Free TIM Application – Stay Tuned</u></a></li>
 </ul></div>
 

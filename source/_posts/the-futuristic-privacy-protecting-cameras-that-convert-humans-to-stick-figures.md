@@ -1,7 +1,7 @@
 ---
 title: The Futuristic Privacy-Protecting Cameras That Convert Humans to Stick Figures
-date: 2024-09-14T17:19:10.718Z
-updated: 2024-09-16T16:58:24.795Z
+date: 2024-09-16T11:11:28.423Z
+updated: 2024-09-21T20:16:05.919Z
 tags:
   - hardware
 categories:
@@ -42,26 +42,26 @@ Engineers from the University of Michigan have developed a new camera that repla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-sound-saturated-instagram-visuals/"><u>[New] Crafting Sound-Saturated Instagram Visuals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-views-through-imaginative-video-thumbnails/"><u>[New] In 2024, Boosting Views Through Imaginative Video Thumbnails</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>[Updated] Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>2024 Approved Revenue Breakdown A Deep Dive Into Podcast Finances</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computing-breakdown-the-toms-hardware-perspective/"><u>Advanced Computing Breakdown: The Tom's Hardware Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-guidance-insights-from-toms-hardware-experience/"><u>Advanced Gadget Guidance - Insights From Tom's Hardware Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-introduces-cost-effective-ddr5-support-with-latest-z790-aywifi-wd-motherboard-perfect-for-overclockers/"><u>Asus Introduces Cost-Effective DDR5 Support with Latest Z790-AYWIFI WD Motherboard Perfect for Overclockers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862857266-asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862843691-building-computers-made-easy-with-diy-compatible-motherboards-no-expertise-needed/"><u>Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise Needed!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-rtx-2080-graphics-card-drivers-compatible-with-windows-11-7-and-8/"><u>New RTX 2080 Graphics Card Drivers Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gaming-woes-master-the-tricks-to-stop-hell-let-loose-from-crashing/"><u>PC Gaming Woes? Master the Tricks to Stop Hell Let Loose From Crashing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/successful-installation-guide-huion-tablet-software-updates-and-downloads-on-windows/"><u>Successful Installation Guide: Huion Tablet Software Updates and Downloads on Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-game-plan-to-trendsetting-video-content-for-2024/"><u>The Game Plan to Trendsetting Video Content for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862859030-unbeatable-price-alert-get-the-asus-prime-x670-p-am5-motherboard-for-a-steal-at-135/"><u>Unbeatable Price Alert: Get the Asus Prime X670-P AM5 Motherboard for a Steal at $135!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitter-tales-creating-gifs-without-charges/"><u>[New] In 2024, Twitter Tales Creating GIFs Without Charges</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-script-artisans-domain/"><u>[Updated] 2024 Approved Best Script Artisan's Domain</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-2023s-prime-divers-top-tier-aquatic-camera-choices/"><u>2024 Approved 2023'S Prime Divers Top-Tier Aquatic Camera Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-for-win-os-clown-sound-changes/"><u>2024 Approved Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/broadcasting-success-fb-live-on-television-for-2024/"><u>Broadcasting Success FB Live on Television for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cant-remove-printer-on-windows-solved/"><u>Can’t Remove Printer on Windows [Solved]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-with-tom-comprehensive-hardware-insights/"><u>Exploring Advanced Computing with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-an-electronic-signature-online-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to create an electronic signature online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-hardware-assessments-toms-technology-hub/"><u>Professional Hardware Assessments - Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-up-pc-assembly-corsairs-innovative-one-turn-screw-for-ultimate-efficiency/"><u>Speed Up PC Assembly: Corsair's Innovative One-Turn Screw for Ultimate Efficiency</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-virtual-screen-display-in-google-meet-chats/"><u>Streamlining Virtual Screen Display in Google Meet Chats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-cooler-master-ion-360-reviewed-examining-progress-and-setbacks-in-liquid-cpu-cooling/"><u>The Cooler Master ION 360 Reviewed: Examining Progress and Setbacks in Liquid CPU Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiny-yet-titanium-breakthrough-in-3d-printing-metals-bigger-than-the-smallest-virus/"><u>Tiny Yet Titanium: Breakthrough in 3D Printing Metals Bigger Than the Smallest Virus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-4k-ultra-hd-monitors-latest-models-of-2024/"><u>Top Affordable 4K Ultra HD Monitors - Latest Models of 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding VRR: Why Your Gaming Monitor Might Flicker and How to Stop It Now!"
-date: 2024-09-15T17:33:53.424Z
-updated: 2024-09-16T16:02:49.650Z
+date: 2024-09-19T16:37:49.777Z
+updated: 2024-09-21T22:49:14.260Z
 tags:
   - hardware
 categories:
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Graphics settings listed in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you should enable the option, set the maximum FPS, and click “Apply,”
 
 ![Tweaking maximum frame rate in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-06.png) 
@@ -86,16 +79,22 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Frame rate limiter tool in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-07.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To limit FPS for individual games, click the “Games” tab and select the game you want to limit the max FPS for.
 
 ![The Gaming tab in AMD Software listing installed games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-02.png) 
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, scroll down until you see a setting called “Radeon Chill” and enable the option.
 
@@ -105,31 +104,25 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 ![Enabling Radeon Chill in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, set both the minimum and maximum FPS to the same value.
 
 ![Customizing Radeon Chill options in AMD software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/does-your-monitor-flicker-in-games-here-s-how-to-solve-it-10.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also use a third-party app, such as [RivaTuner Statistics Server](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) (RTSS), to limit max FPS globally or in specific games.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  VRR Flicker Should Be Less Noticeable At Higher Framerates
 
@@ -138,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
  For example, in _Halo Infinite_, a game that triggers very noticeable VRR flicker at lower FPS values, I’ve noticed that as long as my FPS doesn’t drop below \~75fps, I don’t perceive any VRR flicker. So, I tweaked the visual settings until I managed to consistently maintain the FPS value above 75fps, which solved the issue.
 
  The cutoff value for your monitor could be higher, but the general rule is that as long as your GPU can maintain the frame rate at or above 100fps, you shouldn’t notice any VRR flicker regardless of your monitor's max refresh rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Upgrade Your Monitor
 
@@ -162,14 +162,12 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-premium-online-streams-convert-youtube-to-mp3-instantly-in-2024/"><u>[Updated] Premium Online Streams Convert YouTube to MP3 Instantly, In 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-6-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 6 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/master-your-movie-recording-pc-mac-and-mobile-devices/"><u>Master Your Movie Recording PC, Mac & Mobile Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-unveils-upgrades-for-copilotplus-pcs-next-gen-graphics-optimized-performance-and-robust-anti-cheat-features-await-gamers/"><u>Microsoft Unveils Upgrades for Copilot+ PCs: Next-Gen Graphics, Optimized Performance, and Robust Anti-Cheat Features Await Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-choices-with-toms-hardware-wisdom/"><u>Navigating High-Tech Choices with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-resourceful-review/"><u>Navigating the Latest in Computer Hardware with Tom's Resourceful Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-tips-and-tricks-from-toms-hardware-gurus/"><u>Navigating the Tech Landscape: Tips & Tricks From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-reality-to-virtuality-best-practices-for-recording-gameplay-worlds-for-2024/"><u>[New] From Reality to Virtuality Best Practices for Recording Gameplay Worlds for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-tom-in-depth-equipment-insights-and-evaluations/"><u>Exploring the World of Hardware with Tom - In-Depth Equipment Insights & Evaluations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-sony-xperia-1-v-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Sony Xperia 1 V</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-reaction-videos-unleashing-the-power-of-filmora/"><u>In 2024, Effortless Reaction Videos Unleashing the Power of Filmora</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-to-transform-your-dvd-into-an-avi-file/"><u>Simple Steps to Transform Your DVD Into an AVI File</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-advanced-hardware-components/"><u>Tom's Tech Insights: Exploring Advanced Hardware Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-ddr5-expert-overclocking-session-by-raphael-with-leading-semiconductor-giants-amd-and-samsung/"><u>Unlocking the Potential of DDR5: Expert Overclocking Session by Raphael with Leading Semiconductor Giants, AMD and Samsung</u></a></li>
 </ul></div>
 

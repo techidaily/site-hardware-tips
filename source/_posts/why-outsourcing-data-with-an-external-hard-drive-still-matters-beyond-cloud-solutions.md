@@ -1,7 +1,7 @@
 ---
 title: "Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions"
-date: 2024-09-11T16:00:30.342Z
-updated: 2024-09-16T17:15:03.237Z
+date: 2024-09-18T00:53:12.315Z
+updated: 2024-09-22T00:09:30.582Z
 tags:
   - hardware
 categories:
@@ -36,28 +36,15 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
  Flash drives were (physically) never particularly large, but now they're even smaller. Plus, you can get a drive with both a USB-C and USB-A port, so that you're ready for whichever machine you encounter. Though you may be [best off with an external SSD](https://visual-screen-recording.techidaily.com/updated-2024-approved-compre-omprehensive-razer-video-cam-test/), considering how small they've become, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You're Not Dependent on an Internet Connection
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -65,6 +52,13 @@ Bertel King / How-To Geek
  Many of us live in places where we take high-speed internet for granted. On the other hand, just as many of us don't, even in places like New York City. Having portable USB storage means you can still access data even when the last bar of signal disappears or everything is constantly buffering.
 
  I grew up with [dial-up](https://extra-resources.techidaily.com/updated-5-premier-drone-engines-to-supercharge-your-qxp/), and my parents still live in a rural area that is only just now getting access to cable internet. Even so, I don't have enough signal to stream anything for half of the drive from my home to theirs. As fast and dependable as my internet may be at home (also in a rural area, mind you), I have never hit the point where I take the internet for granted. Files stored on an external drive are files I can access regardless of how poor the internet connection is. Files stuck in cloud storage feel nearby when the internet is fast, but you become aware of how far away those servers are when the connection slows down or even disappears.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Your Data Is Less Likely to Leak
 
@@ -88,6 +82,13 @@ Bertel King / How-To Geek
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Storage costs have dropped rapidly over the years. You can now buy a 512GB USB stick for the price of treating a date to dinner. For a little bit more, you can [buy an external SSD](https://screen-capture.techidaily.com/new-optimize-logitech-footage-background-free-method/) with much faster transfer speeds. Most of us aren't actually carrying around terabytes of data and don't need to spring for a larger drive.
@@ -95,13 +96,6 @@ Jerome Thomas / How-To Geek
  But say that you do need multiple terabytes of storage. An individual plan on Dropbox can set you back $10 a month for 2TB of storage. After a year, you've spent around as much money as you would on a 2TB external hard drive. By the second and third year, you've spent far more money than you would have. You could be carrying 6TB of storage instead.
 
  Maybe you're just [considering whether to pay for more iCloud space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/). By buying your own storage, you turn an ongoing recurring cost into a handful of one-time expenses. Get yourself enough drives to make multiple copies of your data, and then stop there. You won't need an additional subscription service to help you find all the ways that you're wasting money on automatic payments, because no money is going out the door.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  USB Drives Have Other Uses Aside From Storage
 
@@ -135,14 +129,16 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-mp4-and-webm-creation-from-social-media-videos-for-2024/"><u>[New] MP4 and WebM Creation From Social Media Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-in-use-files-errors-in-windows-152-chars/"><u>Addressing 'In-Use' Files Errors in Windows (152 Chars)</u></a></li>
-<li><a href="https://solve-help.techidaily.com/android-dvd/"><u>Androidタブレットに最適! DVD再生ガイドと推薦ツール一覧</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/embedding-echoes-adding-audio-to-your-powerpoint-slides-for-2024/"><u>Embedding Echoes Adding Audio to Your PowerPoint Slides for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-note-30-vip-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Note 30 VIP to iPad | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-pc-building-with-toms-hardware-guides/"><u>Navigating PC Building with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-pc-builds-with-expert-advice-from-toms-system-solutions/"><u>Navigating PC Builds with Expert Advice From Tom's System Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-devices-tips-from-toms-hardware/"><u>Navigating the World of Devices: Tips From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtube-playlist-turnaround-a-simple-4-step-plan/"><u>[Updated] 2024 Approved YouTube Playlist Turnaround A Simple 4-Step Plan</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/complete-guide-on-secure-data-destruction-by-stellar-experts/"><u>Complete Guide on Secure Data Destruction by Stellar Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-download-windows-movie-maker-6/"><u>How to Download Windows Movie Maker 6</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>In 2024, The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862761231-introducing-minisforums-new-affordable-gaming-laptop-156-screen-144hz-refresh-rate-and-1440p-display-just-189/"><u>Introducing Minisforum's New Affordable Gaming Laptop: 15.6 Screen, 144Hz Refresh Rate & 1440P Display - Just $189!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-high-performance-computers-with-toms-insider-knowledge/"><u>Unlock the Secrets of High-Performance Computers with Tom's Insider Knowledge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-asrock-pg2nqft2a-a-180hz-monitor-for-gamers-speed-quality-and-value-evaluation/"><u>Unveiling the ASRock PG2nQFT2a - A 180Hz Monitor for Gamers: Speed, Quality & Value Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-equipment-with-toms-guide/"><u>Unveiling the Best in Computer Equipment with Tom’s Guide</u></a></li>
 </ul></div>
 

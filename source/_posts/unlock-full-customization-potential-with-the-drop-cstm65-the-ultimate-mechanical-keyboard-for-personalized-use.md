@@ -1,7 +1,7 @@
 ---
 title: "Unlock Full Customization Potential with the Drop CSTM^65: The Ultimate Mechanical Keyboard for Personalized Use"
-date: 2024-09-10T16:39:31.413Z
-updated: 2024-09-16T16:17:35.070Z
+date: 2024-09-19T02:06:30.835Z
+updated: 2024-09-22T01:24:29.851Z
 tags:
   - hardware
 categories:
@@ -125,13 +125,6 @@ Jerome Thomas / How-To Geek
 
  I like that you can choose your own weight and that it's visible when you flip the keyboard over. Yes, most people will never see your shiny keyboard weight, but I think it's a nice touch on a board like the CSTM65\. It ships with a 3.9oz weight, which is heavy enough to keep the keyboard in place under normal circumstances. If you tend to get a little aggressive while gaming and want to make sure the CSTM65 isn't going anywhere, you can choose from CNC-machined brass (12.97oz) and stainless steel (11.96oz) weights. When it comes to the steel weights, you have a few color options, including a slick chroma color weight.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Software: Customization for Keys, Not Lighting
 
 ![CSTM65 backlit with front-key markings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-keyboard-backlit-showing-front-facing-key-markingsjpg_53519440588_o-1.jpg) 
@@ -145,10 +138,10 @@ Jerome Thomas / How-To Geek
  The software doesn't handle the CSTM65's per-key RGB customization, though. For that, you'll need to use the keyboard itself. That likely means going to the website and reading the instructions there. That's going to annoy users who like to have software for customizing that sort of feature. On the other hand, some people will be happy to not have any extra software using their PC's resources.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Drop CSTM65 Keyboard?
@@ -162,6 +155,13 @@ Jerome Thomas / How-To Geek
  As for whether you should go with the Gateron Brown or Yellow key switches, it's a matter of preference. If you have already owned mechanical keyboards, you probably know which switch is for you. If you're new to mechanical keyboards, I'd suggest the brown switches. I think they'll hit the mark for many people, especially those who type frequently.
 
 ![Drop keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-22-at-09-27-17-2x.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -188,13 +188,16 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-engaging-youtube-channel-names-for-vlogger-success-no-more-than-156/"><u>[New] In 2024, Crafting Engaging YouTube Channel Names for Vlogger Success (No More Than 156)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-capture-your-nintendo-switch-game-video/"><u>[New] In 2024, How To Capture Your Nintendo Switch Game Video</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-seamlessly-transform-amr-audio-files-into-wav-format-a-simple-guide/"><u>1. Seamlessly Transform AMR Audio Files Into WAV Format: A Simple Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>2024 Approved Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-gear-guides/"><u>Exploring Computer Components with Tom's Gear Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-insights-on-computing-hardware-by-toms-tech-experts/"><u>In-Depth Reviews & Insights on Computing Hardware by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-clear-shell-designs-set-to-enhance-your-steam-deck-experience/"><u>New Clear Shell Designs Set to Enhance Your Steam Deck Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-beginners-roadmap-to-free-youtube-intro-videos-for-2024/"><u>The Beginner's Roadmap to Free YouTube Intro Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>[New] Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nsuring-copyright-compliance-in-youtube-to-mp4-for-2024/"><u>[New] Ensuring Copyright Compliance in Youtube-to-MP4 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-pip-functions-on-apple-devices-for-2024/"><u>[Updated] Mastering PIP Functions on Apple Devices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-user-friendly-guide-to-logging-gotomeeting-events/"><u>2024 Approved User-Friendly Guide to Logging GoToMeeting Events</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-ai-9-hx-370-outperforms-apple-m3-max-battle-of-laptop-chips-unfolds/"><u>AMD Ryzen AI 9 HX 370 Outperforms Apple M3 Max: Battle of Laptop Chips Unfolds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparative-review-winx-dvd-ripper-and-handbrake-ultimate-free-dvd-ripping-showdown/"><u>Comparative Review: WinX DVD Ripper and HandBrake - Ultimate Free DVD Ripping Showdown</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-simplified-pathway-using-instagram-live-effectively/"><u>In 2024, Simplified Pathway Using Instagram Live Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-single-run-3d-printing-process-produces-operable-prosthetic-hands-paving-the-way-for-personalized-limb-fabrication-at-home/"><u>Revolutionary Single-Run 3D Printing Process Produces Operable Prosthetic Hands, Paving the Way for Personalized Limb Fabrication at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727068-revolutionize-your-silent-pc-experience-with-configurable-cases-and-glowing-fans-by-be-quiet/"><u>Revolutionize Your Silent PC Experience with Configurable Cases & Glowing Fans by Be Quiet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-additive-manufacturing-the-top-review-of-elegoo-saturn-s-cutting-edge-resin-printer/"><u>Revolutionizing Additive Manufacturing: The Top Review of Elegoo Saturn ^'S Cutting-Edge Resin Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-staying-cool-with-the-best-nvme-ssd-cooler-on-market-t-forces-dark-airflow-i/"><u>Ultimate Guide to Staying Cool with the Best NVMe SSD Cooler on Market - T-Force's Dark AirFlow I</u></a></li>
 </ul></div>
 

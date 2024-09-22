@@ -1,7 +1,7 @@
 ---
 title: "This Week's Tech Highlights: Discontinuation of Netflix Basic Plan & Improved Strategies for iPhone Fixes"
-date: 2024-09-10T16:24:36.225Z
-updated: 2024-09-16T16:50:23.443Z
+date: 2024-09-17T22:53:43.221Z
+updated: 2024-09-21T23:04:51.256Z
 tags:
   - hardware
 categories:
@@ -32,21 +32,22 @@ This was another busy week for tech news, with changes coming to iPhone repairs,
 [Meta](https://www.youtube.com/watch?v=34-DDtOmuJE)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Microsoft’s Office Web Apps Have a Fresh New Design](https://extra-guidance.techidaily.com/mastering-online-tale-creation-fundamentals-for-2024/) 
 
  Word, PowerPoint, and Excel on the web are now a bit easier to use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Netflix is Starting To Kill Off Its Basic Plan](https://facebook-record-videos.techidaily.com/updated-the-insiders-guide-to-youtube-money-minimum-video-views-needed/) 
 
@@ -62,13 +63,6 @@ This was another busy week for tech news, with changes coming to iPhone repairs,
 
 ![Screenshot of desktop on Linux Mint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cinnamon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Linux Mint
 
 ### [Proton Drive Now Has a Google Docs Clone](https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/) 
@@ -76,26 +70,26 @@ Linux Mint
  More than just end-to-end encrypted files.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Microsoft Excel’s Web App Just Got a Massive Overhaul](https://video-capture.techidaily.com/in-2024-capture-call-transcript-for-study/) 
 
  Create inserts, freeze panes, and move elements with a single mouse click.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Hackers Are Targeting This Router, and D-Link Won't Patch It](https://youtube-blog.techidaily.com/024-approved-mastering-youtube-ultimate-guide-to-live-360-degree-streams/) 
 
  The D-Link DIR-859 reached end of life in 2020 and should be replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -118,20 +112,20 @@ Linux Mint
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-avoiding-disruptions-in-mixer-broadcasting-on-macos/"><u>[New] Avoiding Disruptions in Mixer Broadcasting on macOS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-shadowing-snaptaking-discreet-methods-to-capture-snapchats/"><u>[New] Shadowing SnapTaking Discreet Methods to Capture SnapChats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-top-hd-video-recorders-for-2024/"><u>[New] Ultimate Guide to Top HD Video Recorders for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques/"><u>[Updated] 2024 Approved Mastering the Art of Video From Still Photos Through Pixiz Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-computer-gear-in-depth-reviews-and-advice-by-toms-hardware-experts/"><u>Decoding Computer Gear: In-Depth Reviews and Advice by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-high-performance-pcs-through-toms-lens/"><u>Decoding High-Performance PCs Through Tom's Lens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-asrocks-latest-breakthrough-dual-27-inch-1440p-ips-screens-with-built-in-wifi-antennas-on-desk-mounts/"><u>Discover ASRock's Latest Breakthrough: Dual 27-Inch 1440P IPS Screens with Built-In WiFi Antennas on Desk Mounts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-power-of-smooth-playback-asus-latest-rog-strix-xg27-wcs-gaming-monitor-a-game-changing-27-va-panel-with-exceptional-180hz-refresh-rate/"><u>Discover the Power of Smooth Playback: Asus' Latest ROG Strix XG27 WCS Gaming Monitor, a Game-Changing 27 VA Panel with Exceptional 180Hz Refresh Rate</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-technology-top-picks-by-toms-hardware-specialist/"><u>Dive Into Technology: Top Picks by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-tips-and-analysis-for-tech-enthusiasts-toms-hardware/"><u>Exclusive Tips and Analysis for Tech Enthusiasts - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-technology-from-toms-hardware-hub/"><u>Expert Insights on Technology From Tom's Hardware Hub</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-humor-in-technology-can-artificial-intelligence-be-funny/"><u>Exploring Humor in Technology: Can Artificial Intelligence Be Funny?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-defy-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Defy 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-magix-composition-wizard-an-audio-editing-experience/"><u>In 2024, Magix Composition Wizard An Audio Editing Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-at-a-glance-digital-home-for-quality-videos-for-2024/"><u>Vimeo at a Glance Digital Home for Quality Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamline-editing-how-to-load-music-in-inshot/"><u>[New] 2024 Approved Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-detailed-tutorial-on-screen-capturing-in-online-meetings-google/"><u>[New] In 2024, Detailed Tutorial on Screen Capturing in Online Meetings (Google)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-ios-screenshoting-hack/"><u>[New] The Ultimate iOS Screenshoting Hack</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-movavi-mp4-to-gif/"><u>無償で使えるOnline動画形式変更機能 - Movavi MP4 to GIF</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-trocar-a-sua-face-em-videos-os-aplicativos-mais-eficientes-e-usando-seo-para-o-google/"><u>Como Trocar a Sua Face Em Vídeos: Os Aplicativos Mais Eficientes E Usando SEO Para O Google</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-clearing-all-snapchat-messages-and-conversations-from-your-account/"><u>Complete Guide to Clearing All Snapchat Messages and Conversations From Your Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computing-innovations-with-toms-hardware-insights/"><u>Exploring Computing Innovations with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-gadget-analysis/"><u>Exploring Hardware with Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-in-depth-analysis-of-hardware-solutions/"><u>Exploring Technology with Tom: In-Depth Analysis of Hardware Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-vs-surface-pro-showdown-which-tablet-outperforms/"><u>IPad Pro Vs. Surface Pro Showdown: Which Tablet Outperforms?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-circuitry-with-tom-your-ultimate-hardware-guide/"><u>Navigating the Circuitry with Tom - Your Ultimate Hardware Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files/"><u>New 2024 Approved Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/push-button-raspberry-pi-fortune-printing-machine-instant-luck-reveals-with-every-click/"><u>Push-Button Raspberry Pi Fortune Printing Machine: Instant Luck Reveals with Every Click!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ken-burns-method-in-camtasia-9-explained-simply/"><u>The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-comprehensive-analysis-of-the-latest-tech-gadgets/"><u>Tom's Hardware Review: Comprehensive Analysis of the Latest Tech Gadgets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The NZXT Function Nv Capsule TKL In-Depth Review: Approaching the Ultimate Gamepad"
-date: 2024-09-14T16:35:11.981Z
-updated: 2024-09-16T17:17:58.475Z
+date: 2024-09-20T07:01:24.484Z
+updated: 2024-09-22T10:31:28.574Z
 tags:
   - hardware
 categories:
@@ -113,16 +113,16 @@ Jerome Thomas / How-To Geek
 
 ![Bottom of the Function 2 MiniTKL showing the rubber feet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/bottom-of-the-function-2-minitkl-showing-the-rubber-feetjpg_53489340643_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  NZXT went the extra mile when it comes to acoustics with the Function 2 MiniTKL. The top frame plate is made from 3mm aluminum, and you’ll find dual-layer sound-dampening foam and tape on the PCB to ensure that there’s no unwanted pinging noise. In practice, this works great. The keyboard sounded fantastic when typing, and there was no pinging or hollowness to the keystrokes at all. Plus, the aluminum gives it a nice heft without adding tons of weight and making it super heavy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Extra Keys Are Laid Out Weird
 
@@ -137,15 +137,22 @@ Jerome Thomas / How-To Geek
  Along that same left side you’ll also find a volume wheel, which works great and isn’t out of place at all on the side. Meanwhile, the other media keys, like play and pause, seek, and reverse, are located on the print screen, scroll lock, and pause keys at the top right of the keyboard and require a function press to activate. Ideally, I would have liked to have seen mute be activated by pressing the volume scroll wheel and have had media keys on the left side, with the Windows lock and brightness buttons under function keys somewhere else on the keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  NZXT CAM Gives You All the Customization One Could Want
 
 ![The Function 2 MiniTKL without the backlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-without-the-backlightjpg_53489191606_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -156,13 +163,6 @@ Jerome Thomas / How-To Geek
 ##  Should You Buy the NZXT Function 2 MiniTKL Keyboard?
 
 ![NZXT Function 2 MINITKL keyboard in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/nzxt-function-2-minitkl-keyboard-in-front-of-boxjpg_53489190826_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -199,17 +199,17 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-premium-aerial-imagery-crews-the-10-drones-for-2024/"><u>[New] Premium Aerial Imagery Crews The #10 Drones for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-iphones-best-video-editor-pick-cameo-vs-filmorago-analysis/"><u>[Updated] In 2024, IPhone's Best Video Editor Pick Cameo Vs. FilmoraGo Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-3dr-by-himself-an-experts-opinion/"><u>2024 Approved Exploring '3DR' By Himself – An Expert's Opinion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-gadgets-of-computex-202n4-exposed-asus-rog-ally-and-snapdragon-x-laptops-but-no-gpu-news/"><u>Anticipated Gadgets of Computex 202N4 Exposed - Asus ROG Ally & Snapdragon X Laptops, but No GPU News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-butterfly-keyboard-issues-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Butterfly Keyboard Issues Begin Receiving Up To $395 Refund Per Unit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-lenovo-legion-pro-5i-gen-9-laptop-assessment-unmatched-performance-at-a-steal/"><u>Comprehensive Lenovo Legion Pro 5I Gen 9 Laptop Assessment – Unmatched Performance at a Steal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-hardware-specs-get-insightful-analysis-from-toms-tech-world/"><u>Deciphering Hardware Specs? Get Insightful Analysis From Tom's Tech World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvdadobemp4mov/"><u>DVDコンテンツのAdobeソフトによるスムーズなMP4/MOVへの変換・再編集ガイド</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/easy-implementation-of-snap-camera-on-ms-teams/"><u>Easy Implementation of Snap Camera on MS Teams</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-xs-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone XS Max</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-teamimage-blurring-backgrounds-on-microsoft-teams/"><u>In 2024, Enhancing TeamImage Blurring Backgrounds on Microsoft Teams</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-lava-blaze-2-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Lava Blaze 2 Android SIM Unlock APK</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeting-to-whatsapp-direct-video-distribution/"><u>[New] 2024 Approved Tweeting to WhatsApp Direct Video Distribution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gigabyte-announces-amd-ryzen-9000-series-rebranding-with-zen-5-chipset-beta-bios-tested-on-500-series-mobos/"><u>Gigabyte Announces AMD Ryzen 9000 Series Rebranding with Zen 5 Chipset: Beta BIOS Tested on 500-Series Mobos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gigabytes-latest-in-miniature-power-in-depth-look-at-the-b760m-motherboard-with-three-monitors-support/"><u>Gigabyte's Latest in Miniature Power: In-Depth Look at the B760M Motherboard with Three Monitors Support</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-use-zoom-on-xbox-one/"><u>How to Use Zoom on Xbox One</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/icrafts-new-b760m-motherboard-infused-with-pastel-hues-a-must-have-for-anime-fans/"><u>ICraft's New B760M Motherboard Infused with Pastel Hues: A Must-Have for Anime Fans</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-15-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-12-proplus-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 12 Pro+ 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-technology-world/"><u>Inside Tom's Technology World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-digital-worlds-with-toms-hardware-haven/"><u>Mastering Digital Worlds with Tom's Hardware Haven</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sign-up-saga-crafting-your-digital-persona-facebook-for-2024/"><u>Sign Up Saga Crafting Your Digital Persona (Facebook) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/struggling-with-gmail-passwords-here-are-effective-solutions/"><u>Struggling with Gmail Passwords? Here Are Effective Solutions!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Note 30i | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transforming a Raspberry Pi Into a Personalized Bluetooth Audio Device
-date: 2024-09-10T16:03:09.680Z
-updated: 2024-09-16T16:37:31.499Z
+date: 2024-09-18T21:30:16.513Z
+updated: 2024-09-21T23:46:45.966Z
 tags:
   - hardware
 categories:
@@ -63,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Selecting the "Deploy to fleet" button will download and install BalenaSound on your Pi. This process will take a bit of time, but once it is finished, it can accept connections via Spotify Connect, Bluetooth, Apple Airplay, and many other features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Configure Balena Sound Settings for Optimal Audio Performance
 
  Your Raspberry Pi's sound settings need to be configured to handle BalenaSound correctly. To start, access your device in Balena Cloud. Then, find "Terminal" and click "Select a target." Set the target to "audio," and select the "Start terminal session" button. Once connected, you'll be able to send commands to your Raspberry Pi sound system.
@@ -70,6 +77,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To start, you'll want to set the Raspberry Pi's sound to 100%. If you don't, everything will be too quiet. To do this, run the following command:
 
 ![Setting audio in BalenaCloud for the speaker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/bc-setting-volume.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
         `amixer -c 0 cset numid=1 100%`
     
@@ -81,35 +95,21 @@ amixer -c 0 cset numid=3 100%`
     
  Once you've configured your audio settings, you can close the terminal in BalenaCloud.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Stream Audio on your Raspberry Pi with BalenaSound
 
  Streaming audio to your Raspberry Pi running BalenaSound is incredibly easy. To use your Pi as a Bluetooth speaker, simply open the Bluetooth settings on your phone, tablet, or PC and connect to the device labeled "balenaOS". Once connected, it will work just like any other Bluetooth speaker you've used before.
 
 ![BalenaSound running services.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-services.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Want to stream music via [Spotify](https://twitter-videos.techidaily.com/new-in-2024-digital-drama-videoviral-sagas-unfold-online/)? Open the Spotify app on your device (phone, tablet, or PC), select the device menu, and use Spotify Connect to broadcast your songs to your Raspberry Pi. Additionally, BalenaSound transforms your Raspberry Pi into an AirPlay device, allowing you to select it as a streaming destination on Apple Music or other AirPlay-supported apps on iOS.
 
 ![Spotify outputting to the Pi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-playback.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Troubleshooting and Optimizing Your Balena Sound Setup
@@ -137,16 +137,19 @@ amixer -c 0 cset numid=3 100%`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-iosandroid-tutorial-uploading-audio-to-social-network/"><u>[Updated] IOS/Android Tutorial Uploading Audio to Social Network</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/elevate-your-game-experience-a-selection-process-for-immersive-vocal-transformation-technology-for-2024/"><u>Elevate Your Game Experience A Selection Process for Immersive Vocal Transformation Technology for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-fifa-22-pc-game-crashes-expert-solutions/"><u>How to Fix FIFA 22 PC Game Crashes: Expert Solutions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-increase-followers-on-facebook-10-effective-ways-for-2024/"><u>How to Increase Followers on Facebook (10 Effective Ways ) for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-hardware-experts-find-your-perfect-pc-build/"><u>In-Depth Analysis by Tom's Hardware Experts - Find Your Perfect PC Build</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tomtech-savvy-unveiled/"><u>In-Depth Reviews by TomTech Savvy Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/indepth-review-gigabyte-aorus-co49dq-oled-monitor-exceptional-color-and-contrast-performance/"><u>InDepth Review: Gigabyte Aorus CO49DQ OLED Monitor - Exceptional Color & Contrast Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-store-your-guide-to-cutting-edge-components/"><u>Inside Tom's Hardware Store: Your Guide to Cutting-Edge Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-dasung-paperlike-the-high-resolution-portable-e-ink-12-display-for-849-now-available-in-us/"><u>Introducing the Dasung Paperlike: The High-Resolution Portable E-Ink 12 Display for $849 - Now Available in U.S</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-to-boost-your-facebook-stories-reach-and-engagement/"><u>[New] 2024 Approved Cutting-Edge Techniques to Boost Your Facebook Stories' Reach and Engagement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-iphone-2024-audio-message-keeper/"><u>[Updated] IPhone 2024 Audio Message Keeper</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-screen-capture-expert-take-on-showmore-software-for-2024/"><u>[Updated] Mastering Screen Capture Expert Take on ShowMore Software for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-tom-your-guide-to-cutting-edge-technology/"><u>Advanced Gadget Analysis by Tom: Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipated-launch-of-nvidia-rtx-4070-with-enhanced-slow-speed-gddr6-rumors-unveiled/"><u>Anticipated Launch of Nvidia RTX 4070 with Enhanced Slow-Speed GDDR6 – Rumors Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-a70-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on A70</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-drone-a-close-look-at-dji-phantom-3-pros-features/"><u>In 2024, Behind the Drone A Close Look at DJI Phantom 3 Pro's Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-18a-panther-lake-and-clearwater-forests-processors-kick-off-startup-sequence-signaling-move-towards-cutting-edge-lithography-techniques/"><u>Intel 18A Panther Lake and Clearwater Forests Processors Kick Off Startup Sequence, Signaling Move Towards Cutting-Edge Lithography Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-choice-high-definition-screen-capturing-apps-for-2024/"><u>The Best Choice High-Definition Screen Capturing Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-hardware-innovation/"><u>Tom's Tech Hub: Expert Insights on Hardware Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-potential-how-zen-amd-enhances-power-and-performance-via-advanced-threading-diverging-from-intels-lakefield-era-retreat-from-multithreading-techni12/"><u>Unlocking Potential: How Zen 지식에서 AMD Enhances Power and Performance via Advanced Threading, Diverging From Intel's Lakefield Era Retreat From Multithreading Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-delays-for-nvidia-blackwell-gpu-lineup-amidst-design-challengeslaunch-now-expected-later-by-up-to-three-months/"><u>Unveiling Delays for Nvidia Blackwell GPU Lineup Amidst Design Challenges—Launch Now Expected Later by Up To Three Months</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 
