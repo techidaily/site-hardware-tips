@@ -1,7 +1,7 @@
 ---
 title: Breakthrough in Soundbars! Expert Review Highlights Top Sony/Bose Alternative at ZDNET
-date: 2024-09-21T05:36:37.581Z
-updated: 2024-09-22T09:06:32.531Z
+date: 2024-09-21T19:43:58.373Z
+updated: 2024-09-28T17:47:09.398Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-immersive-experienences-adding-sounds-to-reels-for-2024/"><u>[New] Crafting Immersive Experienences Adding Sounds to Reels for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screen-casting-in-vlc-reviewed-for-2024/"><u>[New] Screen Casting in VLC Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-social-media-strategies-twitch-videos-for-fb-audience/"><u>[New] Social Media Strategies Twitch Videos for FB Audience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>[Updated] The Complete Process Recording YouTube Livestream on Multiple Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-your-mov-files-to-aac-format-free-with-movavis-web-app/"><u>Convert Your MOV Files to AAC Format Free with Movavi's Web App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-and-set-up-the-latest-hp-universal-printer-drivers-with-ease-windows/"><u>Get & Set Up the Latest HP Universal Printer Drivers with Ease (Windows)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-technology-with-toms-hardware/"><u>Navigating the World of Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-cooling-essentials-comparing-pwm-and-dc-fans-to-find-your-perfect-match/"><u>PC Cooling Essentials: Comparing PWM and DC Fans to Find Your Perfect Match</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-unveiled-with-toms-expertise/"><u>Pioneering Hardware Reviews - Unveiled with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-load-times-await-discover-high-speed-nvme-options-for-your-ps5/"><u>Quick Load Times Await: Discover High-Speed NVMe Options for Your PS5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-sk1-system-from-two-trees-computing-the-benefits-of-openness-and-speed/"><u>Reviewing the SK1 System From Two Trees Computing: The Benefits of Openness and Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-clearing-jams-in-your-3d-printers-extruder/"><u>Step-by-Step Tutorial: Clearing Jams in Your 3D Printer's Extruder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-right-3d-printers-fdm-resin-and-sub-250-models-reviewed/"><u>The Ultimate Guide to Choosing the Right 3D Printers - FDM, Resin & Sub-$250 Models Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visionary-intros-free-templates-for-inspiration/"><u>Visionary Intros Free Templates for Inspiration</u></a></li>
+</ul></div>
 

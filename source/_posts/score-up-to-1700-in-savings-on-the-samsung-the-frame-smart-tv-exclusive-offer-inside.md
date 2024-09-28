@@ -1,7 +1,7 @@
 ---
 title: Score Up To $1,700 in Savings on the Samsung The Frame Smart TV – Exclusive Offer Inside!
-date: 2024-09-21T10:50:11.634Z
-updated: 2024-09-22T08:18:16.704Z
+date: 2024-09-26T18:17:03.596Z
+updated: 2024-09-28T19:18:45.077Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-audio-gear-for-active-cameras/"><u>[New] 2024 Approved Essential Audio Gear for Active Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-virtual-board-functions-across-zoom-devices-for-2024/"><u>[Updated] Navigating Virtual Board Functions Across Zoom Devices for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>2024 Approved Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>2024 Approved ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oneplus-nord-3-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from OnePlus Nord 3 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-xtool-s1-top-tier-diode-laser-cutter-for-diy-enthusiasts/"><u>Expert Analysis of the XTool S1: Top-Tier Diode Laser Cutter for DIY Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-at-toms-digital-workshop/"><u>Exploring Computer Components at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-technology-through-toms-lens/"><u>Exploring Cutting-Edge Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-the-authority-in-hardware-insights/"><u>Exploring Gadgets with Tom: The Authority in Hardware Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y02t-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y02T Is Unlocked</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-elevate-your-career-best-video-resume-makers-and-templates/"><u>In 2024, Elevate Your Career Best Video Resume Makers and Templates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-world-of-computing-in-depth-performance-analysis/"><u>Inside Tom's World of Computing - In-Depth Performance Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-refined-noctua-nh-d15-g2-whisper-quieter-cooling-fans-extra-heatpipes-for-optimal-performance/"><u>Introducing the Refined Noctua NH-D15 G2: Whisper Quieter Cooling Fans, Extra Heatpipes for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investigating-the-rattling-audio-complaints-noctuas-response-for-its-new-nh-d15-g2-air-cooling-solution/"><u>Investigating the ‘Rattling’ Audio Complaints: Noctua's Response for Its New NH-D15 G2 Air Cooling Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keep-your-system-cool-and-efficient-for-99-get-a-game-changing-nh-d12l-chromax-black-from-noctua/"><u>Keep Your System Cool and Efficient for $99 - Get a Game-Changing NH-D12L Chromax Black From Noctua</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/prime-selections-the-best-free-screencasting-apps-for-2024/"><u>Prime Selections The Best Free Screencasting Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmv-online-mjpeg-converter/"><u>WMV 이미지/비디오를 자동화된 바이트 스트림으로 무료로 변환: Online MJPEG Converter</u></a></li>
+</ul></div>
 

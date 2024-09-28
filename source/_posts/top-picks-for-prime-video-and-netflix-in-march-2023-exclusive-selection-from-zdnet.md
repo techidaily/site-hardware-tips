@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Prime Video & Netflix in March 2023 - Exclusive Selection From ZDNet
-date: 2024-09-15T06:39:35.350Z
-updated: 2024-09-22T09:19:53.242Z
+date: 2024-09-25T16:43:13.453Z
+updated: 2024-09-28T16:32:01.623Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pixeled-play-log-audit/"><u>[Updated] 2024 Approved Pixeled Play Log Audit</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-online-sales-with-these-premier-15-facebook-monitoring-tools/"><u>[Updated] 2024 Approved Transform Online Sales with These Premier 15 Facebook Monitoring Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-8-best-tripods-for-4k-camera/"><u>2024 Approved Top 8 Best Tripods for 4K Camera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-nvidias-rtx-graphics-card-features-performance-and-capabilities-unveiled/"><u>Demystifying Nvidia's RTX Graphics Card: Features, Performance & Capabilities Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/edible-tech-bites-learn-about-our-new-3d-printed-scannable-qr-codes/"><u>Edible Tech Bites: Learn About Our New 3D Printed, Scannable QR Codes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhancing-creativity-with-filmoras-best-tools-for-2024/"><u>Enhancing Creativity with Filmora's Best Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-evaluation-of-the-powerful-and-silent-corsair-air-a115-heatsink-with-a-high-price-point/"><u>Expert Evaluation of the Powerful and Silent Corsair Air A115 Heatsink with a High Price Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-on-the-mingda-magic-pen-pro-2-balancing-high-power-with-quiet-print-technology/"><u>Expert Insight on the Mingda Magic Pen Pro 2: Balancing High Power with Quiet Print Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-latest-frozn-a62n-air-cooler-from-id-cooling-premium-performance-at-an-unbeatable-price/"><u>Expert Insights on the Latest Frozn A62n Air Cooler From ID-Cooling – Premium Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-insights-on-the-latest-in-technology-toms-gear-hub/"><u>Expert Reviews and Insights on the Latest in Technology - Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-unveiling-the-latest-in-pc-components/"><u>Expert Reviews by Tom: Unveiling the Latest in PC Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-technology-hub/"><u>Exploring Computer Components with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-in-depth-analysis-and-guides/"><u>Exploring Gadgets with Tom: In-Depth Analysis and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-the-ultimate-guide/"><u>Exploring Tom's Hardware - The Ultimate Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-8-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Without a Home Button</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/improve-user-experience-using-the-power-of-cookiebot/"><u>Improve User Experience Using the Power of Cookiebot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-8-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 8</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-methods-for-capturing-roblox-games-on-macos/"><u>In 2024, Top 5 Methods for Capturing Roblox Games on macOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-maximize-your-storage-tips-and-tricks-for-liberating-space-for-fcpx-for-2024/"><u>New Maximize Your Storage Tips and Tricks for Liberating Space for FCPX for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How LG Surpasses Samsung Galaxy Series with Its Latest Mini LED Offering: Exclusive Comparison & Limited Time Labor Day Discount | TechReview"
-date: 2024-09-16T09:36:09.855Z
-updated: 2024-09-22T04:40:30.970Z
+date: 2024-09-24T17:36:37.631Z
+updated: 2024-09-28T18:30:53.473Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,19 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +96,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,18 +137,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[New] 2024 Approved Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-5-prime-fb-video-extractor-guide/"><u>[New] In 2024, 5 Prime FB Video Extractor Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-decoding-youtubes-intricate-view-count-mechanics/"><u>[New] In 2024, Decoding YouTube's Intricate View Count Mechanics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>[Updated] A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-v30-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo V30 Lite 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-asus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Asus Fingerprint Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-m6-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco M6 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-color-shifts-and-warping-visuals-on-your-pc-display/"><u>Solving the Issue of Color Shifts & Warping Visuals on Your PC Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-breakdown/"><u>Tom's Computer Components Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-the-latest-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-graphics-cards-for-profitable-cryptocurrency-mining-a-guide-by-toms-hardware/"><u>Top Choice Graphics Cards for Profitable Cryptocurrency Mining: A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-and-detailed-assessments-at-toms-tech-review/"><u>Top Picks and Detailed Assessments at Tom's Tech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-external-hard-drives-a-comprehensive-guide/"><u>Top Recommended External Hard Drives : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-3d-printing-devices-in-2vearly-2024-fdm-resin-and-budget-friendly-options/"><u>Top-Rated 3D Printing Devices in 2Vearly 2024 - FDM, Resin & Budget-Friendly Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-the-comprehensive-guide-to-hardware/"><u>Unveiling Tech Secrets: The Comprehensive Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-by-toms-experts/"><u>Unveiling the Latest in Hardware by Tom's Experts</u></a></li>
+</ul></div>
 

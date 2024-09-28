@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Collaborate: Google & Renault Pioneer the Future of Self-Programmable Cars"
-date: 2024-09-18 17:45:59
-updated: 2024-09-20 11:32:34
+date: 2024-09-24T16:02:28.513Z
+updated: 2024-09-28T19:33:15.476Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ensuring-your-video-shines-in-the-staff-pick-spotlight/"><u>[New] In 2024, Ensuring Your Video Shines in the Staff Pick Spotlight</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-srt-file-conversion-simplified-with-os-support-for-2024/"><u>[Updated] SRT File Conversion Simplified with OS Support for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-iphone-saving-and-utilizing-gifs-effectively/"><u>2024 Approved Mastering iPhone Saving & Utilizing GIFs Effectively</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-tips-and-tricks-from-tomntech-expertise/"><u>Advanced Hardware Tips and Tricks From Tom'nTech Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-latest-in-pc-and-graphics-cards-by-toms-experts/"><u>Decoding the Latest in PC and Graphics Cards by Tom's Experts</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-gamers-choice-discover-the-premier-router-collection-for-peak-playing-experience/"><u>Elite Gamers' Choice: Discover the Premier Router Collection for Peak Playing Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transition-to-darkness-premiere-pro-techniques/"><u>In 2024, Transition to Darkness Premiere Pro Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>New How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-ultimate-cpu-cooling-solution-the-peerless-assassin-120-se-by-thermalright-now-for-an-unbeatable-price-of-33/"><u>Stay Chill with the Ultimate CPU Cooling Solution: The Peerless Assassin 120 SE by Thermalright - Now for an Unbeatable Price of $33</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-resource-for-advanced-hardware-knowledge-toms-hardware/"><u>The Definitive Resource for Advanced Hardware Knowledge - Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-hardware-by-tom-informed-choices-await/"><u>The Ultimate Guide to Hardware by Tom - Informed Choices Await!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-on-latest-gadgets/"><u>Tom's Tech Reviews - In-Depth Guides on Latest Gadgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-lava-yuva-3-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Lava Yuva 3 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-the-best-3d-printers-of-202-the-best-and-affordable-3d-models-for-diy-enthusiasts-fdm-resin-and-sub-250/"><u>Ultimate Guide to Selecting the Best 3D Printers of 202 The Best and Affordable 3D Models for DIY Enthusiasts (FDM, Resin & Sub-$250)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-mysteries-of-pc-gear-with-toms-hardware-insights/"><u>Unraveling the Mysteries of PC Gear with Tom's Hardware Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

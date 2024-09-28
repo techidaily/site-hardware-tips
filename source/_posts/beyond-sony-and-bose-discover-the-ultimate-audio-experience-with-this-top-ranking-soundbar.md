@@ -1,7 +1,7 @@
 ---
 title: "Beyond Sony and Bose: Discover the Ultimate Audio Experience with This Top-Ranking Soundbar!"
-date: 2024-09-19T00:27:09.472Z
-updated: 2024-09-21T23:25:01.625Z
+date: 2024-09-25T17:55:09.082Z
+updated: 2024-09-28T18:19:34.229Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,23 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-overcoming-compression-artifacts-on-youtube-videos/"><u>[New] Overcoming Compression Artifacts on YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-insiders-guide-to-recording-on-itunes/"><u>[Updated] 2024 Approved The Insider's Guide to Recording on iTunes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>[Updated] Crafting an Engaging Online Presence The Complete Guide to YouTube Submissions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-navigating-the-new-world-of-facebook-updates/"><u>2024 Approved Navigating the New World of Facebook Updates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-x5-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on X5.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanding-possibilities-with-raspberry-pi-hats-a-comprehensive-selection-guide/"><u>Expanding Possibilities with Raspberry Pi HATs - A Comprehensive Selection Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-fastest-nvme-storage-options-tailored-for-the-steam-deck-enthusiasts/"><u>Expert Recommendations: Fastest NVMe Storage Options Tailored for the Steam Deck Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-hub-for-computer-components-toms-hardware-unveiled/"><u>Expert Review Hub for Computer Components - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-corsairs-icue-link-h150i-rgb-sets-new-standards-for-graphics-card-customization-and-power/"><u>Expert Review: Corsair's iCUE Link H150i RGB Sets New Standards for Graphics Card Customization & Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-on-cutting-edge-computer-hardware-by-toms-team/"><u>Expert Reviews and Advice on Cutting-Edge Computer Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-gear-guidance-in-depth-analysis/"><u>Exploring Technology with Tom's Gear Guidance: In-Depth Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frozen-olympics-spectacular-2022-highlights/"><u>Frozen Olympics Spectacular 2022 Highlights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grizzlys-thermal-advancement-a-phase-changing-pad-for-optimal-temperature-regulation-starting-at-45c/"><u>Grizzly's Thermal Advancement: A Phase-Changing Pad for Optimal Temperature Regulation Starting at 45°C!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/webp-mastery-converting-to-jpeg/"><u>WebP Mastery Converting to JPEG</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-performance-boost-aoc-update-1659fwv/"><u>Windows Performance Boost: AOC Update 1659FWV</u></a></li>
+</ul></div>
 

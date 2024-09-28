@@ -1,7 +1,7 @@
 ---
 title: State Governments Implement Federal Policies with Adjustments for Local Needs.
-date: 2024-09-20T02:37:31.200Z
-updated: 2024-09-21T23:54:46.269Z
+date: 2024-09-27T18:26:47.060Z
+updated: 2024-09-28T18:48:00.995Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,18 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevating-your-brand-key-tactics-for-testimonial-vids/"><u>[New] 2024 Approved Elevating Your Brand Key Tactics for Testimonial Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-experts-guide-to-screencast-mastery-and-impactful-content/"><u>[New] 2024 Approved The Expert's Guide to Screencast Mastery and Impactful Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-vr-adventures-on-oculus-devices-for-2024/"><u>[New] Essential VR Adventures on Oculus Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-latest-in-video-capturing-apeaksoft-2023-edition-analysis-for-2024/"><u>[New] The Latest in Video Capturing Apeaksoft 2023 Edition Analysis for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-converting-your-cellphone-to-a-diy-video-recorder-for-2024/"><u>[Updated] Converting Your Cellphone to a DIY Video Recorder for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-hp-laptop-screen-recording-explained/"><u>[Updated] In 2024, Step-by-Step HP Laptop Screen Recording Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-pc-components-with-toms-hardware-guides/"><u>Exploring High-Performance PC Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-desktop-speaker-options-in-202n4-choices-for-every-budget-and-sound-enthusiast/"><u>Exploring the Best Desktop Speaker Options in 202N4: Choices for Every Budget and Sound Enthusiast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-set-with-arctics-newest-36-chillers-the-perfect-match-for-intels-next-gen-arrow-lake-and-lga1851-compatible-cpus/"><u>Get Set with Arctic's Newest 36 Chillers: The Perfect Match for Intel's Next-Gen Arrow Lake and LGA1851 Compatible CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-phrozen-sonic-mega-8k-s-styrene-resin-review-ideal-choice-for-printer-enthusiasts/"><u>In-Depth Phrozen Sonic Mega 8K S Styrene Resin Review: Ideal Choice for Printer Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-login-block-after-failure/"><u>Overcoming Windows Login Block After Failure</u></a></li>
+</ul></div>
 

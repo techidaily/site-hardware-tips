@@ -1,7 +1,7 @@
 ---
 title: Cross the Borders Effortlessly Using Just a QR Code - Say Goodbye to Passports!
-date: 2024-09-19 18:31:48
-updated: 2024-09-20 11:34:31
+date: 2024-09-24T18:29:21.599Z
+updated: 2024-09-28T17:51:59.818Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,32 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-pc-assembly-with-hytes-nexus-link-innovative-aio-cooler-and-user-friendly-wireless-connectivity/"><u>Experience the Future of PC Assembly with Hyte's Nexus Link: Innovative AIO Cooler & User-Friendly Wireless Connectivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolve-code-vein-game-crashes-effectively/"><u>Fixing the Issue: Resolve 'Code Vein' Game Crashes Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-stills-to-movies-a-pixiz-tutorial-for-photo-animators-for-2024/"><u>From Stills to Movies A Pixiz Tutorial for Photo Animators for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oppo-a38-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Oppo A38</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a2-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo A2 Device</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-video-play-speed/"><u>Optimizing Video Play Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-innovative-solutions-from-toms-hardware-universe/"><u>Tom's Tech Insights: Innovative Solutions From Tom's Hardware Universe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-save-75-on-the-lightning-fast-elegoo-neptune-4-pro-editors-pick/"><u>Unbeatable Deal: Save $75 on the Lightning-Fast Elegoo Neptune 4 Pro - Editors Pick!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125163188-unleash-ultimate-printing-power-with-a-discount-grab-elegoo-neptune-4-pro-at-75-off/"><u>Unleash Ultimate Printing Power with a Discount - Grab Elegoo Neptune 4 Pro at $75 Off</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-ultimate-airflow-comprehensive-insights-into-id-coolings-new-royalty-the-frozn-a720-and-a-review-guide/"><u>Unveiling Ultimate Airflow: Comprehensive Insights Into ID-Cooling's New Royalty – The FROZN A720 and A # Review Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

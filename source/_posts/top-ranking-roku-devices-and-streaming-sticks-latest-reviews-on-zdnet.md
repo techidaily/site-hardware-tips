@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Roku Devices & Streaming Sticks - Latest Reviews on ZDNet
-date: 2024-09-21T10:54:44.458Z
-updated: 2024-09-21T16:44:39.343Z
+date: 2024-09-27T16:07:41.116Z
+updated: 2024-09-28T18:49:38.074Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>[New] Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-delete-comments-from-youtube-with-minimal-hassle-for-2024/"><u>[Updated] How to Delete Comments From YouTube with Minimal Hassle for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-pedagogic-practices-with-a-focus-on-visual-materials/"><u>[Updated] In 2024, Pedagogic Practices with a Focus on Visual Materials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fiendish-freshman-filmmaker/"><u>2024 Approved Fiendish Freshman Filmmaker</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-masters-choice-top-10-precision-tools-for-downloading-vimeo-files/"><u>2024 Approved Master's Choice Top 10 Precision Tools for Downloading Vimeo Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-malfunction-critical-failure/"><u>Device Malfunction: Critical Failure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-enhance-your-ability-as-an-effective-interviewer/"><u>In 2024, Steps to Enhance Your Ability as an Effective Interviewer</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-os-settings-with-confidence/"><u>Mastering OS Settings with Confidence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-samsung-galaxy-a15-4g-converter-convert-mkv-for-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Samsung Galaxy A15 4G converter - convert MKV for Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-reviews-the-definitive-source-for-hardware-evaluations/"><u>Tom's Reviews: The Definitive Source for Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews/"><u>Tom's Tech Insights - Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-hardware-analysis/"><u>Tom's Tech Review - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review - In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-insights/"><u>Tom's Tech Reviews - Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
+</ul></div>
 

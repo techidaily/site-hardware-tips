@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Electricity Cost with These 5 Smart TV Adjustments: A Proven Strategy From ZDNet"
-date: 2024-09-15T09:19:33.107Z
-updated: 2024-09-21T20:15:17.867Z
+date: 2024-09-21T16:34:52.796Z
+updated: 2024-09-28T16:03:21.838Z
 tags:
   - tvs
 categories:
@@ -52,6 +52,13 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
@@ -94,6 +101,19 @@ Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Gaming 
 
 Where I was the most surprised with the Omni QLED is just how well it does with console gaming. I set up both my [PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlayStation-5-Console%2Fdp%2FB0BCNKKZ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and [Nintendo Switch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNintendo-Switch-OLED-Model-White-Joy%2Fdp%2FB098RKWHHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and ran this TV through every test and challenge I could think of. And the Omni Series QLED is more than capable of delivering a quality console gaming experience. 
@@ -119,6 +139,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -155,10 +182,10 @@ Animation is another area where this TV comes into its own. Whether you're watch
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bottom line 
@@ -168,13 +195,6 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -214,5 +234,24 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ssential-audio-enhancement-apps-for-youtubers-videos-for-2024/"><u>[New] Essential Audio Enhancement Apps for YouTubers' Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>[New] Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-experts-handbook-elevating-screencasting-proficiency-using-mobizen-technology/"><u>[New] In 2024, Expert's Handbook Elevating Screencasting Proficiency Using Mobizen Technology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-jotunheim-odyssey-warriors-of-yggdrasil/"><u>[New] In 2024, Jotunheim Odyssey Warriors of Yggdrasil</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-conceptions-unveiling-the-worlds-best-schools-for-stories-top-8/"><u>[Updated] Crafting Conceptions Unveiling the World's Best Schools for Stories (Top 8)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cracking-the-case-for-missing-signal-proc-on-pc/"><u>Cracking the Case for Missing Signal Proc on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>New How To Start a Private Live Stream on YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/three-simplified-steps-for-customizing-win11-ui/"><u>Three Simplified Steps for Customizing Win11 UI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-imaging-game-with-3dmakerpros-mole-3d-scanner-a-full-spectrum-evaluation/"><u>Transform Your Imaging Game with 3DMakerPro's Mole 3D Scanner - A Full Spectrum Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-specter-faults-a-comprehensive-tutorial-for-3d-printing-success/"><u>Troubleshooting Specter Faults - A Comprehensive Tutorial for 3D Printing Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/trustworthy-performance-analyses-by-tom-a-hardware-authority/"><u>Trustworthy Performance Analyses by Tom - A Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-troubleshooting-guide-solving-non-heating-issues-with-your-3d-printers-build-plate/"><u>Ultimate Troubleshooting Guide: Solving Non-Heating Issues with Your 3D Printer's Build Plate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/underperforming-thermal-grizzly-components-a-confession-from-der8auer/"><u>Underperforming Thermal Grizzly Components: A Confession From Der8auer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-technology-through-toms-lens/"><u>Unlocking the Secrets of Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/untangling-the-mystery-tips-to-keep-your-3d-printer-threads-free-of-knots/"><u>Untangling the Mystery: Tips to Keep Your 3D Printer Threads Free of Knots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-tech-the-inside-scoop-from-toms-hardware/"><u>Unveiling Top-Notch Tech: The Inside Scoop From Tom's Hardware</u></a></li>
+</ul></div>
 

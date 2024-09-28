@@ -1,7 +1,7 @@
 ---
 title: LG's Latest Audio Improvement Is a Game-Changer, Especially for Apple Enthusiasts | ZDNET Insider
-date: 2024-09-17T21:06:57.267Z
-updated: 2024-09-21T19:24:31.815Z
+date: 2024-09-26T16:00:46.960Z
+updated: 2024-09-28T19:07:41.904Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,23 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-premier-movie-access-on-facebook-ranked-8-list/"><u>[New] In 2024, Premier Movie Access on Facebook Ranked #8 List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cost-efficient-filmmaking-action-cams-under-100-guide/"><u>2024 Approved Cost-Efficient Filmmaking ACTION Cams Under $100 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-guide-to-soundtracks-instagrams-legalities-explained/"><u>A Complete Guide To Soundtracks Instagram’s Legalities Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-steps-to-design-impressive-facebook-slideshows-for-2024/"><u>Essential Steps to Design Impressive Facebook Slideshows for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ideal-pc-emulators-for-retro-ps1-gaming/"><u>In 2024, Ideal PC Emulators for Retro PS1 Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-6-online-networking-hubs-for-enterprises/"><u>Leading 6 Online Networking Hubs for Enterprises</u></a></li>
+<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-shopping-what-to-look-for-when-selecting-your-next-video-capturer/"><u>Smart Shopping: What to Look For When Selecting Your Next Video Capturer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-by-toms-expertise/"><u>The Ultimate Guide to Tech by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-computing-technology/"><u>Tom's Guide to Cutting-Edge Computing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-tech-and-top-pc-components-for-enthusiasts/"><u>Tom's Guide to Cutting-Edge Tech and Top PC Components for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-next-gen-computer-components-and-devices/"><u>Tom's Guide to Next-Gen Computer Components and Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-station-the-ultimate-guide-to-computing-equipment/"><u>Tom's Review Station: The Ultimate Guide to Computing Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-leading-the-way-in-computer-components/"><u>Tom's Tech Hub: Leading the Way in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews: In-Depth Analysis and Guides</u></a></li>
+</ul></div>
 

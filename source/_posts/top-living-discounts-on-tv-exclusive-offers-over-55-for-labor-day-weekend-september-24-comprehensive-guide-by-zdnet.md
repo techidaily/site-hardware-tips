@@ -1,7 +1,7 @@
 ---
 title: "Top Living Discounts on TV: Exclusive Offers Over 55 for Labor Day Weekend, September '24 - Comprehensive Guide by ZDNet"
-date: 2024-09-17T05:32:29.262Z
-updated: 2024-09-22T10:54:06.256Z
+date: 2024-09-26T17:57:11.208Z
+updated: 2024-09-28T19:08:05.668Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,16 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-popsicle-projector-detailed-tutorial-on-screen-capture-tech/"><u>[New] In 2024, Popsicle Projector Detailed Tutorial on Screen Capture Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oppo-a78-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Oppo A78</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-is-facebook-better-for-vertical-videos/"><u>In 2024, Is Facebook Better for Vertical Videos?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-rebooting-quick-tips-for-macbook-pro-users/"><u>Master the Art of Rebooting: Quick Tips for MacBook Pro Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-new-tech-trends-the-expertise-from-toms-hardware/"><u>Uncovering New Tech Trends: The Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-at-computex-adatas-hybrid-cooling-solution-air-and-water-synergy-for-pc-enthusiasts-plus-a-sneak-peek-into-new-psus-and-pcie-50-flash-storage/"><u>Unveiling at Computex: ADATA's Hybrid Cooling Solution - Air & Water Synergy for PC Enthusiasts; Plus a Sneak Peek Into New PSUs and PCIe 5.0 Flash Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-comprehensive-insights/"><u>Unveiling the Latest Gadgets with Tom - Comprehensive Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-hardware-with-tom-the-expert-insight/"><u>Unveiling the Secrets of Hardware with Tom - The Expert Insight</u></a></li>
+</ul></div>
 

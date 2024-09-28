@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Savings: Explore Why Our Top Picks Consider This Samsung TV, Now 43%% Off, the Ultimate Smart TV Offer | ZDNET Reviews"
-date: 2024-09-18T23:07:44.489Z
-updated: 2024-09-22T05:05:20.454Z
+date: 2024-09-23T17:21:23.758Z
+updated: 2024-09-28T18:51:03.903Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-reviewing-sj7s-4k-action-cam-capturing-life-to-perfection/"><u>[New] Reviewing SJ7’s 4K Action Cam - Capturing Life to Perfection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[Updated] 2024 Approved Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-instant-subtitling-hacks-for-all-your-facebook-videos/"><u>[Updated] In 2024, Instant Subtitling Hacks for All Your Facebook Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>[Updated] In 2024, Quick Quality Quilting Turning Photographic Patterns Into Cartoons</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-gaming-pcs-of-2024-unveiled-a-collection-of-benchmarks-reviews-and-expert-opinions/"><u>Leading Gaming PCs of 2024 Unveiled: A Collection of Benchmarks, Reviews & Expert Opinions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-detailed-breakdowns-from-toms-hardware-guides/"><u>Mastering Tech: Detailed Breakdowns From Tom's Hardware Guides</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-converting-powerpoint-slideshows-to-video-format-in-office-2007-a-three-step-guide/"><u>Mastering the Art of Converting PowerPoint Slideshows to Video Format in Office 2007: A Three-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mingda-magic-pen-ii-evaluation-robust-design-and-silent-operation/"><u>Mingda Magic Pen II Evaluation: Robust Design and Silent Operation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-electronics-toms-hardware-resource/"><u>Navigate the World of Electronics - Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-showdown-eight-degree-difference-sees-pumpless-giant-trailing-behind-classic-cooling-systems-in-rigorous-assessments/"><u>Performance Showdown: Eight-Degree Difference Sees Pumpless Giant Trailing Behind Classic Cooling Systems in Rigorous Assessments</u></a></li>
+</ul></div>
 

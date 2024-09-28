@@ -1,7 +1,7 @@
 ---
 title: "OLED Flagships Face-Off: LG G4 Vs. Samsung S95D - Top Pick for Your Ultimate Viewing Experience | ZDNET Guide"
-date: 2024-09-20T09:55:37.830Z
-updated: 2024-09-21T16:13:38.813Z
+date: 2024-09-26T16:22:37.700Z
+updated: 2024-09-28T19:56:18.850Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +103,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-average-playback-period-in-high-res-20mb-content/"><u>[New] 2024 Approved Average Playback Period in High-Res 20MB Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-practices-in-selecting-youtube-video-extractor-apps-for-android/"><u>[New] 2024 Approved Best Practices in Selecting YouTube Video Extractor Apps for Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-podcasts-on-googles-platform/"><u>[Updated] Optimizing Podcasts on Google's Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-reviewed-dive-into-toms-world-of-electronics/"><u>Advanced Hardware Reviewed - Dive Into Tom's World of Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bamboo-laboratorys-ultra-fast-bed-slinger-unveiling-the-a1-model-on-dec-14th/"><u>Bamboo Laboratory's Ultra-Fast Bed Slinger: Unveiling the A1 Model on Dec. 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-your-dream-rig-with-expert-advice-from-toms-hardware-specialists/"><u>Build Your Dream Rig with Expert Advice From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-leading-password-protection-tools-unlimited-access-at-no-charge-and-paid-plans/"><u>Comparing Leading Password Protection Tools: Unlimited Access at No Charge and Paid Plans</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-solution-for-asus-pce-ac56-wireless-network-card-drivers-issues-in-latest-windows-versions/"><u>Comprehensive Solution for Asus PCE-AC56 Wireless Network Card Drivers Issues in Latest Windows Versions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/consumer-beware-only-50-of-advertised-top-tier-watercoolers-actually-incorporate-promoted-copper-components-study-finds/"><u>Consumer Beware: Only 50% of Advertised Top-Tier Watercoolers Actually Incorporate Promoted Copper Components, Study Finds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooling-industry-controversy-cooler-masters-legal-challenge-to-protect-pump-radiator-invention/"><u>Cooling Industry Controversy: Cooler Master's Legal Challenge to Protect Pump Radiator Invention</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-device-reviews-from-the-team-at-toms-tech-desk/"><u>Cutting-Edge Device Reviews From the Team at Tom's Tech Desk</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-command-line-tools-to-ping-any-website-and-test-latency/"><u>How to Use Command Line Tools to Ping Any Website and Test Latency</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-affordable-aerial-acrobats-best-bargain-drones-for-(500/"><u>In 2024, Affordable Aerial Acrobats Best Bargain Drones for <$500</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simple-steps-seamlessly-syncing-your-iphone-playlists-with-itunes/"><u>Simple Steps: Seamlessly Syncing Your iPhone Playlists with iTunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ringtones-for-pixels-where-to-download-in-2024/"><u>Top Ringtones for Pixels Where to Download, In 2024</u></a></li>
+</ul></div>
 

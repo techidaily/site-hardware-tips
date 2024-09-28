@@ -1,7 +1,7 @@
 ---
 title: "Top 30 Amazing Cyber Monday Sales: Unbeatable Amazon Echo Offers - Now Gone"
-date: 2024-09-16T17:36:26.024Z
-updated: 2024-09-22T05:23:20.650Z
+date: 2024-09-26T16:11:20.516Z
+updated: 2024-09-28T19:44:42.889Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,19 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +72,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +96,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-is-auroras-premium-tech-a-wise-investment/"><u>[Updated] Is Aurora's Premium Tech a Wise Investment?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[Updated] Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-digital-artists-10-favorite-background-switchers/"><u>2024 Approved Digital Artists' 10 Favorite Background Switchers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes/"><u>2024 Approved The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>2024 Approved Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016641166-beyond-the-wire-microphone-troubleshooting-a-complete-fix-guide-to-restore-sound-output/"><u>Beyond The Wire Microphone Troubleshooting: A Complete Fix Guide to Restore Sound Output!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-software-updates-how-to-download-msi-z370-a-pro-drivers-efficiently/"><u>Essential Software Updates: How to Download MSI Z370-A Pro Drivers Efficiently</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-bandicam-unveiled-a-thorough-examination-of-its-recording-capabilities/"><u>In 2024, Bandicam Unveiled A Thorough Examination of Its Recording Capabilities</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-c67-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme C67 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-comprehensive-reviews-and-tech-insights/"><u>Tom's Computer Gear - Comprehensive Reviews & Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-insights/"><u>Tom's Computer Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-digital-diary-a-journey-through-cutting-edge-hardware-discoveries/"><u>Tom's Digital Diary: A Journey Through Cutting-Edge Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-world-of-hardware/"><u>Tom's Tech Insights: Exploring the World of Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide/"><u>Tom's Tech Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-gadgets-and-pc-components/"><u>Tom's Tech Reviews: Unveiling the Latest Gadgets and PC Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-hardware-picks-and-performance-tests-by-professionals-at-toms-hardware/"><u>Top Hardware Picks and Performance Tests by Professionals at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-3d-printing-with-elegoo-neptune-4-pro-fast-accurate-results-at-unbeatable-prices/"><u>Top-Tier 3D Printing with Elegoo Neptune 4 Pro - Fast, Accurate Results at Unbeatable Prices</u></a></li>
+</ul></div>
 

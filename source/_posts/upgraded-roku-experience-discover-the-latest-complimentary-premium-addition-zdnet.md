@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Roku Experience: Discover the Latest Complimentary Premium Addition | ZDNet"
-date: 2024-09-21T07:52:33.091Z
-updated: 2024-09-21T23:32:52.113Z
+date: 2024-09-21T19:29:40.197Z
+updated: 2024-09-28T16:50:18.102Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-video-editing-apps-for-youtube-creators-for-2024/"><u>[New] Essential Video Editing Apps for YouTube Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[New] In 2024, From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-content-advanced-youtube-video-editing-strategies/"><u>[New] In 2024, Streamline Content Advanced Youtube Video Editing Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/"><u>Essential AI Technologies Every Entrepreneur Must Explore</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fubotv-integration-install-and-enjoy-live-sports-and-shows-on-firestick/"><u>FuboTV Integration: Install and Enjoy Live Sports & Shows on Firestick</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2016-file-by-stellar-guide/"><u>How Do I Restore Excel 2016 File ?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-cinematographer-secrets-for-exceptional-visuals/"><u>In 2024, Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-microsd-cards-for-your-raspberry-pi-needs-2024-edition/"><u>The Ultimate Selection of MicroSD Cards for Your Raspberry Pi Needs - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-part-reviews-and-advice/"><u>Tom's Computer Part Reviews and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-on-latest-gadgets/"><u>Tom's Tech Insights: Expert Reviews on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-and-insights/"><u>Tom's Tech Review: In-Depth Guide and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-insights-into-the-latest-computer-hardware/"><u>Tom's Tech Reviews: Insights Into the Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-thermal-compounds-for-cpu-cooling-comprehensive-ranking-of-90-products/"><u>Top Rated Thermal Compounds for CPU Cooling : Comprehensive Ranking of 90 Products</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-gadget-wisdom/"><u>Unlocking Performance Secrets with Tom's Gadget Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveil-advanced-gadgets-through-toms-comprehhardware-overview/"><u>Unveil Advanced Gadgets Through Tom's Compreh#Hardware Overview</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-rtx-2070-super-drivers-compatible-with-windows-1011-download-guide/"><u>Update Your RTX 2070 Super Drivers: Compatible with Windows 10/11 - Download Guide</u></a></li>
+</ul></div>
 

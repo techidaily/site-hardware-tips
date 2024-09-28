@@ -1,7 +1,7 @@
 ---
 title: "Huge Discount Alert: Secure Your Premium Amazon Fire TV Omnia QLED for 60%% Off – Limited Time Only | ZDNET"
-date: 2024-09-15T20:50:10.545Z
-updated: 2024-09-22T02:40:13.400Z
+date: 2024-09-22T16:18:59.407Z
+updated: 2024-09-28T18:18:00.299Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-transforming-team-conversation-windows-pre-and-post-calls/"><u>[New] Transforming Team Conversation Windows Pre & Post-Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transcendence-in-music-mixing-crossfade-unveiled/"><u>2024 Approved Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-guidance-by-toms-electronics-hub/"><u>Advanced Gadget Guidance by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125178985-black-friday-deal-of-the-year-snag-the-cutting-edge-thrifty-beginner-4k-resin-3d-printer-at-an-unbeatable-44-discounted-rate/"><u>Black Friday Deal of the Year: Snag the Cutting-Edge 'Thrifty Beginner 4K Resin' 3D Printer at an Unbeatable 44% Discounted Rate</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971714850-effortless-setup-with-behringers-professional-usb-audio-driver-start-here/"><u>Effortless Setup with Behringer's Professional USB Audio Driver - Start Here!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuite-et-optimisee-pour-haute-definition-top-player-video-h265-hevc-compatible-uhd-sur-windows-11-and-mac-annee-2020/"><u>Gratuite Et Optimisée Pour Haute Définition - Top Player Video H.265 HEVC Compatible UHD Sur Windows 11 & Mac, Année 2020</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensive-guide-to-video-editing-with-filmora/"><u>In 2024, The Comprehensive Guide to Video Editing with Filmora</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125181334-inside-toms-computing-world-discover-top-picks-for-memory-cpus-and-more/"><u>Inside Tom's Computing World: Discover Top Picks for Memory, CPUs & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175697127-introducing-pink-caulking-gun-style-thermal-gel-the-perfect-replacement-for-old-thermal-pads-and-gap-filers/"><u>Introducing Pink Caulking Gun-Style Thermal Gel: The Perfect Replacement for Old Thermal Pads and Gap Filers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-optimal-frame-rates-tackling-the-challenges-of-dying-light-grove-2-performance/"><u>Mastering Optimal Frame Rates: Tackling the Challenges of Dying Light Grove 2 Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125167724-revealing-the-true-potential-of-anycubic-kobra-2-max-unmatched-quality/"><u>Revealing the True Potential of Anycubic Kobra 2 Max - Unmatched Quality!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitter-when-using-windows-11-systems/"><u>Troubleshooting Bluetooth Audio Jitter When Using Windows 11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-mystery-7-common-fixes-for-iphone-screen-issues/"><u>Unlock the Mystery: 7 Common Fixes for iPhone Screen Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-components-at-toms-tech-zone/"><u>Unveiling New Gadgets and Components at Tom's Tech Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-components-at-toms-digital-workshop/"><u>Unveiling the Latest in Computer Components at Tom's Digital Workshop</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/viral-anime-themed-videos-for-tiktok-success/"><u>Viral Anime-Themed Videos for TikTok Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-hot-40-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Hot 40 Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-upgrade-to-scythes-mugen-series-models-6-and-6-black-for-optimal-silent-operation-without-breaking-the-bank/"><u>Why Upgrade to Scythe's Mugen Series (Models 6 & 6 Black) for Optimal Silent Operation Without Breaking the Bank?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-guide-to-hardware-mastery-discover-top-picks-at-toms-tech-destination/"><u>Your Guide to Hardware Mastery - Discover Top Picks at Tom's Tech Destination</u></a></li>
+</ul></div>
 

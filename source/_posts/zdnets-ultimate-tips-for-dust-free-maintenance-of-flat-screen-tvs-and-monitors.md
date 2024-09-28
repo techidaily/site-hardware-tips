@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Ultimate Tips for Dust-Free Maintenance of Flat Screen TVs and Monitors
-date: 2024-09-17T09:27:10.611Z
-updated: 2024-09-21T17:04:45.228Z
+date: 2024-09-22T17:40:11.271Z
+updated: 2024-09-28T19:09:02.290Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-discovering-all-in-youtube-shorts-guide/"><u>[New] Discovering All in YouTube Shorts Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-craft-instagram-visuals-mac-techniques-for-video-scaling/"><u>[Updated] In 2024, Craft Instagram Visuals Mac Techniques for Video Scaling</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/editorelite-roundup-full-overview-of-androvid/"><u>EditorElite Roundup – Full Overview of AndroVid</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-htc-u23-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your HTC U23 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-v27-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo V27 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x50-gt-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X50 GT by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microencapsulation-is-a-technique-where-healing-agents-are-released-upon-crack-formation-through-broken-microcapsules-in-the-concrete-mix/"><u>Microencapsulation Is a Technique Where Healing Agents Are Released upon Crack Formation Through Broken Microcapsules in the Concrete Mix.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-workstation-cpu-rankings-2024-best-performance-picks/"><u>Professional Workstation CPU Rankings 2024 - Best Performance Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-splitting-a-model-into-parts-for-easier-3d-printing/"><u>Step-by-Step Guide: Splitting a Model Into Parts for Easier 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorials-on-creating-your-own-lithophane-prints-with-3d-technology/"><u>Step-by-Step Tutorials on Creating Your Own Lithophane Prints with 3D Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/substandard-material-found-caseking-stops-selling-barrow-dabel-radiators-following-latest-aio-quality-checks/"><u>Substandard Material Found: CaseKing Stops Selling Barrow Dabel Radiators Following Latest AIO Quality Checks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-resin-3d-printers/"><u>The Ultimate Guide to the Best Resin 3D Printers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-kobo-forma-ereader-perfecting-your-book-enthusiasts-journey/"><u>The Ultimate Guide to the Kobo Forma eReader: Perfecting Your Book Enthusiast's Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-exploring-the-latest-in-computing-and-gadgets/"><u>Tom's Tech Hub - Exploring the Latest in Computing and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest in Computer Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-keyboard-arrows-effective-solutions-and-tips/"><u>Troubleshooting Stuck Keyboard Arrows: Effective Solutions & Tips!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Sale Alert: Discover the Ultimate Guide to Buying High-Quality QLED TVs for Half Price - Tips From ZDNET Tech Experts"
-date: 2024-09-19T11:00:37.763Z
-updated: 2024-09-22T09:55:21.925Z
+date: 2024-09-25T16:29:27.177Z
+updated: 2024-09-28T16:04:30.522Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,19 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-vlogging-game-with-tripod-mastery-for-2024/"><u>[New] Elevate Your Vlogging Game with Tripod Mastery for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-mac-video-frames-catalog-max-156-chars/"><u>[Updated] Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-addicted-to-boomerangs-mastering-ig-loop-artistry/"><u>2024 Approved Addicted to Boomerangs Mastering IG Loop Artistry</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-blistering-pace-with-bamboo-labs-a1-bed-slinger-coming-soon-december-14th/"><u>Experience Blistering Pace with Bamboo Lab's A1 Bed Slinger - Coming Soon, December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-converting-regular-fridge-components-into-a-diy-liquid-nitrogen-source/"><u>Expertly Converting Regular Fridge Components Into a DIY Liquid Nitrogen Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-breakthrough-creating-lifelike-wooden-artifacts-with-3d-printed-sawdust/"><u>Innovative Breakthrough: Creating Lifelike Wooden Artifacts with 3D-Printed Sawdust</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-showcased-by-toms-hardware-specialists/"><u>Innovative Electronics Showcased by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intellectual-property-dispute-cooler-master-challenges-competitors-for-copying-patented-radial-flow-cooling-system/"><u>Intellectual Property Dispute: Cooler Master Challenges Competitors for Copying Patented Radial Flow Cooling System</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-setup-a-comprehensive-guide-to-activate-bluetooth-on-your-pc-windows-1110/"><u>Master the Setup: A Comprehensive Guide to Activate Bluetooth on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-youtube-image-enlargement-technique/"><u>Step-by-Step Youtube Image Enlargement Technique</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-s23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel S23? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/teaser-alert-exclusive-rumors-on-google-pixel-buds-pro-2-specs-launch-timeline-and-cost/"><u>Teaser Alert: Exclusive Rumors on Google Pixel Buds Pro 2 Specs, Launch Timeline, and Cost</u></a></li>
+</ul></div>
 

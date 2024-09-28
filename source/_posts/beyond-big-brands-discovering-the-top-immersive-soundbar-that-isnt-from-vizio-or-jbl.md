@@ -1,7 +1,7 @@
 ---
 title: "Beyond Big Brands: Discovering The Top Immersive Soundbar That Isn't From Vizio or JBL"
-date: 2024-09-15T17:23:09.832Z
-updated: 2024-09-22T04:02:21.356Z
+date: 2024-09-21T17:12:15.144Z
+updated: 2024-09-28T16:40:32.722Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems-for-2024/"><u>[Updated] Unveiling the World of Haptic Navigation Systems for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-list-of-excellence-8k-cameras-reviewed-for-2024/"><u>A-List of Excellence 8K Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-avoiding-knots-in-your-3d-printing-filaments/"><u>Effective Strategies for Avoiding Knots in Your 3D Printing Filaments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-technology-by-tom-hardware-experts/"><u>Expert Insights Into Technology by Tom Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovative-technology-through-toms-component-analysis/"><u>Exploring Innovative Technology Through Tom's Component Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-complexities-of-homemade-weapons-with-3d-printing-my-experiment/"><u>Exploring the Complexities of Homemade Weapons with 3D Printing: My Experiment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-gadgets-with-toms-hardware-insights/"><u>Exploring the Latest in Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-insider-guides/"><u>Exploring the Latest in Technology with Tom's Insider Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-speed-computing-unleashed-in-depth-review-of-two-trees-sk1-and-its-open-source-advantage/"><u>High-Speed Computing Unleashed: In-Depth Review of 'Two Trees' SK1 and Its Open-Source Advantage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-correct-pachyderm-pedal-disorders-during-3d-fabrication/"><u>How to Correct Pachyderm Pedal Disorders During 3D Fabrication</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-k70-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi K70 Pro online without jailbreak</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immaculate-image-freezing-your-desktop-view-for-2024/"><u>Immaculate Image Freezing Your Desktop View for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-cloud-storage-solutions-mematic-app/"><u>In 2024, Innovative Cloud Storage Solutions Mematic App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-m6-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco M6 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-adding-multimedia-elements-to-your-flipbook-ebook-with-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Multimedia Elements to Your Flipbook eBook with FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unresponsive-keyboards-on-apple-devices-solve-the-problem-in-6-simple-steps/"><u>Unresponsive Keyboards on Apple Devices? Solve the Problem in 6 Simple Steps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mp3-cutter-for-mac-which-is-the-best-mp3-cutter-on-mac/"><u>Updated 2024 Approved MP3 Cutter for Mac - Which Is the Best MP3 Cutter on Mac?</u></a></li>
+</ul></div>
 

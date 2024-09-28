@@ -1,7 +1,7 @@
 ---
 title: "Affordable Excellence: Top Recommended Sony Bravia Deal Now Available | Tech Insights"
-date: 2024-09-16T00:40:14.589Z
-updated: 2024-09-22T02:00:19.350Z
+date: 2024-09-27T18:43:35.796Z
+updated: 2024-09-28T17:00:31.736Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/haking-up-the-status-quo-unique-naming-tips-for-filmmakers/"><u>[New] Shaking Up the Status Quo Unique Naming Tips for Filmmakers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-blueprint-of-content-creation-on-youtube-for-2024/"><u>[Updated] The Financial Blueprint of Content Creation on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagrams-most-active-hours/"><u>2024 Approved Mastering Instagram's Most Active Hours</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-reviews-and-comparisons-from-toms-hardware-specialists/"><u>Advanced Tech Reviews and Comparisons From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-unveils-groundbreaking-ai-enhanced-ecam-cooling-system-pioneering-production-via-advanced-3d-metal-additive-manufacturing-and-partnership-with-fabric1/"><u>Asetek Unveils Groundbreaking AI-Enhanced ECAM Cooling System - Pioneering Production via Advanced 3D Metal Additive Manufacturing and Partnership with Fabric8 Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehve-toms-electronics-your-go-to-source-for-hardware-trends/"><u>Comprehve Tom’s Electronics: Your Go-To Source for Hardware Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125135360-december-14th-marks-the-release-of-bamboolabs-cutting-edge-bed-slinger-the-next-generation-a1-3d-printer-for-rapid-production/"><u>December 14Th Marks the Release of BambooLab's Cutting-Edge Bed Slinger - The Next Generation A1 3D Printer for Rapid Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-reviews-toms-tech-wisdom/"><u>Dive Into Hardware Reviews - Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dual-cpu-mastery-discover-the-power-of-silverstones-revolutionary-xe360-dual-aio-cooler/"><u>Dual-CPU Mastery: Discover the Power of SilverStone's Revolutionary XE360-Dual AIO Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125175529-elegoos-high-tech-3d-printer-neptune-x4-pro-now-a-steal-at-284/"><u>Elegoo's High-Tech 3D Printer - Neptune X4 Pro Now a Steal at $284!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175652746-heavenly-computer-components-await-embrace-the-pleasant-surprise-of-flower-scented-thermal-paste/"><u>Heavenly Computer Components Await: Embrace the Pleasant Surprise of Flower-Scented Thermal Paste</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xls files</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-the-tp-link-archer-a7-powerful-performance-at-an-affordable-price-below-100/"><u>Review of the TP-Link Archer A7: Powerful Performance at an Affordable Price Below $100</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-2023-guide-to-watching-fb-live-for-2024/"><u>The Ultimate 2023 Guide to Watching FB Live for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-t2-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo T2 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

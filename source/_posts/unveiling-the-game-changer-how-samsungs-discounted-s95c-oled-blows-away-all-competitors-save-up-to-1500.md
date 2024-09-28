@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: How Samsung's Discounted S95C OLED Blows Away All Competitors - Save Up To $1,500!"
-date: 2024-09-18T03:11:50.984Z
-updated: 2024-09-22T08:05:18.800Z
+date: 2024-09-25T19:22:09.075Z
+updated: 2024-09-28T18:08:56.672Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-masterclass-approach-unveiling-the-secrets-of-flawless-mobizen-recordings/"><u>[New] Masterclass Approach Unveiling the Secrets of Flawless Mobizen Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cutting-edge-filmmaking-on-your-ios-device-for-2024/"><u>[Updated] Cutting-Edge Filmmaking on Your iOS Device for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iuoajoodleocoeocpoodqpluswcppluse4ruakgoihkplusockueqhuinoplusobmeocizrpnz7lnkfnuk7jgihlj6pgiblnkfnuk7jgihpnz7lj6pgiblnkfvv70i/"><u>「ファイル圧縮技術を理解する:非圧縮、可逆圧縮、非可逆圧�</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-for-perfect-3d-printing-overcoming-the-challenge-of-pillow-like-texture-defects/"><u>Advanced Tips for Perfect 3D Printing: Overcoming the Challenge of Pillow-Like Texture Defects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-id-coolings-frozn-a410-and-a610-is-it-worth-the-money/"><u>Breaking Down ID-Cooling's FROZN A410 & A610 - Is It Worth the Money?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creality-reveals-official-release-details-and-specifications-of-the-powerful-k1c-3d-printer/"><u>Creality Reveals Official Release Details & Specifications of the Powerful K1C 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-digital-tools-through-toms-comprehensive-reviews/"><u>Deciphering Digital Tools Through Tom's Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-gaming-rigs-your-guide-to-buying-a-new-pc/"><u>Elite Gaming Rigs: Your Guide to Buying a New PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-elegoo-neptune-4-pro-with-supersonic-printing-and-universe-inspired-quality/"><u>Expert Analysis: Elegoo Neptune 4 Pro with Supersonic Printing and Universe-Inspired Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-hardware-insights/"><u>Exploring Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hands-on-with-the-new-cycwagen-cargo-e-bike/"><u>Hands-On With the New CycWagen Cargo E-Bike</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a79-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A79 5G Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-9-powerful-youtube-video-downloader-for-android/"><u>In 2024, 9 Powerful YouTube Video Downloader for Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967623247-resolved-free-downloads-of-updated-wireless-card-drivers/"><u>Resolved! Free Downloads of Updated Wireless Card Drivers.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-the-full-potential-innovative-techniques-for-youtube-end-screen-designs-for-2024/"><u>Unlocking the Full Potential Innovative Techniques for Youtube End Screen Designs for 2024</u></a></li>
+</ul></div>
 

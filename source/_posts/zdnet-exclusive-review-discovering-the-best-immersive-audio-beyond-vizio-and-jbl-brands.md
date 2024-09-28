@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive Review: Discovering the Best Immersive Audio Beyond Vizio and JBL Brands"
-date: 2024-09-19T06:45:15.880Z
-updated: 2024-09-22T10:16:47.488Z
+date: 2024-09-21T19:17:38.827Z
+updated: 2024-09-28T18:48:44.262Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leading-tools-to-monitor-hashtags-on-fb-twitter-and-instagram/"><u>[New] 2024 Approved Leading Tools to Monitor Hashtags on FB, Twitter & Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages-for-2024/"><u>[Updated] Exploring the Mystery of the Blue Video Symbol on FB Messages for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-the-secrets-of-obs-game-capture/"><u>[Updated] In 2024, Unveiling the Secrets of OBS Game Capture</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-delays-getting-the-mass-effect-legendary-edition-to-run-smoothly/"><u>Dealing with Delays: Getting the Mass Effect Legendary Edition to Run Smoothly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-personal-health-with-chatgpt-top-9-applications/"><u>Enhancing Personal Health with ChatGPT: Top 9 Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-view-iphoneipad-zooming-techniques-unveiled/"><u>Expand Your View: IPhone/iPad Zooming Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-hardware-by-toms-hardware-experts/"><u>In-Depth Analysis of Modern Hardware by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-electronics-analysis-and-reviews-by-toms-digital-workshop/"><u>In-Depth Electronics Analysis and Reviews by Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-impact-of-using-the-cooler-master-ion-360-liquid-cpu-cooling-system/"><u>In-Depth Review: The Impact of Using the Cooler Master ION 360 Liquid CPU Cooling System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-tips-by-toms-gadget-experts/"><u>In-Depth Reviews and Tips by Tom's Gadget Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-insights-on-computers-and-components-by-toms-hardware-experts/"><u>Innovative Insights on Computers and Components by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-hacks-for-hardware-enthusiasts-dive-into-toms-comprehensive-guide/"><u>Masterful Hacks for Hardware Enthusiasts - Dive Into Tom's Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computing-a-deep-dive-into-toms-hardware-insights/"><u>Mastering Modern Computing: A Deep Dive Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/qualitysnap-video-reporter-checkup/"><u>QualitySnap Video Reporter Checkup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-6-methods-for-transferring-dvd-content-onto-your-pc/"><u>Top 6 Methods for Transferring DVD Content Onto Your PC</u></a></li>
+</ul></div>
 

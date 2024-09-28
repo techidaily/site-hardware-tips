@@ -1,7 +1,7 @@
 ---
 title: "Shattering Expectations: A Deep Dive Into the Best Non-Sony, Non-Bose Immersive Soundbar Revealed | Tech Review"
-date: 2024-09-15T10:17:23.678Z
-updated: 2024-09-22T04:31:37.539Z
+date: 2024-09-23T17:04:28.862Z
+updated: 2024-09-28T18:15:53.843Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-building-connections-with-your-channels-audience-for-2024/"><u>[New] Building Connections with Your Channel's Audience for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-fastest-and-most-reliable-sd-memory-cards-for-your-raspberry-pi-projects/"><u>2024'S Top Picks: Fastest and Most Reliable SD Memory Cards for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-diy-projects-how-to-build-a-custom-3d-printed-qr-code-maker/"><u>Advanced DIY Projects: How to Build a Custom 3D-Printed QR Code Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175661765-experience-a-chilling-upgrade-with-the-ek-solution-cpu-cooler-witness-up-to-20c-drop-in-intel-core-i9-1efficiency/"><u>Experience a Chilling Upgrade with the EK Solution CPU Cooler - Witness up to 20°C Drop in Intel Core I9-1efficiency</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-honor-x50-gt-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Honor X50 GT</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-create-a-video-anthology-for-listing/"><u>In 2024, Create a Video Anthology for Listing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175655256-intels-next-gen-arrow-lake-cpus-compatible-with-new-arctic-36x36-cooler-prepare-your-setup/"><u>Intel's Next-Gen Arrow Lake CPUs Compatible with New Arctic 36X36 Cooler - Prepare Your Setup!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187498-revolutionary-printing-speed-attained-modified-3d-printer-renders-speed-benchy-model-in-record-time/"><u>Revolutionary Printing Speed Attained: Modified 3D Printer Renders 'Speed Benchy' Model in Record Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125260561-title/"><u>Title:</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-7-solutions-to-the-overwatch-2-launch-issue-problems-resolved/"><u>Top 7 Solutions to the Overwatch 2 Launch Issue : Problems Resolved</u></a></li>
+<li><a href="https://fox-http.techidaily.com/transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dell-laptops-black-screen-issue/"><u>Ultimate Troubleshooting Guide: Resolving the Dell Laptop's Black Screen Issue</u></a></li>
+</ul></div>
 

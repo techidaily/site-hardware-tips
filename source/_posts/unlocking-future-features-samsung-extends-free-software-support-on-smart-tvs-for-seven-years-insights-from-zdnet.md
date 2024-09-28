@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Features: Samsung Extends Free Software Support on Smart TVs for Seven Years - Insights From ZDNet"
-date: 2024-09-15T07:49:02.219Z
-updated: 2024-09-22T02:27:18.117Z
+date: 2024-09-22T19:45:14.136Z
+updated: 2024-09-28T18:23:29.813Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube-for-2024/"><u>[New] Enhancing Viewer Experience with Immersive 360 Video Content for YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-png-alterations-guide/"><u>2024 Approved Ultimate PNG Alterations Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-cooling-solutions-reviewed-thermalright-and-aquaelite-advanced-ice-free-360-white-v3-series/"><u>Affordable Cooling Solutions Reviewed: Thermalright and AquaElite Advanced Ice-Free 360 White V3 Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/all-about-tech-expert-advice-and-in-depth-analysis-by-toms-hardware/"><u>All About Tech: Expert Advice & In-Depth Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175725083-benchmarking-the-best-comprehensive-test-results-for-120mm-all-in-one-coolers-by-be-quiet-corsair-etc/"><u>Benchmarking the Best - Comprehensive Test Results for 120Mm All-in-One Coolers by Be Quiet, Corsair, Etc.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bold-disclosure-of-vulnerability-as-hackers-break-into-anycubics-3d-printer-network/"><u>Bold Disclosure of Vulnerability as Hackers Break Into Anycubic's 3D Printer Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-uphere-c5c-and-d6sec-air-cooler-evaluation-great-value-under-20/"><u>Budget-Friendly UpHere C5C & D6Sec Air Cooler Evaluation - Great Value Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125124140-celebrity-actress-felicia-day-ventures-into-3d-printing-shares-her-models-with-fans-for-free/"><u>Celebrity Actress Felicia Day Ventures Into 3D Printing, Shares Her Models with Fans for Free!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/come-scaricare-e-convertire-i-tuoi-video-vhs-in-formato-dvd-per-la-tua-pc/"><u>Come Scaricare E Convertire I Tuoi Video VHS in Formato DVD per La Tua PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-analysis-and-latest-insights-on-dfx-audio-enhancer-full-review-unveiled/"><u>Comprehensive Analysis and Latest Insights on DFX Audio Enhancer - Full Review Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lan-access-blockades-in-winmc/"><u>Overcoming LAN Access Blockades in WinMC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-14-ultra-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 14 Ultra Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/thumbnail-design-101-for-video-promotion-on-youtube/"><u>Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-additive-fabrication-the-new-flagship-k1c-and-revamped-ender-3-v3-from-creality/"><u>Unveiling the Future of Additive Fabrication: The New Flagship K1C and Revamped Ender 3 V3 From Creality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-fabrication-at-rapid-and-tct-2024-spotlight-on-cutting-edge-printers-materials-and-tech/"><u>Unveiling the Future of Fabrication at Rapid & TCT 2024: Spotlight on Cutting-Edge Printers, Materials & Tech</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-pop-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Pop 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-crafting-made-easy-with-free-templates/"><u>YouTube Crafting Made Easy with FREE Templates</u></a></li>
+</ul></div>
 

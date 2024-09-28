@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Special: Top-Rated QLED TV Now Discounted by $1,000 - Exclusive Review on ZDNet"
-date: 2024-09-16T22:57:13.370Z
-updated: 2024-09-22T09:18:11.907Z
+date: 2024-09-27T19:56:07.791Z
+updated: 2024-09-28T18:25:55.373Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,19 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +72,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +96,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>[New] Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-soundtrack-synthesis-selecting-audio-for-instagram-visions/"><u>[Updated] In 2024, Soundtrack Synthesis Selecting Audio for Instagram Visions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-visual-brilliance-top-11-videos-on-color-techniques/"><u>[Updated] Unlock Visual Brilliance Top 11 Videos on Color Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024s-biggest-scopes-for-successful-fb-ads/"><u>2024’S Biggest Scopes for Successful FB Ads</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-cost-effective-approach-to-secure-shredding-insightful-review-of-the-amazonbasics-6-sheet-cross-cutter/"><u>A Cost-Effective Approach to Secure Shredding: Insightful Review of the AmazonBasics 6-Sheet Cross Cutter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/epigenetic-modifications-are-emerging-as-important-factors-in-the-regulation-of-gene-expression-related-to-cardiac-remodeling-presenting-new-therapeutic-tar69/"><u>Epigenetic Modifications Are Emerging as Important Factors in the Regulation of Gene Expression Related to Cardiac Remodeling, Presenting New Therapeutic Targets.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-analysis-by-tom-in-depth-guides-and-expert-opinions/"><u>Pioneering Hardware Analysis by Tom: In-Depth Guides & Expert Opinions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/resolving-elephants-foot-problem-a-step-by-step-guide-for-3d-printing/"><u>Resolving Elephant's Foot Problem: A Step-by-Step Guide for 3D Printing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016525693-silent-cyberpunk-2077-heres-how-to-turn-up-the-volume-on-your-pc/"><u>Silent Cyberpunk 2077? Here's How to Turn Up the Volume on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sovol-sv08-reviewed-honoring-the-fastest-traits-of-the-classic-voron/"><u>Sovol SV08 Reviewed: Honoring the Fastest Traits of the Classic Voron</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-2024-handbook-must-have-raspberry-pi-peripherals-for-optimal-performance/"><u>The 2024 Handbook: Must-Have Raspberry Pi Peripherals for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-and-most-reliable-portable-ssds-of-2024-your-ultimate-comparison/"><u>The Best & Most Reliable Portable SSDs of 2024: Your Ultimate Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-choices-for-soldering-equipment-and-stations-top-picks-for-2n45/"><u>The Best Choices for Soldering Equipment & Stations - Top Picks for 2N45</u></a></li>
+</ul></div>
 

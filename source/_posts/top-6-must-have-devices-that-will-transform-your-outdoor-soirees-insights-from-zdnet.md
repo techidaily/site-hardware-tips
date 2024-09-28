@@ -1,7 +1,7 @@
 ---
 title: Top 6 Must-Have Devices That Will Transform Your Outdoor Soirees - Insights From ZDNet
-date: 2024-09-19T06:48:50.589Z
-updated: 2024-09-21T23:36:21.091Z
+date: 2024-09-23T18:49:19.010Z
+updated: 2024-09-28T18:40:26.276Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimize-your-facebook-streaming-experience-with-these-methods/"><u>[New] 2024 Approved Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-8-premium-free-srt-translation-services-online/"><u>[New] Unveiling 8 Premium Free SRT Translation Services Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-checklist-for-fb-cover-video-excellence/"><u>[Updated] In 2024, The Ultimate Checklist for FB Cover Video Excellence</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-networked-narratives-recorder/"><u>In 2024, Networked Narratives Recorder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/large-scale-cancellation-of-orders-pushes-asetek-to-halt-guidance-on-income-forecasting/"><u>Large-Scale Cancellation of Orders Pushes Asetek To Halt Guidance on Income Forecasting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-pc-building-tips-from-toms-hardware-experts/"><u>Mastering Modern PC Building Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-the-ultimate-resource-by-toms-hardware-specialists/"><u>Mastering Technology: The Ultimate Resource by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-object-splitting-tips-for-successful-3d-print-projects/"><u>Mastering the Art of Object Splitting: Tips for Successful 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/multi-color-printing-breakdown-a-closer-look-at-the-anycubic-kobra-3/"><u>Multi-Color Printing Breakdown - A Closer Look at the Anycubic Kobra 3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-2024s-best-gaming-displays-cost-effective-curved-panels-and-adaptive-sync-technology/"><u>Navigate Through 2024'S Best Gaming Displays: Cost-Effective, Curved Panels and Adaptive Sync Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obs-alternatives-reviewed-by-experienced-broadcinas-for-2024/"><u>OBS Alternatives Reviewed by Experienced Broadcinas for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cut-youtube-artist-for-2024/"><u>QuickCut YouTube Artist for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-5-primary-reasons-enterprises-limit-chatgpt-access/"><u>The 5 Primary Reasons Enterprises Limit ChatGPT Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-fantastic-no-cost-digital-planners/"><u>Top 4 Fantastic No-Cost Digital Planners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-from-keyboard-issues-how-to-get-your-keys-typing-again-in-windows-os/"><u>Unstuck From Keyboard Issues: How to Get Your Keys Typing Again in Windows OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Beat Bose and Sonos to Reveal the Revolutionary Sound of a Game-Changing Speaker System | ZDNet Exclusive
-date: 2024-09-20T10:15:50.063Z
-updated: 2024-09-22T05:14:50.905Z
+date: 2024-09-24T17:15:14.957Z
+updated: 2024-09-28T18:14:28.056Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[New] In 2024, Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-scripts-to-screen-a-filmmakers-guide/"><u>[New] In 2024, Scripts to Screen A Filmmaker's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-leading-resources-to-masterfully-add-text-flair-online/"><u>[Updated] 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ps5xbox-x-visuals-the-top-5-game-tvs/"><u>2024 Approved PS5/Xbox X Visuals The Top 5 Game TVs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-relaxation-no-license-sounds/"><u>Easy Relaxation No-License Sounds</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-pacifica-drive-launch-obstacles-top-strategies-and-fixes/"><u>Overcome Pacifica Drive Launch Obstacles – Top Strategies and Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-resource-for-advanced-computer-hardware-tips-from-tom/"><u>The Complete Resource for Advanced Computer Hardware - Tips From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-companer-for-modern-pc-builds-by-toms-hq/"><u>The Essential Companer for Modern PC Builds by Tom's HQ</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-reviews/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-the-ultimate-guide/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-tech-expert-gadget-reviews-and-guides/"><u>Tom's Computer Tech: Expert Gadget Reviews and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-digest-comprehensive-guides-and-performance-evaluations/"><u>Tom's Hardware Digest: Comprehensive Guides & Performance Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-expert-reviews-top-tech-analysis/"><u>Tom's Hardware Expert Reviews: Top Tech Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insights-into-hardware-and-performance/"><u>Tom's Tech Review: Insights Into Hardware and Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok-for-2024/"><u>Unlocking the Potential A Compreayer's Guide to Batched Video Downloads From TikTok for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/and-dailymotion-2024/"><u>ダウンロード&保存: Dailymotion 動画の新手順 (2024年)</u></a></li>
+</ul></div>
 

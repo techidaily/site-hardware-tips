@@ -1,7 +1,7 @@
 ---
 title: Unlocking Savings on Black Friday 2022! Find the Hottest Deals at Ideal Venues | Expert Tips by ZDNet
-date: 2024-09-15T16:20:52.406Z
-updated: 2024-09-21T22:41:27.348Z
+date: 2024-09-26T19:08:37.877Z
+updated: 2024-09-28T19:09:51.705Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-hitting-the-high-scores-with-youtube-gaming-livestreams-for-2024/"><u>[New] Hitting the High Scores with YouTube Gaming Livestreams for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-master-the-art-of-virality-top-facebook-video-marketing-strategies-for-2024/"><u>[Updated] Master the Art of Virality Top Facebook Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus/"><u>2024 Approved Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-sprout-pro-in-depth-review-of-desktop-capturing/"><u>2024 Approved Sprout Pro In-Depth Review of Desktop Capturing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic5-ultimate-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic5 Ultimate to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-razr-40-ultra-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Razr 40 Ultra to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-content-marketing-for-more-views-and-subscribers-for-2024/"><u>Leveraging Content Marketing for More Views and Subscribers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-advanced-technology-with-toms-hardware-insights/"><u>Navigating Advanced Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-gadgets-with-toms-hardware-experts/"><u>Navigating Modern Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-toms-hardware-experts/"><u>Navigating Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-remove-tiktok-watermarks-with-ease-top-online-solutions/"><u>New Remove TikTok Watermarks with Ease Top Online Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctuas-home-line-launch-spotlight-on-100-nv-fs1-desk-fan-as-headline-hit/"><u>Noctua's Home Line Launch: Spotlight on $100 NV-FS1 Desk Fan as Headline Hit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-gamers-and-productivity-seekers-discover-the-5-finest-portable-monitors/"><u>Professional Gamers and Productivity Seekers, Discover the 5 Finest Portable Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prusa-expands-operations-to-delaware-crafting-state-of-the-art-3d-printers-and-filament/"><u>Prusa Expands Operations to Delaware, Crafting State-of-the-Art 3D Printers and Filament</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/redefining-chip-efficiency-intel-and-exxonmobil-engineer-advanced-liquid-cooling-for-next-gen-high-throughput-2kw-tdp-xeon-cpus/"><u>Redefining Chip Efficiency: Intel & ExxonMobil Engineer Advanced Liquid Cooling for Next-Gen, High-Throughput 2kW TDP Xeon CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-binding-individual-strands-into-a-unified-filament-coil/"><u>Seamlessly Binding Individual Strands Into a Unified Filament Coil</u></a></li>
+</ul></div>
 

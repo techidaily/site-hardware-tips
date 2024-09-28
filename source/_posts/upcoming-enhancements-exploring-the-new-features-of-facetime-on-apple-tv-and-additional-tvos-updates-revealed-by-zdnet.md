@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Enhancements: Exploring the New Features of FaceTime on Apple TV & Additional tvOS Updates Revealed by ZDNet"
-date: 2024-09-20T01:19:45.707Z
-updated: 2024-09-22T02:43:26.574Z
+date: 2024-09-24T18:53:42.510Z
+updated: 2024-09-28T19:15:39.630Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-visibility-the-art-of-crafting-youtube-channel-backlinks/"><u>[New] In 2024, Boosting Visibility The Art of Crafting YouTube Channel Backlinks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-prevent-fbs-video-ad-pop-ups/"><u>[Updated] 2024 Approved How to Prevent FB's Video Ad Pop-Ups</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-detailed-overview-everything-about-io-screening/"><u>[Updated] Detailed Overview Everything About IO Screening</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-a-memorable-look-back-experience-on-fb/"><u>2024 Approved Crafting a Memorable Look Back Experience on FB</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-7-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 7 Activation Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-11f-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 11F 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-gloves-transforming-vr-playtime/"><u>Leading Gloves Transforming VR Playtime</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-inside-perspective-by-toms-hardware/"><u>Mastering Gadgets and Systems - Inside Perspective by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-premium-heavy-duty-pc-radiator-with-9x200mm-fans-over-35lbs-cooling-power-for-under-600/"><u>MO-RA IV 600: Premium Heavy-Duty PC Radiator with 9X200mm Fans - Over 35Lbs Cooling Power for Under $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-a-journey-with-toms-computer-world/"><u>Navigating New Tech: A Journey with Tom's Computer World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-pro-reviews/"><u>Navigating the World of Electronics with Tom's Pro Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-trustworthy-advice-by-toms-hardware/"><u>Navigating the World of Electronics: Trustworthy Advice by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-in-depth-articles-from-toms-hardware-hub/"><u>Navigating Through Technology: In-Depth Articles From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-innovations-featured-at-toms-hardware/"><u>Pioneering Computer Innovations Featured at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-valkyrie-vind-sl125-aesthetics-vs-efficiency-in-motorcycle-engineering/"><u>Review of the Valkyrie Vind SL125: Aesthetics Vs. Efficiency in Motorcycle Engineering</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

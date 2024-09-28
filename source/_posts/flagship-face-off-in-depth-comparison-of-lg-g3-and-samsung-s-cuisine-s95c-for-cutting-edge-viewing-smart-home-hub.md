@@ -1,7 +1,7 @@
 ---
 title: "Flagship Face-Off: In-Depth Comparison of LG G3 and Samsung S Cuisine S95C for Cutting-Edge Viewing | Smart Home Hub"
-date: 2024-09-14T23:18:37.200Z
-updated: 2024-09-22T09:21:03.687Z
+date: 2024-09-22T17:18:36.948Z
+updated: 2024-09-28T19:10:34.873Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-construct-your-fb-cover-vision/"><u>[New] In 2024, Construct Your FB Cover Vision</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-amazon-prime-video-not-working/"><u>[Solved] Amazon Prime Video Not Working</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-bidding-adieu-to-instagram-your-complete-deletion-manual/"><u>[Updated] Bidding Adieu to Instagram Your Complete Deletion Manual</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-decoding-vimeos-variety-of-subscription-plans-and-their-advantages-for-2024/"><u>[Updated] Decoding Vimeo's Variety of Subscription Plans and Their Advantages for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>[Updated] Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experience-premium-quality-on-a-budget-with-the-caixun-75-4k-smart-tv/"><u>Experience Premium Quality on a Budget with the Caixun 75 4K Smart TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-theory-to-action-implementing-chatgpt-api/"><u>From Theory to Action: Implementing ChatGPT API</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rethinking-remote-work-lightweight-tech-innovations/"><u>Rethinking Remote Work: Lightweight Tech Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-insights-into-cutting-edge-hardware/"><u>Tom's Tech Hub: Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-to-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide to Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-power-supplies-for-profitable-cryptocurrency-mining-the-ultimate-guide-for-eth-and-btc/"><u>Top-Rated Power Supplies for Profitable Cryptocurrency Mining: The Ultimate Guide for Eth and Btc</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-processors-for-professional-computing-stations/"><u>Top-Rated Processors for Professional Computing Stations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-3d-creations-with-curas-textured-surface-tool-a-comprehensive-tutorial/"><u>Transform Your 3D Creations with Cura's Textured Surface Tool - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-huge-storage-potential-with-everyday-plastic-through-cutting-edge-3d-printed-holography-storing-keys-and-addresses-efficiently/"><u>Unlocking Huge Storage Potential with Everyday Plastic Through Cutting-Edge 3D-Printed Holography - Storing Keys and Addresses Efficiently!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computing-tech-with-toms-hardware-expertise/"><u>Unraveling the World of Computing Tech with Tom's Hardware Expertise</u></a></li>
+</ul></div>
 

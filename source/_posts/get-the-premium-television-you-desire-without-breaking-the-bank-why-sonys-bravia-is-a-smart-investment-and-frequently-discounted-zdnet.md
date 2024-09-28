@@ -1,7 +1,7 @@
 ---
 title: Get the Premium Television You Desire Without Breaking the Bank - Why Sony's Bravia Is a Smart Investment and Frequently Discounted | ZDNET
-date: 2024-09-15T18:26:47.292Z
-updated: 2024-09-22T02:22:25.501Z
+date: 2024-09-21T19:14:10.388Z
+updated: 2024-09-28T16:47:11.563Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-real-time-speech-processing-and-action-at-no-charge/"><u>[New] 2024 Approved Real-Time Speech Processing & Action at No Charge</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-standard-rgb-versus-srgb-standards-for-2024/"><u>[New] Standard Rgb Versus Srgb Standards for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-iphone-methods-for-spherical-footage/"><u>[Updated] Pro iPhone Methods for Spherical Footage</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y78t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y78t Fingerprint Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-how-the-fitbit-charge-6-can-transform-your-fitness-routine-expert-insights-inside/"><u>Discover How the Fitbit Charge 6 Can Transform Your Fitness Routine – Expert Insights Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-2-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze 2 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-for-living-top-10-reasons-to-be-bilingual-or-multilingual/"><u>Learning for Living: Top 10 Reasons to Be Bilingual or Multilingual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-most-compelling-list-of-free-youtube-platforms-for-comic-book-illustrators-for-2024/"><u>The Most Compelling List of Free YouTube Platforms for Comic Book Illustrators for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gaming-laptop-picks-below-1500-high-performance-on-a-budget/"><u>Top Gaming Laptop Picks Below $1,500: High Performance on a Budget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-hytes-nexus-link-offers-seamless-assembly-wireless-components-and-high-performance-aio-technology/"><u>Transform Your Gaming Rig: Hyte's Nexus Link Offers Seamless Assembly, Wireless Components & High-Performance AIO Technology!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-tech-secrets-the-ultimate-guide-by-toms-hardware/"><u>Uncover Tech Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-in-pc-components-with-toms-gear-guide/"><u>Uncovering the Latest in PC Components with Tom's Gear Guide</u></a></li>
+</ul></div>
 

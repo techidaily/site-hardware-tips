@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking QLED Televisions : Expert Picks by ZDNet"
-date: 2024-09-21T02:44:15.140Z
-updated: 2024-09-21T17:21:28.292Z
+date: 2024-09-24T16:59:37.948Z
+updated: 2024-09-28T19:01:35.776Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,19 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +137,26 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>[New] 2024 Approved Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-best-online-bunches-of-premium-quality-vector-icons/"><u>[Updated] Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-techniques-for-video-opposite-playback/"><u>[Updated] IPhone Techniques for Video Opposite Playback</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-hue-harmonizer-software/"><u>2024 Approved Ultimate Hue Harmonizer Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/courtroom-clash-as-cooler-master-takes-on-industry-peers-over-stolen-thermal-management-design/"><u>Courtroom Clash as Cooler Master Takes on Industry Peers Over Stolen Thermal Management Design</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/exploring-jujutsu-kaisen-through-creative-tiktok-content/"><u>Exploring Jujutsu Kaisen Through Creative TikTok Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-hurdles-during-takeoff-for-virtual-city-architect-pro-skylines-2/"><u>Fixing Hurdles During Takeoff for Virtual City Architect Pro - Skylines 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-produce-your-own-ln2-at-home-a-guide-for-refrigeration-hobbyists/"><u>How to Produce Your Own LN2 at Home: A Guide for Refrigeration Hobbyists</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-new-tech-discoveries-from-toms-hq/"><u>In-Depth Analysis of New Tech - Discoveries From Tom’s HQ</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-6-frequent-cura-blunders-fixes-at-your-fingertips/"><u>Mastering 6 Frequent Cura Blunders – Fixes at Your Fingertips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-pillowing-defects-to-enhance-quality-of-your-3d-creations/"><u>Overcoming Pillowing Defects to Enhance Quality of Your 3D Creations</u></a></li>
+<li><a href="https://media-tips.techidaily.com/redbox-announces-complete-closure-end-of-an-era/"><u>Redbox Announces Complete Closure: End of an Era</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionary-sleep-aids-the-best-tech-innovations-for-ultimate-relaxation/"><u>Revolutionary Sleep Aids: The Best Tech Innovations for Ultimate Relaxation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-ergonomic-wireless-mice-for-maximum-workflow/"><u>The Best Ergonomic Wireless Mice for Maximum Workflow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-2024-thermal-paste-ratings-expertly-tested-and-compared-top-90-brands/"><u>The Ultimate 2024 Thermal Paste Ratings: Expertly Tested and Compared Top 90 Brands</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-mastery-pioneering-tips-and-tricks-for-savvy-gamers/"><u>Tom's Hardware Mastery: Pioneering Tips and Tricks for Savvy Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/trailblazing-technique-use-apple-watch-for-mac-for-2024/"><u>Trailblazing Technique Use Apple Watch for Mac for 2024</u></a></li>
+</ul></div>
 

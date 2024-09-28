@@ -1,7 +1,7 @@
 ---
 title: Top Tips and Tricks for Crafting an Unforgettable Labor Day Bash
-date: 2024-09-19T19:27:45.284Z
-updated: 2024-09-21T17:42:22.957Z
+date: 2024-09-23T19:23:55.852Z
+updated: 2024-09-28T18:57:14.234Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,19 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +137,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[Updated] Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easy-steps-to-document-video-calls/"><u>[Updated] In 2024, Easy Steps to Document Video Calls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-photo-frames-leading-software-reviews/"><u>[Updated] Mastering Photo Frames Leading Software Reviews</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>2024 Approved A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-video-shape-dimensions/"><u>2024 Approved Facebook Video Shape Dimensions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/heavy-duty-moora-iv-600-ultimate-pc-cooling-with-massive-radiator-and-nine-powerful-200mm-fans-around-600/"><u>Heavy-Duty MoorA IV 600: Ultimate PC Cooling with Massive Radiator and Nine Powerful 200Mm Fans - Around $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-achieve-flawless-surfaces-on-3d-prints-by-eliminating-pillowing-concerns/"><u>How To Achieve Flawless Surfaces on 3D Prints by Eliminating Pillowing Concerns</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-tech-reviews-and-tips-straight-from-toms-hardware-hub/"><u>In-Depth Tech Reviews and Tips Straight From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-and-pc-building-tips-from-toms-hardware/"><u>Innovative Electronics and PC Building Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-pick-for-solid-state-and-hdd-protective-casings-online/"><u>Leading Pick for Solid State and HDD Protective Casings Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-crafting-an-optimized-gaming-pc-that-doubles-as-a-prolific-chia-miner/"><u>Masterclass: Crafting an Optimized Gaming PC That Doubles as a Prolific Chia Miner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-insights-from-toms-hardware-review-channel/"><u>Mastering PC Building - Insights From Tom's Hardware Review Channel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-world-tips-and-reviews-from-toms-hardware-hub/"><u>Mastering Your Digital World: Tips & Reviews From Tom's Hardware Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popsocket-mounts-for-optimal-video-shooting/"><u>PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-garrys-mod-disruptions-proven-methods-to-prevent-crashes/"><u>Say Goodbye to Garry's Mod Disruptions: Proven Methods to Prevent Crashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlining-youtube-video-transformations-into-mpegs/"><u>Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
+</ul></div>
 

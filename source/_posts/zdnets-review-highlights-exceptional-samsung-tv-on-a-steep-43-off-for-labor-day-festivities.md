@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Review Highlights: Exceptional Samsung TV on a Steep 43%% Off for Labor Day Festivities!"
-date: 2024-09-19T16:09:54.658Z
-updated: 2024-09-22T01:45:47.505Z
+date: 2024-09-24T17:19:31.419Z
+updated: 2024-09-28T18:48:42.528Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfect-6-apps-for-private-android-video-capturing/"><u>[New] 2024 Approved Perfect 6 Apps for Private Android Video Capturing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamlessly-fuse-videos-using-blend-modes/"><u>[New] 2024 Approved Seamlessly Fuse Videos Using Blend Modes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-online-presence-with-linked-fb-stories-for-2024/"><u>[New] Optimize Your Online Presence with Linked FB Stories for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[New] Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-concentration-in-photos-with-insta-zoom-tricks/"><u>[Updated] Crafting Concentration in Photos with Insta Zoom Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>[Updated] Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-flip-side-realities-of-virtual-reality/"><u>2024 Approved The Flip Side Realities of Virtual Reality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-8-cost-effective-multi-platform-virtual-communication-software/"><u>2024 Approved Top 8 Cost-Effective, Multi-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtube-tracks-anytime-without-spending-a-dime-the-best-audio-crackers/"><u>In 2024, Unlock YouTube Tracks Anytime, Without Spending a Dime The Best Audio Crackers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-of-fast-3d-printing-unlocked-technique-from-mit-employs-secondhand-metals-and-layers-of-glass-beads-for-speedier-production/"><u>Next Generation of Fast 3D Printing Unlocked: Technique From MIT Employs Secondhand Metals & Layers of Glass Beads for Speedier Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-resin-output-with-this-power-packed-elegoo-washcure-bundle-all-for-just-149/"><u>Revolutionize Your Resin Output with This Power-Packed Elegoo Wash/Cure Bundle - All for Just $149</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-cpu-cooler-paste-for-2amoy/"><u>The Ultimate Guide to Choosing the Best CPU Cooler Paste for 2Amoy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-electronics-wisdom-from-toms-hardware-experts/"><u>The Ultimate Guide to Selecting Electronics: Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-reviews/"><u>The Ultimate Resource for Computer Enthusiasts: Tom’s Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-for-ergonomic-mice-exceptional-gliding-and-led-beautification/"><u>The Ultimate Selection for Ergonomic Mice - Exceptional Gliding & LED Beautification</u></a></li>
+</ul></div>
 

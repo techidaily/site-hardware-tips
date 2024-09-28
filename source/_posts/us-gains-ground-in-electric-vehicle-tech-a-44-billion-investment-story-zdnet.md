@@ -1,7 +1,7 @@
 ---
 title: "U.S. Gains Ground in Electric Vehicle Tech: A $4.4 Billion Investment Story | ZDNet"
-date: 2024-09-18 20:26:46
-updated: 2024-09-20 11:54:37
+date: 2024-09-23T16:48:45.756Z
+updated: 2024-09-28T18:16:27.765Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-repair-glitches-in-instagram-likescomments/"><u>[New] Repair Glitches in Instagram Likes/Comments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-finding-the-facebook-in-niche-driven-instagram-realms-for-2024/"><u>[Updated] Finding the Face(book) in Niche-Driven Instagram Realms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhance-visibility-youtube-thumbnails-made-simple/"><u>[Updated] In 2024, Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/admission-from-der8auer-missteps-with-inefficient-thermal-grizzly-heatsinks-and-direct-die-chillers/"><u>Admission From Der8auer: Missteps with Inefficient Thermal Grizzly Heatsinks and Direct-Die Chillers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-opinions-from-toms-gadget-corner/"><u>Expert Hardware Opinions From Tom's Gadget Corner</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-h264-mov-faults-a-guide/"><u>Fixing H.264 MOV Faults: A Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-address-excessive-resource-drain-in-phasmophobia-for-better-performance/"><u>How to Address Excessive Resource Drain in Phasmophobia for Better Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-through-toms-lens-insightful-reviews-and-buyers-guides/"><u>Mastering Gadgets Through Tom's Lens: Insightful Reviews and Buyer’s Guides</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-video-creation-the-complete-review-of-sj-cam-s6/"><u>Mastering Video Creation The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prusas-new-era-begins-manufacturing-3d-printing-devices-and-materials-in-delaware/"><u>Prusa's New Era Begins: Manufacturing 3D Printing Devices & Materials in Delaware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-your-astro-a50-headphones-silent-issue/"><u>Quick Solutions: Resolving Your Astro A50 Headphones' Silent Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sleek-and-powerful-our-experts-top-picks-for-ultra-compact-mini-itx-pc-casing-2024-edition/"><u>Sleek and Powerful: Our Experts' Top Picks for Ultra Compact Mini-ITX PC Casing, 2024 Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/space-saver-protocols-premium-storage-reviewed-for-2024/"><u>Space Saver Protocols Premium Storage Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-curve-only-and-mixed-screen-4k-gaming-monitors-of-2024-high-refresh-rate-at-144hz-included-for-optimal-performance/"><u>The Best Curve-Only and Mixed Screen 4K Gaming Monitors of 2024, High Refresh Rate at 144Hz Included for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-explained-a-detailed-look-at-computer-tech/"><u>Tom's Hardware Explained: A Detailed Look at Computer Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insights-into-the-latest-hardware/"><u>Tom's Tech Review: Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-guidance-from-toms-authoritative-hardware-advice/"><u>Unlocking Computer Secrets with Guidance From Tom's Authoritative Hardware Advice</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

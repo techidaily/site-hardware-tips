@@ -1,7 +1,7 @@
 ---
 title: Save Big on the Top-Rated Amazon Fire TV Omnistream QLED - Get an Immediate Discount of $150!
-date: 2024-09-16T05:35:58.136Z
-updated: 2024-09-22T08:25:31.865Z
+date: 2024-09-25T16:50:22.492Z
+updated: 2024-09-28T19:25:58.879Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-meeting-visibility-in-microsoft-teams/"><u>[New] Maximizing Meeting Visibility in Microsoft Teams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-easily-erase-identity-blurring-techniques-in-videos/"><u>[Updated] In 2024, Easily Erase Identity Blurring Techniques in Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-14-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 14 Pro</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/melodic-flirts-aphrodites-italian-gems/"><u>Melodic Flirts: Aphrodite’s Italian Gems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-high-cpu-demands-in-cyberpunk-2077/"><u>Resolved: Overcoming High CPU Demands in Cyberpunk 2077</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rotating-videos-with-ease-on-windows-11-a-step-by-step-guide/"><u>Rotating Videos with Ease on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solution-for-minecraft-world-connection-errors/"><u>Troubleshooting and Solution for Minecraft World Connection Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-technology-secrets-at-toms-computer-and-hardware-blog/"><u>Unraveling Technology Secrets at Tom's Computer & Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-technology-the-toms-hardware-exposition/"><u>Unraveling Technology: The Tom's Hardware Exposition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-value-in-depth-look-at-upheres-c5c-and-d6sec-mini-ac-models-for-less-than-20/"><u>Unveiling the Value: In-Depth Look at UpHere's C5C & D6Sec Mini AC Models for Less Than $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-gadget-analysis-in-depth-reviews-and-guides/"><u>Unveiling Tom's Gadget Analysis: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Reno 10 5G | Dr.fone</u></a></li>
+</ul></div>
 

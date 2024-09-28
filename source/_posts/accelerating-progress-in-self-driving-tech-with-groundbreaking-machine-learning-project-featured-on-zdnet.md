@@ -1,7 +1,7 @@
 ---
 title: Accelerating Progress in Self-Driving Tech with Groundbreaking Machine Learning Project Featured on ZDNet
-date: 2024-09-16T09:48:48.946Z
-updated: 2024-09-21T18:20:37.745Z
+date: 2024-09-24T16:34:01.933Z
+updated: 2024-09-28T16:38:12.140Z
 tags:
   - transportation
 categories:
@@ -75,12 +75,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-the-best-youtube-extractors-for-android-devices/"><u>[Updated] In 2024, Exploring the Best YouTube Extractors for Android Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>[Updated] Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-security-accessories-for-webcams/"><u>2024 Approved Top Security Accessories for Webcams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-by-toms-computer-solutions-and-testing-labs/"><u>Comprehensive Analysis by Tom's Computer Solutions & Testing Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175721938-custom-python-script-for-a-quieter-streamlined-experience-with-the-nzxt-kraken-aio-beat-fan-noise-and-bulky-apps/"><u>Custom Python Script for a Quieter, Streamlined Experience with the NZXT Kraken AIO - Beat Fan Noise & Bulky Apps!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-exceptional-cooling-value-the-thermalight-phantom-spirit-120-se-now-available-at-an-unbeatable-price-of-just-35/"><u>Discover Exceptional Cooling Value: The Thermalight Phantom Spirit 120 SE, Now Available at an Unbeatable Price of Just $35!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-guide-to-documenting-online-sport-spectacles/"><u>In 2024, Advanced Guide to Documenting Online Sport Spectacles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-game-on-6-efficient-techniques-for-perfect-pc-snapshots/"><u>In 2024, Game On 6 Efficient Techniques for Perfect PC Snapshots</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 13?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-windows-zebra-printer-drivers-here/"><u>Install or Update Windows Zebra Printer Drivers Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimal-network-enhancements-add-speed-and-port-options/"><u>Optimal Network Enhancements: Add Speed & Port Options</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

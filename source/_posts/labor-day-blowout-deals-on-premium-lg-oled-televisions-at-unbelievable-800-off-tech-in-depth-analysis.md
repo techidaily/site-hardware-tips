@@ -1,7 +1,7 @@
 ---
 title: Labor Day Blowout Deals on Premium LG OLED Televisions at Unbelievable $800 Off | Tech In Depth Analysis
-date: 2024-09-19T21:34:56.211Z
-updated: 2024-09-22T10:00:18.854Z
+date: 2024-09-25T18:33:02.683Z
+updated: 2024-09-28T16:50:04.800Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-soundscape-archives-collect-and-evaluate-recordings-for-2024/"><u>[New] Soundscape Archives Collect & Evaluate Recordings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zooming-into-success-syncing-with-fb-live-on-zoom-for-2024/"><u>[Updated] Zooming Into Success Syncing with FB Live on Zoom for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-razr-40-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Razr 40 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-black-illusion-vs-silver-miracle/"><u>2024 Approved The Black Illusion Vs Silver Miracle</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-plotting-pioneering-partings/"><u>In 2024, Plotting Pioneering Partings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-s17e-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo S17e IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-review-cutting-edge-performance-breakdowns/"><u>Inside Tom's Gadget Review: Cutting-Edge Performance Breakdowns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-devices-with-tips-from-toms-hardware-experts/"><u>Master Your Devices with Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-flawless-3d-printouts-strategies-for-preventing-unwanted-holes-and-gaps/"><u>Mastering Flawless 3D Printouts: Strategies for Preventing Unwanted Holes and Gaps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-insightful-tips-from-toms-hardware-team/"><u>Navigating the World of Tech: Insightful Tips From Tom's Hardware Team</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a2-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-computing-knowledge-from-toms-hardware-hub/"><u>Precision Computing Knowledge From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-geometric-future-eskimo-jr-innovative-layout-and-low-decibels-with-average-functionality/"><u>Review of Geometric Future Eskimo Jr.: Innovative Layout & Low Decibels with Average Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-experience-with-iphone-vr-video-playback/"><u>Seamless Experience with iPhone VR Video Playback</u></a></li>
+</ul></div>
 

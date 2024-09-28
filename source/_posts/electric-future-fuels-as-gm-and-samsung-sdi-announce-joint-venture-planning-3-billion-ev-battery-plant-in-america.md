@@ -1,7 +1,7 @@
 ---
 title: Electric Future Fuels as GM and Samsung SDI Announce Joint Venture, Planning $3 Billion EV Battery Plant in America
-date: 2024-09-17 18:37:23
-updated: 2024-09-20 12:48:53
+date: 2024-09-21T17:32:53.598Z
+updated: 2024-09-28T17:12:20.725Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-image-enhancement-tips/"><u>[New] Instagram Image Enhancement Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-end-to-end-guide-to-picsart/"><u>[New] The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-sessions-with-the-ideal-2024-gaming-headsets/"><u>Ace Your Sessions with the Ideal 2024 Gaming Headsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrity-actress-felicia-day-introduces-her-customizable-3d-print-designs/"><u>Celebrity Actress Felicia Day Introduces Her Customizable 3D Print Designs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fast-track-innovation-unveiled-modded-3d-printer-hits-new-milestone-finesses-speed-benchy-in-just-two-minutes-flat/"><u>Fast-Track Innovation Unveiled: Modded 3D Printer Hits New Milestone, Finesses 'Speed Benchy' In Just Two Minutes Flat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-14-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 14 With or Without Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-express-exuberance-create-memetic-content-with-kapwing/"><u>In 2024, Express Exuberance Create Memetic Content With Kapwing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-htc-u23-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change HTC U23 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m34-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M34 Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-free-the-premier-guide-for-dvd-extraction-and-hd-video-format-conversion-on-macos-systems/"><u>MacX Free - The Premier Guide for DVD Extraction & HD Video Format Conversion on macOS Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-building-and-optimizing-pc-systems/"><u>Tom's Guide to Building and Optimizing PC Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-phantom-issues-in-your-3d-printed-creations/"><u>Ultimate Guide: Solving Phantom Issues in Your 3D Printed Creations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-a-security-weak-spot-a-daring-endeavor-to-warn-anycubic-3d-printer-users/"><u>Uncovering a Security Weak Spot: A Daring Endeavor to Warn Anycubic 3D Printer Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-at-toms-hardware-source/"><u>Unveiling the Latest in Tech at Tom's Hardware Source</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

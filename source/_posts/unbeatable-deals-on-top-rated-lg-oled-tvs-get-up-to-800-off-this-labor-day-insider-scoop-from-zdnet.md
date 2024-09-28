@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deals on Top-Rated LG OLED TVs: Get Up To $800 Off This Labor Day - Insider Scoop From ZDNet"
-date: 2024-09-20T02:35:54.379Z
-updated: 2024-09-21T21:25:25.220Z
+date: 2024-09-23T17:25:12.412Z
+updated: 2024-09-28T18:20:53.551Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,18 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-impact-best-practices-for-corporate-screencast-training-for-2024/"><u>[New] Maximizing Impact Best Practices for Corporate Screencast Training for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-video-quality-in-zoom-conferences/"><u>In 2024, Maximizing Video Quality in Zoom Conferences</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-cable-modem-with-integrated-wifi-routers/"><u>Leading Cable Modem with Integrated WiFi Routers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-electronic-insights/"><u>Mastering Gadgets with Tom's Electronic Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-toms-technology-hub/"><u>Mastering Gadgets: The Ultimate Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-hardware-in-depth-reviews-by-tom/"><u>Mastering Modern Hardware: In-Depth Reviews by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-future-of-computing-on-toms-hardware-platform/"><u>Navigating the Future of Computing on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-guidance/"><u>Navigating the Latest in Technology with Tom's Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-repairing-the-chatgpts-body-stream-malfunction-in-seven-steps/"><u>The Ultimate Guide to Repairing the ChatGPT's Body Stream Malfunction in Seven Steps</u></a></li>
+</ul></div>
 

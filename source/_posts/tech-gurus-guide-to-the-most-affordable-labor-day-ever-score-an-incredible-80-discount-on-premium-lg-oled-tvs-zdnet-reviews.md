@@ -1,7 +1,7 @@
 ---
 title: "Tech Guru's Guide to the Most Affordable Labor Day Ever: Score an Incredible 80%% Discount on Premium LG OLED TVs | ZDNET Reviews"
-date: 2024-09-16T08:59:49.777Z
-updated: 2024-09-22T06:58:06.209Z
+date: 2024-09-23T17:10:11.916Z
+updated: 2024-09-28T17:04:39.318Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,23 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[New] 2024 Approved Expert Picks Top 12 Screen Recording Software, No Time Limit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-5-affordable-no-frills-screen-recorders/"><u>[New] 2024 Approved Top 5 Affordable, No-Frills Screen Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-best-in-class-slideshow-maker-xi-to-x-series-iphones-for-2024/"><u>[New] Best-in-Class Slideshow Maker XI to X Series iPhones for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-path-to-polished-projects-utilizing-fades-effectively/"><u>[New] The Path to Polished Projects Utilizing Fades Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-m6-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco M6 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/managing-bitrate-in-obs-broadcasts-for-2024/"><u>Managing Bitrate in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-tech-advice/"><u>Mastering Gadgets with Tom's Tech Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-landscapes-with-tomebrarys-hardware-focus/"><u>Navigating Tech Landscapes with Tom'ebrary’s Hardware Focus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-tips-from-toms-hardware-hub/"><u>Navigating Technology: Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshades-arsenal-to-outmaneuver-generative-ai-copycats/"><u>Nightshade's Arsenal to Outmaneuver Generative AI Copycats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-designs-with-our-picked-choice-the-acclaimed-eleegoo-neptune-4-pro-now-just-240-on-newegg/"><u>Revolutionize Your Designs with Our Picked Choice - The Acclaimed Eleegoo Neptune 4 Pro, Now Just $240 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-on-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-value-packed-gaming-laptops-below-1000/"><u>Top Value-Packed Gaming Laptops Below $1,000</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-a-look-inside-toms-hardware-insights/"><u>Unlocking Performance Secrets: A Look Inside Tom's Hardware Insights</u></a></li>
+</ul></div>
 

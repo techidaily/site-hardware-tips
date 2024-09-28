@@ -1,7 +1,7 @@
 ---
 title: However, We Found that It Was Possible,
-date: 2024-09-19T10:56:18.563Z
-updated: 2024-09-21T17:15:51.153Z
+date: 2024-09-23T19:48:11.225Z
+updated: 2024-09-28T16:47:44.732Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-androids-premier-mobas-ranked-for-2024/"><u>[Updated] Discovering Android's Premier MOBAs Ranked for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-screen-capturing-with-your-iphone-7/"><u>[Updated] Effortless Screen Capturing with Your iPhone 7</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-fine-tune-your-snaps-with-mac-produced-content-for-2024/"><u>[Updated] Fine-Tune Your Snaps with Mac-Produced Content for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-roundup-best-budget-friendly-virtual-calls/"><u>[Updated] The Ultimate Roundup Best Budget-Friendly Virtual Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-investigating-financial-gains-from-product-reviews/"><u>2024 Approved Investigating Financial Gains From Product Reviews</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-the-power-play-top-pickup-of-best-rechargeable-battery-chargers-in-202eight/"><u>Ace the Power Play: Top Pickup of Best Rechargeable Battery Chargers in 202Eight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-exposed-the-authoritative-look-at-toms-hardware-reviews/"><u>Advanced Computing Exposed: The Authoritative Look at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-diy-projects-featuring-top-picks-from-toms-hardware-collection/"><u>Advanced DIY Projects Featuring Top Picks From Tom’s Hardware Collection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-graphic-cards-in-2e24-the-best-picks-for-gamers-on-a-budget/"><u>Affordable High-Performance Graphic Cards in 2E24: The Best Picks for Gamers on a Budget</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-get-the-latest-version-of-windows-movie-maker-for-your-pc-free-edition/"><u>How to Get the Latest Version of Windows Movie Maker for Your PC , Free Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-40i-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 40i Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlocking-income-streams-from-google-adsense-to-money-matters/"><u>In 2024, Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175709133-revolutionize-your-cpu-cooling-with-our-10k-3d-printed-liquid-nitrogen-vessel-triple-the-speed/"><u>Revolutionize Your CPU Cooling with Our $10K 3D Printed Liquid Nitrogen Vessel - Triple the Speed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-essential-principles-of-effective-3d-printing-design/"><u>Top 5 Essential Principles of Effective 3D Printing Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-external-hard-drive/"><u>Ultimate Guide to Choosing the Best External Hard Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-next-level-gameplay-with-the-ideal-processor-selection/"><u>Unlock Next-Level Gameplay with The Ideal Processor Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-computer-wizardry-a-deep-dive-into-toms-hardware-encyclopedia/"><u>Unveiling Computer Wizardry - A Deep Dive Into Tom's Hardware Encyclopedia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-tech-with-toms-hardware-insights/"><u>Unveiling the Best in Tech with Tom's Hardware Insights</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-discovering-new-wave-top-7-high-quality-transition-sounds-for-creatives/"><u>Updated In 2024, Discovering New Wave Top 7 High-Quality Transition Sounds for Creatives</u></a></li>
+</ul></div>
 

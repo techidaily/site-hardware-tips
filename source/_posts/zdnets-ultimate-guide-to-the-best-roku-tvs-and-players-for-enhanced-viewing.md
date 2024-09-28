@@ -1,7 +1,7 @@
 ---
 title: ZDNET's Ultimate Guide to the Best Roku TVs and Players for Enhanced Viewing
-date: 2024-09-16T19:40:17.945Z
-updated: 2024-09-21T17:54:00.085Z
+date: 2024-09-25T17:37:08.625Z
+updated: 2024-09-28T18:49:15.455Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-extract-youtube-srt-effortlessly-in-3-ways/"><u>[New] How to Extract YouTube SRT Effortlessly in 3 Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cutting-edge-microphones-ranking-the-6-best-for-streaming-professionals/"><u>[Updated] 2024 Approved Cutting Edge Microphones Ranking the 6 Best For Streaming Professionals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhance-editing-efficiency-the-finest-text-plugins-for-ae/"><u>[Updated] In 2024, Enhance Editing Efficiency The Finest Text Plugins for AE</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-personal-vlogs-that-resonate-deeply-with-viewers/"><u>[Updated] Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-shadow-scribes-compendium-best-kept-voice-apps-iosandroid-for-2024/"><u>[Updated] Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/80-discount-experience-big-prints-and-bigger-savings-with-the-upgraded-elegoo-neptune-3plus/"><u>$80 Discount: Experience Big Prints and Bigger Savings with the Upgraded Elegoo Neptune 3+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-high-performance-portable-storage-solutions-reviewed/"><u>2024'S High-Performance Portable Storage Solutions Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-analysis-and-reviews-the-expertise-of-toms-hardware/"><u>Advanced Tech Analysis and Reviews - The Expertise of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-overview-the-extended-build-volume-and-simultaneous-use-of-five-tools-on-the-original-prusa-xl/"><u>Comprehensive Overview: The Extended Build Volume & Simultaneous Use of Five Tools on the Original Prusa XL</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-digital-tools-your-go-to-resource-for-tech-insights-from-toms-hardware/"><u>Decoding Digital Tools: Your Go-To Resource for Tech Insights From Tom's Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-ability-in-mathematics-can-it-tackle-complex-equations/"><u>Exploring ChatGPT's Ability in Mathematics: Can It Tackle Complex Equations?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-your-mp4-videos-for-free-top-software-recommendations/"><u>New Cut Your MP4 Videos for Free Top Software Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125142050-qidi-techs-q1-pro-headset-uncovered-a-detailed-performance-assessment-for-gamers/"><u>QIDI Tech's Q1 Pro Headset Uncovered: A Detailed Performance Assessment for Gamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-live-streaming-on-facebook-for-2024/"><u>The Ultimate Guide to Live Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-equipment-with-toms-reviews/"><u>Unveiling the Best in Computer Equipment with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-a-dive-into-toms-hardware-analysis/"><u>Unveiling the Latest in Technology: A Dive Into Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-premiere-player-detailed-review-of-bambu-lab-x1-carbon-printer/"><u>Unveiling the Premiere Player: Detailed Review of Bambu Lab X1-Carbon Printer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/utilizing-film-content-a-strategy-for-teachers/"><u>Utilizing Film Content A Strategy for Teachers</u></a></li>
+</ul></div>
 

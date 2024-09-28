@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Cheat Sheet for Turning Your iPhone Into an Efficient TV Remote Control
-date: 2024-09-19T18:58:37.536Z
-updated: 2024-09-21T19:01:55.804Z
+date: 2024-09-24T18:03:10.195Z
+updated: 2024-09-28T18:29:58.913Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-comprehensive-giroptic-camera-experience-for-2024/"><u>[Updated] Comprehensive Giroptic Camera Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-living-life-fully-on-facebook-tips-for-active-engagement/"><u>[Updated] In 2024, Living Life Fully on Facebook Tips for Active Engagement</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-full-screen-recorders-uncovered-a-compreayers-picks/"><u>2024 Approved Top Full-Screen Recorders Uncovered A Compreayer's Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-computer-tech-advice-with-toms-equipment-experts/"><u>Discover Top-Notch Computer Tech Advice with Tom's Equipment Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-evaluations-with-toms-technological-perspectives/"><u>Dive Into Hardware Evaluations with Tom's Technological Perspectives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-creations-crafting-quality-3d-print-filaments-from-used-plastic-utensils/"><u>Eco-Friendly Creations: Crafting Quality 3D Print Filaments From Used Plastic Utensils</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-sbcs-with-rp2040-chipset-set-to-release/"><u>Expert Picks: Top SBCs with RP2040 Chipset Set to Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-by-tom-your-guide-to-hardware-essentials/"><u>Expert Reviews and Advice by Tom: Your Guide to Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-strategies-navigating-and-utilizing-orca-slicer/"><u>Expert Strategies: Navigating and Utilizing ORCA Slicer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computing-solutions-through-toms-hardware-reviews/"><u>Explore Advanced Computing Solutions Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-deepcools-new-lineup-advanced-cooling-systems-and-pc-components-with-trendy-pixel-silicone-personalization-options/"><u>Explore DeepCool’s New Lineup: Advanced Cooling Systems and PC Components with Trendy Pixel Silicone Personalization Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-equipment-through-toms-hardware-hub/"><u>Exploring Advanced Computing Equipment Through Tom's Hardware Hub</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-software-fixes-for-z50-70-units/"><u>Streamlined Software Fixes for Z50-70 Units</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-switching-to-macos-ventura-update/"><u>The Ultimate Guide to Switching to macOS Ventura Update</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-faqs-about-handbrakes-gpu-enhanced-video-transcoding-features/"><u>Top FAQs About HandBrake's GPU-Enhanced Video Transcoding Features</u></a></li>
+</ul></div>
 

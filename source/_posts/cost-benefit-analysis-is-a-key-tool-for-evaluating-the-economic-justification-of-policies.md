@@ -1,7 +1,7 @@
 ---
 title: Cost-Benefit Analysis Is a Key Tool for Evaluating the Economic Justification of Policies.
-date: 2024-09-15T10:49:29.992Z
-updated: 2024-09-21T22:10:34.453Z
+date: 2024-09-27T16:32:16.934Z
+updated: 2024-09-28T17:11:58.805Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fanfare-gaming-patch-for-2024/"><u>[New] Fanfare Gaming Patch for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-online-facebook-video-to-mp3-converters-how-to-convert-fb-to-mp3-in-2024/"><u>[Updated] Online Facebook Video to MP3 Converters | How to Convert FB to MP3, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-reno-9a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo Reno 9A to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-laptops-erratic-screenshots-flashing/"><u>Conquered Laptop's Erratic Screenshots Flashing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-the-perfect-movie-list-with-chatgpt/"><u>Crafting the Perfect Movie List with ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-guide-what-to-do-if-you-encounter-an-error-with-xlivedll-not-found/"><u>Fix Guide: What to Do if You Encounter an Error with Xlive.dll Not Found</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerated-cinematography-best-5-diy-hacks-for-quick-learning/"><u>In 2024, Accelerated Cinematography Best 5 DIY Hacks for Quick Learning</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-blaze-2-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Blaze 2 5G Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-machine-tips-from-toms-hardware-pros/"><u>Mastering Your Machine: Tips From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technologys-ocean-with-toms-hardware-wisdom/"><u>Navigating Technology's Ocean with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-cutting-edge-technology-at-toms-hardware-review/"><u>Navigating Through Cutting-Edge Technology at Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronic-marketplace-top-hardware-picks/"><u>Navigating Tom's Electronic Marketplace: Top Hardware Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-download-filmora-13-editor-full-version-for-free-for-2024/"><u>New Download Filmora 13 Editor Full Version for Free for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-gear-discoveries-from-toms-digital-world/"><u>Pioneering Gear Discoveries From Tom's Digital World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pumpless-vs-pump-powered-the-24naio-coolers-remarkable-performance-just-8c-behind-competitors/"><u>Pumpless Vs. Pump-Powered: The 24nAiO Cooler's Remarkable Performance Just 8C Behind Competitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplifying-the-creation-of-colorful-computers-with-hytes-revolutionary-rgb-device-network/"><u>Simplifying the Creation of Colorful Computers with Hyte's Revolutionary RGB Device Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-on-converting-fbx-to-obj-files-for-optimized-3d-prints/"><u>Step-by-Step Tutorial on Converting FBX to OBJ Files for Optimized 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-critics-choice-an-expert-look-at-hardware-by-toms-equipmentreview/"><u>Tech Critic's Choice: An Expert Look at Hardware by Tom's EquipmentReview</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-your-videos-potential-with-smooth-narrative-flows/"><u>Unlocking Your Videos' Potential with Smooth Narrative Flows</u></a></li>
+</ul></div>
 

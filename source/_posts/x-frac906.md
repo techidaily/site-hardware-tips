@@ -1,7 +1,7 @@
 ---
 title: \\[ X = \\Frac{90}{6} \\
-date: 2024-09-15T02:39:27.482Z
-updated: 2024-09-21T16:45:16.383Z
+date: 2024-09-24T17:58:18.153Z
+updated: 2024-09-28T18:22:35.501Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-excelling-without-vimeo-best-editing-software-rankings/"><u>[New] Excelling Without Vimeo Best Editing Software Rankings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs-for-2024/"><u>[New] Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-your-twitch-stream-game-with-these-5-steps-for-2024/"><u>[Updated] Elevate Your Twitch Stream Game with These 5 Steps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[Updated] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-delete-the-original-apple-apps-installed-on-iphones/"><u>Can You Delete the Original Apple Apps Installed on iPhones?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-on-revamping-your-intel-centrino-advanced-n-wifi-card-ahp-with-latest-drivers/"><u>Comprehensive Guide on Revamping Your Intel Centrino Advanced-N WiFi Card (AHP) with Latest Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-in-windows-10-discover-proven-fixes-now/"><u>Continuous Sound Problems in Windows 10? Discover Proven Fixes Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-gadgets-and-pcs-with-toms-hardware-insights/"><u>Discover the Latest in Gadgets and PCs with Tom's Hardware Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-for-duplicating-dvds-on-hard-drive-using-windows-operating-systems-11-10-8-and-7/"><u>Guide for Duplicating DVDs on Hard Drive Using Windows Operating Systems (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kickstarter-chronicles-davids-victory-with-desktop-sls-and-its-ultimate-acquisition/"><u>Kickstarter Chronicles: David's Victory with Desktop SLS and Its Ultimate Acquisition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-overview-top-notch-performance-without-the-noise/"><u>Levelplay Combat Air CA4 CPU Cooler Overview: Top-Notch Performance Without the Noise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-of-modern-tech-comprehensive-reviews-by-toms-hardware-experts/"><u>Mastery of Modern Tech: Comprehensive Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-toms-world-of-computer-hardware-top-picks-and-analysis/"><u>Navigating Tom's World of Computer Hardware: Top Picks and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-layer-misalignment-in-3d-printing-tips-and-tricks/"><u>Preventing Layer Misalignment in 3D Printing: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-mouse-pads-of-2024-smooth-operation-with-stylish-illumination/"><u>Top Rated Mouse Pads of 2024: Smooth Operation with Stylish Illumination</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-ideal-images-for-facebook-profiles/"><u>Unveiling Ideal Images for Facebook Profiles</u></a></li>
+</ul></div>
 

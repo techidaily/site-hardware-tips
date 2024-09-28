@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking 2023 Roku Streaming Devices: Comprehensive Reviews & Buying Guide - ZDNet"
-date: 2024-09-21T05:36:32.688Z
-updated: 2024-09-21T19:58:52.883Z
+date: 2024-09-23T18:58:06.228Z
+updated: 2024-09-28T18:00:31.004Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,16 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/erfecting-yt-thumbnails-with-aspect-ratios-for-2024/"><u>[New] Perfecting YT Thumbnails with Aspect Ratios for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715859745150-updated-2023-browser-snapshot-winners-announced/"><u>[Updated] 2023 Browser Snapshot Winners Announced!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensively-capturing-your-messenger-conversations-for-2024/"><u>[Updated] Comprehensively Capturing Your Messenger Conversations for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-add-border-to-instagram-photos/"><u>[Updated] In 2024, How to Add Border to Instagram Photos?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/creating-dvds-at-no-cost-using-winx-dvd-author-software/"><u>Creating DVDs at No Cost Using WinX DVD Author Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-the-right-display-top-picks-for-playstation-5-xbox-series-x-and-xbox-series-s-enthusiasts/"><u>Selecting the Right Display: Top Picks for PlayStation 5, Xbox Series X, and Xbox Series S Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-toms-guide-to-computer-components-and-gadgets/"><u>Tech Insights: Tom's Guide to Computer Components & Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-courageous-act-of-informing-owners-after-successful-hack-on-anycubics-print-tech/"><u>The Courageous Act of Informing Owners After Successful Hack on Anycubic's Print Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-top-5-virtual-reality-headsets-that-transform-your-pc-and-gaming-setup/"><u>The Top 5 Virtual Reality Headsets that Transform Your PC and Gaming Setup</u></a></li>
+</ul></div>
 

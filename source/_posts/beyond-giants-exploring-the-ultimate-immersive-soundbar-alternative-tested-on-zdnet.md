@@ -1,7 +1,7 @@
 ---
 title: "Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!"
-date: 2024-09-17T00:42:33.866Z
-updated: 2024-09-21T21:59:53.005Z
+date: 2024-09-26T18:37:23.517Z
+updated: 2024-09-28T16:08:41.466Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-stars-quick-visibility-check-for-2024/"><u>[New] Star's Quick Visibility Check for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exclusive-selections-free-vs-paid-hd-playback-software/"><u>[Updated] 2024 Approved Exclusive Selections Free vs Paid HD Playback Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-how-to-for-eye-catching-discord-profile-pics/"><u>[Updated] 2024 Approved The Ultimate How-To for Eye-Catching Discord Profile Pics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-iphoneipad-top-10-free-youtube-video-editing-apps/"><u>[Updated] In 2024, IPhone/iPad Top 10 Free YouTube Video Editing Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>2024 Approved How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-m-audio-drivers-compatible-with-windows-10-7-8-and-81/"><u>Download M-Audio Drivers Compatible with Windows 10, 7, 8 & 8.1</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>In 2024, Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-tom-comprehensive-insights-on-cutting-edge-hardware/"><u>Navigating Tech with Tom: Comprehensive Insights on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-hardware-with-toms-expertise/"><u>Navigating the World of PC Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insight-and-analysis-by-team-tom/"><u>Pioneering Hardware Insight and Analysis by Team Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-strategy-implements-3d-printing-to-construct-scalable-silicon-integrated-circuits/"><u>Pioneering Strategy Implements 3D Printing to Construct Scalable Silicon Integrated Circuits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-insights-by-tomtech-reviews/"><u>Precision Performance Insights by TomTech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-creality-cr-10-slicer-pro-a-stellar-3d-printer-with-size-complications/"><u>Reviewing Creality CR-10 Slicer Pro: A Stellar 3D Printer with Size Complications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-and-analysis-by-toms-hardware-experts/"><u>Tech Insights and Analysis by Tom's Hardware Experts</u></a></li>
+</ul></div>
 

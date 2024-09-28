@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Elite Gaming Screens: 2024'S Must-See List - TechRadar"
-date: 2024-09-18T23:54:56.330Z
-updated: 2024-09-22T04:22:37.153Z
+date: 2024-09-26T18:38:22.213Z
+updated: 2024-09-28T16:06:15.560Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,18 +131,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-overcoming-connectivity-issues-in-remote-recording/"><u>[New] 2024 Approved Overcoming Connectivity Issues in Remote Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-geeky-gatherings-best-general-trivia-streams/"><u>[New] Geeky Gatherings Best General Trivia Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-want-to-see-all-the-photos-and-videos-my-contacts-share-in-messages-for-2024/"><u>[New] Want to See All the Photos & Videos My Contacts Share in Messages for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-balance-relaxation-and-growth-with-this-ultimate-guide-to-multitasking-and-podcasting/"><u>[Updated] Balance Relaxation and Growth With This Ultimate Guide to Multitasking & Podcasting</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ace-set-of-rotational-recording-devices/"><u>Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-solutions-for-improving-surface-smoothness-in-3d-printing-projects/"><u>Comprehensive Solutions for Improving Surface Smoothness in 3D Printing Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/demystifying-bamboo-labs-new-firmware-enhancements-for-print-devices/"><u>Demystifying Bamboo Lab's New Firmware Enhancements for Print Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-cutting-edge-tech-with-toms-hardware-review-hub/"><u>Explore Cutting-Edge Tech with Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-tom-comprehensive-guide-and-reviews/"><u>Exploring the Latest Gadgets with Tom - Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-essential-list-of-premium-4k-blu-ray-gamers-choice/"><u>In 2024, Essential List of Premium 4K Blu-Ray Gamers' Choice</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-royale-arenas-of-thrill/"><u>In 2024, Top 10 Royale Arenas of Thrill</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-how-3dmakerpros-mole-transforms-3d-scanning-in-your-hand/"><u>In-Depth Analysis: How 3DMakerPro's Mole Transforms 3D Scanning in Your Hand</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-and-technology-assessments-toms-hardware/"><u>In-Depth Computer & Technology Assessments - Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-breakdowns-by-toms-electronic-experts/"><u>In-Depth Computer Breakdowns by Tom's Electronic Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/indulge-with-top-youtube-movies-guides-for-2024/"><u>Indulge with Top YouTube Movies Guides for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-approach-creating-complex-chip-circuits-with-3d-printing/"><u>Innovative Approach: Creating Complex Chip Circuits with 3D Printing</u></a></li>
+</ul></div>
 

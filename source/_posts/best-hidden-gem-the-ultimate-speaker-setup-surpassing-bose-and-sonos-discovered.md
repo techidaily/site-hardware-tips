@@ -1,7 +1,7 @@
 ---
 title: "Best Hidden Gem: The Ultimate Speaker Setup Surpassing Bose & Sonos Discovered"
-date: 2024-09-18T00:15:17.515Z
-updated: 2024-09-22T04:17:16.172Z
+date: 2024-09-21T16:18:32.630Z
+updated: 2024-09-28T16:01:27.086Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-ground-to-heavens-a-mobile-panorama-journey/"><u>[Updated] In 2024, From Ground to Heavens A Mobile Panorama Journey</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-truthful-insights-into-recordcast-functionality/"><u>2024 Approved Truthful Insights Into RecordCast Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-trustworthy-advice-from-toms-hardware/"><u>Advanced Tech Insights: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-switching-to-an-alternative-web-browser-on-your-samsung-tv/"><u>Guide: Switching to an Alternative Web Browser on Your Samsung TV</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-explore-advanced-video-control-in-youtubes-playback-features/"><u>In 2024, Explore Advanced Video Control in YouTube’s Playback Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/robovac-dyad-plus-reviews-high-tech-all-in-one-vacuum-cleaner-for-mopping-and-suction-but-some-limitations/"><u>RoboVac Dyad Plus Reviews: High-Tech All-in-One Vacuum Cleaner for Mopping & Suction, but Some Limitations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/serene-gaming-selection-quietest-phone-apps-for-2024/"><u>Serene Gaming Selection Quietest Phone Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175686979-toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724515-ultimate-comparison-of-best-cooling-solutions-for-m2-ssds-exploring-30-contenders-including-id-coolings-m05-and-m1nus/"><u>Ultimate Comparison of Best Cooling Solutions for M.2 SSDs - Exploring 30 Contenders Including ID-Cooling's M05 & M1nus!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gear-insights-at-toms-computing-world-forums-and-reviews/"><u>Unveiling Top Gear Insights at Tom's Computing World - Forums and Reviews</u></a></li>
+</ul></div>
 

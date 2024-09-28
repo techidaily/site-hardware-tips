@@ -1,7 +1,7 @@
 ---
 title: "Introducing TCL's Spectacular 115-Inch Mini LED TV : A Breakthrough in Visual Experience | ScreenTech Today"
-date: 2024-09-20T20:06:05.770Z
-updated: 2024-09-21T18:45:25.136Z
+date: 2024-09-25T17:04:24.193Z
+updated: 2024-09-28T16:20:20.940Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-stand-out-with-custom-youtube-imagery/"><u>[New] In 2024, Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[Updated] In 2024, Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-functionality-with-easy-sierra-system-installation/"><u>[Updated] In 2024, Enhance Functionality with Easy Sierra System Installation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-list-premier-online-church-service-sites/"><u>[Updated] In 2024, Essential List Premier Online Church Service Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ice-racing-royalty-olympians-highlights-2022/"><u>2024 Approved Ice Racing Royalty Olympians' Highlights, 2022</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-soldering-irons-and-workstations-reviewed/"><u>2024'S Most Effective Soldering Irons and Workstations Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-soldering-solutions-leading-models-to-watch/"><u>Advanced Soldering Solutions: Leading Models to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-from-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Advanced Tech Insights From Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-liquid-and-air-coolers-for-your-pc-expert-picks/"><u>Best Liquid and Air Coolers for Your PC : Expert Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-the-catastrophe-recycle-bin-errors-in-win1011/"><u>Curbing the Catastrophe: Recycle Bin Errors in Win10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hassle-free-media-transformation-change-videos-from-vod-format-to-mp4-online-at-no-charge-via-movavi/"><u>Hassle-Free Media Transformation: Change Videos From VOD Format to MP4 Online at No Charge via Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-setup-download-asus-z170-pro-motherboard-game-drivers-today/"><u>Quick Setup: Download ASUS Z170 Pro Motherboard Game Drivers Today!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-c53-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme C53 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125260405-the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-hardware-secrets-with-tom-a-buyers-resource-for-technology-gear/"><u>Unlocking Hardware Secrets with Tom: A Buyer's Resource for Technology Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-wisdom/"><u>Unveiling the Latest Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-insights/"><u>Unveiling the Latest Gadgets with Tom's Technology Insights</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+</ul></div>
 

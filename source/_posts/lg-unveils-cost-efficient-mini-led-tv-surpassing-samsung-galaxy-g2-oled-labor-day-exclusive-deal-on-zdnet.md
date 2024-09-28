@@ -1,7 +1,7 @@
 ---
 title: LG Unveils Cost-Efficient Mini LED TV Surpassing Samsung Galaxy G2 OLED - Labor Day Exclusive Deal on ZDNet
-date: 2024-09-18T16:11:27.131Z
-updated: 2024-09-22T01:09:27.401Z
+date: 2024-09-22T16:15:15.531Z
+updated: 2024-09-28T17:33:40.630Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-simplified-obs-settings-for-economical-systems/"><u>[New] 2024 Approved Simplified OBS Settings for Economical Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-revive-lost-media-icons-on-facebook-users/"><u>[New] Revive Lost Media Icons on Facebook Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-quick-and-easy-guide-enhance-youtube-shorts-with-new-images/"><u>[Updated] 2024 Approved Quick & Easy Guide Enhance YouTube Shorts with New Images</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-wirecast-strategies-for-successful-social-media-livestreams/"><u>[Updated] In 2024, Wirecast Strategies for Successful Social Media Livestreams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hide-and-seek-photoshop-tips-for-background-blending/"><u>2024 Approved Hide & Seek Photoshop Tips for Background Blending</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-find-n3-flip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo Find N3 Flip</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/igtv-shutdown-for-beginners/"><u>IGTV Shutdown for Beginners</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unleash-the-power-of-optimization-5-secrets-to-skyrocket-your-audience/"><u>In 2024, Unleash the Power of Optimization 5 Secrets to Skyrocket Your Audience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-gadgets-and-pc-advice-from-toms-hardware/"><u>Innovative Gadgets and PC Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-lab-expert-insights-into-pc-components/"><u>Inside Tom's Gear Lab: Expert Insights Into PC Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-gameplay-with-leading-edge-gaming-routers-on-the-market/"><u>Master Your Gameplay with Leading-Edge Gaming Routers on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-an-insightful-journey-by-toms-hardware/"><u>Mastering Modern Tech: An Insightful Journey by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-precision-expert-guides-from-toms-technology-corner/"><u>Navigating New Gadgets With Precision: Expert Guides From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landsebeam-the-ultimate-guide-to-pc-components-by-tom/"><u>Navigating the Tech Landsebeam: The Ultimate Guide to PC Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-with-toms-hardware-guides/"><u>Navigating the World of Tech with Tom's Hardware Guides</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-soundtrack-search-navigating-the-iphones-abilities-for-track-titling/"><u>New 2024 Approved The Soundtrack Search Navigating the iPhones Abilities for Track Titling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-assessment-of-economical-id-cooling-frozn-series-a410-and-a610-models/"><u>Performance Assessment of Economical ID-Cooling FROZN Series - A410 and A^610 Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-advice-from-toms-hardware-experts/"><u>Pioneering PC Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+</ul></div>
 

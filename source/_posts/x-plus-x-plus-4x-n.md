@@ -1,7 +1,7 @@
 ---
 title: \\[ X + (X + 4X) = N \\
-date: 2024-09-19T16:46:24.269Z
-updated: 2024-09-21T20:59:44.004Z
+date: 2024-09-24T18:30:01.860Z
+updated: 2024-09-28T19:31:29.270Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-faces-in-picsart-applying-motion-blur-effects/"><u>[New] 2024 Approved Mastering Faces in Picsart Applying Motion Blur Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/catch-em-all-in-no-time-learn-to-play-pokemon-go-now/"><u>Catch 'Em All in No Time - Learn to Play Pokemon Go Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computer-innovations-trusted-recommendations-from-toms-technology-hub/"><u>Discover Advanced Computer Innovations - Trusted Recommendations From Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-crealitys-latest-marvel-the-flagship-k1c-and-enhanced-ender-3-v3-model-revealed/"><u>Discover Creality's Latest Marvel - The Flagship K1C and Enhanced Ender 3 V3 Model Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-from-toms-hardware-hub/"><u>Expert Insights on Computing From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovative-advances-top-picks-from-rapid-plus-tct-2ergy-a-glimpse-into-next-gen-3d-printing/"><u>Exploring Innovative Advances: Top Picks From Rapid + TCT 2Ergy - A Glimpse Into Next-Gen 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/felicia-day-enters-the-world-of-3d-printing-free-access-to-exclusive-designs/"><u>Felicia Day Enters the World of 3D Printing: Free Access to Exclusive Designs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-avoid-livestream-frustration-addressing-facebook-outages/"><u>In 2024, Avoid Livestream Frustration Addressing Facebook Outages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-check-on-dji-mavic-pro-vision-headset/"><u>In 2024, Comprehensive Check on DJi Mavic Pro Vision Headset</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-sony-xperia-10-v-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Sony Xperia 10 V to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-narzo-60x-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Narzo 60x 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-gear-insights-at-toms-hardware-hub/"><u>In-Depth Analysis & Gear Insights at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-mingdas-magic-pen-ii-combining-durability-with-low-noise-output/"><u>In-Depth Look at Mingda's Magic Pen II: Combining Durability with Low Noise Output</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tom-hardware-analysis/"><u>In-Depth Reviews by Tom: Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-system-evaluations-from-the-desk-of-tom-hardware/"><u>In-Depth System Evaluations From the Desk of Tom Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-sound-speed-with-these-essential-apps-for-2024/"><u>Optimize Sound Speed with These Essential Apps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016609518-redragon-headset-mic-malfunction-solutions-on-pcs-get-it-working-now/"><u>Redragon Headset Mic Malfunction Solutions on PCs - Get It Working Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-see-sports-films-currently-streaming/"><u>Top 10 Must-See Sports Films Currently Streaming</u></a></li>
+</ul></div>
 

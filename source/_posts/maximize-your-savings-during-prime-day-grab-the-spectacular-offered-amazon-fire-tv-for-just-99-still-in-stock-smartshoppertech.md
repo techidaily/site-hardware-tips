@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Savings During Prime Day! Grab the Spectacular Offered Amazon Fire TV for Just $99 - Still in Stock | SmartShopperTech
-date: 2024-09-15T08:34:37.179Z
-updated: 2024-09-22T10:18:47.478Z
+date: 2024-09-22T16:46:47.741Z
+updated: 2024-09-28T16:40:28.457Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,21 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-future-is-here-high-resolution-video-on-nikon-j5/"><u>[Updated] 2024 Approved The Future Is Here High-Resolution Video on Nikon J5</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-innovative-play-sony-xperia-xzs-4k-smartphone-journey/"><u>[Updated] The Innovative Play Sony Xperia XZ's 4K Smartphone Journey</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-leap-into-the-future-adopting-macos-11-big-sur/"><u>2024 Approved Leap Into the Future Adopting macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/accelerate-your-hd-video-conversion-mastering-quick-transfer-with-factory-pro-lightning/"><u>Accelerate Your HD Video Conversion: Mastering Quick Transfer with Factory Pro Lightning</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-oriented-chinas-vr-equipment-selection-for-2024/"><u>Budget-Oriented China's VR Equipment Selection for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-felicia-days-collection-of-downloadable-3d-printer-add-ons-on-thangs-platform/"><u>Explore Felicia Day's Collection of Downloadable 3D Printer Add-Ons on Thangs Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-tech-insights-toms-hardware/"><u>Exploring Computer Components with Tom's Tech Insights 🖥️ | Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-customer-reports-understanding-the-nh-d15-g2-fan-vibration-concerns-raised-by-users/"><u>Exploring Customer Reports: Understanding the NH-D15 G2 Fan Vibration Concerns Raised by Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-with-toms-equipment-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-american-sanctions-on-deepcools-role-in-fueling-russias-war-resources-against-ukraine/"><u>Impact of American Sanctions on DeepCool's Role in Fueling Russia’s War Resources Against Ukraine</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-hidden-techniques-for-private-anonymous-instagram-live-participation/"><u>In 2024, The Hidden Techniques for Private, Anonymous Instagram Live Participation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovations-decoded-a-journey-into-the-world-of-technology-by-toms-components-corner/"><u>Innovations Decoded: A Journey Into the World of Technology by Tom’s Components Corner</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-windows-11-how-to-successfully-update-your-gpus-drivers/"><u>Mastering Windows 11: How to Successfully Update Your GPU's Drivers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/next-level-peripheral-connectivity-pci-sig-releases-innovative-copprlink-cables-to-power-pci-express-gen-v-and-vi-while-preparing-for-version-vii-developmen105/"><u>Next-Level Peripheral Connectivity: PCI-SIG Releases Innovative CopprLink Cables to Power PCI Express Gen V and VI, While Preparing for Version VII Development</u></a></li>
+</ul></div>
 

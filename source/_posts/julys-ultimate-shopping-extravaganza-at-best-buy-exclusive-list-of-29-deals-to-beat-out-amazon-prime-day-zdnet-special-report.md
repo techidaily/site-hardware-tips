@@ -1,7 +1,7 @@
 ---
 title: "July's Ultimate Shopping Extravaganza at Best Buy: Exclusive List of 29 Deals to Beat Out Amazon Prime Day - ZDNet Special Report"
-date: 2024-09-18T05:40:48.351Z
-updated: 2024-09-22T02:50:46.599Z
+date: 2024-09-26T19:56:17.498Z
+updated: 2024-09-28T16:32:56.362Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-evaluating-tunefab-for-video-capture-excellence-for-2024/"><u>[New] Evaluating Tunefab for Video Capture Excellence for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-delight-switchs-best-fighters-top-10-edition-for-2024/"><u>[New] Gamer's Delight Switch's Best Fighters - Top 10 Edition for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-undercover-upscalers-guide-to-clear-visuals/"><u>[Updated] 2024 Approved The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-the-most-frequent-issues-in-cura-a-users-guide/"><u>Avoiding the Most Frequent Issues in Cura – A User's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-router-models-to-boost-your-gaming-performance/"><u>Best Router Models to Boost Your Gaming Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/blh4100-120-minute-flight-time-rc-helicopter-a-complete-review-for-hobbyists/"><u>BLH4100 120-Minute Flight Time RC Helicopter: A Complete Review for Hobbyists</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f14-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F14 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bring-your-ideas-to-life-in-stunning-colors-with-phrozens-4d-printing-technology/"><u>Bring Your Ideas to Life in Stunning Colors with Phrozen's 4D Printing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-hub-for-toms-hardware-selections/"><u>Comprehensive Review Hub for Tom's Hardware Selections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-calculations-for-your-dream-podcast-project-for-2024/"><u>Cost Calculations for Your Dream Podcast Project for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/create-a-stunning-rainbow-pc-using-hytes-nexus-link-a-game-changer-in-rgb-device-integration/"><u>Create a Stunning Rainbow PC Using Hyte's Nexus Link - A Game Changer in RGB Device Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-cutting-edge-technology-through-toms-equipment-insights/"><u>Deciphering Cutting-Edge Technology Through Tom's Equipment Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-1ve-when-it-becomes-unresponsive/"><u>How to Fix Windows 1Ve When It Becomes Unresponsive?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-video-editing-software-for-those-new-to-video-production/"><u>New 2024 Approved The Best Video Editing Software for Those New to Video Production</u></a></li>
+</ul></div>
 

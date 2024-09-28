@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Quality on the Cheapest Large Screen TVs: Secrets to Enhancing Sound and Picture | ZDNet"
-date: 2024-09-17T00:22:03.356Z
-updated: 2024-09-22T03:01:15.643Z
+date: 2024-09-21T16:06:19.981Z
+updated: 2024-09-28T17:13:59.191Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-velocity-strategic-use-of-likes-and-videos-for-growth-for-2024/"><u>[New] Insta Velocity Strategic Use of Likes & Videos for Growth for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-smart-strategies-achieving-advertising-excellence/"><u>[New] Smart Strategies Achieving Advertising Excellence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pictopeekles-easy-memes-with-a-twist/"><u>[Updated] PictoPeekles Easy Memes with a Twist</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-conquering-the-crowd-through-effective-smm/"><u>2024 Approved Conquering the Crowd Through Effective SMM</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-amd-processor-drivers-for-windows-systems/"><u>Download the Latest AMD Processor Drivers for Windows Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/grab-speech-file-and-review-for-2024/"><u>Grab Speech File & Review for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971290337-intel-dptf-driver-error-solutions-fix-your-pc-with-this-easy-troubleshooter/"><u>Intel DPTF Driver Error Solutions – Fix Your PC with This Easy Troubleshooter!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ghostly-web-understanding-who-answers-back-online-in-todays-dead-internet-era/"><u>The Ghostly Web: Understanding Who Answers Back Online in Today’s Dead Internet Era</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tech-picks-insights-from-tomn-hardware/"><u>The Ultimate Guide to Top Tech Picks: Insights From Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-valkyrie-vind-sl125-reviewed-stunning-design-yet-lacking-in-robust-performance/"><u>The Valkyrie Vind SL125 Reviewed: Stunning Design, Yet Lacking in Robust Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tiny-tranquil-houses-japanese-style-for-2024/"><u>Tiny Tranquil Houses Japanese Style for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-comprehensive-insights-and-reviews-on-computer-hardware/"><u>Tom's Tech Advice: Comprehensive Insights and Reviews on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-and-gadget-reviews/"><u>Tom's Tech Insights & Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-grove-interface-accessories-to-upgrade-your-raspberry-pi-and-arduino-systems/"><u>Top Grove Interface Accessories to Upgrade Your Raspberry Pi and Arduino Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-ultimate-gaming-nvme-ssds-for-your-portable-steam-deck-experience/"><u>Top Pick: Ultimate Gaming NVMe SSDs for Your Portable Steam Deck Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-ultimate-comfort-and-performance-best-wireless-gaming-headsets-of-2024/"><u>Top Picks for Ultimate Comfort & Performance: Best Wireless Gaming Headsets of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-typing-dynamics-the-ultimate-guide-to-qidi-techs-revolutionary-q1-pro-keyboard/"><u>Transforming Typing Dynamics: The Ultimate Guide to QIDI Tech's Revolutionary Q1 Pro Keyboard</u></a></li>
+</ul></div>
 
