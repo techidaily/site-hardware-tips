@@ -1,7 +1,7 @@
 ---
 title: "Roku Users Rejoice: Upcoming No-Cost Premium Improvement Announced by ZDNet"
-date: 2024-09-21T19:45:44.095Z
-updated: 2024-09-28T16:10:58.097Z
+date: 2024-09-28T17:04:13.990Z
+updated: 2024-10-03T20:43:21.577Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,18 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-conquering-cinematic-recording-a-guide-to-windowsmacosios/"><u>[New] 2024 Approved Conquering Cinematic Recording A Guide to Windows/macOS/iOS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-guide-countdown-timer-setup-for-broadcasts/"><u>In 2024, Step-by-Step Guide Countdown Timer Setup for Broadcasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-logitechs-high-performance-g29-driving-force-racing-wheel-on-your-pc-driver-support-for-win7-8-and-10/"><u>Install Logitech's High-Performance G29 Driving Force Racing Wheel on Your PC - Driver Support for Win7, 8 & 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repairing-monitor-blink-anomalies/"><u>Repairing Monitor Blink Anomalies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/standout-literary-book-videos-for-2024/"><u>Standout Literary Book Videos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-a15-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy A15 4G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-pcs-within-budget-less-than-1500/"><u>Top-Rated Gaming PCs Within Budget: Less Than $1,500</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-swift-ssds-for-sonys-playstation-5-console/"><u>Ultimate Guide to Choosing Swift SSDs for Sony's PlayStation 5 Console</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-equipment-cutting-edge-reviews-and-comparisons-on-toms-gear-gazette/"><u>Unleash the Power of Equipment: Cutting-Edge Reviews & Comparisons on Tom's Gear Gazette</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-creativity-with-these-5-reasons-for-acquiring-a-3d-printer-on-black-friday/"><u>Unlock Creativity with These 5 Reasons for Acquiring a 3D Printer on Black Friday</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-at-toms-digital-domain/"><u>Unveiling Gadgets and Gizmos at Tom's Digital Domain</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-technologies-through-toms-hardware-perspectives/"><u>Unveiling New Technologies Through Tom's Hardware Perspectives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029999822-fc/"><u>ジャニーズFCの最新動画ダウンロード手順：詳細ガイド</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-6-innovative-apps-for-instagram-reels/"><u>[New] In 2024, Master 6 Innovative Apps for Instagram Reels</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone-for-2024/"><u>A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/car-sound-issues-heres-how-to-get-your-car-radio-running-again/"><u>Car Sound Issues? Here’s How to Get Your Car Radio Running Again!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-vulnerability-discovered-in-amd-chips-potentially-impacting-millions-sinkclose-bug-exploited-for-unauthorized-access-patch-rollout-initiated-and-fu3/"><u>Critical Vulnerability Discovered in AMD Chips, Potentially Impacting Millions: 'Sinkclose' Bug Exploited for Unauthorized Access – Patch Rollout Initiated & Future Protections Promised</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-elegance-and-energy-the-spectacular-glow-of-rgb-on-a-customized-fractal-design-north-xl-pc-build/"><u>Enhancing Elegance and Energy: The Spectacular Glow of RGB on a Customized Fractal Design North XL PC Build</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/evolutionary-advantages/"><u>Evolutionary Advantages</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-nvidia-blackwell-and-rtx-50-series-gpus-unveiling-detailed-insights-into-features-release-windows-price-points-and-all-current-developments.2/"><u>Inside Scoop on Nvidia Blackwell & RTX 50-Series GPUs Unveiling: Detailed Insights Into Features, Release Windows, Price Points, and All Current Developments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-equipment-choices-with-toms-hardware-expertise/"><u>Mastering Equipment Choices with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-10-performance-mastery-of-sfc-and-dism-utility-tools/"><u>Optimizing Windows 10 Performance: Mastery of SFC and DISM Utility Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ocial-media-strategies-infographic-guide/"><u>SMB Social Media Strategies Infographic Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-unleashed-with-sifives-innovative-p870-d-core-and-its-256-core-risc-v-architecture/"><u>The Future of Computing Unleashed with SiFive’s Innovative P870-D Core and Its 256-Core RISC-V Architecture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-with-toms-technology-insights/"><u>Unveiling Gadgets and Gizmos with Tom's Technology Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y27 4G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Prime Video & Netflix in March 2023 - Exclusive Selection From ZDNet
-date: 2024-09-25T16:43:13.453Z
-updated: 2024-09-28T16:32:01.623Z
+date: 2024-10-01T16:15:12.420Z
+updated: 2024-10-03T22:48:32.923Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +73,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +98,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pixeled-play-log-audit/"><u>[Updated] 2024 Approved Pixeled Play Log Audit</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-online-sales-with-these-premier-15-facebook-monitoring-tools/"><u>[Updated] 2024 Approved Transform Online Sales with These Premier 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-8-best-tripods-for-4k-camera/"><u>2024 Approved Top 8 Best Tripods for 4K Camera</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-nvidias-rtx-graphics-card-features-performance-and-capabilities-unveiled/"><u>Demystifying Nvidia's RTX Graphics Card: Features, Performance & Capabilities Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/edible-tech-bites-learn-about-our-new-3d-printed-scannable-qr-codes/"><u>Edible Tech Bites: Learn About Our New 3D Printed, Scannable QR Codes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/enhancing-creativity-with-filmoras-best-tools-for-2024/"><u>Enhancing Creativity with Filmora's Best Tools for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-evaluation-of-the-powerful-and-silent-corsair-air-a115-heatsink-with-a-high-price-point/"><u>Expert Evaluation of the Powerful and Silent Corsair Air A115 Heatsink with a High Price Point</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insight-on-the-mingda-magic-pen-pro-2-balancing-high-power-with-quiet-print-technology/"><u>Expert Insight on the Mingda Magic Pen Pro 2: Balancing High Power with Quiet Print Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-latest-frozn-a62n-air-cooler-from-id-cooling-premium-performance-at-an-unbeatable-price/"><u>Expert Insights on the Latest Frozn A62n Air Cooler From ID-Cooling – Premium Performance at an Unbeatable Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-insights-on-the-latest-in-technology-toms-gear-hub/"><u>Expert Reviews and Insights on the Latest in Technology - Tom's Gear Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-unveiling-the-latest-in-pc-components/"><u>Expert Reviews by Tom: Unveiling the Latest in PC Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-technology-hub/"><u>Exploring Computer Components with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-in-depth-analysis-and-guides/"><u>Exploring Gadgets with Tom: In-Depth Analysis and Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-the-ultimate-guide/"><u>Exploring Tom's Hardware - The Ultimate Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-8-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Without a Home Button</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/improve-user-experience-using-the-power-of-cookiebot/"><u>Improve User Experience Using the Power of Cookiebot</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-8-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 8</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-methods-for-capturing-roblox-games-on-macos/"><u>In 2024, Top 5 Methods for Capturing Roblox Games on macOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-maximize-your-storage-tips-and-tricks-for-liberating-space-for-fcpx-for-2024/"><u>New Maximize Your Storage Tips and Tricks for Liberating Space for FCPX for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-vintage-cinematography-with-this-essential-manual/"><u>[New] Unlock Vintage Cinematography with This Essential Manual</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-partner-vids-for-rapid-channelnode-growth/"><u>[Updated] 2024 Approved Partner Vids for Rapid Channelnode Growth</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>[Updated] Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-modify-twitter-clip-visuals/"><u>2024 Approved Modify Twitter Clip Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven/"><u>Beyond Beats 8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-electronics-with-toms-hardware-hub/"><u>Dive Into Electronics with Tom's Hardware Hub</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teamgroup-unveils-magnet-upgrade-feature-for-the-ultimate-t-fforce-siren-aio-water-cooler-enhancing-diy-pc-building/"><u>TeamGroup Unveils Magnet Upgrade Feature for the Ultimate T-FForce Siren AIO Water Cooler, Enhancing DIY Pc Building</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202103914-the-ultimate-fix-for-when-your-microsoft-surface-wont-charge-even-though-its-connected-step-by-step-solution/"><u>The Ultimate Fix for When Your Microsoft Surface Won't Charge Even Though It’s Connected: Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-internet-cameras-a-comprehensive-buyers-guide/"><u>Top-Rated Internet Cameras: A Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-pros-and-cons-an-authoritative-review-of-the-newly-enhanced-elegoo-neptune-4-max-printer/"><u>Unveiling the Pros & Cons: An Authoritative Review of the Newly Enhanced Elegoo Neptune 4 Max Printer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/visualize-success-with-these-three-insta-video-caption-approaches-for-2024/"><u>Visualize Success with These Three Insta Video Caption Approaches for 2024</u></a></li>
 </ul></div>
 

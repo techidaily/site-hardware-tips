@@ -1,7 +1,7 @@
 ---
 title: "When Corporate Image Clashes with Staff Sentiment: The Backlash Against United Airlines' Sexy Branding"
-date: 2024-09-18 19:35:26
-updated: 2024-09-20 10:47:45
+date: 2024-10-02T22:58:35.227Z
+updated: 2024-10-03T23:56:23.037Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,34 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximize-style-with-premium-border-options-for-ig-posts/"><u>[New] 2024 Approved Maximize Style with Premium Border Options for IG Posts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[New] In 2024, Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-speedy-sketching-techniques-for-fortnite-tiles/"><u>[New] Speedy Sketching Techniques for Fortnite Tiles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo X Fold 2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-motion-assessment-2023/"><u>In-Depth Motion Assessment 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide-to-computer-components-t172386287988319/"><u>Tom's Tech Review: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-analysis-t172386287988117/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-power-of-meteor-lake-discover-the-1100-honor-magicbook-art-n14s-31k-oled-display-and-privacy-friendly-camera-feature/"><u>Unleash the Power of Meteor Lake: Discover the $1,100 Honor MagicBook Art N14's 3.1K OLED Display and Privacy-Friendly Camera Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-lenovo-yoga-pro-9i-a-look-into-its-soft-touch-keys-and-compact-body/"><u>Unveiling the Lenovo Yoga Pro 9I: A Look Into Its Soft-Touch Keys & Compact Body</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor 90 Lite | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

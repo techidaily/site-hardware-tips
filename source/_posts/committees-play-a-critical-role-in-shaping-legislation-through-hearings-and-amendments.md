@@ -1,7 +1,7 @@
 ---
 title: Committees Play a Critical Role in Shaping Legislation Through Hearings and Amendments.
-date: 2024-09-23T17:29:29.115Z
-updated: 2024-09-28T16:45:54.361Z
+date: 2024-10-01T17:02:46.371Z
+updated: 2024-10-03T18:56:53.727Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,19 +92,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>[New] In 2024, Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-innovative-video-marketing-youtube-trailers-with-filmora/"><u>[Updated] 2024 Approved Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-6-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 6 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x50iplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X50i+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-3d-printing-technique-creating-lifelike-wooden-artifacts-using-sawdust-based-ink/"><u>Innovative 3D Printing Technique: Creating Lifelike Wooden Artifacts Using Sawdust-Based Ink</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-home-workshop-solution-a-comprehensive-review-of-the-xtool-s1-premium-laser-cutter/"><u>Innovative Home Workshop Solution: A Comprehensive Review of the XTool S1 Premium Laser Cutter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-tech-sphere-unlocking-the-mysteries-of-computer-components-with-tom/"><u>Inside the Tech Sphere: Unlocking the Mysteries of Computer Components with Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-digital-workshop-in-depth-reviews-on-cutting-edge-hardware/"><u>Inside Tom's Digital Workshop: In-Depth Reviews on Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-unveiling-cutting-edge-tech-insights/"><u>Inside Tom's Hardware: Unveiling Cutting-Edge Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-digital-world-with-insightful-tips-from-toms-hardware/"><u>Master Your Digital World with Insightful Tips From Tom's Hardware</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-microphone-and-sound-card-problems-on-microsofts-latest-windows-systems-win7-win10-and-win11/"><u>Solving Microphone and Sound Card Problems on Microsoft's Latest Windows Systems (Win7, Win10 & Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-woos-resolve-opera-download-hitch/"><u>Windows Woos: Resolve Opera Download Hitch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-a15-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy A15 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-history-on-your-flip-watching-old-fb-stories/"><u>[New] In 2024, History on Your Flip Watching Old FB Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-trimming-footage-for-insta-on-macos-for-2024/"><u>[New] Trimming Footage for Insta on macOS for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-rhythmic-resonance-incor-written-by-assistant/"><u>[Updated] 2024 Approved Rhythmic Resonance Incor Written by Assistant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-elegoo-neptune-4-max-sizing-up-its-performance-and-issues/"><u>Comprehensive Analysis of the Elegoo Neptune 4 Max: Sizing Up Its Performance & Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ensuring-privacy-the-ultimate-guide-to-erasing-sensitive-information-on-iphones/"><u>Ensuring Privacy: The Ultimate Guide to Erasing Sensitive Information on iPhones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-buying-guides-by-toms-technology-hub/"><u>Expert Reviews & Buying Guides by Tom’s Technology Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-broken-usb-connections-in-the-latest-windows-operating-systems/"><u>Expert Tips for Repairing Broken USB Connections in the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-old-school-techniques-elevating-edits/"><u>Prime Old-School Techniques Elevating Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-review/"><u>The Ultimate Guide to Computer Hardware by Tom's Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-in-air-cooled-showdown-in-depth-review-of-120mm-aio-units-from-be-quiet-corsair-cooler-master-and-enermax/"><u>Top 4 in Air-Cooled Showdown: In-Depth Review of 120MM AIO Units From Be Quiet, Corsair, Cooler Master, and Enermax</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-repair-steps-when-your-3d-printers-bed-wont-heat/"><u>Troubleshooting: Repair Steps When Your 3D Printer's Bed Won't Heat</u></a></li>
 </ul></div>
 

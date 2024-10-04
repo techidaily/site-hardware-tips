@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Delta Airlines’ Controversial Move that Alienated Long-Time Supporters: Why Did They Do It? | Business Traveller Blog"
-date: 2024-09-17 16:56:10
-updated: 2024-09-20 12:12:35
+date: 2024-09-26T20:42:36.448Z
+updated: 2024-10-03T23:38:45.803Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed-for-2024/"><u>[New] A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quickcapture-studio-chrome-os-snapper-for-2024/"><u>[New] QuickCapture Studio Chrome OS Snapper for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/"><u>[Updated] Academic Anchors Identifying Top 10 Lecture Preservation Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-complexities-of-youtubes-seo-landscape/"><u>[Updated] Navigating the Complexities of YouTube's SEO Landscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/199-on-a-premium-dell-quad-hd-ips-monitor-buy-today/"><u>$199 on a Premium Dell Quad HD IPS Monitor - Buy Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>2024 Approved Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alienware-aw3225qf-sale-alert-dazzle-with-a-200-discount-on-the-ultimate-4k-32-inch-gaming-monitor/"><u>Alienware AW3225QF Sale Alert: Dazzle with a $200 Discount on the Ultimate 4K 32-Inch Gaming Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-pg2nqft2a-in-depth-180hz-gaming-monitor-analysis-unmatched-speed-and-affordability/"><u>ASRock PG2nQFT2a - In-Depth 180Hz Gaming Monitor Analysis: Unmatched Speed & Affordability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-rog-swift-oled-pg32ucdp-a-critics-take-on-reaching-the-pinnacle-of-gaming-displays/"><u>Asus ROG Swift OLED PG32UCDP: A Critic's Take on Reaching the Pinnacle of Gaming Displays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-the-asus-tuf-24-x-165hz-ips-gaming-display-for-just-99-on-newegg/"><u>Buy the Asus TUF 24 X 165Hz IPS Gaming Display for Just $99 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/classic-monitor-sets-new-standard-at-700hz-sacrificing-resolution-to-just-120p/"><u>Classic Monitor Sets New Standard at 700Hz, Sacrificing Resolution to Just 120P</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-by-tom-expertise-in-electronics-and-computing/"><u>Comprehensive Guide by Tom: Expertise in Electronics and Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y17s-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y17s? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-error-code-3-0x0001000b-in-rainbow-six-siege-gameplay/"><u>Overcoming Error Code 3-0X0001000B in Rainbow Six: Siege Gameplay</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-create-talking-cartoon-images-using-top-tools/"><u>Updated Create Talking Cartoon Images Using Top Tools</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

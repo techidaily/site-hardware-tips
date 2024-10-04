@@ -1,7 +1,7 @@
 ---
 title: Extended AI-Enhanced Software Support for a Decade - Samsung's Revolutionary TV Upgrades
-date: 2024-09-24T17:44:22.053Z
-updated: 2024-09-28T17:10:27.803Z
+date: 2024-09-26T23:10:30.721Z
+updated: 2024-10-04T00:36:09.592Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,16 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,24 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlocking-the-secrets-to-instagram-post-replicas/"><u>[New] 2024 Approved Unlocking the Secrets to Instagram Post Replicas</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-imagination-drought-hindering-vr-development/"><u>[New] In 2024, The Imagination Drought Hindering VR Development</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-learn-the-art-of-adding-borders-on-insta-videos/"><u>[New] Learn the Art of Adding Borders on Insta Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-track-to-excellent-valorant-thumbnails-artistry/"><u>[Updated] 2024 Approved Fast-Track to Excellent Valorant Thumbnails Artistry</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-lenovo-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Lenovo FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://techidaily.com/enhanced-user-experience-with-the-latest-cookiebot-technology/"><u>Enhanced User Experience with the Latest Cookiebot Technology</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-ultimate-guide-to-tiktoks-most-engaging-rap-songs/"><u>In 2024, The Ultimate Guide to TikTok's Most Engaging Rap Songs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/maximizing-engagement-with-youtube-on-facebook-platforms-for-2024/"><u>Maximizing Engagement with YouTube on Facebook Platforms for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-with-toms-informed-choices/"><u>Navigating New Hardware with Tom's Informed Choices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-in-depth-analysis-of-pc-hardware/"><u>Navigating Technology with Tom: In-Depth Analysis of PC Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-trends-with-toms-hardware-experts/"><u>Navigating Through Technology Trends with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-meets-performance-introducing-noctuas-enormous-cooling-solution-for-the-gh2n02-grace-hopper-cpu/"><u>Power Meets Performance: Introducing Noctua's Enormous Cooling Solution for the GH2n02 Grace Hopper CPU</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-arctic-freezer-36-a-revolutionary-leap-in-budget-friendly-air-conditioning/"><u>Review of Arctic Freezer 36 - A Revolutionary Leap in Budget-Friendly Air Conditioning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-a-77-3d-printer-from-aliexpress-proves-surprisingly-reliable-testimonials/"><u>Review: A $77 3D Printer From AliExpress Proves Surprisingly Reliable - Testimonials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chilled-and-lit-valkyrie-al125-air-cooler-for-pc-enthusiasts-with-ips-monitor-compatibility-and-customizable-rgb-lighting-all-under-20/"><u>Stay Chilled and Lit: Valkyrie AL125 Air Cooler for PC Enthusiasts with IPS Monitor Compatibility and Customizable RGB Lighting All Under $20</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-avoiding-layer-displacement-faults-during-3d-printing-process/"><u>Strategies for Avoiding Layer Displacement Faults During 3D Printing Process</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-critical-hardware-and-software-analysis-by-tom/"><u>The Ultimate Resource for Critical Hardware and Software Analysis by Tom</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-undetected-controllers-in-steam-on-pc/"><u>Troubleshooting Guide: Fixing Undetected Controllers in Steam on PC</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1-ultimate-guide-mastering-your-live-streams-with-manycam-the-top-virtual-camera-solution/"><u>1. Ultimate Guide: Mastering Your Live Streams with ManyCam – The Top Virtual Camera Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-non-responsive-alt-plus-tab-feature-in-windows/"><u>Expert Advice on Fixing Non-Responsive Alt + Tab Feature in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone X without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-beats-in-pictures-the-insta-storytelling-wave/"><u>In 2024, Beats in Pictures The Insta Storytelling Wave</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>In 2024, Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-lite-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Lite To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-minisforums-new-affordable-gaming-laptop-156-screen-144hz-refresh-rate-and-1440p-display-just-189/"><u>Introducing Minisforum's New Affordable Gaming Laptop: 15.6 Screen, 144Hz Refresh Rate & 1440P Display - Just $189</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-the-toms-hardware-way-to-informed-choices/"><u>Mastering Hardware Knowledge: The Tom's Hardware Way to Informed Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-performance-select-the-best-from-toms-tech-gear/"><u>Maximize Performance: Select the Best From Tom's Tech Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-digital-innovation-through-tome-hardware-experts/"><u>Navigating Digital Innovation Through Tom'e Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-insider-tips-from-toms-hardware-experts/"><u>Navigating New Tech Trends: Insider Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repairing-saving-mechanism-for-display-configurations-on-windows/"><u>Repairing Saving Mechanism for Display Configurations on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-odyssey-gaming-monitor-4k-55-inches-new-generation-unprecedentedly-affordable/"><u>Samsung Odyssey Gaming Monitor (4K, 55 Inches) - New Generation, Unprecedentedly Affordable</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-compatibility-issues-with-hp-monitor-drivers-on-windows-1187-platforms/"><u>Solving Compatibility Issues with HP Monitor Drivers on Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled!</u></a></li>
 </ul></div>
 

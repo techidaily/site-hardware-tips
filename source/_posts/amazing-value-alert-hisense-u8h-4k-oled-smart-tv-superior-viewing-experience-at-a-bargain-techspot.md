@@ -1,7 +1,7 @@
 ---
 title: "Amazing Value Alert: Hisense U8H 4K OLED Smart TV - Superior Viewing Experience at a Bargain! | TechSpot"
-date: 2024-09-27T19:21:26.773Z
-updated: 2024-09-28T16:31:46.889Z
+date: 2024-10-02T21:25:25.562Z
+updated: 2024-10-04T00:26:14.260Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,16 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-popularity-the-best-hashtags-to-use-on-instagram-for-2024/"><u>[New] Unlocking Popularity The Best #Hashtags to Use on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-find-hidden-watch-tile-artwork-for-2024/"><u>[Updated] Find Hidden Watch Tile Artwork for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/beginners-journey-into-hosting-successful-zoom-sessions-for-2024/"><u>Beginner's Journey Into Hosting Successful Zoom Sessions for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-a2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi A2? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-computer-world-a-deep-look-by-toms-hardware-experts/"><u>Navigating Computer World: A Deep Look by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-at-toms-hardware-corner/"><u>Navigating the Latest in Computing at Tom's Hardware Corner</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-8-best-timecode-calculator-to-use-onlineiphoneandroid-for-2024/"><u>New 8 Best Timecode Calculator to Use (Online/iPhone/Android) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/public-apology-from-ekwb-on-delayed-disbursements-ensures-swift-action-towards-change/"><u>Public Apology From EKWB on Delayed Disbursements; Ensures Swift Action Towards Change</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revealing-the-true-potential-of-anycubic-kobra-2-max-unmatched-quality/"><u>Revealing the True Potential of Anycubic Kobra 2 Max - Unmatched Quality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-erasing-your-twitch-presence-forever/"><u>Step-by-Step Instructions for Erasing Your Twitch Presence Forever</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-berry-battle-of-heat-management-mugurisu-4g-with-a-pink-twist-and-the-renowned-thermal-grizzlys-kryonaut/"><u>The Berry Battle of Heat Management: MUGURISU 4G with a Pink Twist and the Renowned Thermal Grizzly's Kryonaut</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-top-10-trending-tweets-of-2023-for-2024/"><u>[New] Unveiling Top 10 Trending Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>[Updated] In 2024, The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-download-youtube-snippets-with-perfection/"><u>2024 Approved Download YouTube Snippets with Perfection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-essential-raspberry-pi-expansion-boards-hats-for-project-success-and-enhancement/"><u>2024'S Essential Raspberry Pi Expansion Boards (HATs) for Project Success and Enhancement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227164326-7/"><u>動画ビデオ質を改善!高解像度処理ができる7つの最適ソフトウェアリスト</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722205835780-chatgpts-desktop-version-still-coming-no-problem-try-these-powerful-open-source-apps-instead/"><u>ChatGPT's Desktop Version Still Coming? No Problem – Try These Powerful Open Source Apps Instead</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertidor-gratuito-de-archivos-flv-a-webm-online-herramienta-rapida-y-facil-de-usar/"><u>Convertidor Gratuito De Archivos FLV a WEBM Online - Herramienta Rápida Y Fácil De Usar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/corsairs-premium-air-a115-cpu-cooler-an-insightful-review-on-its-quiet-strong-performance-and-cost/"><u>Corsair's Premium Air A115 CPU Cooler - An Insightful Review on Its Quiet, Strong Performance and Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-crafting-beautiful-lithophanes-with-a-3d-printer-at-home/"><u>Expert Tips on Crafting Beautiful Lithophanes with a 3D Printer at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-hardware-with-toms-innovative-guides/"><u>Exploring Cutting-Edge Hardware with Tom's Innovative Guides</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-applied-for-dragon-ball-fighterzs-network-startup-failure/"><u>Fixes Applied for Dragon Ball FighterZ’s Network Startup Failure</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718206-introducing-x-apply-stencils-making-idiot-proof-temperature-improvement-easier-than-ever-coming-soon/"><u>Introducing X-Apply Stencils: Making 'Idiot-Proof' Temperature Improvement Easier than Ever - Coming Soon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-computing-with-toms-hardware-insights/"><u>Navigating Modern Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-vpn-expert-evaluations-and-customer-ratings/"><u>The Ultimate Guide to Choosing a VPN: Expert Evaluations and Customer Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/17241260693471-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-the-power-of-personal-branding-insider-secrets-for-flawless-biographies/"><u>Unlock the Power of Personal Branding Insider Secrets for Flawless Biographies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-bambus-a1-slider-mattress-an-expert-review-and-performance-analysis-on-a-full-king-size/"><u>Unveiling the Secrets of Bambu's A1 Slider Mattress - An Expert Review and Performance Analysis on a Full King Size</u></a></li>
 </ul></div>
 

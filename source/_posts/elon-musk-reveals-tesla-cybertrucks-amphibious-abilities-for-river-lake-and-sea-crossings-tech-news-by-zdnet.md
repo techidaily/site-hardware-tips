@@ -1,7 +1,7 @@
 ---
 title: Elon Musk Reveals Tesla Cybertruck's Amphibious Abilities for River, Lake & Sea Crossings | Tech News by ZDNet
-date: 2024-09-26T19:55:19.124Z
-updated: 2024-09-28T18:31:54.358Z
+date: 2024-09-26T16:52:52.156Z
+updated: 2024-10-03T16:43:21.149Z
 tags:
   - transportation
 categories:
@@ -77,31 +77,27 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-content-top-8-no-cost-video-editing-software/"><u>[Updated] 2024 Approved Elevate Your Content Top 8 No-Cost Video Editing Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-next-level-photography-smart-hdr-and-beyond/"><u>[Updated] 2024 Approved Next-Level Photography Smart HDR and Beyond</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-comparative-review-of-superior-password-managers-discover-your-perfect-blend-of-fee-free-and-paid-solutions/"><u>A Comparative Review of Superior Password Managers – Discover Your Perfect Blend of Fee-Free and Paid Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-iphone-video-converter-factory-vs-pro-version-key-features-and-benefits/"><u>Comparing iPhone Video Converter Factory Vs. Pro Version: Key Features & Benefits</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-prints-expert-insights-on-applying-the-cura-skin-feature-for-textured-finishes/"><u>Elevate Your Prints: Expert Insights on Applying the Cura Skin Feature for Textured Finishes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-technology-chronicles/"><u>Exploring Hardware with Tom's Technology Chronicles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-screen-recording-apps-for-mac-capture-your-screenshots-in-seconds/"><u>Free Screen Recording Apps for Mac - Capture Your Screenshots in Seconds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hytes-innovative-solution-a-seamless-approach-to-assemble-stunning-rgb-systems/"><u>Hyte's Innovative Solution: A Seamless Approach to Assemble Stunning RGB Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-examination-of-components-by-toms-hardware-experts/"><u>In-Depth Examination of Components by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-techniques-switching-from-fbx-to-obj-files-for-enhanced-results-in-3d-printing/"><u>Innovative Techniques: Switching From FBX to OBJ Files for Enhanced Results in 3D Printing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-psd-color-dynamics/"><u>Master PSD Color Dynamics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-crypto-mining-energy-costs-best-power-supplies-tailored-for-ethereum-bitcoin-success/"><u>Mastering Crypto Mining Energy Costs: Best Power Supplies Tailored for Ethereum, Bitcoin Success</u></a></li>
-<li><a href="https://win-dash.techidaily.com/netgear-wireless-networking-driver-updates-where-and-how-to-download/"><u>NETGEAR Wireless Networking Driver Updates: Where and How to Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-guides-for-the-modern-gadgeteer-toms-hardware-uncovered/"><u>Pioneering Reviews & Guides for the Modern Gadgeteer: Tom's Hardware Uncovered</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-find-n3-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Find N3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-gear-at-toms-tech-hub/"><u>Unveiling the Latest in Computer Gear at Tom's Tech Hub</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-advanced-tips-for-sending-fb-videos-via-whatsapp/"><u>[New] In 2024, Advanced Tips for Sending FB Videos via WhatsApp</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>[Updated] Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-with-the-power-of-cookiebot-technology/"><u>Enhanced with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-5-lite-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor Magic 5 Lite by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-gear-reviews/"><u>Tom's Tech Insights: Comprehensive Computer Gear Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide/"><u>Tom's Tech Review: Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-cura-add-ons-enhance-your-3d-print-projects/"><u>Top Cura Add-Ons: Enhance Your 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-gear-for-tech-enthusiasts/"><u>Top-Rated Raspberry Pi Gear for Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transformative-notetaking-the-mematic-way/"><u>Transformative Notetaking The Mematic Way</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

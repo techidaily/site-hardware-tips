@@ -1,7 +1,7 @@
 ---
 title: Autonomous Deliveries on the Rise with Uber Leading the Way, According to ZDNet
-date: 2024-09-21T17:08:28.534Z
-updated: 2024-09-28T16:13:42.113Z
+date: 2024-09-26T16:33:50.638Z
+updated: 2024-10-03T23:31:45.427Z
 tags:
   - transportation
 categories:
@@ -77,28 +77,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-comparing-cloud-providers-who-offers-what-price/"><u>[Updated] Comparing Cloud Providers Who Offers What Price</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-future-of-videography-top-cameras-2024/"><u>[Updated] Future of Videography Top Cameras 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/addressing-the-rattling-sound-issues-noctuas-nh-d15-g2-cpu-heatsink-investigation/"><u>Addressing the Rattling Sound Issues: Noctua's NH-D15 G2 CPU Heatsink Investigation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869812023-alternative-ways-to-view-roku-content-beyond-traditional-hardware/"><u>Alternative Ways to View Roku Content Beyond Traditional Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-animated-wireless-charger-in-the-shape-of-a-3d-printer-save-over-50-with-bambu-labs/"><u>DIY Animated Wireless Charger in the Shape of a 3D Printer: Save Over $50 with Bambu Labs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-radio-broadcasts-for-college-hoops-fans-march-madness-to-final-four-journey/"><u>Exclusive Radio Broadcasts for College Hoops Fans: March Madness to Final Four Journey</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-roundup-performance-analysis-of-120mm-all-in-one-coolers-by-be-quiet-corsair-cooler-master-and-enermax/"><u>Expert Roundup: Performance Analysis of 120Mm All-in-One Coolers by Be Quiet, Corsair, Cooler Master & Enermax</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ffxiv-stuck-on-progress-verification-stage/"><u>FFXIV Stuck on Progress Verification Stage</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-7-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 7 With or Without Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-with-toms-hardware-guide/"><u>Inside the World of Technology with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pcs-the-ultimate-toms-hardware-compilation/"><u>Mastering Gadgets and PCs: The Ultimate Tom's Hardware Compilation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-electronics-a-closer-look-by-tom/"><u>Navigating the Latest in Electronics - A Closer Look by Tom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/proton-introduces-new-bitcoin-compatible-wallet-feature/"><u>Proton Introduces New Bitcoin-Compatible Wallet Feature</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-insights-the-complete-guide-from-toms-gadget-review/"><u>Top Tech Insights: The Complete Guide From Tom's Gadget Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-audios-with-paused-youtube-videos-in-google-chrome-or-mozilla-firefox/"><u>Troubleshooting Persistent Audios with Paused YouTube Videos in Google Chrome or Mozilla Firefox</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevate-your-sims-gaming-with-recording-expertise/"><u>[New] 2024 Approved Elevate Your Sims Gaming with Recording Expertise</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-streamlining-iphoneandroid-tips-for-effective-feeds/"><u>[Updated] Social Media Streamlining IPhone/Android Tips for Effective Feeds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-flight-cam-combat-dji-spark-vs-gopro-fury/"><u>2024 Approved Flight Cam Combat DJI Spark VS GoPro Fury</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>2024 Approved Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-diagnose-and-cure-your-pcs-persistent-black-screen-on-windows-11/"><u>Guide to Diagnose & Cure Your PC's Persistent Black Screen on Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-manual-for-installing-microsofts-wm6/"><u>In 2024, Complete Manual for Installing Microsoft's WM6</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-accused-of-illegally-distributing-counterfeit-aida64-software-on-lcd-equipment/"><u>Lamptron Accused of Illegally Distributing Counterfeit AIDA64 Software on LCD Equipment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-chats-10-winning-phrases-to-boost-your-cryptocurrency-knowledge/"><u>Mastering AI Chats: 10 Winning Phrases to Boost Your Cryptocurrency Knowledge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-the-ultimate-resource-by-toms-hardware-pro/"><u>Mastering Technology Choices - The Ultimate Resource by Tom's Hardware Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-expert-advice-by-toms-hardware/"><u>Navigate the World of Technology: Expert Advice by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pastel-cooling-showdown-extrememugurisu-4g-strawberry-edition-challenges-the-classic-thermal-grizzlys-kryonaut-in-aroma-and-efficiency/"><u>Pastel Cooling Showdown: ExtremeMUGURISU 4G Strawberry Edition Challenges the Classic Thermal Grizzly's Kryonaut in Aroma and Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplify-thermal-management-the-revolutionary-x-apply-stencil-kits-for-hassle-free-tim-application/"><u>Simplify Thermal Management: The Revolutionary X-Apply Stencil Kits for Hassle-Free TIM Application</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Huge Sale Alert: Save $150 on the Amazing Fire TV Omnia Series QLED - Shop Now on ZDNet"
-date: 2024-09-21T19:36:58.306Z
-updated: 2024-09-28T18:23:07.634Z
+date: 2024-09-27T16:58:40.907Z
+updated: 2024-10-03T18:52:05.540Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,15 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-full-guide-to-facebook-algorithm-change-are-you-ready-for-2024/"><u>[New] Full Guide to Facebook Algorithm Change Are You Ready？ for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[New] In 2024, Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-infuse-melodies-into-powerpoint-visuals-for-2024/"><u>[Updated] Infuse Melodies Into PowerPoint Visuals for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-affordable-led-ram-modules-for-gamers/"><u>Best Affordable LED RAM Modules for Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-pick-rp2040-based-single-board-computers-coming/"><u>Best Pick: RP2040-Based Single Board Computers Coming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-high-speed-wi-fi-routers-of-202n4-optimized-for-wi-fi-6-6e-and-future-standards-wi-fi-7/"><u>Best Value High-Speed Wi-Fi Routers of 202N4: Optimized for Wi-Fi 6, 6E and Future Standards (Wi-Fi 7)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-analysis-by-toms-guides/"><u>Comprehensive Hardware Analysis by Tom’s Guides</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-software-for-mp4-recording-for-2024/"><u>The Ultimate Software for MP4 Recording for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-15-convertidores-de-sonido-libres-mas-efectivos-para-el-ano-2024-movavi/"><u>Top 15 Convertidores De Sonido Libres Más Efectivos Para El Año 2024 - Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Magic 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-plot-twists-for-success-top-3-channel-building-tactics/"><u>[New] In 2024, Plot Twists for Success Top 3 Channel-Building Tactics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-discovering-where-youtube-video-management-happens-for-2024/"><u>[Updated] Discovering Where YouTube Video Management Happens for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/5-uphere-m201-essential-nvme-ssd-heatsink-performance-review-reliable-thermal-management-on-a-budget/"><u>$5 UpHere M201 Essential NVMe SSD Heatsink Performance Review - Reliable Thermal Management on a Budget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-reveals-intriguing-zen-5-insights-the-shift-to-a-compact-core-reduces-size-by-25-introducing-revolutionary-soc-and-chip-design-with-twin-ccxs/"><u>AMD Reveals Intriguing Zen 5 Insights: The Shift to a Compact Core Reduces Size by 25%, Introducing Revolutionary SoC & Chip Design with Twin CCXs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-socket-and-chipset-for-your-rig-elite-motherboards-in-202/"><u>Choosing the Perfect Socket and Chipset for Your Rig: Elite Motherboards in 202</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crusader-kings-iii-update-fixes-previous-pc-compatibility-issues/"><u>Crusader Kings III Update Fixes Previous PC Compatibility Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-new-gadgets-with-toms-electronics-expertise/"><u>Discover New Gadgets with Tom's Electronics Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-navigating-the-world-of-hardware-and-gadgets/"><u>Expert Reviews by Tom: Navigating the World of Hardware and Gadgets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-classical-works-free-for-all/"><u>Exploring Classical Works Free for All</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-choosing-between-tiktok-and-youtube-shorts-a-users-guide/"><u>In 2024, Choosing Between TikTok and YouTube Shorts A User's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-chromebook-masterclass-excellent-recording-suite/"><u>In 2024, Chromebook Masterclass Excellent Recording Suite</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-design-wizards-perfect-templates-for-gaming-channel-logos/"><u>In 2024, Design Wizards Perfect Templates for Gaming Channel Logos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-your-hp-laserjet-1320-printer-driver-on-windows-here/"><u>Install or Update Your HP LaserJet 1320 Printer Driver on Windows Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computing-expert-advice-from-toms-hardware-hub/"><u>Mastering Modern Computing: Expert Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pros-and-cons-of-amazon-fire-vs-samsung-which-fits-you-perfectly/"><u>Pros & Cons of Amazon Fire Vs. Samsung - Which Fits You Perfectly?</u></a></li>
+<li><a href="https://win11.techidaily.com/resuming-printer-services-a-windows-guide/"><u>Resuming Printer Services: A Windows Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xpgs-advanced-dual-fan-cooler-with-built-in-pump-and-loop-ideal-for-high-performance-up-to-280w-processors/"><u>XPG's Advanced Dual-Fan Cooler with Built-In Pump and Loop - Ideal for High Performance up to 280W Processors</u></a></li>
 </ul></div>
 

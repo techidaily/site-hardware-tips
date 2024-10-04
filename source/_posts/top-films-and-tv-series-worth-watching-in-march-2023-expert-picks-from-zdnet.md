@@ -1,7 +1,7 @@
 ---
 title: Top Films & TV Series Worth Watching in March 2023 - Expert Picks From ZDNet
-date: 2024-09-26T16:14:51.902Z
-updated: 2024-09-28T17:41:00.582Z
+date: 2024-09-30T01:18:47.257Z
+updated: 2024-10-03T21:48:17.248Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,22 +105,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-capturing-stills-in-time-a-guide-to-slow-motion-on-ig/"><u>[New] In 2024, Capturing Stills in Time A Guide to Slow Motion on IG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-marketing-game-free-50-youtube-adornments-here-for-2024/"><u>[Updated] Elevate Your Marketing Game - Free 50 YouTube Adornments Here for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-10-best-trending-background-music-for-youtube-shorts/"><u>[Updated] The 10 Best Trending Background Music for YouTube Shorts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>2024 Approved Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/achieve-ultimate-overclocking-the-latest-arctic-coolers-engineered-for-upcoming-intel-chipsets/"><u>Achieve Ultimate Overclocking: The Latest Arctic Coolers Engineered for Upcoming Intel Chipsets!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-in-class-gaming-machines-expert-reviews-and-top-picks/"><u>Best-in-Class Gaming Machines: Expert Reviews and Top Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-cooling-system-pwm-or-dc-fans-for-your-pc/"><u>Choosing the Right Cooling System: PWM or DC Fans for Your PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-your-tech-smart-picks-and-reviews-at-toms-hardware-forum/"><u>Choosing Your Tech: Smart Picks & Reviews at Tom's Hardware Forum</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175714358-fx360-pro-cooler-by-id-cooling-exceptional-performance-at-just-60/"><u>FX360 Pro Cooler by ID-Cooling - Exceptional Performance at Just $60!</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 7/iPad? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros/"><u>In 2024, Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-12r-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12R Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125139449-revolutionize-bulk-printing-and-cut-expenses-snag-huge-savings-with-the-elegoo-neptune-3plus-enjoy-80-off-now/"><u>Revolutionize Bulk Printing and Cut Expenses: Snag Huge Savings with the Elegoo Neptune 3+ - Enjoy $80 Off Now</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>Streamlined Capturing Top 5 Mac Tools for Effective Snipping</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-and-motherboards-at-toms-equipment-corner/"><u>Unveiling the Latest in Gadgets and Motherboards at Tom's Equipment Corner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-toms-computer-review-platform/"><u>Unveiling the Secrets of Tom's Computer Review Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhance-info-blocks-templates-for-youtube-titles/"><u>[New] 2024 Approved Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] 2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-the-steam-updates-wont-download-problem/"><u>Comprehensive Guide: Resolving the 'Steam Updates Won't Download' Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-speed-with-nextorages-new-pcie-40-2230-ssd-7400-mbs-on-your-portable-game-console/"><u>Experience Unmatched Speed with Nextorage's New PCIe 4.0 2230 SSD - 7,400 MB/S on Your Portable Game Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-computer-gear-by-toms-hardware-guides/"><u>Expert Analysis on Computer Gear by Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-on-agis-ai818-2tb-solid-state-drive-agility-under-the-microscope/"><u>Expert Insight on AGI's AI818 2TB Solid State Drive - Agility Under the Microscope.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-digital-innovations-with-toms-electronic-guide/"><u>Exploring Digital Innovations with Tom's Electronic Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-toms-hardware-experts/"><u>Exploring Tech with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-guru-toms-hardware-insider-guides/"><u>Gadget Guru Tom's Hardware Insider Guides</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-360-videos-with-iphone/"><u>How to Make 360 Videos with iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-8-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 8 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huawei-powered-first-ever-consumer-ssds-hit-shelves-meet-kitstores-premium-xtreme-series-with-ample-storage-up-to-4tb/"><u>Huawei-Powered First Ever Consumer SSDs Hit Shelves - Meet KitStore's Premium Xtreme Series with Ample Storage up to 4TB</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-11-cost-free-video-title-creator-tools-online/"><u>In 2024, Top 11 Cost-Free Video Title Creator Tools Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-c12-plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia C12 Plus</u></a></li>
 </ul></div>
 

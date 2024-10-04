@@ -1,7 +1,7 @@
 ---
 title: "Samsung S90C: A Top-Tier OLED Television Now Available for Less – Discover the Great Value in This Timeless Model | TechReview"
-date: 2024-09-25T19:49:54.705Z
-updated: 2024-09-28T16:12:04.704Z
+date: 2024-09-29T18:52:11.368Z
+updated: 2024-10-03T18:06:05.258Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +99,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-iphone-ringtone-updates/"><u>[Updated] Mastering iPhone Ringtone Updates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-discovering-the-power-of-fraps-in-video-capture/"><u>2024 Approved Discovering the Power of Fraps in Video Capture</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhanced-user-experience-with-dynamic-retargeting-through-cookiebot-technology/"><u>Enhanced User Experience with Dynamic Retargeting Through Cookiebot Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/kangaroo-talk-100plus-slang-for-the-aussies/"><u>Kangaroo Talk: 100+ Slang for the Aussies</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-mp4-mpeg-movavi/"><u>Online MP4-MPEG 제공을 무료로 전환하는 방법 - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-webm-videos-to-mp4-on-windows-11/"><u>Step-by-Step Guide: Converting WebM Videos to MP4 on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gaming-rigs-of-2/"><u>Top Gaming Rigs of 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-4k-displays-2024-edition/"><u>Top-Rated Affordable 4K Displays - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-affordable-powerhouse-gaming-laptops-for-less-than-1500/"><u>Ultimate List of Affordable Powerhouse Gaming Laptops for Less than $1,500</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laughing-made-easy-the-zero-cost-meme-kit/"><u>[Updated] Laughing Made Easy – The Zero-Cost Meme Kit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pursuit-for-perfection-exploring-4k-with-hps-z32x/"><u>2024 Approved Pursuit for Perfection Exploring 4K with HP's Z32X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-do-screen-recording-on-ipad-in-2024/"><u>How to Do Screen Recording on iPad, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-manipulate-iphone-pics-flip-tilt-and-more-for-2024/"><u>How to Manipulate iPhone Pics Flip, Tilt & More for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-revitalize-your-lagging-iphone-a-guide-to-diagnosing-and-remedying-the-issues/"><u>How To Revitalize Your Lagging iPhone: A Guide to Diagnosing And Remedying The Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/to-case-or-not-to-case-do-ios-and-android-devices-really-benefit-from-an-extra-shell/"><u>To Case or Not to Case: Do iOS & Android Devices Really Benefit From an Extra Shell?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-smartphones-equipped-with-audio-jacks-a-comprehensive-guide/"><u>Top-Ranked Smartphones Equipped with Audio Jacks: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-waterproof-cellphone-cases-ultimate-protection-guide/"><u>Top-Rated Waterproof Cellphone Cases : Ultimate Protection Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-guide-how-to-correct-the-system-ui-unresponsive-issue-on-your-android-phone/"><u>Troubleshooting Guide: How to Correct the 'System UI Unresponsive' Issue on Your Android Phone</u></a></li>
 </ul></div>
 

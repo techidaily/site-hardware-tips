@@ -1,7 +1,7 @@
 ---
 title: "Alert: Roku Users Beware as 576K Accounts Hit by Cyber Attack - Safeguard Your Entertainment Hub | ZDNET"
-date: 2024-09-25T16:58:49.615Z
-updated: 2024-09-28T17:30:37.426Z
+date: 2024-10-03T00:30:03.250Z
+updated: 2024-10-04T01:19:44.087Z
 tags:
   - tvs
 categories:
@@ -55,35 +55,24 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-becoming-a-snapchat-illustration-wizard-for-2024/"><u>[New] Becoming a Snapchat Illustration Wizard for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-escaping-boredom-with-laughter-20-wit-infused-jailmates-tales-from-fb-for-2024/"><u>[New] Escaping Boredom with Laughter 20 Wit-Infused Jailmates' Tales From Fb for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement/"><u>[Updated] 2024 Approved The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/controlling-the-future-governmental-approaches-to-ai-regulation-explored/"><u>Controlling the Future: Governmental Approaches to AI Regulation Explored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-hardware-guide/"><u>Exploring Technology with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guide/"><u>Exploring the Latest in Technology with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exposing-the-fraudulent-use-of-counterfeit-keysets-by-lamptron-for-lcd-based-products/"><u>Exposing the Fraudulent Use of Counterfeit Keysets by Lamptron for LCD-Based Products</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-waste-to-wonder-achieving-true-to-life-texture-appearance-and-smell-of-wood-through-3d-printing-with-sawdust-ink/"><u>From Waste to Wonder: Achieving True-to-Life Texture, Appearance, and Smell of Wood Through 3D Printing with Sawdust Ink</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-your-projects-best-3d-printing-materials/"><u>Future-Proof Your Projects: Best 3D Printing Materials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-eliminating-gaps-and-imperfections-in-3d-printed-models/"><u>Guide: Eliminating Gaps & Imperfections in 3D Printed Models</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>In 2024, M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-tech-reviews-spotlight-on-toms-hardware-findings/"><u>In-Depth Tech Reviews: Spotlight on Tom's Hardware Findings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovate-and-upgrade-with-tom-the-ultimate-guide-to-high-performance-hardware/"><u>Innovate & Upgrade with Tom - The Ultimate Guide to High-Performance Hardware</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-mastery-achieved-mondlys-best-of-2022-award/"><u>Language Mastery Achieved: Mondly's Best of 2022 Award</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-maze-of-stock-visual-acquisition/"><u>Navigating the Maze of Stock Visual Acquisition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-camera-to-feed-ig-photo-tutorial/"><u>[New] From Camera to Feed IG Photo Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-halt-youtube-suggested-content-now/"><u>[New] In 2024, Halt YouTube Suggested Content Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-livestream-guide-for-pre-recorded-videos-on-fb/"><u>[New] Step-by-Step Livestream Guide for Pre-Recorded Videos on FB</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-master-your-online-presence-top-20-free-apps-to-craft-facebook-videos/"><u>[Updated] 2024 Approved Master Your Online Presence Top 20 Free Apps to Craft Facebook Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-deal-of-the-year-snag-the-cutting-edge-thrifty-beginner-4k-resin-3d-printer-at-an-unbeatable-44-discounted-rate/"><u>Black Friday Deal of the Year: Snag the Cutting-Edge 'Thrifty Beginner 4K Resin' 3D Printer at an Unbeatable 44% Discounted Rate!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/download-twitters-livestreams-and-save-as-mp3/"><u>Download Twitter's Livestreams and Save as MP3</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 11 Pro?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ey-through-youtubes-spectacular-vr-realms-for-2024/"><u>Journey Through YouTube's Spectacular VR Realms for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-mastery-creating-stunning-3d-chocolates-at-home-using-the-cocoapress-printer/"><u>Step-by-Step Mastery: Creating Stunning 3D Chocolates at Home Using the CocoaPress Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-insights/"><u>Tom's Tech Hub: Comprehensive Reviews and Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-votre-video-vob-en-format-mp4-pour-la-diffusion-sur-tous-les-appareils-solution-securisee-et-simple-guide-dutilisation-de-movavi/"><u>Transformez Votre Vidéo VOB en Format MP4 Pour La Diffusion Sur Tous Les Appareils, Solution Sécurisée Et Simple - Guide D'utilisation De Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-with-thermalrights-top-ranking-peerless-assassin-120-se-the-premier-33-cpu-air-cooler-on-market/"><u>Upgrade Your PC with Thermalright's Top-Ranking Peerless Assassin 120 SE: The Premier $33 CPU Air Cooler on Market</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

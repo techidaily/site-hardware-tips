@@ -1,7 +1,7 @@
 ---
 title: "Score the Exclusive Amazon Offer: Buy Fire TV Omni Series QLED Now at a Staggering $150 Discount, Highlighted by ZDNet"
-date: 2024-09-25T18:54:13.300Z
-updated: 2024-09-28T16:26:31.217Z
+date: 2024-10-03T01:36:56.054Z
+updated: 2024-10-03T18:05:23.954Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>[New] In 2024, Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile/"><u>[New] In 2024, Seamless Stories From The Past Accessing Older FB Content on PC/Mobile</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-verifying-online-self-portraits-on-insta-for-2024/"><u>[New] Verifying Online Self-Portraits on Insta for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-your-ps4s-potential-recording-strategies-for-gamers/"><u>[Updated] 2024 Approved Unlocking Your PS4's Potential Recording Strategies for Gamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>[Updated] In 2024, Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gskills-trident-z5-rgb-ram-comprehensive-review-on-its-impressive-32gb-capacity-and-speed-at-ddr5-640erate/"><u>G.Skill's Trident Z5 RGB RAM: Comprehensive Review on Its Impressive 32GB Capacity and Speed at DDR5-640erate</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-c55-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme C55 Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-clearing-your-iphone-chats-without-losing-anything-expert-strategies-and-easy-data-restoration-steps-inside/"><u>Master Clearing Your iPhone Chats Without Losing Anything: Expert Strategies & Easy Data Restoration Steps Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meet-the-speedy-bed-slinger-bambu-labs-revolutionary-3d-printer-launching-december-14th/"><u>Meet the Speedy 'Bed Slinger': Bambu Lab's Revolutionary 3D Printer Launching December 14Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-terrain-in-depth-analysis-by-toms-electronics-specialist/"><u>Navigating High-Tech Terrain: In-Depth Analysis by Tom's Electronics Specialist</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-through-toms-comprehensive-reviews/"><u>Navigating New Tech Trends Through Tom's Comprehensive Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-a-trip-through-toms-electronic-storehouse/"><u>Navigating the World of Hardware: A Trip Through Tom's Electronic Storehouse</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nine-must-have-technologies-for-online-privacy-protection-for-2024/"><u>Nine Must-Have Technologies for Online Privacy Protection for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premium-network-upgraders-extra-ports-enhanced-speeds/"><u>Premium Network Upgraders: Extra Ports, Enhanced Speeds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chilled-secure-the-ultra-efficient-arctic-aio-cooler-at-an-unbeatable-price-of-only-74/"><u>Stay Chilled: Secure the Ultra-Efficient Arctic AIO Cooler at an Unbeatable Price of Only $74!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-select-picks-quality-3d-printing-filaments-of-2024/"><u>The Best Select Picks: Quality 3D Printing Filaments of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-finest-psu-selection-for-profitable-crypto-farming-power-reliability-for-bitcoin-ethereum/"><u>The Finest PSU Selection for Profitable Crypto Farming: Power Reliability for Bitcoin, Ethereum</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-best-usb-hubs-with-power-features-travel-ready-and-modern-type-c-connectors/"><u>The Ultimate Selection of Best USB Hubs - With Power Features, Travel-Ready, and Modern Type-C Connectors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-evolving-skills-in-the-realm-of-google-photos/"><u>[New] From Novice Evolving Skills in the Realm of Google Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nstagram-tips-uploading-and-sharing-youtube-content-for-2024/"><u>[New] Instagram Tips Uploading & Sharing YouTube Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sustainable-cinematic-solutions-catalog/"><u>[New] Sustainable Cinematic Solutions Catalog</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-reddit-winners-a-collection-of-best-posts/"><u>[New] Ultimate Reddit Winners A Collection of Best Posts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-advanced-techniques-in-post-uploaded-youtube-content-enhancement/"><u>[Updated] In 2024, Advanced Techniques in Post-Uploaded YouTube Content Enhancement</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-vlog-production-top-8-mirrorless-cameras-ranked/"><u>2024 Approved Mastering Vlog Production Top 8 Mirrorless Cameras Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hilarityhub-online-tool-for-funny-image-crafting-for-2024/"><u>HilarityHub Online Tool for Funny Image Crafting for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-on-the-crystal-clear-lg-ultragear-qhd-monitor-w-g-sync-just-549-from-amazon/"><u>Limited Offer on the Crystal Clear LG Ultragear QHD Monitor W/ G-Sync - Just $549 From Amazon.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-gameplay-top-tier-gaming-display-for-just-199-the-innocn-27g1s-plus-with-crystal-clear-240hz-refresh-rate/"><u>Maximize Your Gameplay: Top-Tier Gaming Display for Just $199 - The Innocn 27G1S Plus with Crystal Clear 240Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-computer-components-with-expertise-discover-more-on-toms-hardware/"><u>Navigating Through Computer Components with Expertise - Discover More on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-expert-tips-from-toms-hardware-blog/"><u>Navigating Through Technology: Expert Tips From Tom's Hardware Blog</u></a></li>
+<li><a href="https://blog-min.techidaily.com/nrgnrg/"><u>NRGファイルの圧縮解除と変更手順：拡張子nrgファイル</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-ups-power-solutions-the-ultimate-guide/"><u>Top-Rated UPS Power Solutions: The Ultimate Guide</u></a></li>
 </ul></div>
 

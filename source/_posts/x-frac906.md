@@ -1,7 +1,7 @@
 ---
 title: \\[ X = \\Frac{90}{6} \\
-date: 2024-09-24T17:58:18.153Z
-updated: 2024-09-28T18:22:35.501Z
+date: 2024-09-29T18:46:06.106Z
+updated: 2024-10-03T18:50:33.992Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,22 +133,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-excelling-without-vimeo-best-editing-software-rankings/"><u>[New] Excelling Without Vimeo Best Editing Software Rankings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs-for-2024/"><u>[New] Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-your-twitch-stream-game-with-these-5-steps-for-2024/"><u>[Updated] Elevate Your Twitch Stream Game with These 5 Steps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[Updated] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-you-delete-the-original-apple-apps-installed-on-iphones/"><u>Can You Delete the Original Apple Apps Installed on iPhones?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-on-revamping-your-intel-centrino-advanced-n-wifi-card-ahp-with-latest-drivers/"><u>Comprehensive Guide on Revamping Your Intel Centrino Advanced-N WiFi Card (AHP) with Latest Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-in-windows-10-discover-proven-fixes-now/"><u>Continuous Sound Problems in Windows 10? Discover Proven Fixes Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-gadgets-and-pcs-with-toms-hardware-insights/"><u>Discover the Latest in Gadgets and PCs with Tom's Hardware Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-for-duplicating-dvds-on-hard-drive-using-windows-operating-systems-11-10-8-and-7/"><u>Guide for Duplicating DVDs on Hard Drive Using Windows Operating Systems (11, 10, 8 & 7)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/kickstarter-chronicles-davids-victory-with-desktop-sls-and-its-ultimate-acquisition/"><u>Kickstarter Chronicles: David's Victory with Desktop SLS and Its Ultimate Acquisition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-overview-top-notch-performance-without-the-noise/"><u>Levelplay Combat Air CA4 CPU Cooler Overview: Top-Notch Performance Without the Noise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastery-of-modern-tech-comprehensive-reviews-by-toms-hardware-experts/"><u>Mastery of Modern Tech: Comprehensive Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-toms-world-of-computer-hardware-top-picks-and-analysis/"><u>Navigating Tom's World of Computer Hardware: Top Picks and Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/preventing-layer-misalignment-in-3d-printing-tips-and-tricks/"><u>Preventing Layer Misalignment in 3D Printing: Tips & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-mouse-pads-of-2024-smooth-operation-with-stylish-illumination/"><u>Top Rated Mouse Pads of 2024: Smooth Operation with Stylish Illumination</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-ideal-images-for-facebook-profiles/"><u>Unveiling Ideal Images for Facebook Profiles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-comparative-look-at-rgb-and-srgb-for-designers/"><u>[New] A Comparative Look at Rgb and Srgb for Designers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-videography-and-storage-assessing-a-high-capacity-memorys-video-limits-for-2024/"><u>[New] Videography & Storage Assessing a High-Capacity Memory's Video Limits for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimized-orchestration-top-5-chrome-vids-from-fb/"><u>[Updated] 2024 Approved Optimized Orchestration Top 5 Chrome Vids From FB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-flawless-zoom-screen-sharing/"><u>[Updated] 2024 Approved Step-by-Step Guide to Flawless Zoom Screen Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-gif-storage-and-use-in-the-digital-age-iphone/"><u>[Updated] Navigating GIF Storage and Use in the Digital Age (iPhone)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-7-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 7 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-creativity-awaits-with-the-launch-of-western-digitals-latest-nvme-ssd-technology/"><u>Next-Level Creativity Awaits with the Launch of Western Digital's Latest NVMe SSD Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-audio-experience-essential-soundbar-settings-everyone-needs/"><u>Optimize Your Audio Experience: Essential Soundbar Settings Everyone Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-8a-a-smart-alternative-before-the-arrival-of-pixel-9/"><u>Pixel 8A: A Smart Alternative Before the Arrival of Pixel 9</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/project-astra-is-this-googles-game-changer-for-wearable-tech-as-revolutionary-as-the-iphone-was-for-mobile-phones/"><u>Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-clear-advantages-of-going-for-a-2-in-1-tabletlaptop-hybrid-instead-of-a-conventional-notebook/"><u>The Clear Advantages of Going for a 2-in-1 Tablet/Laptop Hybrid Instead of a Conventional Notebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-unusual-attachment-my-struggle-to-part-with-quirky-bluetooth-headphones/"><u>The Unusual Attachment: My Struggle to Part with Quirky Bluetooth Headphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-presence-with-manycams-advanced-virtual-webcam-solutions/"><u>Transform Your Online Presence with ManyCam's Advanced Virtual Webcam Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-limited-access-fb-accounts/"><u>Unlocking Limited-Access FB Accounts</u></a></li>
 </ul></div>
 

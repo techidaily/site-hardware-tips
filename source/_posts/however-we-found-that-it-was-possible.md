@@ -1,7 +1,7 @@
 ---
 title: However, We Found that It Was Possible,
-date: 2024-09-23T19:48:11.225Z
-updated: 2024-09-28T16:47:44.732Z
+date: 2024-10-01T22:47:11.923Z
+updated: 2024-10-04T02:07:00.873Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +99,17 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-androids-premier-mobas-ranked-for-2024/"><u>[Updated] Discovering Android's Premier MOBAs Ranked for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-screen-capturing-with-your-iphone-7/"><u>[Updated] Effortless Screen Capturing with Your iPhone 7</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-fine-tune-your-snaps-with-mac-produced-content-for-2024/"><u>[Updated] Fine-Tune Your Snaps with Mac-Produced Content for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-roundup-best-budget-friendly-virtual-calls/"><u>[Updated] The Ultimate Roundup Best Budget-Friendly Virtual Calls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-investigating-financial-gains-from-product-reviews/"><u>2024 Approved Investigating Financial Gains From Product Reviews</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ace-the-power-play-top-pickup-of-best-rechargeable-battery-chargers-in-202eight/"><u>Ace the Power Play: Top Pickup of Best Rechargeable Battery Chargers in 202Eight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computing-exposed-the-authoritative-look-at-toms-hardware-reviews/"><u>Advanced Computing Exposed: The Authoritative Look at Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-diy-projects-featuring-top-picks-from-toms-hardware-collection/"><u>Advanced DIY Projects Featuring Top Picks From Tom’s Hardware Collection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-graphic-cards-in-2e24-the-best-picks-for-gamers-on-a-budget/"><u>Affordable High-Performance Graphic Cards in 2E24: The Best Picks for Gamers on a Budget</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-get-the-latest-version-of-windows-movie-maker-for-your-pc-free-edition/"><u>How to Get the Latest Version of Windows Movie Maker for Your PC , Free Edition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-40i-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 40i Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unlocking-income-streams-from-google-adsense-to-money-matters/"><u>In 2024, Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175709133-revolutionize-your-cpu-cooling-with-our-10k-3d-printed-liquid-nitrogen-vessel-triple-the-speed/"><u>Revolutionize Your CPU Cooling with Our $10K 3D Printed Liquid Nitrogen Vessel - Triple the Speed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-essential-principles-of-effective-3d-printing-design/"><u>Top 5 Essential Principles of Effective 3D Printing Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-external-hard-drive/"><u>Ultimate Guide to Choosing the Best External Hard Drive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-next-level-gameplay-with-the-ideal-processor-selection/"><u>Unlock Next-Level Gameplay with The Ideal Processor Selection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-computer-wizardry-a-deep-dive-into-toms-hardware-encyclopedia/"><u>Unveiling Computer Wizardry - A Deep Dive Into Tom's Hardware Encyclopedia</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-tech-with-toms-hardware-insights/"><u>Unveiling the Best in Tech with Tom's Hardware Insights</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-discovering-new-wave-top-7-high-quality-transition-sounds-for-creatives/"><u>Updated In 2024, Discovering New Wave Top 7 High-Quality Transition Sounds for Creatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncomplicated-story-framework/"><u>[New] Uncomplicated Story Framework</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-impressive-performance-leap-of-amds-newest-zen-5-ryzen-cpu-the-ryzen-9-9950x-eclipses-the-ryzen-9-7950x-with-a-24-boost-in-rendering-bench30/"><u>Breaking Down the Impressive Performance Leap of AMD's Newest Zen #5 Ryzen CPU: The Ryzen 9 9950X Eclipses the Ryzen 9 7950X with a 24% Boost in Rendering Benchmark Results</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-magic-6-lite-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Magic 6 Lite Phones with/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-in-depth-at-toms-hardware-insights/"><u>Mastering Technology Choices: In-Depth at Tom's Hardware Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-timeline-controls-altering-playback-speed-in-davinci-resolve/"><u>Mastering Timeline Controls: Altering Playback Speed in DaVinci Resolve</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-absent-msvcrtdll-a-comprehensive-guide/"><u>Solving the Mystery of the Absent msvcrt.dll: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-selection-of-best-cpus-for-powering-advanced-workstations/"><u>The Definitive Selection of Best CPUs for Powering Advanced Workstations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-most-accurate-domestic-meteorological-devices-of-the-year-2erryson/"><u>The Most Accurate Domestic Meteorological Devices of the Year 2Erryson!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-hardware-innovations/"><u>Tom's Tech Insights: Exploring Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-specs-and-reviews/"><u>Tom's Tech Specs & Reviews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-wtv-files-without-cost-easy-online-wtv-format-converter-videoswift/"><u>Transform Your WTV Files Without Cost: Easy Online WTV Format Converter - VideoSwift</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 30 Amazing Cyber Monday Sales: Unbeatable Amazon Echo Offers - Now Gone"
-date: 2024-09-26T16:11:20.516Z
-updated: 2024-09-28T19:44:42.889Z
+date: 2024-10-01T22:15:54.505Z
+updated: 2024-10-04T00:15:45.716Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,22 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-is-auroras-premium-tech-a-wise-investment/"><u>[Updated] Is Aurora's Premium Tech a Wise Investment?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[Updated] Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-digital-artists-10-favorite-background-switchers/"><u>2024 Approved Digital Artists' 10 Favorite Background Switchers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes/"><u>2024 Approved The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>2024 Approved Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016641166-beyond-the-wire-microphone-troubleshooting-a-complete-fix-guide-to-restore-sound-output/"><u>Beyond The Wire Microphone Troubleshooting: A Complete Fix Guide to Restore Sound Output!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-software-updates-how-to-download-msi-z370-a-pro-drivers-efficiently/"><u>Essential Software Updates: How to Download MSI Z370-A Pro Drivers Efficiently</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-bandicam-unveiled-a-thorough-examination-of-its-recording-capabilities/"><u>In 2024, Bandicam Unveiled A Thorough Examination of Its Recording Capabilities</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-c67-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme C67 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-comprehensive-reviews-and-tech-insights/"><u>Tom's Computer Gear - Comprehensive Reviews & Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-insights/"><u>Tom's Computer Gear Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-digital-diary-a-journey-through-cutting-edge-hardware-discoveries/"><u>Tom's Digital Diary: A Journey Through Cutting-Edge Hardware Discoveries</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-world-of-hardware/"><u>Tom's Tech Insights: Exploring the World of Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide/"><u>Tom's Tech Reviews: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-gadgets-and-pc-components/"><u>Tom's Tech Reviews: Unveiling the Latest Gadgets and PC Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-hardware-picks-and-performance-tests-by-professionals-at-toms-hardware/"><u>Top Hardware Picks and Performance Tests by Professionals at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tier-3d-printing-with-elegoo-neptune-4-pro-fast-accurate-results-at-unbeatable-prices/"><u>Top-Tier 3D Printing with Elegoo Neptune 4 Pro - Fast, Accurate Results at Unbeatable Prices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-13-simple-ways-to-document-webinars-cost-free/"><u>[Updated] 13 Simple Ways to Document Webinars Cost-Free</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-viewers-on-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved Engaging Viewers on YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-embracing-diversity-easeus-tech-assessment/"><u>[Updated] In 2024, Embracing Diversity, EaseUS Tech Assessment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-great-growers-guide-the-best-farmer-games/"><u>2024 Approved The Great Growers' Guide The Best Farmer Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/architectural-weaknesses-exposed-how-ghostwrite-takes-advantage-of-risc-v-for-root-entry/"><u>Architectural Weaknesses Exposed: How GhostWrite Takes Advantage of RISC-V for Root Entry</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-pc-version-now-fully-functional-resolved-startup-issues/"><u>Destiny 2 PC Version Now Fully Functional - Resolved Startup Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-itel-p55-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Itel P55</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-retro-editing-magic-cutting-classical-cinematography/"><u>In 2024, Retro Editing Magic Cutting Classical Cinematography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-electronics-with-toms-comprehensive-hardware-analysis/"><u>Navigating New Electronics with Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-use-of-recycled-plastics-creating-quality-3d-printing-material/"><u>Revolutionary Use of Recycled Plastics: Creating Quality 3D Printing Material</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performance-evaluation-bambulabs-x1-carbon-3d-printer-industry-best/"><u>Top Performance Evaluation: BambuLab's X1 Carbon 3D Printer - Industry Best</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-powerful-gaming-laptops-below-1500/"><u>Ultimate Guide to Buying Powerful Gaming Laptops Below $1,500</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-truth-behind-zen-e-cpu-failures-evidence-of-cracked-dies-and-solder-residue-on-ryzen-9000-delid-photos/"><u>Uncovering the Truth Behind Zen E CPU Failures: Evidence of Cracked Dies and Solder Residue on Ryzen 9000 Delid Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-of-crealitys-k1-carbon-the-next-big-thing-in-carbon-fiber-printing/"><u>Unveiling the Potential of Creality's K1-Carbon: The Next Big Thing in Carbon Fiber Printing?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Huge $1,500 Discount: How the Samsung QN95A OLED Surpassed All My Expectations - Shop Today!"
-date: 2024-09-27T16:14:15.519Z
-updated: 2024-09-28T17:34:23.252Z
+date: 2024-09-27T02:49:56.320Z
+updated: 2024-10-03T21:26:52.031Z
 tags:
   - tvs
 categories:
@@ -52,11 +52,25 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -86,13 +100,6 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -102,10 +109,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -133,6 +140,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -176,23 +190,9 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -230,22 +230,19 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-creative-fusion-of-images-for-joyful-existence/"><u>[New] 2024 Approved Creative Fusion of Images for Joyful Existence</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>[Updated] Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-weaving-worthy-preview-pieces/"><u>[Updated] Weaving Worthy Preview Pieces</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-locked-archives-to-laymans-subtitles-the-zip-to-srt-method/"><u>2024 Approved From Locked Archives to Layman's Subtitles The Zip To Srt Method</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-topeightunleashed-cutting-edge-4k-blu-ray-systems/"><u>2024 Approved TopEightUnleashed Cutting-Edge 4K Blu-Ray Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/bushido-code-continuation-top-similar-game-experiences-for-2024/"><u>Bushido Code Continuation - Top Similar Game Experiences for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compact-cost-effective-spherical-video-capture-systems/"><u>Compact, Cost-Effective Spherical Video Capture Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-huaweifrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HuaweiFRP Lock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-pcb-cooling-with-the-new-pink-caulk-gun-applicator-for-tim-ideal-for-component-voids-and-gap-sealing/"><u>Revolutionize PCB Cooling with the New Pink 'Caulk Gun' Applicator for TIM - Ideal for Component Voids & Gap Sealing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-shadowing-secrets-for-2024/"><u>Swift Shadowing Secrets for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-gamers-selection-top-vr-headsets-to-transform-your-pc-experience/"><u>The Gamer's Selection: Top VR Headsets to Transform Your PC Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-most-efficient-and-quality-solderers-for-professionals/"><u>The Most Efficient & Quality Solderers for Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-gaming-tower-chassis-our-thoroughly-tested-recommendations/"><u>The Ultimate Guide to the Best Gaming Tower Chassis : Our Thoroughly Tested Recommendations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-underdog-victory-from-crowdfunding-success-to-corporate-integration-story/"><u>The Underdog Victory: From Crowdfunding Success to Corporate Integration Story</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/thermalright-phantom-spirit-120-evo-assessment-a-domination-not-just-a-contest/"><u>Thermalright Phantom Spirit 120 EVO Assessment: A Domination, Not Just a Contest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-unveiling-the-latest-hardware-innovations/"><u>Tom's Computer Gear: Unveiling the Latest Hardware Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-computer-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Computer Reviews and News</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-best-fast-photo-viewer-for-windows-11/"><u>[New] Top Best Fast Photo Viewer for Windows 11?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boost-engagement-using-obs-for-youtube-and-twitch-audiences/"><u>[Updated] In 2024, Boost Engagement Using OBS for YouTube & Twitch Audiences</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-preventing-frame-gaps-in-obs-recordings/"><u>[Updated] In 2024, Preventing Frame Gaps in OBS Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-wealth-wave-on-your-screen-monetizing-as-a-streamer/"><u>2024 Approved Wealth Wave on Your Screen Monetizing as a Streamer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-boundaries-the-present-state-and-future-of-vr-for-2024/"><u>Beyond Boundaries The Present State and Future of VR for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-inwins-latest-collection-easy-to-assemble-flat-pack-cases-with-flexible-frame-options/"><u>Explore InWin's Latest Collection: Easy-to-Assemble Flat-Pack Cases with Flexible Frame Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-jonsbos-new-t6-itx-walnut-case-stylish-metal-and-wood-design-now-in-classic-black-or-sleek-silver/"><u>Introducing Jonsbo's New T6 ITX Walnut Case: Stylish Metal & Wood Design, Now in Classic Black or Sleek Silver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-landscape-with-toms-gear-advice-a-hardware-guide/"><u>Navigating the Digital Landscape with Tom's Gear Advice: A Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-steelseries-atx-mid-tower-with-massive-savings-undercutting-the-market/"><u>Snag a SteelSeries ATX Mid Tower with Massive Savings Undercutting the Market!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-cost-of-gaming-why-standard-displays-outweigh-hdrs/"><u>The Real Cost of Gaming: Why Standard Displays Outweigh HDRs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-in-depth-reviews-and-buying-guides/"><u>Tom's Computer Components: In-Depth Reviews & Buying Guides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-zte-nubia-z60-ultra-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your ZTE Nubia Z60 Ultra Phone Network-Ready</u></a></li>
 </ul></div>
 

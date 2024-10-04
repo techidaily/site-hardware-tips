@@ -1,7 +1,7 @@
 ---
 title: Southwest Cancellation Crisis Deepens - More than 20,000 Flights Affected | ZDNET Insight
-date: 2024-09-19 10:47:16
-updated: 2024-09-20 11:12:47
+date: 2024-09-27T02:00:56.185Z
+updated: 2024-10-03T23:48:30.672Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,32 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensive-review-of-vidmas-screen-recorder/"><u>[New] A Comprehensive Review of Vidma's Screen Recorder</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-not-printing-in-color/"><u>[SOLVED] Printer Not Printing in Color</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller/"><u>2024 Approved Exploring the New Frontier A Comparative Study on TikTok & Triller</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-chill-expert-analysis-of-id-coolings-frozn-models-a410-and-a/"><u>Affordable Chill: Expert Analysis of ID-Cooling's FROZN Models A410 & A</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/auto-gpt-installation-made-simple-a-comprehensive-downloading-guide/"><u>Auto-GPT Installation Made Simple: A Comprehensive Downloading Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-compelling-movie-mini-epic-for-2024/"><u>Crafting a Compelling Movie Mini-Epic for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-pc-parts-and-devices-a-deep-dive-by-toms-hardware-experts/"><u>Discover Top PC Parts & Devices: A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-reno-10-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Reno 10 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-on-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Guides on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-latest-gadgets-and-pc-specs-toms-guide/"><u>Unveiling Latest Gadgets and PC Specs – Tom's Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

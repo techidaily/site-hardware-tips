@@ -1,7 +1,7 @@
 ---
 title: "Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!"
-date: 2024-09-26T18:37:23.517Z
-updated: 2024-09-28T16:08:41.466Z
+date: 2024-10-01T21:51:51.798Z
+updated: 2024-10-03T20:42:39.887Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +105,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-stars-quick-visibility-check-for-2024/"><u>[New] Star's Quick Visibility Check for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exclusive-selections-free-vs-paid-hd-playback-software/"><u>[Updated] 2024 Approved Exclusive Selections Free vs Paid HD Playback Software</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-how-to-for-eye-catching-discord-profile-pics/"><u>[Updated] 2024 Approved The Ultimate How-To for Eye-Catching Discord Profile Pics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-iphoneipad-top-10-free-youtube-video-editing-apps/"><u>[Updated] In 2024, IPhone/iPad Top 10 Free YouTube Video Editing Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>2024 Approved How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-m-audio-drivers-compatible-with-windows-10-7-8-and-81/"><u>Download M-Audio Drivers Compatible with Windows 10, 7, 8 & 8.1</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-filmora-for-free-no-cost-no-virus-no-hassle/"><u>In 2024, Get Filmora for Free No Cost, No Virus, No Hassle</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-tom-comprehensive-insights-on-cutting-edge-hardware/"><u>Navigating Tech with Tom: Comprehensive Insights on Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-hardware-with-toms-expertise/"><u>Navigating the World of PC Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insight-and-analysis-by-team-tom/"><u>Pioneering Hardware Insight and Analysis by Team Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-strategy-implements-3d-printing-to-construct-scalable-silicon-integrated-circuits/"><u>Pioneering Strategy Implements 3D Printing to Construct Scalable Silicon Integrated Circuits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-performance-insights-by-tomtech-reviews/"><u>Precision Performance Insights by TomTech Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviewing-creality-cr-10-slicer-pro-a-stellar-3d-printer-with-size-complications/"><u>Reviewing Creality CR-10 Slicer Pro: A Stellar 3D Printer with Size Complications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-insights-and-analysis-by-toms-hardware-experts/"><u>Tech Insights and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecoding-youtubes-procedure-after-a-video-is-uploaded-for-2024/"><u>[New] Decoding YouTube's Procedure After a Video Is Uploaded for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-step-by-step-method-to-personalize-iphone-ringtones/"><u>[Updated] Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-by-toms-gadget-guide-unveiling-the-latest-in-hardware-technology/"><u>Expert Analysis by Tom's Gadget Guide: Unveiling the Latest in Hardware Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-components-the-toms-hardware-guide/"><u>Expert Insights on Gadgets and Components - The Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-review-in-depth-analysis-and-comparisons/"><u>Exploring Tom's Tech Review: In-Depth Analysis & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extreme-performance-evaluation-ibaypower-snowblind-element-pro-cpu-tech-in-depth-at-toms-hardware/"><u>Extreme Performance Evaluation: IBaypower Snowblind Element Pro CPU - Tech In-Depth at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-create-your-own-high-flying-aviation-experience-with-a-custom-built-flight-simulator-desktop-computer/"><u>How to Create Your Own High-Flying Aviation Experience with a Custom Built Flight Simulator Desktop Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-6-high-definition-21-hdmi-models-analyzed/"><u>In 2024, 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/start-your-custom-gaming-pc-journey-with-neweggs-affordable-amd-bundle-at-just-333/"><u>Start Your Custom Gaming PC Journey with Newegg's Affordable AMD Bundle at Just $333!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-analysis-your-ultimate-guide-to-tech-equipment/"><u>Tom's Gear Analysis - Your Ultimate Guide To Tech Equipment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-screen-brightness-automation-try-these-7-solutions/"><u>Trouble with iPhone Screen Brightness Automation? Try These 7 Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-software-review-pros-cons-and-verdict-for-2024/"><u>Updated AVS Video Editor Software Review Pros, Cons, and Verdict for 2024</u></a></li>
 </ul></div>
 

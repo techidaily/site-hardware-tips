@@ -1,7 +1,7 @@
 ---
 title: "When Travel Becomes Pricey: How Southwest Air Squeezed Extra Costs During High Stress Moments"
-date: 2024-09-19 13:56:29
-updated: 2024-09-20 10:54:33
+date: 2024-10-01T01:43:35.524Z
+updated: 2024-10-03T16:33:59.818Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,35 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-reddit-submissions-practical-steps-unveiled/"><u>[New] In 2024, Navigating Reddit Submissions Practical Steps Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-video-editor-landscape-choose-filmora-or-democracy-creator/"><u>[New] Navigating Video Editor Landscape Choose Filmora or Democracy Creator?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-tips-for-overcoming-iphone-camera-focusing-glitches-for-2024/"><u>[Updated] Tips for Overcoming iPhone Camera Focusing Glitches for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interpreting-distinctions-360-content-and-virtual-reality/"><u>2024 Approved Interpreting Distinctions 360° Content & Virtual Reality</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-analysis-windows-display-restfulness/"><u>Detailed Analysis: Windows Display Restfulness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125181063-dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-tips-to-enrich-virtual-meetings-with-screen-sharing/"><u>Expert Tips to Enrich Virtual Meetings with Screen Sharing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gear-up-with-toms-electronics-analysis-and-guides/"><u>Gear Up with Tom's Electronics Analysis and Guides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-definition-vision-recorder-devices-for-2024/"><u>High Definition Vision Recorder Devices for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-12-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 12 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-of-the-cutting-edge-mole-3d-scanner-by-3dmakerpro-unleashing-a-new-dimension-in-your-pocket/"><u>In-Depth Analysis & Review of the Cutting-Edge Mole 3D Scanner by 3DMakerPro: Unleashing a New Dimension in Your Pocket</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-laptop-chips-plagued-by-repeated-shutdown-incidents-similarities-to-past-defect-episodes-surface-in-test-results/"><u>Intel Laptop Chips Plagued by Repeated Shutdown Incidents; Similarities to Past Defect Episodes Surface in Test Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lead-and-low-quality-ingredients-found-in-latest-aio-radiator-test-caseking-halt-production-amidst-quality-concerns-for-barrow-dabel-models/"><u>Lead and Low-Quality Ingredients Found in Latest AIO Radiator Test: CaseKing Halt Production Amidst Quality Concerns for Barrow Dabel Models</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

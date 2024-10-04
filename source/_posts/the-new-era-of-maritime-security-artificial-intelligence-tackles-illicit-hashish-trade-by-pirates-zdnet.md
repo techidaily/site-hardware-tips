@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Maritime Security: Artificial Intelligence Tackles Illicit Hashish Trade by Pirates | ZDNET"
-date: 2024-09-18 13:16:58
-updated: 2024-09-20 10:16:46
+date: 2024-09-26T17:58:26.347Z
+updated: 2024-10-03T18:00:15.591Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-does-the-sub4sub-strategy-improve-content-consumption-in-2024/"><u>[New] Does the Sub4Sub Strategy Improve Content Consumption, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-top-10-tweets-for-a-smile/"><u>[New] Laugh Ledger Top 10 Tweets for a Smile</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-toolbox-for-unraveling-instagrams-hidden-data-for-2024/"><u>[New] The Ultimate Toolbox for Unraveling Instagram's Hidden Data for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-extracting-youtube-content-with-ease/"><u>[Updated] 2024 Approved Extracting YouTube Content with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brilliance-bunch-leading-gk-video-channels/"><u>[Updated] Brilliance Bunch Leading GK Video Channels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-perfect-our-top-10-photo-lenses-list/"><u>2024 Approved Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-reel-in-the-solution-to-instagram-video-glitches/"><u>2024 Approved Reel in the Solution to Instagram Video Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-show-entry-on-apple-media/"><u>2024 Approved Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-reviews-by-tom-your-trusted-source-for-hardware-information/"><u>Comprehensive Reviews by Tom: Your Trusted Source for Hardware Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-devices-with-precision-toms-hardware-experts-weigh-in/"><u>Decoding Devices with Precision: Tom's Hardware Experts Weigh In</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-computer-technologies-with-tomn-gear-guides/"><u>Discover Cutting-Edge Computer Technologies with Tom'n Gear Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-advanced-tips-from-toms-tech-corner/"><u>Dive Into Digital: Advanced Tips From Tom's Tech Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-modern-marvel-of-laptops-a-closer-look-at-the-dell-xps-13s-latest-makeover-and-snapdragon-x-elite-integration/"><u>Experience the Modern Marvel of Laptops - A Closer Look at the Dell XPS 13'S Latest Makeover and Snapdragon X Elite Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-microsoft-surface-pro-with-copilotplus-stunning-design-meets-underwhelming-ai-capabilities/"><u>Expert Analysis of Microsoft Surface Pro with Copilot+: Stunning Design Meets Underwhelming AI Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-evaluations-by-tom-find-your-perfect-tech-companion/"><u>Expert Hardware Evaluations by Tom: Find Your Perfect Tech Companion</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-video-editing-fast-and-easy-video-trimming-on-mac-for-2024/"><u>Streamline Your Video Editing Fast & Easy Video Trimming on Mac for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

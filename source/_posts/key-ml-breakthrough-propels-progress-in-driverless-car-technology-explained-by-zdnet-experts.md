@@ -1,7 +1,7 @@
 ---
 title: Key ML Breakthrough Propels Progress in Driverless Car Technology, Explained by ZDNet Experts
-date: 2024-09-17 11:30:14
-updated: 2024-09-20 12:24:53
+date: 2024-09-27T01:44:35.963Z
+updated: 2024-10-04T01:14:04.949Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,42 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-turn-up-the-volume-enabling-sound-on-tweeted-videos/"><u>[Updated] In 2024, Turn Up the Volume Enabling Sound on Tweeted Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-remedies-for-iphone-unfocused-shots/"><u>[Updated] Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nextgen-flawless-frame-processor-windowsmac/"><u>2024 Approved NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/concoct-chuckles-giphy-edition-for-2024/"><u>Concoct Chuckles - Giphy Edition for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-essential-advice-on-hardware-and-software-by-tom/"><u>Decoding Tech: Essential Advice on Hardware & Software by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-elite-password-management-solutions-the-best-of-both-worlds-fee-free-and-charged-services/"><u>Evaluating Elite Password Management Solutions: The Best of Both Worlds - Fee-Free & Charged Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-visit-toms-technology-portal/"><u>Expert Insights on Gadgets - Visit Tom's Technology Portal</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-se-2020-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone SE (2020) in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-gaomon-pd1560-digital-art-pad-evaluation-the-ideal-stylus-monitor/"><u>In-Depth Gaomon PD1560 Digital Art Pad Evaluation: The Ideal Stylus Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-hardware-essentials/"><u>Mastering Electronics with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-digital-innovations-with-toms-hardware-wisdom/"><u>Navigating Through Digital Innovations with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tips-and-tricks-eliminating-hidden-flaws-from-your-3d-creations/"><u>Tips & Tricks: Eliminating Hidden Flaws From Your 3D Creations</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-gaming-from-logitech-mice/"><u>Ultimate Performance Gaming From Logitech Mice</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

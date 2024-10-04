@@ -1,7 +1,7 @@
 ---
 title: Unsettling Disclosure by Delta Air Lines Raises Eyebrows Among Flyers, According to ZDNet
-date: 2024-09-19 19:24:39
-updated: 2024-09-20 12:19:25
+date: 2024-09-29T23:11:28.788Z
+updated: 2024-10-03T23:05:33.654Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-brief-overview-of-the-quickest-chroma-key-tricks/"><u>[New] In 2024, Brief Overview of the Quickest Chroma Key Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-infuse-your-ideas-with-humor-easy-to-use-genrator/"><u>[Updated] 2024 Approved Infuse Your Ideas with Humor Easy-to-Use Gen'rator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pocketcapture-app-testimonials-and-insights/"><u>2024 Approved PocketCapture App Testimonials & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-affordable-options-for-an-msi-bravo-laptop-featuring-rtx-4060-gpu/"><u>Discover the Top Affordable Options for an MSI Bravo Laptop Featuring RTX 4060 GPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-high-performance-m3-macbook-air-laptop-16gb-ram-and-13-display-for-only-1149/"><u>Don't Miss Out: High-Performance M3 MacBook Air Laptop - 16GB RAM & 13 Display for Only $1,149!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-performance-and-standout-qualities-in-the-gigabyte-g6x-laptop-review/"><u>Evaluating Performance and Standout Qualities in the Gigabyte G6X Laptop Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-in-computer-hardware-with-toms-guides/"><u>Exploring the Best in Computer Hardware with Tom's Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-essentials-for-savvy-consumers/"><u>Exploring Tom’s Hardware Essentials for Savvy Consumers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-under-a-grand-msi-bravo-laptops-experience-rtx-4060-power/"><u>Find the Best Under-a-Grand MSI Bravo Laptops: Experience RTX 4060 Power</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-virtual-adrenaline-rushes-top-10-without-gta/"><u>In 2024, Virtual Adrenaline Rushes - Top 10 Without GTA</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-alienware-m18-r2-tower-pc-powerhouse-performance-and-tactile-keypresses-reviewed/"><u>In-Depth Look at the Alienware M18 R2 Tower PC: Powerhouse Performance & Tactile Keypresses Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-online-learning-platforms-excluding-udemys-space/"><u>Innovative Online Learning Platforms Excluding Udemy's Space</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-new-2024-laptop-future-proof-discover-how-microsofts-copilotplus-outperforms-conventional-ai-pc-models/"><u>Is Your New 2024 Laptop Future-Proof? Discover How Microsoft's Copilot+ Outperforms Conventional AI PC Models</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-note-13-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A25 5G Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-tech-for-speedy-video-frame-snapping/"><u>Top Tech for Speedy Video Frame Snapping</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

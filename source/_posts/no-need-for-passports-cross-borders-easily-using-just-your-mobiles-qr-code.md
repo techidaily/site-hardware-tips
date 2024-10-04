@@ -1,7 +1,7 @@
 ---
 title: No Need for Passports! Cross Borders Easily Using Just Your Mobile's QR Code
-date: 2024-09-19 16:32:35
-updated: 2024-09-20 12:12:31
+date: 2024-10-02T19:01:40.800Z
+updated: 2024-10-03T22:10:14.270Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,34 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionize-your-fb-video-strategy-with-these-ideas/"><u>[New] Revolutionize Your FB Video Strategy with These Ideas</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unbeatable-freefire-gaming-hashtag-and-strategy-insights-for-2024/"><u>[Updated] Unbeatable FreeFire Gaming Hashtag & Strategy Insights for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817243-200-acer-nitro-34-curved-wqhd-monitor-deal-on-newegg-for-a-super-sharp-viewing-experience/"><u>$200 Acer Nitro 34 Curved WQHD Monitor Deal on Newegg for a Super Sharp Viewing Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-creating-a-domino-effect-with-memes/"><u>2024 Approved Creating a Domino Effect with Memes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-the-market-highly-rated-dell-s3222dgm-monitor-drops-in-price-to-just-229-dont-miss-out/"><u>Ace the Market: Highly Rated Dell S3222DGM Monitor Drops in Price to Just $229 – Don't Miss Out</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862821573-how-an-old-school-crt-monitor-soared-to-a-stunning-700hz-by-slashing-its-pixel-count/"><u>How an Old School CRT Monitor Soared to a Stunning 700Hz by Slashing Its Pixel Count</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12-pro-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Redmi Note 12 Pro 4G Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-find-x6-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Find X6 Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-journey-to-optimal-health-the-top-10-online-yoga-masters/"><u>In 2024, Journey to Optimal Health - The Top 10 Online Yoga Masters</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-5-effects-for-reshaping-sound-tracks/"><u>New In 2024, Top 5 Effects for Reshaping Sound Tracks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-motorola-razr-40-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Motorola Razr 40 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862832268-unleash-next-level-graphics-on-the-cheap-innocns-stunning-240-hz-gaming-screen-for-just-199-grab-it-now/"><u>Unleash Next-Level Graphics on the Cheap – Innocn's Stunning 240 Hz Gaming Screen for Just $199 – Grab It Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862830058-xiaomi-g34wqi-34-inch-180hz-monitor-unveiled-fantastic-graphics-contrast-and-budget-friendly-for-gaming-enthusiasts/"><u>Xiaomi G34WQi 34-Inch 180Hz Monitor Unveiled! Fantastic Graphics, Contrast & Budget-Friendly for Gaming Enthusiasts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

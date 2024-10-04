@@ -1,7 +1,7 @@
 ---
 title: Electric Future Fuels as GM and Samsung SDI Announce Joint Venture, Planning $3 Billion EV Battery Plant in America
-date: 2024-09-21T17:32:53.598Z
-updated: 2024-09-28T17:12:20.725Z
+date: 2024-10-02T22:49:24.245Z
+updated: 2024-10-04T02:48:57.027Z
 tags:
   - transportation
 categories:
@@ -77,27 +77,26 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-instagram-image-enhancement-tips/"><u>[New] Instagram Image Enhancement Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-end-to-end-guide-to-picsart/"><u>[New] The End-to-End Guide to PicsArt</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-sessions-with-the-ideal-2024-gaming-headsets/"><u>Ace Your Sessions with the Ideal 2024 Gaming Headsets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/celebrity-actress-felicia-day-introduces-her-customizable-3d-print-designs/"><u>Celebrity Actress Felicia Day Introduces Her Customizable 3D Print Designs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fast-track-innovation-unveiled-modded-3d-printer-hits-new-milestone-finesses-speed-benchy-in-just-two-minutes-flat/"><u>Fast-Track Innovation Unveiled: Modded 3D Printer Hits New Milestone, Finesses 'Speed Benchy' In Just Two Minutes Flat</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-14-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 14 With or Without Password</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-express-exuberance-create-memetic-content-with-kapwing/"><u>In 2024, Express Exuberance Create Memetic Content With Kapwing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-htc-u23-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change HTC U23 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m34-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M34 Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/macx-free-the-premier-guide-for-dvd-extraction-and-hd-video-format-conversion-on-macos-systems/"><u>MacX Free - The Premier Guide for DVD Extraction & HD Video Format Conversion on macOS Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-building-and-optimizing-pc-systems/"><u>Tom's Guide to Building and Optimizing PC Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-phantom-issues-in-your-3d-printed-creations/"><u>Ultimate Guide: Solving Phantom Issues in Your 3D Printed Creations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-a-security-weak-spot-a-daring-endeavor-to-warn-anycubic-3d-printer-users/"><u>Uncovering a Security Weak Spot: A Daring Endeavor to Warn Anycubic 3D Printer Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-at-toms-hardware-source/"><u>Unveiling the Latest in Tech at Tom's Hardware Source</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-video-call-alternatives-zooms-rivalry-explained/"><u>[New] In 2024, Premier Video Call Alternatives Zoom's Rivalry Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-revealing-the-best-screen-grabbers-for-web-use/"><u>[New] In 2024, Revealing the Best Screen Grabbers for Web Use</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-photography-editing-tips-for-making-stunning-photos/"><u>[Updated] In 2024, Photography Editing Tips for Making Stunning Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-efficient-and-effective-tag-usage-on-youtube/"><u>[Updated] Step-by-Step Guide to Efficient and Effective Tag Usage on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-note-30-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Note 30 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-use-creative-commons-copyright-licenses/"><u>In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-seamless-storytelling-3-ways-to-use-transitions-in-final-cut-pro/"><u>New 2024 Approved Seamless Storytelling 3 Ways to Use Transitions in Final Cut Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/taking-down-tarkov-obstacle-mastering-the-art-of-resolving-error-code-103003-on-your-device/"><u>Taking Down Tarkov Obstacle - Mastering the Art of Resolving Error Code 103003 on Your Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-quality-hardware-with-toms-reviews/"><u>The Ultimate Guide to Quality Hardware with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-innovative-electronics-by-tom-hardcore-tech/"><u>The Ultimate Resource for Innovative Electronics by Tom Hardcore Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronics-hub-the-ultimate-hardware-resource/"><u>Tom's Electronics Hub: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-channel-your-source-for-cutting-edge-pcs-and-devices/"><u>Tom's Hardware Review Channel: Your Source for Cutting-Edge PCs and Devices</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

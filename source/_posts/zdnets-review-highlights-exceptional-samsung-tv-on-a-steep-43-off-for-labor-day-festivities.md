@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Review Highlights: Exceptional Samsung TV on a Steep 43%% Off for Labor Day Festivities!"
-date: 2024-09-24T17:19:31.419Z
-updated: 2024-09-28T18:48:42.528Z
+date: 2024-09-27T20:17:52.704Z
+updated: 2024-10-03T23:31:01.013Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfect-6-apps-for-private-android-video-capturing/"><u>[New] 2024 Approved Perfect 6 Apps for Private Android Video Capturing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamlessly-fuse-videos-using-blend-modes/"><u>[New] 2024 Approved Seamlessly Fuse Videos Using Blend Modes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-online-presence-with-linked-fb-stories-for-2024/"><u>[New] Optimize Your Online Presence with Linked FB Stories for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[New] Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-crafting-concentration-in-photos-with-insta-zoom-tricks/"><u>[Updated] Crafting Concentration in Photos with Insta Zoom Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>[Updated] Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-flip-side-realities-of-virtual-reality/"><u>2024 Approved The Flip Side Realities of Virtual Reality</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-8-cost-effective-multi-platform-virtual-communication-software/"><u>2024 Approved Top 8 Cost-Effective, Multi-Platform Virtual Communication Software</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtube-tracks-anytime-without-spending-a-dime-the-best-audio-crackers/"><u>In 2024, Unlock YouTube Tracks Anytime, Without Spending a Dime The Best Audio Crackers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-generation-of-fast-3d-printing-unlocked-technique-from-mit-employs-secondhand-metals-and-layers-of-glass-beads-for-speedier-production/"><u>Next Generation of Fast 3D Printing Unlocked: Technique From MIT Employs Secondhand Metals & Layers of Glass Beads for Speedier Production</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-resin-output-with-this-power-packed-elegoo-washcure-bundle-all-for-just-149/"><u>Revolutionize Your Resin Output with This Power-Packed Elegoo Wash/Cure Bundle - All for Just $149</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-cpu-cooler-paste-for-2amoy/"><u>The Ultimate Guide to Choosing the Best CPU Cooler Paste for 2Amoy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-electronics-wisdom-from-toms-hardware-experts/"><u>The Ultimate Guide to Selecting Electronics: Wisdom From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-reviews/"><u>The Ultimate Resource for Computer Enthusiasts: Tom’s Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-for-ergonomic-mice-exceptional-gliding-and-led-beautification/"><u>The Ultimate Selection for Ergonomic Mice - Exceptional Gliding & LED Beautification</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-blueprint-for-broadcasting-breaks/"><u>[Updated] In 2024, Blueprint for Broadcasting Breaks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform-for-2024/"><u>[Updated] The Producer's Playbook for Mixing Audio and Visuals on FB Platform for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-tweets-adding-media-files/"><u>Enhancing Tweets Adding Media Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanded-release-next-generation-qualcomm-snapdragon-8-gen-2-boosts-android-phone-performance/"><u>Expanded Release: Next-Generation Qualcomm Snapdragon 8 Gen 2 Boosts Android Phone Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-opinions-on-the-google-pixel-6-top-reviewer-insights-and-praises/"><u>Expert Opinions on the Google Pixel 6: Top Reviewer Insights and Praises</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixing-the-pixel-6-pro-resolving-screen-flicker-issues-soon/"><u>Fixing the Pixel 6 Pro: Resolving Screen Flicker Issues Soon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-downloading-discontinued-apps-from-alternative-sources/"><u>Guide: Downloading Discontinued Apps From Alternative Sources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-can-you-repurpose-or-recycle-outdated-mobile-case-accessories/"><u>How Can You Repurpose or Recycle Outdated Mobile Case Accessories?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-fix-the-problem-of-unreceived-texts-on-your-android-smartphone/"><u>How to Fix the Problem of Unreceived Texts on Your Android Smartphone?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imessage-troubles-learn-how-to-turn-off-bothersome-reactions-on-android-phones/"><u>IMessage Troubles? Learn How to Turn Off Bothersome Reactions on Android Phones!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imminent-arrival-of-android-13-what-this-means-for-most-smartphone-users/"><u>Imminent Arrival of Android 13: What This Means for Most Smartphone Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-hash-tracking-top-apps-reviewed-fbtwitterinsta/"><u>In 2024, Mastering the Art of Hash Tracking Top Apps Reviewed (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/shooting-sports-societies-suspend-digital-outreach/"><u>Shooting Sports Societies Suspend Digital Outreach</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-of-both-worlds-exceptional-functionality-meets-competitive-pricing-in-the-arcshell-ar-5-review/"><u>The Best of Both Worlds - Exceptional Functionality Meets Competitive Pricing in the Arcshell AR-5 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-level-of-immersion-top-10-vr-gear-for-2024/"><u>The Next Level of Immersion (Top 10 VR Gear) for 2024</u></a></li>
 </ul></div>
 

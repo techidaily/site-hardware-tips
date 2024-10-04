@@ -1,7 +1,7 @@
 ---
 title: Samsung SDI & GM Announce Joint Investment of $3B for a U.S.-based Electric Vehicle Battery Facility
-date: 2024-09-23T16:15:02.074Z
-updated: 2024-09-28T16:52:08.825Z
+date: 2024-09-30T21:57:28.895Z
+updated: 2024-10-03T16:07:01.228Z
 tags:
   - transportation
 categories:
@@ -77,25 +77,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-from-live-to-recorded-simplifying-facebook-broadcasting-for-2024/"><u>[New] From Live to Recorded Simplifying Facebook Broadcasting for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-video-reversion-secrets-unveiled/"><u>2024 Approved Android's Video Reversion Secrets Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acknowledging-setbacks-ekwbs-official-apology-and-resolution-plan-for-delayed-payments-to-workers-and-partners/"><u>Acknowledging Setbacks: EKWB'S Official Apology and Resolution Plan for Delayed Payments to Workers and Partners</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/enhancing-image-performance-for-your-flip-gallery-on-flipbuilder-a-comprehensive-tutorial/"><u>Enhancing Image Performance for Your Flip Gallery on FlipBuilder – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-polish-your-tiktok-edits-advanced-strategies-for-success-for-2024/"><u>How to Polish Your TikTok Edits Advanced Strategies for Success for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-smart-8-plus-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Infinix Smart 8 Plus.</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/measuring-64gbs-video-holding-ability-for-2024/"><u>Measuring 64Gb's Video Holding Ability for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-single-platform-gaming-in-apex-legends/"><u>The Ultimate Guide to Single-Platform Gaming in Apex Legends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-university-computers-expertly-reviewed-selections-for-academics-creativity-entertainment/"><u>Top-Ranked University Computers: Expertly Reviewed Selections for Academics, Creativity, Entertainment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-toms-pc-insights/"><u>Unraveling the Secrets of Tom's PC Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-with-noctuas-back-in-business-exceptional-120mm-airflow-at-a-steal-for-99/"><u>Upgrade Your PC's Cooling with Noctua's Back in Business – Exceptional 120Mm Airflow at a Steal for $99!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-enhancing-switch-gaming-with-top-cards/"><u>[New] 2024 Approved Enhancing Switch Gaming with Top Cards</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] 2024 Approved Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-coordinated-audio-visual-grouping-space-for-2024/"><u>[Updated] Coordinated Audio-Visual Grouping Space for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-13t-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi 13T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-innovations-premium-resin-3d-printers-ranked/"><u>2024'S Best Innovations: Premium Resin 3D Printers Ranked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-with-top-tier-vpn-services-in-depth-testing-insights/"><u>Ace Your Online Privacy with Top-Tier VPN Services - In-Depth Testing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-pc-temperature-control-with-deepcools-as500-plus-at-just-under-45-on-amazon/"><u>Affordable PC Temperature Control with DeepCool's AS500 Plus at Just Under $45 on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/airbus-and-esa-unveil-revolutionary-metal-3d-printing-technology-aboard-iss/"><u>Airbus & ESA Unveil Revolutionary Metal 3D Printing Technology Aboard ISS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-for-broadcasting-is-obs-superior-to-twitch-studio-in-2024/"><u>Best for Broadcasting Is OBS Superior to Twitch Studio, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-ideal-hd-in-2vew-6vew-or-8vew-a-comprehensive-guide-to-desktop-and-nas-hard-drives/"><u>Choosing the Ideal HD in 2Vew, 6Vew or 8Vew - A Comprehensive Guide to Desktop & NAS Hard Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718586-expertly-selected-best-aio-cooling-units-of-2024-beat-the-heat/"><u>Expertly Selected Best AIO Cooling Units of 2024: Beat the Heat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-oestcpdll-file-not-present-issue/"><u>Troubleshooting the 'oestcp.dll' File Not Present Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ubuntu-terminal-power-up-using-shellgpt-for-gpt-conversations/"><u>Ubuntu Terminal Power-Up: Using ShellGPT for GPT Conversations</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

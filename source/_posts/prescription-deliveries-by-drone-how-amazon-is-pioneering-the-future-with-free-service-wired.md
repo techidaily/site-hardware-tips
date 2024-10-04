@@ -1,7 +1,7 @@
 ---
 title: "Prescription Deliveries by Drone: How Amazon Is Pioneering the Future with Free Service | Wired"
-date: 2024-09-17 15:59:56
-updated: 2024-09-20 11:11:26
+date: 2024-10-02T18:12:24.173Z
+updated: 2024-10-03T22:44:45.112Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-create-a-channel-that-dominates-the-business-world/"><u>[New] How to Create a Channel that Dominates the Business World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>[New] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-mount-tech-for-smooth-sensor-motion/"><u>2024 Approved Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-equipment-testing-by-toms-electronic-hub/"><u>Comprehensive Equipment Testing by Tom's Electronic Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-tips-for-devices-not-working-with-the-main-computer/"><u>Diagnosis and Repair Tips for Devices Not Working with the Main Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-get-your-cortana-back-on-track/"><u>Fixes and Solutions: How to Get Your Cortana Back on Track</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-itel-s23-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Itel S23 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-the-console-and-computer-playstation-on-pcmac/"><u>Joining the Console and Computer: PlayStation on PC/Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mid-august-release-scheduled-intel-to-resolve-crashing-woes-by-addressing-elevated-core-voltages/"><u>Mid-August Release Scheduled: Intel to Resolve Crashing Woes by Addressing Elevated Core Voltages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-cutting-edge-technology-a-deep-dive-with-toms-hardware/"><u>Navigating Cutting Edge Technology: A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-motherboards-and-cpus-with-tom-an-insiders-perspective/"><u>Navigating Through Motherboards and CPUs with Tom - An Insider's Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-gopro-video-editors-comprehensive-reviews-and-step-by-step-editing-guides/"><u>Top Rated GoPro Video Editors: Comprehensive Reviews & Step-by-Step Editing Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-phrozens-pioneering-four-tone-3d-printer-for-enhanced-production/"><u>Transform Your Workspace with Phrozen’s Pioneering Four Tone 3D Printer for Enhanced Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-ultimate-guide-by-toms-hardware/"><u>Unlocking Technology Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-top-performance-toms-hardware-selection/"><u>Unlocking the Secrets of Top Performance: Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172865-unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m1v-avi/"><u>오피스 상대적 무료 M1V 비디오를 AVI로 전환하는 방법</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

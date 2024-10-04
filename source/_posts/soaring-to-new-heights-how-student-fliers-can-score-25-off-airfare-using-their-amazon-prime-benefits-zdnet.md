@@ -1,7 +1,7 @@
 ---
 title: "Soaring to New Heights: How Student Fliers Can Score $25 Off Airfare Using Their Amazon Prime Benefits | ZDNET"
-date: 2024-09-17 13:38:48
-updated: 2024-09-20 12:26:43
+date: 2024-10-01T22:53:43.409Z
+updated: 2024-10-03T21:08:21.619Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-early-bird-winners-youtubes-quick-favorites/"><u>[New] In 2024, Early Bird Winners Youtube's Quick Favorites</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cross-promotion-savvy-integrating-youtube-with-fb/"><u>[Updated] Cross-Promotion Savvy Integrating YouTube with FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-evolved-sony-bdp-s6700-unveiled/"><u>[Updated] The Evolved Sony BDP-S6700 Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-gadgets-with-toms-hardware-experts/"><u>Discovering the Latest Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-7-plus-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 7 Plus without Apple Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tips-for-zoom-on-chrome-devices/"><u>In 2024, Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-launch-of-new-14th-gen-processors-unveiling-nine-cpu-variants-with-no-e-cores-leading-with-flagship-core-i9-1/"><u>Intel's Launch of New 14Th Gen Processors: Unveiling Nine CPU Variants with No E-Cores, Leading With Flagship Core I9-1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-devices-tips-and-reviews-from-toms-hardware-professionals/"><u>Master Your Devices: Tips and Reviews From Tom's Hardware Professionals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sony-hdrcx405-budget-price-top-image-quality/"><u>Sony HDRCX405: Budget Price, Top Image Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-to-tackle-stress-with-the-help-of-chatgpt/"><u>Strategies to Tackle Stress with the Help of ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-five-best-practices-in-creating-3d-print-ready-models/"><u>Top Five Best Practices in Creating 3D Print-Ready Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-your-pc-build-insights-from-toms-hardware-experts/"><u>Top Picks for Your PC Build: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-astro-a50-microphone-comprehensive-guide/"><u>Troubleshoot and Restore Astro A50 Microphone: Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/user-guide-for-the-omoton-t1-an-in-depth-look-at-a-robust-budget-friendly-tablet-holder/"><u>User Guide for the Omoton T1: An In-Depth Look at a Robust, Budget-Friendly Tablet Holder</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

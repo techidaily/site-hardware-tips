@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Enjoy Massive Savings of Up to 25%% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET
-date: 2024-09-22T19:00:01.227Z
-updated: 2024-09-28T16:51:44.020Z
+date: 2024-10-01T23:23:44.765Z
+updated: 2024-10-03T23:56:24.772Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,21 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-become-a-reel-pro-in-30-days-or-less/"><u>[New] 2024 Approved Become a Reel Pro in 30 Days or Less</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram/"><u>[New] In 2024, Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-orbitmaster-high-definition-full-touch-desktops/"><u>[New] OrbitMaster High Definition Full Touch Desktops</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/apid-rhythm-revelations-audio-and-actors-dance-for-2024/"><u>[New] Rapid Rhythm Revelations Audio and Actors' Dance for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engage-viewers-from-the-start-mobile-film-techniques-for-thumbnails/"><u>[Updated] 2024 Approved Engage Viewers From the Start Mobile Film Techniques for Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premiered-patterns-for-panzoid-creation/"><u>[Updated] Premiered Patterns for Panzoid Creation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-durability-hps-low-cost-15-inch-laptop-with-amd/"><u>Evaluating Performance & Durability: HP's Low-Cost 15-Inch Laptop with AMD</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-m34-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy M34 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-computer-technology-with-tips-from-toms-hardware/"><u>Master the World of Computer Technology with Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-overheating-the-comprehensive-list-and-rankings-of-top-90-cpu-thermal-pastes/"><u>Mastering Overheating: The Comprehensive List and Rankings of Top 90 CPU Thermal Pastes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-high-performance-gear-with-tom-a-comprehensive-look-at-hardware/"><u>Navigating High-Performance Gear with Tom: A Comprehensive Look at Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computing-with-expertise-from-toms-hardware/"><u>Navigating the World of High-Performance Computing with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-hardware-selection-tips-from-tom/"><u>Navigating Through Hardware Selection - Tips From Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-cpu-chillers-revealed-by-noctua-experience-the-future-with-evaporative-and-pumpless-technology/"><u>Next-Gen CPU Chillers Revealed by Noctua - Experience the Future with Evaporative & Pumpless Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-3d-printing-experience-with-the-budget-friendly-creality-ender-asterix-v3-ke-in-depth-review/"><u>Revolutionize Your 3D Printing Experience with the Budget-Friendly Creality Ender Asterix V3 Ke - In-Depth Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/urning-viewers-into-cash-a-youtube-advertising-primer/"><u>[New] Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>[Updated] Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-customize-screenshot-storing-on-mac/"><u>[Updated] Customize Screenshot Storing on Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>[Updated] In 2024, Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-countdown-configuration-for-obs-users-a-compreenas-guide/"><u>[Updated] In 2024, Countdown Configuration for OBS Users A Compreenas Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-dominance-as-the-primary-creator-of-android-overladen-software/"><u>Google's Dominance as the Primary Creator of Android Overladen Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-perfectly-preserving-your-dvd-content-a-step-by-step-tutorial-on-lossless-ripping/"><u>Guide: Perfectly Preserving Your DVD Content - A Step-by-Step Tutorial on Lossless Ripping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-cozi-transformed-our-home-into-an-oasis-of-order-a-testament-from-a-family/"><u>How Cozi Transformed Our Home Into an Oasis of Order: A Testament From a Family</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ios-16-borrowed-these-13-ideas-from-android-according-to-tech-experts/"><u>How iOS 16 Borrowed These 13 Ideas From Android, According to Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-removing-obsolete-android-programs-can-boost-your-phones-efficiency-and-speed/"><u>How Removing Obsolete Android Programs Can Boost Your Phone's Efficiency and Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-perform-a-soft-reset-on-android-devices/"><u>How to Perform a Soft Reset on Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-safeguard-against-identity-theft-by-securing-your-mobile-line/"><u>How to Safeguard Against Identity Theft by Securing Your Mobile Line</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-7-plus-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 7 Plus Device from iCloud</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-high-end-sophisticated-google-pixel-fold-the-epitome-of-folding-phones/"><u>Introducing the High-End, Sophisticated Google Pixel Fold - The Epitome of Folding Phones.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Premium 8K Televisions - Expert Picks by ZDNet
-date: 2024-09-23T18:59:19.929Z
-updated: 2024-09-28T17:10:45.424Z
+date: 2024-09-28T20:51:42.194Z
+updated: 2024-10-04T00:00:53.481Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,16 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +73,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,18 +98,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-starting-with-av1-an-essential-overview-for-2024/"><u>[New] Starting with AV1 An Essential Overview for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-50plus-best-text-effects-for-videographers-for-2024/"><u>[Updated] 50+ Best Text Effects for Videographers for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-7-premium-android-adblocking-tools/"><u>2024 Approved Discover 7 Premium Android AdBlocking Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficient-epson-v700-driver-downloads-for-seamless-printing-on-win7win81win10/"><u>Efficient Epson V700 Driver Downloads for Seamless Printing on Win7/Win8.1/Win10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews & Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performance-nvme-ssds-perfect-for-your-steam-deck-adventures/"><u>Top Performance NVMe SSDs Perfect for Your Steam Deck Adventures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-power-supply-units-ultimate-selection/"><u>Top Rated Gaming Power Supply Units : Ultimate Selection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-ideal-password-keepers-features-both-gratis-and-premium-choices/"><u>Ultimate Guide to Selecting Ideal Password Keepers - Features Both Gratis and Premium Choices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unleash-the-power-of-live-captures-an-introduction-to-vimeo-record/"><u>Unleash the Power of Live Captures An Introduction to Vimeo Record</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-shorts-fund-how-to-maximize-your-earnings-for-2024/"><u>YouTube Shorts Fund How to Maximize Your Earnings for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>[New] In 2024, Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-proven-methods-for-snappy-signature-bg-removal/"><u>[Updated] Proven Methods for Snappy Signature Bg Removal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-budget-friendly-processors-analyzed-and-ranked-cnet-ratings/"><u>2024'S Best Budget-Friendly Processors Analyzed and Ranked - CNET Ratings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-game-monitoring-tools-for-diverse-formats/"><u>Advanced Game Monitoring Tools for Diverse Formats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-on-a-budget-expert-analysis-of-upheres-economic-air-coolers-c5c-and-d6sec-under-20/"><u>Beat the Heat on a Budget: Expert Analysis of UpHere's Economic Air Coolers (C5C & D6Sec) Under $20</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-systems-a-deep-dive-by-toms-technology-insights/"><u>Exploring Advanced Systems - A Deep Dive by Tom’s Technology Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-honor-magic-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic 5 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-freeze-triad-of-coolers-the-ultimate-edge-ai-companion-by-airjet-powered-up-to-25w/"><u>Introducing the Freeze Triad of Coolers - The Ultimate Edge AI Companion by AirJet, Powered up to 25W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-guide-by-toms-hardware-experts/"><u>Mastering Gadgets: The Ultimate Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-top-tech-reviews-by-toms-trustworthy-team/"><u>Navigating Through Circuitry: Top Tech Reviews by Tom's Trustworthy Team</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-looking-for-an-alternative-to-ezvid-on-mac-to-create-slideshows-and-home-videos-check-filmora-video-editor-for-mac-for-2024/"><u>New Looking for an Alternative to Ezvid on Mac to Create Slideshows and Home Videos? Check Filmora Video Editor for Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-access-to-fb-vids-as-mp4-files/"><u>Quick Access to FB Vids as MP4 Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-transforming-webm-files-into-jpegs-using-windows-tools/"><u>Step-by-Step Tutorial: Transforming WebM Files Into JPEGs Using Windows Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-best-gaming-headsets-in-2eighty-four/"><u>The Ultimate Selection: Best Gaming Headsets in 2Eighty-Four</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-why-isnt-your-thaumaturge-game-launching/"><u>Troubleshooting: Why Isn't Your Thaumaturge Game Launching?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-potential-of-amds-zen-5-packing-a-whopping-8315-billion-transistors-per-compute-die-for-enhanced-performance-up-to-28-higher-den49/"><u>Unveiling the Game-Changing Potential of AMD's Zen 5: Packing a Whopping 8.315 Billion Transistors per Compute Die for Enhanced Performance, Up to 28% Higher Density</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-devices-toms-comprehensive-hardware-reviews/"><u>Unveiling Top-Notch Devices: Tom’s Comprehensive Hardware Reviews</u></a></li>
 </ul></div>
 

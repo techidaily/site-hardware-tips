@@ -1,7 +1,7 @@
 ---
 title: Holiday Deal Alert! Score $400 Off with ZDNET's Memorial Day Offer on Segway Max G2 Electric Scooters
-date: 2024-09-19 10:26:54
-updated: 2024-09-20 11:51:38
+date: 2024-10-02T20:05:53.277Z
+updated: 2024-10-03T22:35:59.353Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-money-on-youtube/"><u>[New] 2024 Approved How To Make Money on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[New] 2024 Approved The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-downloading-the-latest-insta-reels-two-ways-to-go/"><u>2024 Approved Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-screenshopping-save-on-premium-4k-and-gamer-monitors/"><u>2024'S Top Screenshopping: Save on Premium 4K and Gamer Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-giant-on-a-budget-in-depth-review-of-the-40-monoprice-gaming-monitor-with-crystal-clear-display-and-stunning-gameplay/"><u>Affordable Giant on a Budget: In-Depth Review of the 40 Monoprice Gaming Monitor with Crystal Clear Display & Stunning Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alienware-34-ultra-hd-curved-monitor-unbeatable-deal-at-best-buy-for-just-749/"><u>Alienware 34'' Ultra HD Curved Monitor - Unbeatable Deal at Best Buy For Just $749</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bargain-bin-marvels-discover-the-curious-139-chinese-display-mash-up-of-thor-and-darth-vader/"><u>Bargain Bin Marvels: Discover the Curious $139 Chinese Display Mash-Up of Thor and Darth Vader</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behold-brilliance-in-motion-the-ultimate-review-of-asus-rog-swift-pg49wcds-49-inch-oled-gaming-display/"><u>Behold Brilliance in Motion: The Ultimate Review of Asus ROG Swift PG49WCD's 49-Inch OLED Gaming Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-elite-range-of-new-4k-resolution-monitors-for-gamers-up-to-144hz-curved-screens-included/"><u>Discover the Elite Range of New 4K Resolution Monitors for Gamers - Up to 144Hz, Curved Screens Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-gaming-monitors-of-2024-from-cost-effective-choices-to-advanced-curvature-and-sync-technologies/"><u>Discover the Finest Gaming Monitors of 2024: From Cost-Effective Choices to Advanced Curvature & Sync Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-a60s-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel A60s Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c33-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme C33 2023 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-steam-playback-for-flawless-replays/"><u>In 2024, Streamline Your Steam Playback for Flawless Replays</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862837497-level-up-your-gaming-world-with-the-high-performance-acer-nitro-now-on-sale-at-only-81/"><u>Level Up Your Gaming World with the High-Performance Acer Nitro - Now on Sale at Only $81!</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-v27-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo V27 FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

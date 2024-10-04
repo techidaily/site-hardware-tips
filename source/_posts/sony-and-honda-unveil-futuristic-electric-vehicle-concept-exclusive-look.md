@@ -1,7 +1,7 @@
 ---
 title: Sony & Honda Unveil Futuristic Electric Vehicle Concept – Exclusive Look
-date: 2024-09-17 22:31:55
-updated: 2024-09-20 12:33:36
+date: 2024-09-28T23:36:02.813Z
+updated: 2024-10-03T23:04:56.024Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>2024 Approved Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rapid-access-to-prime-window-images/"><u>2024 Approved Rapid Access to Prime Window Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essentials-of-video-format-transformation-using-vlc/"><u>2024 Approved The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-economical-smartphone-deals-for-2-stay-connected-top-budget-friendly-cell-service-options/"><u>Discover the Most Economical Smartphone Deals for 2# Stay Connected: Top Budget-Friendly Cell Service Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-crystal-clear-imagery-with-asrocks-innovative-32-oled-monitor-boosted-by-480hz-and-optimal-router-compatibility/"><u>Dive Into Crystal Clear Imagery with ASROCK’s Innovative 32” OLED Monitor – Boosted by 480Hz and Optimal Router Compatibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-gear-up-with-the-latest-technology-at-a-steal-get-60amoff-on-a-superb-49-samsung-oled-monitor-today/"><u>Don't Miss Out: Gear Up With the Latest Technology at a Steal - Get $60Amoff on a Superb 49 Samsung OLED Monitor Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gaming-setup-with-a-bargain-the-spectacular-acer-nitro-27/"><u>Elevate Your Gaming Setup with a Bargain - The Spectacular Acer Nitro 27</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-best-exceptional-scoring-and-lowest-ever-cost-for-alienware-360hz-oled-monitor/"><u>Experience the Best: Exceptional Scoring & Lowest Ever Cost for Alienware 360Hz OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-hub/"><u>Expert Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-at-toms-computer-world-gear-insights/"><u>Expert Reviews at Tom's Computer World: Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computer-world-a-deep-dive-into-cutting-edge-hardware/"><u>Exploring Tom's Computer World: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-99-for-a-24-dell-monitor-with-freesync-technology/"><u>Grab the Deal: $99 for a 24 Dell Monitor with FreeSync Technology</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-se-2022-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-10-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 10 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-5-selling-points-retro-portable-game-houses/"><u>Key 5 Selling Points: Retro Portable Game Houses</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-app-installation-issues/"><u>Simple Troubleshooting Steps to Resolve App Installation Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-blurring-and-excising-picture-borders-for-2024/"><u>Techniques for Blurring and Excising Picture Borders for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

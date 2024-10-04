@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Score a Stellar Discounted Samsung TV This Labor Day - Insider Review on ZDNet"
-date: 2024-09-24T19:03:10.955Z
-updated: 2024-09-28T17:29:49.282Z
+date: 2024-10-02T23:42:23.550Z
+updated: 2024-10-03T22:55:25.919Z
 tags:
   - tvs
 categories:
@@ -52,24 +52,18 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -100,10 +94,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -113,6 +107,19 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -174,13 +181,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -190,10 +190,10 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider 
@@ -236,21 +236,22 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-prime-top-10-free-transcript-harvesters-for-videos/"><u>[New] Prime Top 10 Free Transcript Harvesters for Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-mp2avi/"><u>自由下載Movavi MP2到AVI格式移動</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 Pro and iPad Securely</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-escape-challenges-top-ten-must-play-rooms/"><u>In 2024, Best Escape Challenges Top Ten Must-Play Rooms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>In 2024, Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-v29-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo V29 Face Lock?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-the-potential-of-screen-sharing-on-google-meet/"><u>In 2024, Unlocking the Potential of Screen Sharing on Google Meet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insights-into-the-next-gen-google-streaming-device-teaser-on-news-pricing-speculations-and-release-schedule/"><u>Insights Into the Next-Gen Google Streaming Device: Teaser on News, Pricing Speculations, and Release Schedule</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-pc-builds-top-tips-from-toms-hardware-experts/"><u>Master Your PC Builds: Top Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-knowledge-your-guide-to-top-hardware-picks-by-tom/"><u>Mastering Tech Knowledge - Your Guide to Top Hardware Picks by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-needs-with-insights-from-toms-hardware-experts/"><u>Mastering Your PC Needs with Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/modded-marvels-astonishingly-swift-completion-of-speed-benchy-by-an-enhanced-3d-printer-in-merely-2-minutes/"><u>Modded Marvels: Astonishingly Swift Completion of ‘Speed Benchy’ by an Enhanced 3D Printer in Merely 2 Minutes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-insights/"><u>Navigating the World of Computers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctuas-premium-next-gen-flagship-cooler-launches-experience-the-power-of-the-nh-d15-g2-for-150/"><u>Noctua's Premium Next-Gen Flagship Cooler Launches - Experience the Power of the NH-D15 G2 for $150!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-with-toms-digital-hardware-guide/"><u>Stay Ahead of the Curve with Tom's Digital Hardware Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[New] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-fuse-melodies-into-your-youtube-digital-realm/"><u>[Updated] 2024 Approved Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-11-audio-devices-for-professionals/"><u>2024 Approved Innovative 11 Audio Devices for Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-corsair-cx750f-a-detailed-rgb-power-supply-assessment/"><u>Comprehensive Evaluation of the Corsair CX750F: A Detailed RGB Power Supply Assessment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gadgets-with-toms-hardware-experts/"><u>Discover Cutting-Edge Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-a38-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo A38 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y27s-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y27s Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-reviews-of-the-gigabyte-ud750gm-high-wattage-power-supply/"><u>In-Depth Analysis & Reviews of the Gigabyte UD750GM High Wattage Power Supply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lian-li-introduces-innovative-l-shape-psus-perfect-for-bi-cable-case-systems/"><u>Lian Li Introduces Innovative L-Shape PSUs Perfect for Bi-Cable Case Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-analysis-and-insights-on-the-evga-supernova-85nv-gaming-psu-gen-7-review/"><u>Performance Analysis and Insights on the EVGA SuperNova 85Nv Gaming PSU (Gen 7) Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-components-msis-new-power-unit-with-yellow-connections-preventing-traditional-pin-meltdown-problems/"><u>Protect Your Components: MSI's New Power Unit with Yellow Connections Preventing Traditional Pin Meltdown Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-asus-thor-series-the-mighty-hammer-shaped-mjolnir-uninterruptible-power-supply/"><u>Revolutionary Asus Thor Series: The Mighty Hammer-Shaped Mjolnir Uninterruptible Power Supply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-psus-comprehensive-guide-on-power-supply-units/"><u>Understanding PSUs: Comprehensive Guide on Power Supply Units</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-free-and-paid-avi-video-cutters-for-windows-mac-android-and-iphone-for-2024/"><u>Updated Best Free and Paid AVI Video Cutters for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-audio-editing-essentials-a-step-by-step-guide-to-l-cuts-and-j-cuts/"><u>Updated FCPX Audio Editing Essentials A Step-by-Step Guide to L-Cuts and J-Cuts</u></a></li>
 </ul></div>
 

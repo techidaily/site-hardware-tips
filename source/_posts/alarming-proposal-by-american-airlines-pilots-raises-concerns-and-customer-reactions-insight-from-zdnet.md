@@ -1,7 +1,7 @@
 ---
 title: Alarming Proposal by American Airlines Pilots Raises Concerns & Customer Reactions - Insight From ZDNet
-date: 2024-09-19 17:36:45
-updated: 2024-09-20 11:28:10
+date: 2024-09-29T18:01:40.113Z
+updated: 2024-10-03T16:33:00.021Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,39 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/thrifty-beginner-4k-resin-3d-printer-black-friday-blowout-save-up-to-44-on-the-ultimate-entry-level-tech-marvel/"><u>'Thrifty Beginner 4K Resin' 3D Printer - Black Friday Blowout: Save Up to 44% on the Ultimate Entry-Level Tech Marvel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[Updated] 2024 Approved From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-the-future-the-next-gen-youtube-festivals/"><u>[Updated] In 2024, Charting the Future The Next Gen Youtube Festivals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-more-than-just-watch-time-understanding-youtube-views-calculation/"><u>[Updated] More than Just Watch Time Understanding YouTube Views Calculation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/assessing-shooters-choices-hero-5-black-or-km-170-for-2024/"><u>Assessing Shooters' Choices Hero 5 Black or KM-170 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-made-easy-discover-the-hyte-nexus-link-featuring-large-display-aio-and-snap-together-wireless-system/"><u>Building Made Easy: Discover the Hyte Nexus Link Featuring Large-Display AIO & Snap-Together Wireless System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-game-sounds-trouble-in-outriders-expert-fixing-tips-revealed/"><u>Eliminate Game Sounds Trouble in Outriders: Expert Fixing Tips Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-on-the-most-reliable-ssds-available/"><u>Expert Recommendations on the Most Reliable SSDs Available</u></a></li>
+<li><a href="https://discover-best.techidaily.com/model-a-1908-6-fixed-rear-sight-no-firing-pin-block-or-safety-feature-unfluted-grip/"><u>Model A - 1908-6, Fixed Rear Sight, No Firing Pin Block or Safety Feature, Unfluted Grip</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-insights/"><u>Navigating the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-for-transforming-youtube-videos-into-animated-gifs-for-2024/"><u>The Ultimate Guide for Transforming YouTube Videos Into Animated GIFs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-hardware/"><u>Unveiling the Latest in Computing: Insights From Tom's Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

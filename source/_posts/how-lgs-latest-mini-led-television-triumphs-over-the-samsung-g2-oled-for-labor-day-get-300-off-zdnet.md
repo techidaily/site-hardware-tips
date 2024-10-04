@@ -1,7 +1,7 @@
 ---
 title: How LG's Latest Mini LED Television Triumphs Over the Samsung G2 OLED for Labor Day – Get $300 Off | ZDNET
-date: 2024-09-27T16:13:51.720Z
-updated: 2024-09-28T18:57:53.828Z
+date: 2024-10-02T16:05:36.670Z
+updated: 2024-10-03T17:24:01.493Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,16 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,20 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-sparkle-in-your-ads-20-most-effective-marketing-terms/"><u>[New] Sparkle in Your Ads 20 Most Effective Marketing Terms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premiere-pro-know-how-optimizing-youtube-video-uploads-for-2024/"><u>[Updated] Premiere Pro Know-How Optimizing YouTube Video Uploads for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-digital-horizons-await-pcs-1-choice-of-vr-360-video-streaming/"><u>2024 Approved Digital Horizons Await PC's #1 Choice of VR 360 Video Streaming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 12R without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-g24-power-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola G24 Power for Free? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-experts/"><u>Navigating the World of Electronics with Tom's Experts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-expert-recommended-3d-video-creators-you-cant-miss/"><u>New In 2024, Expert-Recommended 3D Video Creators You Cant Miss</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-responds-to-reports-of-disturbing-noise-in-its-updated-nh-cd15-g2-cpu-air-cooler/"><u>Noctua Responds to Reports of Disturbing Noise in Its Updated NH-CD15 G2 CPU Air Cooler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-gadgets-unlocking-the-secrets-at-toms-hardware-hub/"><u>Pioneering Gadgets - Unlocking the Secrets at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quickly-enhance-graphics-performance-with-a-simple-intel-hd-update-on-w10/"><u>Quickly Enhance Graphics Performance with a Simple Intel HD Update on W10.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-volume-effective-remedies-for-common-it-takes-two-and-other-audio-glitches/"><u>Revive Your PC's Volume: Effective Remedies for Common 'It Takes Two' And Other Audio Glitches</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-stereolithography-micronics-unveils-portable-cost-effective-desktop-3d-printer-at-2999-price-tag/"><u>The Future of Stereolithography: Micronics Unveils Portable, Cost-Effective Desktop 3D Printer at $2,999 Price Tag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-building-and-upgrades-featuring-toms-hardware/"><u>The Ultimate Guide to PC Building and Upgrades - Featuring Tom's Hardware</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>[New] 2024 Approved Swift Shift From SRT to Text Your Modern Guide for Speed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-words-to-memos-iphone-sound-guide-for-2024/"><u>[New] From Words to Memos IPhone Sound Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apex-level-ps5-storage-expansion-choosing-high-speed-nvme-drives-to-elevate-playtime/"><u>Apex Level PS5 Storage Expansion: Choosing High-Speed NVMe Drives to Elevate Playtime</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-exceptional-features-of-anycubebic-kobra-2-max-a-hidden-treasure-unveiled/"><u>Discovering the Exceptional Features of Anycubebic Kobra 2 MAX - A Hidden Treasure Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-proficiency-uncovering-the-best-5-online-title-creators/"><u>Exploring Proficiency Uncovering the Best 5 Online Title Creators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-wi-fi-6-ax200-driver-software-for-windows-11-and-10/"><u>Get the Latest Intel Wi-Fi 6 AX200 Driver Software for Windows 11 and 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x-flip-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X Flip to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-youtubes-revenue-tools-for-mobile-creators/"><u>In 2024, Navigating YouTube's Revenue Tools for Mobile Creators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-revenue-dip-by-16b-amidst-challenges-in-its-data-center-processing-and-semiconductor-fabrication-units/"><u>Intel's Revenue Dip by $1.6B Amidst Challenges in Its Data Center Processing & Semiconductor Fabrication Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-from-toms-hardware-reviews-and-tips/"><u>Mastering Technology Insights From Tom's Hardware Reviews and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/silence-mastery-introducing-customizable-computing-chassis-and-luminescent-ventilators-for-bright-computer-enclosures/"><u>Silence Mastery: Introducing Customizable Computing Chassis & Luminescent Ventilators for Bright Computer Enclosures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/smart-pick-android-apps-for-large-video-meetings/"><u>Smart Pick Android Apps for Large Video Meetings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-restore-heat-functionality-on-a-3d-printer-bed/"><u>Step by Step Guide to Restore Heat Functionality on a 3D Printer Bed</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-enterprise-controlled-chromeedge-browsers-on-pcs/"><u>Troubleshooting Enterprise-Controlled Chrome/Edge Browsers on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-toms-hardware-reviews/"><u>Unlocking the Secrets of Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

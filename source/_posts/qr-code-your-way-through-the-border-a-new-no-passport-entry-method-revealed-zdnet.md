@@ -1,7 +1,7 @@
 ---
 title: "QR Code Your Way Through the Border: A New No-Passport Entry Method Revealed | ZDnet"
-date: 2024-09-19 11:34:21
-updated: 2024-09-20 12:38:10
+date: 2024-09-27T00:56:37.273Z
+updated: 2024-10-03T17:22:27.214Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,32 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-crafting-captivating-real-time-tweets-for-maximum-impact/"><u>[New] Crafting Captivating Real-Time Tweets for Maximum Impact</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-identifying-recent-instagram-leavers-for-2024/"><u>[New] Guide to Identifying Recent Instagram Leavers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-simplify-information-storage-via-mematic/"><u>[Updated] Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transforming-views-into-brand-loyalty/"><u>[Updated] Transforming Views Into Brand Loyalty</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-tech-forecast-average-laptops-ram-quota-to-surge-by-12-estimated-at-118-gigabytes-per-unit/"><u>Future Tech Forecast: Average Laptops' RAM Quota to Surge by 12%, Estimated at 11.8 Gigabytes per Unit</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-mcuicntexe-entry-point-not-found-error-on-windows/"><u>How to Fix the “McUICnt.exe Entry Point Not Found” Error on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-probook-laptops-compromised-by-bios-updates-the-unseen-risks-of-automatic-windows-software-enhancements-and-resulting-black-screens/"><u>HP ProBook Laptops Compromised by BIOS Updates - The Unseen Risks of Automatic Windows Software Enhancements and Resulting Black Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadgets-expert-insights-on-hardware-innovation/"><u>Inside Tom's Gadgets: Expert Insights on Hardware Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-enhancement-for-tech-savvy-morse-coders-slam-the-lid-not-your-sanity-take-care-of-hinges-and-screen/"><u>Laptop Enhancement for Tech Savvy Morse Coders: Slam the Lid, Not Your Sanity - Take Care of Hinges and Screen!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-resolving-wireless-keyboard-connectivity-problems-on-windows-systems/"><u>Step-by-Step Solution for Resolving Wireless Keyboard Connectivity Problems on Windows Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-oculus-quest-2-stellar-vr-gaming-for-a-fantastic-deal/"><u>The Ultimate Guide to the Oculus Quest 2 - Stellar VR Gaming for a Fantastic Deal</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

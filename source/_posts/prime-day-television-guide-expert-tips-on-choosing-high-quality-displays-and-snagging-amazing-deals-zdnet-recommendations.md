@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Television Guide: Expert Tips on Choosing High-Quality Displays & Snagging Amazing Deals | ZDNET Recommendations"
-date: 2024-09-27T17:46:10.701Z
-updated: 2024-09-28T19:04:26.592Z
+date: 2024-10-02T23:11:23.821Z
+updated: 2024-10-03T20:21:29.100Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,15 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-audiovisual-ascension-masterful-lighting-techniques-unveiled/"><u>[New] Audiovisual Ascension Masterful Lighting Techniques Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-words-full-potential-with-easy-speech-to-text-features/"><u>[New] Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-androids-screen-recording-capabilities/"><u>2024 Approved Unveiling Android's Screen Recording Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125146721-avoid-these-6-common-pitfalls-in-using-cura-expert-fixes-revealed/"><u>Avoid These 6 Common Pitfalls in Using Cura: Expert Fixes Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125257451-elevate-your-raspberry-pi-projects-with-the-premier-selection-of-2024s-top-hat-devices/"><u>Elevate Your Raspberry Pi Projects with the Premier Selection of 2024'S Top HAT Devices!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125150766-get-ready-for-the-k1c-creality-shares-exciting-launch-date-price-tag-and-full-technical-specifications/"><u>Get Ready for the K1C: Creality Shares Exciting Launch Date, Price Tag & Full Technical Specifications</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y27-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y27 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/pgm-png/"><u>PGM から PNGへの容易なオンライン変換 - ご利用いただける無料ツール</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-6-causes-of-frequent-car-battery-failures/"><u>Top 6 Causes of Frequent Car Battery Failures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-guide-expert-insights-into-modern-electronics/"><u>Unveiling Tom's Guide: Expert Insights Into Modern Electronics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ai-powered-vr-retail-navigation/"><u>[Updated] AI-Powered VR Retail Navigation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-wave-goodbye-to-breakups-keep-your-streak-going/"><u>[Updated] Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 with a Broken Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-13t-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi 13T Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-phones-chat-signal-how-to-download-and-personalize-whatsapp-ringtone/"><u>In 2024, Perfect Your Phone's Chat Signal How to Download & Personalize WhatsApp Ringtone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-cpu-hierarchy-review-identifying-the-fastest-processors-of-2024/"><u>Latest CPU Hierarchy Review: Identifying the Fastest Processors of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technological-components-with-advice-from-toms-hq/"><u>Mastering Technological Components with Advice From Tom's HQ</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-tom-expert-insights-on-hardware-choices/"><u>Navigating Gadgets with Tom: Expert Insights on Hardware Choices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigating-the-hold-up-in-alan-wake-2-release-fixing-methods-revealed/"><u>Navigating the Hold-Up in Alan Wake 2 Release: Fixing Methods Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-acuity-inkjet-issues-on-windows-11/"><u>Rectify Acuity Inkjet Issues on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gadgets-and-tech-trends-a-look-through-toms-hardware-lens/"><u>Unveiling Top Gadgets and Tech Trends: A Look Through Tom's Hardware Lens</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-do-you-want-to-better-your-video-with-premiere-pro-try-transitions-this-article-will-give-you-10-best-premiere-pro-transitions-and-let-you-know-how-/"><u>Updated Do You Want to Better Your Video with Premiere Pro? Try Transitions. This Article Will Give You 10 Best Premiere Pro Transitions and Let You Know How to Add Transitions in Premiere. Check It Out for 2024</u></a></li>
 </ul></div>
 

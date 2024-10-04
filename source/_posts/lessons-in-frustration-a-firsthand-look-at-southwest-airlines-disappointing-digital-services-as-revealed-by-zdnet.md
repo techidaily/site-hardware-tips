@@ -1,7 +1,7 @@
 ---
 title: "Lessons in Frustration: A Firsthand Look at Southwest Airlines' Disappointing Digital Services, as Revealed by ZDNet"
-date: 2024-09-17 23:35:40
-updated: 2024-09-20 11:25:28
+date: 2024-09-29T21:24:37.453Z
+updated: 2024-10-03T18:05:36.519Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,32 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-video-visionaries-coordinated-consumption-across-channels/"><u>[New] In 2024, Video Visionaries Coordinated Consumption Across Channels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clearing-up-the-night-how-to-restore-visibility-to-a-black-display-on-android-devices/"><u>Clearing Up the Night: How To Restore Visibility to a Black Display on Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-fun-and-safety-in-childs-steam-world/"><u>Harmonizing Fun and Safety in Child's Steam World</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-critical-assessment-the-core-elements-of-sound-forge/"><u>New 2024 Approved Critical Assessment The Core Elements of Sound Forge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precise-electronics-reviews-by-tom-finding-the-best-gear/"><u>Precise Electronics Reviews by Tom: Finding the Best Gear</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-shortage-unavailable-for-utilization/"><u>Resource Shortage: Unavailable for Utilization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-leap-in-computing-the-initial-risc-v-laptop-now-features-enhanced-performance-with-doubling-of-cpu-cores-and-boosted-speed-up-to-2ghz-plus-int21/"><u>Revolutionary Leap in Computing: The Initial RISC-V Laptop Now Features Enhanced Performance with Doubling of CPU Cores and Boosted Speed up to 2GHz + Integrated AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-productivity-on-the-go-the-premium-honor-magicbook-art-n14-for-under-1200-features-meteor-lake-cpu-and-removable-privacy-camera/"><u>Revolutionize Productivity on the Go: The Premium Honor MagicBook Art N14 for Under $1,200 Features Meteor Lake CPU and Removable Privacy Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-sessions-with-acers-powerful-and-compact-predator-helios-neo-14-laptop/"><u>Revolutionize Your Gaming Sessions with Acer's Powerful & Compact Predator Helios Neo 14 Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unsupported-device-or-driver-error-for-better-monitor-connectivity/"><u>Solving the 'Unsupported Device or Driver' Error for Better Monitor Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-guides-the-ultimate-source-for-hardware-analysis/"><u>Tom's Gadget Guides: The Ultimate Source for Hardware Analysis</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deal Alert: Top-Ranked Samsung TV Reduced by 43%% on Labor Day – Discover More at ZDNet!"
-date: 2024-09-23T17:34:01.063Z
-updated: 2024-09-28T17:05:59.210Z
+date: 2024-09-29T19:56:03.177Z
+updated: 2024-10-03T18:43:32.824Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,16 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,14 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-beneath-the-surface-a-deeper-look-at-snapchat-emojis-for-2024/"><u>[Updated] Beneath the Surface A Deeper Look at Snapchat Emojis for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/demystifying-the-use-of-slug-lines-in-film-scripts/"><u>Demystifying the Use of Slug Lines in Film Scripts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715701074716-eco-friendly-recorder-ads-absolved/"><u>Eco-Friendly Recorder - Ads Absolved!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-make-better-facebook-video-ads/"><u>How to Make Better Facebook Video Ads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oneplus-ace-3-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost OnePlus Ace 3 for Free? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-insightful-reviews-from-toms-hardware-authority/"><u>Mastering Tech Essentials: Insightful Reviews From Tom's Hardware Authority</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-technologies-in-depth-tutorials-and-product-comparisons-by-toms-hardware/"><u>Navigating New Technologies: In-Depth Tutorials and Product Comparisons by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-refrigeration-innovation-aseteks-advanced-ai-cold-plate-for-ecam-systems-born-from-cutting-edge-3d-metal-printing-and-synergistic-development-with-16/"><u>Next-Gen Refrigeration Innovation: Asetek's Advanced AI Cold Plate for ECAM Systems, Born From Cutting-Edge 3D Metal Printing and Synergistic Development with Fabric8 Labs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-top-of-the-line-flagship-cooler-premium-next-gen-performance-with-the-newly-released-nh-d15-g2-at-just-1eby/"><u>Noctua Unveils Top-of-the-Line Flagship Cooler - Premium Next-Gen Performance with the Newly Released NH-D15 G2 at Just $1Eby</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-savory-sensations-top-youtube-food-influencers/"><u>[New] 2024 Approved Savory Sensations Top YouTube Food Influencers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[Updated] 2024 Approved Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fine-tuning-soundtracks-with-garageband-expertise/"><u>[Updated] Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/can-the-samsung-galaxy-tab-s3-hold-up-find-out-here/"><u>Can the Samsung Galaxy Tab S3 Hold Up ? Find Out Here!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chuckle-champs-twitters-humor-heap/"><u>Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complex-ideas/"><u>Complex Ideas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-steps-to-secure-your-android-device-against-theft/"><u>Essential Steps to Secure Your Android Device Against Theft</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-advice-strategically-using-hashtags-to-grow-your-instagram-following-for-2024/"><u>Expert Advice Strategically Using Hashtags to Grow Your Instagram Following for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-casual-player-to-pro-on-android-essential-tips-and-advice-for-gamers/"><u>From Casual Player to Pro on Android: Essential Tips & Advice for Gamers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-tactics-for-unblemished-image-sourcing/"><u>In 2024, Proven Tactics for Unblemished Image Sourcing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>In 2024, Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-android-app-permissions-a-comprehensive-guide/"><u>Mastering Android App Permissions: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/material-you-design-arrives-on-five-popular-android-devices-with-upcoming-android-12-update/"><u>Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/messaging-showdown-google-messages-vs-samsung-messages-on-android/"><u>Messaging Showdown: Google Messages Vs. Samsung Messages on Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-9-versus-pixel-9-pro-and-xl-variants-a-comprehensive-showdown-explained/"><u>Pixel 9 Versus Pixel 9 Pro and XL Variants: A Comprehensive Showdown Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-yourself-for-innovation-samsung-gears-up-to-release-galaxy-s23-lineup-in-february/"><u>Prepare Yourself for Innovation: Samsung Gears Up to Release Galaxy S23 Lineup in February</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-instant-access-to-your-samsung-galaxys-camera-app/"><u>Quick Guide: Instant Access to Your Samsung Galaxy's Camera App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/regular-maintenance-alert-setup-automatic-weekly-reboot-for-your-samsung-galaxy-device/"><u>Regular Maintenance Alert: Setup Automatic Weekly Reboot for Your Samsung Galaxy Device</u></a></li>
 </ul></div>
 

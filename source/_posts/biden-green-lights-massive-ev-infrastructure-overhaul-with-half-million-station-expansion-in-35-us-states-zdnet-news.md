@@ -1,7 +1,7 @@
 ---
 title: Biden Green Lights Massive EV Infrastructure Overhaul with Half-Million Station Expansion in 35 US States - ZDNET News
-date: 2024-09-19 14:13:47
-updated: 2024-09-20 11:49:44
+date: 2024-09-29T21:41:06.324Z
+updated: 2024-10-04T00:01:12.308Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-economic-expressiveness-in-video-theming-tools/"><u>[New] 2024 Approved Economic Expressiveness in Video Theming Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-from-passion-to-prominence-the-creators-quest/"><u>[New] 2024 Approved From Passion to Prominence The Creator's Quest</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tricks-to-prevent-fb-video-advertisements-on-screen-for-2024/"><u>[New] Tricks to Prevent FB Video Advertisements on Screen for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-for-sports-video-compilation/"><u>[Updated] Step-by-Step for Sports Video Compilation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-newest-cpu-contenders-best-places-to-shop-for-the-ryzen-7-9700x-and-9600x/"><u>AMD's Newest CPU Contenders: Best Places to Shop for the Ryzen 7 9700X & 9600X</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compose-your-cinematic-storytelling-add-melodies-to-iphone-videos-without-cost-for-2024/"><u>Compose Your Cinematic Storytelling – Add Melodies to iPhone Videos Without Cost for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-viewer-tool-for-chilled-pleasures/"><u>In-Depth Viewer Tool for Chilled Pleasures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-2024-enhanced-hp-officejet-4500-printer-driver-download-now/"><u>Install 2024 Enhanced HP Officejet 4500 Printer Driver - Download Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-g22-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nokia G22</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-innovations-on-toms-digital-workshop/"><u>Navigating New Hardware Innovations on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-pc-parts-with-toms-guide-to-hardware/"><u>Navigating PC Parts with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-computer-and-hardware-analysis/"><u>Navigating the Digital World Through Tom's Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-product-quality-modelfarm-halves-defects-with-unreal-engine-and-intel-eyes-amd-ryzen-9-for-next-level-performance/"><u>Revolutionizing Product Quality: ModelFarm Halves Defects with Unreal Engine and Intel, Eyes AMD Ryzen 9 for Next Level Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-reviews-in-depth-analysis-of-the-latest-tech-hardware/"><u>Tom’s Gadget Reviews: In-Depth Analysis of the Latest Tech Hardware</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tracing-the-exits-who-left-my-insta-feed/"><u>Tracing the Exits Who Left My Insta Feed?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-mystery-behind-the-rattling-sound-noctuas-examination-of-its-new-nh-d15-g2-heat-sink-fans/"><u>Unraveling the Mystery Behind the Rattling Sound: Noctua's Examination of Its New NH-D15 G2 Heat Sink Fans</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

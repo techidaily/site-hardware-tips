@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Smart Displays Showdown: The Distinct Features Between Samsung Frame TV (2024 Vs. 2023) | ZDNET"
-date: 2024-09-23T19:00:31.114Z
-updated: 2024-09-28T18:50:07.077Z
+date: 2024-10-02T01:08:44.945Z
+updated: 2024-10-03T16:56:32.764Z
 tags:
   - tvs
 categories:
@@ -52,18 +52,18 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -102,10 +102,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -133,19 +133,6 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -189,15 +176,22 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -236,24 +230,18 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[New] 2024 Approved Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-impact-and-value-of-instagrams-self-verifying-feature/"><u>[New] 2024 Approved The Impact and Value of Instagram's Self-Verifying Feature</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-microrecorder-assessment-onscreen-snaps/"><u>[New] In 2024, MicroRecorder Assessment Onscreen Snaps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-navigating-days-to-launch-podcasts/"><u>[Updated] In 2024, Navigating Days to Launch Podcasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-five-leading-pc-tools-for-sonys-ps1-experience/"><u>[Updated] The Five Leading PC Tools for Sony's PS1 Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-chatgpt-to-create-compelling-scripts-for-your-next-gaming-project/"><u>Harness the Power of ChatGPT to Create Compelling Scripts for Your Next Gaming Project</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-8t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 8T via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovative-apps-transforming-linguistic-skills/"><u>Innovative Apps Transforming Linguistic Skills</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-synchronization-linking-gmail-to-your-apple-watch/"><u>Seamless Synchronization: Linking Gmail to Your Apple Watch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teamgroup-unveils-the-future-of-pc-maintenance-with-magnetic-features-on-their-iconic-t-force-siren-aio-cpu-coolers/"><u>TeamGroup Unveils the Future of PC Maintenance with Magnetic Features on Their Iconic T-Force Siren AIO CPU Coolers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-electronics-toms-insights/"><u>The Comprehensive Guide to Electronics - Tom's Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-5-benefits-that-make-buying-a-veil-printer-irresistible-this-black-friday/"><u>The Ultimate List of 5 Benefits That Make Buying a Veil Printer Irresistible This Black Friday</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-precision-tools-for-computers-and-hardware-enthusiasts/"><u>Tom's Precision Tools for Computers and Hardware Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-sweeping-game-displays-of-2024/"><u>Top Rated Sweeping Game Displays of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/under-65-cooling-mastery-comparative-review-of-thermalrights-frozen-notte-and-the-aqua-elite-e360-v3/"><u>Under $65 Cooling Mastery: Comparative Review of Thermalright's Frozen Notte and the Aqua Elite E360 V3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-and-pcs-the-toms-analysis/"><u>Unveiling the Latest Gadgets and PCs: The Tom's Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-guide/"><u>Unveiling the Latest in Computing: Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-tech-in-depth-hardware-reviews-from-toms-hardware/"><u>Unveiling the Latest Tech: In-Depth Hardware Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>[New] Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-image-making-via-premium-grid-makers/"><u>[Updated] Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-vibrant-leap-into-the-future-celebrating-crealitys-tenth-birthday-with-their-revolutionary-colored-3d-printing-machine/"><u>A Vibrant Leap Into the Future: Celebrating Creality’s Tenth Birthday with Their Revolutionary Colored 3D Printing Machine</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/complete-guide-solving-windows-10-upgrade-issues-with-expert-advice/"><u>Complete Guide: Solving Windows 10 Upgrade Issues with Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-unparalleled-performance-in-depth-review-of-hyte-thicc-q60-quietest-and-strongest-240mm-aio-cooler/"><u>Discover Unparalleled Performance: In-Depth Review of Hyte THICC Q60 Quietest & Strongest 240MM AIO Cooler</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-touch-and-the-imperative-for-authentic-content/"><u>Human Touch and the Imperative for Authentic Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-no-copyright-worries-10-top-public-domain-image-sites/"><u>New 2024 Approved No Copyright Worries 10 Top Public Domain Image Sites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-review-the-authority-on-hardware-analysis/"><u>Tom's Computing Review: The Authority on Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-hardware-excellence/"><u>Tom's Tech Insights: Your Guide to Hardware Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insights-on-the-latest-gadgets-and-hardware/"><u>Tom's Tech Review: Insights on the Latest Gadgets and Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tomtech-universe-navigating-the-world-of-computer-components/"><u>TomTech Universe: Navigating the World of Computer Components</u></a></li>
 </ul></div>
 
