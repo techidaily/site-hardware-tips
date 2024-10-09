@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special: Save $400 on the Segway Max G2 Electric Scooter - Shop Now at ZDNET!"
-date: 2024-09-19 16:27:26
-updated: 2024-09-20 10:22:36
+date: 2024-10-05T06:00:46.912Z
+updated: 2024-10-09T07:09:15.558Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>[New] 2024 Approved Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-creative-video-ends-top-6-budget-friendly-options/"><u>[New] Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-digging-for-discounted-beauty-in-tiktok-backgrounds-for-2024/"><u>[New] Digging for Discounted Beauty in TikTok Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>[New] In 2024, Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-social-media-trends-with-data-graphics-for-2024/"><u>[Updated] Charting Social Media Trends with Data Graphics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tier-mkv-players-macos-edition/"><u>[Updated] Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-photo-editing-in-ps-novice-style/"><u>2024 Approved Unlocking the Power of Photo Editing in PS, Novice Style</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-calling-problems-on-your-iphone-10-effective-fixes-you-need-to-know/"><u>Bypass Calling Problems on Your iPhone - 10 Effective Fixes You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-a-hardware-perspective/"><u>Exploring Computer Components with Tom - A Hardware Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-pc-components-with-toms-hardware-guides/"><u>Exploring High-Performance PC Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-desktop-speaker-options-in-202n4-choices-for-every-budget-and-sound-enthusiast/"><u>Exploring the Best Desktop Speaker Options in 202N4: Choices for Every Budget and Sound Enthusiast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-set-with-arctics-newest-36-chillers-the-perfect-match-for-intels-next-gen-arrow-lake-and-lga1851-compatible-cpus/"><u>Get Set with Arctic's Newest 36 Chillers: The Perfect Match for Intel's Next-Gen Arrow Lake and LGA1851 Compatible CPUs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flashing-feathersticks-short-film-characters-music/"><u>In 2024, Flashing Feathersticks Short Film Characters' Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-phrozen-sonic-mega-8k-s-styrene-resin-review-ideal-choice-for-printer-enthusiasts/"><u>In-Depth Phrozen Sonic Mega 8K S Styrene Resin Review: Ideal Choice for Printer Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-bamboolabs-bed-slinger-rapid-printing-with-their-latest-a1-3d-printer-coming-soon-on-dec-14th/"><u>Introducing the Revolutionary BambooLab's Bed Slinger: Rapid-Printing with Their Latest A1 3D Printer - Coming Soon on Dec. 14Th!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-machine-expert-reviews-from-toms-hardware/"><u>Mastering Your Machine: Expert Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-advanced-motherboards-and-cpus-tips-from-toms-hardware-hub/"><u>Navigating Advanced Motherboards & CPUs - Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-parts-with-toms-wisdom/"><u>Navigating the World of PC Parts with Tom's Wisdom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-slides-the-7-superior-tools-with-built-in-artificial-intelligence-technology/"><u>Revolutionize Your Slides: The 7 Superior Tools with Built-In Artificial Intelligence Technology</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

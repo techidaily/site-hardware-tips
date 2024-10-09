@@ -1,7 +1,7 @@
 ---
 title: Samsung SDI Partners with General Motors for a $3B U.S. Investment in New Electric Vehicle Battery Facility
-date: 2024-09-19 13:19:46
-updated: 2024-09-20 12:22:32
+date: 2024-10-05T06:58:17.844Z
+updated: 2024-10-08T18:17:46.509Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-melding-melodies-with-memories-in-cyberspace/"><u>[New] Melding Melodies with Memories in Cyberspace</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hacky-yet-effective-face-blurring-on-piscart-for-2024/"><u>[Updated] Hacky Yet Effective Face-Blurring on PiscArt for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-an-iphone-mobile-hotspot-that-wont-connect/"><u>How to Repair an iPhone Mobile Hotspot That Won't Connect</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-vr-equipment-enhancing-flight-control/"><u>In 2024, Best VR Equipment Enhancing Flight Control</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone X</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-11-tips-to-make-product-ad-videos/"><u>New 2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/program-specific-keys-on-a-microsoft-system/"><u>Program-Specific Keys on a Microsoft System</u></a></li>
+<li><a href="https://fox-http.techidaily.com/re-enable-windows-photo-viewer-methods-for-win-11-users/"><u>Re-Enable Windows Photo Viewer - Methods for Win 11 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-reviews-and-insights/"><u>Tom's Tech Hub: Expert Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-and-comprehensive-gadget-testing/"><u>Tom's Tech Review: Expert Insights and Comprehensive Gadget Testing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-into-hardware/"><u>Tom's Tech Review: Expert Insights Into Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

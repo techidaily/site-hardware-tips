@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Cab Launch: Baidu Initiates Self-Driving Taxis in Duo Chinese Metropolises - ZDNet"
-date: 2024-09-17 23:48:25
-updated: 2024-09-20 10:48:26
+date: 2024-10-04T20:54:46.506Z
+updated: 2024-10-08T20:15:02.228Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,30 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-best-binge-friends-amazon-primes-most-liked-shows-23-for-2024/"><u>[New] Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-the-landscape-of-facebook-ad-effectiveness/"><u>[Updated] 2024 Approved Navigating the Landscape of Facebook Ad Effectiveness</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>2024 Approved Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technologies-unveiled-by-toms-computer-chronicles/"><u>Advanced Technologies Unveiled by Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technology-insights-and-ratings-from-toms-hardware-experts/"><u>Advanced Technology Insights and Ratings From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-and-rating-of-bambulabs-top-tier-queen-mattress-variant/"><u>Comprehensive Breakdown and Rating of BambuLab’s Top-Tier Queen Mattress Variant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-hardware-innovations-at-toms-digest/"><u>Discover the Latest in Hardware Innovations at Tom's Digest</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-10t-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme 10T 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y28-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y28 5G FRP Bypass</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Deals: Enhance Your Backyard Viewing Experience with Discounted Outdoor TVs at Walmart - Insights From ZDNet"
-date: 2024-09-30T21:12:30.391Z
-updated: 2024-10-04T00:23:17.232Z
+date: 2024-10-04T01:37:36.045Z
+updated: 2024-10-08T21:57:20.312Z
 tags:
   - tvs
 categories:
@@ -59,10 +59,16 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -93,6 +99,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -100,13 +113,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -135,10 +141,10 @@ I usually play console games with a headset so I can better pick up on audio cue
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming 
@@ -188,10 +194,10 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -230,22 +236,24 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-industrys-mightiest-drone-fleet-compilation/"><u>[New] 2024 Approved Industry's Mightiest Drone Fleet Compilation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-download-and-installation-101-your-pathway-to-mastering-ez-grabber-for-2024/"><u>[New] Download & Installation 101 Your Pathway to Mastering EZ Grabber for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-creativity-top-editors-for-online-sharing-for-2024/"><u>[Updated] Cutting-Edge Creativity Top Editors for Online Sharing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[Updated] Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exemplary-cloud-services-for-biz-needs/"><u>[Updated] In 2024, Exemplary Cloud Services for Biz Needs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-take-on-camstudios-recorder-efficacy/"><u>[Updated] In 2024, Expert Take on CamStudio's Recorder Efficacy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-windows-keyboard-entry/"><u>Addressing Non-Operational Windows Keyboard Entry</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-asrock-b760m-pro-rs-motherboard-featuring-generous-m2-support/"><u>Affordable ASRock B760M Pro RS Motherboard - Featuring Generous M.2 Support</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-and-msi-unite-to-fortify-cpu-security-with-released-bios-update-targeting-zen-bleeding-problem-in-ryzen-series/"><u>AMD and MSI Unite to Fortify CPU Security with Released BIOS Update, Targeting Zen Bleeding Problem in Ryzen Series</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asrocks-z890-taichi-aqua-a-powerhouse-of-connectivity-boasting-two-thunderbolt-and-ten-usb-type-c-ports-for-enhanced-performance/"><u>ASROCK's Z890 Taichi Aqua - A Powerhouse of Connectivity: Boasting Two Thunderbolt and Ten USB Type-C Ports for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-upgrades-bios-with-microsofts-dynamic-lighting-feature-simplifying-the-shift-from-armory-crate/"><u>Asus Upgrades BIOS with Microsoft's Dynamic Lighting Feature: Simplifying the Shift From Armory Crate</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boosting-the-power-asus-new-motherboard-elevates-chinas-kx-7000-series-with-a-stunning-25-overclock/"><u>Boosting the Power: Asus' New Motherboard Elevates China’s KX-7000 Series with a Stunning 25% Overclock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-issue-with-msi-z790-boards-cracked-chipsets-and-affected-units-amid-possible-assembly-fault-new-developments/"><u>Breaking Down the Issue with MSI Z790 Boards: Cracked Chipsets & Affected Units Amid Possible Assembly Fault (New Developments)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/check-physical-signs-notice-if-there-are-physical-signs-like-bloodshot-eyes-unexplained-bruises-changes-in-appetite-or-sleep-patterns-poor-personal-hygiene-86/"><u>Check Physical Signs: Notice if There Are Physical Signs Like Bloodshot Eyes, Unexplained Bruises, Changes in Appetite or Sleep Patterns, Poor Personal Hygiene, or Unusual Smells on Their Breath or Clothing.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-alert-msis-z790-motherboards-face-failures-due-to-pch-chip-problems-manufacturing-glitch-suspected-in-limited-shipments/"><u>Critical Alert: MSI's Z790 Motherboards Face Failures Due to PCH Chip Problems – Manufacturing Glitch Suspected in Limited Shipments</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-intel-iris-xe-graphics-software-update-on-windows-11/"><u>Get the Newest Intel Iris Xe Graphics Software Update on Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-dell-xps-13-2-in-1-notebook-analysis-top-performing-laptop-unleashed/"><u>Ultimate Guide: Dell XPS 13 2-in-1 Notebook Analysis – Top Performing Laptop Unleashed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-iphone-audio-downloading-manual/"><u>[New] The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>[Updated] Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-out-background-sounds-in-skype-chats/"><u>[Updated] Cutting Out Background Sounds in Skype Chats</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-best-live-streaming-apps-list-for-youtube-content-creators-iosandroid/"><u>2024 Approved The Best Live Streaming Apps List for YouTube Content Creators (iOS/Android)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-tips-straight-from-toms-technology-hub/"><u>Advanced Computing Tips Straight From Tom's Technology Hub</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-tutorial-installing-essential-drivers-for-your-hp-zbook-15-g3-notebook-windows/"><u>Complete Tutorial: Installing Essential Drivers for Your HP ZBook 15 G3 Notebook (Windows)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-deep-into-dreamy-asmr-scenarios-for-rest/"><u>Dive Deep Into Dreamy ASMR Scenarios for Rest</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/diving-into-instagrams-restriction-for-video-content-for-2024/"><u>Diving Into Instagram's Restriction for Video Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-benefits-of-the-arctic-freezer-36-air-conditioner-a-game-changer-for-budget-cooling-solutions/"><u>Explore the Benefits of the Arctic Freezer 36 Air Conditioner – A Game-Changer for Budget Cooling Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-tech-world-through-toms-lens-mastering-the-complexity-of-computer-components/"><u>Exploring the Tech World Through Tom's Lens: Mastering the Complexity of Computer Components</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-manually-reduce-cpu-consumption-by-windows-modules-installer-in-windows-10/"><u>How to Manually Reduce CPU Consumption by Windows Modules Installer in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-repair-a-frozen-or-black-steam-interface-top-tips/"><u>How to Troubleshoot and Repair a Frozen or Black Steam Interface - Top Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-teams-up-with-exxonmobil-to-engineer-advanced-liquid-cooling-solutions-for-next-generation-2000w-tdp-xeon-cpus/"><u>Intel Teams Up with ExxonMobil to Engineer Advanced Liquid Cooling Solutions for Next-Generation 2000W TDP Xeon CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-choices-expert-advice-from-toms-tech-hub/"><u>Navigating Technology Choices - Expert Advice From Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-guide/"><u>Navigating the World of Computing with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-with-toms-hardware-reviews-and-tips/"><u>Stay Ahead of the Curve with Tom's Hardware Reviews & Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-11-upgraded-hd-audio-driver-setup/"><u>Streamlining Windows 11: Upgraded HD Audio Driver Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-by-toms-hardware-experts/"><u>The Ultimate Guide to Tech by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-getting-a-3d-printer-during-black-friday-a-5-point-guide/"><u>Why You Should Consider Getting a 3D Printer During Black Friday: A 5-Point Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Superior Alternative to Remarkable and Kindle: Expert's Guide to Exceptional E Ink Tablets on ZDNET"
-date: 2024-09-19 15:54:41
-updated: 2024-09-20 11:23:42
+date: 2024-10-03T01:18:54.818Z
+updated: 2024-10-09T08:27:10.235Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +157,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-broadcasting-your-favorite-fb-videos-on-big-screen/"><u>[New] 2024 Approved Broadcasting Your Favorite FB Videos on Big Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-profit-sharing-in-youtube-short-creation/"><u>[New] Exploring Profit Sharing in YouTube Short Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll-for-2024/"><u>[Updated] Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll) for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos/"><u>2024 Approved A Beginner's Approach to Title and Caption Integration in Windows 10 Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-building-techniques-by-toms-hardware-expertise/"><u>Advanced PC Building Techniques by Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-b550-chipsets-harnessing-amds-value-packed-pcie-40-technology-for-gamers-and-professionals/"><u>Affordable B550 Chipsets: Harnessing AMD’s Value-Packed PCIe 지속성 4.0 Technology for Gamers and Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-the-most-frequent-issues-in-cura-a-users-guide/"><u>Avoiding the Most Frequent Issues in Cura – A User's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-router-models-to-boost-your-gaming-performance/"><u>Best Router Models to Boost Your Gaming Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bring-your-ideas-to-life-in-stunning-colors-with-phrozens-4d-printing-technology/"><u>Bring Your Ideas to Life in Stunning Colors with Phrozen's 4D Printing Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/bulletproof-strategies-for-fixing-first-person-shooter-errors-in-the-latest-call-of-duty-game/"><u>Bulletproof Strategies for Fixing First-Person Shooter Errors in the Latest Call of Duty Game</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/converte-i-tuoi-file-flv-con-soluzione-online-gratuita-utilizzando-il-formato-ogv-ecco-come/"><u>Converte I Tuoi File FLV Con Soluzione Online Gratuita Utilizzando Il Formato OGV - Ecco Come!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-8-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 8 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-15-plus-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus with IMEI Code?</u></a></li>
+</ul></div>
+

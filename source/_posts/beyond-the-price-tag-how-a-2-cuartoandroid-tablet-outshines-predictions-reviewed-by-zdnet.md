@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Price Tag: How a $2 cuartoAndroid Tablet Outshines Predictions | Reviewed by ZDNet"
-date: 2024-09-19 16:10:12
-updated: 2024-09-20 11:18:35
+date: 2024-10-07T07:55:33.244Z
+updated: 2024-10-09T04:20:50.363Z
 tags:
   - tablets
 categories:
@@ -117,6 +117,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-beating-the-curve-adapting-to-new-facebook-content-rules-for-2024/"><u>[New] Beating the Curve Adapting to New Facebook Content Rules for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-thirteen-for-professional-cinematic-equipment/"><u>[New] In 2024, Ultimate Thirteen for Professional Cinematic Equipment</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlock-visual-brilliance-top-11-videos-on-color-techniques-for-2024/"><u>[Updated] Unlock Visual Brilliance Top 11 Videos on Color Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>2024 Approved No Price Tag On Adventure Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-xs-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone XS Waze | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-next-pc-build-with-our-top-picked-computer-cases-of-2024-detailed-reviews-and-choices-for-gamers-and-pros-alike/"><u>Ace Your Next PC Build with Our Top-Picked Computer Cases of 2024: Detailed Reviews and Choices for Gamers and Pros Alike</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-reviews-unveiling-secrets-of-toms-hardware/"><u>Advanced Tech Reviews: Unveiling Secrets of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aseteks-groundbreaking-ai-optimized-ecam-cold-plate-created-through-cutting-edge-3d-metal-printing-in-partnership-with-fabric8labs/"><u>Asetek's Groundbreaking AI-Optimized ECAM Cold Plate, Created Through Cutting-Edge 3D Metal Printing in Partnership with Fabric8Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-safety-alert-for-bambu-lab-users-a1-series-recalled-full-reimbursements-offered-and-use-temporarily-halted/"><u>Critical Safety Alert for Bambu Lab Users: A1 Series Recalled, Full Reimbursements Offered and Use Temporarily Halted</u></a></li>
+<li><a href="https://facebook.techidaily.com/fixing-a-fatal-error-on-facebook-platform/"><u>Fixing a Fatal Error on Facebook Platform</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-chrome-video-errors-a-step-by-step-fix-guide/"><u>In 2024, Chrome Video Errors A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172010-rapid-plus-tct-2024-unleashed-breakthroughs-in-3d-printing-machines-filaments-and-more/"><u>Rapid + TCT 2024 Unleashed: Breakthroughs in 3D Printing Machines, Filaments & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-tech-a-closer-look-from-toms-hardware/"><u>Unveiling the Latest Tech: A Closer Look From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-choices-from-toms-perspective/"><u>Unveiling Top Hardware Choices From Tom's Perspective</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-intel-drivers-for-rapid-storage-tech-secure-download-and-enhanced-performance/"><u>Updated Intel Drivers for Rapid Storage Tech – Secure Download & Enhanced Performance</u></a></li>
+</ul></div>
+

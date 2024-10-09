@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: High-Quality, 85” TCL TV for a Steal - Only $900 Available This Weekend in the Holiday Sale by ZDNet!"
-date: 2024-09-29T16:46:24.462Z
-updated: 2024-10-04T00:43:28.342Z
+date: 2024-10-05T04:21:38.601Z
+updated: 2024-10-08T18:36:16.114Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo/"><u>[New] Constructive Cuts Streamlined Approaches for Length Adjustments on Vimeo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/t-insider-tips-from-chroma-keying-to-cinematic-creations-for-2024/"><u>[New] YT Insider Tips From Chroma Keying to Cinematic Creations for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-balancing-acts-in-youtube-music-mixes/"><u>[Updated] In 2024, Balancing Acts in YouTube Music Mixes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-efficient-techniques-for-saving-online-meeting-transcripts/"><u>2024 Approved Efficient Techniques for Saving Online Meeting Transcripts</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-review-of-the-corsair-dominator-platinum-rgb-ddr5-6400-c38-kit-with-2x16gb-memory-sticks/"><u>In-Depth Analysis & Review of the Corsair Dominator Platinum RGB DDR5-6400 C38 Kit with 2X16GB Memory Sticks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-surecores-revolutionary-low-power-cryoquantum-tech-next-gen-memory-functionality-at-minimal-4kelvin/"><u>Introducing SureCore's Revolutionary Low-Power CryoQuantum Tech: Next-Gen Memory Functionality At Minimal 4Kelvin</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rising-demand-causes-anticipated-increase-of-up-to-15-in-dram-prices-during-first-quarter-of-2024-industry-production-holds-steady/"><u>Rising Demand Causes Anticipated Increase of Up to 15% in DRAM Prices During First Quarter of 2024: Industry Production Holds Steady</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-releases-revolutionary-lpcamm-technology-offering-laptops-up-to-128gb-ddr5-memory-in-a-compact-60-smaller-footprint/"><u>Samsung Releases Revolutionary LPCAMM Technology, Offering Laptops up to 128GB DDR5 Memory in a Compact 60% Smaller Footprint</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/swiftly-restoring-eliminated-reddit-content-for-2024/"><u>Swiftly Restoring Eliminated Reddit Content for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-reviews-and-specs/"><u>Tom's Tech Insights: Comprehensive Reviews & Specs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-computer-components-and-systems/"><u>Tom's Tech: The Ultimate Guide to Computer Components and Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-workflow-explore-8-effective-ways-to-utilize-auto-gpt/"><u>Transform Your Workflow: Explore 8 Effective Ways to Utilize Auto-GPT</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-14-pro-max-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 14 Pro Max in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-hardware-analysis/"><u>Unlocking Performance Secrets with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhanced-question-guide-for-engaging-audio-content/"><u>[New] 2024 Approved Enhanced Question Guide for Engaging Audio Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-acceleration-on-youtube-expert-tips-for-video-partnerships/"><u>[New] In 2024, Growth Acceleration on YouTube Expert Tips for Video Partnerships</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-ten-historical-educational-video-streams-for-students-for-2024/"><u>[New] Top Ten Historical Educational Video Streams (For Students) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cross-promotion-mastery-sharing-igtv-to-fb/"><u>[Updated] Cross-Promotion Mastery Sharing IGTV to FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-techniques-for-concurrent-webcam-and-screen-recordings/"><u>[Updated] Techniques for Concurrent Webcam & Screen Recordings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-computer-secrets-on-toms-gear-hub/"><u>Discover Computer Secrets on Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-noctuas-home-series-offerings-be-amazed-by-the-spectacular-and-economical-100-nv-fs1-desk-breezer/"><u>Discover Noctua's Home Series Offerings – Be Amazed by the Spectacular and Economical $100 NV-FS1 Desk Breezer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-itel-p55t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Itel P55T Phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-spark-20-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Spark 20 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-game-with-the-comfortable-design-of-the-mavix-m9-chair-reviewed/"><u>Master Your Game with the Comfortable Design of the Mavix M9 Chair - Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-top-picks-and-tips-from-toms-hardware-experts/"><u>Mastering Technology: Top Picks and Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-tech-trends-toms-hardware-haven/"><u>Navigating the Latest Tech Trends - Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-next-level-gaming-potential-on-phillips-epic-49-curved-oled-screen/"><u>Unleash Next-Level Gaming Potential on Phillips' Epic 49 Curved OLED Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-power-of-amds-latest-advancement-zen-n-architecture-features-smaller-efficient-cores-and-an-innovative-dual-ccx-layout-for-future-ready-performan71/"><u>Unlock the Power of AMD's Latest Advancement: Zen N Architecture Features Smaller, Efficient Cores and an Innovative Dual-CCX Layout for Future-Ready Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-toms-electronics-breakdown/"><u>Unveiling the Latest in Tom's Electronics Breakdown</u></a></li>
 </ul></div>
 

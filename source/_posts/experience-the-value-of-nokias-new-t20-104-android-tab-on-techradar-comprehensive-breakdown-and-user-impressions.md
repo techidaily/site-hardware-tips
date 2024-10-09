@@ -1,7 +1,7 @@
 ---
 title: "Experience the Value of Nokia's New T20, 10.4 Android Tab on TechRadar: Comprehensive Breakdown & User Impressions"
-date: 2024-09-17 12:13:40
-updated: 2024-09-20 12:26:17
+date: 2024-10-03T02:07:42.003Z
+updated: 2024-10-08T21:56:58.616Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-windows-movie-maker-6-installed-quickly-and-easily/"><u>[New] Getting Windows Movie Maker 6 Installed Quickly & Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-capture-and-share-your-games-online/"><u>2024 Approved How to Capture and Share Your Games Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/engineering-eye-catching-podcast-sizzle-reels/"><u>Engineering Eye-Catching Podcast Sizzle Reels</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-the-art-of-ignoring-ig-suggestions/"><u>In 2024, Mastering the Art of Ignoring IG Suggestions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-high-performance-computer-components-by-tom/"><u>The Ultimate Resource for High-Performance Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-into-computer-components/"><u>Tom's Tech Review: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-and-ssd-docking-stations/"><u>Top-Rated External HDD & SSD Docking Stations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-in-gadgets-with-tom-your-go-to-tech-guide/"><u>Uncovering the Latest in Gadgets with Tom – Your Go-To Tech Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+</ul></div>
+

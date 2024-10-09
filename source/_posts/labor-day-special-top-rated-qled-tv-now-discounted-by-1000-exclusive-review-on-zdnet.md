@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Special: Top-Rated QLED TV Now Discounted by $1,000 - Exclusive Review on ZDNet"
-date: 2024-09-26T22:43:03.570Z
-updated: 2024-10-03T21:02:19.682Z
+date: 2024-10-02T02:54:10.571Z
+updated: 2024-10-08T19:44:40.648Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,16 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,17 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-complete-package-of-top-zoom-capturing-gear/"><u>[New] In 2024, The Complete Package of Top Zoom Capturing Gear</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-a-new-era-advanced-webcam-techniques/"><u>[Updated] 2024 Approved A New Era Advanced Webcam Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-amplification-for-powerpoint-presentations/"><u>2024 Approved Audio Amplification for PowerPoint Presentations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726225866141-ram-movavi/"><u>無限通行:網路版本免費RAM轉檔 - Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-all-new-woody-series-by-antec-available-with-exquisite-walnut-and-birch-trim-options/"><u>Discover the All-New Woody Series by Antec – Available with Exquisite Walnut and Birch Trim Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-gadget-guide-navigating-the-newest-pc-technologies/"><u>Expert Insights From Tom's Gadget Guide: Navigating the Newest PC Technologies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-evolved-beauty-of-fractals-north-xl-an-expanded-review-for-gaming-rigs/"><u>Exploring the Evolved Beauty of Fractal's North XL - An Expanded Review for Gaming Rigs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-installation-compatible-hp-inkjetlaser-jet-drivers-for-windows-7-systems/"><u>Free Installation: Compatible HP Inkjet/Laser Jet Drivers for Windows 7 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/jonsbo-launches-itx-case-a-compact-o11-dynamic-mini-with-elegant-wood-grain-accents-innovative-dual-chamber-design-surpasses-classic-soda-can-height/"><u>Jonsbo Launches ITX Case: A Compact O11-Dynamic Mini with Elegant Wood Grain Accents - Innovative Dual-Chamber Design Surpasses Classic Soda Can Height</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/macx-mediatrans-takes-the-lead-with-groundbreaking-features-for-managing-itunes-downloads-and-deleting-photos-from-your-devices-memory/"><u>MacX MediaTrans Takes the Lead with Groundbreaking Features for Managing iTunes Downloads and Deleting Photos From Your Device's Memory</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-6-standard-gpt-mistakes-and-remedies/"><u>Navigating Through 6 Standard GPT Mistakes & Remedies</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/resolving-silence-in-tweeted-video-playbacks/"><u>Resolving Silence in Tweeted Video Playbacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-movie-magic-tiktok-effects-techniques/"><u>[New] 2024 Approved Mastering Movie Magic TikTok Effects Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-android-video-calls/"><u>[New] The Ultimate Guide to Android Video Calls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-powerpoint-to-video-best-practices-with-webcams-now/"><u>[Updated] In 2024, PowerPoint to Video Best Practices with Webcams, Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-guide-resolving-non-functioning-webex-microphones-quickly/"><u>2024 Guide: Resolving Non-Functioning Webex Microphones Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-a-deep-dive-by-tomcuits/"><u>Advanced Tech Insights: A Deep-Dive by Tom'cuits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-the-ultimate-guide/"><u>Exploring Hardware with Tom: The Ultimate Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-happy-birthday-track-downloaded-in-mp3-format-now/"><u>Get Your Free 'Happy Birthday' Track Downloaded in MP3 Format Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-creating-chuckles-with-gifs-a-meme-masterclass/"><u>In 2024, Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-poco-x5-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Poco X5 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-crealitys-latest-milestone-a-colorful-addition-to-its-10year-legacy-in-3d-printing/"><u>Introducing Creality’s Latest Milestone: A Colorful Addition to Its 10Year Legacy in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-game-plan-with-insights-from-toms-hardware-hub/"><u>Mastering Your Tech Game Plan with Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-superior-speed-best-ssds-for-an-unmatched-gaming-journey-on-the-steam-deck/"><u>Selecting Superior Speed: Best SSDs for an Unmatched Gaming Journey on the Steam Deck</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-mice-of-2024-enhance-efficiency-with-ultimate-portability/"><u>Top-Rated Wireless Mice of 2024: Enhance Efficiency with Ultimate Portability</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-and-easy-avi-video-editing-top-5-software-choices-for-2024/"><u>Updated Free and Easy AVI Video Editing Top 5 Software Choices for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Tablets for Students: In-Depth Review by Professionals | ZDNet"
-date: 2024-09-17 20:29:43
-updated: 2024-09-20 11:37:34
+date: 2024-10-07T05:33:12.577Z
+updated: 2024-10-08T17:52:02.846Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +167,19 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-terria-customization-collection/"><u>[New] In 2024, Ultimate Terria Customization Collection</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-affordable-android-calls-10-best-selection/"><u>[Updated] 2024 Approved Affordable Android Calls, 10 Best Selection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mavic-air-vs-spark-the-gamers-edition-comparison-for-2024/"><u>[Updated] Mavic Air Vs. Spark The Gamer's Edition Comparison for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-clubbing-essentials-top-rated-dj-template-vids/"><u>In 2024, Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-home-comfort-in-depth-analysis-of-the-arctic-freezer-36-cooling-unit/"><u>Revolutionizing Home Comfort – In-Depth Analysis of the Arctic Freezer 36 Cooling Unit</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ceos-guide-to-mastering-company-language/"><u>The CEO's Guide to Mastering Company Language</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unlocking-the-power-of-hardware/"><u>Tom's Tech Insights: Unlocking the Power of Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-computer-hardware/"><u>Tom's Tech Review: Comprehensive Insights on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
+</ul></div>
+

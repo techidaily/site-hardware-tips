@@ -1,7 +1,7 @@
 ---
 title: "NASA's Upcoming Quest: Pushing Past Sonic Boundaries Once More"
-date: 2024-09-19 21:38:55
-updated: 2024-09-20 12:43:31
+date: 2024-10-04T17:54:59.886Z
+updated: 2024-10-08T21:26:09.031Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,30 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-complete-investigation-into-razers-kiyo-webcam-for-2024/"><u>[New] Complete Investigation Into Razer's Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-music-players-software-for-windows/"><u>[New] In 2024, Best Music Players Software for Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-type-on-your-apple-device-here-are-6-solutions/"><u>Can't Type on Your Apple Device? Here Are 6 Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oneplus-nord-ce-3-lite-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on OnePlus Nord CE 3 Lite 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-initial-configuration-of-your-echo-dot-enter-setup-mode-with-ease/"><u>Mastering the Initial Configuration of Your Echo Dot: Enter Setup Mode with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/underperforming-thermal-grizzly-components-a-confession-from-der8auer/"><u>Underperforming Thermal Grizzly Components: A Confession From Der8auer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-technology-through-toms-lens/"><u>Unlocking the Secrets of Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/untangling-the-mystery-tips-to-keep-your-3d-printer-threads-free-of-knots/"><u>Untangling the Mystery: Tips to Keep Your 3D Printer Threads Free of Knots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-tech-the-inside-scoop-from-toms-hardware/"><u>Unveiling Top-Notch Tech: The Inside Scoop From Tom's Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

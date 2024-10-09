@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Labor Day Savings on Highly Rated LG OLED TVs, Available Up to $80T Discounted Only Here | ZDN's Tech Corner
-date: 2024-09-30T00:05:57.309Z
-updated: 2024-10-03T20:25:22.379Z
+date: 2024-10-02T07:05:23.353Z
+updated: 2024-10-09T06:57:20.865Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +98,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/33-savings-alert-top-performance-cpu-cooling-with-thermalrights-peerless-assassin-120-se-a-must-have-for-serious-gamers/"><u>$33 Savings Alert! Top-Performance CPU Cooling with Thermalright's Peerless Assassin 120 SE: A Must-Have for Serious Gamers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/mizable-mcb-visuals-for-youtube-banners/"><u>Customizable MCB Visuals for YouTube Banners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287646853-dvd/"><u>DVD オーサリング中の音量不整合解消法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computer-hardware-from-toms-trusted-source/"><u>Expert Advice on Computer Hardware From Tom’s Trusted Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-by-tom-your-trusted-resource/"><u>Expert Hardware Insights by Tom - Your Trusted Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-at-toms-hardware-insights/"><u>Exploring High-Performance Computing at Tom's Hardware Insights</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-3-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT 3 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Reviews and Tech Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-0x800700e1/"><u>Overcoming Windows Error 0X800700E1</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/superior-converter-mp4-to-facebook-for-2024/"><u>Superior Converter MP4 to Facebook for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/omplete-angle-manipulation-handbook-for-youtube-videos-for-2024/"><u>The Complete Angle Manipulation Handbook for YouTube Videos for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-spark-10-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Spark 10 4G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-chill-expert-analysis-of-id-coolings-frozn-models-a410-and-a/"><u>Affordable Chill: Expert Analysis of ID-Cooling's FROZN Models A410 & A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-in-operating-systems-post-windows-11/"><u>Breaking Barriers in Operating Systems: Post-Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-pc-parts-and-devices-a-deep-dive-by-toms-hardware-experts/"><u>Discover Top PC Parts & Devices: A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-of-both-worlds-a-high-quality-ips-display-and-stunning-rgb-illumination-with-the-valkyrie-al1-125-cpu-cooling-unit-under-20/"><u>Get the Best of Both Worlds: A High-Quality IPS Display and Stunning RGB Illumination with the Valkyrie AL1 125 CPU Cooling Unit Under $20!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-a60s-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel A60s – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-reaction-video-mastery-tips-and-tricks-with-filmora/"><u>New 2024 Approved Reaction Video Mastery Tips and Tricks with Filmora</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-siri-malfunctions-in-ios-a-step-by-step-guide-with-7-fixes/"><u>Resolving Siri Malfunctions in iOS: A Step-by-Step Guide (with 7 Fixes)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-resolve-video-file-playback-failed-with-error-224003/"><u>Solution: Resolve 'Video File Playback Failed' With Error 224003</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-ranking-of-cable-modems/"><u>The Ultimate Ranking of Cable Modems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-on-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Guides on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-removing-blockages-from-your-3d-printers-nozzle/"><u>Ultimate Guide: Removing Blockages From Your 3D Printer's Nozzle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-latest-gadgets-and-pc-specs-toms-guide/"><u>Unveiling Latest Gadgets and PC Specs – Tom's Guide</u></a></li>
 </ul></div>
 

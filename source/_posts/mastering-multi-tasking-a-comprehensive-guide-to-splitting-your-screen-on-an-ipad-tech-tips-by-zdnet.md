@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Tasking: A Comprehensive Guide to Splitting Your Screen on an iPad | Tech Tips by ZDNet"
-date: 2024-09-17 16:17:59
-updated: 2024-09-20 11:51:57
+date: 2024-10-04T02:18:16.635Z
+updated: 2024-10-09T02:51:25.435Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-snapchat-integration-mac-tips-and-tricks/"><u>[Updated] 2024 Approved Effortless Snapchat Integration Mac Tips & Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dismantling-the-profit-strategy-of-tseries-on-digital-platforms-youtube/"><u>[Updated] Dismantling the Profit Strategy of TSeries on Digital Platforms (YouTube)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-refund-how-tiktoks-error-resulted-in-bambu-lab-a1-3d-printing-enthusiasts-getting-new-and-older-printers-by-mistake/"><u>Accidental Refund: How TikTok's Error Resulted in Bambu Lab A1 3D Printing Enthusiasts Getting New and Older Printers by Mistake</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175634502-avoid-potential-warranty-issues-with-arctic-liquid-freezer-iii-essential-custom-contact-solutions-for-intel-processors/"><u>Avoid Potential Warranty Issues with Arctic Liquid Freezer III: Essential Custom Contact Solutions for Intel Processors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-magic-v2-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor Magic V2</u></a></li>
+<li><a href="https://solve-news.techidaily.com/free-online-conversion-transform-mkv-files-into-mp4-format-with-moveavi/"><u>Free Online Conversion: Transform MKV Files Into MP4 Format with MoveAVI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125171231-get-set-to-print-like-never-before-creality-releases-launch-date-cost-and-full-specs-of-their-latest-k1c-masterpiece/"><u>Get Set to Print Like Never Before: Creality Releases Launch Date, Cost and Full Specs of Their Latest K1C Masterpiece</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-key-video-makers-in-the-asmr-space/"><u>In 2024, Key Video Makers in the ASMR Space</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-cut-trim-and-polish-the-best-free-online-video-editors-for-2024/"><u>New Cut, Trim, and Polish The Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/phones-to-cameras-enhancing-your-live-stream-setup-for-2024/"><u>Phones to Cameras Enhancing Your Live Stream Setup for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/sculpting-digital-art-the-most-impressive-new-additions-to-paint/"><u>Sculpting Digital Art: The Most Impressive New Additions to Paint</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performance-nvme-ssds-perfect-for-your-steam-deck-adventures/"><u>Top Performance NVMe SSDs Perfect for Your Steam Deck Adventures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-power-supply-units-ultimate-selection/"><u>Top Rated Gaming Power Supply Units : Ultimate Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-ideal-password-keepers-features-both-gratis-and-premium-choices/"><u>Ultimate Guide to Selecting Ideal Password Keepers - Features Both Gratis and Premium Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-open-source-with-sk1-a-comprehensive-two-trees-supercomputer-evaluation/"><u>Unveiling the Power of Open Source with SK1 - A Comprehensive Two Trees Supercomputer Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-build-with-hyte-newly-released-premium-coolers-eye-catching-lights-and-extensive-control-over-motherboard-components-like-rgb-customization-and13/"><u>Upgrade Your Build with Hyte: Newly Released Premium Coolers, Eye-Catching Lights, and Extensive Control Over Motherboard Components Like RGB Customization and USB-Powered Fans</u></a></li>
+</ul></div>
+

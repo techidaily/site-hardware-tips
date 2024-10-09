@@ -1,7 +1,7 @@
 ---
 title: NASA's Upcoming Mission Aims to Shatter Sonic Boundaries Once More
-date: 2024-09-19 21:24:16
-updated: 2024-09-20 11:32:44
+date: 2024-10-06T18:21:55.873Z
+updated: 2024-10-08T18:58:38.733Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-gradual-aesthetic-launch/"><u>[New] In 2024, Gradual Aesthetic Launch</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-transform-your-snaps-the-complete-guide-to-snapchat-editing/"><u>[Updated] 2024 Approved Transform Your Snaps The Complete Guide to Snapchat Editing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[Updated] In 2024, Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-overseeing-the-upgraded-parrot-ar-drone/"><u>2024 Approved Overseeing the Upgraded Parrot AR Drone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-a2-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi A2? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c12-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C12 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>In 2024, Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-zero-price-point-video-capturer/"><u>Prime Zero-Price Point Video Capturer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-and-insights/"><u>Tom's Tech Reviews: In-Depth Analysis & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-todays-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Today's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-imaging-game-with-3dmakerpros-mole-3d-scanner-a-full-spectrum-evaluation/"><u>Transform Your Imaging Game with 3DMakerPro's Mole 3D Scanner - A Full Spectrum Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/troubleshooting-specter-faults-a-comprehensive-tutorial-for-3d-printing-success/"><u>Troubleshooting Specter Faults - A Comprehensive Tutorial for 3D Printing Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/trustworthy-performance-analyses-by-tom-a-hardware-authority/"><u>Trustworthy Performance Analyses by Tom - A Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-troubleshooting-guide-solving-non-heating-issues-with-your-3d-printers-build-plate/"><u>Ultimate Troubleshooting Guide: Solving Non-Heating Issues with Your 3D Printer's Build Plate</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

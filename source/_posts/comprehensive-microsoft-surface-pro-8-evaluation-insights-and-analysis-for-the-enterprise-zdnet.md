@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Microsoft Surface Pro 8 Evaluation: Insights and Analysis for the Enterprise - ZDNet"
-date: 2024-09-18 14:12:21
-updated: 2024-09-20 12:26:50
+date: 2024-10-07T23:57:15.010Z
+updated: 2024-10-08T16:22:37.992Z
 tags:
   - tablets
 categories:
@@ -133,6 +133,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-video-production-essential-lessons-for-beginners/"><u>[New] In 2024, Mastering Video Production Essential Lessons for Beginners</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-add-audio-fade-in-effect/"><u>How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-update-your-hp-officejet-4655-driver-best-practices-and-links/"><u>How to Obtain and Update Your HP OfficeJet 4655 Driver: Best Practices & Links</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-6-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 6 with 3 Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/phony-chatgpt-plugin-illegally-accesses-snapchat-accounts/"><u>Phony ChatGPT Plugin Illegally Accesses Snapchat Accounts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-additions-for-newbie-gopro-photographers/"><u>Prime Additions for Newbie GoPro Photographers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-quick-print-method-unveiled-by-mit-with-recycled-metals-and-glass-beads/"><u>Revolutionary Quick-Print Method Unveiled by MIT with Recycled Metals & Glass Beads</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-updated-with-toms-hardware-for-top-pc-specs-and-trends/"><u>Stay Updated with Tom's Hardware for Top PC Specs & Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-cooling-colorful-ai-thermal-paste-by-cooler-master-powered-by-diamond-nanotechnology-for-ultimate-heat-dissipation/"><u>The Future of Cooling: Colorful AI Thermal Paste by Cooler Master, Powered by Diamond Nanotechnology for Ultimate Heat Dissipation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-quiet-revolution-in-refrigeration-exclusive-review-of-icebergs-thermal-icefloe-oasis-models-on-a-budget/"><u>The Quiet Revolution in Refrigeration: Exclusive Review of Iceberg's Thermal IceFLOE Oasis Models on a Budget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-arctic-freezer-36-upgrades-entry-level-air-conditioner-standards/"><u>The Ultimate Review: Arctic Freezer 36 Upgrades Entry-Level Air Conditioner Standards</u></a></li>
+</ul></div>
+

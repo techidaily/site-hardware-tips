@@ -1,7 +1,7 @@
 ---
 title: Can You Believe It? Southwest's New Strategy Prompts Customers to Try Something Funny | ZDNet Insider
-date: 2024-09-17 10:30:56
-updated: 2024-09-20 11:58:10
+date: 2024-10-05T23:44:06.381Z
+updated: 2024-10-09T01:50:22.128Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,44 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-moguls-and-millionaires/"><u>[New] In 2024, YouTube Moguls and Millionaires</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-building-profitable-collaborations-with-brands-on-youtube/"><u>[Updated] Building Profitable Collaborations with Brands on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success-for-2024/"><u>[Updated] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-should-itop-top-your-list-for-screen-recorders/"><u>[Updated] In 2024, Should ITop Top Your List for Screen Recorders?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/s-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-finest-computer-speakers-of-the-year-balancing-cost-with-superior-audio-experience/"><u>Discovering the Finest Computer Speakers of the Year: Balancing Cost with Superior Audio Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-esports-experience-with-the-best-bluetooth-gaming-headsets-of-2024/"><u>Elevate Your Esports Experience with the Best Bluetooth Gaming Headsets of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-nvme-drive-efficiency-in-depth-look-at-the-best-coolers-with-a-closer-look-at-id-cooling-zero-m15-and-m05/"><u>Elevating NVMe Drive Efficiency: In-Depth Look At The Best Coolers With A Closer Look At ID-Cooling Zero M15 & M05</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-list-of-powerful-travel-friendly-and-advanced-type-c-usb-hubs/"><u>Elite List of Powerful, Travel-Friendly & Advanced Type-C USB Hubs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-overclocking-with-hypertherm-x2-pro-the-revolutionary-2-in-1-aio-cooler/"><u>Experience Next-Level Overclocking with HyperTherm X2-Pro, the Revolutionary 2-in-1 AIO Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-of-gadgets-and-components-toms-hardware-unveiled/"><u>Expert Review of Gadgets and Components - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-tips-on-the-latest-hardware-by-toms-team/"><u>Expert Reviews and Tips on the Latest Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/felicia-day-explores-the-world-of-additive-manufacturing-a-special-offer-on-her-custom-3d-models-for-enthusiasts/"><u>Felicia Day Explores the World of Additive Manufacturing: A Special Offer on Her Custom 3D Models for Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-mini-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 mini iOS? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-onedrives-positioning-within-windows-directory-space/"><u>Strategizing OneDrive's Positioning Within Windows Directory Space</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-repairing-itbm-driver-accessibility-problems/"><u>Troubleshooting and Repairing ITBM Driver Accessibility Problems</u></a></li>
+<li><a href="https://article-files.techidaily.com/win-and-mac-users-elevate-your-workflow-with-our-top-8-tools-to-convert-sub-into-srtr-for-2024/"><u>Win and Mac Users, Elevate Your Workflow with Our Top 8 Tools to Convert SUB Into SRTR for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

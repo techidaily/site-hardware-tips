@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New Microsoft Surface Laptop <B>5</B>: High Hopes, Moderate Satisfaction | Insights From ZDNET"
-date: 2024-09-18 19:40:11
-updated: 2024-09-20 11:33:46
+date: 2024-10-03T08:55:30.950Z
+updated: 2024-10-08T22:55:40.463Z
 tags:
   - tablets
 categories:
@@ -117,6 +117,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +140,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +167,19 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +191,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +234,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-mastering-video-posts-on-tiktok-your-guide-for-mac-and-pc-users/"><u>[Updated] In 2024, Mastering Video Posts on TikTok Your Guide for MAC & PC Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-business-of-blogging-and-earning-on-youtube-platform/"><u>[Updated] The Business of Blogging and Earning on YouTube Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-pdf-editing-skills-for-2024/"><u>[Updated] Ultimate PDF Editing Skills for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-which-is-better-video-editor-for-iphone-for-2024-cameo-or-filmorago/"><u>[Updated] Which Is Better Video Editor for iPhone for 2024 Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturecrafted-expert-reviews-on-the-best-screen-recorders/"><u>CaptureCrafted Expert Reviews on the Best Screen Recorders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-steps-to-effectively-utilize-oculus-quests-hand-motion-controls-in-vr-gaming/"><u>Comprehensive Steps to Effectively Utilize Oculus Quest's Hand Motion Controls in VR Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-with-toms-hardware-insights/"><u>Delving Into Digital Devices with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-innovations-with-toms-computer-gear-experts/"><u>Discovering Innovations with Tom's Computer Gear Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoos-high-tech-3d-printer-neptune-x4-pro-now-a-steal-at-284/"><u>Elegoo's High-Tech 3D Printer - Neptune X4 Pro Now a Steal at $284</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-solidity-how-to-eliminate-porosities-in-your-3d-models/"><u>Ensuring Solidity: How to Eliminate Porosities in Your 3D Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-overcoming-invisible-problems-during-3d-printing-process/"><u>Expert Advice: Overcoming Invisible Problems During 3D Printing Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-review-team/"><u>Expert Insights From Tom's Hardware Review Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-tech-dive-into-toms-hardware-guide/"><u>Expert Insights Into Tech - Dive Into Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-computing-articles-from-toms-hardware/"><u>Exploring Cutting-Edge Computing: Articles From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-tom-comprehensive-hardware-insights/"><u>Exploring Electronics with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo A58 4G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/supercharge-your-media-download-sounds-for-editing-in-2024/"><u>Supercharge Your Media Download Sounds for Editing, In 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/triple-the-talking-technique-3-mind-power-ways-to-learn-a-new-language/"><u>Triple the Talking Technique: 3 Mind Power Ways to Learn a New Language</u></a></li>
+</ul></div>
+

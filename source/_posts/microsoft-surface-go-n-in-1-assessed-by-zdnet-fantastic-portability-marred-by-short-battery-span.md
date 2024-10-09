@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Go N-in-1 Assessed by ZDNet: Fantastic Portability Marred by Short Battery Span"
-date: 2024-09-19 10:40:28
-updated: 2024-09-20 12:31:27
+date: 2024-10-06T18:16:30.989Z
+updated: 2024-10-09T00:14:13.500Z
 tags:
   - tablets
 categories:
@@ -133,6 +133,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-initiate-google-meet-using-your-gadget/"><u>[New] Initiate Google Meet Using Your Gadget</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-upcoming-appraisal-innovative-opinions/"><u>2024 Approved Upcoming Appraisal Innovative Opinions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-brief-guide-to-download-install-and-use-ez-grabber-for-2024/"><u>A Brief Guide to Download, Install, and Use EZ Grabber for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-x-flip-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo X Flip?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-k70-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi K70 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-14-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 14 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pumpless-air-cooled-giant-holds-ground-outperformed-by-just-eight-degrees-in-head-to-head-trials-with-traditional-coolers/"><u>Pumpless Air-Cooled Giant Holds Ground, Outperformed by Just Eight Degrees in Head-to-Head Trials with Traditional Coolers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-scoop-twitters-trending-talks/"><u>Social Scoop Twitter’s Trending Talks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-cool-with-thermal-grizzlys-new-heatspreader-a-remarkable-15c-drop-in-processor-temperatures/"><u>Stay Cool with Thermal Grizzly's New Heatspreader: A Remarkable 15°C Drop in Processor Temperatures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-fixes-for-a-cold-3d-printing-bed-how-to-reignite-the-heating-mechanism/"><u>Step-by-Step Fixes for a Cold 3D Printing Bed: How to Reignite the Heating Mechanism</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/test-results-show-minimal-difference-the-240mm-pumpless-aio-cooler-vs-pump-powered-competitors/"><u>Test Results Show Minimal Difference: The 240Mm Pumpless AiO Cooler Vs. Pump-Powered Competitors</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-quest-for-your-own-specialized-tiktok-hash-code-for-2024/"><u>The Quest for Your Own Specialized TikTok Hash Code for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-and-tech-insights/"><u>Tom's Computing and Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-3d-printing-materials-of-2024-a-comprehensive-guide/"><u>Top Ranked 3D Printing Materials of 2024 - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-network-expanders-boost-connectivity-and-velocity/"><u>Top-Rated Network Expanders: Boost Connectivity & Velocity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/translation-error-unveiled-cooler-master-clears-up-ai-misconception-about-clarify-thermal-paste/"><u>Translation Error Unveiled - Cooler Master Clears Up AI Misconception About Clarify Thermal Paste</u></a></li>
+</ul></div>
+

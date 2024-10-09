@@ -1,7 +1,7 @@
 ---
 title: "Introducing TCL's Spectacular 115-Inch Mini LED TV : A Breakthrough in Visual Experience | ScreenTech Today"
-date: 2024-10-02T00:43:43.916Z
-updated: 2024-10-04T00:48:52.689Z
+date: 2024-10-07T23:14:47.677Z
+updated: 2024-10-09T05:37:21.959Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-future-of-interaction-with-microsofts-hololens-review/"><u>[New] 2024 Approved The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-what-you-need-to-know-about-tiktoks-latest-trends/"><u>[Updated] 2024 Approved What You Need to Know About TikTok’s Latest Trends</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-aerial-adventures-with-husqvarnas-x4-fpv-quadcopter/"><u>[Updated] Aerial Adventures with Husqvarna's X4 FPV Quadcopter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-passport-photo-generator-download-print-for-free/"><u>2024 Approved 10 Passport Photo Generator Download, Print for Free</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-range-kinetics-review/"><u>2024 Approved Full Range Kinetics Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-power-of-your-lost-iphone-x/"><u>2024 Approved Unleash the Power of Your Lost iPhone X</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>2024 Approved Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/buy-now-exclusive-offer-on-corsairs-premium-4000d-case-and-psu-bundle-for-only-139-enhanced-airflow-and-durability/"><u>Buy Now! Exclusive Offer on Corsair's Premium 4000D Case and PSU Bundle for Only $139 – Enhanced Airflow & Durability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-gadget-analysis-by-tom-expert-reviews-and-advice/"><u>Comprehensive Gadget Analysis by Tom - Expert Reviews & Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-expert-guides-on-new-hardware-technology/"><u>Tom's Computing Insights: Expert Guides on New Hardware Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-advisor-expert-insights-on-computer-components-and-systems/"><u>Tom's Tech Advisor: Expert Insights on Computer Components and Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964478248-unbeatable-price-alert-get-your-favorite-pc-case-phanteks-evolv-shift-2-itx-for-just-49-after-rebate-today/"><u>Unbeatable Price Alert! Get Your Favorite PC Case, Phanteks Evolv Shift 2 (ITX), for Just $49 After Rebate Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-content-with-free-audio-samples-for-2024/"><u>[New] Amplify Content with Free Audio Samples for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-breaking-barriers-with-iphone-x-fixing-facial-detection/"><u>[New] Breaking Barriers with iPhone X Fixing Facial Detection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>[Updated] Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-rode-streamer-x-is-it-worth-transforming-your-filmmaking-experience/"><u>A Comprehensive Review of Rode Streamer X: Is It Worth Transforming Your Filmmaking Experience?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-future-in-depth-analysis-on-top-gaming-laptops-in-202/"><u>Benchmarking The Future: In-Depth Analysis on Top Gaming Laptops in 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-domains-tips-and-reviews-by-toms-hardware-professionals/"><u>Dive Into Digital Domains - Tips & Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-vs-low-cost-gaming-ram-of-2024-options-and-reviews/"><u>High Performance Vs. Low Cost Gaming RAM of 2024: Options and Reviews</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c210-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infusing-energy-youtube-music-in-film-and-media-projects-for-2024/"><u>Infusing Energy YouTube Music in Film and Media Projects for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-merging-multiple-filaments-into-a-single-cylinder-quickly-and-easily/"><u>Master the Art of Merging Multiple Filaments Into a Single Cylinder Quickly and Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-market-top-choices-in-toms-hardware-evaluation/"><u>Mastering the Market: Top Choices in Tom's Hardware Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-three-fans-with-cooler-masters-innovative-2-fan-graphics-solution/"><u>Say Goodbye to Three Fans with Cooler Master’s Innovative 2-Fan Graphics Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tcl-unveils-next-gen-4k-display-ultra-fast-1000hz-for-elite-gamers/"><u>TCL Unveils Next-Gen 4K Display: Ultra-Fast 1,000Hz for Elite Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-3d-printing-filaments/"><u>The Ultimate Selection of Premium 3D Printing Filaments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-a14-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy A14 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-list-best-mac-videos-grabber-software/"><u>Ultimate List Best Mac Videos Grabber Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-the-complete-guide-from-toms-hardware/"><u>Unlocking Performance: The Complete Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-lamptrons-misuse-of-fake-aida64-license-keys-in-their-display-units/"><u>Unveiling Lamptron's Misuse of Fake AIDA64 License Keys in Their Display Units</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-10-best-free-dvd-players-for-windows-10-2023-updated/"><u>Updated In 2024, 10 Best Free DVD Players for Windows 10 2023 Updated</u></a></li>
 </ul></div>
 

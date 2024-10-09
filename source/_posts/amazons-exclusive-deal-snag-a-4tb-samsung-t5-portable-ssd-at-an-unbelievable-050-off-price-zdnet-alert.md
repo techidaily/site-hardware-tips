@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Exclusive Deal: Snag a 4TB Samsung T5 Portable SSD at an Unbelievable $0.50 Off Price | ZDNet Alert!"
-date: 2024-09-18 22:59:58
-updated: 2024-09-20 10:57:52
+date: 2024-10-05T08:28:38.732Z
+updated: 2024-10-08T19:47:52.302Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,19 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +153,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +179,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +234,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-photo-zoom-pro-7-the-image-resizer/"><u>[New] 2024 Approved Photo Zoom Pro 7- the Image Resizer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger-for-2024/"><u>[Updated] Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-pricing-guide-to-film-a-bands-music-visual/"><u>[Updated] In 2024, Pricing Guide to Film a Band's Music Visual</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-12r-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from OnePlus 12R to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-7-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-with-eks-premium-custom-cooling-solutions-for-amd-ryzen-am5-processors/"><u>Stay Chilled with EK's Premium Custom Cooling Solutions for AMD Ryzen AM5 Processors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-revenue-building-for-youtube-creators/"><u>Step-by-Step Revenue Building for YouTube Creators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-toms-guide-to-understanding-advanced-hardware/"><u>The Comprehensive Tom's Guide to Understanding Advanced Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-constructing-a-high-performance-machine-for-farming-chia-crypto-assets/"><u>The Ultimate Guide to Constructing a High-Performance Machine for Farming Chia Crypto Assets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-source-unveiling-new-trends-in-electronics-at-toms-domain/"><u>The Ultimate Tech Source: Unveiling New Trends in Electronics at Tom's Domain</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-htc-u23-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On HTC U23 Pro Device</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Black Friday 2022 Countdown: Find The Hottest Bargains and Best Sale Destinations On ZDNET"
-date: 2024-09-17 20:39:18
-updated: 2024-09-20 10:27:46
+date: 2024-10-03T18:07:19.041Z
+updated: 2024-10-08T20:32:26.399Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-listenleap-escaping-dacasts-grip/"><u>[New] 2024 Approved ListenLeap Escaping DaCast's Grip</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ending-your-insta-saga-a-comprehensive-guide-to-deactivation/"><u>[New] In 2024, Ending Your Insta Saga A Comprehensive Guide to Deactivation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-deep-dive-into-elegoo-saturn-4-ultra-pioneering-innovation-in-next-gen-resin-3d-printing/"><u>A Deep Dive Into Elegoo Saturn 4 Ultra: Pioneering Innovation in Next-Gen Resin 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175725171-achieve-unparalleled-cpu-speeds-using-our-advanced-ai-generated-liquid-nitrogen-vessel-up-to-3x-faster-than-regular-techniques/"><u>Achieve Unparalleled CPU Speeds Using Our Advanced, AI-Generated Liquid Nitrogen Vessel – Up to 3X Faster than Regular Techniques!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125184864-all-about-high-tech-equipment-reliable-reviews-and-essential-information-from-tomve-hardware-the-ultimate-resource-for-enthusiasts/"><u>All About High-Tech Equipment: Reliable Reviews and Essential Information From Tom've Hardware - The Ultimate Resource for Enthusiasts!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g13-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G13 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-visionary-the-ultimate-reddit-marketing-blueprint/"><u>In 2024, From Novice to Visionary The Ultimate Reddit Marketing Blueprint</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-13-pro-max-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 13 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-10c-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 10C Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175680399-intels-future-proof-cpus-get-an-icy-upgrade-the-arctic-freezers-36-are-here-for-your-arrow-lake-and-socket-lga1851-needs/"><u>Intel's Future-Proof CPUs Get an Icy Upgrade: The Arctic Freezers 36 Are Here for Your Arrow Lake & Socket LGA1851 Needs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-guide-to-converting-dvds-into-mkv-format-on-windows-11-or-10/"><u>Simple Guide to Converting DVDs Into MKV Format on Windows 11 or 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175722911-test-drive-the-lian-li-galahad-ii-all-in-one-cooler-an-innovative-solution-for-keeping-your-i7-1-14900k-system-chilled-under-pressure/"><u>Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-rewind-revolution-novel-strategies-for-youtube-viewers-for-2024/"><u>The Rewind Revolution Novel Strategies for YouTube Viewers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/time-tested-tactics-storing-slides-in-ppt-for-2024/"><u>Time-Tested Tactics Storing Slides in PPT for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-tech-dive-into-toms-comprehensive-hardware-analyses/"><u>Unlock the Secrets of Tech: Dive Into Tom's Comprehensive Hardware Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-the-toms-guide/"><u>Unveiling the Latest in PC Components - The Tom's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-akasa-gecko-a-top-notch-blow-cooler-for-your-ssd-reviewed-here/"><u>Unveiling the Power of Akasa Gecko: A Top-Notch Blow Cooler for Your SSD Reviewed Here!</u></a></li>
+</ul></div>
+

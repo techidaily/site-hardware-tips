@@ -1,7 +1,7 @@
 ---
 title: Pioneering AI Development for Driverless Cars Unveiled by Latest Machine Learning Endeavor on ZDNet
-date: 2024-09-17 22:46:55
-updated: 2024-09-20 11:51:43
+date: 2024-10-03T19:25:21.905Z
+updated: 2024-10-08T23:16:37.229Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-picture-perfection-expert-tips-unveiled/"><u>[New] 2024 Approved Mastering Instagram Picture Perfection Expert Tips Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-constructing-an-affordable-google-vr-helmet-at-home/"><u>[New] Constructing an Affordable Google VR Helmet at Home</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>[Updated] In 2024, How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>[Updated] Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-hashtag-hacks-for-amplifying-gamer-content/"><u>2024 Approved Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5b2x5yop5qplusu546h5qch5q2j55qe6auy5pwi5oqa6kgt44cq5b2x54mh5asn5bcp6kq5pw05oyh5y2x44cr/"><u>影像比率校正的高效技術【影片大小調整指南】</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-updating-and-downloading-canon-mx-series-printer-drivers-for-windows-mx492-model/"><u>Complete Guide to Updating and Downloading Canon MX Series Printer Drivers for Windows - MX492 Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing-for-2024/"><u>Expected Video GB for Continuous 24-Hour Viewing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-from-toms-hardware-hub/"><u>Navigating the World of Electronics - Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-on-toms-hardware-hub/"><u>Navigating the World of Gadgets on Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-design-with-phrozen-the-cutting-edge-quadricolor-3d-printing-technology/"><u>Revolutionize Design with Phrozen: The Cutting-Edge Quadricolor 3D Printing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-high-performance-computing-by-toms-hardware-professionals/"><u>The Definitive Guide to High-Performance Computing by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-premium-light-up-mice-pads-for-seamless-navigation/"><u>The Ultimate Guide to Premium Light-Up Mice Pads for Seamless Navigation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-comprehensive-reviews-and-tech-insights/"><u>Tom's Computer Gear - Comprehensive Reviews & Tech Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-overcoming-the-black-screen-when-playing-overwatch/"><u>Troubleshooting Tips: Overcoming the Black Screen When Playing Overwatch</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

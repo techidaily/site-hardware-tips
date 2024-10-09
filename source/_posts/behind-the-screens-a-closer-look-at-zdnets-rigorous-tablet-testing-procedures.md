@@ -1,7 +1,7 @@
 ---
 title: "Behind the Screens: A Closer Look at ZDNet’s Rigorous Tablet Testing Procedures"
-date: 2024-09-18 11:32:29
-updated: 2024-09-20 11:26:59
+date: 2024-10-07T22:03:25.256Z
+updated: 2024-10-09T04:00:14.501Z
 tags:
   - tablets
 categories:
@@ -117,6 +117,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -143,9 +150,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +185,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-infinite-loop-twitters-live-video-saga-in-23/"><u>[New] 2024 Approved Infinite Loop Twitter's Live Video Saga in '23</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-command-over-youtubes-video-playback-speed-for-2024/"><u>[New] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-art-for-crypto-the-finest-7-generators-at-hand/"><u>[New] Pioneering Art for Crypto The Finest 7 Generators at Hand</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamlining-your-social-space-stop-following-steps-for-2024/"><u>[New] Streamlining Your Social Space Stop Following Steps for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-joining-flv-files-a-step-by-step-guide/"><u>[Updated] In 2024, Joining FLV Files A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-edge-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Edge 2023 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-journey-of-an-amateur-turning-ordinary-refrigerators-into-liquid-nitrogen-makers/"><u>The Journey of an Amateur Turning Ordinary Refrigerators Into Liquid Nitrogen Makers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computing-gear/"><u>Tom's Tech Review: The Ultimate Guide to Computing Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gears-examination-on-the-valkyrie-syn-244-all-in-one-cooler-superior-performance-marred-by-unintuitive-programming-tools/"><u>Top Gear's Examination on the Valkyrie Syn 244 All-in-One Cooler: Superior Performance Marred by Unintuitive Programming Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-for-novice-gopro-enthusiasts-for-2024/"><u>Top Picks for Novice GoPro Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-portable-monitor-picks-of-2024-for-gamers-and-multitaskers/"><u>Top Portable Monitor Picks of 2024 for Gamers & Multitaskers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-3d-printing-industry-with-micronics-desktop-sls-printer-an-affordable-option-at-299eplus06-price-point/"><u>Transforming 3D Printing Industry with Micronics Desktop SLS Printer - An Affordable Option at $2,99E+06 Price Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-grove-plugs-with-stemma-qt-add-ons-for-raspberry-pi-and-arduino-2024-edition/"><u>Ultimate Guide to Grove Plugs with Stemma QT Add-Ons for Raspberry PI & Arduino - 2024 Edition</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 8 Plus Edition - Ideal for Devoted Amazon Enthusiasts
-date: 2024-09-18 16:48:12
-updated: 2024-09-20 12:49:36
+date: 2024-10-03T06:09:07.684Z
+updated: 2024-10-09T03:56:55.590Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,19 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +146,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +162,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +185,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-cash-flow-harnessing-youtube-ad-revenue-anywhere/"><u>[New] 2024 Approved Channel Cash Flow Harnessing YouTube Ad Revenue Anywhere</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-detailed-look-into-youtubes-featured-community-dialogue/"><u>[New] In 2024, Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-timing-your-instagram-posts-for-optimal-results/"><u>[New] In 2024, Timing Your Instagram Posts for Optimal Results</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-can-creators-expect-to-be-paid-by-youtube/"><u>[Updated] 2024 Approved How Often Can Creators Expect to Be Paid by YouTube?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-polishing-profile-vids-tips-and-tricks/"><u>2024 Approved Polishing Profile Vids Tips and Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-sonys-xbr63x850f-a-top-choice-for-budget-conscious-buyers-in-the-4k-65-inch-television-market/"><u>A Closer Look at Sony's XBR6^3X850F - A Top Choice for Budget Conscious Buyers in the 4K, 65-Inch Television Market</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-release-of-apples-new-sound-integrated-gadget-cost-projections-scheduled-launch-date-features-overview-and-secret-rumors/"><u>Anticipating the Release of Apple's New Sound-Integrated Gadget: Cost Projections, Scheduled Launch Date, Features Overview & Secret Rumors</u></a></li>
+<li><a href="https://win11.techidaily.com/delayed-windows-11-shutdown-techniques-amidst-running-programs/"><u>Delayed Windows 11 Shutdown Techniques Amidst Running Programs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-toms-precision-and-detailing/"><u>Exploring Computer Hardware with Tom's Precision and Detailing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-experts/"><u>Exploring High-Performance Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-kitchen-to-lab-transforming-your-cooler-gear-for-homemade-ln2-production/"><u>From Kitchen to Lab: Transforming Your Cooler Gear for Homemade LN2 Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-perfect-finishes-preventing-defects-in-three-dimensional-printing-processes/"><u>Guide to Perfect Finishes: Preventing Defects in Three-Dimensional Printing Processes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
+

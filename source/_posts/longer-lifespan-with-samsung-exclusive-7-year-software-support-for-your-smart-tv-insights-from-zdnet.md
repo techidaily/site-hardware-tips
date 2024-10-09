@@ -1,7 +1,7 @@
 ---
 title: "Longer Lifespan with Samsung: Exclusive 7-Year Software Support for Your Smart TV - Insights From ZDNet"
-date: 2024-09-26T19:58:36.044Z
-updated: 2024-10-03T21:42:21.484Z
+date: 2024-10-07T03:57:47.096Z
+updated: 2024-10-08T16:41:33.145Z
 tags:
   - tvs
 categories:
@@ -52,25 +52,11 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -100,6 +86,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -107,13 +100,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -140,6 +126,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -176,10 +169,10 @@ Animation is another area where this TV comes into its own. Whether you're watch
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bottom line 
@@ -189,6 +182,13 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -230,22 +230,18 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/deal-mic-selection-for-online-vloggers-for-2024/"><u>[New] Ideal Mic Selection for Online Vloggers for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-best-video-makers-with-music-and-photos/"><u>[Updated] Best Video Makers with Music and Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-fluidity-in-iphone-photography/"><u>[Updated] Capturing Fluidity in iPhone Photography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[Updated] Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-tech-hub-the-definitive-guide/"><u>Inside Tom's Tech Hub - The Definitive Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-know-about-the-best-filmic-pro-luts-for-video-editing-this-article-provides-details-on-the-best-recommendations-for-2024/"><u>New Do You Want to Know About the Best Filmic Pro LUTs for Video Editing? This Article Provides Details on the Best Recommendations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-with-toms-technology-digest/"><u>Pioneering Hardware Reviews with Tom's Technology Digest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125242580-professional-gamers-and-productivity-seekers-discover-the-5-finest-portable-monitors/"><u>Professional Gamers and Productivity Seekers, Discover the 5 Finest Portable Monitors !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125168419-qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reversing-a-repost-on-tiktok-a-step-by-step-guide/"><u>Reversing a Repost on TikTok: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-6-best-places-to-buy-a-laptop/"><u>The 6 Best Places to Buy a Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-toms-hardware-innovations/"><u>The Ultimate Guide to Tom's Hardware Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-best-value-gaming-monitors-for-2cu24-from-economical-choices-to-elite-curved-panels-and-synchronized-graphics/"><u>The Ultimate List of Best Value Gaming Monitors for 2Cu24: From Economical Choices to Elite Curved Panels and Synchronized Graphics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-backlog-utilizing-past-tweets-for-2024/"><u>Twitter Backlog Utilizing Past Tweets for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-tutorial-on-operating-orca-slicer-software/"><u>Ultimate Tutorial on Operating ORCA-Slicer Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-innovations-with-tom-a-comprehensive-hardware-review/"><u>Unveiling the Latest Innovations with Tom - A Comprehensive Hardware Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-filmora-torrent-download-a-step-by-step-virus-free-guide/"><u>Updated 2024 Approved Filmora Torrent Download A Step-by-Step Virus-Free Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-webcams-for-streaming-elevate-your-viewer-experience-on-twitch-for-2024/"><u>[Updated] Best Webcams for Streaming Elevate Your Viewer Experience on Twitch for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-secure-whole-page-scene-for-2024/"><u>[Updated] Secure Whole-Page Scene for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games/"><u>2024 Approved Ideal iOS Options The Finest Selector of Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aquatic-innovation-an-underwater-3d-printing-marvel-inside-an-aquarium-setting/"><u>Aquatic Innovation: An Underwater 3D Printing Marvel Inside an Aquarium Setting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-mysteries-tips-from-toms-desk/"><u>Decoding Hardware Mysteries: Tips From Tom's Desk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-computer-and-component-analysis/"><u>Expert Advice From Tom's Computer & Component Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-phantom-v-flip-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Phantom V Flip Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-v30t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme V30T Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-crafting-igtv-cover-photos-for-2024/"><u>Step-by-Step Guide to Crafting IGTV Cover Photos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tame-your-gadgets-how-to-ensure-your-ipad-stays-silent-when-your-iphone-rings/"><u>Tame Your Gadgets: How to Ensure Your iPad Stays Silent When Your iPhone Rings</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175716542-under-45-bucks-keep-your-pc-cool-with-the-deepcool-as500-plus-at-amazon/"><u>Under 45 Bucks? Keep Your PC Cool with the DeepCool AS500 Plus at Amazon!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-on-the-fly-10-free-video-speed-changing-apps-for-mobile-devices/"><u>Updated Edit on the Fly 10 Free Video Speed Changing Apps for Mobile Devices</u></a></li>
 </ul></div>
 

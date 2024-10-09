@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the Habit of Handing Down Electronics: Potential Pitfalls and Alternatives for Elderly Loved Ones"
-date: 2024-09-18 19:44:20
-updated: 2024-09-20 12:36:24
+date: 2024-10-07T08:33:59.278Z
+updated: 2024-10-09T07:56:26.438Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +157,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-high-ranking-mac-tools-to-replace-standard-bandicam/"><u>[New] In 2024, High-Ranking Mac Tools to Replace Standard Bandicam</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mi-drone-4k-experience/"><u>[Updated] 2024 Approved The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-amp-up-your-ig-videos-crafting-winning-marketing-tactics-for-2024/"><u>[Updated] Amp Up Your IG Videos Crafting Winning Marketing Tactics for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exclusive-websites-for-ultimate-vector-clarity-for-2024/"><u>[Updated] Exclusive Websites for Ultimate Vector Clarity for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choose-wisely-comparing-top-performing-2024-cpu-coolers-aios-versus-traditional-fans/"><u>Choose Wisely: Comparing Top-Performing 2024 CPU Coolers - AIOs Versus Traditional Fans</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-with-toms-technology-hub/"><u>Expert Hardware Analysis with Tom's Technology Hub</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-enable-recording-for-windows-shadowplay-software-easily/"><u>How to Enable Recording for Window's Shadowplay Software Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Bootloader Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sk1-two-trees-supercomputer-an-exploration-of-speed-and-open-source-software/"><u>SK1 - Two Trees Supercomputer: An Exploration of Speed & Open-Source Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-hardware-insights/"><u>Unveiling the Latest in PC Components with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

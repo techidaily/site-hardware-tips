@@ -1,7 +1,7 @@
 ---
 title: "Comparing iPad Air 4 and New iPad Air: Worth the Update or Not? | ZDNet Insights"
-date: 2024-09-18 22:15:11
-updated: 2024-09-20 12:32:16
+date: 2024-10-07T21:59:18.727Z
+updated: 2024-10-09T06:43:28.002Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,19 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +146,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +168,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +191,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +234,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>[Updated] In 2024, Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>2024 Approved Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/6-best-tiktok-to-mp3-converters-online-and-free-for-2024/"><u>6 Best TikTok to MP3 Converters [Online & Free] for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-pc-with-realtek-asio-windows-10-drivers-now/"><u>Download and Update Your PC with RealTek Asio Windows 10 Drivers Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-dell-wireless-adapter-driver-easy-downloads-for-seamless-connectivity/"><u>Free Dell Wireless Adapter Driver - Easy Downloads for Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-and-laptop-efficiency-screenspokes-selection-of-top-portable-monitors-2024-edition/"><u>Gaming & Laptop Efficiency: Screenspoke's Selection of Top Portable Monitors - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/homemade-3d-chocolate-creations-with-the-cocoapress-3d-printer-a-comprehensive-review/"><u>Homemade 3D Chocolate Creations with the CocoaPress 3D Printer - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-excel-with-orca-slicer-beginners-walkthrough/"><u>How to Excel with ORCA-Slicer - Beginner's Walkthrough</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ranking-the-ultimate-in-mac-gif-recorders/"><u>In 2024, Ranking the Ultimate in Mac GIF Recorders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-teamgroup-t-force-dark-airflow-i-top-choice-for-nvme-ssd-cooling/"><u>In-Depth Analysis of the TeamGroup T-Force Dark AirFlow I - Top Choice for NVMe SSD Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-examinations-from-toms-technological-perspectives/"><u>In-Depth Hardware Examinations From Tom's Technological Perspectives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-computer-needs-expert-advice-from-toms-hardware/"><u>Master Your Computer Needs: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-scriptwriting-for-youtube-videos-using-chatgpt-tips-and-tricks/"><u>Mastering Scriptwriting for YouTube Videos Using ChatGPT Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ai-conversations-chatgpt-for-macos-users/"><u>Navigating AI Conversations: ChatGPT for macOS Users</u></a></li>
+</ul></div>
+

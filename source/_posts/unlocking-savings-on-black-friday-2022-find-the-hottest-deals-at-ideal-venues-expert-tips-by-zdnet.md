@@ -1,7 +1,7 @@
 ---
 title: Unlocking Savings on Black Friday 2022! Find the Hottest Deals at Ideal Venues | Expert Tips by ZDNet
-date: 2024-10-01T18:31:16.550Z
-updated: 2024-10-03T20:34:56.771Z
+date: 2024-10-06T01:25:10.869Z
+updated: 2024-10-08T22:06:05.029Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[Updated] 2024 Approved A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-of-saving-gameplay-on-windows-10-for-2024/"><u>[Updated] Secrets of Saving Gameplay on Windows 10 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>[Updated] Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gain-extensive-engagement-master-the-view-multiplier/"><u>2024 Approved Gain Extensive Engagement Master the View Multiplier</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unparalleled-harmony-collector-android-based/"><u>2024 Approved Unparalleled Harmony Collector, Android-Based</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/building-a-spectacular-rainbow-pc-made-simple-with-hytes-connectivity-network/"><u>Building a Spectacular Rainbow PC Made Simple with Hyte's Connectivity Network</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175709385-chill-out-save-money-invest-in-arctics-liquid-freezer-ii-aio-for-just-74-dollars-limited-time-offer/"><u>Chill Out, Save Money: Invest in Arctic's Liquid Freezer II AIO for Just 74 Dollars - Limited Time Offer!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175687738-effortless-heat-transfer-with-the-stupid-proof-x-apply-temperatures-fixed-kit-upcoming-accessories/"><u>Effortless Heat Transfer with the 'Stupid Proof' X-Apply Temperatures Fixed Kit - Upcoming Accessories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-hardware-hub-unveiling-the-best-pc-gear/"><u>Expert Insights From Tom's Hardware Hub: Unveiling the Best PC Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-of-mingda-magician-pro2-substantial-print-size-with-whisper-quiet-functionality/"><u>Exploring the Features of Mingda Magician Pro2: Substantial Print Size with Whisper-Quiet Functionality</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-6-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 6 Without Previous Owner?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/macx-top-hd-dvd-ripper-and-converter-effortlessly-transferring-your-movies-from-dvd-to-iphone-compatible-with-latest-models-including-xs-xr-x-and-8-on-macos31/"><u>MacX - Top HD DVD Ripper & Converter: Effortlessly Transferring Your Movies From DVD to iPhone, Compatible with Latest Models Including XS, XR, X and 8 on macOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-computer-builds-expert-advice-from-toms-hardware-resource/"><u>Mastering Computer Builds: Expert Advice From Tom's Hardware Resource</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-image-protection-adding-watermarks-via-flipimage-professional-software-tutorial-on-flipbuildercom/"><u>Mastering Image Protection: Adding Watermarks via FlipImage Professional Software [Tutorial on flipbuilder.com]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-the-definitive-tech-analysis-from-toms-experts/"><u>Pioneering Hardware Reviews: The Definitive Tech Analysis From Tom's Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-charging-and-transportable-usb-hubs-with-quickconnect-technology-type-c/"><u>The Best Charging and Transportable USB Hubs with QuickConnect Technology (Type-C)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-expert-insights/"><u>Unveiling the Latest Gadgets with Tom's Expert Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/visionary-editing-brilliance-satisfaction-shared/"><u>Visionary Editing Brilliance, Satisfaction Shared</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-for-inverting-screen-display-android-for-2024/"><u>[Updated] Step-By Step for Inverting Screen Display Android for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-scenes-with-vlc-player-features/"><u>2024 Approved Behind the Scenes with VLC Player Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-f14-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy F14 5G without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-firsthand-account-the-challenges-of-crafting-guns-with-3d-printers/"><u>A Firsthand Account: The Challenges of Crafting Guns with 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadgets-and-components-a-guide-by-tom/"><u>Advanced Gadgets & Components - A Guide by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-with-toms-digital-diary/"><u>Decoding Hardware with Tom's Digital Diary</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-play-top-10-reasons-for-pc-gaming/"><u>Enhance Your Play: Top 10 Reasons for PC Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-insider-info-on-amds-new-gaming-deal-power-up-with-a-ryzen-7000-cpu-and-radeon-rx-700n-gpu-bundle-plus-two-free-games-note-ryzen-9000-is-not-inclu35/"><u>Exclusive Insider Info on AMD's New Gaming Deal: Power Up with a Ryzen 7000 CPU & Radeon RX 700N GPU Bundle + Two Free Games - Note: Ryzen 9000 Is Not Included</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-version-of-sas-driver-for-windows-operating-systems-xp-vista-7/"><u>How to Install the Latest Version of SAS Driver for Windows Operating Systems (XP, Vista, 7)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premium-ways-to-broadcast-and-record-athletic-competitions-live/"><u>In 2024, Premium Ways to Broadcast & Record Athletic Competitions Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-a-deep-dive-into-gadgets-toms-hardware-insights/"><u>Navigating New Technology: A Deep Dive Into Gadgets - Tom's Hardware Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-data-recorder-for-sony-a7c-model/"><u>Optimal Data Recorder for Sony A7C Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-your-go-to-source-at-toms-gear-hub/"><u>Unveiling the Latest in Computing - Your Go-To Source at Tom's Gear Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Flagship Face-Off: Comparing the Samsung Galaxy Tab S9 Ultra and Apple iPad Pro for Your Tech Needs | ZDNet"
-date: 2024-09-17 12:57:14
-updated: 2024-09-20 11:15:42
+date: 2024-10-06T18:39:07.266Z
+updated: 2024-10-08T19:58:22.811Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,19 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -116,6 +129,13 @@ Depending on your use cases, the iPad, without the Magic Keyboard Folio, is good
 June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the regular iPad beats the Pro
 
@@ -143,9 +163,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-decoding-pfp-on-tiktok-your-comprehensive-tour/"><u>[Updated] In 2024, Decoding PFP on TikTok - Your Comprehensive Tour</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-disastrous-dism-0x800f082f-error/"><u>Demystifying Windows' Disastrous DISM 0X800F082F Error</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eliminate-clutter-with-these-6-effective-alternatives-to-iphone-folder-management/"><u>Eliminate Clutter with These 6 Effective Alternatives to iPhone Folder Management</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exclusive-reactive-ui-dashboard-pro-enhanced-material-design-from-creative-tim/"><u>Exclusive Reactive UI Dashboard Pro: Enhanced Material Design From Creative Tim</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-devices-wisdom-from-toms-hardware-experts/"><u>Mastering Your Devices: Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-high-performance-devices-with-toms-digital-toolkit/"><u>Navigate the World of High-Performance Devices with Tom's Digital Toolkit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-advice-by-toms-hardware-expert-system-guidance/"><u>Pioneering PC Advice by Tom's Hardware - Expert System Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-additive-manufacturing-with-crealitys-new-flagship-k1c-and-improved-ender-3-v3-series/"><u>Revolutionizing Additive Manufacturing with Creality's New Flagship K1C & Improved Ender 3 V3 Series</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-dietary-patterns-with-ai-assistance/"><u>Tailoring Dietary Patterns With AI Assistance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 11 Pro 5G Device</u></a></li>
+</ul></div>
+

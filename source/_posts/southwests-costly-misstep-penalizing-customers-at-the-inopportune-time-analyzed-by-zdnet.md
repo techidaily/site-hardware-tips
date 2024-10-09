@@ -1,7 +1,7 @@
 ---
 title: "Southwest's Costly Misstep: Penalizing Customers at the Inopportune Time Analyzed by ZDNet"
-date: 2024-09-18 18:28:43
-updated: 2024-09-20 12:18:51
+date: 2024-10-06T09:02:13.169Z
+updated: 2024-10-08T21:14:55.264Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-inside-look-freewebcampro-software-overview/"><u>[New] 2024 Approved Inside Look FreeWebcamPro Software Overview</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-screencapturegooglemeet-iphone-and-android-methods-for-2024/"><u>[New] ScreenCaptureGoogleMeet IPhone and Android Methods for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-gameplay-on-xbox-one/"><u>[Updated] In 2024, How to Record Gameplay on Xbox One</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-20-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 20 Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciphering-the-meaning-of-facebooks-blue-video-icon-for-2024/"><u>Deciphering the Meaning of Facebook's Blue Video Icon for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/direct-transformation-from-gif-to-video-with-best-web-services/"><u>Direct Transformation From GIF to Video with Best Web Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computing-solutions-through-toms-hardware-reviews/"><u>Explore Advanced Computing Solutions Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-deepcools-new-lineup-advanced-cooling-systems-and-pc-components-with-trendy-pixel-silicone-personalization-options/"><u>Explore DeepCool’s New Lineup: Advanced Cooling Systems and PC Components with Trendy Pixel Silicone Personalization Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-equipment-through-toms-hardware-hub/"><u>Exploring Advanced Computing Equipment Through Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-computing-leap-intel-and-exxonmobils-groundbreaking-work-on-enhanced-liquid-cooling-systems-for-powerful-2000w-tdp-xeons/"><u>High Performance Computing Leap: Intel and ExxonMobil's Groundbreaking Work on Enhanced Liquid Cooling Systems for Powerful 2000W TDP Xeons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/homemade-liquid-nitrogen-creation-a-beginners-guide-to-using-refrigerator-pieces/"><u>Homemade Liquid Nitrogen Creation: A Beginner's Guide to Using Refrigerator Pieces</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-guide-to-sourcing-premium-soundtracks-from-instagram-and-designing-outstanding-ringtone-alerts/"><u>In 2024, The Ultimate Guide to Sourcing Premium Soundtracks From Instagram and Designing Outstanding Ringtone Alerts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-reviews-of-modern-hardware-by-tom/"><u>In-Depth Analysis and Reviews of Modern Hardware by Tom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tacticas-experto-para-mejorar-el-rendimiento-de-juegos-en-windows-11-guia-integral/"><u>Tácticas Experto Para Mejorar El Rendimiento De Juegos en Windows 11: Guía Integral</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tailoring-your-content-youtube-video-length-reduction-guide-for-2024/"><u>Tailoring Your Content YouTube Video Length Reduction Guide for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Most Effective iPad Pro Active Keyboards of 202 [C] | GadgetAdvisor
-date: 2024-09-19 11:55:12
-updated: 2024-09-20 10:15:25
+date: 2024-10-04T05:30:52.237Z
+updated: 2024-10-08T17:44:45.942Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +167,19 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-net-worth-of-kids-celebrity-reaches-new-heights/"><u>[New] 2024 Approved Net Worth of Kids Celebrity Reaches New Heights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ace-screen-recorders-list-for-the-winning-setup-for-2024/"><u>[New] The Ace Screen Recorders List - For the Winning Setup for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-digital-footprint-on-tiktok-with-these-names/"><u>[Updated] Elevate Your Digital Footprint on TikTok with These Names</u></a></li>
+<li><a href="https://article-tips.techidaily.com/editorpromax-digest-full-review-on-androvid-editor/"><u>EditorProMax Digest – Full Review on AndroVid Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-gadgets-amplify-online-videos/"><u>Essential Gadgets Amplify Online Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-conversion-of-3gpp-files-to-wmv-easy-guide-with-movavi/"><u>Free Conversion of 3GPP Files to WMV - Easy Guide with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-electronics-analysis-and-reviews-by-toms-digital-workshop/"><u>In-Depth Electronics Analysis and Reviews by Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-impact-of-using-the-cooler-master-ion-360-liquid-cpu-cooling-system/"><u>In-Depth Review: The Impact of Using the Cooler Master ION 360 Liquid CPU Cooling System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-tips-by-toms-gadget-experts/"><u>In-Depth Reviews and Tips by Tom's Gadget Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-insights-on-computers-and-components-by-toms-hardware-experts/"><u>Innovative Insights on Computers and Components by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-hacks-for-hardware-enthusiasts-dive-into-toms-comprehensive-guide/"><u>Masterful Hacks for Hardware Enthusiasts - Dive Into Tom's Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computing-a-deep-dive-into-toms-hardware-insights/"><u>Mastering Modern Computing: A Deep Dive Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-insightful-reviews-from-toms-hardware-authority/"><u>Mastering Tech Essentials: Insightful Reviews From Tom's Hardware Authority</u></a></li>
+</ul></div>
+

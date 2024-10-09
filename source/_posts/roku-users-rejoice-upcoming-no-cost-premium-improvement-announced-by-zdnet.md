@@ -1,7 +1,7 @@
 ---
 title: "Roku Users Rejoice: Upcoming No-Cost Premium Improvement Announced by ZDNet"
-date: 2024-09-28T17:04:13.990Z
-updated: 2024-10-03T20:43:21.577Z
+date: 2024-10-05T09:19:30.970Z
+updated: 2024-10-08T18:49:38.151Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,19 +92,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-6-innovative-apps-for-instagram-reels/"><u>[New] In 2024, Master 6 Innovative Apps for Instagram Reels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone-for-2024/"><u>A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/car-sound-issues-heres-how-to-get-your-car-radio-running-again/"><u>Car Sound Issues? Here’s How to Get Your Car Radio Running Again!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-vulnerability-discovered-in-amd-chips-potentially-impacting-millions-sinkclose-bug-exploited-for-unauthorized-access-patch-rollout-initiated-and-fu3/"><u>Critical Vulnerability Discovered in AMD Chips, Potentially Impacting Millions: 'Sinkclose' Bug Exploited for Unauthorized Access – Patch Rollout Initiated & Future Protections Promised</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhancing-elegance-and-energy-the-spectacular-glow-of-rgb-on-a-customized-fractal-design-north-xl-pc-build/"><u>Enhancing Elegance and Energy: The Spectacular Glow of RGB on a Customized Fractal Design North XL PC Build</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/evolutionary-advantages/"><u>Evolutionary Advantages</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-nvidia-blackwell-and-rtx-50-series-gpus-unveiling-detailed-insights-into-features-release-windows-price-points-and-all-current-developments.2/"><u>Inside Scoop on Nvidia Blackwell & RTX 50-Series GPUs Unveiling: Detailed Insights Into Features, Release Windows, Price Points, and All Current Developments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-equipment-choices-with-toms-hardware-expertise/"><u>Mastering Equipment Choices with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-windows-10-performance-mastery-of-sfc-and-dism-utility-tools/"><u>Optimizing Windows 10 Performance: Mastery of SFC and DISM Utility Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ocial-media-strategies-infographic-guide/"><u>SMB Social Media Strategies Infographic Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-unleashed-with-sifives-innovative-p870-d-core-and-its-256-core-risc-v-architecture/"><u>The Future of Computing Unleashed with SiFive’s Innovative P870-D Core and Its 256-Core RISC-V Architecture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-with-toms-technology-insights/"><u>Unveiling Gadgets and Gizmos with Tom's Technology Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-request-info-on-obtaining-full-shared-content-on-messengers-for-2024/"><u>[New] Request Info on Obtaining Full Shared Content on Messengers for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-every-moment-the-power-of-spring-screenrecorder/"><u>[Updated] In 2024, Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/achieving-unparalleled-detail-with-remote-screens/"><u>Achieving Unparalleled Detail with Remote Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplify-your-audio-visual-experience-with-these-6-android-apps-for-2024/"><u>Amplify Your Audio-Visual Experience with These 6 Android Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-black-to-rainbow-celebrate-crealitys-birthday-with-a-spectrum-of-new-3d-printer-colors/"><u>From Black to Rainbow: Celebrate Creality's Birthday with a Spectrum of New 3D Printer Colors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-11-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 11 Smoothly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-hot-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Hot 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-wonders-with-professional-reviews-from-toms-hardware/"><u>Navigate Through High-Tech Wonders with Professional Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-your-way-through-innovative-hardware-with-expert-insights-from-tom/"><u>Navigate Your Way Through Innovative Hardware with Expert Insights From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-hello-to-noctuas-home-series-the-stellar-100-nv-fs1-desk-fan-leads-the-way/"><u>Say Hello to Noctua's Home Series: The Stellar $100 NV-FS1 Desk Fan Leads the Way</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722207634270-the-ultimate-free-way-to-leverage-gpt-4s-speed-with-copilot-your-guide-inside/"><u>The Ultimate FREE Way to Leverage GPT-4's Speed with Copilot: Your Guide Inside</u></a></li>
 </ul></div>
 

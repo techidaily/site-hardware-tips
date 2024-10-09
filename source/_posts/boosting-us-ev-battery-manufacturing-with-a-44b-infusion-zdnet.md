@@ -1,7 +1,7 @@
 ---
 title: Boosting U.S. EV Battery Manufacturing with a $4.4B Infusion | ZDNet
-date: 2024-09-19 15:32:53
-updated: 2024-09-20 12:50:20
+date: 2024-10-06T02:13:10.304Z
+updated: 2024-10-09T00:38:12.337Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,46 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-visuals-accompanied-by-audio/"><u>[Updated] 2024 Approved Quick Visuals Accompanied by Audio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-to-mp3-converter-tool/"><u>[Updated] Facebook to MP3 Converter Tool</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>[Updated] In 2024, Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-efficient-strategies-for-large-scale-tiktok-content-acquisition/"><u>2024 Approved Efficient Strategies for Large Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-pc-components-a-journey-with-tom/"><u>Exploring PC Components - A Journey with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-american-soil-to-your-desk-prusas-launch-of-domestic-3d-devices-and-supplies/"><u>From American Soil to Your Desk: Prusa's Launch of Domestic 3D Devices & Supplies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fx360-pro-cooler-by-id-cooling-exceptional-performance-at-just-60/"><u>FX360 Pro Cooler by ID-Cooling - Exceptional Performance at Just $60</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-nexus-link-revolutionize-pc-building-with-its-huge-display-aio-cooler-and-magnetic-snap-together-fans/"><u>Hyte's Nexus Link: Revolutionize PC Building with Its Huge Display AIO Cooler and Magnetic Snap Together Fans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-into-pc-components-with-toms-hardware-experts/"><u>In-Depth Look Into PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-and-inexpensive-printing-with-crealitys-ender-3-pro-v3-top-of-the-line-for-maker-enthusiasts/"><u>Innovative & Inexpensive Printing with Creality's Ender 3 Pro v3 - Top of the Line for Maker Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-tools-to-craft-top-titles/"><u>Innovative Tools to Craft Top Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-smallest-3d-printing-revolution-a-world-first-fully-integrated-chip-device-barely-larger-than-currency/"><u>Introducing the Smallest 3D Printing Revolution: A World-First, Fully-Integrated Chip Device Barely Larger Than Currency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-pc-chassis-picks-of-2024-our-meticulous-evaluation-for-your-ideal-custom-build/"><u>Leading PC Chassis Picks of 2024: Our Meticulous Evaluation for Your Ideal Custom Build</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-vr-headsets-reviewed-elevate-your-pc-gameplay-today/"><u>Leading VR Headsets Reviewed: Elevate Your PC Gameplay Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-6-strategies-for-success-in-an-ai-powered-job-market/"><u>Navigating the Future: 6 Strategies for Success in an AI-Powered Job Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-error-0x80070570-diagnosis-and-fixing-techniques/"><u>Navigating Through Error 0X80070570: Diagnosis and Fixing Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030134196-pc/"><u>PC上の短編ビデオ制作手順：究極の簡単ガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/timeless-stop-motion-gems-in-the-top-15/"><u>Timeless Stop-Motion Gems in the Top 15</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

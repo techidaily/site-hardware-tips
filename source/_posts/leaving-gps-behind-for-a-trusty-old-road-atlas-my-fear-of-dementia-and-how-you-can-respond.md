@@ -1,7 +1,7 @@
 ---
 title: Leaving GPS Behind for a Trusty Old Road Atlas - My Fear of Dementia and How You Can Respond
-date: 2024-09-18 21:56:39
-updated: 2024-09-20 11:11:18
+date: 2024-10-04T22:35:52.692Z
+updated: 2024-10-09T07:42:24.787Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-aperture-advocates-the-top-10-camera-optics-guide/"><u>[New] Aperture Advocates The Top 10 Camera Optics Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-precision-recording-perfecting-video-captures-on-your-android-phone-for-2024/"><u>[New] Precision Recording Perfecting Video Captures on Your Android Phone for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-htc-u23-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on HTC U23 Pro</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutsche-dialekte-greetingsdiversitat-ohne-hallo/"><u>Deutsche Dialekte: Greetingsdiversität Ohne 'Hallo'</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-video-marketing-top-20-strategies-to-watch/"><u>In 2024, Facebook Video Marketing Top 20 Strategies to Watch</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-hardware-with-toms-insider-guides-and-analyses/"><u>Navigate the World of Hardware with Tom's Insider Guides and Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware/"><u>Navigating the World of Computing with Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-comprehensive-tips-from-toms-hardware-insiders/"><u>Navigating the World of Tech: Comprehensive Tips From Tom's Hardware Insiders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-navigating-the-world-of-gadgets-with-tom/"><u>Pioneering Reviews: Navigating the World of Gadgets with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/powerful-gamers-laptops-under-1k-top-picks-revealed/"><u>Powerful Gamers' Laptops Under 1K: Top Picks Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pwm-vs-dc-blowers-a-comprehensive-guide-to-enhancing-pc-airflow-efficiency/"><u>PWm vs DC Blowers: A Comprehensive Guide to Enhancing PC Airflow Efficiency</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/by-step-guide-premiere-pro-for-youtube-cutting/"><u>Step-by-Step Guide Premiere Pro for YouTube Cutting</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

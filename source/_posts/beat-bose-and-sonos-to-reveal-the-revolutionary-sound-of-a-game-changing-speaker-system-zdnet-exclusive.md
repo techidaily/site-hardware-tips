@@ -1,7 +1,7 @@
 ---
 title: Beat Bose and Sonos to Reveal the Revolutionary Sound of a Game-Changing Speaker System | ZDNet Exclusive
-date: 2024-10-02T23:36:59.838Z
-updated: 2024-10-03T16:02:28.489Z
+date: 2024-10-01T20:37:50.363Z
+updated: 2024-10-09T05:09:31.255Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,16 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,16 +139,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos/"><u>2024 Approved Boost Connectivity Discover the Best 5 Chrome Tools for Facebook Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-7-7800x3d-with-zen-5-architecture-smashes-benchmark-records-leading-past-zen-4-gaming-flagship-by-over-23/"><u>AMD Ryzen 7 7800X3D With Zen 5 Architecture Smashes Benchmark Records, Leading Past Zen 4 Gaming Flagship By Over 23%</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-reno-11f-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Reno 11F 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-hisense-50-inch-4k-hdr-television-comprehensive-review/"><u>Budget-Friendly Hisense 50 Inch 4K HDR Television - Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-neptune-4-plus-3d-printer-superior-quality-and-rapid-printing-speeds/"><u>Comprehensive Evaluation of the Elegoo Neptune 4 Plus 3D Printer: Superior Quality and Rapid Printing Speeds</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-system-up-to-date-microsofts-bluetooth-driver-downloads-and-updates-for-various-windows-versions/"><u>Keep Your System Up-to-Date: Microsoft's Bluetooth Driver Downloads & Updates for Various Windows Versions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-delay-problems-optimizing-connection-for-chromecast-and-phone-systems/"><u>Overcoming Delay Problems: Optimizing Connection for Chromecast and Phone Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-meets-precision-how-the-amd-ryzen-9-9950x-achieves-world-record-performance-in-cinebench-r23-with-65ghz-efficiency/"><u>Power Meets Precision: How the AMD Ryzen 9 9950X Achieves World Record Performance in Cinebench R23 with 6.5GHz Efficiency</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/skype-recording-procedures-streamlined-techniques-for-windows-and-os-x-for-2024/"><u>Skype Recording Procedures - Streamlined Techniques for Windows & OS X for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-hp-spectre-x360-reviewed-striking-a-fine-line-between-design-performance-and-battery-life/"><u>The HP Spectre X360 Reviewed: Striking a Fine Line Between Design, Performance, and Battery Life</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitreact-wisdom-a-complete-reference-book/"><u>[New] 2024 Approved TwitReact Wisdom A Complete Reference Book</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds/"><u>[Updated] Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-techniques-for-dynamic-and-dramatic-ae-heads-ups-for-2024/"><u>Advanced Techniques for Dynamic and Dramatic AE Heads-Ups for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/authenticating-your-instagram-photos-for-2024/"><u>Authenticating Your Instagram Photos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-corsair-air-a115-cooler-analysis-powerful-performance-at-a-high-cost/"><u>Comprehensive Corsair Air A115 Cooler Analysis: Powerful Performance at a High Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175713785-get-the-best-of-both-worlds-a-high-quality-ips-display-and-stunning-rgb-illumination-with-the-valkyrie-al1-125-cpu-cooling-unit-under-20/"><u>Get the Best of Both Worlds: A High-Quality IPS Display and Stunning RGB Illumination with the Valkyrie AL1 125 CPU Cooling Unit Under $20</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-simple-steps-to-install-or-update-your-amd-rx-580-graphics-drivers/"><u>Get the Latest: Simple Steps to Install or Update Your AMD RX 580 Graphics Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enable-remote-management-of-your-smart-household-appliances/"><u>How Does ChatGPT Enable Remote Management of Your Smart Household Appliances?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/htc-vive-review-the-most-immersive-vr-headset/"><u>HTC Vive Review – The Most Immersive VR Headset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-post-vlc-era-unveiling-new-player-titans/"><u>In 2024, Post-VLC Era Unveiling New Player Titans</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-machine-expert-advice-from-toms-computer-chronicles/"><u>Master Your Machine: Expert Advice From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-trails-with-tom-a-deeper-dive-into-computer-parts-and-systems/"><u>Navigating Technology Trails with Tom: A Deeper Dive Into Computer Parts and Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/phone-speaker-transcriber-voice-logging-iphone-24/"><u>Phone Speaker Transcriber Voice Logging (iPhone '24)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-pc-parts-with-ease-discover-insights-from-toms-tech-hub/"><u>Selecting PC Parts with Ease: Discover Insights From Tom's Tech Hub</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-vivo-y78t-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Vivo Y78t</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-best-college-desktops-perfect-for-study-sessions-and-leisure-time/"><u>Ultimate List of Best College Desktops: Perfect for Study Sessions & Leisure Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-hardware-technology-by-tom/"><u>Unlocking the Secrets of Hardware Technology by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
 </ul></div>
 

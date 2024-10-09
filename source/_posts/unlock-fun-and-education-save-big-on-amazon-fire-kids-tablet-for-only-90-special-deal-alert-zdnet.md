@@ -1,7 +1,7 @@
 ---
 title: "Unlock Fun & Education: Save Big on Amazon Fire Kids Tablet for Only $90 – Special Deal Alert | ZDNET"
-date: 2024-09-18 22:15:54
-updated: 2024-09-20 12:36:47
+date: 2024-10-08T00:32:32.707Z
+updated: 2024-10-08T17:40:35.833Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>[Updated] In 2024, The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sky-high-storages-expert-recommendations/"><u>2024 Approved Sky-High Storages Expert Recommendations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-multiplatform-apps-for-dynamic-media-collage/"><u>In 2024, Masterful Multiplatform Apps for Dynamic Media Collage</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-economical-lenovo-chromebook-duet-the-dual-function-device-breakdown/"><u>In-Depth Review of the Economical Lenovo Chromebook Duet: The Dual-Function Device Breakdown</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/moveavis-picks/"><u>Moveavi's Picks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/professional-insights-crafting-and-sharing-360-videos-on-fb/"><u>Professional Insights Crafting & Sharing 360 Videos on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-humor-of-hardware-laptop-lore-and-network-safety-chronicles/"><u>The Humor of Hardware: Laptop Lore & Network Safety Chronicles</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-10-streaming-services-worth-a-try/"><u>Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-guide-best-mini-itx-computer-chassis-for-small-form-factor-systems-sff/"><u>Ultimate Selection Guide: Best Mini ITX Computer Chassis for Small Form Factor Systems (SFF)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-latest-in-tech-reviews-news-and-advice-from-toms-hardware/"><u>Uncover the Latest in Tech: Reviews, News & Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-heights-with-elegoos-saturn-4-ultra-a-game-changer-in-resin-printing-technology/"><u>Unlocking New Heights with Elegoo's Saturn #4 Ultra: A Game-Changer in Resin Printing Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-computers-with-toms-hardware-insights/"><u>Unveiling Cutting-Edge Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-lens/"><u>Unveiling Cutting-Edge Technology Through Tom’s Hardware Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-capabilities-of-mingda-magician-pro2-oversized-prints-and-low-noise-performance/"><u>Unveiling the Capabilities of Mingda Magician Pro2 – Oversized Prints and Low-Noise Performance</u></a></li>
+</ul></div>
+

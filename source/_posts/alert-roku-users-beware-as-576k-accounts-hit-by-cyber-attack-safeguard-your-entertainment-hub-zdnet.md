@@ -1,7 +1,7 @@
 ---
 title: "Alert: Roku Users Beware as 576K Accounts Hit by Cyber Attack - Safeguard Your Entertainment Hub | ZDNET"
-date: 2024-10-03T00:30:03.250Z
-updated: 2024-10-04T01:19:44.087Z
+date: 2024-10-03T20:20:42.396Z
+updated: 2024-10-09T00:22:21.143Z
 tags:
   - tvs
 categories:
@@ -55,24 +55,29 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-camera-to-feed-ig-photo-tutorial/"><u>[New] From Camera to Feed IG Photo Tutorial</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-halt-youtube-suggested-content-now/"><u>[New] In 2024, Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-livestream-guide-for-pre-recorded-videos-on-fb/"><u>[New] Step-by-Step Livestream Guide for Pre-Recorded Videos on FB</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-master-your-online-presence-top-20-free-apps-to-craft-facebook-videos/"><u>[Updated] 2024 Approved Master Your Online Presence Top 20 Free Apps to Craft Facebook Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-deal-of-the-year-snag-the-cutting-edge-thrifty-beginner-4k-resin-3d-printer-at-an-unbeatable-44-discounted-rate/"><u>Black Friday Deal of the Year: Snag the Cutting-Edge 'Thrifty Beginner 4K Resin' 3D Printer at an Unbeatable 44% Discounted Rate!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/download-twitters-livestreams-and-save-as-mp3/"><u>Download Twitter's Livestreams and Save as MP3</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 11 Pro?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ey-through-youtubes-spectacular-vr-realms-for-2024/"><u>Journey Through YouTube's Spectacular VR Realms for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-mastery-creating-stunning-3d-chocolates-at-home-using-the-cocoapress-printer/"><u>Step-by-Step Mastery: Creating Stunning 3D Chocolates at Home Using the CocoaPress Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-insights/"><u>Tom's Tech Hub: Comprehensive Reviews and Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformez-votre-video-vob-en-format-mp4-pour-la-diffusion-sur-tous-les-appareils-solution-securisee-et-simple-guide-dutilisation-de-movavi/"><u>Transformez Votre Vidéo VOB en Format MP4 Pour La Diffusion Sur Tous Les Appareils, Solution Sécurisée Et Simple - Guide D'utilisation De Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-with-thermalrights-top-ranking-peerless-assassin-120-se-the-premier-33-cpu-air-cooler-on-market/"><u>Upgrade Your PC with Thermalright's Top-Ranking Peerless Assassin 120 SE: The Premier $33 CPU Air Cooler on Market</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-in-depth-guide-to-video-money-making-across-platforms/"><u>[New] 2024 Approved In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-editing-excellence-incorporating-timestamps-and-labels/"><u>[New] Editing Excellence Incorporating Timestamps and Labels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-inauthentic-affection-impacts-your-feeds-credibility-for-2024/"><u>[New] How Inauthentic Affection Impacts Your Feed's Credibility for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>[New] Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-rapid-restoration-of-reddit-archives-removed-for-2024/"><u>[New] Rapid Restoration of Reddit Archives Removed for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-start-guide-to-editing-with-snapseed-for-2024/"><u>[Updated] Quick Start Guide to Editing with Snapseed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-os-public-ip-command-prompt-tricks/"><u>Accessing OS Public IP: Command Prompt Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-newest-cpu-contenders-best-places-to-shop-for-the-ryzen-7-9700x-and-9600x/"><u>AMD's Newest CPU Contenders: Best Places to Shop for the Ryzen 7 9700X & 9600X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-240-all-in-one-liquid-cooler-stellar-cooling-performance-with-awkward-software-design/"><u>Comprehensive Analysis of the Valkyrie Syn 240 All-in-One Liquid Cooler: Stellar Cooling Performance with Awkward Software Design</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-improved-functionality-of-samsungs-latest-galaxy-watch-active-2-model/"><u>Exploring the Improved Functionality of Samsung's Latest Galaxy Watch Active 2 Model</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-google-pixelbook-go-analysis-exceptional-performance-meets-costly-tag/"><u>In-Depth Google Pixelbook Go Analysis: Exceptional Performance Meets Costly Tag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-innovations-on-toms-digital-workshop/"><u>Navigating New Hardware Innovations on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-pc-parts-with-toms-guide-to-hardware/"><u>Navigating PC Parts with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-performance-how-ryzen-ai-9-hx-370s-zen-5-chip-defeats-intel-and-outperforms-competitors-like-core-ultra-7-and-ryzen-9/"><u>Next-Level Performance: How Ryzen AI 9 HX 370'S Zen 5 Chip Defeats Intel and Outperforms Competitors Like Core Ultra 7 and Ryzen 9</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tier-electronics-at-toms-review-sphere/"><u>The Ultimate Guide to Top-Tier Electronics at Tom's Review Sphere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-reviews-in-depth-analysis-of-the-latest-tech-hardware/"><u>Tom’s Gadget Reviews: In-Depth Analysis of the Latest Tech Hardware</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

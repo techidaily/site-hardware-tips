@@ -1,7 +1,7 @@
 ---
 title: Is Giving Tech to Seniors Truly Beneficial? A Closer Look at Unintended Consequences | ZDNET
-date: 2024-09-19 10:39:30
-updated: 2024-09-20 11:52:37
+date: 2024-10-06T23:28:33.780Z
+updated: 2024-10-08T18:04:00.713Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-the-full-facetune-experience-from-novice-to-expert-photographer-for-2024/"><u>[New] The Full Facetune Experience From Novice to Expert Photographer for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-blogs-imagery-adding-company-logowatermark-to-videos-for-2024/"><u>[Updated] Boost Your Blog's Imagery Adding Company Logo/Watermark to Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-approaches-to-android-video-capture/"><u>[Updated] Innovative Approaches to Android Video Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-upcoming-subtle-but-powerful-ai-innovation-revealed-at-wwdc-the-hidden-gem-of-tech/"><u>Apple's Upcoming Subtle but Powerful AI Innovation Revealed at WWDC: The Hidden Gem of Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-temperature-control-cooler-master-leads-the-way-with-aio-and-air-coolers-capable-of-dissipating-well-over-300w-of-thermal-energy/"><u>Cutting-Edge Temperature Control: Cooler Master Leads the Way with AIO and Air Coolers Capable of Dissipating Well Over 300W of Thermal Energy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovere-as-melhores-opcoes-livres-e-premium-para-substituir-o-convertidor-de-video-do-freemake-14-solucoes-inovadoras/"><u>Discovere as Melhores Opções Livres E Premium Para Substituir O Convertidor De Vídeo Do Freemake: 14 Soluções Inovadoras!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/encase-full-browser-window-for-2024/"><u>Encase Full Browser Window for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-cooling-results-how-eks-all-in-one-cpu-cooler-outperforms-stock-in-managing-13900ks-heat/"><u>Exceptional Cooling Results: How EK's All-in-One CPU Cooler Outperforms Stock in Managing 13900KS Heat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-electronics-from-toms-technology-review/"><u>Expert Advice on Electronics From Tom's Technology Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resolving-opengl32dll-not-detected-problems/"><u>Expert Tips for Resolving OpenGL32.dll Not Detected Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-expert-advice-from-toms-hardware/"><u>Navigating the Tech World: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-made-easy-your-guide-to-adding-and-sharing-gifs-for-2024/"><u>Snapchat Made Easy Your Guide to Adding and Sharing Gifs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-creating-your-own-3d-qr-code-printer/"><u>Step-by-Step Guide: Creating Your Own 3D QR Code Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125165974-the-thrifty-beginner-4k-resin-revolution-unleash-your-creativity-with-a-staggering-44-off-this-black-friday/"><u>The 'Thrifty Beginner 4K Resin' Revolution: Unleash Your Creativity with a Staggering 44% Off This Black Friday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-computer-components-and-performance/"><u>Tom's Tech Insights: Exploring Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-gear-guide-your-comprehensive-resource-for-hardware-knowledge/"><u>Unveiling Tom's Gear Guide: Your Comprehensive Resource for Hardware Knowledge</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-battle-against-game-freezes-and-crashes/"><u>Winning the Battle Against Game Freezes & Crashes</u></a></li>
+</ul></div>
+

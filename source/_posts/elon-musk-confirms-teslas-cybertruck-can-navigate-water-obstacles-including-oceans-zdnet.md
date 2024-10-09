@@ -1,7 +1,7 @@
 ---
 title: Elon Musk Confirms Tesla's Cybertruck Can Navigate Water Obstacles, Including Oceans | ZDNET
-date: 2024-09-17 12:49:22
-updated: 2024-09-20 10:26:22
+date: 2024-10-05T18:42:05.866Z
+updated: 2024-10-09T09:02:21.202Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-snapping-your-view-on-windows-devices/"><u>[New] 2024 Approved Snapping Your View on Windows Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-tweet-audio-conversion-free-video-downloads/"><u>[New] 2024 Approved Tweet Audio Conversion Free Video Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/create-professional-quality-dvds-with-winx-dvd-editor-top-free-dvd-authoring-software-for-windows-pcs/"><u>Create Professional-Quality DVDs with WinX DVD Editor - Top FREE DVD Authoring Software for Windows PCs!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-toms-comprehensive-guide-on-hardware/"><u>Expert Review: Tom's Comprehensive Guide on Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-gadgetry-top-picks-and-analyses-from-toms-technological-vault/"><u>Explore Advanced Gadgetry: Top Picks and Analyses From Tom's Technological Vault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-devices-through-toms-electronics-lens/"><u>Exploring Cutting-Edge Devices Through Tom's Electronics Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fire-ants-invade-tech-zone-alarming-case-study-of-a-gpu-unit-destroyed-by-unwanted-guests/"><u>Fire Ants Invade Tech Zone: Alarming Case Study of a GPU Unit Destroyed by Unwanted Guests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgets-and-components-toms-detailed-insights-and-rating-guide/"><u>Gadgets and Components: Tom's Detailed Insights & Rating Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-value-playbook-unveiling-the-best-and-most-cost-effective-gaming-gpus-of-2024/"><u>Gamers' Value Playbook: Unveiling the Best and Most Cost-Effective Gaming GPUs of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ahead-of-intel-optimize-for-the-upcoming-arrow-lake-processors-with-arctic-freezer-36-coolers/"><u>Get Ahead of Intel: Optimize for the Upcoming Arrow Lake Processors with Arctic Freezer 36 Coolers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-change-or-remove-your-personal-identification-number-for-windows-10-logins/"><u>How to Change or Remove Your Personal Identification Number for Windows 10 Logins</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature app</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-11r-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 11R by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-upgrade-how-teamgroups-newly-magnetized-t-force-siren-line-revolutionizes-easy-custom-pc-construction/"><u>Innovative Upgrade: How TeamGroup's Newly Magnetized T-Force Siren Line Revolutionizes Easy Custom PC Construction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/18443430-learn-youtube-video-ad-building-at-no-cost/"><u>Learn YouTube Video Ad Building at No Cost!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-the-comprehensive-guide-from-toms-hardware/"><u>Mastering Technology Choices - The Comprehensive Guide From Tom's Hardware</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/video-post-production-powerhouses-a-comparison-of-adobe-premiere-and-after-effects-for-2024/"><u>Video Post-Production Powerhouses A Comparison of Adobe Premiere and After Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-gold-version-upgrade-enhanced-features-and-registration-update/"><u>WinX DVD Ripper Gold Version Upgrade – Enhanced Features & Registration Update</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

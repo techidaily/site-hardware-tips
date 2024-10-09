@@ -1,7 +1,7 @@
 ---
 title: "Save Almost Half: Grab a 4TB Samsung T5 USB-C SSD From Amazon - Exclusive Deal Covered by ZDNet"
-date: 2024-09-17 21:46:58
-updated: 2024-09-20 12:52:24
+date: 2024-10-03T18:56:03.644Z
+updated: 2024-10-09T09:00:05.586Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-nintendo-switch-leading-capture-card-selections/"><u>[New] 2024 Approved Nintendo Switch Leading Capture Card Selections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/apid-audience-expansion-without-breaking-the-bank/"><u>[New] Rapid Audience Expansion Without Breaking the Bank</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-twilight-tactics-a-complete-guide-to-nighttime-photography/"><u>[New] Twilight Tactics A Complete Guide to Nighttime Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-success-with-the-right-instagram-video-dimensions/"><u>[New] Unlocking Success with the Right Instagram Video Dimensions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-art-of-instagram-video-craftsmanship/"><u>[Updated] 2024 Approved The Art of Instagram Video Craftsmanship</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-15-virtual-classrooms-youtube-channels-pushing-scientific-boundaries/"><u>[Updated] In 2024, Top 15 Virtual Classrooms YouTube Channels Pushing Scientific Boundaries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-best-cpu-thermal-pastes-evaluating-and-ranking-top-90-picks/"><u>2024'S Ultimate Guide to the Best CPU Thermal Pastes: Evaluating and Ranking Top 90 Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-tiktok-giveaway-unauthorized-returns-for-safe-and-new-bambu-lab-a1-3d-printers/"><u>Accidental TikTok Giveaway: Unauthorized Returns for Safe and New Bambu Lab A1 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175662321-expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-free-platforms-for-unique-and-striking-text-appeal/"><u>In 2024, The Best Free Platforms for Unique and Striking Text Appeal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/investigating-the-cause-for-slower-response-times-in-chatgpt-4-relative-to-chatgpt-35/"><u>Investigating the Cause for Slower Response Times in ChatGPT-4 Relative to ChatGPT-3.5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-f34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-systems-on-toms-tech-hub/"><u>Unveiling New Gadgets and Systems on Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-newest-innovations-a-tour-of-toms-hardware-review-site/"><u>Unveiling the Newest Innovations: A Tour of Tom's Hardware Review Site</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-secrets-the-toms-hardware-way/"><u>Unveiling Top Hardware Secrets - The Tom's Hardware Way</u></a></li>
+</ul></div>
+

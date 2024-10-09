@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Pro 8: The Ultimate Business Tablet Unveiled on ZDNet"
-date: 2024-09-18 19:16:42
-updated: 2024-09-20 11:17:43
+date: 2024-10-06T04:34:50.784Z
+updated: 2024-10-09T02:43:36.700Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/vent-harmony-sourcing-perfect-dj-video-templates/"><u>[New] Event Harmony Sourcing Perfect DJ Video Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-fine-tuning-your-audio-transitions-in-depth-insights-for-using-audacity/"><u>[New] In 2024, Fine-Tuning Your Audio Transitions In-Depth Insights for Using Audacity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-choosing-between-podcast-and-youtube-for-content-delivery/"><u>2024 Approved Choosing Between Podcast and YouTube for Content Delivery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-fastest-and-most-reliable-sd-memory-cards-for-your-raspberry-pi-projects/"><u>2024'S Top Picks: Fastest and Most Reliable SD Memory Cards for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-steps-to-recover-or-replace-missing-file-d3dx927dll/"><u>Detailed Steps to Recover or Replace Missing File d3dx9_27.dll</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175661765-experience-a-chilling-upgrade-with-the-ek-solution-cpu-cooler-witness-up-to-20c-drop-in-intel-core-i9-1efficiency/"><u>Experience a Chilling Upgrade with the EK Solution CPU Cooler - Witness up to 20°C Drop in Intel Core I9-1efficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-a05s-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel A05s</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-poco-f5-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Poco F5 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175655256-intels-next-gen-arrow-lake-cpus-compatible-with-new-arctic-36x36-cooler-prepare-your-setup/"><u>Intel's Next-Gen Arrow Lake CPUs Compatible with New Arctic 36X36 Cooler - Prepare Your Setup!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-overclockable-core-processors-struggle-with-warframe-as-dev-reports-80-game-crashes/"><u>Intel's Overclockable Core Processors Struggle with Warframe, As Dev Reports 80% Game Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-to-enrich-your-imaginative-dungeon-quests/"><u>Leveraging GPT to Enrich Your Imaginative Dungeon Quests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187498-revolutionary-printing-speed-attained-modified-3d-printer-renders-speed-benchy-model-in-record-time/"><u>Revolutionary Printing Speed Attained: Modified 3D Printer Renders 'Speed Benchy' Model in Record Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125260561-title/"><u>Title:</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/under-45-over-cooling-performance-the-ultimate-deal-with-the-deepcool-as500-plus-air-cooler-on-amazon/"><u>Under $45, Over Cooling Performance: The Ultimate Deal with the DeepCool AS500 Plus Air Cooler on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unimpressively-cold-the-real-deal-on-arctic-liquid-freezer-iii-aio-efficiency/"><u>Unimpressively Cold: The Real Deal on Arctic Liquid Freezer III AIO Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-at-toms-computer-hardware-showcase/"><u>Unlocking Tech Secrets at Tom's Computer Hardware Showcase</u></a></li>
+</ul></div>
+

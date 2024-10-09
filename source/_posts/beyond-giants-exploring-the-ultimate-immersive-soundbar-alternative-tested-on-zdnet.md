@@ -1,7 +1,7 @@
 ---
 title: "Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!"
-date: 2024-10-01T21:51:51.798Z
-updated: 2024-10-03T20:42:39.887Z
+date: 2024-10-02T02:22:28.932Z
+updated: 2024-10-08T18:37:36.128Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,20 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ecoding-youtubes-procedure-after-a-video-is-uploaded-for-2024/"><u>[New] Decoding YouTube's Procedure After a Video Is Uploaded for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-step-by-step-method-to-personalize-iphone-ringtones/"><u>[Updated] Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-by-toms-gadget-guide-unveiling-the-latest-in-hardware-technology/"><u>Expert Analysis by Tom's Gadget Guide: Unveiling the Latest in Hardware Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-components-the-toms-hardware-guide/"><u>Expert Insights on Gadgets and Components - The Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-review-in-depth-analysis-and-comparisons/"><u>Exploring Tom's Tech Review: In-Depth Analysis & Comparisons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extreme-performance-evaluation-ibaypower-snowblind-element-pro-cpu-tech-in-depth-at-toms-hardware/"><u>Extreme Performance Evaluation: IBaypower Snowblind Element Pro CPU - Tech In-Depth at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-create-your-own-high-flying-aviation-experience-with-a-custom-built-flight-simulator-desktop-computer/"><u>How to Create Your Own High-Flying Aviation Experience with a Custom Built Flight Simulator Desktop Computer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-6-high-definition-21-hdmi-models-analyzed/"><u>In 2024, 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/start-your-custom-gaming-pc-journey-with-neweggs-affordable-amd-bundle-at-just-333/"><u>Start Your Custom Gaming PC Journey with Newegg's Affordable AMD Bundle at Just $333!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-gear-analysis-your-ultimate-guide-to-tech-equipment/"><u>Tom's Gear Analysis - Your Ultimate Guide To Tech Equipment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-screen-brightness-automation-try-these-7-solutions/"><u>Trouble with iPhone Screen Brightness Automation? Try These 7 Solutions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-software-review-pros-cons-and-verdict-for-2024/"><u>Updated AVS Video Editor Software Review Pros, Cons, and Verdict for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-explore-mp4-recording-tools-today-in-2024/"><u>[Updated] Explore MP4 Recording Tools Today, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-harnessing-gs-power-in-kinemaster/"><u>[Updated] Unleash Creativity Harnessing GS Power in KineMaster</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-capturing-breathtaking-photos-with-iphone-hdr/"><u>2024 Approved Capturing Breathtaking Photos with iPhone HDR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-typography-workflow-in-adobe-affects/"><u>2024 Approved Optimize Your Typography Workflow in Adobe Affects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-noise-free-performance-with-adaptable-pc-enclosures-and-shining-ventilation-fans-from-be-quiet/"><u>Enhance Noise-Free Performance with Adaptable PC Enclosures & Shining Ventilation Fans From Be Quiet!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-effective-sound-during-video-conferencing-with-zoom-on-desktop-computers/"><u>Ensuring Effective Sound During Video Conferencing with Zoom on Desktop Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-toms-gadget-insights/"><u>Inside the World of Tom’s Gadget Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies-for-2024/"><u>Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pro-gear-evaluation-with-tomgadgetguide/"><u>Pro Gear Evaluation with TomGadgetGuide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722006506907-ready-for-a-conversational-ai-on-your-pc-but-cant-find-it-our-open-source-solution-is-here/"><u>Ready for a Conversational AI on Your PC but Can't Find It? Our Open Source Solution Is Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-creating-lithophane-photo-paper-through-3d-printing/"><u>Step-by-Step Guide: Mastering the Art of Creating Lithophane Photo Paper Through 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-eco-friendly-artifacts-authentically-textured-and-smelling-wood-objects-created-with-3d-printers-and-sawdust-ink/"><u>The Future of Eco-Friendly Artifacts: Authentically Textured and Smelling Wood Objects Created with 3D Printers and Sawdust Ink</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-your-computing-questions-toms-hardware/"><u>The Ultimate Resource for Your Computing Questions - Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-wisdom-your-ultimate-resource-for-hardware-news/"><u>Tom's Gadget Wisdom: Your Ultimate Resource for Hardware News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-4k-resolution-monitors-for-gamers-in-2e24-features-144hz-refresh-rate-and-curve-screens/"><u>Top 5 Premium 4K Resolution Monitors for Gamers in 2E24: Features 144Hz Refresh Rate & Curve Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-space-with-a-budget-friendly-animated-3d-printer-inspired-wireless-charger-by-bambu-labs/"><u>Transform Your Space with a Budget-Friendly Animated, 3D Printer-Inspired Wireless Charger by Bambu Labs</u></a></li>
 </ul></div>
 

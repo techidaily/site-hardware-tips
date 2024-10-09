@@ -1,7 +1,7 @@
 ---
 title: Top Films & TV Series Worth Watching in March 2023 - Expert Picks From ZDNet
-date: 2024-09-30T01:18:47.257Z
-updated: 2024-10-03T21:48:17.248Z
+date: 2024-10-03T18:30:50.127Z
+updated: 2024-10-09T05:57:32.565Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,21 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhance-info-blocks-templates-for-youtube-titles/"><u>[New] 2024 Approved Enhance Info Blocks Templates for YouTube Titles</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] 2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-the-steam-updates-wont-download-problem/"><u>Comprehensive Guide: Resolving the 'Steam Updates Won't Download' Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-speed-with-nextorages-new-pcie-40-2230-ssd-7400-mbs-on-your-portable-game-console/"><u>Experience Unmatched Speed with Nextorage's New PCIe 4.0 2230 SSD - 7,400 MB/S on Your Portable Game Console</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-computer-gear-by-toms-hardware-guides/"><u>Expert Analysis on Computer Gear by Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insight-on-agis-ai818-2tb-solid-state-drive-agility-under-the-microscope/"><u>Expert Insight on AGI's AI818 2TB Solid State Drive - Agility Under the Microscope.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-digital-innovations-with-toms-electronic-guide/"><u>Exploring Digital Innovations with Tom's Electronic Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-toms-hardware-experts/"><u>Exploring Tech with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gadget-guru-toms-hardware-insider-guides/"><u>Gadget Guru Tom's Hardware Insider Guides</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-make-360-videos-with-iphone/"><u>How to Make 360 Videos with iPhone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-8-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 8 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huawei-powered-first-ever-consumer-ssds-hit-shelves-meet-kitstores-premium-xtreme-series-with-ample-storage-up-to-4tb/"><u>Huawei-Powered First Ever Consumer SSDs Hit Shelves - Meet KitStore's Premium Xtreme Series with Ample Storage up to 4TB</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-11-cost-free-video-title-creator-tools-online/"><u>In 2024, Top 11 Cost-Free Video Title Creator Tools Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-c12-plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia C12 Plus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-worth-of-instagram-video-selfie-authenticity/"><u>[Updated] In 2024, The Worth of Instagram Video Selfie Authenticity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-loop-top-10-agile-games-on-mobilepc/"><u>[Updated] Lightning Loop Top 10 Agile Games on Mobile/PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-noise-free-audiovisual-links/"><u>[Updated] Navigating Noise-Free Audiovisual Links</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726227972995-mp4-3gpp-movavi/"><u>最適なMP4ファイル変換: 3GPP形式での自由に使える無料オンラインツール - Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/burst-life-into-slow-motion-with-top-android-apps/"><u>Burst Life Into Slow Motion with Top Android Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creality-unveils-release-schedule-and-price-points-for-the-powerhouse-k1c-3d-printer-with-detailed-specifications/"><u>Creality Unveils Release Schedule & Price Points for the Powerhouse K1C 3D Printer with Detailed Specifications</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y02t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y02T Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-gaming-pc-power-solutions-unveiled-top-psu-choices-for-2t4/"><u>Leading Gaming PC Power Solutions Unveiled - Top PSU Choices for 2T4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-graphics-processors-for-profitable-crypto-mining-toms-hardware-guide/"><u>Leading Graphics Processors for Profitable Crypto Mining: Tom's Hardware Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screenshutdown-window-graphics-ui-fix-exists/"><u>ScreenShutdown, Window Graphics UI (Fix Exists)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-by-toms-equipment-insights/"><u>Unveiling the Latest in Technology by Tom's Equipment Insights</u></a></li>
 </ul></div>
 

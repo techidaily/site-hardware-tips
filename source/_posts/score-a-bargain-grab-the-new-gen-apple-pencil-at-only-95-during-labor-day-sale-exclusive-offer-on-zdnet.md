@@ -1,7 +1,7 @@
 ---
 title: "Score a Bargain: Grab the New-Gen Apple Pencil at Only $95 During Labor Day Sale - Exclusive Offer on ZDNet!"
-date: 2024-09-18 14:35:54
-updated: 2024-09-20 11:29:41
+date: 2024-10-08T08:28:03.828Z
+updated: 2024-10-09T04:32:45.551Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,6 +157,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-craftsmanship-incorporating-descriptive-texts/"><u>[Updated] 2024 Approved Instagram Craftsmanship Incorporating Descriptive Texts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-innovative-pc-case-designs-our-expertly-vetted-selection-for-optimal-performance/"><u>Discover the Most Innovative PC Case Designs : Our Expertly Vetted Selection for Optimal Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-13-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 13 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1722926982714-in-depth-analysis-of-alienwares-aurora-r7-excellence-comes-with-a-tag/"><u>In-Depth Analysis of Alienware's Aurora R7 - Excellence Comes With a Tag!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-power-play-top-contenders-for-best-pc-psus-amongst-tech-enthusiasts/"><u>Mastering the Power Play: Top Contenders for Best PC PSUs Amongst Tech Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-nas-devices-choose-the-right-network-storage-drive-for-effortless-backups-and-media-management/"><u>The Best NAS Devices: Choose the Right Network Storage Drive for Effortless Backups & Media Management</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-fixes-to-get-your-qualcomm-atheros-devices-bluetooth-up-and-running-on-windows-11/"><u>Ultimate Fixes to Get Your Qualcomm Atheros Device's Bluetooth Up and Running on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-reliable-tech-gadget-reviews-toms-hardware/"><u>Your Trusted Source for Reliable Tech Gadget Reviews: Tom's Hardware</u></a></li>
+</ul></div>
+

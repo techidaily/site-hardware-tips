@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount: Grab a 4TB Samsung T5 External SSD on Amazon - Save Almost Half Its Price, Spotted by ZDNet!"
-date: 2024-09-17 21:22:45
-updated: 2024-09-20 11:40:36
+date: 2024-10-03T21:20:43.867Z
+updated: 2024-10-08T19:47:41.934Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -116,6 +123,13 @@ Depending on your use cases, the iPad, without the Magic Keyboard Folio, is good
 June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the regular iPad beats the Pro
 
@@ -143,6 +157,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-free-endless-archive-of-instagram-highlights/"><u>[New] In 2024, FREE Endless Archive of Instagram Highlights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-overcoming-missed-frames-in-real-time-streaming/"><u>[New] In 2024, Overcoming Missed Frames in Real-Time Streaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unraveling-how-tseries-profits-from-its-popularity-and-subscribers-youtube/"><u>[Updated] 2024 Approved Unraveling How TSeries Profits From Its Popularity and Subscribers (YouTube)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-your-social-media-potential-find-the-best-8-instagram-timers/"><u>[Updated] Unleash Your Social Media Potential Find the Best 8 Instagram Timers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expansive-movement-assessment-2023/"><u>2024 Approved Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-youtubes-missing-minute-media/"><u>Fixed YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-tech-tips-from-toms-equipment-corner/"><u>Navigating the Latest in Tech - Tips From Tom's Equipment Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronics-empire-top-picks-in-computing-hardware/"><u>Navigating Tom's Electronics Empire: Top Picks in Computing Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-your-tech-choices-with-expert-advice-from-toms-hardware-wisdom/"><u>Navigating Your Tech Choices with Expert Advice From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-experience-the-power-of-a-new-superior-radiator-with-moora-iv-600-nine-incredible-200mm-fans-weighing-over-35lbs-at-just-600/"><u>Next-Level Gaming: Experience the Power of a New Superior Radiator with MOORA IV 600 - Nine Incredible 200Mm Fans, Weighing Over 35Lbs at Just $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-up-your-portable-play-with-the-fastest-ssd-options-for-steam-deck-gamers/"><u>Power Up Your Portable Play with the Fastest SSD Options for Steam Deck Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wi-fi-signal-boosters-for-ultimate-coverage/"><u>Top Rated Wi-Fi Signal Boosters for Ultimate Coverage</u></a></li>
+</ul></div>
+

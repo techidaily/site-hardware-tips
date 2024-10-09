@@ -1,7 +1,7 @@
 ---
 title: Score a Bargain! Grab the Latest Amazon Fire Kid’s Tablet at Just $90 – Limited Stock Available | ZDNET Deals Alert
-date: 2024-09-18 22:12:17
-updated: 2024-09-20 11:21:56
+date: 2024-10-05T20:56:08.639Z
+updated: 2024-10-09T06:02:19.881Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +146,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-from-subdued-to-striking-the-art-of-post-color-correction/"><u>[Updated] From Subdued to Striking The Art of Post-Color Correction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-visuals-saving-and-downloading-on-smartphones-for-2024/"><u>[Updated] Twitter's Visuals Saving and Downloading on Smartphones for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-most-economical-pcie-40-solutions-ranking-the-top-b550-motherboard-selections-today/"><u>AMD's Most Economical PCIe 4.0 Solutions: Ranking the Top B550 Motherboard Selections Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-noctuas-new-addition-to-the-home-series-meet-the-nv-fs1-desk-fan-for-a-steal-at-100/"><u>Discovering Noctua's New Addition to the Home Series - Meet the NV-FS1 Desk Fan for a Steal at $100!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-hub/"><u>Exploring Computer Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-head-start-on-your-build-with-hytes-innovative-nexus-link-large-screen-cooling-system-and-easy-to-install-components/"><u>Get a Head Start on Your Build With Hyte’s Innovative Nexus Link - Large-Screen Cooling System & Easy-to-Install Components</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-a1x-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo A1x 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-future-of-storage-cutting-edge-cost-effective-solutions/"><u>In 2024, Future of Storage Cutting-Edge, Cost-Effective Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-pros-and-cons-of-criacrs-compact-bluetooth-fm-transmitter-cp24-a-comprehensive-review/"><u>Inside the Pros & Cons of Criacr's Compact Bluetooth FM Transmitter CP24: A Comprehensive Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-f34-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy F34 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-analysis-a-journey-through-toms-hardware-explorations/"><u>Pioneering Tech Analysis: A Journey Through Tom's Hardware Explorations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-trending-youtubers/"><u>The Ultimate Guide to Trending YouTubers</u></a></li>
+</ul></div>
+

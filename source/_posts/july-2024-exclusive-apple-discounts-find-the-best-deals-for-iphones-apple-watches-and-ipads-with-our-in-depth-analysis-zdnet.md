@@ -1,7 +1,7 @@
 ---
 title: "July 2024 Exclusive Apple Discounts: Find the Best Deals for iPhones, Apple Watches & iPads with Our In-Depth Analysis | ZDNet"
-date: 2024-09-17 14:13:36
-updated: 2024-09-20 11:19:27
+date: 2024-10-05T20:33:37.900Z
+updated: 2024-10-08T23:16:45.761Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-just-the-essentials-from-youtube-videos/"><u>[New] 2024 Approved How to Get Just the Essentials From YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-addressing-disrupted-video-in-obs-studio-for-2024/"><u>[New] Addressing Disrupted Video in OBS Studio for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premier-visual-experience-top-10-screen-selections-for-mac-for-2024/"><u>[Updated] Premier Visual Experience Top 10 Screen Selections for Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>2024 Approved Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pinnacle-of-1980s-movie-magic-in-editing/"><u>2024 Approved Pinnacle of 1980S Movie Magic in Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-transforms-officedoc-space-for-optimal-performance/"><u>ChatGPT Transforms OfficeDoc Space for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-in-depth-computer-hardware-analysis-on-toms-digital-workshop/"><u>Discover In-Depth Computer Hardware Analysis on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-tech-reviews-at-toms-hardware-hub/"><u>Discover Top Tech Reviews at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-xtool-s1-top-tier-diode-laser-cutter-for-diy-enthusiasts/"><u>Expert Analysis of the XTool S1: Top-Tier Diode Laser Cutter for DIY Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-at-toms-digital-workshop/"><u>Exploring Computer Components at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-technology-through-toms-lens/"><u>Exploring Cutting-Edge Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-the-authority-in-hardware-insights/"><u>Exploring Gadgets with Tom: The Authority in Hardware Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-7-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-a14-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy A14 5G Is Unlocked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-world-of-computing-in-depth-performance-analysis/"><u>Inside Tom's World of Computing - In-Depth Performance Analysis</u></a></li>
+</ul></div>
+

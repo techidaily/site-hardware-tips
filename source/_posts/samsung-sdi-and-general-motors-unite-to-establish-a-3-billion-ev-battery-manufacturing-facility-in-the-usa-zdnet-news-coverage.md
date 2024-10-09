@@ -1,7 +1,7 @@
 ---
 title: Samsung SDI and General Motors Unite to Establish a $3 Billion EV Battery Manufacturing Facility in the USA | ZDNET News Coverage
-date: 2024-09-17 17:42:30
-updated: 2024-09-20 10:56:48
+date: 2024-10-08T07:08:31.597Z
+updated: 2024-10-08T19:51:19.969Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,44 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-workspace.techidaily.com/effortless-video-downloads-from-tudou-in-multiple-formats-including-mp4-mov-avi-and-wmv/"><u>Effortless Video Downloads From Tudou in Multiple Formats Including MP4, MOV, AVI & WMV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-konverteren-van-wmv-naar-mkv-online-zoekteken-movavi/"><u>Gratuit Konverteren Van WMV Naar MKV Online - Zoekteken Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>In 2024, From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-experts/"><u>Navigating the Latest in Computer Hardware with Tom’s Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-high-tech-equipment-with-toms-hardware-wisdom/"><u>Navigating Through High-Tech Equipment with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-pc-building-essentials-from-deepcool-exceptional-coolers-power-solutions-and-fans-now-feature-stylish-pixel-silicone-decor-for-a-personalized-tou3/"><u>Next-Level PC Building Essentials From DeepCool - Exceptional Coolers, Power Solutions & Fans Now Feature Stylish Pixel Silicone Decor for a Personalized Touch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-sites-to-propel-youtube-content-reach-for-2024/"><u>Prime Sites to Propel YouTube Content Reach for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-correcting-amd-gpu-driver-issues/"><u>Step-by-Step Guide to Correcting AMD GPU Driver Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-guide-to-tech-specs-insights-from-toms-hardware/"><u>The Essential Guide to Tech Specs - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-reviews-the-definitive-source-for-hardware-evaluations/"><u>Tom's Reviews: The Definitive Source for Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews/"><u>Tom's Tech Insights - Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-hardware-analysis/"><u>Tom's Tech Review - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review - In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-fire-tv-stick-models-a-comprehensive-guide/"><u>Top Rated Fire TV Stick Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elite-audio-file-converter-free-conversion-of-professional-mpa-soundtracks-to-standardized-mp3-format/"><u>Updated Elite Audio File Converter Free Conversion of Professional MPA Soundtracks to Standardized MP3 Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-store-not-working-on-windows-11-fixed/"><u>Windows Store Not Working on Windows 11 [Fixed]</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

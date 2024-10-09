@@ -1,7 +1,7 @@
 ---
 title: Baidu's Leap Into the Future with Launch of Driverless Taxi Programme Across Two Major Cities in China | Insights From ZDNET
-date: 2024-09-17 23:29:30
-updated: 2024-09-20 12:37:38
+date: 2024-10-03T06:23:30.933Z
+updated: 2024-10-08T22:16:38.404Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-financial-investment-for-youtube-ads-success/"><u>[New] Financial Investment for Youtube Ads Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-easy-steps-to-capture-iphone-screens-seamlessly/"><u>[New] In 2024, Easy Steps to Capture iPhone Screens Seamlessly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-gear-for-documenting-excursions/"><u>[Updated] 2024 Approved Pro Gear for Documenting Excursions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-gamers-signature-creating-iconic-banners-with-templates/"><u>2024 Approved Gamers' Signature Creating Iconic Banners with Templates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoo-saturn-4-ultra-reviewed-transforming-the-landscape-of-resin-based-3d-printing-innovations/"><u>Elegoo Saturn 4 Ultra Reviewed - Transforming the Landscape of Resin-Based 3D Printing Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-guides-by-tom-master-your-computer-components/"><u>Expert Guides by Tom: Master Your Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-high-performance-hardware-by-toms-channel/"><u>Expert Insights Into High-Performance Hardware by Tom's Channel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-speedy-bed-slinger-by-bambu-lab-the-new-a1-3d-printer-arrives-on-december-14th/"><u>Get Ready for Speedy 'Bed Slinger' By Bambu Lab – The New A1 3D Printer Arrives on December 14Th</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Nord CE 3 5G Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-from-toms-computer-gear-hub/"><u>In-Depth Analysis From Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-method-employs-additive-manufacturing-for-creating-complex-semiconductor-pathways/"><u>Innovative Method Employs Additive Manufacturing for Creating Complex Semiconductor Pathways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-at-toms-hardware-corner/"><u>Inside the World of Technology at Tom's Hardware Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/joining-separate-filaments-with-ease-for-perfect-continuous-reels/"><u>Joining Separate Filaments with Ease for Perfect, Continuous Reels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-asus-z370-e-driver-downloads-enhanced-performance-and-stability/"><u>Quick & Easy ASUS Z370-E Driver Downloads: Enhanced Performance and Stability</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/savvy-saving-with-20-best-free-storage-services-up-to-1tb-for-2024/"><u>Savvy Saving with 20 Best Free Storage Services, Up To 1TB for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-into-the-world-of-call-management-windows-11-dialer/"><u>Step Into the World of Call Management: Windows 11 Dialer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-how-to-get-your-iphone-connected-to-your-pc-easily/"><u>Troubleshoot: How to Get Your iPhone Connected to Your PC Easily</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: $299 on a Blink for the Latest 10Gen Apple iPad – Don’t Miss Out After Prime Day Shopping Spree | ZDNet Insights
-date: 2024-09-19 12:39:56
-updated: 2024-09-20 10:45:28
+date: 2024-10-05T18:40:11.946Z
+updated: 2024-10-08T18:44:45.603Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>[New] 2024 Approved 16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-foundations-in-creating-animated-imagery/"><u>[New] In 2024, Foundations in Creating Animated Imagery</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-logitechs-latest-mac-compatible-keyboard-and-mouse-collection/"><u>Introducing Logitech's Latest Mac Compatible Keyboard & Mouse Collection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimal-cura-modifications-elevate-your-3d-printing-experience/"><u>Optimal Cura Modifications: Elevate Your 3D Printing Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/remote-dimension-tuning-and-editing-for-2024/"><u>Remote Dimension Tuning and Editing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-resin-printing-micronics-newly-launched-miniaturized-sls-3d-printer-for-under-3k/"><u>Revolutionizing Resin Printing: Micronics' Newly Launched Miniaturized SLS 3D Printer for Under $3K</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-steps-for-securing-your-emails-automated-backup-strategies-using-gmvault/"><u>Simple Steps for Securing Your Emails: Automated Backup Strategies Using GMVault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-resource-for-hardware-reviews-and-performance-testing-by-tom/"><u>The Definitive Resource for Hardware Reviews & Performance Testing by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-customizing-colorful-computers-simplified-with-hytes-nexus-link-for-rgb-devices/"><u>The Future of Customizing Colorful Computers: Simplified with Hyte's Nexus Link for RGB Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-pc-displays-2024-edition/"><u>The Ultimate Selection of Premium PC Displays - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-corner-unveiling-top-performance-in-electronics/"><u>Tom's Review Corner: Unveiling Top Performance in Electronics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-zte-axon-40-lite-by-fonelab-android-recover-data/"><u>Undelete lost data from ZTE Axon 40 Lite</u></a></li>
+</ul></div>
+

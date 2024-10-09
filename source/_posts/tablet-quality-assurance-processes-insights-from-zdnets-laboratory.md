@@ -1,7 +1,7 @@
 ---
 title: "Tablet Quality Assurance Processes: Insights From ZDNet's Laboratory"
-date: 2024-09-17 18:58:46
-updated: 2024-09-20 11:16:43
+date: 2024-10-06T21:55:55.051Z
+updated: 2024-10-09T06:16:47.057Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-burst-function-in-gopro-cameras-for-2024/"><u>[Updated] Unveiling Burst Function in GoPro Cameras for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>2024 Approved Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-yuva-2-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Yuva 2 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187993-affordable-phrozen-sonic-mini-8k-ss-resin-3d-printer-now-just-325/"><u>Affordable Phrozen Sonic Mini 8K sS Resin 3D Printer Now Just $325</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-exe-not-responding-problems-swiftly/"><u>Diagnose and Fix 'Exe Not Responding' Problems Swiftly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175697430-fragrant-freshness-discover-the-unexpected-scent-of-premium-computer-thermal-paste/"><u>Fragrant Freshness: Discover the Unexpected Scent of Premium Computer Thermal Paste!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-7-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 7 The Right Way</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-note-30i-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix Note 30i</u></a></li>
+<li><a href="https://fox-http.techidaily.com/leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-animation-suites-top-3d-modelers-for-2024/"><u>Superior Animation Suites Top 3D Modelers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-top-source-for-gadgets/"><u>Tom's Tech Insights: Your Top Source for Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-hats-of-2024-the-ultimate-guide-to-project-expansion-boards/"><u>Top Raspberry Pi HATs of 2024 - The Ultimate Guide to Project Expansion Boards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-stm32qeg-starter-kits-with-grove-interface-modules-for-raspberry-pi-and-arduino/"><u>Top Recommended STM32QEG Starter Kits with Grove Interface Modules for Raspberry Pi & Arduino</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-headsets-for-gamers-find-the-perfect-mic/"><u>Top-Rated Headsets for Gamers: Find the Perfect Mic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125168159-unveiling-the-future-of-fabrication-at-rapid-and-tct-2024-spotlight-on-cutting-edge-printers-materials-and-tech/"><u>Unveiling the Future of Fabrication at Rapid & TCT 2024: Spotlight on Cutting-Edge Printers, Materials & Tech!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/value-champion-in-cpu-coolers-how-the-id-cooling-frozn-a620-pro-se-sets-new-standards/"><u>Value Champion in CPU Coolers: How the Id-Cooling Frozn A620 PRO SE Sets New Standards</u></a></li>
+</ul></div>
+

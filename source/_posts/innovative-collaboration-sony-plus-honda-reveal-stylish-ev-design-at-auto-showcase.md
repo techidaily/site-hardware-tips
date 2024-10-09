@@ -1,7 +1,7 @@
 ---
 title: "Innovative Collaboration: Sony + Honda Reveal Stylish EV Design at Auto Showcase"
-date: 2024-09-18 10:50:33
-updated: 2024-09-20 10:20:11
+date: 2024-10-02T20:59:52.603Z
+updated: 2024-10-08T16:11:04.869Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tall-screen-editing-made-easy-using-fcpx-on-instagram/"><u>[New] 2024 Approved Tall Screen Editing Made Easy Using FCPX on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-embrace-digital-convenience-top-30-free-high-capacity-cloud-storage-choices-1tbplus/"><u>2024 Approved Embrace Digital Convenience Top 30 Free, High-Capacity Cloud Storage Choices (1TB+)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-depth-analysis-navigating-zoom-for-webinars-and-livestreams/"><u>2024 Approved In-Depth Analysis Navigating Zoom for Webinars and Livestreams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125183339-dive-into-the-world-of-gadgets-premium-guides-and-in-depth-analysis-by-toms-hardware-your-trusted-tech-authority/"><u>Dive Into the World of Gadgets - Premium Guides & In-Depth Analysis by Tom's Hardware | Your Trusted Tech Authority</u></a></li>
+<li><a href="https://facebook.techidaily.com/facilitating-virtual-governance-facebooks-advanced-administrator-aids/"><u>Facilitating Virtual Governance: Facebook’s Advanced Administrator Aids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-micro-video-moment-a-deep-dive-into-2023-developments/"><u>In 2024, Facebook's Micro-Video Moment A Deep Dive Into 2023 Developments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-top-5-list-ps3-games-on-windows-platforms/"><u>In 2024, Ultimate Top 5 List PS3 Games on Windows Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-fb-video-downloads-on-linux-and-macos-for-2024/"><u>Mastering FB Video Downloads on Linux & macOS for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-at-toms-digital-domain/"><u>Unveiling Gadgets and Gizmos at Tom's Digital Domain</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-technologies-through-toms-hardware-perspectives/"><u>Unveiling New Technologies Through Tom's Hardware Perspectives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-customization-in-depth-analysis-of-corsair-icue-link-h150i-rgb/"><u>Unveiling the Power of Customization: In-Depth Analysis of Corsair iCUE Link H150i RGB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-the-elegoo-neptune-4-plus-a-galaxy-class-3d-printer-with-lightning-fast-performance-reviewed/"><u>Unveiling the Power of the Elegoo Neptune 4 Plus - A Galaxy-Class 3D Printer with Lightning Fast Performance Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-hardware-mastery-in-depth-gadget-analyses/"><u>Unveiling Tom's Hardware Mastery: In-Depth Gadget Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-system-ai-thermal-paste-infused-with-nanodiamond-technology-from-cooler-master-comes-in-cryofuze-vee/"><u>Upgrade Your PC's Cooling System - AI 'Thermal Paste' Infused with Nanodiamond Technology From Cooler Master, Comes in CryoFuze Vee</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

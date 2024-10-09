@@ -1,7 +1,7 @@
 ---
 title: "Top Picks for Ultimate Portable Gaming: Best Slate Tablets of 2022 - Features, Reviews & More | TechRadar"
-date: 2024-09-17 18:21:35
-updated: 2024-09-20 10:31:36
+date: 2024-10-01T21:08:15.261Z
+updated: 2024-10-09T02:37:00.055Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-the-artisans-guide-to-chromatic-mastery/"><u>[New] The Artisan's Guide to Chromatic Mastery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[Updated] 2024 Approved Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-macs-most-reliable-snipers-reviewed/"><u>[Updated] Mac's Most Reliable Snipers Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyst-forecast-oled-display-market-surges-with-over-134m-units-projected-for-yearly-delivery/"><u>Analyst Forecast: OLED Display Market Surges with Over 1.34M Units Projected for Yearly Delivery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computer-innovations-trusted-recommendations-from-toms-technology-hub/"><u>Discover Advanced Computer Innovations - Trusted Recommendations From Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-crealitys-latest-marvel-the-flagship-k1c-and-enhanced-ender-3-v3-model-revealed/"><u>Discover Creality's Latest Marvel - The Flagship K1C and Enhanced Ender 3 V3 Model Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhanced-browser-speed-with-refined-cookie-processing-a-leap-forward-for-google-chrome-efficiency/"><u>Enhanced Browser Speed with Refined Cookie Processing: A Leap Forward for Google Chrome Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-from-toms-hardware-hub/"><u>Expert Insights on Computing From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovative-advances-top-picks-from-rapid-plus-tct-2ergy-a-glimpse-into-next-gen-3d-printing/"><u>Exploring Innovative Advances: Top Picks From Rapid + TCT 2Ergy - A Glimpse Into Next-Gen 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/felicia-day-enters-the-world-of-3d-printing-free-access-to-exclusive-designs/"><u>Felicia Day Enters the World of 3D Printing: Free Access to Exclusive Designs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo S17 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+</ul></div>
+

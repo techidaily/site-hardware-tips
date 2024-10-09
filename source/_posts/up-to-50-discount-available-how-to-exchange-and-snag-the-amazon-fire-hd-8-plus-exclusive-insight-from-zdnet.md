@@ -1,7 +1,7 @@
 ---
 title: "Up to 50%% Discount Available: How to Exchange and Snag the Amazon Fire HD 8 Plus | Exclusive Insight From ZDNET"
-date: 2024-09-19 19:27:47
-updated: 2024-09-20 12:37:51
+date: 2024-10-07T20:16:56.361Z
+updated: 2024-10-09T09:05:57.454Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -143,9 +150,35 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +191,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +234,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing/"><u>[Updated] 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mkamkv/"><u>移動電影畫格自由改編：MKA到MKV的線上無限制遷移</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125192092-dive-into-technology-comprehensive-insights-from-our-tech-hub-post-toms-hardware/"><u>Dive Into Technology: Comprehensive Insights From Our Tech Hub, Post-Tom's Hardware!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-zoom-microphone-working-again-tips-and-solutions-for-windows-1110-problem-solving/"><u>Get Your Zoom Microphone Working Again! Tips & Solutions for Windows 11/10 Problem-Solving</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-x100-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo X100</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-screen-capture-a-step-by-step-tutorial-for-iphone-users-techtips/"><u>Mastering Screen Capture: A Step-by-Step Tutorial for iPhone Users | TechTips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-10-effect-enhancing-fcp-plug-ins-for-2024/"><u>Top 10 Effect-Enhancing FCP Plug-Ins for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-advanced-cpu-cooling-solutions-all-in-one-and-air-options/"><u>Top Picks for Advanced CPU Cooling Solutions : All-in-One & Air Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-expert-opinions-from-toms-hardware-source/"><u>Top Tech Picks & Expert Opinions From Tom's Hardware Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-toms-hardware-reviews-expert-insights-and-buying-guides/"><u>Top Tom's Hardware Reviews: Expert Insights & Buying Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-picking-the-best-psus-for-blockchain-mining-optimal-gear-for-eth-and-coins/"><u>Ultimate Guide to Picking the Best PSUs for Blockchain Mining: Optimal Gear for Eth & Coins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-high-performance-live-streaming-cams/"><u>Unbeatable Deals on High-Performance Live Streaming Cams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-of-your-tech-trustworthy-tips-and-reviews-at-toms-hardware/"><u>Unlock the Potential of Your Tech: Trustworthy Tips and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-tech-trends-with-toms-hardware/"><u>Unveiling the Latest Tech Trends with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-quiet-might-of-deepcool-assassin-4s-graphics-cooler-critique/"><u>Unveiling the Quiet Might of DeepCool Assassin ˈ4s Graphics Cooler Critique</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-netgear-a6210-secure-free-driver-version-for-windows-87-users/"><u>Update Your Netgear A6210 - Secure Free Driver Version for Windows 8/7 Users</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Sale Alert: Secure the Amazon Fire HD 8 Plus for Less Than Half Price – ZDNet Deals"
-date: 2024-09-17 15:26:25
-updated: 2024-09-20 10:31:58
+date: 2024-10-08T07:09:55.160Z
+updated: 2024-10-08T19:30:03.267Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-tips-for-effective-mov-storage-in-windows-10-for-2024/"><u>[New] Essential Tips for Effective .mov Storage in Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/istory-streams-that-will-transform-your-study-habits/"><u>[New] History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>[New] In 2024, The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-cushy-comfort-best-idle-pc-games/"><u>[Updated] In 2024, Cushy Comfort Best Idle PC Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-unmatched-home-surveillance-the-arlo-pro-5s-at-a-steal-now-just-180/"><u>Experience Unmatched Home Surveillance: The Arlo Pro 5S at a Steal, Now Just $180!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-halt-unlock-code-x80131500/"><u>Microsoft Store Halt: Unlock Code X80131500</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimizing-screen-space-for-virtual-clarity-and-detail-for-2024/"><u>Optimizing Screen Space for Virtual Clarity and Detail for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Review: In-Depth Analysis & Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-specs-ultimate-computer-components-guide/"><u>Tom's Tech Specs: Ultimate Computer Components Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-cards-of-2024-ultimate-guide-to-value-packed-gaming-gpus/"><u>Top Rated Graphics Cards of 2024: Ultimate Guide to Value-Packed Gaming GPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-next-level-chill-the-iconic-return-of-the-noctua-nh-d12l-in-stunning-black-just-99/"><u>Unleash Next-Level Chill: The Iconic Return of the Noctua NH-D12L in Stunning Black - Just $99</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-printing-velocity-unleashed-speed-benchy-model-materializes-faster-than-ever-with-a-modified-3d-printer/"><u>Unmatched Printing Velocity Unleashed – 'Speed Benchy' Model Materializes Faster than Ever with a Modified 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-in-rapid-printing-elegoos-neptune-ebeam-reviewed-for-quality-and-price/"><u>Unveiling the Best Value in Rapid Printing: Elegoo's Neptune Ebeam Reviewed for Quality and Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-to-the-future-of-pc-components-introducing-deepcools-advanced-coolers-psus-and-fans-with-customizable-pixel-silicone-decorations/"><u>Upgrade to the Future of PC Components - Introducing DeepCool's Advanced Coolers, PSUs & Fans with Customizable Pixel Silicone Decorations</u></a></li>
+</ul></div>
+
