@@ -1,7 +1,7 @@
 ---
 title: "Flagship Faceoff: Comparing Performance, Features, and Value Between the Newest Samsung Galaxy Tab S9 Ultra & Apple iPad Pro | Tech Analysis by ZDNET"
-date: 2024-09-17 22:55:54
-updated: 2024-09-20 12:45:52
+date: 2024-10-14T16:21:10.410Z
+updated: 2024-10-15T16:23:20.772Z
 tags:
   - tablets
 categories:
@@ -117,6 +117,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-iconic-images-uncovered-histories/"><u>[New] 2024 Approved Iconic Images Uncovered Histories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-using-srt-audio-on-windows-and-macos-devices/"><u>[New] 2024 Approved Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/omprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[New] Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-free-skype-mp3-logger-101-guide-for-2024/"><u>[New] Free Skype Mp3 Logger 101 Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-hub-a-comprehensive-guide/"><u>Exploring Tom's Tech Hub: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-practices-for-enhancing-vhs-photos-via-pcs-for-2024/"><u>Innovative Practices for Enhancing VHS Photos via PCs for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimal-heat-management-with-corsairs-6500x-vs-2500x-modular-systems-a-guide-to-tailored-pc-assembly-and-overtuning-potential/"><u>Optimal Heat Management with Corsair's 6500X Vs. ˈ2500X Modular Systems: A Guide to Tailored PC Assembly and Overtuning Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimizing-system-performance-a-comprehensive-guide-by-tom/"><u>Optimizing System Performance: A Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-elite-podcast-production-tools-find-your-perfect-fit/"><u>The Ultimate List of Elite Podcast Production Tools - Find Your Perfect Fit!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-comparisons-t17239718718964/"><u>Tom's Tech Review: In-Depth Analysis and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-world-of-gadgets-with-toms-technology-insights/"><u>Unveiling the World of Gadgets with Tom's Technology Insights</u></a></li>
+</ul></div>
+

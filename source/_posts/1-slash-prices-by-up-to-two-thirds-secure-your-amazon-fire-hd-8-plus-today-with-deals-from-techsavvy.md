@@ -1,7 +1,7 @@
 ---
 title: "1. Slash Prices by Up to Two-Thirds: Secure Your Amazon Fire HD 8 Plus Today with Deals From TechSavvy!"
-date: 2024-09-17 17:55:54
-updated: 2024-09-20 12:23:59
+date: 2024-10-08T16:41:41.274Z
+updated: 2024-10-15T16:20:36.788Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,19 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -116,6 +129,13 @@ Depending on your use cases, the iPad, without the Magic Keyboard Folio, is good
 June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the regular iPad beats the Pro
 
@@ -143,9 +163,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-tech-driven-transformation-the-upcoming-shifts-in-fb-advertising/"><u>[New] 2024 Approved Tech-Driven Transformation The Upcoming Shifts in FB Advertising</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] In 2024, Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-strategic-guide-to-unlocking-worlds-secrets-via-vr/"><u>A Strategic Guide to Unlocking World's Secrets via VR</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-print-speed-on-pcs-tips-for-windows-users/"><u>Boosting Print Speed on PCs: Tips for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862797045-catch-your-favorite-dell-s32gaming-monitor-at-an-unbeatable-price-just-229-top-ranked-quality-guaranteed/"><u>Catch Your Favorite Dell S32^Gaming Monitor at an Unbeatable Price: Just $229 – Top-Ranked Quality Guaranteed!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-snapshot-to-sequence-live-photo-to-video-journey/"><u>In 2024, Snapshot to Sequence Live Photo to Video Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862793670-next-level-bargain-gaming-immerse-in-the-action-with-an-affordable-39-lg-wqhd-curve-on-amazon-for-just-999/"><u>Next-Level Bargain Gaming: Immerse in the Action with an Affordable 39 LG WQHD Curve on Amazon for Just $999</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/optimized-web-interactions-with-cookiebot-technology/"><u>Optimized Web Interactions with Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862778024-ready-to-game-in-style-score-an-unbelievable-deal-on-the-24-inch-curved-acer-nitro-monitor-for-only-81/"><u>Ready to Game in Style? Score an Unbelievable Deal on the 24-Inch Curved Acer Nitro Monitor for Only $81</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/scanner-reactivation-achieved-in-windows-11/"><u>Scanner Reactivation Achieved in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862771166-score-the-best-deal-with-a-dell-1920x1080-qhd-ips-gaming-monitor-for-199/"><u>Score the Best Deal with a Dell 1920X1080 QHD IPS Gaming Monitor for $199</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-hardware-guides/"><u>Unveiling the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-setup-msis-revolutionary-240hz-qd-oled-gaming-monitors-a-dynamic-duo-of-34-and-27-inch-displays-with-crisp-1440p-resolution-and-modern-usb-c-co53/"><u>Upgrade Your Setup: MSI's Revolutionary 240Hz QD-OLED Gaming Monitors – A Dynamic Duo of 34 and 27 Inch Displays with Crisp 1440P Resolution & Modern USB-C Connectivity Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/vaio-unveils-ultra-lightweight-visionplus-14-worlds-lighter-portable-monitor-at-just-072lbs/"><u>Vaio Unveils Ultra-Lightweight Vision+ 14: World's Lighter Portable Monitor at Just 0.72Lbs</u></a></li>
+</ul></div>
+

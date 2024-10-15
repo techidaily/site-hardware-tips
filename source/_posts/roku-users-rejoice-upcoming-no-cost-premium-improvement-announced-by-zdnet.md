@@ -1,7 +1,7 @@
 ---
 title: "Roku Users Rejoice: Upcoming No-Cost Premium Improvement Announced by ZDNet"
-date: 2024-10-05T09:19:30.970Z
-updated: 2024-10-08T18:49:38.151Z
+date: 2024-10-08T16:29:05.339Z
+updated: 2024-10-15T16:49:13.840Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-request-info-on-obtaining-full-shared-content-on-messengers-for-2024/"><u>[New] Request Info on Obtaining Full Shared Content on Messengers for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-every-moment-the-power-of-spring-screenrecorder/"><u>[Updated] In 2024, Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/achieving-unparalleled-detail-with-remote-screens/"><u>Achieving Unparalleled Detail with Remote Screens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/amplify-your-audio-visual-experience-with-these-6-android-apps-for-2024/"><u>Amplify Your Audio-Visual Experience with These 6 Android Apps for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-black-to-rainbow-celebrate-crealitys-birthday-with-a-spectrum-of-new-3d-printer-colors/"><u>From Black to Rainbow: Celebrate Creality's Birthday with a Spectrum of New 3D Printer Colors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-11-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 11 Smoothly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-hot-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Hot 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-wonders-with-professional-reviews-from-toms-hardware/"><u>Navigate Through High-Tech Wonders with Professional Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-your-way-through-innovative-hardware-with-expert-insights-from-tom/"><u>Navigate Your Way Through Innovative Hardware with Expert Insights From Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-hello-to-noctuas-home-series-the-stellar-100-nv-fs1-desk-fan-leads-the-way/"><u>Say Hello to Noctua's Home Series: The Stellar $100 NV-FS1 Desk Fan Leads the Way</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722207634270-the-ultimate-free-way-to-leverage-gpt-4s-speed-with-copilot-your-guide-inside/"><u>The Ultimate FREE Way to Leverage GPT-4's Speed with Copilot: Your Guide Inside</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-innovation-at-play-the-best-professional-360-degree-cameras-2023-update/"><u>[New] 2024 Approved Innovation at Play The Best Professional 360-Degree Cameras - 2023 Update</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieving-comprehensive-participant-visualization-on-meet-for-2024/"><u>[New] Achieving Comprehensive Participant Visualization on Meet for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile/"><u>[New] In 2024, Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-sophisticated-screenshot-options-for-gamers-for-2024/"><u>[New] Sophisticated Screenshot Options for Gamers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-glitchy-mouse-scroll-action/"><u>Fixing Glitchy Mouse Scroll Action</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-downloading-discontinued-apps-from-alternative-sources/"><u>Guide: Downloading Discontinued Apps From Alternative Sources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-can-you-repurpose-or-recycle-outdated-mobile-case-accessories/"><u>How Can You Repurpose or Recycle Outdated Mobile Case Accessories?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-fix-the-problem-of-unreceived-texts-on-your-android-smartphone/"><u>How to Fix the Problem of Unreceived Texts on Your Android Smartphone?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imessage-troubles-learn-how-to-turn-off-bothersome-reactions-on-android-phones/"><u>IMessage Troubles? Learn How to Turn Off Bothersome Reactions on Android Phones!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imminent-arrival-of-android-13-what-this-means-for-most-smartphone-users/"><u>Imminent Arrival of Android 13: What This Means for Most Smartphone Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-methods-for-snappy-signature-bg-removal/"><u>In 2024, Proven Methods for Snappy Signature Bg Removal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-samsung-galaxy-z-fold4-top-tier-specs-with-a-touch-of-nostalgia/"><u>In-Depth Look at the Samsung Galaxy Z Fold4: Top-Tier Specs with a Touch of Nostalgia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-smartphones-data-speed-slower-understanding-cellular-throttling/"><u>Is Your Smartphone's Data Speed Slower? Understanding Cellular Throttling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-call-alert-easy-steps-to-master-lg-smartphone-lockout-solutions/"><u>Last Call Alert: Easy Steps to Master LG Smartphone Lockout Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-twitch-recording-a-users-playbook-for-2024/"><u>Navigating Twitch Recording A User's Playbook for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-repairing-pacific-drive-malfunctions-on-personal-computers/"><u>Solving the Mystery: Repairing Pacific Drive Malfunctions on Personal Computers</u></a></li>
 </ul></div>
 

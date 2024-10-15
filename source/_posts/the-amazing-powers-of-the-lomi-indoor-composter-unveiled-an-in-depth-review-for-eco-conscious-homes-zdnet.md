@@ -1,7 +1,7 @@
 ---
 title: The Amazing Powers of the Lomi Indoor Composter Unveiled - An In-Depth Review for Eco-Conscious Homes | ZDNET
-date: 2024-09-18 21:58:57
-updated: 2024-09-20 12:18:26
+date: 2024-10-13T16:41:37.104Z
+updated: 2024-10-15T16:19:38.042Z
 tags:
   - sustainability
 categories:
@@ -46,6 +46,19 @@ Is a home composter right for you? To answer that question we'll take you throug
 | Eco Express Mode        | 3-5 hours. This is the perfect way to start the decomposition process. The waste shrinks considerably, and is perfect for adding to your compost as a starter.                                                                 |
 | Grow Mode               | The Grow mode takes 16-20 hours. By the end of this cycle, you'll have a microbially-rich end product that is ready to use.                                                                                                    |
 | Lomi Approved Mode      | Lomi Approved mode takes 5-8 hours. This is one of Lomi's special features. Unlike other composters, Lomi can break down certified bioplastics into dirt that can then be placed in your green bin.                            |
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How it works 
 
@@ -103,6 +116,13 @@ From this morning's oatmeal to soil in about three hours.
 
 Greg Nichols / ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which mode to use? 
 
 There are three modes, **Eco-Express**, **Lomi Approved**, and **Grow**. The differences are important and help to illustrate exactly what it is you're making with the Lomi. (Hint, it's not compost.) 
@@ -114,6 +134,13 @@ Eco-Express mode is the fastest and takes about 3-5 hours. You can add the resul
 **Lomi Approved:** This mode is meant for food waste, bioplastics and Lomi Approved packaging and products. Lomi recommends using a LomiPod in this mode, which adds beneficial microbes to help aid the process of breaking down the bioplastics. This mode takes about 5-8 hours. The resulting dirt can be tossed in the green bin, but like the Eco-Express dirt it isn't rich in microorganisms and shouldn't be used with plants. 
 
 **Grow Mode:** This mode is meant for use with fruit and vegetable waste only. So no cooked or processed foods and no bioplastics. This mode utilizes low heat to help preserve microorganisms. Lomi recommends adding a LomiPod in this mode. The benefit is that the resulting dirt can be mixed with garden or houseplant soil. Lomi recommends a ratio of 1:10 dirt to soil. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How much power does Lomi use? 
 
@@ -142,6 +169,19 @@ From the company's website:
 You can read more about the [results of these tests here](https://lomi.com/blogs/news/lomi-carbon-footprint), but the bottom line is a net CO2e savings of approximately 100 kg to 230 CO2e per year, depending on your usage patterns. 
 
 [Lomi composter $295.6 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3FSQTRS%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9c9d3a1b-54d5-4889-94df-d2d413877ed9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Bottom line 
 
@@ -184,11 +224,33 @@ The grandaddy of traditional outdoor composters, if you have the space and the w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-step-by-step-process-to-embed-timestamps-on-youtube-links/"><u>[New] 2024 Approved The Step-by-Step Process to Embed Timestamps on YouTube Links</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-heartstrings-plucked-essential-vocal-masterpieces-for-a-kiss-for-2024/"><u>[Updated] Heartstrings Plucked Essential Vocal Masterpieces for a Kiss for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-tutorial-enhancing-meeting-experience-in-zoom-win10/"><u>[Updated] In-Depth Tutorial Enhancing Meeting Experience in Zoom (Win10)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-best-practices-saving-whatsapp-conversations-audio-wise/"><u>2024 Approved Best Practices Saving WhatsApp Conversations Audio-Wise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bamboo-lab-elucidates-commitments-in-latest-printer-firmware-updates/"><u>Bamboo Lab Elucidates Commitments in Latest Printer Firmware Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g04-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G04</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aging-youtube-insights-for-content-growth/"><u>Leveraging YouTube Insights for Content Growth</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-of-gadgets-and-hardware-features-by-toms-guidance/"><u>Mastery of Gadgets and Hardware Features by Tom's Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/micronics-introduces-affordable-desktop-sized-sls-3d-printer-at-299eplus06-revolutionizing-additive-manufacturing/"><u>Micronics Introduces Affordable Desktop-Sized SLS 3D Printer at $2,99E+06 - Revolutionizing Additive Manufacturing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-toms-hardware-experts/"><u>Navigate the World of Tech with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-trustworthy-advice-from-toms-hardware/"><u>Navigating the World of Gadgets - Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-checks-by-toms-equipment-experts/"><u>Precision Performance Checks by Tom's Equipment Experts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/professionelle-anleitung-fur-das-klonen-des-systems-von-windows-11-so-machen-sie-es-ohne-dass-eine-neuinstallation-erforderlich-ist/"><u>Professionelle Anleitung Für Das Klonen Des Systems Von Windows 11 – So Machen Sie Es, Ohne Dass Eine Neuinstallation Erforderlich Ist</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-heat-management-with-new-pink-caulk-gun-thermal-paste-by-tim-ideal-for-components-voids/"><u>Revolutionize Heat Management with New Pink 'Caulk Gun' Thermal Paste by TIM – Ideal For Components Voids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724997-say-goodbye-to-diy-mistakes-the-ultimate-idiot-proof-tim-application-solution-by-x-apply-is-almost-here/"><u>Say Goodbye to DIY Mistakes: The Ultimate, 'Idiot Proof' TIM Application Solution by X-Apply Is Almost Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlined-steps-to-watching-vr-on-your-ios-device-for-2024/"><u>Streamlined Steps to Watching VR on Your IOS Device for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-tips-from-toms-hardware/"><u>Unveiling the Latest in PC Components: Tips From Tom's Hardware</u></a></li>
+</ul></div>
+

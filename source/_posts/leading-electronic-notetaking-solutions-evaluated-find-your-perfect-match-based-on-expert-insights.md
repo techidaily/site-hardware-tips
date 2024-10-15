@@ -1,7 +1,7 @@
 ---
 title: "Leading Electronic Notetaking Solutions Evaluated: Find Your Perfect Match Based on Expert Insights"
-date: 2024-09-19 11:53:13
-updated: 2024-09-20 10:35:44
+date: 2024-10-09T16:10:05.841Z
+updated: 2024-10-15T16:33:06.642Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +173,19 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +234,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-leading-ps2-game-emulation-tools/"><u>[New] IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>[Updated] 2024 Approved From Novice to Viral Video Top 30 Anime Inspiration Ideas</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy/"><u>Be a Reddit Pro The 13 Best Ways to Make Cash Fast & Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/case-study-how-abbyy-augmented-the-features-of-deloittes-ediscovery-suite-insight-from-a-satisfied-customer/"><u>Case Study: How ABBYY Augmented the Features of Deloitte's eDiscovery Suite - Insight From a Satisfied Customer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/evaluating-the-value-is-apples-airpods-pro-still-a-smart-buy-a-comprehensive-review/"><u>Evaluating the Value: Is Apple's AirPods Pro Still a Smart Buy? A Comprehensive Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-motorola-edgeplus-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Motorola Edge+ (2023) using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-secret-for-sticker-less-vids-on-tiktok/"><u>In 2024, Experts' Secret for Sticker-Less Vids on TikTok</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Lenovo Keyboard Malfunction? Here’s What You Can Do to Fix It</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-get-the-powerful-16gb-memory-in-a-portable-13-inch-with-m3-macbook-air-at-an-unbeatable-price-of-1149/"><u>Limited Offer! Get the Powerful 16GB Memory in a Portable 13-Inch with M3 MacBook Air at an Unbeatable Price of $1,149</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/market-analysts-anticipate-an-upward-trend-in-laptop-memory-with-a-projected-118gb-jump-next-year/"><u>Market Analysts Anticipate an Upward Trend in Laptop Memory, with a Projected 11.8GB Jump Next Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-hardware-with-toms-tech-advice-and-reviews/"><u>Master the World of Hardware with Tom's Tech Advice & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-knowledge-with-toms-hardware-experts/"><u>Master Your PC Knowledge with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-peripherals-at-toms-hardware-hub/"><u>Mastering Gadgets and Peripherals at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-setup-with-expertise-from-toms-hardware-hub/"><u>Mastering Your Tech Setup with Expertise From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mediatek-steps-up-with-arm-processors-for-windows-laptops-as-qualcomm-exclusivity-term-ends/"><u>MediaTek Steps Up with Arm Processors for Windows Laptops as Qualcomm Exclusivity Term Ends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-newest-tech-trends-in-depth-analysis-by-toms-computing-experts/"><u>Navigate Through Newest Tech Trends: In-Depth Analysis by Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-insights-with-toms-authoritative-guides/"><u>Navigating Technology Insights with Tom's Authoritative Guides</u></a></li>
+</ul></div>
+

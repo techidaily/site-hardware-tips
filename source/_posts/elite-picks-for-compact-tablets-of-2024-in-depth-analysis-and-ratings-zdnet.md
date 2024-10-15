@@ -1,7 +1,7 @@
 ---
 title: "Elite Picks for Compact Tablets of 2024: In-Depth Analysis and Ratings | ZDNet"
-date: 2024-09-19 22:59:13
-updated: 2024-09-20 12:49:43
+date: 2024-10-10T16:18:05.421Z
+updated: 2024-10-15T16:38:53.958Z
 tags:
   - tablets
 categories:
@@ -133,6 +133,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-instant-impact-applying-motion-blur-to-ai-artwork/"><u>[New] Instant Impact Applying Motion Blur to AI Artwork</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-resource-for-profiting-from-your-youtube-content/"><u>[New] The Ultimate Resource for Profiting From Your YouTube Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-13-pivotal-metaverse-experiences-for-deeper-comprehension/"><u>[Updated] 13 Pivotal Metaverse Experiences for Deeper Comprehension</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assembling-an-impressive-robust-desktop-a-fusion-of-disco-pixel-pc-and-inwins-compact-309-chassis/"><u>Assembling an Impressive, Robust Desktop: A Fusion of Disco Pixel PC and InWin’s Compact 309 Chassis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-responsive-speakers-and-headphones-issue-in-windows-11-8-and-7/"><u>Diagnosing and Repairing Non-Responsive Speakers & Headphones Issue in Windows 11, 8, & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-x5-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco X5 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/srtmp4-mp4srt/"><u>SRTファイルとMP4動画のシームレスな融合: MP4ビデオへのSRT字幕統合手順</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-expert-guide-to-pc-components-by-toms-technology-insights/"><u>The Expert Guide to PC Components by Tom's Technology Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-first-steps-learning-15-fundamental-shots-for-2024/"><u>The Filmmaker's First Steps Learning 15 Fundamental Shots for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-analysis-in-depth-tutorials-and-testing/"><u>Tom's Computer Components Analysis: In-Depth Tutorials & Testing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-guides-on-computers-and-gadgets/"><u>Tom's Tech Hub: Expert Guides on Computers and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews-on-the-latest-hardware/"><u>Tom's Tech Insights: Comprehensive Guides and Reviews on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unlocking-the-power-of-hardware-t17239718710133/"><u>Tom's Tech Insights: Unlocking the Power of Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-800-gaming-rig-ultimate-built-for-streaming-and-work/"><u>Top-Ranked $800 Gaming Rig: Ultimate Built for Streaming & Work</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-mastering-the-art-of-downloading-from-youtube/"><u>Ultimate Guide: Mastering the Art of Downloading From YouTube</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Affordable Samsung Tablet Deal Uncovered: Non-Flagship Model at Steep Discount This Labor Day - Insights From ZDNet"
-date: 2024-09-18 17:56:58
-updated: 2024-09-20 10:54:45
+date: 2024-10-14T16:37:10.695Z
+updated: 2024-10-15T16:09:29.514Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-video-impact-expert-tips-on-using-wm-maker/"><u>[New] In 2024, Boost Your Video Impact Expert Tips on Using WM Maker</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>[New] In 2024, Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlock-the-full-potential-of-your-iphones-voice-memo/"><u>[New] In 2024, Unlock the Full Potential of Your iPhone's Voice Memo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>[New] RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tarting-from-scratch-essential-gear-list-guide/"><u>[New] Starting From Scratch Essential Gear List Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>[New] The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-corsair-void-rgb-elite-at-only-79-the-ultimate-wireless-gaming-headset-compatible-with-pc-and-ps5/"><u>Get the Corsair Void RGB Elite at Only $79 - The Ultimate Wireless Gaming Headset Compatible with PC & PS5</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-t2-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo T2 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-installation-u-are-u-reader-version-45/"><u>Instant Driver Installation: U-Are-U Reader Version 4.5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-asus-rog-keris-ii-ace-the-ultra-lightweight-contender-for-deathadder-v3-pro-gamers/"><u>Introducing the Asus ROG Keris II Ace: The Ultra-Lightweight Contender for DeathAdder V3 Pro Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-components-with-tom-a-detailed-guide-by-toms-hardware-experts/"><u>Navigating Computer Components with Tom - A Detailed Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-ultimate-wireless-k-type-keychron-q1-he-keyboard/"><u>Review of the Ultimate Wireless K-Type Keychron Q1 HE Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sennheisers-high-end-hd-620s-audiophile-headphones-new-low-price-at-just-50/"><u>Sennheiser's High-End HD 지620S Audiophile Headphones: New Low Price at Just $50!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-performance-unleashed-a-dive-into-toms-equipment-reviews/"><u>Tech Performance Unleashed: A Dive Into Tom's Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-ultimate-guide-to-computer-components-and-hardware/"><u>Tom's Tech Hub: Ultimate Guide to Computer Components and Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guide-to-computer-components/"><u>Tom's Tech Insights: Expert Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-is-my-windows-10-search-not-responding-here-are-the-fixes/"><u>Why Is My Windows 10 Search Not Responding? Here Are the Fixes!</u></a></li>
+</ul></div>
+

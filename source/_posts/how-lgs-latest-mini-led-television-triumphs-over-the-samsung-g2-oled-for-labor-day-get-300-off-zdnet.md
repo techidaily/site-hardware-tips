@@ -1,7 +1,7 @@
 ---
 title: How LG's Latest Mini LED Television Triumphs Over the Samsung G2 OLED for Labor Day – Get $300 Off | ZDNET
-date: 2024-10-01T22:01:05.145Z
-updated: 2024-10-08T20:10:09.278Z
+date: 2024-10-11T16:29:45.869Z
+updated: 2024-10-15T16:45:57.274Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,20 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[New] 2024 Approved How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-find-your-perfect-vlog-title-best-free-name-generators/"><u>[Updated] Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-upgrade-to-high-quality-video-streaming-on-facebook-for-2024/"><u>[Updated] Upgrade to High-Quality Video Streaming on Facebook for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations-for-2024/"><u>[Updated] Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/arctics-latest-liquid-cooling-solutions-ready-to-compatibly-enhance-performance-of-new-arrow-lake-and-lga1cups-cpus-from-intel/"><u>Arctic's Latest Liquid Cooling Solutions: Ready to Compatibly Enhance Performance of New Arrow Lake and LGA1cups CPUs From Intel</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-elegoos-mammoth-3d-printers-their-capacity-to-accurately-produce-large-objects-including-child-figures/"><u>Exploring Elegoo's Mammoth 3D Printers: Their Capacity to Accurately Produce Large Objects, Including Child Figures</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/garmin-forerunner-945-evaluation-all-inclusive-features-of-an-advanced-sports-smartwatch/"><u>Garmin Forerunner 945 Evaluation: All-Inclusive Features of an Advanced Sports Smartwatch</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/guiding-principles-for-hiring-high-caliber-film-makers-for-2024/"><u>Guiding Principles for Hiring High-Caliber Film Makers for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-lamptrons-latest-cpu-cooler-a-dual-purpose-device-with-iphone-15-screen-size-and-high-resolution-display/"><u>Introducing Lamptron's Latest CPU Cooler: A Dual-Purpose Device with iPhone 15 Screen Size & High-Resolution Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-intels-core-series-enhanced-warranty-duration-for-14th-and-15th-gen-chips-in-response-to-performance-problems/"><u>New Intel's Core Series: Enhanced Warranty Duration for 14Th & 15Th Gen Chips in Response to Performance Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-on-high-quality-3d-printing-machines-exclusive-deals-of-202/"><u>Save on High-Quality 3D Printing Machines: Exclusive Deals of 202</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/struggling-with-a-non-cooperative-blue-yeti-mic-follow-these-steps-for-quick-repairs/"><u>Struggling with a Non-Cooperative Blue Yeti Mic? Follow These Steps for Quick Repairs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-resin-3d-printing-solutions-for-professionals-and-hobbyists-alike-2024-edition/"><u>Unveiling the Best Resin 3D Printing Solutions for Professionals & Hobbyists Alike - 2024 Edition</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-correct-video-orientation-for-free-top-10-desktop-and-online-apps/"><u>Updated 2024 Approved Correct Video Orientation for Free Top 10 Desktop and Online Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-strategic-visual-marketing-top-10-ideas-to-amplify-your-instagram-presence/"><u>[New] 2024 Approved Strategic Visual Marketing Top 10 Ideas to Amplify Your Instagram Presence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-x-professional-audio-toolkit-personal-computing/"><u>[New] X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-inserting-tracks-in-youtube-playlists/"><u>[Updated] Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/avoid-losing-memories-how-to-securely-recover-files-from-an-iphones-factory-reset/"><u>Avoid Losing Memories: How to Securely Recover Files From an iPhones Factory Reset</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287583307-batch-video-conversion-mastery-a-step-by-step-guide-using-handbrake/"><u>Batch Video Conversion Mastery: A Step-by-Step Guide Using HandBrake</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comparing-aomei-backupper-and-macrium-reflect-for-optimal-pc-backup-the-better-choice-revealed/"><u>Comparing AOMEI Backupper and Macrium Reflect for Optimal PC Backup - The Better Choice Revealed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-lighting-features-now-available-on-asus-motherboards-with-windows-11/"><u>Dynamic Lighting Features Now Available on Asus Motherboards with Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-protecting-electronics-from-scorching-heat/"><u>Effective Strategies for Protecting Electronics From Scorching Heat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-your-pc-is-prepared-a-guide-to-assessing-compatibility-with-new-graphics-cards/"><u>Ensuring Your PC Is Prepared: A Guide to Assessing Compatibility with New Graphics Cards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-logitech-keys-to-go-2-an-uncomplicated-yet-effective-upgrade/"><u>Evaluating the Logitech Keys-To-Go 2: An Uncomplicated, Yet Effective Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixing-your-galaxy-device-just-got-more-challenging-what-you-need-to-know/"><u>Fixing Your Galaxy Device Just Got More Challenging: What You Need To Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-g310-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia G310 Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-using-air-tube-earbuds-a-worthy-choice-or-just-hype/"><u>Is Using Air Tube Earbuds a Worthy Choice or Just Hype?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-of-amds-advanced-ryzen-9000-processor-range-shop-the-latest-series-today/"><u>Launch of AMD's Advanced Ryzen 9000 Processor Range – Shop the Latest Series Today!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-and-customize-adjusting-bios-configurations-for-windows-11-systems/"><u>Optimize and Customize: Adjusting BIOS Configurations for Windows 11 Systems</u></a></li>
 </ul></div>
 

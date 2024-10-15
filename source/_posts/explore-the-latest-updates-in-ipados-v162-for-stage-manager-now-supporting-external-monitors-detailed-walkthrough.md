@@ -1,7 +1,7 @@
 ---
 title: Explore the Latest Updates in iPadOS v16.2 for Stage Manager, Now Supporting External Monitors - Detailed Walkthrough
-date: 2024-09-18 11:16:18
-updated: 2024-09-20 12:53:28
+date: 2024-10-11T16:12:10.391Z
+updated: 2024-10-15T16:20:57.673Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/aural-adventures-next-gen-devices-for-2024/"><u>Aural Adventures Next-Gen Devices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964474459-enhance-your-pc-with-corsair-elite-6500-and-elite-nano-atx-motherboards-customizable-wood-or-aluminum-accent-panels-included/"><u>Enhance Your PC with Corsair Elite 6500 & Elite Nano ATX Motherboards: Customizable Wood or Aluminum Accent Panels Included</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-a05-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy A05 Face Lock?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus with a Mask On</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-overclocking-performance-the-role-of-corsairs-6500x-and-2500x-chassis-in-enhanced-cooling-and-personalized-setups/"><u>Maximizing Overclocking Performance: The Role of Corsair’s 6500X and 2500X Chassis in Enhanced Cooling & Personalized Setups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-gear-with-tom-expert-insights-and-advice/"><u>Navigating the World of Computer Gear with Tom - Expert Insights and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-reviews-t17239718718633/"><u>Navigating the World of Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://driver-download.techidaily.com/sandisk-drivers-windows-11-download-and-install-easily/"><u>SanDisk Drivers Windows 11 Download and Install Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-tech-secure-the-phanteks-eclipse-g360a-budget-friendly-pc-case-for-only-59-the-best-pick-in-our-review/"><u>Save Big on Tech: Secure the Phanteks Eclipse G360A Budget-Friendly PC Case for Only $59 – The Best Pick in Our Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-most-popular-stock-photo-meme-and-their-stories/"><u>The Most Popular Stock Photo Meme and Their Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-room-and-pc-checklist-for-vr-for-2024/"><u>The Ultimate Room and PC Checklist for VR for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-8t-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 8T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-expert-guides-on-new-hardware-technology/"><u>Tom's Computing Insights: Expert Guides on New Hardware Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis-t17239718718582/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncover-the-best-10-online-vectors-collections-for-2024/"><u>Uncover the Best 10 Online Vectors Collections for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-revolutionary-hyte-y7k-touchpc-challenging-conventions-with-4k-pc-case-innovation/"><u>Unveiling the Revolutionary Hyte Y7k TouchPC: Challenging Conventions with 4K PC Case Innovation</u></a></li>
+</ul></div>
+

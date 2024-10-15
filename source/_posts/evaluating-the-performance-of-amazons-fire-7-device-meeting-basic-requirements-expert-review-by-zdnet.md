@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Performance of Amazon's Fire ^7 Device: Meeting Basic Requirements? | Expert Review by ZDNET"
-date: 2024-09-18 10:32:14
-updated: 2024-09-20 11:29:50
+date: 2024-10-08T16:40:30.890Z
+updated: 2024-10-15T16:16:58.012Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +167,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/advanced-cinematography-the-leading-lenses-for-4k-production-for-2024/"><u>Advanced Cinematography The Leading Lenses for 4K Production for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chapter-by-chapter-discover-how-chatgpt-transforms-novel-writing-in-9-ways/"><u>Chapter by Chapter: Discover How ChatGPT Transforms Novel Writing in 9 Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flawless-adventures-await-in-updated-apex/"><u>Flawless Adventures Await in Updated Apex</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-open-world-originals-titles-similar-to-gta-v/"><u>In 2024, Open World Originals Titles Similar To GTA V</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-the-economics-youtubes-new-model-for-content-creators-and-viewers/"><u>In 2024, Understanding the Economics YouTube's New Model for Content Creators and Viewers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-the-future-of-portable-computing-with-leaked-images-and-specs-of-samsung-galaxy-book4-edge-snapdragon-ahead-of-microsoft-event/"><u>Inside Look: The Future of Portable Computing with Leaked Images and Specs of Samsung Galaxy Book4 Edge Snapdragon Ahead of Microsoft Event</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-cut-costs-by-300-on-the-2024-asus-rog-zephyrus-g14-experience-vivid-oled-and-powerful-rtx-4060-graphics/"><u>Limited Offer: Cut Costs by $300 on the 2024 Asus ROG Zephyrus G14 - Experience Vivid OLED & Powerful RTX 4060 Graphics!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-with-toms-computing-insights/"><u>Navigating New Hardware with Tom's Computing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-guidance-from-toms-hardware-experts/"><u>Navigating the Tech Landscape: Guidance From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-asus-laptops-with-ryzen-ai-technology-to-debut-july-17-meet-the-rzne-ai-9-hx-370-and-rzne-ai-9-365-in-zenbook-tuf-gaming-rog-zephyrus-and-pr27/"><u>Next Generation Asus Laptops with Ryzen AI Technology to Debut July 17: Meet the RZne AI 9 HX 370 & RZne AI 9 365 in Zenbook, TUF Gaming, ROG Zephyrus and ProArt</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-computing-evolves-starfives-jh7110-soc-board-with-deepcomputing-and-framework-utilizes-advanced-risc-v-architecture/"><u>Next-Gen Computing Evolves: StarFive's JH7110 SoC Board with DeepComputing and Framework Utilizes Advanced RISC-V Architecture</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-teens-online-reflecting-on-instagram-use-with-facebooks-help/"><u>The Future of Teens Online: Reflecting on Instagram Use with Facebook's Help</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mobile-video-editing-made-easy-best-free-special-effects-apps/"><u>Updated 2024 Approved Mobile Video Editing Made Easy Best Free Special Effects Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/3gpmov-movavi/"><u>オンラインでフリー: 3GPビデオをMOVに簡単変換 -Movaviソリューション</u></a></li>
+</ul></div>
+

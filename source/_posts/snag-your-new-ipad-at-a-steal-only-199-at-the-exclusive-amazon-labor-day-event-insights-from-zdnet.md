@@ -1,7 +1,7 @@
 ---
 title: "Snag Your New iPad at a Steal: Only $199 at the Exclusive Amazon Labor Day Event - Insights From ZDNet!"
-date: 2024-09-19 10:36:15
-updated: 2024-09-20 10:48:47
+date: 2024-10-14T16:23:55.493Z
+updated: 2024-10-15T16:36:42.058Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,19 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -143,9 +156,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +185,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-interactive-virtual-warehouse-exploration-for-2024/"><u>[New] Interactive Virtual Warehouse Exploration for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhancing-visual-storytelling-with-picture-in-picture-techniques-on-mac/"><u>[Updated] 2024 Approved Enhancing Visual Storytelling with Picture In Picture Techniques on Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-meme-mayhem-top-twenty-from-reddit-and-twitter/"><u>[Updated] In 2024, Meme Mayhem Top Twenty From Reddit & Twitter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-these-awesome-monitor-deals-of-2024-4k-brilliance-meets-gamers-needs/"><u>Catch These Awesome Monitor Deals of 2024: 4K Brilliance Meets Gamers’ Needs</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-f04-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy F04 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-technology-hub/"><u>Comprehensive Hardware Guides by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-and-tech-advice-with-toms-hardware-analysis/"><u>Discover Top Hardware Picks and Tech Advice with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-of-computer-hardware-from-tomtech-central/"><u>Expert Reviews of Computer Hardware From TomTech Central</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17238628801376/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fabios-video-guide-for-winning-exchange-customer-feedback/"><u>Fabio's Video Guide for Winning Exchange Customer Feedback</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-top-rated-bluetooth-csr-chip-drivers/"><u>Free Download: Top-Rated Bluetooth CSR Chip Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-inside-scoop-on-tech-trends-with-toms-hardware-expertise/"><u>Get the Inside Scoop on Tech Trends with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elite-8s-imagery-merging-digital-software/"><u>In 2024, Elite 8’S Imagery Merging Digital Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-download-youtube-playlist-step-by-step/"><u>In 2024, How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-titans-180hz-p27a2r-monitor-value-meets-performance-in-the-gaming-world/"><u>In-Depth Review of the Titan's 180Hz P27A2R Monitor: Value Meets Performance in the Gaming World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-lightest-portable-display-vaios-visionplus-14-screen-a-featherlight-072-pounds/"><u>Introducing the Lightest Portable Display: Vaio’s Vision+ ([14” Screen - a Featherlight 0.72 Pounds)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-launching-failed-in-star-wars-jedi-fallen-order-gameplay/"><u>Solution Found for 'Launching Failed' In Star Wars Jedi: Fallen Order Gameplay</u></a></li>
+</ul></div>
+

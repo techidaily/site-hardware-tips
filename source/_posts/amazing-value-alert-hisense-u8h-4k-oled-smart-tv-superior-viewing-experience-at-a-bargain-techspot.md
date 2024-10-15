@@ -1,7 +1,7 @@
 ---
 title: "Amazing Value Alert: Hisense U8H 4K OLED Smart TV - Superior Viewing Experience at a Bargain! | TechSpot"
-date: 2024-10-01T18:52:42.616Z
-updated: 2024-10-09T07:13:20.099Z
+date: 2024-10-09T16:04:28.819Z
+updated: 2024-10-15T16:21:42.961Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,19 +92,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-step-by-step-strategies-for-successful-youtube-srt-downloads/"><u>[Updated] 2024 Approved Step-by-Step Strategies for Successful YouTube SRT Downloads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-expert-guide-to-overcoming-instagrams-video-obstacles/"><u>[Updated] Expert Guide to Overcoming Instagram's Video Obstacles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-for-high-quality-resin-3d-printers/"><u>2024'S Top Picks for High-Quality Resin 3D Printers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-ai-9-hx-aster-apples-m3-max-in-speed-a-deep-dive-into-single-core-benchmark-results/"><u>AMD's Ryzen AI 9 HX Aster Apple's M3 Max in Speed - A Deep Dive Into Single-Core Benchmark Results</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-practices-zooming-into-fb-live-excellence/"><u>Best Practices Zooming Into FB Live Excellence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175714264-explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-11-pro-max-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 11 Pro Max for Free</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/masterful-3d-printing-techniques-to-prevent-separation-between-layers/"><u>Masterful 3D Printing: Techniques to Prevent Separation Between Layers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/redefining-thermal-management-noctuas-revolutionary-cooler-design-for-the-grace-hopper-gpu/"><u>Redefining Thermal Management: Noctua's Revolutionary Cooler Design for the Grace Hopper GPU</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/skyrocket-views-with-these-proven-youtube-optimization-strategies/"><u>Skyrocket Views with These Proven YouTube Optimization Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-computer-components-and-gear-reviews/"><u>Tom's Tech Insights: In-Depth Computer Components and Gear Reviews</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/transform-hidden-facebook-videos-with-these-12-must-try-steps-for-2024/"><u>Transform Hidden Facebook Videos with These 12 Must-Try Steps for 2024</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/"><u>Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-techniques-for-free-from-photo-backgrounds/"><u>[Updated] Cutting Edge Techniques for Free-From Photo Backgrounds</u></a></li>
+<li><a href="https://driver-install.techidaily.com/acer-driver-optimization-for-windows-11-system/"><u>Acer Driver Optimization for Windows 11 System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/balancing-quality-and-value-an-in-depth-look-at-the-jbl-extreme-4-bluetooth-speaker/"><u>Balancing Quality and Value: An In-Depth Look at the JBL Extreme 4 Bluetooth Speaker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-promises-and-projections-how-true-testing-surpasses-branded-estimates-in-product-effectiveness/"><u>Beyond Promises and Projections: How True Testing Surpasses Branded Estimates in Product Effectiveness</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/boosting-gaming-engagement-with-high-quality-steam-captures-for-2024/"><u>Boosting Gaming Engagement with High Quality Steam Captures for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/budget-friendly-ball-games-watch-and-edit-on-the-go-for-2024/"><u>Budget-Friendly Ball Games Watch & Edit on the Go for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effective-strategies-for-announcing-your-first-phenomenal-giveaway/"><u>Effective Strategies for Announcing Your First Phenomenal Giveaway</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-upcoming-transformation-7-key-ways-generative-ai-will-reshape-careers/"><u>The Upcoming Transformation: 7 Key Ways Generative AI Will Reshape Careers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nubia Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-true-impact-of-ray-tracing-more-revolutionary-than-expected/"><u>Unveiling the True Impact of Ray Tracing: More Revolutionary Than Expected</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-holding-off-on-a-new-gaming-laptop-might-be-smart-key-reasons-explored/"><u>Why Holding Off on a New Gaming Laptop Might Be Smart – Key Reasons Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-avoid-purchasing-pokemon-microsd-cards-essential-tips/"><u>Why You Should Avoid Purchasing Pokémon MicroSD Cards - Essential Tips</u></a></li>
 </ul></div>
 

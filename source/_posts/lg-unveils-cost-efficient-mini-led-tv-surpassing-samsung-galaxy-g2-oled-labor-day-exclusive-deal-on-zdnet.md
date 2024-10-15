@@ -1,7 +1,7 @@
 ---
 title: LG Unveils Cost-Efficient Mini LED TV Surpassing Samsung Galaxy G2 OLED - Labor Day Exclusive Deal on ZDNet
-date: 2024-10-05T07:16:37.004Z
-updated: 2024-10-09T00:20:27.441Z
+date: 2024-10-11T16:38:35.212Z
+updated: 2024-10-15T16:32:38.684Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ios-insiders-list-top-rated-downloading-apps-for-video-buffs/"><u>[New] 2024 Approved IOS Insider's List Top-Rated Downloading Apps for Video Buffs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-revenue-war-diary-dailymotion-vs-youtube-monetization-strategies/"><u>[New] Revenue War Diary Dailymotion vs YouTube Monetization Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-virtual-reality-systems-for-drones/"><u>[Updated] Ideal Virtual Reality Systems for Drones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-inside-look-at-evasion-the-ultimate-guide-to-fb-block-avoidance/"><u>[Updated] Inside Look at Evasion The Ultimate Guide to FB Block Avoidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/35-bargain-alert-experience-superior-cooling-with-the-best-value-air-conditioner-thermalright-phantom-spirit-cuhre/"><u>$35 Bargain Alert! Experience Superior Cooling with the Best-Value Air Conditioner, Thermalright Phantom Spirit Cuhre</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adata-unveils-innovative-hybrid-water-air-cooling-system-for-enhanced-performance-plus-exciting-news-on-psu-advancements-and-pci-express-50-ssd-launch/"><u>ADATA Unveils Innovative Hybrid Water-Air Cooling System for Enhanced Performance - Plus Exciting News on PSU Advancements & PCI Express 5.0 SSD Launch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-discovering-innovations-with-toms-hardware-hub/"><u>Delving Into Digital: Discovering Innovations with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-of-the-original-prusa-xl-a-gigantic-bed-and-ability-to-handle-five-tools-at-once/"><u>Exploring the Features of the Original Prusa XL - A Gigantic Bed & Ability to Handle Five Tools at Once</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-amusement-ringers-curated-list-of-comical-downloads/"><u>In 2024, Amusement Ringers Curated List of Comical Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-one-click-humor-your-guide-to-the-ifunny-meme-app/"><u>In 2024, One Click Humor Your Guide to the iFunny Meme App</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-reviews-and-guides/"><u>Navigating the World of Electronics with Tom's Hardware Reviews and Guides</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171391975-optimize-arcade-excitement-choose-wide-front-panels/"><u>Optimize Arcade Excitement - Choose Wide Front Panels!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insights-with-toms-technology-blog/"><u>Pioneering Hardware Insights with Tom's Technology Blog</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pros-recommended-slow-motion-camera-apps-ios-and-android-edition-for-2024/"><u>Pro's Recommended Slow Motion Camera Apps IOS & Android Edition for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-for-effective-3d-printer-nozzle-deep-cleaning/"><u>Step-by-Step Tutorial for Effective 3D Printer Nozzle Deep Cleaning</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-accessing-and-leaving-iphone-recovery-modes/"><u>The Ultimate How-To for Accessing and Leaving iPhone Recovery Modes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-game-testers-and-beta-gamers-online/"><u>[New] 2024 Approved Game Testers & Beta Gamers Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglesgateway-leading-online-portals-for-chuckling-calls/"><u>[New] GigglesGateway Leading Online Portals for Chuckling Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-x-master-recorder-software-pc-edition/"><u>[New] X-Master Recorder Software, PC Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-exploring-manycams-latest-video-capture-innovations/"><u>2024 Approved Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-ai-9-hx-370-outperforms-apple-m3-max-battle-of-laptop-chips-unfolds/"><u>AMD Ryzen AI 9 HX 370 Outperforms Apple M3 Max: Battle of Laptop Chips Unfolds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-writing-with-ai-mastering-poetry-creation-using-chatgpt/"><u>Creative Writing with AI: Mastering Poetry Creation Using ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-toms-systems/"><u>Exploring the World of Hardware with Tom's Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a79-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A79 5G Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-cutting-edge-flagship-k1c-from-creality-a-new-era-in-3d-printers/"><u>Introducing the Cutting-Edge Flagship K1C From Creality, a New Era in 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-end-hardware-tips-and-tricks-from-tom/"><u>Navigating High-End Hardware: Tips and Tricks From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-your-setup-cutting-edge-advice-by-toms-hardware-specialists/"><u>Power Your Setup: Cutting-Edge Advice by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-discord-interface-fixing-a-dormant-overlay/"><u>Reclaim Your Discord Interface: Fixing a Dormant Overlay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-single-run-3d-printing-process-produces-operable-prosthetic-hands-paving-the-way-for-personalized-limb-fabrication-at-home/"><u>Revolutionary Single-Run 3D Printing Process Produces Operable Prosthetic Hands, Paving the Way for Personalized Limb Fabrication at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-additive-manufacturing-the-top-review-of-elegoo-saturn-s-cutting-edge-resin-printer/"><u>Revolutionizing Additive Manufacturing: The Top Review of Elegoo Saturn ^'S Cutting-Edge Resin Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-speedy-sovol-sv08-a-tribute-to-vorons-legacy/"><u>Unboxing the Speedy Sovol SV08 - A Tribute to Voron's Legacy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-g24-power-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola G24 Power? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Sustainable Innovation: Overcoming Hurdles in Today's Tech Scene | Insights From ZDNET"
-date: 2024-09-17 12:23:47
-updated: 2024-09-20 11:23:51
+date: 2024-10-12T16:30:06.137Z
+updated: 2024-10-15T16:02:25.524Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ Are we smart enough to deploy technology more effectively to help create a more 
 
 These are the main questions covered, from various angles, in this ZDNET in-depth special report. In the meantime, here's some more context. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is the fate of technological civilizations? 
 
 In his excellent and accessible 2018 book [_Light of the Stars_](https://www.adamfrankscience.com/light-of-the-stars), Adam Frank, a [professor of astrophysics](http://www.pas.rochester.edu/people/faculty/frank%5Fadam/index.html) at the University of Rochester, describes a mathematical model of how theoretical technological civilizations might respond to changing conditions on their planets. For simplicity, the model includes just two kinds of energy resources -- one with high planetary impact (like fossil fuels), the other with low impact (like solar energy). At some point, rising planetary temperature causes a civilization to switch energy resources from high to low impact, and the model explores various outcomes for the planet's capacity to support a population of the energy-consuming species. 
@@ -50,6 +57,19 @@ After running multiple simulations, three kinds of trajectory were observed: 'di
 Of course, we don't know which, if any, of these trajectories Earth and its human population might follow (although high-resolution [next-generation climate models](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-modelling.pdf) based on[exascale computing](https://www.zdnet.com/article/this-giant-supercomputer-dominates-the-rankings-and-catching-it-will-take-a-lot-of-work/) will help), but the warning signs are there, and it would certainly be wise to avoid dicing with the tipping points that can lead to full-blown collapse.
 
 However, global emissions are still too high: the IPCC estimates that 410 gigatonnes of CO2 were emitted between 2010 and 2019, leaving a 'carbon budget' of just 500GtCO2 for the remainder of the 21st century to limit global warming to 1.5°C. As of [November 2022](https://climateactiontracker.org/publications/massive-gas-expansion-risks-overtaking-positive-climate-policies/), global temperatures were about 1.2°C above pre-industrial levels and heading for 2.4°C by 2100 under current 2030 targets.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How does technology contribute to climate change? 
 
@@ -68,6 +88,13 @@ Further efforts will clearly be required to reduce the environmental footprint o
 The think tank's second report concentrated on online video, which, it estimated, generated 60% of world data flows and 300 million tons of CO2 in 2019, or 1% of global emissions. Four main types of online video content were identified: video on demand (e.g. Netflix, Amazon Prime, 34%); pornography (27%), 'Tubes' (e.g. YouTube, Dailymotion, 21%); and others (e.g. video hosted on social networks, 18%). Mitigating the environmental impact of online video would mean reducing the use and size of video files, and regulation of different types of usage, the report argued.
 
 A key component of any sustainable digital transition will be a move to a more [circular economy](https://en.wikipedia.org/wiki/Circular%5Feconomy), where instead of manufacturing, using, disposing of and replacing tech products, device lifetimes are extended via [repair](https://repair.eu/about/), refurbishment and reuse, and component materials re-enter the (ideally closed-loop) process via recycling rather than becoming [e-waste](https://weee-forum.org/who-we-are/) and going to landfill, causing pollution and requiring replacement minerals and metals to be extracted (resulting in further environmental damage). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are companies doing to improve sustainability? 
 
@@ -132,6 +159,13 @@ Image: HP
 
 Then there are smaller vendors such as [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/), which specialise in modular phones and laptops respectively. There's also a growing market for refurbished PCs, with a [2021 valuation](https://www.marketresearch.com/QYResearch-Group-v3531/Global-Refurbished-PC-Research-14240533/) of $9.34 billion, rising to an estimated $14.76bn (6.8% CAGR) by the end of 2027\. We should always be wary of [greenwashing](https://en.wikipedia.org/wiki/Greenwashing), of course, but it does seem as though technology companies are now paying a lot more than lip service to the environment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The road ahead
 
 As the world's population heads towards 10 billion-plus in 2100, the window of opportunity for limiting global warming to 1.5°C, per the 2015 Paris Agreement, is closing rapidly. Technology has contributed significantly to global warming over the past 50-plus years, but tech companies are increasingly signing up for verifiable, science-based emission-reduction targets, and embracing sustainable and recycled materials, designing more modular and repairable products, and pledging to minimize e-waste. Innovation in areas like carbon capture, renewable energy, battery technology, the Internet of Things, and remote sensing will also have a big part to play in climate mitigation going forward.
@@ -161,11 +195,25 @@ News on climate change can seem relentlessly bad, but there are grounds for hope
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/5-uphere-m201-essential-nvme-ssd-heatsink-performance-review-reliable-thermal-management-on-a-budget/"><u>$5 UpHere M201 Essential NVMe SSD Heatsink Performance Review - Reliable Thermal Management on a Budget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-reveals-intriguing-zen-5-insights-the-shift-to-a-compact-core-reduces-size-by-25-introducing-revolutionary-soc-and-chip-design-with-twin-ccxs/"><u>AMD Reveals Intriguing Zen 5 Insights: The Shift to a Compact Core Reduces Size by 25%, Introducing Revolutionary SoC & Chip Design with Twin CCXs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-socket-and-chipset-for-your-rig-elite-motherboards-in-202/"><u>Choosing the Perfect Socket and Chipset for Your Rig: Elite Motherboards in 202</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-anthrop-through-the-new-claude-plan-equips-companies-for-success-by-harnessing-large-scale-ai-superpowers-techzine/"><u>How Anthrop, Through the New Claude Plan, Equips Companies for Success by Harnessing Large-Scale AI Superpowers | TechZine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-image-perfection-the-premier-iphone-object-removal-apps/"><u>In 2024, Professional Image Perfection The Premier iPhone Object Removal Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-network-problems-a-step-by-step-solution-to-minecraft-world-connection-failures/"><u>Overcoming Network Problems: A Step-by-Step Solution to Minecraft World Connection Failures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/polishing-your-production-perfect-for-instagram-viewers/"><u>Polishing Your Production Perfect for Instagram Viewers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pros-and-cons-of-amazon-fire-vs-samsung-which-fits-you-perfectly/"><u>Pros & Cons of Amazon Fire Vs. Samsung - Which Fits You Perfectly?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simplified-file-cleanup-how-to-perform-a-force-delete-on-folders-in-windows-n-via-revouninstaller-a-comprehensive-walkthrough/"><u>Simplified File Cleanup: How to Perform a Force Delete on Folders in Windows N via RevoUninstaller - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xpgs-advanced-dual-fan-cooler-with-built-in-pump-and-loop-ideal-for-high-performance-up-to-280w-processors/"><u>XPG's Advanced Dual-Fan Cooler with Built-In Pump and Loop - Ideal for High Performance up to 280W Processors</u></a></li>
+</ul></div>
+

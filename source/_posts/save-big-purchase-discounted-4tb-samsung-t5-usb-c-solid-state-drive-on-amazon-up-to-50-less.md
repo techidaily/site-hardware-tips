@@ -1,7 +1,7 @@
 ---
 title: Save Big - Purchase Discounted 4TB Samsung T5 USB-C Solid State Drive on Amazon, Up to 50%% Less!
-date: 2024-09-19 21:21:40
-updated: 2024-09-20 11:18:50
+date: 2024-10-09T16:10:58.013Z
+updated: 2024-10-15T16:31:12.901Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-a-course-for-wealth-ajeys-youtube-income-blueprint/"><u>[New] In 2024, Charting a Course for Wealth Ajey's YouTube Income Blueprint</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-eliminate-your-streaming-darkness-on-youtube/"><u>[New] In 2024, Eliminate Your Streaming Darkness on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treaming-supremacy-the-peak-of-youtuber-popularity-for-2024/"><u>[New] Streaming Supremacy The Peak of YouTuber Popularity for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>[Updated] In 2024, Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-making-the-most-out-of-video-calls-combining-skype-and-zoom/"><u>2024 Approved Making the Most Out of Video Calls Combining Skype & Zoom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-choices-in-ultrawide-gaming-technology-what-to-buy-in/"><u>Elite Choices in Ultrawide Gaming Technology - What to Buy In</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-gaming-on-the-new-cooler-master-super-wide-4k-dual-mini-led-monitor-57-inches-of-immersion/"><u>Experience Next-Level Gaming on the New Cooler Master Super Wide, 4K Dual Mini LED Monitor - 57 Inches of Immersion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-clarity-on-asrocks-premium-32-inch-480-hz-oled-screen-optimized-for-your-internet-setup/"><u>Experience Unparalleled Clarity on ASROCK's Premium 32-Inch 480 Hz OLED Screen - Optimized for Your Internet Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-gadgets-and-pc-hardware-from-toms-forum/"><u>Expert Advice on Gadgets and PC Hardware From Tom's Forum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eyoyo-em1n05-the-ultimate-compact-and-cost-effective-choice-in-portable-105-display-tech/"><u>Eyoyo EM1n05: The Ultimate Compact & Cost-Effective Choice in Portable 10.5” Display Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-like-never-before-tcl-revolutionizes-the-market-with-a-high-refresh-4k-gaming-display/"><u>Game Like Never Before: TCL Revolutionizes the Market with a High-Refresh 4K Gaming Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-latest-24-inch-dell-freesync-monitor-now-for-less-than-100/"><u>Get Your Hands on the Latest 24 Inch Dell FreeSync Monitor Now for Less Than $100</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-syncing-tweeting-videos-onto-snapchat-channels/"><u>In 2024, Direct Syncing Tweeting Videos Onto Snapchat Channels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-aoc-agon-pro-ag45/"><u>Introducing the AOC Agon Pro AG45</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revolutionary-recording-methods-for-windows-10-games-for-2024/"><u>Revolutionary Recording Methods for Windows 10 Games for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+</ul></div>
+

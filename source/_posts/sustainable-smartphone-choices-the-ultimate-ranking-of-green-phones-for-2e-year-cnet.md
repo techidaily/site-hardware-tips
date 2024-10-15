@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Smartphone Choices: The Ultimate Ranking of Green Phones for 2E Year | CNET"
-date: 2024-09-19 15:33:43
-updated: 2024-09-20 11:54:50
+date: 2024-10-13T16:43:23.936Z
+updated: 2024-10-15T16:40:33.001Z
 tags:
   - sustainability
 categories:
@@ -64,6 +64,13 @@ Pros
 Cons 
 * The phone itself could be made with a greater percentage of recycled elements
 * Fairly expensive at $800-$1400
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Samsung Galaxy S22 series
 
@@ -149,6 +156,13 @@ Cons
 * No wireless charging
 * Disappointing software upgrade policy -- phone only comes with Android 11
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Motorola Edge
 
 #### Best battery life in a green phone
@@ -175,6 +189,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which eco-friendly phone is right for you?
 
 If you're loyal to a smartphone brand, the Apple and Samsung phones on this list are great options that don't require you to give up the smartphone experience you are used to. The Fairphone 4 is an excellent eco-conscious option with 5G speeds if you live in Europe. 
@@ -188,6 +209,13 @@ And, if you want a cheaper phone that will last at least five years, the Teracub
 | Fairphone 4                | A phone that is certified sustainable                                        |
 | Teracube 2E                | A green phone that lasts longer than the average two- to three-year lifespan |
 | Motorola Edge              | A green phone that has up to two-days of battery life on a full charge       |
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these eco-friendly phones?
 
@@ -232,11 +260,31 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-top-faces-essential-fb-videos/"><u>[Updated] 2024 Approved Mastering Top Faces Essential FB Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-text-tactics-best-practices-guide/"><u>[Updated] Text Tactics Best Practices Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-xps-13-drivers-download-and-update-easily/"><u>Dell XPS 13 Drivers Download & Update Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guarded-logitech-cam-driver-for-windows/"><u>Guarded Logitech Cam Driver for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-tech-hub-the-definitive-guide/"><u>Inside Tom's Tech Hub - The Definitive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-with-toms-technology-digest/"><u>Pioneering Hardware Reviews with Tom's Technology Digest</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-6-web-spaces-for-corporate-social-connections/"><u>Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125242580-professional-gamers-and-productivity-seekers-discover-the-5-finest-portable-monitors/"><u>Professional Gamers and Productivity Seekers, Discover the 5 Finest Portable Monitors !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125168419-qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-key-to-viral-instagram-posts-for-2024/"><u>The Key to Viral Instagram Posts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-toms-hardware-innovations/"><u>The Ultimate Guide to Tom's Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-best-value-gaming-monitors-for-2cu24-from-economical-choices-to-elite-curved-panels-and-synchronized-graphics/"><u>The Ultimate List of Best Value Gaming Monitors for 2Cu24: From Economical Choices to Elite Curved Panels and Synchronized Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-tutorial-on-operating-orca-slicer-software/"><u>Ultimate Tutorial on Operating ORCA-Slicer Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-encrypted-mail-services-for-privacy-conscious-users/"><u>Unveiling the Best Encrypted Mail Services for Privacy-Conscious Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-innovations-with-tom-a-comprehensive-hardware-review/"><u>Unveiling the Latest Innovations with Tom - A Comprehensive Hardware Review</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y77t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y77t Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

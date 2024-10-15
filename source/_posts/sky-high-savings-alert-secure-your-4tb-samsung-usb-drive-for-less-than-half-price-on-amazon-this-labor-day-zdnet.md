@@ -1,7 +1,7 @@
 ---
 title: Sky-High Savings Alert! Secure Your 4TB Samsung USB Drive for Less Than Half Price on Amazon This Labor Day | ZDNET
-date: 2024-09-18 23:53:44
-updated: 2024-09-20 12:56:17
+date: 2024-10-13T16:17:22.171Z
+updated: 2024-10-15T16:41:01.499Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +146,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-steps-to-sign-in-with-google-meet-laptop-and-mobile/"><u>[New] In 2024, Steps to Sign-In with Google Meet (Laptop & Mobile)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862735104-buying-a-new-laptop-choose-from-the-latest-snapdragon-elite-x-series-with-integrated-microsoft-copilot-now-available/"><u>Buying a New Laptop? Choose From the Latest Snapdragon Elite X Series with Integrated Microsoft Copilot Now Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/computex-2024-unveiled-asus-rog-ally-and-qualcomm-powered-laptops-featured-absence-of-latest-gpus-noted/"><u>Computex 2024 Unveiled: Asus ROG Ally & Qualcomm-Powered Laptops Featured, Absence of Latest GPUs Noted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-high-end-notebooks-and-top-tier-laptops-for-tech-savvy-users-in-202/"><u>Discover the Best High-End Notebooks and Top-Tier Laptops for Tech Savvy Users in 202</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-m-audio-fast-track-driver-for-windows-107881-free-download-now/"><u>Get Your M-Audio Fast Track Driver for Windows 10/7/8/8.1 - Free Download Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-cost-free-text-animation-techniques/"><u>In 2024, Leveraging Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-reno-9a-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo Reno 9A Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009669068-phasmophobia-loading-issue-solved-no-more-stuck-at-90-update/"><u>Phasmophobia Loading Issue Solved! No More Stuck at 90% Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-solutions-spotlight-top-tier-finders-of-car-and-home-keys/"><u>Smart Solutions Spotlight: Top-Tier Finders of Car and Home Keys</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-operations-new-printing-toolkit-for-windows-7-dell/"><u>Smooth Operations: New Printing Toolkit for Windows 7 Dell</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-unmatched-speed-and-lower-energy-consumption-with-lenovos-game-changing-thinkpad-p1-gen-e-the-first-to-incorporate-advanced-lpcmam2-ram-technology.m20/"><u>Unleash Unmatched Speed and Lower Energy Consumption with Lenovo's Game-Changing ThinkPad P1 Gen E – The First to Incorporate Advanced Lpcmam2 RAM Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-advanced-gadgets-at-toms-computer-review/"><u>Unlock the Secrets of Advanced Gadgets at Tom’s Computer Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-electronics-insider-reviews-by-toms-hardware-professionals/"><u>Unveiling Top-Tier Electronics: Insider Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-reveal-next-generation-dell-xps-and-snapdragon-x-inspiron-series-a-glimpse-through-image-leaks/"><u>Upcoming Reveal: Next-Generation Dell XPS & Snapdragon X Inspiron Series - A Glimpse Through Image Leaks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-at-an-unbeatable-price-just-for-students-and-teachers/"><u>Updated 2024 Approved Final Cut Pro at an Unbeatable Price Just for Students & Teachers</u></a></li>
+</ul></div>
+

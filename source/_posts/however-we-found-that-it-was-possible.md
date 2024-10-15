@@ -1,7 +1,7 @@
 ---
 title: However, We Found that It Was Possible,
-date: 2024-10-05T21:20:39.109Z
-updated: 2024-10-08T17:13:40.066Z
+date: 2024-10-12T16:19:31.203Z
+updated: 2024-10-15T16:25:27.115Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,14 +99,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-making-funny-photos-no-fees-involved/"><u>[New] Making Funny Photos No Fees Involved</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-screen-recorder-roundup-the-premium-selection-for-your-android-device/"><u>[Updated] 2024 Approved Free Screen Recorder Roundup The Premium Selection for Your Android Device</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-x-flip-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo X Flip Activity | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-closer-look-at-pwm-and-dc-fans-determining-the-ideal-choice-for-efficient-home-computer-cooling/"><u>A Closer Look at PWM and DC Fans - Determining the Ideal Choice for Efficient Home Computer Cooling</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enhancing-home-safety-with-ring-doorbell-cameras-product-review-and-insights/"><u>Enhancing Home Safety with Ring Doorbell Cameras - Product Review and Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-resin-3d-printer-choices-our-comprehensive-guide/"><u>Leading Resin 3D Printer Choices : Our Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-electronics-and-gadgets/"><u>Tom's Tech Hub: Expert Insights on Electronics and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175675593-transform-your-pc-construction-routine-save-time-with-corsairs-easy-one-turn-assembly-screw/"><u>Transform Your PC Construction Routine: Save Time with Corsair's Easy One-Turn Assembly Screw</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-editors-elite-gadgets-best-machines-for-screen-magic/"><u>[New] 2024 Approved Editor’s Elite Gadgets Best Machines for Screen Magic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet/"><u>[New] In 2024, Perfect Peace Mastering the Art of Muting Individuals on GoMeet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-zoom-simplified-your-guide-to-webinar-basics-for-2024/"><u>[New] Zoom Simplified Your Guide to Webinar Basics for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-guide-to-acquiring-free-picture-frame-videos-for-2024/"><u>[Updated] Guide to Acquiring Free Picture Frame Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eye-catching-coverage-laptop-wallpapers-online-for-2024/"><u>Eye-Catching Coverage Laptop Wallpapers Online for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-network-issues-with-this-simple-guide-flushing-dns-cache-on-mac-computers/"><u>Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-v30-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo V30 to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-era-of-intel-graphics-making-them-a-priority-in-tech-discussions/"><u>The Era of Intel Graphics: Making Them a Priority in Tech Discussions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-visionaries-of-video-workshop/"><u>The Visionaries of Video Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-electronic-savings-spots-grab-amazon-fire-tv-anker-energy-packs-and-dji-drones-for-less/"><u>Top Electronic Savings Spots: Grab Amazon Fire TV, Anker Energy Packs & DJI Drones for Less!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-designing-and-maintaining-a-spotless-desktop-pc-system/"><u>Top Strategies for Designing and Maintaining a Spotless Desktop PC System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-traditional-window-ac-into-a-smart-device-with-these-innovative-devices/"><u>Transform Your Traditional Window AC Into a Smart Device with These Innovative Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-computational-prowess-with-the-telium-colossus-a-dual-gpu-linux-marvel/"><u>Unleashing Computational Prowess with The Telium Colossus – A Dual-GPU Linux Marvel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-made-easy-checking-if-your-system-supports-the-latest-gpu-upgrade/"><u>Upgrading Made Easy: Checking if Your System Supports the Latest GPU Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-outsourcing-data-with-an-external-hard-drive-still-matters-beyond-cloud-solutions/"><u>Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions</u></a></li>
 </ul></div>
 

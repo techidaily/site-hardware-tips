@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unveils the Eco-Friendly Galaxy S23: A New Era of Sustainability in Smartphones | ZDNet"
-date: 2024-09-18 17:38:26
-updated: 2024-09-20 11:33:15
+date: 2024-10-10T16:03:33.268Z
+updated: 2024-10-15T16:35:26.133Z
 tags:
   - sustainability
 categories:
@@ -63,11 +63,32 @@ Samsung's Head of North America Corporate Sustainability, Mark Newton, previousl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-vr-equipment-for-drone-flight/"><u>[New] Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-harmonizing-your-android-device-a-guide-to-personalized-ringtone-and-sound-configurations/"><u>[Updated] 2024 Approved Harmonizing Your Android Device A Guide to Personalized Ringtone and Sound Configurations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>[Updated] Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-techniques-to-write-persuasive-videographic-dialogues/"><u>[Updated] In 2024, Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-easy-guide-to-exquisite-collage-artistry/"><u>[Updated] Quick & Easy Guide to Exquisite Collage Artistry</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-new-geforce-rtx-3080-ti-windows-support-package-win-1087/"><u>Get the New GeForce RTX 3080 Ti Windows Support Package (Win 10/8/7)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-heat-therapy-with-grizzly-discover-the-solid-to-liquid-transitioning-pad-effective-from-45c-upwards/"><u>Revolutionize Heat Therapy with Grizzly – Discover the Solid to Liquid Transitioning Pad Effective From 45°C Upwards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-electronics-and-gadgets-insights-by-tom/"><u>The Ultimate Guide to Electronics & Gadgets - Insights by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-gadget-comparisons/"><u>Tom's Tech Review: In-Depth Analysis & Gadget Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights Into the Latest Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

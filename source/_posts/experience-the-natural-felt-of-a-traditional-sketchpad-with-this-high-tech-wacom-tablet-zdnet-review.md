@@ -1,7 +1,7 @@
 ---
 title: Experience the Natural Felt of a Traditional Sketchpad with This High-Tech Wacom Tablet - ZDNet Review
-date: 2024-09-17 11:29:30
-updated: 2024-09-20 12:22:24
+date: 2024-10-12T16:28:24.736Z
+updated: 2024-10-15T16:06:46.402Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -93,6 +100,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +131,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +153,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-find-excellence-in-hd-on-android-our-top-10-player-guide/"><u>[New] Find Excellence in HD on Android Our Top 10 Player Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>2024 Approved PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-10-hd-recording-apps-for-your-computer-display/"><u>2024 Approved Top 10 HD Recording Apps for Your Computer Display</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-analysis-best-32-bit-and-64-bit-media-player-software-compared-on-windows-10/"><u>Comprehensive Analysis: Best 32-Bit & 64-Bit Media Player Software Compared on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/feature-by-feature-comparison-who-wins-in-google-bard-vs-bing-chat-showdown/"><u>Feature-by-Feature Comparison: Who Wins in Google Bard Vs. Bing Chat Showdown?</u></a></li>
+<li><a href="https://facebook.techidaily.com/five-more-ways-to-step-away-from-facebooks-clutches/"><u>Five More Ways to Step Away From Facebook's Clutches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x7b-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X7b FRP Locks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-a14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A14 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovations-in-computing-a-tour-by-tom/"><u>Innovations in Computing - A Tour by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-get-the-24-inch-asus-tuf-monitor-with-165hz-at-a-steal-only-99-on-newegg/"><u>Limited Time Offer: Get the 24-Inch Asus TUF Monitor with 165Hz at a Steal - Only $99 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-electronics-breakdown-toms-engineering-guide/"><u>Masterful Electronics Breakdown - Tom's Engineering Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-the-toms-hardware-way/"><u>Mastering Hardware Knowledge - The Tom's Hardware Way</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-build-toms-authoritative-hardware-wisdom/"><u>Mastering the Build: Tom's Authoritative Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-future-of-display-technology-top-picks-for-high-performance-monitors-2024-edition/"><u>Navigating the Future of Display Technology: Top Picks for High-Performance Monitors, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-gamers-choice-top-ultra-wide-gaming-monitor-reviews/"><u>Next-Gen Gamer's Choice: Top Ultra-Wide Gaming Monitor Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-experience-in-depth-review-of-the-dough-spectrum-27-oled-monitor-a-blend-of-precision-and-luxury/"><u>Next-Level Gaming Experience: In-Depth Review of the Dough Spectrum 27 OLED Monitor - A Blend of Precision and Luxury</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-picsart-analysis-and-tutorial/"><u>Ultimate PicsArt Analysis & Tutorial</u></a></li>
+</ul></div>
+

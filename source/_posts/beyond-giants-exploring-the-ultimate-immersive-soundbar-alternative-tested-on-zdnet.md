@@ -1,7 +1,7 @@
 ---
 title: "Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!"
-date: 2024-10-02T02:22:28.932Z
-updated: 2024-10-08T18:37:36.128Z
+date: 2024-10-09T16:32:33.767Z
+updated: 2024-10-15T16:22:19.621Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +105,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-explore-mp4-recording-tools-today-in-2024/"><u>[Updated] Explore MP4 Recording Tools Today, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-harnessing-gs-power-in-kinemaster/"><u>[Updated] Unleash Creativity Harnessing GS Power in KineMaster</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-capturing-breathtaking-photos-with-iphone-hdr/"><u>2024 Approved Capturing Breathtaking Photos with iPhone HDR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-typography-workflow-in-adobe-affects/"><u>2024 Approved Optimize Your Typography Workflow in Adobe Affects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-noise-free-performance-with-adaptable-pc-enclosures-and-shining-ventilation-fans-from-be-quiet/"><u>Enhance Noise-Free Performance with Adaptable PC Enclosures & Shining Ventilation Fans From Be Quiet!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ensuring-effective-sound-during-video-conferencing-with-zoom-on-desktop-computers/"><u>Ensuring Effective Sound During Video Conferencing with Zoom on Desktop Computers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-toms-gadget-insights/"><u>Inside the World of Tom’s Gadget Insights</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies-for-2024/"><u>Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pro-gear-evaluation-with-tomgadgetguide/"><u>Pro Gear Evaluation with TomGadgetGuide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722006506907-ready-for-a-conversational-ai-on-your-pc-but-cant-find-it-our-open-source-solution-is-here/"><u>Ready for a Conversational AI on Your PC but Can't Find It? Our Open Source Solution Is Here</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-creating-lithophane-photo-paper-through-3d-printing/"><u>Step-by-Step Guide: Mastering the Art of Creating Lithophane Photo Paper Through 3D Printing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-eco-friendly-artifacts-authentically-textured-and-smelling-wood-objects-created-with-3d-printers-and-sawdust-ink/"><u>The Future of Eco-Friendly Artifacts: Authentically Textured and Smelling Wood Objects Created with 3D Printers and Sawdust Ink</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-your-computing-questions-toms-hardware/"><u>The Ultimate Resource for Your Computing Questions - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-gadget-wisdom-your-ultimate-resource-for-hardware-news/"><u>Tom's Gadget Wisdom: Your Ultimate Resource for Hardware News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-4k-resolution-monitors-for-gamers-in-2e24-features-144hz-refresh-rate-and-curve-screens/"><u>Top 5 Premium 4K Resolution Monitors for Gamers in 2E24: Features 144Hz Refresh Rate & Curve Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-space-with-a-budget-friendly-animated-3d-printer-inspired-wireless-charger-by-bambu-labs/"><u>Transform Your Space with a Budget-Friendly Animated, 3D Printer-Inspired Wireless Charger by Bambu Labs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-rated-asmr-mic-picks-for-quality-sound/"><u>[New] In 2024, Top-Rated ASMR Mic Picks for Quality Sound</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[New] The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[Updated] In 2024, Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/find-freebies-in-your-area-oodles-local-listings-unveiled/"><u>Find Freebies in Your Area: Oodle’s Local Listings Unveiled!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-jotunheim-raid-the-war-of-the-worlds/"><u>In 2024, Jotunheim Raid The War of the Worlds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insights-into-geometric-future-eskimo-jr-outstanding-style-and-soft-noise-emissions-with-fair-usability/"><u>Insights Into Geometric Future Eskimo Jr.: Outstanding Style & Soft Noise Emissions with Fair Usability</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-selective-edits-blurring-images-in-ps-for-2024/"><u>Mastering Selective Edits Blurring Images in PS for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-through-in-depth-reviews-by-toms-specialists/"><u>Mastering Tech Essentials Through In-Depth Reviews by Tom's Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-with-the-user-friendly-x-apply-thermal-paste-applicator-set-releasing-shortly/"><u>Next-Level Cooling with the User-Friendly X-Apply Thermal Paste Applicator Set Releasing Shortly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-active-directory-related-printer-crashes-on-w11/"><u>Strategies for Resolving Active Directory-Related Printer Crashes on W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-trickery-head-on-proven-tips-for-removing-misleading-google-chrome-error-notifications/"><u>Tackling Trickery Head-On: Proven Tips for Removing Misleading Google Chrome Error Notifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-ranking-of-best-in-class-microsd-cards-compatible-with-raspberry-pi-2024-edition/"><u>The Definitive Ranking of Best-in-Class MicroSD Cards Compatible with Raspberry Pi – 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-fastest-3d-printers-unveiled-top-performers-based-on-print-time-analysis/"><u>The Fastest 3D Printers Unveiled – Top Performers Based on Print Time Analysis</u></a></li>
+<li><a href="https://discover-community.techidaily.com/transformar-archivos-swf-gratuitamente-a-formato-avi-en-linea-con-movavi/"><u>Transformar Archivos SWF Gratuitamente a Formato AVI en Línea Con Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-inside-tips-from-toms-hardware-experts/"><u>Unlocking Performance: Inside Tips From Tom’s Hardware Experts</u></a></li>
 </ul></div>
 

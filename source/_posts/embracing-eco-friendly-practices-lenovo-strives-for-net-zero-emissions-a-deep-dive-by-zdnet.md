@@ -1,7 +1,7 @@
 ---
 title: Embracing Eco-Friendly Practices, Lenovo Strives for Net Zero Emissions - A Deep Dive by ZDNet
-date: 2024-09-17 10:54:52
-updated: 2024-09-20 10:22:18
+date: 2024-10-14T16:15:36.880Z
+updated: 2024-10-15T16:38:00.166Z
 tags:
   - sustainability
 categories:
@@ -112,11 +112,34 @@ I think so, and I'm super-proud that we're the first PC and smartphone manufactu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zero-dollars-for-zero-limits-reviewing-apowersoft-recorder/"><u>[New] In 2024, Zero Dollars for Zero Limits - Reviewing Apowersoft Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>[New] The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-diy-alerts-for-instagram-a-step-by-step-sound-guide/"><u>[Updated] DIY Alerts for Instagram A Step-by-Step Sound Guide</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-to-gif/"><u>Aiseesoft Video to GIF Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connecting-to-shared-resources-in-win11-with-precision/"><u>Connecting to Shared Resources in Win11 with Precision</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-innovation-bamboo-lab-unveils-a1-the-speedster-bed-slinger-on-dec-14th/"><u>Get Ready for Innovation - Bamboo Lab Unveils A1, The Speedster Bed Slinger on Dec. 14Th</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guide-facile-comment-reinstaller-windows-efficacement-sur-un-autre-hdd-avec-3-methodes-simples/"><u>Guide Facile: Comment Réinstaller Windows Efficacement Sur Un Autre HDD Avec 3 Méthodes Simples</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-maintain-and-declogs-your-3d-printing-equipment-effectively/"><u>How to Maintain and Declogs Your 3D Printing Equipment Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-toms-hardware-insights/"><u>Navigating Tech with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-financial-waves-amds-diverging-fortunes-with-gaming-revenues-down-59-data-center-sales-up-115/"><u>Navigating the Financial Waves: AMD's Diverging Fortunes with Gaming Revenues Down 59%, Data Center Sales Up 115%</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-drives-and-ssd-encasements/"><u>Top Rated External HDD Drives & SSD Encasements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-elegoo-neptone-x4-pro-only-284-awaits-you/"><u>Unbeatable Price: Elegoo Neptone X4 Pro Only $284 Awaits You!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

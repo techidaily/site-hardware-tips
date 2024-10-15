@@ -1,7 +1,7 @@
 ---
 title: Unlock Exclusive Deals - Get Any Bestselling Weber Electric Grill for Just $50 Less! Shop Now on ZDNET.
-date: 2024-09-17 15:19:48
-updated: 2024-09-20 12:51:43
+date: 2024-10-12T16:42:57.976Z
+updated: 2024-10-15T16:03:03.625Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,29 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-videography-with-top-instagram-techniques/"><u>[Updated] 2024 Approved Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-screen-recorder-potential-beyond-cyberlink/"><u>[Updated] 2024 Approved Unlocking Screen Recorder Potential Beyond Cyberlink</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-hp-deskjet-ink-advantage-3520-printer-drivers/"><u>Download the HP DeskJet Ink Advantage 3520 Printer Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>Glowing with HD Does It Serve the Scope of HDR Well?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pinpointing-your-individual-playlist-hub-on-youtube/"><u>In 2024, Pinpointing Your Individual Playlist Hub on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-comparisons-by-tom-for-the-tech-enthusiast/"><u>In-Depth Reviews & Comparisons by Tom - For the Tech Enthusiast</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-xs-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone XS Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mingda-magician-pro2-assessment-enormous-and-silent-print-output/"><u>Mingda Magician Pro2 Assessment: Enormous and Silent Print Output</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175691181-noctuas-premium-next-gen-flagship-cooler-launches-experience-the-power-of-the-nh-d15-g2-for-150/"><u>Noctua's Premium Next-Gen Flagship Cooler Launches - Experience the Power of the NH-D15 G2 for $150</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-and-affordability-meet-quality-in-our-comprehensive-review-of-the-creality-ender-3-v3-ke-printer/"><u>Speed and Affordability Meet Quality in Our Comprehensive Review of the Creality Ender 3 v3 KE Printer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/streamlining-windows-10-touchpad-compatibility-elan/"><u>Streamlining Windows 10 Touchpad Compatibility, Elan</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-future-of-conversion-optimization-the-cookiebot-advantage/"><u>The Future of Conversion Optimization: The Cookiebot Advantage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-gadget-enthusiasts-by-toms-hardware/"><u>The Ultimate Resource for Gadget Enthusiasts by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-on-toms-computing-and-gadgets/"><u>The Ultimate Resource on Tom's Computing and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undersea-creations-the-innovative-3d-printer-running-in-a-water-tank/"><u>Undersea Creations: The Innovative 3D Printer Running in a Water Tank</u></a></li>
+</ul></div>
+

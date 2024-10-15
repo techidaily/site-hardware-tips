@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis and Rating for Xiaomi's Affordable Book S: A Game-Changing Windows on ARM Convertible Laptop"
-date: 2024-09-17 15:51:30
-updated: 2024-09-20 11:31:36
+date: 2024-10-13T16:41:46.356Z
+updated: 2024-10-15T16:03:50.866Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-the-basics-of-asmr-video-content/"><u>[New] Mastering the Basics of ASMR Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-workflow-ultimate-convertor-list-1-8/"><u>[New] Streamline Your Workflow Ultimate Convertor List #1-8</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-vocal-variations-for-stories-and-reels-an-instagram-expertise-for-2024/"><u>[New] Vocal Variations for Stories and Reels – An Instagram Expertise for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-14-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 14 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-launches-mass-produced-oled-screen-a-triumph-over-competitors-spotted-in-new-dell-xps-13-models/"><u>LG Launches Mass-Produced OLED Screen: A Triumph Over Competitors, Spotted in New Dell XPS 13 Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-sale-snag-a-stunning-49-samsung-oled-ultrawide-display-at-an-unbeatable-price/"><u>Massive Sale: Snag a Stunning 49 Samsung OLED UltraWide Display at an Unbeatable Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-and-gizmos-with-toms-digital-warehouse/"><u>Navigating Gadgets and Gizmos with Tom's Digital Warehouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-innovations-top-picks-and-analyses-by-toms-hardware-team/"><u>Navigating Tech Innovations: Top Picks and Analyses by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-gadgets-and-pc-parts-on-toms-hardware-guide/"><u>Navigating the Latest Gadgets and PC Parts on Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-top-picks-in-monitors-for-enhanced-experience-with-ps5-and-xbox-series-sx/"><u>Navigating the Market: Top Picks in Monitors for Enhanced Experience with PS5 & Xbox Series S/X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-and-update-glitches-on-steam-platforms/"><u>Overcoming Installation and Update Glitches on Steam Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/proven-guidelines-for-buying-capture-equipment/"><u>Proven Guidelines for Buying Capture Equipment</u></a></li>
+</ul></div>
+

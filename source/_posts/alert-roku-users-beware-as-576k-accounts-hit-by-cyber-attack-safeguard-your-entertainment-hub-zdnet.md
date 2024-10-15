@@ -1,7 +1,7 @@
 ---
 title: "Alert: Roku Users Beware as 576K Accounts Hit by Cyber Attack - Safeguard Your Entertainment Hub | ZDNET"
-date: 2024-10-03T20:20:42.396Z
-updated: 2024-10-09T00:22:21.143Z
+date: 2024-10-09T16:11:14.254Z
+updated: 2024-10-15T16:44:26.405Z
 tags:
   - tvs
 categories:
@@ -55,29 +55,26 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-in-depth-guide-to-video-money-making-across-platforms/"><u>[New] 2024 Approved In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-editing-excellence-incorporating-timestamps-and-labels/"><u>[New] Editing Excellence Incorporating Timestamps and Labels</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-inauthentic-affection-impacts-your-feeds-credibility-for-2024/"><u>[New] How Inauthentic Affection Impacts Your Feed's Credibility for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>[New] Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-rapid-restoration-of-reddit-archives-removed-for-2024/"><u>[New] Rapid Restoration of Reddit Archives Removed for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-start-guide-to-editing-with-snapseed-for-2024/"><u>[Updated] Quick Start Guide to Editing with Snapseed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-os-public-ip-command-prompt-tricks/"><u>Accessing OS Public IP: Command Prompt Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-newest-cpu-contenders-best-places-to-shop-for-the-ryzen-7-9700x-and-9600x/"><u>AMD's Newest CPU Contenders: Best Places to Shop for the Ryzen 7 9700X & 9600X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-240-all-in-one-liquid-cooler-stellar-cooling-performance-with-awkward-software-design/"><u>Comprehensive Analysis of the Valkyrie Syn 240 All-in-One Liquid Cooler: Stellar Cooling Performance with Awkward Software Design</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-improved-functionality-of-samsungs-latest-galaxy-watch-active-2-model/"><u>Exploring the Improved Functionality of Samsung's Latest Galaxy Watch Active 2 Model</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-google-pixelbook-go-analysis-exceptional-performance-meets-costly-tag/"><u>In-Depth Google Pixelbook Go Analysis: Exceptional Performance Meets Costly Tag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-innovations-on-toms-digital-workshop/"><u>Navigating New Hardware Innovations on Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-pc-parts-with-toms-guide-to-hardware/"><u>Navigating PC Parts with Tom's Guide to Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-performance-how-ryzen-ai-9-hx-370s-zen-5-chip-defeats-intel-and-outperforms-competitors-like-core-ultra-7-and-ryzen-9/"><u>Next-Level Performance: How Ryzen AI 9 HX 370'S Zen 5 Chip Defeats Intel and Outperforms Competitors Like Core Ultra 7 and Ryzen 9</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tier-electronics-at-toms-review-sphere/"><u>The Ultimate Guide to Top-Tier Electronics at Tom's Review Sphere</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-gadget-reviews-in-depth-analysis-of-the-latest-tech-hardware/"><u>Tom’s Gadget Reviews: In-Depth Analysis of the Latest Tech Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-must-get-external-hard-drives-for-xbox-enthusiasts/"><u>[New] Must-Get External Hard Drives for Xbox Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-twitter-video-series-breakdown-area-format-duration-for-2024/"><u>[Updated] Twitter Video Series Breakdown Area, Format, Duration for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>2024 Approved Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>2024 Approved Smarter Storage, Simpler Style Top 40 Mobile Video Reducers on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-methods-for-chatgpt-data-exportation-tactics/"><u>Comprehensive Methods for ChatGPT Data Exportation Tactics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Google Pixel 8 Pro?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/macs-most-reliable-snipers-reviewed-for-2024/"><u>Mac's Most Reliable Snipers Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-version-of-noctuas-nh-d15-g2-now-features-quieter-operation-and-extra-cooling-fins/"><u>Revamped Version of Noctua's NH-D15 G2 Now Features Quieter Operation & Extra Cooling Fins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-corsair-air-a115-heat-sink-silent-and-efficient-but-pricey/"><u>Review of the Corsair Air A115 Heat Sink: Silent & Efficient but Pricey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rivalry-heats-up-non-pump-240mm-aio-chiller-falls-short-of-pumped-contenders-by-a-slight-margin-during-performance-tests/"><u>Rivalry Heats Up: Non-Pump 240Mm AIO Chiller Falls Short of Pumped Contenders by a Slight Margin During Performance Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-masterclass-in-3d-printing-the-fastest-models-ranked-by-production-speed/"><u>Speed Masterclass in 3D Printing: The Fastest Models Ranked by Production Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-at-toms-tech-universe/"><u>The Ultimate Guide to Computer Components at Tom's Tech Universe</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-on-screen-keyboard-control-enable-or-disable-with-ease/"><u>Windows 10 On-Screen Keyboard Control: Enable or Disable with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285263637-2024-5/"><u>다이나박 해상도 강화에 성공하는 방법: 2024년의 관찰자들을 위한 5단계 전략</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

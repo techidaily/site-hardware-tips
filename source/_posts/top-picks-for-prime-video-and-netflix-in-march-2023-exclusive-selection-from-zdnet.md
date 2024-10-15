@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Prime Video & Netflix in March 2023 - Exclusive Selection From ZDNet
-date: 2024-10-02T02:33:02.829Z
-updated: 2024-10-08T18:43:04.970Z
+date: 2024-10-11T16:25:30.658Z
+updated: 2024-10-15T16:35:43.101Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-distinguishing-designs-effective-podcast-brand-identity/"><u>[New] 2024 Approved Distinguishing Designs Effective Podcast Brand Identity</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-complete-guide-to-mastering-polarrs-image-precision/"><u>[Updated] 2024 Approved The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9-9950x-sets-new-benchmarking-world-record-in-cinebench-r23-at-65ghz-performance/"><u>AMD Ryzen 9 9950X Sets New Benchmarking World Record in Cinebench R23 at 6.5GHz Performance</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-and-save-your-next-google-meet-with-iphoneandroid/"><u>Capture & Save Your Next Google Meet with iPhone/Android</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-leading-no-tangle-call-devices-your-definitive-selection-guide/"><u>Exploring Leading No-Tangle Call Devices - Your Definitive Selection Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-meizu-21-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Meizu 21 Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-upgrades-tips-from-toms-equipment-rundown/"><u>Mastering Your PC Upgrades: Tips From Tom's Equipment Rundown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-trustworthy-advice-from-tom/"><u>Navigate the World of Computing: Trustworthy Advice From Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-with-tomhardware/"><u>Navigating the Latest in Computing with TomHardware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-compatibility-issue-unsupported-amdintel-graphics-with-premiere-pro/"><u>Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/stealthy-gaming-techniques-end-controller-shake/"><u>Stealthy Gaming Techniques: End Controller Shake</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-saving-social-media-stories-chromes-top-5-tools-for-2024/"><u>[Updated] Saving Social Media Stories Chromes' Top 5 Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>2024 Approved The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
+<li><a href="https://fox-info.techidaily.com/crack-the-code-top-10-hidden-iphone-x-functions/"><u>Crack The Code Top 10 Hidden iPhone X Functions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/regain-control-how-to-combat-cellphone-disruption-in-four-easy-steps/"><u>Regain Control: How to Combat Cellphone Disruption in Four Easy Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliving-the-good-old-days-the-unforgettable-aspects-of-dial-up-connections/"><u>Reliving the Good Old Days: The Unforgettable Aspects of Dial-Up Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/repurposing-your-unused-tablet-as-a-pet-entertainment-device/"><u>Repurposing Your Unused Tablet as a Pet Entertainment Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-gaming-the-impact-of-switching-to-a-curved-ultrawide-display/"><u>Revolutionizing Gaming: The Impact of Switching to a Curved Ultrawide Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-integrate-android-autocarplay-into-your-vehicle-with-simple-steps/"><u>Seamlessly Integrate Android Auto/CarPlay Into Your Vehicle with Simple Steps</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-restoring-the-missing-system-write-in-functionality-in-data-backups-3-proven-solutions/"><u>Troubleshooting: Restoring the Missing System Write-In Functionality in Data Backups (3 Proven Solutions)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-g54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Motorola G54 5G</u></a></li>
 </ul></div>
 

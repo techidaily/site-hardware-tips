@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation: How the Microsoft Surface Pro 8 Empowers Enterprises - A Deep Dive by ZDNET"
-date: 2024-09-19 20:49:52
-updated: 2024-09-20 12:56:57
+date: 2024-10-10T16:27:41.299Z
+updated: 2024-10-15T16:37:15.655Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +162,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +185,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>[New] 2024 Approved Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unleashing-your-creative-potential-mastery-of-vocal-overdubs/"><u>[New] 2024 Approved Unleashing Your Creative Potential Mastery of Vocal Overdubs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs-in-2024/"><u>[New] Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-trends-essential-hashtags-for-todays-influencers/"><u>[New] Navigating Trends Essential Hashtags for Today's Influencers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-best-screen-capture-tools-for-creative-professionals/"><u>[Updated] In 2024, The Best Screen Capture Tools for Creative Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-path-to-gratuitous-text-animation/"><u>[Updated] The Artisan's Path to Gratuitous Text Animation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peerless-dialogue-creator-zone/"><u>2024 Approved Peerless Dialogue Creator Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-inwins-latest-collection-easy-to-assemble-flat-pack-cases-with-flexible-frame-options/"><u>Explore InWin's Latest Collection: Easy-to-Assemble Flat-Pack Cases with Flexible Frame Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-components-with-toms-hardware-hub/"><u>Exploring Advanced Components with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-tom-a-deep-dive-into-technology-and-gadget-reviews/"><u>Exploring the World of Hardware with Tom: A Deep Dive Into Technology and Gadget Reviews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a58-4g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo A58 4G Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-jonsbos-new-t6-itx-walnut-case-stylish-metal-and-wood-design-now-in-classic-black-or-sleek-silver/"><u>Introducing Jonsbo's New T6 ITX Walnut Case: Stylish Metal & Wood Design, Now in Classic Black or Sleek Silver</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-landscape-with-toms-gear-advice-a-hardware-guide/"><u>Navigating the Digital Landscape with Tom's Gear Advice: A Hardware Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/recovering-lost-webp-images-a-step-by-step-guide/"><u>Recovering Lost WebP Images: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-steelseries-atx-mid-tower-with-massive-savings-undercutting-the-market/"><u>Snag a SteelSeries ATX Mid Tower with Massive Savings Undercutting the Market!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-in-depth-reviews-and-buying-guides/"><u>Tom's Computer Components: In-Depth Reviews & Buying Guides</u></a></li>
+</ul></div>
+

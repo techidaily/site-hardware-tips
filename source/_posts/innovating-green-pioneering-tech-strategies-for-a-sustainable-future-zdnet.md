@@ -1,7 +1,7 @@
 ---
 title: "Innovating Green: Pioneering Tech Strategies for a Sustainable Future | ZDNet"
-date: 2024-09-18 12:38:38
-updated: 2024-09-20 10:44:33
+date: 2024-10-11T16:17:34.386Z
+updated: 2024-10-15T16:46:58.627Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,19 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +76,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +129,28 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-bend-reality-with-your-own-animated-craftsmanship/"><u>[New] Bend Reality with Your Own Animated Craftsmanship</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leverage-both-platforms-youtube-and-facebook-integration/"><u>[New] Leverage Both Platforms YouTube and Facebook Integration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-minecraft-homestead-blueprint-series/"><u>[Updated] 2024 Approved Minecraft Homestead Blueprint Series</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>[Updated] Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tutorials-and-reviews-by-toms-hardware-experts/"><u>Advanced Tutorials & Reviews by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-cooperative-mode-hitches-solutions-inside/"><u>Elden Ring Cooperative Mode Hitches - Solutions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-chosen-find-the-best-15-free-applications-to-efficiently-uninstall-software/"><u>Expertly Chosen: Find the Best 15 Free Applications to Efficiently Uninstall Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-der8auer-admitted-his-mistake-with-inefficient-grizzly-heatsink-units/"><u>How Der8auer Admitted His Mistake with Inefficient Grizzly Heatsink Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-rundown-your-source-for-computer-components/"><u>Inside Tom's Gadget Rundown: Your Source for Computer Components</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-0x80070490-issue-comprehensive-guide-to-fixing-windows-update-failures/"><u>Solving the 0X80070490 Issue: Comprehensive Guide to Fixing Windows Update Failures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-hub-for-electronics-by-toms-hardware-team/"><u>The Ultimate Review Hub for Electronics by Tom's Hardware Team</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716464548345-tiny-snippets-deciphered-important-facts/"><u>Tiny Snippets Deciphered Important Facts!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-world-the-ultimate-hardware-hub/"><u>Tom's Computing World: The Ultimate Hardware Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-graphics-driver-on-windows-overwatch-2/"><u>Troubleshooting Missing Graphics Driver on Windows (Overwatch 2)</u></a></li>
+</ul></div>
+

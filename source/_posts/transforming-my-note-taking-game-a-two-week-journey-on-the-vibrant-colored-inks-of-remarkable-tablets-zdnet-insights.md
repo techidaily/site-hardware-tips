@@ -1,7 +1,7 @@
 ---
 title: "Transforming My Note-Taking Game: A Two-Week Journey on the Vibrant Colored Inks of Remarkable Tablets | ZDNet Insights"
-date: 2024-09-19 22:16:11
-updated: 2024-09-20 11:33:19
+date: 2024-10-08T16:27:10.808Z
+updated: 2024-10-15T16:15:20.818Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +146,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/iscovering-income-monetization-through-youtube-sponsored-videos-in-2024/"><u>[New] Discovering Income Monetization Through YouTube Sponsored Videos, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expertise-in-clip-blending-a-blend-mode-guide/"><u>[Updated] 2024 Approved Expertise in Clip Blending A Blend Mode Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stand-out-as-an-elite-gamer-on-youtube/"><u>[Updated] In 2024, Stand Out as an Elite Gamer on Youtube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unveiling-the-secrets-to-youtube-success-12-proven-methods/"><u>2024 Approved Unveiling the Secrets to YouTube Success 12 Proven Methods</u></a></li>
+<li><a href="https://fox-search.techidaily.com/como-actualizar-o-reinstalar-controladores-de-dispositivos-en-tu-iphone-de-apple/"><u>Cómo Actualizar O Reinstalar Controladores De Dispositivos en Tu iPhone De Apple</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-windows-onedrive-hurdles-now/"><u>Fix Your Windows OneDrive Hurdles Now</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-steps-to-confirm-video-compliance-before-tiktok-posting/"><u>In 2024, Steps to Confirm Video Compliance Before TikTok Posting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-shakes-up-computing-industry-thinkpad-p1-gen-7-revolutionizes-portability-efficiency-and-power-with-groundbreaking-lpcamm2-memory/"><u>Lenovo Shakes Up Computing Industry: ThinkPad P1 Gen 7 Revolutionizes Portability, Efficiency & Power with Groundbreaking LPCAMM2 Memory</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-srt-output-from-adobe-premiere-for-2024/"><u>Mastering SRT Output From Adobe Premiere for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-grab-the-amazing-2024-asus-tuf-gaming-a15-laptop-for-just-658/"><u>Memorial Day Deal: Grab the Amazing 2024 Asus TUF Gaming A15 Laptop for Just $658!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-unveils-revolutionary-aiplus-gaming-and-creative-workstations-delivering-exceptional-performance-from-100-542-tops/"><u>MSI Unveils Revolutionary AI+ Gaming & Creative Workstations: Delivering Exceptional Performance From 100-542 TOPS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-review-of-gigabytes-g6x-laptop-decent-functionality-without-distinctive-attributes/"><u>Performance Review of Gigabyte's G6X Laptop: Decent Functionality without Distinctive Attributes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pro-tips-for-building-your-dream-rig-expert-advice-straight-from-toms-hardware-analysis/"><u>Pro Tips for Building Your Dream Rig - Expert Advice Straight From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/refund-process-initiated-for-apples-malfunctioning-butterfly-keyboard-up-to-395-reimbursement-per-laptop/"><u>Refund Process Initiated for Apple's Malfunctioning Butterfly Keyboard: Up to $395 Reimbursement Per Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-mobility-and-innovation-with-the-gen-12-x1-carbon-from-lenovo-the-latest-review-you-need-to-read/"><u>Revolutionizing Mobility and Innovation with the Gen 12 X1 Carbon From Lenovo – The Latest Review You Need to Read</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-budget-secure-the-asus-rog-zephyrus-g16-for-250-less-featuring-intel-core-i7-10870h-nvidia-rtx-3070-and-ultra-fast-oled-display/"><u>Slash Your Budget: Secure the ASUS ROG Zephyrus G16 for $250 Less - Featuring Intel Core I7-10870H, NVIDIA RTX 3070 & Ultra-Fast OLED Display</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-8-zero-cost-html-design-tools-on-windows/"><u>The Ultimate List of 8 Zero Cost HTML Design Tools on Windows</u></a></li>
+</ul></div>
+

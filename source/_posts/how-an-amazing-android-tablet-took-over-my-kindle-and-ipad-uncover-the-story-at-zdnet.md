@@ -1,7 +1,7 @@
 ---
 title: How an Amazing Android Tablet Took Over My Kindle and iPad - Uncover the Story at ZDNet
-date: 2024-09-19 14:50:49
-updated: 2024-09-20 12:31:31
+date: 2024-10-08T16:24:00.472Z
+updated: 2024-10-15T16:15:21.066Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/he-essential-toolkit-for-youtube-video-editors-everywhere/"><u>[New] The Essential Toolkit for YouTube Video Editors Everywhere</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unnoticed-consumers-of-fb-stories-for-2024/"><u>[New] Unnoticed Consumers of Fb Stories for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-efficient-methods-for-producing-and-perfecting-multiple-snaps/"><u>[Updated] Efficient Methods for Producing & Perfecting Multiple Snaps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-voice-memo-on-iphone-for-2024/"><u>[Updated] How to Record Voice Memo on iPhone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-androids-leading-music-video-watching-tools/"><u>2024 Approved Explore Android's Leading Music Video Watching Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/beyond-adobe-the-top-10-video-editing-software-alternatives-to-premiere-elements-for-2024/"><u>Beyond Adobe The Top 10 Video Editing Software Alternatives to Premiere Elements for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-dev-error-6068-glitch-head-on-masterful-fixes-inside-modern-warfares-walls/"><u>Defeat Dev Error 6068 Glitch Head-On: Masterful Fixes Inside Modern Warfare's Walls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-tom-expert-tips-and-advice/"><u>Dive Into Hardware with Tom - Expert Tips & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-gigabytes-aorus-49-oled-gaming-screen-now-at-an-all-time-low-only-969/"><u>Huge Savings Alert: Gigabyte's Aorus 49 OLED Gaming Screen Now at an All-Time Low - Only $969</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-alienwares-latest-masterpiece-the-aw2725df-360hz-oled-display-ultimate-choice-for-serious-gamers/"><u>In-Depth Evaluation of Alienware's Latest Masterpiece: The AW2725DF 360Hz OLED Display - Ultimate Choice for Serious Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-computing-insights-by-tomhardware-experts/"><u>Innovative Computing Insights by TomHardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-tech-insights-from-the-world-of-toms-hardware/"><u>Innovative Tech Insights From the World of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-4k-gaming-screens-experience-ultra-fast-response-times-at-144hz-and-perfect-curvature/"><u>Leading 4K Gaming Screens - Experience Ultra-Fast Response Times at 144Hz & Perfect Curvature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-way-through-windowware-woes-8-tips-and-tricks/"><u>Navigating Your Way Through Windowware Woes: 8 Tips and Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme GT 5 Pro | Dr.fone</u></a></li>
+</ul></div>
+

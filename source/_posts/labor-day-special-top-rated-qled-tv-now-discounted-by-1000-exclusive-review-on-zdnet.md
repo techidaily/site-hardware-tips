@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Special: Top-Rated QLED TV Now Discounted by $1,000 - Exclusive Review on ZDNet"
-date: 2024-10-02T02:54:10.571Z
-updated: 2024-10-08T19:44:40.648Z
+date: 2024-10-09T16:23:19.556Z
+updated: 2024-10-15T16:49:12.683Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-movie-magic-tiktok-effects-techniques/"><u>[New] 2024 Approved Mastering Movie Magic TikTok Effects Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-android-video-calls/"><u>[New] The Ultimate Guide to Android Video Calls</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-powerpoint-to-video-best-practices-with-webcams-now/"><u>[Updated] In 2024, PowerPoint to Video Best Practices with Webcams, Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-guide-resolving-non-functioning-webex-microphones-quickly/"><u>2024 Guide: Resolving Non-Functioning Webex Microphones Quickly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-a-deep-dive-by-tomcuits/"><u>Advanced Tech Insights: A Deep-Dive by Tom'cuits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-the-ultimate-guide/"><u>Exploring Hardware with Tom: The Ultimate Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-free-happy-birthday-track-downloaded-in-mp3-format-now/"><u>Get Your Free 'Happy Birthday' Track Downloaded in MP3 Format Now!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-creating-chuckles-with-gifs-a-meme-masterclass/"><u>In 2024, Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-poco-x5-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Poco X5 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-crealitys-latest-milestone-a-colorful-addition-to-its-10year-legacy-in-3d-printing/"><u>Introducing Creality’s Latest Milestone: A Colorful Addition to Its 10Year Legacy in 3D Printing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-game-plan-with-insights-from-toms-hardware-hub/"><u>Mastering Your Tech Game Plan with Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/selecting-superior-speed-best-ssds-for-an-unmatched-gaming-journey-on-the-steam-deck/"><u>Selecting Superior Speed: Best SSDs for an Unmatched Gaming Journey on the Steam Deck</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-mice-of-2024-enhance-efficiency-with-ultimate-portability/"><u>Top-Rated Wireless Mice of 2024: Enhance Efficiency with Ultimate Portability</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-free-and-easy-avi-video-editing-top-5-software-choices-for-2024/"><u>Updated Free and Easy AVI Video Editing Top 5 Software Choices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-5-webcams-with-mic/"><u>[New] Best 5 Webcams with Mic</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-games-effortlessly-with-nvidia/"><u>[Updated] In 2024, Capture Games Effortlessly with NVIDIA</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-windows-10-apps-and-games-to-explore-and-download/"><u>[Updated] Windows 10 Apps and Games to Explore and Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-yet-powerful-cpu-picks-expertly-tested-pcmag-insights/"><u>Affordable Yet Powerful CPU Picks , Expertly Tested - PCMag Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asmr-excellence-superior-performance-for-less-money-for-2024/"><u>ASMR Excellence Superior Performance for Less Money for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-the-significance-of-leaked-social-media-data/"><u>Deciphering the Significance of Leaked Social Media Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-smooth-gliding-visually-appealing-mouse-pads-of-2024/"><u>Discover the Finest Smooth-Gliding, Visually Appealing Mouse Pads of 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhanced-marketing-insights-with-the-cookiebot-platform/"><u>Enhanced Marketing Insights with the Cookiebot Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-equipment-with-toms-hardware-guides/"><u>Exploring Computer Equipment with Tom's Hardware Guides</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-meizu-21-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Meizu 21 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-choices-expertly-reviewed-filaments-for-3d-printers-in-eetings/"><u>Futureproof Choices: Expertly Reviewed Filaments for 3D Printers in Eetings</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-razr-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Razr 40 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-reveals-fix-for-persistent-cpu-stability-issues-overvolting-identified-as-primary-fault/"><u>Intel Reveals Fix for Persistent CPU Stability Issues: Overvolting Identified as Primary Fault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/report-intel-cpus-in-laptops-face-critical-stability-issues-during-rigorous-testing-phases/"><u>Report: Intel CPUs in Laptops Face Critical Stability Issues During Rigorous Testing Phases</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/synchronized-screen-serenity-youtube-loops-on-television-for-2024/"><u>Synchronized Screen Serenity YouTube Loops on Television for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-best-curved-gaming-displays-of-2n24/"><u>Top-Ranked Best Curved Gaming Displays of 2N24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-razer-man-o-war-mic-heres-the-solution/"><u>Trouble with Your Razer Man O' War Mic? Here's the Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-high-performance-pcs-with-toms-hardware-insights/"><u>Unlocking High-Performance PCs with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-hardware-guide/"><u>Unveiling the Latest in Electronics with Tom's Hardware Guide</u></a></li>
 </ul></div>
 

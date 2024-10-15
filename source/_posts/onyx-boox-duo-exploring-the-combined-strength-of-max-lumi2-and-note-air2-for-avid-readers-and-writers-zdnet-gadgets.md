@@ -1,7 +1,7 @@
 ---
 title: "Onyx Boox Duo: Exploring the Combined Strength of Max Lumi2 & Note Air2 for Avid Readers and Writers | ZDNet Gadgets"
-date: 2024-09-17 22:21:49
-updated: 2024-09-20 11:30:32
+date: 2024-10-12T16:26:53.228Z
+updated: 2024-10-15T16:23:44.558Z
 tags:
   - tablets
 categories:
@@ -133,6 +133,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +150,35 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +191,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +234,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-live-stream-gopro-to-facebook-and-periscope-for-2024/"><u>[New] How to Live Stream Gopro to Facebook and Periscope for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-guide-to-turn-off-ig-predictions/"><u>2024 Approved The Guide to Turn Off IG Predictions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-camon-20-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Camon 20 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862768155-get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2023-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2023 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-topic-titling-artisans-assistant/"><u>In 2024, Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-windows-10-driver-download-enhance-your-gpu-performance-with-dch/"><u>NVIDIA Quadro Windows 10 Driver Download - Enhance Your GPU Performance with DCH</u></a></li>
+<li><a href="https://solve-help.techidaily.com/probleme-avec-handbrake-sur-windows-10-solutions-de-pointe-et-alternatives-gratuites/"><u>Problème Avec HandBrake Sur Windows 10: Solutions De Pointe Et Alternatives Gratuites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components/"><u>Tom's Tech Reviews: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-unfreeze-chrome-for-smooth-windows-11-sessions/"><u>Troubleshoot and Unfreeze Chrome for Smooth Windows 11 Sessions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-pc-and-peripheral-advice-by-toms-hardware-experts/"><u>Ultimate PC and Peripheral Advice by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-innovations-at-toms-hardware-blog/"><u>Uncovering Innovations at Tom's Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-vivid-colors-and-rapid-refresh-the-full-review-of-the-viewsonic-oled-gaming-masterpiece/"><u>Unleash Vivid Colors and Rapid Refresh: The Full Review of the ViewSonic OLED Gaming Masterpiece</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-gamers-delight-with-bright-colorful-performance-a-critical-look-at-viewsonic-xg272-2k-monitor/"><u>Unleashing Gamers' Delight with Bright, Colorful Performance: A Critical Look at ViewSonic XG272-2K Monitor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-hyper-v-potential-installation-instructions-for-windows-11-users/"><u>Unlocking Hyper-V Potential: Installation Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-tech-secrets-at-toms-gear-and-hardware-insights/"><u>Unveiling High-Tech Secrets at Tom's Gear & Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-with-toms-hardware-wisdom/"><u>Unveiling Tech Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computing Hardware with Tom - A Comprehensive Guide</u></a></li>
+</ul></div>
+

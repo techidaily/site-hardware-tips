@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's Expanded Xbox and Azure Offerings Contribute to Its Rising Greenhouse Gas Emissions - Insights From ZDNet
-date: 2024-09-19 23:40:51
-updated: 2024-09-20 11:34:53
+date: 2024-10-11T16:10:54.725Z
+updated: 2024-10-15T16:06:53.460Z
 tags:
   - sustainability
 categories:
@@ -109,6 +109,13 @@ Microsoft is promising "stronger steps" to help reduce its carbon emissions afte
 
 Microsoft took a step backwards in 2021 on its goal, first aired in 2020, to [become carbon negative by 2030](https://www.zdnet.com/article/microsofts-ambitious-plan-to-remove-its-entire-carbon-footprint/). The company disclosed a significant 23% rise in carbon output in its 2021 sustainability report. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best cloud storage services Free and cheap personal and small business cloud storage services are everywhere. But, which one is best for you? Let's look at the top cloud storage options.  Read now](https://www.zdnet.com/article/best-cloud-storage/)
@@ -172,11 +179,28 @@ Apple and Google have historically released their respective sustainability repo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elevate-your-gameplay-records-with-advanced-methods-on-w11-for-2024/"><u>[New] Elevate Your Gameplay Records with Advanced Methods on W11 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-speedy-integration-of-voice-input-feature-in-your-powerpoint-shows/"><u>[Updated] In 2024, Speedy Integration of Voice Input Feature in Your PowerPoint Shows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-quick-fixes-for-stopped-fb-live-broadcasts/"><u>[Updated] Quick Fixes for Stopped FB Live Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>2024 Approved Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-assessment-of-assassins-creed-valhalla-a-grand-norse-saga-in-a-historical-setting/"><u>A Comprehensive Assessment of Assassin's Creed: Valhalla - A Grand Norse Saga in a Historical Setting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-copy-text-exploring-the-backstory-behind-its-responses/"><u>Does ChatGPT Copy Text? Exploring The Backstory Behind Its Responses</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-cutting-solutions-for-divx-files-a-2023-guide-for-2024/"><u>Free Video Cutting Solutions for Divx Files A 2023 Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-liquid-cooling-solutions-reviewed-best-picks/"><u>Leading Liquid Cooling Solutions Reviewed - Best Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-8-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 8 Plus? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-squad-mic-repair-techniques-advanced-guide-for-perfect-audio/"><u>Mastering Squad Mic Repair Techniques - Advanced Guide for Perfect Audio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-digital-world-with-tips-from-toms-equipment-hub/"><u>Navigate the Digital World with Tips From Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-pc-with-corsair-icue-link-h150i-rgb-performance-and-personalization-in-one/"><u>Revolutionizing Your PC with Corsair iCUE Link H150i 🖤RGB - Performance and Personalization in One</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-for-corsair-icue-link-h150i-rgb-top-notch-speed-and-vast-customization-at-your-fingertips/"><u>The Ultimate Review for Corsair ICUE Link H150i RGB: Top-Notch Speed and Vast Customization at Your Fingertips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-virtual-reality-headsets-ideal-choices-for-gamers-and-pc-users/"><u>Top-Ranking Virtual Reality Headsets: Ideal Choices for Gamers and PC Users</u></a></li>
+</ul></div>
+

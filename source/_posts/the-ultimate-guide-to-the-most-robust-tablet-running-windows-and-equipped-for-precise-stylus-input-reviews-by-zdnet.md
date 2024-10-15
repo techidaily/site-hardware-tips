@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the Most Robust Tablet Running Windows and Equipped for Precise Stylus Input | Reviews by ZDNET
-date: 2024-09-19 21:16:27
-updated: 2024-09-20 10:26:44
+date: 2024-10-14T16:42:13.809Z
+updated: 2024-10-15T16:20:56.688Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-leaderboard-of-the-best-web-capture-apps/"><u>[New] 2024 Approved The Leaderboard of the Best Web Capture Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-peeling-back-layers-of-the-metaverse-with-6-studies/"><u>2024 Approved Peeling Back Layers of the Metaverse with 6 Studies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/annual-list-highest-rated-free-lut-sources-online/"><u>Annual List Highest Rated FREE LUT Sources Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-the-capacity-optimized-western-digital-my-passport-6tb-solid-performance-in-a-sleek-package/"><u>Expert Analysis on the Capacity-Optimized Western Digital My Passport (6TB): Solid Performance in a Sleek Package</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experts-handbook-on-eliminating-vocals-the-top-7-solutions-unveiled/"><u>Expert's Handbook on Eliminating Vocals: The Top 7 Solutions Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-in-depth-hardware-analysis/"><u>Exploring Technology with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-reviews/"><u>Exploring the World of Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-to-computer-gear/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide to Computer Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-match-leading-ssd-and-hard-drive-bargains-of-2024/"><u>Find Your Perfect Match: Leading SSD and Hard Drive Bargains of 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-spark-10-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Spark 10 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-fresh-camera-lens-captured-analysis-with-backup-titles/"><u>In 2024, Fresh Camera Lens Captured Analysis with Backup Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-equipment-insights-by-tom-expert-hardware-evaluation/"><u>In-Depth Equipment Insights by Tom - Expert Hardware Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kioxias-revolutionary-ssd-with-ultra-fast-optical-data-transmission-reaching-up-to-40plus-metres-from-the-processor/"><u>Kioxia's Revolutionary SSD with Ultra-Fast Optical Data Transmission: Reaching Up to 40+ Metres From the Processor</u></a></li>
+<li><a href="https://howto.techidaily.com/motorola-moto-g14-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G14 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-toms-hardware-insights-and-reviews/"><u>Navigating the Digital World with Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nextorages-revolutionary-handheld-ssd-for-gamers-experience-unprecedented-speeds-of-up-to-7400mbs/"><u>Nextorage's Revolutionary Handheld SSD for Gamers: Experience Unprecedented Speeds of Up to 7,400MB/S</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-platforms-enhance-your-youtube-presence-for-2024/"><u>Top Platforms Enhance Your YouTube Presence for 2024</u></a></li>
+</ul></div>
+

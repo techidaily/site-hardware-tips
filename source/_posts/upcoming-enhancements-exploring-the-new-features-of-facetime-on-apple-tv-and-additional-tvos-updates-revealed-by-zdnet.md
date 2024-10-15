@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Enhancements: Exploring the New Features of FaceTime on Apple TV & Additional tvOS Updates Revealed by ZDNet"
-date: 2024-10-01T22:53:17.103Z
-updated: 2024-10-08T17:19:33.723Z
+date: 2024-10-09T16:27:43.086Z
+updated: 2024-10-15T16:13:58.156Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,24 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-tips-for-youtube-video-to-mpeg/"><u>[New] 2024 Approved Essential Tips for YouTube Video to MPEG</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unraveling-popularity-myths-the-real-truth-about-instagram-reels-for-2024/"><u>[New] Unraveling Popularity Myths The Real Truth About Instagram Reels for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-frosty-olympics-highlights-in-figure-skating/"><u>[Updated] 2024 Approved Frosty Olympics Highlights in Figure Skating</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-talk-to-technology-without-spending-money/"><u>2024 Approved Talk to Technology Without Spending Money</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-these-6-common-pitfalls-in-using-cura-expert-fixes-revealed/"><u>Avoid These 6 Common Pitfalls in Using Cura: Expert Fixes Revealed!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-epson-wf-7710-driver-update-on-windows-operating-systems-11-81-8-7/"><u>Download & Install Epson WF-7710 Driver Update on Windows Operating Systems (11, 8.1, 8, 7)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-collection-of-genius-level-gk-quizzes-online-2024/"><u>Elite Collection of Genius-Level GK Quizzes Online, 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175671908-exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-elegoo-neptune-4-pro-3d-printer-assessment-affordable-high-speed-and-impressive-precision/"><u>In-Depth Elegoo Neptune 4 Pro 3D Printer Assessment - Affordable High-Speed & Impressive Precision</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-room-unveiling-cutting-edge-computer-technologies/"><u>Inside Tom's Gear Room: Unveiling Cutting-Edge Computer Technologies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lost-in-translation-fixing-the-noise-void-in-windows-1abuild-of-anthem-expert-advice/"><u>Lost in Translation? Fixing the Noise Void in Windows 1Abuild of Anthem - Expert Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-ease-toms-authoritative-hardware-breakdowns/"><u>Navigating New Gadgets with Ease: Tom’s Authoritative Hardware Breakdowns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-revolutionary-evaporative-cooling-the-new-pump-free-aio-liquid-cooler/"><u>Noctua Unveils Revolutionary Evaporative Cooling, the New Pump-Free AIO Liquid Cooler</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/proven-methods-for-logging-digital-audio-data-for-2024/"><u>Proven Methods for Logging Digital Audio Data for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/solving-vlc-player-issues-enable-hevc-file-support-and-compatibility/"><u>Solving VLC Player Issues: Enable HEVC File Support and Compatibility</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-2024-hard-drive-showdown-expert-picks-for-optimal-performance-and-capacity/"><u>The 2024 Hard Drive Showdown: Expert Picks for Optimal Performance and Capacity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-gear/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-affordable-mechanical-keyboard-picks/"><u>Top Affordable Mechanical Keyboard Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-behind-modern-streaming-tools-an-insightful-overview/"><u>Unveiling the Secrets Behind Modern Streaming Tools – An Insightful Overview</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-attention-a-look-at-the-best-15-video-intro-plans-for-2024/"><u>[New] Crafting Attention A Look at the Best 15 Video Intro Plans for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>[New] In 2024, Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleashing-inspiration-ideas-for-engaging-channels/"><u>[New] Unleashing Inspiration Ideas for Engaging Channels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-key-steps-for-flawless-audio-segmentation/"><u>[Updated] Key Steps for Flawless Audio Segmentation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-on-toms-digital-workshop/"><u>Discover Cutting-Edge Devices on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-hardware-for-top-notch-equipment/"><u>Expert Advice From Tom's Hardware for Top-Notch Equipment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-forge-strong-content-partnerships-on-youtube/"><u>How to Forge Strong Content Partnerships on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone XR without Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-bright-future-of-serene-computing-customizable-be-quiet-cases-and-illuminated-coolers/"><u>Introducing the Bright Future of Serene Computing: Customizable 'Be Quiet!' Cases and Illuminated Coolers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-a-cost-effective-android-tablet-with-considerations/"><u>Lenovo Tab 4 - A Cost-Effective Android Tablet With Considerations</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-control-over-noncooperative-steam-software/"><u>Reclaim Your Control Over Noncooperative Steam Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-toms-guide-to-advanced-computer-systems-and-equipment/"><u>The Tom's Guide to Advanced Computer Systems and Equipment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unbelievable-evaluation-and-alternative-choices/"><u>Unbelievable Evaluation & Alternative Choices</u></a></li>
 </ul></div>
 

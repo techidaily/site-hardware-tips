@@ -1,7 +1,7 @@
 ---
 title: Top Films & TV Series Worth Watching in March 2023 - Expert Picks From ZDNet
-date: 2024-10-03T18:30:50.127Z
-updated: 2024-10-09T05:57:32.565Z
+date: 2024-10-08T16:16:55.640Z
+updated: 2024-10-15T16:38:25.291Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,18 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-worth-of-instagram-video-selfie-authenticity/"><u>[Updated] In 2024, The Worth of Instagram Video Selfie Authenticity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightning-loop-top-10-agile-games-on-mobilepc/"><u>[Updated] Lightning Loop Top 10 Agile Games on Mobile/PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-noise-free-audiovisual-links/"><u>[Updated] Navigating Noise-Free Audiovisual Links</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726227972995-mp4-3gpp-movavi/"><u>最適なMP4ファイル変換: 3GPP形式での自由に使える無料オンラインツール - Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/burst-life-into-slow-motion-with-top-android-apps/"><u>Burst Life Into Slow Motion with Top Android Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creality-unveils-release-schedule-and-price-points-for-the-powerhouse-k1c-3d-printer-with-detailed-specifications/"><u>Creality Unveils Release Schedule & Price Points for the Powerhouse K1C 3D Printer with Detailed Specifications</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y02t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y02T Phone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-gaming-pc-power-solutions-unveiled-top-psu-choices-for-2t4/"><u>Leading Gaming PC Power Solutions Unveiled - Top PSU Choices for 2T4</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-graphics-processors-for-profitable-crypto-mining-toms-hardware-guide/"><u>Leading Graphics Processors for Profitable Crypto Mining: Tom's Hardware Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screenshutdown-window-graphics-ui-fix-exists/"><u>ScreenShutdown, Window Graphics UI (Fix Exists)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-by-toms-equipment-insights/"><u>Unveiling the Latest in Technology by Tom's Equipment Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-precise-shadows-with-adobe-curves/"><u>[Updated] Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-grab-specialists-top-apps-for-windows-10-users-for-2024/"><u>[Updated] Screen Grab Specialists Top Apps for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overcoming-sound-hurdles-in-zoom-calls/"><u>2024 Approved Overcoming Sound Hurdles in Zoom Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-primepickings-top-twitters-and-top-viewers-favorites/"><u>2024 Approved PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-right-sound-the-right-mic-top-recommendations-for-diverse-online-presence/"><u>2024 Approved The Right Sound, The Right Mic Top Recommendations for Diverse Online Presence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessment-of-the-anime-inspired-valkyrie-vind-sl125-is-it-just-a-pretty-face/"><u>Assessment of the Anime-Inspired Valkyrie Vind SL125 - Is It Just a Pretty Face?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/boost-iphone-visual-quality-selective-photo-and-video-tools/"><u>Boost iPhone Visual Quality Selective Photo and Video Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cixin-p1-arm-based-processor-revolutionizes-chinas-ai-sector-with-industry-standard-45-teraops-capability-production-in-full-swing/"><u>Cixin P1 Arm-Based Processor Revolutionizes China’s AI Sector with Industry-Standard 45 TeraOps Capability - Production in Full Swing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-technology-with-toms-hardware/"><u>Expert Insights Into Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-technology-with-toms-hardware-experts/"><u>Exploring Computer Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-pc-with-intels-latest-discovery-arrow-lake-processors-meet-z890-chipsets-in-leaked-imagery/"><u>Futureproof Your PC with Intel's Latest Discovery: Arrow Lake Processors Meet Z890 Chipsets in Leaked Imagery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6s-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6s Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125170665-introducing-the-revolutionary-bamboolabs-bed-slinger-rapid-printing-with-their-latest-a1-3d-printer-coming-soon-on-dec-14th/"><u>Introducing the Revolutionary BambooLab's Bed Slinger: Rapid-Printing with Their Latest A1 3D Printer - Coming Soon on Dec. 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-hardware-assessments/"><u>Navigating the Digital World Through Tom's Hardware Assessments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262305886-toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide To Computer Components</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/youtube-tunes-integration-with-visual-content/"><u>YouTube Tunes Integration with Visual Content</u></a></li>
 </ul></div>
 

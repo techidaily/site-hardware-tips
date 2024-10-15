@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Gadgets on Hold: Smart Choices Before Your Purchase | TechInsights"
-date: 2024-09-18 17:51:48
-updated: 2024-09-20 11:20:14
+date: 2024-10-08T16:08:25.118Z
+updated: 2024-10-15T16:36:15.955Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,19 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +153,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +169,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +228,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ermanent-lockout-of-the-brief-content-on-youtube-for-2024/"><u>[New] Permanent Lockout of the Brief Content on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-essence-of-streaming-with-recordcast/"><u>[Updated] Unveiling the Essence of Streaming with RecordCast</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>2024 Approved Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/beam-your-ideas-master-screencast-with-ezvide-video-maker-for-2024/"><u>Beam Your Ideas Master Screencast with EZvide Video Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-mov-files-free-online-tool-and-software-compatible-with-mac-windows-10/"><u>Convert MOV Files Free: Online Tool & Software Compatible with Mac, Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/minicam-record-evaluation-and-backup-software-for-2024/"><u>MiniCam Record Evaluation & Backup Software for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-performance-phisons-new-e29t-pcie-gen-40-ssd-controller-unveiled-at-fms-2024-summit/"><u>Pioneering Performance: Phison's New E29T PCIe Gen 4.0 SSD Controller Unveiled at FMS 2024 Summit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-lightspeed-ssd-technology-by-kioxia-achieves-over-40m-communication-range-with-cpu/"><u>Revolutionary Lightspeed SSD Technology by Kioxia Achieves Over 40M Communication Range with CPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-data-with-the-powerhouse-get-samsungs-990-evo-2-tb-ssd-for-a-remarkable-low-of-only-129/"><u>Secure Your Data with the Powerhouse: Get Samsung's 990 EVO ^2 TB SSD for a Remarkable Low of Only $129!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-tech-trends-with-toms-authoritative-hardware-guides/"><u>Stay Ahead of Tech Trends with Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-top-tier-lexar-1-tb-solid-state-disk-reviewed-powerhouse-performance-in-portable-storage/"><u>The Top-Tier Lexar 1 TB Solid State Disk Reviewed: Powerhouse Performance in Portable Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-your-ultimate-tech-resource/"><u>Tom's Computer Components: Your Ultimate Tech Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-expert-review-on-advanced-system-gear/"><u>Tom's Computing Insights: Expert Review on Advanced System Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-latest-innovations/"><u>Tom's Tech Hub: Unveiling Latest Innovations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-handbrake-issues-how-to-successfully-convert-videos-despite-refusal-errors/"><u>Troubleshooting Handbrake Issues: How to Successfully Convert Videos Despite Refusal Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-guide-to-stable-background-fixes/"><u>Win11's Guide to Stable Background Fixes</u></a></li>
+</ul></div>
+

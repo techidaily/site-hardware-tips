@@ -1,7 +1,7 @@
 ---
 title: "Navigating Repair Rights for Electronics: Importance & Insights for Consumers | CyberGuardian"
-date: 2024-09-17 13:24:16
-updated: 2024-09-20 11:29:35
+date: 2024-10-13T16:16:45.497Z
+updated: 2024-10-15T16:18:31.988Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Image: Thanasis/Getty Images
 ## What is right to repair trying to solve?  
 
 When devices like phones, tablets and laptops are damaged or break down, it can often be very complicated and costly to get them fixed. It can mean going through a particular supplier nominated by the manufacturer, and often the fix is so expensive that it's easier to simply buy a new device. Fixing it yourself is nearly impossible because spare parts are very hard to come by -- as are the manuals and tools needed to fix even the simplest of problems -- or the components are glued in place.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -43,6 +50,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which states have right to repair laws?
 
 As seen on the map below, only two states have actually passed a right to repair law -- New York and Colorado. Each state's laws and protections are slightly different. 
@@ -59,9 +73,23 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
@@ -110,11 +138,23 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-disciplined-device-use-effective-ways-to-remove-youtube-channels/"><u>[New] Disciplined Device Use Effective Ways to Remove Youtube Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-darkened-skies-with-iphones/"><u>[Updated] Mastering the Darkened Skies with iPhones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-best-a-comprehensive-overview-of-top-cpus/"><u>Benchmarking the Best: A Comprehensive Overview of Top CPUs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsofts-project-natick-successful-deployment-of-an-underwater-data-facility-with-reduced-server-downtime/"><u>Microsoft's Project Natick: Successful Deployment of an Underwater Data Facility with Reduced Server Downtime</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-insight-into-valkyrie-sync-240-aio-liquid-chiller-impressive-heat-transfer-efficacy-despite-subpar-software-experience/"><u>Professional Insight Into Valkyrie Sync 240 AIO Liquid Chiller: Impressive Heat Transfer Efficacy Despite Subpar Software Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-recycle-bin-hang-ups-in-windows-11/"><u>Solving Recycle Bin Hang-Ups in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xpgs-revolutionary-integrated-pump-and-radiator-cpu-cooling-system-supports-280w-units/"><u>XPG's Revolutionary Integrated Pump and Radiator CPU Cooling System Supports 280W Units</u></a></li>
+</ul></div>
+

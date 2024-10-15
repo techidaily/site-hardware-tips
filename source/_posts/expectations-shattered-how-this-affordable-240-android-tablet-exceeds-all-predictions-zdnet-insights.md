@@ -1,7 +1,7 @@
 ---
 title: "Expectations Shattered: How This Affordable $240 Android Tablet Exceeds All Predictions | ZDNET Insights"
-date: 2024-09-19 23:20:20
-updated: 2024-09-20 10:12:59
+date: 2024-10-08T16:01:32.026Z
+updated: 2024-10-15T16:25:38.475Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +156,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-depth-in-indoor-vlogging-lighting-for-2024/"><u>[New] Achieving Depth in Indoor Vlogging Lighting for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expert-insights-on-efficiently-setting-up-and-analyzing-fb-instream-ad-campaigns-for-2024/"><u>[New] Expert Insights on Efficiently Setting Up and Analyzing FB Instream Ad Campaigns for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-solution-for-twitter-videos-not-playing-in-chrome-for-2024/"><u>[Updated] Solution for Twitter Videos Not Playing in Chrome for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2-easy-ways-to-open-control-panel-in-windows-7/"><u>2 Easy Ways to Open Control Panel in Windows 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-video-tweet-sharing-content-without-including-others-tweets/"><u>2024 Approved Direct Video Tweet Sharing Content Without Including Others' Tweets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-transforming-youtube-content-using-the-power-of-imovie/"><u>2024 Approved Transforming YouTube Content Using the Power of iMovie</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-faulty-butterfly-keyboard-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Faulty Butterfly Keyboard Begin Receiving Up To $395 Refund Per Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/carbon-fiber-structural-battery-breakthroughs-lighter-and-stronger-tech-devices-ahead/"><u>Carbon Fiber Structural Battery Breakthroughs: Lighter and Stronger Tech Devices Ahead</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-the-performance-longevities-of-asus-tuf-gaming-a14-rigorous-assessment/"><u>Delving Into the Performance Longevities of Asus TUF Gaming A14: Rigorous Assessment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862698708-dont-miss-out-get-the-2024-asus-tuf-gaming-a15-laptop-this-memorial-day-for-an-exclusive-price-of-658/"><u>Don't Miss Out - Get the 2024 Asus TUF Gaming A15 Laptop This Memorial Day for an Exclusive Price of $658!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-updating-windows-battery-driver-software-with-ease/"><u>Effortless Guide: Updating Windows Battery Driver Software with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-gigabyte-g6x-gaming-laptop-strong-capabilities-with-average-innovation/"><u>Expert Analysis of the Gigabyte G6X Gaming Laptop: Strong Capabilities with Average Innovation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-14-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862742471-level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-resolving-the-issue-of-dual-frame-rate-decrease/"><u>PC Gaming: Resolving the Issue of Dual Frame Rate Decrease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862738375-ryzens-cutting-edge-ai-300-series-arrives-sooner-than-expected-preorder-before-july-28th-at-best-buy/"><u>Ryzen's Cutting-Edge AI 300 Series Arrives Sooner Than Expected – Preorder Before July 28Th at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-technology-with-toms-expertise-a-look-at-the-latest-hardware/"><u>Unveiling Technology with Tom's Expertise: A Look at the Latest Hardware</u></a></li>
+</ul></div>
+

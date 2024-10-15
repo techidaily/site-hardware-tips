@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: Waterfield's Ultimate Air Travel Backpack for Effortless Executive Commuting - A Comprehensive Review"
-date: 2024-09-18 13:30:33
-updated: 2024-09-20 12:35:36
+date: 2024-10-14T16:20:16.288Z
+updated: 2024-10-15T16:23:46.898Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-silence-social-advertisements-for-a-smoother-stream-for-2024/"><u>[New] Silence Social Advertisements for a Smoother Stream for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ncovering-8-honestly-backed-promotion-services-for-2024/"><u>[New] Uncovering 8 Honestly Backed Promotion Services for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elite-stealth-vids-downloader-guide-1-to-8/"><u>[Updated] In 2024, Elite Stealth Vids Downloader Guide - #1 to #8</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stealthy-image-revisions-blur-without-notice/"><u>2024 Approved Stealthy Image Revisions Blur Without Notice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-podcast-apps-for-iphone/"><u>5 Podcast Apps for iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptive-tech-past-meets-present-innovative-adapters-for-mounting-gtx-960-onto-outdated-agp-connections/"><u>Adaptive Tech Past Meets Present: Innovative Adapters for Mounting GTX 960 Onto Outdated AGP Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/constructing-a-stunning-mid-tower-with-disco-pixels-pc-and-the-sleek-inwin-309-case/"><u>Constructing a Stunning Mid-Tower with Disco Pixel's PC and the Sleek InWin 309 Case</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-apple-device-repair-how-the-new-self-service-initiative-empowers-users/"><u>DIY Apple Device Repair: How the New Self-Service Initiative Empowers Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/end-of-year-engineering-triumphs-a-recap-of-the-intense-system-builder-marathon-quarter-4-edition-2015/"><u>End-of-Year Engineering Triumphs: A Recap of the Intense System Builder Marathon, Quarter 4 Edition 2015</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-guide-for-youtube-video-clips-for-2024/"><u>Essential Guide for YouTube Video Clips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-tom-detailed-analysis-of-pc-gear/"><u>Exploring Tech with Tom: Detailed Analysis of PC Gear</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Camon 20 Pro 5G Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-dim-to-dazzling-a-guide-to-selecting-top-quality-displays/"><u>In 2024, From Dim to Dazzling A Guide to Selecting Top-Quality Displays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-hub-comprehensive-gadget-reviews-and-benchmarks/"><u>Inside Tom’s Electronics Hub: Comprehensive Gadget Reviews & Benchmarks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-rankings-top-10-free-ios-and-android-live-streamers/"><u>The Ultimate Rankings Top 10 Free iOS and Android Live Streamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-expert-insights-into-the-latest-computer-gear/"><u>Tom's Tech: Expert Insights Into the Latest Computer Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-the-ideal-80n-pc-setup-for-gamers-streamers-and-professionals/"><u>Unbeatable Value - The Ideal $80N PC Setup for Gamers, Streamers, and Professionals</u></a></li>
+</ul></div>
+

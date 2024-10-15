@@ -1,7 +1,7 @@
 ---
 title: "Score the Exclusive Amazon Offer: Buy Fire TV Omni Series QLED Now at a Staggering $150 Discount, Highlighted by ZDNet"
-date: 2024-10-08T07:59:53.573Z
-updated: 2024-10-09T03:19:42.998Z
+date: 2024-10-14T16:22:28.473Z
+updated: 2024-10-15T16:37:26.106Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,19 +92,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/fficient-youtube-ad-blocking-on-chromefirefoxandroid-devices/"><u>[New] Efficient YouTube Ad Blocking on Chrome/Firefox/Android Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-fix-full-screen-error-in-obs/"><u>[New] How to Fix Full Screen Error in OBS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pinnacle-10-battle-royale-experiences/"><u>[New] Pinnacle 10 Battle Royale Experiences</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-essential-guide-leading-video-editing-tools-androidpc/"><u>[Updated] In 2024, Essential Guide Leading Video Editing Tools (Android/PC)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-12-tycoons-a-gamers-dream-achieving-business-brilliance-on-screen/"><u>2024 Approved Top 12 Tycoons A Gamer's Dream, Achieving Business Brilliance on Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125152512-experience-top-quality-with-our-favorite-the-eleegoo-neptune-4-pro-now-available-for-only-240-on-newegg/"><u>Experience Top Quality with Our Favorite - The Eleegoo Neptune 4 Pro, Now Available for Only $240 on Newegg</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/identify-these-6-typical-cura-blunders-learn-effective-resolution-techniques/"><u>Identify These 6 Typical Cura Blunders, Learn Effective Resolution Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-to-device-direct-and-indirect-video-transfers/"><u>Instagram to Device Direct and Indirect Video Transfers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/make-a-splash-with-frores-waterproof-solid-state-airjet-mini-sport-cooler-the-ultimate-fanless-underwater-companion/"><u>Make a Splash with Frore’s Waterproof, Solid-State AirJet Mini Sport Cooler: The Ultimate Fanless Underwater Companion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/nvme-ssd-uphere-m201-heatsink-review-exceptional-cooling-performance-at-an-unbeatable-5-price/"><u>NVMe SSD UpHere M201 Heatsink Review - Exceptional Cooling Performance at an Unbeatable $5 Price</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/popcorn-time-error-no-result-issue-resolve-it-effortlessly/"><u>PopCorn Time Error: 'No Result' Issue - Resolve It Effortlessly!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-3d-printing-learn-how-to-segment-complex-objects-effectively/"><u>Seamless 3D Printing: Learn How to Segment Complex Objects Effectively</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-effectiveness-of-cooler-masters-ion-asterisk-360-aio-an-all-inclusive-review/"><u>Unveiling the Effectiveness of Cooler Master's ION Asterisk 360 AIO - An All-Inclusive Review</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-captivating-chronicles-youtube-stories-to-follow/"><u>In 2024, Captivating Chronicles YouTube Stories to Follow</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-voice-logging-on-apples-facetime-service-for-2024/"><u>Navigating Voice Logging on Apple's FaceTime Service for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/plunge-into-metaverse-top-8-high-tech-goggles-and-helmets-for-2024/"><u>Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-escort-ix-the-smart-gps-jammer-with-adaptive-learning-technology/"><u>Review of Escort iX: The Smart GPS Jammer with Adaptive Learning Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-mastery-creating-stunning-3d-chocolates-at-home-using-the-cocoapress-printer/"><u>Step-by-Step Mastery: Creating Stunning 3D Chocolates at Home Using the CocoaPress Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-hardware-guided-by-toms-tech-wisdom/"><u>The Ultimate Resource for Computer Hardware - Guided by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-insightful-reviews-and-latest-news/"><u>Tom's Tech Hub: Insightful Reviews & Latest News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-discounts-available-in-month/"><u>Top Apple Watch Discounts Available in [Month]</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-sie-mit-5-methoden-mp4-videos-perfekt-in-ihr-ipad-integrieren-anleitung-fur-die-neuesten-ipad-generationen/"><u>Wie Sie Mit 5 Methoden MP4-Videos Perfekt in Ihr iPad Integrieren: Anleitung Für Die Neuesten iPad-Generationen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-companer-to-cutting-edge-technology-discover-toms-hardware/"><u>Your Trusted Companer to Cutting-Edge Technology: Discover Tom's Hardware</u></a></li>
 </ul></div>
 

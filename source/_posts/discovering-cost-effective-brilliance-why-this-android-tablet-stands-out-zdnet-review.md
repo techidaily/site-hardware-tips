@@ -1,7 +1,7 @@
 ---
 title: "Discovering Cost-Effective Brilliance: Why This Android Tablet Stands Out (ZDNet Review)"
-date: 2024-09-19 15:38:47
-updated: 2024-09-20 11:37:15
+date: 2024-10-12T16:05:29.805Z
+updated: 2024-10-15T16:41:38.728Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,19 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +163,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-notch-ae-extensions-selection/"><u>2024 Approved Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/building-bridges-dannys-colombian-aid-initiative/"><u>Building Bridges: Danny's Colombian Aid Initiative</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862831977-experience-enhanced-visuals-with-the-affordable-lg-34499-curved-ultragear-monitor-upgrade/"><u>Experience Enhanced Visuals with the Affordable LG 34$499 Curved UltraGear Monitor Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862750484-eyoyo-em105-review-the-perfect-blend-of-size-value-and-power-in-a-105-inch-screen/"><u>Eyoyo EM105 Review: The Perfect Blend of Size, Value & Power in a 10.5-Inch Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862805925-limited-offer-on-the-crystal-clear-lg-ultragear-qhd-monitor-w-g-sync-just-549-from-amazon/"><u>Limited Offer on the Crystal Clear LG Ultragear QHD Monitor W/ G-Sync - Just $549 From Amazon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-social-sphere-instaplustiktok/"><u>Navigating the Social Sphere Insta+TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862794849-score-a-bargain-asuss-tuf-gaming-monitor-24-ips-165-hz-now-just-99-on-newegg/"><u>Score a Bargain! Asus's TUF Gaming Monitor, 24 IPS, 165 Hz - Now Just $99 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862794370-spectacular-gaming-screen-bargain-acer-nitro-34-curved-wqhd-monitor-for-just-200-on-newegg/"><u>Spectacular Gaming Screen Bargain – Acer Nitro 34 Curved WQHD Monitor for Just $200 on Newegg</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-unveiling-the-power-of-the-netgear-nighthawk-c7000-smart-wifi-router/"><u>The Ultimate Review: Unveiling the Power of the Netgear Nighthawk C7000 Smart WiFi Router</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-recommended-backup-solutions-for-securely-safeguarding-your-data-on-windows-server-201n/"><u>Top Recommended Backup Solutions for Securely Safeguarding Your Data on Windows Server 201N</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-with-tom-top-picks-and-detailed-reviews/"><u>Unveiling the Latest in Hardware with Tom - Top Picks and Detailed Reviews</u></a></li>
+</ul></div>
+

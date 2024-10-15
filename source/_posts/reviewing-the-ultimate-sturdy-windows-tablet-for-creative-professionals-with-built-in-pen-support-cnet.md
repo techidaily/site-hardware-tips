@@ -1,7 +1,7 @@
 ---
 title: Reviewing the Ultimate Sturdy Windows Tablet for Creative Professionals with Built-In Pen Support | CNET
-date: 2024-09-17 10:26:37
-updated: 2024-09-20 10:50:35
+date: 2024-10-09T16:04:48.672Z
+updated: 2024-10-15T16:29:53.586Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -143,9 +150,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +185,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhancing-images-with-gopro-studios-color-adjustment/"><u>[Updated] In 2024, Enhancing Images with GoPro Studio's Color Adjustment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/blueear-wireless-bluetooth-ear-beanie-evaluation-stylish-and-functional-with-solid-audio-performance/"><u>Blueear Wireless Bluetooth Ear Beanie Evaluation: Stylish and Functional with Solid Audio Performance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-dharma-the-best-yoga-channels-for-self-growth/"><u>Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-edge-40-pro-by-drfone-android/"><u>How to Bypass FRP from Motorola Edge 40 Pro?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 15 to Android | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-dell-xps-13-7390-convertible-laptop-stunning-design-and-exceptional-versatility/"><u>In-Depth Analysis of the Dell XPS 13 7390 Convertible Laptop - Stunning Design & Exceptional Versatility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-philips-evonias-gaming-monitor-model-49m2c8900-breatht/"><u>In-Depth Review of Philips Evonia's Gaming Monitor, Model 49M2C8900: Breatht</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-top-notch-computer-components-featured-on-tomgeartech/"><u>Inside Look: Top-Notch Computer Components Featured on TomGearTech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-acers-new-lineup-trio-of-oled-gaming-displays-featuring-the-27-480hz-predator-x27u-f3-monitor/"><u>Introducing Acer's New Lineup: Trio of OLED Gaming Displays Featuring the 27 480Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://facebook.techidaily.com/keeping-your-digital-footprint-under-wraps/"><u>Keeping Your Digital Footprint Under Wraps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computer-systems-with-toms-hardware-expertise/"><u>Mastering Modern Computer Systems with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-game-changer-in-budget-gaming-minisforums-innovative-affordable-156-144-hz-1440p-portable-monitor-for-just-189/"><u>Meet the Game-Changer in Budget Gaming - Minisforum’s Innovative, Affordable 15.6” 144 Hz 1440P Portable Monitor for Just $189</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-new-technology-trends-insights-from-toms-hardware-hub/"><u>Navigate New Technology Trends: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-ios-update-171-enhances-airdrop-connectivity-revamps-music-experience-and-boosts-screen-time-management/"><u>New IOS Update 17.1 Enhances AirDrop Connectivity, Revamps Music Experience & Boosts Screen Time Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gamers-display-in-depth-review-of-the-colorful-oled-asus-rog-swift-pg49wcd-monitor/"><u>Next-Level Gamers' Display: In-Depth Review of the Colorful OLED Asus ROG Swift PG49WCD Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nvidias-decision-why-the-rtx-40-series-maintains-displayport-14-despite-uhbr-certification-issues/"><u>NVIDIA's Decision: Why the RTX 40 Series Maintains DisplayPort 1.4 Despite UHBR Certification Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-file-or-device-unavailable-issues-in-windows-systems/"><u>Overcoming 'File or Device Unavailable' Issues in Windows Systems</u></a></li>
+</ul></div>
+

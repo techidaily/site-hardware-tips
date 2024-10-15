@@ -1,7 +1,7 @@
 ---
 title: "At the Apple Store Today: Unveiling the Ultra-Sleek iPads with Just 0.08 Inches of Girth!"
-date: 2024-09-18 22:27:20
-updated: 2024-09-20 10:55:51
+date: 2024-10-12T16:35:41.847Z
+updated: 2024-10-15T16:28:48.472Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expert-tips-for-flipping-video-courses-on-instagram/"><u>[New] In 2024, Expert Tips for Flipping Video Courses on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovate-with-ease-top-sites-for-downloadable-text-extensions/"><u>[New] Innovate with Ease Top Sites for Downloadable Text Extensions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[New] Quick Start Guide Recording Your PC's Display with HP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-notepad-not-opening-on-windows/"><u>7 Ways to Fix Notepad Not Opening on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-intelligent-computers-investment-worth-it/"><u>Exploring the World of Intelligent Computers - Investment Worth It?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-to-save-with-acemagic-x1-dual-screen-laptops-upcoming-early-access-deal/"><u>Get Ready to Save with AceMagic X1 Dual-Screen Laptop’s Upcoming Early Access Deal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-edge-in-gaming-with-a-steal-at-1199-the-msi-katana-156-gaming-beast-and-rtx-4070-gpu/"><u>Get the Edge in Gaming with a Steal at $1,199 – The MSI Katana 15.6 Gaming Beast & RTX 4070 GPU!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-framework-challenges-competitors-over-misusing-the-term-artificial-intelligence/"><u>How Framework Challenges Competitors Over Misusing the Term 'Artificial Intelligence'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-ultrabook-revolution-enhanced-performance-with-amd-ryzen-ai-300-and-lightning-fast-thunderbolt-technology/"><u>HP UltraBook Revolution: Enhanced Performance with AMD Ryzen AI 300 and Lightning-Fast Thunderbolt Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-network-delays-a-pc-users-handbook-to-improve-gameplay-in-bless-unleashed/"><u>Overcome Network Delays: A PC User’s Handbook to Improve Gameplay in Bless Unleashed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-rotate-videos-in-a-snap-a-step-by-step-guide/"><u>Updated In 2024, Rotate Videos in a Snap A Step-by-Step Guide</u></a></li>
+</ul></div>
+

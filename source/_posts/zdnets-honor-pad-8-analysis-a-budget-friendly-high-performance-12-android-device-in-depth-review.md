@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Honor Pad 8 Analysis: A Budget-Friendly, High-Performance 12 Android Device - In Depth Review!"
-date: 2024-09-19 11:23:39
-updated: 2024-09-20 11:56:57
+date: 2024-10-10T16:31:51.139Z
+updated: 2024-10-15T16:03:51.891Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology-for-2024/"><u>[Updated] BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>[Updated] Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-productivity-easy-office-setup-for-windows-1011/"><u>Enhance Productivity: Easy Office Setup for Windows 10/11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-k11-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo K11 5G Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-introduction-mastering-zoom-sessions-split/"><u>In 2024, Introduction Mastering Zoom Sessions Split</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-the-essential-guide-to-gadgets-by-toms-digital-insights/"><u>Mastering Tech: The Essential Guide to Gadgets by Tom's Digital Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-trustworthy-advice-from-toms-hardware/"><u>Mastering Technology Choices: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-analyses/"><u>Navigate the World of Technology with Tom's Hardware Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-releases-through-toms-hardware-expertise/"><u>Navigating New Releases Through Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-from-toms-hardware-experts/"><u>Navigating the World of Electronics: Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professionelle-tipps-zur-verbesserung-von-tonqualitat-bei-medienaufnahmen-handbrake-anwendung/"><u>Professionelle Tipps Zur Verbesserung Von Tonqualität Bei Medienaufnahmen - Handbrake Anwendung</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-asus-rog-zephyrus-g16-high-performance-parts-yield-mixed-results-in-gaming/"><u>Reviewing the Asus ROG Zephyrus G16: High-Performance Parts Yield Mixed Results in Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-how-you-work-and-play-with-acemagics-game-changing-x1-dual-display-laptop/"><u>Revolutionize How You Work and Play With Acemagic's Game-Changing X1 Dual-Display Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 | Dr.fone</u></a></li>
+</ul></div>
+

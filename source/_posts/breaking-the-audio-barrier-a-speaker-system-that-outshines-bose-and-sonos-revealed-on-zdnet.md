@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Audio Barrier: A Speaker System That Outshines Bose and Sonos, Revealed on ZDNet"
-date: 2024-09-17 19:15:48
-updated: 2024-09-20 10:32:22
+date: 2024-10-12T16:38:24.863Z
+updated: 2024-10-15T16:37:50.255Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +169,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +228,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-your-iphoneipad-display-now/"><u>[New] In 2024, Capturing Your iPhone/iPad Display Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-twist-magic-secrets-to-spinning-video-content-for-platform-perfection/"><u>[New] Insta-Twist Magic Secrets to Spinning Video Content for Platform Perfection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harnessing-the-power-of-color-difference-keying-methods/"><u>[Updated] In 2024, Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ringtone-heaven-game-of-thrones-audio-collection/"><u>2024 Approved Ringtone Heaven Game of Thrones Audio Collection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-introduces-cost-effective-ddr5-support-with-latest-z790-aywifi-wd-motherboard-perfect-for-overclockers/"><u>Asus Introduces Cost-Effective DDR5 Support with Latest Z790-AYWIFI WD Motherboard Perfect for Overclockers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-releases-intel-baseline-update-resolves-stability-issues-for-gamers-on-raptor-lakerefresh-processors/"><u>Asus Releases Intel Baseline Update: Resolves Stability Issues for Gamers on Raptor Lake/Refresh Processors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-unveils-exclusive-motherboard-for-chinese-cpu-overclocking-enhancing-kx-7000-performance-by-one-quarter/"><u>Asus Unveils Exclusive Motherboard for Chinese CPU Overclocking, Enhancing KX-7000 Performance by One Quarter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-complimentary-video-players-for-h265-encoded-and-4k-resolution-streams-available-now/"><u>Best Complimentary Video Players for H.265 Encoded & 4K Resolution Streams Available Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722875803460-best-sites-to-watch-your-favourite-music-videos-online-ranked/"><u>Best Sites to Watch Your Favourite Music Videos Online - Ranked!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bios-update-rollouts-begin-amds-partner-mothersboards-fix-the-logofail-glitch/"><u>BIOS Update Rollouts Begin: AMD's Partner Mothersboards Fix the LogoFail Glitch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-communication-capabilities-from-skype-to-zoom-for-2024/"><u>Boost Communication Capabilities From Skype to Zoom for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-the-maxsun-terminator-z790m-d5-ice-motherboard-high-performance-white-micro-atx-with-five-m2-ports/"><u>Comprehensive Review: The Maxsun Terminator Z790M D5 Ice Motherboard – High-Performance White Micro ATX with Five M.2 Ports</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-and-benchmarks-wisdom-from-toms-hardware-experts/"><u>Decoding Tech Specs and Benchmarks - Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y78-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y78 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-hardware-expertise-with-toms-technology-corner/"><u>Discover Hardware Expertise with Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-htpc-with-the-x60ntm5-itx-asrocks-latest-mini-itx-marvel-in-thin-motherboards/"><u>Elevate Your HTPC with the X60nTM5-ITX: ASRock's Latest Mini-ITX Marvel in Thin Motherboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evgas-high-end-classified-motherboard-hits-market-at-a-steep-1300plus-price-tag-the-x670e-insider-scoop/"><u>EVGA's High-End Classified Motherboard Hits Market at a Steep $1,300+ Price Tag – The X670E Insider Scoop</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+</ul></div>
+

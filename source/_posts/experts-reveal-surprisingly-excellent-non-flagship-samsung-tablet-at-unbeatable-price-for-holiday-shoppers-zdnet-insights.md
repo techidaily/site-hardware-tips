@@ -1,7 +1,7 @@
 ---
 title: Experts Reveal Surprisingly Excellent Non-Flagship Samsung Tablet at Unbeatable Price for Holiday Shoppers | ZDNET Insights
-date: 2024-09-17 13:49:58
-updated: 2024-09-20 12:46:21
+date: 2024-10-10T16:16:49.319Z
+updated: 2024-10-15T16:39:50.748Z
 tags:
   - tablets
 categories:
@@ -117,6 +117,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/approved-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>2024 Approved Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-now-exclusive-offer-on-corsairs-premium-4000d-case-and-psu-bundle-for-only-139-enhanced-airflow-and-durability/"><u>Buy Now! Exclusive Offer on Corsair's Premium 4000D Case and PSU Bundle for Only $139 – Enhanced Airflow & Durability</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-building-blueprint-reaching-1k-subs-rapidly-for-2024/"><u>Channel Building Blueprint Reaching 1K Subs Rapidly for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-top-tech-giants-the-battle-of-apple-homepod-and-google-nest-audio/"><u>Comparing Top Tech Giants: The Battle of Apple HomePod and Google Nest Audio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-gadget-analysis-by-tom-expert-reviews-and-advice/"><u>Comprehensive Gadget Analysis by Tom - Expert Reviews & Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/display-lag-problems-incompatible-with-immediate-user-interactions-on-modern-screens/"><u>Display Lag Problems: Incompatible With Immediate User Interactions on Modern Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computing-essentials-a-comprehensive-guide-t17239718718531/"><u>Exploring Tom's Computing Essentials: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Poco X6 Pro Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-note-12t-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi Note 12T Pro Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-tom-expert-advice-and-reviews/"><u>Mastering Hardware with Tom: Expert Advice and Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-writing-ai-solutions-to-streamline-processes/"><u>Revolutionizing Writing: AI Solutions to Streamline Processes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advisor-expert-insights-on-computer-components-and-systems/"><u>Tom's Tech Advisor: Expert Insights on Computer Components and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964478248-unbeatable-price-alert-get-your-favorite-pc-case-phanteks-evolv-shift-2-itx-for-just-49-after-rebate-today/"><u>Unbeatable Price Alert! Get Your Favorite PC Case, Phanteks Evolv Shift 2 (ITX), for Just $49 After Rebate Today</u></a></li>
+</ul></div>
+

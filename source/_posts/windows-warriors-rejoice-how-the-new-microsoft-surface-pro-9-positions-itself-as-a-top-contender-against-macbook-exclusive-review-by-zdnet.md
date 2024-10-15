@@ -1,7 +1,7 @@
 ---
 title: "Windows Warriors Rejoice: How the New Microsoft Surface Pro 9 Positions Itself as a Top Contender Against MacBook | Exclusive Review by ZDNet"
-date: 2024-09-17 20:54:51
-updated: 2024-09-20 11:14:20
+date: 2024-10-11T16:31:29.360Z
+updated: 2024-10-15T16:32:37.337Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +146,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-8-best-video-conference-app-for-android-and-iphone-picked/"><u>[New] 8 Best Video Conference App for Android and iPhone (Picked)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/acces-exclusif-aux-films-en-haute-definition-4k-et-maitrise-des-classiques-cinematographiques/"><u>Accès Exclusif Aux Films en Haute Définition 4K Et Maîtrise Des Classiques Cinématographiques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-pioneers-the-power-of-crossfading-for-2024/"><u>Audio Pioneers The Power of Crossfading for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/azure-speech-to-text-a-quick-overview-for-developers/"><u>Azure Speech-to-Text A Quick Overview for Developers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c300-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C300 FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pushing-boundaries-the-astonishing-gaming-display-features-of-the-philips-evonia-model-49m2c8900-qd-oled-monitor/"><u>Pushing Boundaries: The Astonishing Gaming Display Features of the Philips Evonia Model 49M2C8900 QD-OLED Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-stylish-and-powerful-gigabyte-aorus-fo32u2p-monitor-for-elite-gamers/"><u>Review of the Stylish & Powerful Gigabyte Aorus FO32U2P Monitor for Elite Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-trend-for-oled-displays-analysts-predict-yearly-shipment-of-more-than-1-million-screens/"><u>Rising Trend for OLED Displays: Analysts Predict Yearly Shipment of More Than 1 Million Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-ultra-hd-gaming-screens-the-best-offers-of-202n4/"><u>Save Big on Ultra HD Gaming Screens - The Best Offers of 202N4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-4-apple-devices-with-questionable-value-what-to-avoid-today-insights-by-zdnet/"><u>Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896440562-unlock-ultimate-bargains-6-premier-coupons-and-deals-galore/"><u>Unlock Ultimate Bargains: 6 Premier Coupons & Deals Galore!</u></a></li>
+</ul></div>
+

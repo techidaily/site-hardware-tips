@@ -1,7 +1,7 @@
 ---
 title: Prime Day Extravaganza! Check Out ZDNet's List of Top 36+ Tablet Deals Still Available Amazon Prime Shopping Spree
-date: 2024-09-19 21:56:18
-updated: 2024-09-20 10:57:12
+date: 2024-10-08T16:36:25.530Z
+updated: 2024-10-15T16:31:02.138Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +156,19 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +185,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-iphones-in-night-mode-silhouettes-for-2024/"><u>[New] Enhancing iPhones in Night Mode Silhouettes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-audience-friendly-audio-fades-practices-in-audacity-for-2024/"><u>[Updated] Audience-Friendly Audio Fades Practices in Audacity for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-become-a-successful-smm-in-10-steps/"><u>2024 Approved Become a Successful SMM in 10 Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-ultrawide-monitors-for-gamers/"><u>Best of the Best: Ultrawide Monitors for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-overview-the-spinning-lens-revolution/"><u>Complete Overview The Spinning Lens Revolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-and-device-assessments-toms-hardware-insight/"><u>Comprehensive Computer and Device Assessments - Tom's Hardware Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-reviews-by-tom-unveiling-the-latest-in-pc-hardware/"><u>Comprehensive Reviews by Tom: Unveiling the Latest in PC Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-masters-newest-addition-a-giant-57-inch-mini-led-gaming-monitor-featuring-a-dual-4k-super-ultrawide-screen-for-an-immersive-gaming-session/"><u>Cooler Master's Newest Addition: A Giant 57 Inch Mini LED Gaming Monitor Featuring a Dual-4K Super Ultrawide Screen for an Immersive Gaming Session</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285613386-dvdiphone/"><u>DVD鑑賞がiPhoneでも可能!:多様なアプリケーションと工夫を使っての再生ガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-top-tier-lg-34-curved-display-awaits-for-an-unbeatable-price-of-499/"><u>Experience Enhanced Productivity: Top-Tier LG 34 Curved Display Awaits for an Unbeatable Price of $499</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862811481-game-changer-alert-snag-a-monster-sized-999-39-lg-ultragear-wqhd-curved-monitor-from-amazon-right-now/"><u>Game Changer Alert: Snag a Monster-Sized $999, 39” LG Ultragear WQHD Curved Monitor From Amazon Right Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-revolutionary-million-token-capacity-of-gemini-15-is-transforming-digital-assets/"><u>How the Revolutionary Million Token Capacity of Gemini 1.5 Is Transforming Digital Assets</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-note-50-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme Note 50</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-cyberpunk-2077-performance-issues-no-more-lag-or-stutters/"><u>Resolved: Cyberpunk 2077 Performance Issues - No More Lag or Stutters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862841022-transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-create-stunning-3d-videos-top-free-and-paid-makers/"><u>Updated 2024 Approved Create Stunning 3D Videos Top Free and Paid Makers</u></a></li>
+</ul></div>
+

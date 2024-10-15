@@ -1,7 +1,7 @@
 ---
 title: "Discover Exceptional Value: Best of the Rest Samsung Tabs Not Flagships on Deals for Labor Day | Gadget Central"
-date: 2024-09-17 14:10:29
-updated: 2024-09-20 11:43:44
+date: 2024-10-12T16:03:13.960Z
+updated: 2024-10-15T16:38:33.831Z
 tags:
   - tablets
 categories:
@@ -133,6 +133,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-premiere-gear-optimal-panoramic-recorders/"><u>[New] Premiere Gear Optimal Panoramic Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-path-to-popularity-two-tactics-for-youtube-fame/"><u>[Updated] In 2024, Easy Path to Popularity Two Tactics for YouTube Fame</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-discovering-the-best-music-playback-on-youtube-2023/"><u>2024 Approved Discovering the Best Music Playback on YouTube, 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship/"><u>2024 Approved Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-butterfly-keyboard-issues-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Butterfly Keyboard Issues Begin Receiving Up To $395 Refund Per Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-lenovo-legion-pro-5i-gen-9-laptop-assessment-unmatched-performance-at-a-steal/"><u>Comprehensive Lenovo Legion Pro 5I Gen 9 Laptop Assessment – Unmatched Performance at a Steal</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-smart-data-driven-user-tracking-solutions/"><u>Cookiebot-Enhanced: Experience Smart, Data-Driven User Tracking Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-hardware-specs-get-insightful-analysis-from-toms-tech-world/"><u>Deciphering Hardware Specs? Get Insightful Analysis From Tom's Tech World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-tools-a-trip-through-toms-circuitry/"><u>Delving Into Digital Tools – A Trip Through Tom’s Circuitry</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gadgets-and-innovations-at-toms-hardware/"><u>Discover Cutting-Edge Gadgets & Innovations at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-it-products-with-toms-expert-hardware-analysis/"><u>Discover Top IT Products with Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-endurance-lenovos-thinkpad-t14s-with-remarkable-29-hour-battery-life/"><u>Experience Unmatched Endurance: Lenovo's ThinkPad T14s with Remarkable 29-Hour Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-at-toms-hardware-hub/"><u>Exploring Advanced Computing at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-and-systems-a-journey-by-toms-hardware-experts/"><u>Exploring Advanced Gadgets and Systems - A Journey by Tom's Hardware Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-pitch-black-a-comprehensive-approach-to-dell-laptop-screen-problems/"><u>Fixing the Pitch Black: A Comprehensive Approach to Dell Laptop Screen Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-a60-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel A60 Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-500-internal-server-mistake-a-comprehensive-guide/"><u>Solving the Mystery of the 500 Internal Server Mistake: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-10-entertaining-games-for-beating-boredom/"><u>Top 10 Entertaining Games for Beating Boredom</u></a></li>
+</ul></div>
+

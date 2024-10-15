@@ -1,7 +1,7 @@
 ---
 title: "Comparing Top Tablets: Is the New Samsung Galaxy Tab S9 Ultra or Apple's Latest iPad Pro Your Best Choice for a Premium Experience?"
-date: 2024-09-18 17:50:40
-updated: 2024-09-20 11:53:38
+date: 2024-10-09T16:41:02.707Z
+updated: 2024-10-15T16:42:16.778Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,35 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +234,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>[New] 2024 Approved The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-camcorder-for-deer-hunting-excellence/"><u>[New] Best Camcorder for Deer Hunting Excellence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-list-of-easy-free-ios-tools-for-stunning-collage-creation-for-2024/"><u>[New] The Ultimate List of Easy, FREE iOS Tools for Stunning Collage Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-including-a-cover-letter-in-profile/"><u>[Updated] Including a Cover Letter in Profile</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-top-pc-components-from-toms-review-hub/"><u>Expert Insights on Top PC Components From Tom's Review Hub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-elite-circle-of-connectivity-facebook-twitter-instagram-and-youtube-breakdown/"><u>Exploring the Elite Circle of Connectivity: Facebook, Twitter, Instagram & YouTube Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-retro-to-revolutionary-how-a-classic-crt-monitor-managed-extreme-70-groove-refresh-rate-at-the-expense-of-resolution/"><u>From Retro to Revolutionary: How a Classic CRT Monitor Managed Extreme 70 Groove Refresh Rate at the Expense of Resolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-a-game-changer-the-massive-cooler-master-gaming-screen-featuring-dual-ultrawide-4k-and-mini-leds/"><u>Get Ready for a Game Changer: The Massive Cooler Master Gaming Screen Featuring Dual Ultrawide 4K and Mini LEDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-asus-tuf-165-hz-fps-24-inch-ips-gaming-screen-at-only-99-from-newegg/"><u>Grab the Deal! Asus TUF - 165 Hz FPS, 24-Inch IPS Gaming Screen at Only $99 From Newegg</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 15 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-s24-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy S24 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-electronics-with-toms-hardware-insights/"><u>Inside Look at Top-Tier Electronics with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-a-guide-to-cutting-edge-technology-evaluations/"><u>Inside Tom's Electronics: A Guide to Cutting-Edge Technology Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/jailbreak-and-upgrade-your-kindle-to-an-enhanced-e-ink-screen-with-devrepos-tutorial/"><u>Jailbreak & Upgrade Your Kindle to an Enhanced E-Ink Screen with DevRepo's Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-a-deep-dive-into-computer-components-by-tom/"><u>Navigate Through High-Tech: A Deep Dive Into Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-and-pc-components-at-toms-hardware-zone/"><u>Navigating New Gadgets and PC Components at Tom's Hardware Zone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-to-successfully-starting-armored-core-vi-addressing-fires-of-rubicon-boot-issues/"><u>Unlocking the Secrets to Successfully Starting Armored Core VI: Addressing 'Fires of Rubicon' Boot Issues</u></a></li>
+</ul></div>
+

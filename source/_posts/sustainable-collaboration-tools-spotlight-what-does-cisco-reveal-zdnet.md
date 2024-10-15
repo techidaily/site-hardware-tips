@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Collaboration Tools Spotlight: What Does Cisco Reveal? | ZDNet"
-date: 2024-09-19 22:57:36
-updated: 2024-09-20 11:38:21
+date: 2024-10-13T16:17:25.049Z
+updated: 2024-10-15T16:38:20.623Z
 tags:
   - sustainability
 categories:
@@ -72,11 +72,40 @@ Cisco also plans to help customers track the emissions they're producing when th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-maximizing-impact-when-to-start-your-podcast/"><u>[New] 2024 Approved Maximizing Impact When to Start Your Podcast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-expertise-full-guide-to-record-your-macscreens/"><u>[New] In 2024, The Ultimate Expertise Full Guide to Record Your MacScreens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-blue-enigma-whats-behind-the-symbol-on-facebook-messenger-for-2024/"><u>[New] The Blue Enigma What's Behind the Symbol on Facebook Messenger for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-social-media-rhythms-to-mobile-melodies-setting-up-your-tiktok-ringtone/"><u>[Updated] 2024 Approved Social Media Rhythms to Mobile Melodies Setting Up Your TikTok Ringtone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expert-webinar-label-builder-kit/"><u>[Updated] Expert Webinar Label Builder Kit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-unique-composition-through-montages-for-2024/"><u>Crafting Unique Composition Through Montages for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-toms-in-depth-analysis-of-tech-equipment/"><u>Delving Into Digital Devices: Tom’s In-Depth Analysis of Tech Equipment</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-from-tomn-hardware-reviews/"><u>Mastering Technology Insights From Tom'n Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-up-pc-assembly-corsairs-innovative-one-turn-screw-for-ultimate-efficiency/"><u>Speed Up PC Assembly: Corsair's Innovative One-Turn Screw for Ultimate Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-strength-of-amd-vs-intel-how-zen-technology-surpasses-with-advanced-threading-techniques/"><u>The Strength of AMD vs Intel: How Zen Technology Surpasses with Advanced Threading Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-4k-ultra-hd-monitors-latest-models-of-2024/"><u>Top Affordable 4K Ultra HD Monitors - Latest Models of 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

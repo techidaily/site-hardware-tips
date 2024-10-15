@@ -1,7 +1,7 @@
 ---
 title: "Xiaomi Book S Ultrabook Review: Experience the Power of Windows on ARM in a Budget-Friendly 2-in-1 Device"
-date: 2024-09-17 19:19:42
-updated: 2024-09-20 10:55:23
+date: 2024-10-10T16:01:53.584Z
+updated: 2024-10-15T16:22:45.748Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-simplified-steps-for-sequential-youtube-video-viewing-free/"><u>[New] 2024 Approved 5 Simplified Steps for Sequential YouTube Video Viewing (Free)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>[New] Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-avoid-commonplace-channel-titles-finding-uniqueness-with-filmora/"><u>[Updated] 2024 Approved Avoid Commonplace Channel Titles Finding Uniqueness with Filmora</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cross-media-content-flow-from-youtube-to-thirtyplus-others/"><u>In 2024, Cross-Media Content Flow From YouTube to Thirty+ Others</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr/"><u>In 2024, Quantum HDR Everything You May Want to Know About Quantum HDR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/razer-blade-14-analysis-compact-design-meets-maximum-performance-at-a-premium-cost/"><u>Razer Blade 14 Analysis: Compact Design Meets Maximum Performance at a Premium Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-appearing-windows-11-sign-ins/"><u>Resolving Non-Appearing Windows 11 Sign-Ins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-frameworks-upgraded-new-13-inch-laptops-with-advanced-intel-and-amd-zen-4-chipset/"><u>Revolutionary Frameworks Upgraded: New 13-Inch Laptops with Advanced Intel & AMD Zen 4 Chipset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-laptops-asus-unveils-a-customizable-zephyrus-g14-with-dynamic-colored-e-paper-screen-technology/"><u>The Future of Gaming Laptops: Asus Unveils a Customizable Zephyrus G14 with Dynamic Colored E-Paper Screen Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-components-by-toms-technology-hub/"><u>The Ultimate Guide to PC Components by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-the-latest-hardware/"><u>Tom's Tech Review: Comprehensive Insights on the Latest Hardware</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-software-guide-for-tempo-alteration-for-2024/"><u>Ultimate Software Guide for Tempo Alteration for 2024</u></a></li>
+</ul></div>
+

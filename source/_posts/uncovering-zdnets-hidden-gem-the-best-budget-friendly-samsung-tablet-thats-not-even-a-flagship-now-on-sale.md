@@ -1,7 +1,7 @@
 ---
 title: "Uncovering ZDNet’s Hidden Gem: The Best Budget-Friendly Samsung Tablet That's Not Even a Flagship - Now On Sale!"
-date: 2024-09-17 11:48:52
-updated: 2024-09-20 11:18:14
+date: 2024-10-11T16:32:36.387Z
+updated: 2024-10-15T16:37:20.867Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-mystery-of-where-to-find-top-ranked-instagram-ringtones-and-craft-perfect-alarms/"><u>2024 Approved Unraveling the Mystery of Where to Find Top-Ranked Instagram Ringtones & Craft Perfect Alarms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-7-free-virtual-fax-providers/"><u>Discover the Latest 7 FREE Virtual Fax Providers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-fixes-for-lenovos-usb-connection-challenges/"><u>Effortless Fixes for Lenovo's USB Connection Challenges</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-s23plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy S23+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-x100-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo X100 Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites/"><u>In 2024, Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-realme-narzo-60-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Realme Narzo 60 Pro 5G Device SIM</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-key-to-engaging-intros-in-podcast-scripts/"><u>In 2024, The Key to Engaging Intros in Podcast Scripts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movmkvmovavi/"><u>MOV到MKV自由转换：MOVAVI视频转码器 - 无限制在线改编</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-dawn-of-ai-pcs-can-your-new-2024-laptop-match-the-power-of-microsoft-copilotplus/"><u>The Dawn of 'AI PCs': Can Your New 2024 Laptop Match the Power of Microsoft Copilot+?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-debate-on-ai-branding-framework-takes-a-stand-against-pc-industry-practices/"><u>The Debate on AI Branding: Framework Takes a Stand Against PC Industry Practices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-review-on-the-powerful-asus-zenbook-s16-featuring-thorough-testing-of-the-amd-ryzen-ai-9-hx-370-processor/"><u>The Latest Review on the Powerful Asus Zenbook S16, Featuring Thorough Testing of the AMD Ryzen AI 9 HX 370 Processor.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-resilient-and-robust-world-of-asus-tuf-gaming-a14-detailed-insights/"><u>The Resilient and Robust World of Asus TUF Gaming A14 Detailed Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guide-and-reviews/"><u>Tom's Tech Hub: Comprehensive Guide & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets-and-systems/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-laptops-of-2024-expert-reviews-and-performance-tests/"><u>Top-Ranking Gaming Laptops of 2024 - Expert Reviews & Performance Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-2024s-best-gaming-laptops-comprehensive-tester-insights/"><u>Ultimate List of 2024'S Best Gaming Laptops: Comprehensive Tester Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-gaming-potential-with-lenovos-legion-slim-ve-laptop-featuring-rtx-4060-and-costing-just-899/"><u>Unleash Gaming Potential with Lenovo's Legion Slim Ve Laptop - Featuring RTX 4060 & Costing Just $899</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-potential-pro-guide-to-crafting-youtube-videos-for-2024/"><u>Unveiling Potential Pro Guide to Crafting YouTube Videos for 2024</u></a></li>
+</ul></div>
+

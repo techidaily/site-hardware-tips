@@ -1,7 +1,7 @@
 ---
 title: Lenovo IdeaPad Duet - A Fantastic Combination of Chromebook and Tablet Features Reviewed by ZDNet
-date: 2024-09-17 12:25:37
-updated: 2024-09-20 12:59:11
+date: 2024-10-09T16:18:21.674Z
+updated: 2024-10-15T16:44:23.443Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-illusions-realized-what-is-augmented-reality/"><u>[Updated] 2024 Approved Illusions Realized What Is Augmented Reality?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bargain-hunting-in-tech-top-rated-solid-state-and-hard-drive-specials-of-2024/"><u>Bargain Hunting in Tech: Top Rated Solid State & Hard Drive Specials of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-toms-computer-gadgets/"><u>Comprehensive Analysis of Tom's Computer Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-performance-analysis-of-the-crucial-p310-nvme-ssd-enhanced-speeds-on-m2-interface/"><u>Comprehensive Performance Analysis of the Crucial P310 NVMe SSD - Enhanced Speeds on M.2 Interface</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-marketing-solutions-drive-growth-through-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced Marketing Solutions: Drive Growth Through Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-with-tom-a-guide-to-modern-hardware-technology/"><u>Delving Into Digital Devices with Tom: A Guide to Modern Hardware Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-leading-free-flv-convertors-available-right-now-ultimate-guide-and-reviews/"><u>Discover the Leading Free FLV Convertors Available Right Now: Ultimate Guide & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-await-discover-the-best-solid-state-and-hdd-discounts/"><u>Exclusive Deals Await! Discover the Best Solid State & HDD Discounts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-get-the-4tb-crucial-p3-plus-nvme-gen4-solid-state-drive-at-an-unbelievable-price-of-just-005gb/"><u>Exclusive Offer: Get the 4TB Crucial P3 Plus NVMe Gen4 Solid State Drive at an Unbelievable Price of Just $0.05/GB!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanding-gameplay-wd-introduces-spacious-8tb-nvme-ssd-in-gamers-arsenal/"><u>Expanding Gameplay: WD Introduces Spacious 8TB NVMe SSD in Gamer's Arsenal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-lightning-quick-storage-connectivity-kioxia-introduces-optically-linked-ssd-for-distances-beyond-40-meters-away/"><u>Experience Lightning-Quick Storage Connectivity: Kioxia Introduces Optically Linked SSD for Distances Beyond 40 Meters Away</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-speed-with-nextorages-new-pcie-40-2230-ssd-7400-mbs-on-your-portable-game-console/"><u>Experience Unmatched Speed with Nextorage's New PCIe 4.0 2230 SSD - 7,400 MB/S on Your Portable Game Console</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuitous-audio-to-text-conversion-tool-for-2024/"><u>Gratuitous Audio to Text Conversion Tool for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone X without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance/"><u>In 2024, Analyzing Android's Best Editor Is PickUp at the Peak of Performance?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-geforce-rtx-1080-driver-update-for-windows-11-made-easy/"><u>Latest Nvidia GeForce RTX 1080 Driver Update for Windows 11 Made Easy</u></a></li>
+<li><a href="https://android-location.techidaily.com/navigating-the-world-of-electronics-with-toms-detailed-guides/"><u>Navigating the World of Electronics with Tom's Detailed Guides</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-no-sound-dilemma-on-your-google-chrome-browser/"><u>Solving the 'No Sound' Dilemma on Your Google Chrome Browser</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/7lwc7iugiou5houuloyypcdtjrjsp5hquldsl5ag64ya7zwcioqwgoyepsdsoovsnyag7isg7yodic0g7zie7j6sioq1rounpa/"><u>최신 비디오 편집기에 대한 가장 좋은 선택 - 현재 구매</u></a></li>
+</ul></div>
+

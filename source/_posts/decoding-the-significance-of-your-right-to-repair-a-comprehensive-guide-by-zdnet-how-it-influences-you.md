@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Significance of Your Right to Repair: A Comprehensive Guide by ZDNet | How It Influences You"
-date: 2024-09-19 20:24:11
-updated: 2024-09-20 10:55:36
+date: 2024-10-13T16:38:31.535Z
+updated: 2024-10-15T16:03:28.080Z
 tags:
   - sustainability
 categories:
@@ -19,6 +19,13 @@ Image: Thanasis/Getty Images
 
 When devices like phones, tablets and laptops are damaged or break down, it can often be very complicated and costly to get them fixed. It can mean going through a particular supplier nominated by the manufacturer, and often the fix is so expensive that it's easier to simply buy a new device. Fixing it yourself is nearly impossible because spare parts are very hard to come by -- as are the manuals and tools needed to fix even the simplest of problems -- or the components are glued in place.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
@@ -35,6 +42,13 @@ One major issue the legislation is trying to tackle is reducing e-waste. Accordi
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does e-waste affect the environment? Why should e-waste be reduced?
 
 E-waste is toxic for the environment and can harm living species -- including humans. The materials used to make electronic devices contain metals and chemicals that are hazardous to human health, such as beryllium, lead, mercury, nickel, and zinc, [according to the EPA](https://www.epa.gov/large-scale-residential-demolition/electronic-waste-and-demolition). 
@@ -42,6 +56,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 **Also:** [**Right to repair move gets backing from President Biden**](https://www.zdnet.com/article/right-to-repair-move-gets-backing-from-president-biden/)
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which states have right to repair laws?
 
@@ -68,6 +89,13 @@ The Right to Repair movement has been supported by several organizations, includ
 In addition to the positive effects that the legislation has on the environment, right to repair laws ultimately will save individuals money. Often, repairs at the OEM can be costly and inconvenient, since you need to seek out a service provider. 
 
 With options to repair a product yourself or bring it to a third party, you can compare different servicing fees and locations -- and ultimately pick the one that is best for you. The ability to fix your device at your own convenience should also make you more confident about getting your device repaired in the first place and hopefully extend its life. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the arguments against right to repair?
 
@@ -110,11 +138,31 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unboxing-logitechs-ultimate-4k-webcam/"><u>[New] 2024 Approved Unboxing Logitech's Ultimate 4K Webcam</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-bypassing-the-unseen-block-on-tiktok/"><u>[New] Bypassing the Unseen Block on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovative-house-blueprints-for-snapshot-players/"><u>[New] In 2024, Innovative House Blueprints for Snapshot Players</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-selection-of-top-8-high-quality-free-online-translators-for-2024/"><u>[New] Mastering Selection of Top 8 High-Quality Free Online Translators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-your-device-by-clearing-youtube-downloads/"><u>[New] Streamlining Your Device by Clearing YouTube Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs/"><u>2024 Approved Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-look-at-premium-gaming-keyboards-available-full-tenkeyless-and-miniature/"><u>A Comprehensive Look at Premium Gaming Keyboards Available - Full, Tenkeyless, and Miniature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-type-of-fan-for-your-computer-system-pwm-or-dc-a-comparison/"><u>Choosing the Right Type of Fan for Your Computer System: PWM or DC - A Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquering-heat-management-the-ultimate-guide-to-thermalrights-phantom-spirit-evo-120-edition/"><u>Conquering Heat Management: The Ultimate Guide to Thermalright's Phantom Spirit Evo 120 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-audio-solutions-the-best-microphone-picks-for-competitive-gamers/"><u>Elite Audio Solutions: The Best Microphone Picks for Competitive Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-from-toms-gear-hub/"><u>Expert Insights on Electronics From Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-levelplay-combat-air-ca4-the-quiet-champion-of-cpu-coolers-on-the-market-today/"><u>Inside Look at Levelplay Combat Air CA4 - The Quiet Champion of CPU Coolers on the Market Today</u></a></li>
+<li><a href="https://win-web3.techidaily.com/keep-your-windows-10-machine-running-smoothly-top-5-free-tips-to-extend-your-pcs-life-zdnet/"><u>Keep Your Windows 10 Machine Running Smoothly: Top 5 Free Tips to Extend Your PC's Life | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mov-movavi-wma/"><u>MOV 影片通過 Movavi 自由地改成 WMA 格式 - 線上無償服務</u></a></li>
+<li><a href="https://win-answers.techidaily.com/riot-addresses-league-of-legends-reconnection-issue-patch-notes-explained/"><u>Riot Addresses League of Legends Reconnection Issue - Patch Notes Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-hub-your-source-for-in-depth-hardware-insights/"><u>Tom's Gear Hub: Your Source for In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-and-analysis/"><u>Tom's Tech Review: Expert Insights and Analysis</u></a></li>
+</ul></div>
+

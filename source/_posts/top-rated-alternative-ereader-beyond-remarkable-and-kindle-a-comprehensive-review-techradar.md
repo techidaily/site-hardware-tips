@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Alternative eReader: Beyond Remarkable and Kindle – A Comprehensive Review | TechRadar"
-date: 2024-09-18 15:25:47
-updated: 2024-09-20 12:13:12
+date: 2024-10-12T16:29:44.367Z
+updated: 2024-10-15T16:03:10.179Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +167,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-film-crafting-from-script-to-screen/"><u>[New] 2024 Approved Film Crafting From Script to Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] 2024 Approved Next-Gen Online Meeting Apps Azoom No More</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-capture-tool-for-windows-10-professional/"><u>[New] In 2024, Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-idleness-tranquil-phone-game-recommendations/"><u>[Updated] In 2024, Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-speed-barriers-with-gskill-unveiling-the-latest-ddr4-6666-ram-record-setter-in-tech-history/"><u>Breaking Speed Barriers with G.Skill: Unveiling the Latest DDR4-6666 RAM Record Setter in Tech History</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-how-to-easily-handle-webm-imports-and-exports-with-adobe-after-effects/"><u>Comprehensive Tutorial on How to Easily Handle WebM Imports and Exports with Adobe After Effects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-on-your-code-companion-comparing-github-copilot-and-chatgpt-for-developers/"><u>Deciding on Your Code Companion: Comparing GitHub Copilot and ChatGPT for Developers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/endless-memories-free-saving-on-instagram-stories-for-2024/"><u>Endless Memories FREE Saving on Instagram Stories for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-comprehensive-pc-component-analysis/"><u>Exploring Hardware with Tom: Comprehensive PC Component Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>In 2024, How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-performance-a-step-by-step-guide-on-overclocking-your-raspberry-pi-4-running-windows-11/"><u>Maximizing Performance: A Step-by-Step Guide on Overclocking Your Raspberry Pi 4 Running Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-gear-with-toms-authoritative-hardware-guides/"><u>Navigating the World of Computing Gear with Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-enhancing-gpu-speed-through-overclocking-techniques/"><u>Step-by-Step Tutorial: Enhancing GPU Speed Through Overclocking Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-reviews-on-latest-gadgets-and-computer-components/"><u>Tom's Tech Hub: In-Depth Reviews on Latest Gadgets and Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-software/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-guides-t17239718704657/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+</ul></div>
+

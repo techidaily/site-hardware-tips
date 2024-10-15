@@ -1,7 +1,7 @@
 ---
 title: "Exploring Preferences: The Exciting Potential of an Intelligent iPad Mini Over iPhone 16 | ZDNET Insights"
-date: 2024-09-19 20:31:42
-updated: 2024-09-20 11:17:45
+date: 2024-10-13T16:16:10.731Z
+updated: 2024-10-15T16:36:22.923Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,19 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +105,19 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -147,6 +173,19 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +197,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +240,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-clarityai-creatives-unleash-editing-potential-for-2024/"><u>[New] ClarityAI Creatives Unleash Editing Potential for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-compile-list-of-cost-efficient-vecto-art-sites/"><u>[Updated] In 2024, Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/asmr-and-you-understanding-its-healing-power-for-2024/"><u>ASMR and You Understanding Its Healing Power for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-cinematic-content-with-precision-ratios-for-2024/"><u>Crafting Cinematic Content with Precision Ratios for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-guide-ultimate-resource-for-canon-mg-series-printer-drivers/"><u>Download & Update Guide: Ultimate Resource for Canon MG Series Printer Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-snapdragon-powered-notebooks-with-live-blog-and-copilotplus-insights/"><u>Exploring the Latest Snapdragon Powered Notebooks with Live Blog and Copilot+ Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fly-high-with-flying-lotus-the-innovative-battery-powered-aio-workstation-blending-laptop-chassis-and-3d-print-tech/"><u>Fly High with Flying Lotus: The Innovative Battery-Powered AIO Workstation Blending Laptop Chassis & 3D Print Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-pc-issues-keeping-your-game-of-frontier-running-smoothly/"><u>How to Fix PC Issues: Keeping Your Game of Frontier Running Smoothly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-10-best-video-player-apps-for-iphone-and-ipad/"><u>In 2024, 10 Best Video Player Apps for iPhone and iPad</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-new-game-changer-thinkpad-t14s-unveiled-with-longest-battery-life-29-hours-high-performance-qualcomm-processor-and-speed-boosting-ssd-storage/"><u>Lenovo's New Game-Changer: ThinkPad T14S Unveiled with Longest Battery Life (29 Hours), High-Performance Qualcomm Processor, and Speed-Boosting SSD Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-components-with-toms-hardware-guides/"><u>Navigating Computer Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-experts/"><u>Navigating the World of Computers with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-framework-and-deepcomputing-join-forces-bringing-the-power-of-risc-v-processors-to-a-next-gen-mainboard-for-modern-computing-needs/"><u>New Framework and DeepComputing Join Forces, Bringing the Power of RISC-V Processors to a Next-Gen Mainboard for Modern Computing Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-release-date-for-ryzen-ai-300-laptops-shop-the-latest-availability-at-best-buy-coming-soon-july-28/"><u>New Release Date for Ryzen AI 300 Laptops: Shop the Latest Availability at Best Buy – Coming Soon, July 28</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precise-electronics-reviews-by-tom-finding-the-best-gear/"><u>Precise Electronics Reviews by Tom: Finding the Best Gear</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolving-system-writer-missing-from-backup-issue-3-effective-solutions/"><u>Resolving 'System Writer Missing From Backup' Issue: 3 Effective Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/smooth-photo-and-video-flow-pc-to-iphone-upload-for-2024/"><u>Smooth Photo & Video Flow PC-to-iPhone Upload for 2024</u></a></li>
+</ul></div>
+

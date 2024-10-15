@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Smart Displays Showdown: The Distinct Features Between Samsung Frame TV (2024 Vs. 2023) | ZDNET"
-date: 2024-10-07T02:42:21.398Z
-updated: 2024-10-08T16:38:41.418Z
+date: 2024-10-13T16:09:04.883Z
+updated: 2024-10-15T16:07:16.180Z
 tags:
   - tvs
 categories:
@@ -52,18 +52,18 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -93,6 +93,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -100,13 +107,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -135,16 +135,10 @@ I usually play console games with a headset so I can better pick up on audio cue
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming 
@@ -181,6 +175,13 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -192,13 +193,6 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -236,18 +230,20 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[New] Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-how-to-use-creative-commons-copyright-licenses/"><u>[New] In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-12-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 12</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-phrozen-sonic-mega-8ks-synth-resin-evaluation-ideal-for-printing-enthusiasts/"><u>Comprehensive Phrozen Sonic Mega 8Ks Synth Resin Evaluation - Ideal for Printing Enthusiasts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-itel-p40-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Itel P40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-visual-storytelling-with-b-roll-integration/"><u>In 2024, Maximizing Visual Storytelling with B Roll Integration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-data-encoding-leveraging-common-plastics-for-ultra-efficient-3d-hologram-storage-capable-of-holding-up-to-amoeba-bits/"><u>Innovative Data Encoding: Leveraging Common Plastics for Ultra-Efficient 3D-Hologram Storage Capable of Holding Up to Amoeba Bits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-confirms-upcoming-launch-of-the-arrow-lake-s-processor-range-december-announcement-expected/"><u>Intel Confirms Upcoming Launch of the Arrow Lake-S Processor Range - December Announcement Expected</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware/"><u>Navigate the Tech World: In-Depth Analysis by Tom’s Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-amd-video-driver-found-in-windows-systems/"><u>No AMD Video Driver Found in Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rumored-december-release-intels-upcoming-arrow-lake-s-processor/"><u>Rumored December Release: Intel's Upcoming Arrow Lake-S Processor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-the-steps-msoffice-installation-on-windows-11/"><u>Simplifying the Steps: MSOffice Installation on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-razer-naga-mice-drivers-for-optimal-performance-in-windows-environments/"><u>Update to the Most Recent Razer Naga Mice Drivers for Optimal Performance in Windows Environments</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-streamline-your-online-chat-experience-with-voicemod-for-discord/"><u>[New] 2024 Approved Streamline Your Online Chat Experience with VoiceMod for Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-players-handbook-to-reconnecting-with-your-team-on-rainbow-six-siege-servers-error-fix-guide/"><u>A Player's Handbook to Reconnecting with Your Team on Rainbow Six Siege Servers: Error Fix Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/belkins-premium-power-bank-review-the-ultimate-qi-enabled-charger-featuring-a-built-in-kickstand-for-your-on-the-go-needs/"><u>Belkin's Premium Power Bank Review: The Ultimate Qi-Enabled Charger Featuring a Built-In Kickstand for Your On-The-Go Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-laptops-and-chromebooks-what-sets-them-apart/"><u>Comparing Laptops and Chromebooks – What Sets Them Apart?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/constructing-your-first-desktop-system-5-essential-steps-and-recommendations/"><u>Constructing Your First Desktop System: 5 Essential Steps and Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-security-flaw-in-popular-routers-why-hackers-love-them-and-how-to-protect-yourself/"><u>Critical Security Flaw in Popular Routers: Why Hackers Love Them & How To Protect Yourself</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-tips-for-successfully-refreshing-your-airpod-firmware/"><u>Easy Tips for Successfully Refreshing Your AirPod Firmware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-costly-luxury-with-apples-new-ipad-pro-m4-an-irresistible-tech-marvel/"><u>Embrace Costly Luxury with Apple's New iPad Pro (M4): An Irresistible Tech Marvel!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-digital-serenity-unveiling-the-light-phone-3-the-pinnacle-of-minimalist-mobile-tech/"><u>Embrace Digital Serenity: Unveiling the Light Phone 3, the Pinnacle of Minimalist Mobile Tech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-ralink-rt3290-a-step-by-step-solution-for-windows-10-8-and-7-users/"><u>Fixing Ralink RT3290: A Step-by-Step Solution for Windows 10, 8 and 7 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guidelines-for-accurate-dating-of-digital-pictures-for-2024/"><u>Guidelines for Accurate Dating of Digital Pictures for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-versus-android-phones-a-comprehensive-look-at-whats-best-for-you/"><u>IPhone Versus Android Phones: A Comprehensive Look at What's Best for You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-tecno-camon-20-premier-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Premier 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-troubleshooting-the-vr-game-crashes-on-your-pc/"><u>Resolving Issues: Troubleshooting the VR Game Crashes on Your PC</u></a></li>
 </ul></div>
 

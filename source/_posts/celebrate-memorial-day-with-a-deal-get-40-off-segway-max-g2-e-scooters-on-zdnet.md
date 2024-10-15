@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Memorial Day with a Deal: Get 40%% Off Segway Max G2 E-Scooters on ZDNET!"
-date: 2024-09-17 10:49:47
-updated: 2024-09-20 12:11:50
+date: 2024-10-10T16:11:55.973Z
+updated: 2024-10-15T16:25:48.128Z
 tags:
   - sustainability
 categories:
@@ -46,11 +46,38 @@ You can connect the Max G2 to the companion app to get at-a-glance updates on re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-visualstoryteller-for-windows-for-2024/"><u>[New] VisualStoryteller for Windows for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-alternative-film-choices-ranked-7-1-for-2024/"><u>[Updated] Alternative Film Choices Ranked #7-1 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-navigating-to-superior-websites-for-tamil-ringtone-saves/"><u>[Updated] In 2024, Navigating to Superior Websites for Tamil Ringtone Saves</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-essential-raspberry-pi-expansion-boards-hats-for-project-success-and-enhancement/"><u>2024'S Essential Raspberry Pi Expansion Boards (HATs) for Project Success and Enhancement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/beyond-the-numbers-narrative-the-impact-of-fake-likes-for-2024/"><u>Beyond the Numbers Narrative The Impact of Fake Likes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-crafting-beautiful-lithophanes-with-a-3d-printer-at-home/"><u>Expert Tips on Crafting Beautiful Lithophanes with a 3D Printer at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-hardware-with-toms-innovative-guides/"><u>Exploring Cutting-Edge Hardware with Tom's Innovative Guides</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718206-introducing-x-apply-stencils-making-idiot-proof-temperature-improvement-easier-than-ever-coming-soon/"><u>Introducing X-Apply Stencils: Making 'Idiot-Proof' Temperature Improvement Easier than Ever - Coming Soon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-your-voice-memos-a-comprehensive-guide-to-using-and-troubleshooting-the-windows-10-recording-tool/"><u>Mastering Your Voice Memos: A Comprehensive Guide to Using and Troubleshooting the Windows 10 Recording Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-computing-with-toms-hardware-insights/"><u>Navigating Modern Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethinking-ai-assessment-can-these-5-modern-methods-replace-the-traditional-turing-test/"><u>Rethinking AI Assessment: Can These 5 Modern Methods Replace the Traditional Turing Test?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-vpn-expert-evaluations-and-customer-ratings/"><u>The Ultimate Guide to Choosing a VPN: Expert Evaluations and Customer Ratings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timeless-shots-perfecting-the-art-of-date-placement-in-pictures-for-2024/"><u>Timeless Shots Perfecting the Art of Date Placement in Pictures for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/17241260693471-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s24-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S24 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-bambus-a1-slider-mattress-an-expert-review-and-performance-analysis-on-a-full-king-size/"><u>Unveiling the Secrets of Bambu's A1 Slider Mattress - An Expert Review and Performance Analysis on a Full King Size</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

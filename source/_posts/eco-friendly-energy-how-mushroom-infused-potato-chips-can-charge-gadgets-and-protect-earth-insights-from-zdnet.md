@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Energy: How Mushroom-Infused Potato Chips Can Charge Gadgets & Protect Earth - Insights From ZDNET"
-date: 2024-09-19 12:43:50
-updated: 2024-09-20 10:40:58
+date: 2024-10-12T16:39:36.063Z
+updated: 2024-10-15T16:03:51.259Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-elevate-streams-to-next-level-with-av1-on-youtube/"><u>[New] 2024 Approved Elevate Streams to Next Level with AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-youtube-income-lessons-from-sourav-joshi/"><u>[Updated] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/behind-virtual-walls-a-deep-dive-into-6-metaverse-cases-for-2024/"><u>Behind Virtual Walls A Deep Dive Into 6 Metaverse Cases for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-your-dream-rainbow-computer-with-hytes-revolutionary-nexus-link-for-rgb-devices/"><u>Build Your Dream Rainbow Computer with Hyte's Revolutionary Nexus Link for RGB Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-amds-five-revolutionary-new-processors-superior-computing-power-enhanced-by-strix-and-kraken-tech-innovations/"><u>Discover AMD's Five Revolutionary New Processors: Superior Computing Power Enhanced by Strix & Kraken Tech Innovations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-security-discover-expressvpns-latest-addition-a-password-management-tool/"><u>Enhance Your Security: Discover ExpressVPN's Latest Addition - A Password Management Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-top-7-traffic-optimization-mobile-apps/"><u>Exploring the Top 7 Traffic Optimization Mobile Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone X</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-revisiting-old-photos-sending-them-as-snaps-on-snapchat/"><u>In 2024, Revisiting Old Photos Sending Them as Snaps on Snapchat</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-virtualdub-for-mac/"><u>New In 2024, VirtualDub for Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125164631-save-big-on-phrozen-mini-8k-s-resolution-3d-printer-now-at-just-325/"><u>Save Big on Phrozen Mini 8K S Resolution 3D Printer - Now at Just $325!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermal-pad-debris-turned-feast-for-fire-ants-intriguing-photos-show-gpu-destruction-what-gamers-should-know/"><u>Thermal Pad Debris Turned Feast for Fire Ants: Intriguing Photos Show GPU Destruction - What Gamers Should Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-3d-printing-devices-choosing-between-fdm-resin-and-budget-friendly-options/"><u>Top Rated 3D Printing Devices : Choosing Between FDM, Resin & Budget-Friendly Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-digital-gadgets-with-toms-guidance/"><u>Unveiling the Latest in Digital Gadgets with Tom's Guidance</u></a></li>
+</ul></div>
+

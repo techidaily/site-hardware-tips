@@ -1,7 +1,7 @@
 ---
 title: "Surprising Quality: The Unbelievably Capable $500 Android Tablet Reviewed by ZDNet"
-date: 2024-09-18 15:18:54
-updated: 2024-09-20 11:54:12
+date: 2024-10-09T16:05:04.322Z
+updated: 2024-10-15T16:16:21.274Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-titans-clash-discovering-the-ultimate-7-grand-wars/"><u>[New] 2024 Approved Titans Clash Discovering the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-instagram-stories-your-complete-tune-up-guide/"><u>[Updated] In 2024, Mastering Instagram Stories Your Complete Tune-Up Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-securing-every-frame-best-practices-for-vimeo-record-use-for-2024/"><u>[Updated] Securing Every Frame Best Practices for Vimeo Record Use for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-virtual-horizons-ranking-top-vr-gaming-titles/"><u>2024 Approved Virtual Horizons Ranking Top VR Gaming Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-z791-lightning-wifi-mobo-helps-splave-shatter-oc-milestones/"><u>ASRock Z79^1 Lightning Wifi Mobo Helps Splave Shatter OC Milestones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-tailors-high-performance-motherboard-designed-to-overclock-chinas-homegrown-kx-7000-cpu-by-quarter-percentage-point/"><u>Asus Tailors High-Performance Motherboard Designed to Overclock China’s Homegrown KX-7000 CPU by Quarter Percentage Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-your-own-slim-htpc-with-the-elegant-asrock-am5-mini-itx-board-x600tm-itx/"><u>Build Your Own Slim HTPC with the Elegant ASRock AM5 Mini-ITX Board - X600TM-ITX</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-nubia-z60-ultra-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Nubia Z60 Ultra</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-depth-analysis-of-the-playstation-4-pro-and-its-4k-capabilities/"><u>In-Depth Analysis of the PlayStation 4 Pro and Its 4K Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-command-for-extracting-ip-and-mac-addresses/"><u>PowerShell Command for Extracting IP & MAC Addresses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-red-dead-redemption-2-crashing-issues-on-your-windows-laptop-or-desktop/"><u>Say Goodbye to Red Dead Redemption 2 Crashing Issues on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-zero-cost-disk-defragmenters-reviewed-july-2024-edition/"><u>Top 12 Zero-Cost Disk Defragmenters Reviewed - July 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-samsung-pixel-dense-viewfinity-s9-5k-monitor-now-just-899-save-44-on-this-premium-27-ips-display-with-integrated-4k-cam/"><u>Unbeatable Deal: Samsung Pixel-Dense ViewFinity S9 5K Monitor, Now Just $899 - Save 44% on This Premium 27 IPS Display with Integrated 4K Cam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-titan-army-p27a2r-monitor-a-comprehensive-review-of-its-gaming-capabilities-and-affordability/"><u>Unboxing the Titan Army P27A2R Monitor: A Comprehensive Review of Its Gaming Capabilities and Affordability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-performance-with-toms-hardware-solutions/"><u>Unleash Performance with Tom's Hardware Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-gadget-secrets-reliable-reviews-and-ratings-by-toms-tech-vault/"><u>Unraveling Gadget Secrets: Reliable Reviews and Ratings by Tom's Tech Vault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-a-closer-look-with-tom/"><u>Unveiling the Latest in Computing - A Closer Look with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-to-a-new-level-of-productivity-with-the-premium-lg-34-inch-ultragear-screen-at-an-unbeatable-price-of-499/"><u>Upgrade to a New Level of Productivity With the Premium LG 34-Inch UltraGear Screen at an Unbeatable Price of $499!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Experts Rate Lenovo's Upgraded Chromebook Duet 3 as a Top Contender in Affordable Laptops - A Comprehensive ZDNet Review
-date: 2024-09-19 15:25:42
-updated: 2024-09-20 10:16:37
+date: 2024-10-09T16:04:05.333Z
+updated: 2024-10-15T16:41:31.571Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-deciding-between-obs-and-streamlabs-for-live-broadcasting-for-2024/"><u>[New] Deciding Between OBS and Streamlabs for Live Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultra-30-action-cameras-by-garmin-in-depth-analysis/"><u>[New] In 2024, The Ultra 30 Action Cameras by Garmin - In Depth Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-yuneec-typhoon-h-dive-professional-takeaways/"><u>[Updated] The Yuneec Typhoon H Dive Professional Takeaways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-xbox-storage-capacity-by-1tb-for-just-125-with-this-reliable-seagate-expansion-solution/"><u>Boost Xbox Storage Capacity by 1TB for Just $125 with This Reliable Seagate Expansion Solution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capturing-action-on-faces-using-picsarts-blur-feature/"><u>Capturing Action on Faces Using Picsart's Blur Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooling-solutions-redefined-by-silverstone-icemyst-targeting-hard-to-reach-areas-effortlessly/"><u>Cooling Solutions Redefined by SilverStone IceMyst: Targeting Hard-to-Reach Areas Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-with-toms-hardware-insights/"><u>Exploring High-Performance Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-find-x6-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo Find X6 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-leveraging-videos-to-skyrocket-your-fb-audience/"><u>In 2024, Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-cougar-pc-enclosures-with-customizable-rgb-features-to-display-your-action-figure-collection-spotted-at-computex/"><u>Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex!</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-overcoming-package-access-problems-in-ws11ws10/"><u>Step-by-Step Guide to Overcoming Package Access Problems in WS11/WS10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-enable-quick-login-features-in-windows-os/"><u>Step-by-Step Tutorial: Enable Quick Login Features in Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-comprehensive-look-at-hardware/"><u>Tom's Tech Review: A Comprehensive Look at Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-guide-to-cutting-edge-technology/"><u>Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck!</u></a></li>
+</ul></div>
+

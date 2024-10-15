@@ -1,7 +1,7 @@
 ---
 title: "E Ink Tablet Excellence Uncovered: Surprising Performers that Outshine the Well-Known Amazon Kindle & ReMarkable Devices"
-date: 2024-09-19 17:31:12
-updated: 2024-09-20 11:43:58
+date: 2024-10-09T16:09:20.705Z
+updated: 2024-10-15T16:32:20.985Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,19 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +146,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -143,9 +163,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +234,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/est-7-dslr-cameras-for-vlogging/"><u>[New] Best 7 DSLR Cameras for Vlogging</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-develop-memes-for-viral-impact-adobe-way/"><u>2024 Approved Develop Memes for Viral Impact, Adobe Way</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>2024 Approved Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insight-a-closer-look-at-components-toms-hardware/"><u>Advanced Tech Insight: A Closer Look at Components - Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-asrock-b760m-pro-rs-motherboard-featuring-generous-m2-support/"><u>Affordable ASRock B760M Pro RS Motherboard - Featuring Generous M.2 Support</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-and-msi-unite-to-fortify-cpu-security-with-released-bios-update-targeting-zen-bleeding-problem-in-ryzen-series/"><u>AMD and MSI Unite to Fortify CPU Security with Released BIOS Update, Targeting Zen Bleeding Problem in Ryzen Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrocks-z890-taichi-aqua-a-powerhouse-of-connectivity-boasting-two-thunderbolt-and-ten-usb-type-c-ports-for-enhanced-performance/"><u>ASROCK's Z890 Taichi Aqua - A Powerhouse of Connectivity: Boasting Two Thunderbolt and Ten USB Type-C Ports for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-upgrades-bios-with-microsofts-dynamic-lighting-feature-simplifying-the-shift-from-armory-crate/"><u>Asus Upgrades BIOS with Microsoft's Dynamic Lighting Feature: Simplifying the Shift From Armory Crate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-your-everspace-2-game-from-freezingcrashing/"><u>Effective Solutions to Stop Your Everspace 2 Game From Freezing/Crashing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-itel-a70-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/m1-pro-to-m1-max-understanding-the-differences-in-apple-computing-for-2024/"><u>M1 Pro to M1 Max Understanding the Differences in Apple Computing for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-initial-black-screen-in-elden-ring-gameplay/"><u>Troubleshooting the Initial Black Screen in Elden Ring Gameplay</u></a></li>
+</ul></div>
+

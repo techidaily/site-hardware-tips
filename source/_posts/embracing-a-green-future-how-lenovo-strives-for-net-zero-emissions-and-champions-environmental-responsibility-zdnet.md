@@ -1,7 +1,7 @@
 ---
 title: "Embracing a Green Future: How Lenovo Strives for Net Zero Emissions and Champions Environmental Responsibility | ZDNet"
-date: 2024-09-19 22:49:12
-updated: 2024-09-20 11:49:39
+date: 2024-10-10T16:08:48.924Z
+updated: 2024-10-15T16:12:21.246Z
 tags:
   - sustainability
 categories:
@@ -112,11 +112,40 @@ I think so, and I'm super-proud that we're the first PC and smartphone manufactu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>[Updated] Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy-for-2024/"><u>[Updated] Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-rethinking-streaming-new-platforms-challenge-obs/"><u>[Updated] In 2024, Rethinking Streaming New Platforms Challenge OBS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-30plus-trending-youtube-shorts-hashtags-to-make-videos-go-viral/"><u>2024 Approved 30+ Trending YouTube Shorts Hashtags to Make Videos Go Viral</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/continuing-the-flame-amds-zen-5-cpus-stay-true-to-fl1-form-what-it-means-for-graphics-in-revised-laptop-models/"><u>Continuing the Flame: AMD's Zen 5 CPUs Stay True to FL1 Form – What It Means for Graphics in Revised Laptop Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-technology-secrets-with-tome-gear-hub/"><u>Decoding Technology Secrets with Tom'e Gear Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-leading-lightweight-gan-powered-chargers-for-your-ultrabook-and-notebook/"><u>Discover Leading Lightweight GaN Powered Chargers for Your Ultrabook and Notebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-tips-to-overcome-stuttering-and-freezing-in-outriders-on-your-computer/"><u>Effective Tips to Overcome Stuttering & Freezing in Outriders on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-raspberry-pi-projects-with-the-premier-selection-of-2024s-top-hat-devices/"><u>Elevate Your Raspberry Pi Projects with the Premier Selection of 2024'S Top HAT Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y100i-power-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y100i Power 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-components-at-toms-hardware-your-tech-resource/"><u>In-Depth Analysis of Components at Tom's Hardware | Your Tech Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-new-wave-in-depth-exploration-of-zen-5-ryzen-9000-chipset-ai-benchmarks-and-cutting-edge-gpu-innovations-by-amd/"><u>Mastering the New Wave: In-Depth Exploration of Zen 5, Ryzen 9000 Chipset, AI Benchmarks and Cutting-Edge GPU Innovations by AMD</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-resin-prints-quality-with-our-149-elegoo-wash-and-cure-kit-transform-your-workflow/"><u>Maximize Resin Prints Quality with Our $149 Elegoo Wash and Cure Kit – Transform Your Workflow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/micronics-introduces-affordable-desktop-sized-sls-3d-printer-at-299/"><u>Micronics Introduces Affordable Desktop-Sized SLS 3D Printer at $2,99</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-workflow-integrating-a-functional-taskbar-on-slate-devices-windows-11/"><u>Streamlining Workflow: Integrating a Functional Taskbar on Slate Devices (Windows 11)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Gionee F3 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-comprehensive-gadget-and-hardware-analysis-by-toms-team/"><u>Unveiling the Future of Tech: Comprehensive Gadget and Hardware Analysis by Tom's Team</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

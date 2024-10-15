@@ -1,7 +1,7 @@
 ---
 title: "Review: Lenovo's IdeaPad Duet Masterfully Combines Top-Notch Chromebook Functionality with Robust Tablet Performance"
-date: 2024-09-18 11:38:34
-updated: 2024-09-20 11:21:13
+date: 2024-10-09T16:01:49.215Z
+updated: 2024-10-15T16:08:29.066Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +146,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -158,6 +179,19 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +228,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-listing-high-quality-webcam-recorders-windows-11/"><u>[New] In 2024, Elite Listing High-Quality Webcam Recorders Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-screen-recording-software-unlimited-recordings/"><u>[Updated] 2024 Approved Elite Screen Recording Software, Unlimited Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] In 2024, Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://solve-info.techidaily.com/discover-efficient-data-analytics-through-our-advanced-cookiebot-driven-solutions/"><u>Discover Efficient Data Analytics Through Our Advanced Cookiebot-Driven Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862829558-experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79.</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-non-responsive-slack-alerts-a-quick-win-for-windows-users/"><u>Fix Non-Responsive Slack Alerts: A Quick Win for Windows Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862831112-huge-savings-alert-acer-nitro-curved-monitor-34-wqhd-slashed-to-2nk-available-only-at-newegg/"><u>Huge Savings Alert: Acer Nitro Curved Monitor, 34 WQHD, Slashed to $2Nk – Available Only at Newegg</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-k70e-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi K70E FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g84-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G84 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817669-memorial-day-special-unlock-epic-savings-on-dells-32-inch-gaming-display-for-only-279/"><u>Memorial Day Special: Unlock Epic Savings on Dell's 32-Inch Gaming Display for Only $279</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862824038-score-big-savings-on-the-ultrawide-aorus-oled-monitor-from-gigabyte-limited-offer-at-969/"><u>Score Big Savings on the Ultrawide, Aorus OLED Monitor From Gigabyte - Limited Offer at $969</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862813875-unleash-your-game-the-ultimate-offer-on-alienwares-34-inch-oled-monitor-only-749-at-best-buy/"><u>Unleash Your Game: The Ultimate Offer on Alienware's 34-Inch OLED Monitor, Only $749 at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-pc-components-a-deep-dive-by-toms-hardware/"><u>Unveiling the Secrets of PC Components - A Deep Dive by Tom's Hardware</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
+</ul></div>
+

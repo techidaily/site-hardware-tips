@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reviews the Trending 'Tangle-Resistant' USB-C Cable - An Essential Addition to Any Traveller's Bag
-date: 2024-09-18 11:49:11
-updated: 2024-09-20 12:26:41
+date: 2024-10-09T16:32:45.387Z
+updated: 2024-10-15T16:16:47.411Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -116,6 +123,13 @@ Depending on your use cases, the iPad, without the Magic Keyboard Folio, is good
 June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the regular iPad beats the Pro
 
@@ -143,6 +157,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/hannel-image-makeovers-on-the-house/"><u>[New] Channel Image Makeovers on the House</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-daily-dollars-and-cents-average-income-from-youtubes-adsense-per-thousand-viewer-hours/"><u>[New] In 2024, Daily Dollars and Cents Average Income From YouTube's AdSense Per Thousand Viewer Hours</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/135-deal-on-the-premium-asus-prime-x670-p-wifi-am5-mobo-dont-miss-out/"><u>$135 Deal on the Premium Asus Prime X670-P WiFi AM5 Mobo - Don't Miss Out</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>2024 Approved Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-insights-the-toms-hardware-perspective/"><u>Advanced Computing Insights: The Tom's Hardware Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-gaming-asus-prime-x670-p-wifi-am5-motherboard-for-a-budget-friendly-135/"><u>Affordable Gaming: ASUS Prime X670-P Wifi AM5 Motherboard for a Budget-Friendly $135</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-revolutionizes-gaming-rigs-with-their-brand-new-ryzen-9000-motherboards/"><u>ASRock Revolutionizes Gaming Rigs with Their Brand New Ryzen 9000 Motherboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-introduces-affordable-high-performance-z79/"><u>Asus Introduces Affordable High-Performance Z79</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-profitable-collaborations-with-brands-on-youtube-for-2024/"><u>Building Profitable Collaborations with Brands on Youtube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-steelseries-engine-optimize-your-pc-gaming-on-windows-10-now/"><u>Get SteelSeries Engine: Optimize Your PC Gaming on Windows 10 Now!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-the-visual-language-of-youtube-thumbnails/"><u>In 2024, Decoding the Visual Language of YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-face-id-on-iphone-here-are-14-reliable-ways-to-get-it-working-again/"><u>Struggling With Face ID on iPhone? Here Are 14 Reliable Ways to Get It Working Again</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-maxsuns-latest-chipset-z79ebm-d5-ice-motherboard-pcie-test-results-for-superior-performance-and-5x-m2-support/"><u>Unveiling the Power of Maxsun's Latest Chipset - Z79ebm D5 Ice Motherboard PCIe Test Results for Superior Performance & 5X M.2 Support</u></a></li>
+</ul></div>
+

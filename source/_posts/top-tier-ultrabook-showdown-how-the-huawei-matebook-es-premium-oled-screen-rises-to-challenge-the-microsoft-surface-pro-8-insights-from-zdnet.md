@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Ultrabook Showdown: How the Huawei MateBook E's Premium OLED Screen Rises to Challenge the Microsoft Surface Pro 8 | Insights From ZDNET"
-date: 2024-09-17 16:36:32
-updated: 2024-09-20 11:33:16
+date: 2024-10-14T16:34:32.919Z
+updated: 2024-10-15T16:06:01.160Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-rippleringers-finding-the-happiest-online-rhythms/"><u>[New] In 2024, RippleRingers Finding the Happiest Online Rhythms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-supercharge-your-social-sagas-free-seamless-online-integration/"><u>2024 Approved Supercharge Your Social Sagas FREE, Seamless Online Integration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-route-to-collecting-pictorial-frame-downloads/"><u>2024 Approved The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-motion-in-4k-with-nikon-d500-for-2024/"><u>Capturing Motion in 4K with Nikon D500 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgetguardians-roundup-the-best-performers-in-modern-computing-and-more/"><u>GadgetGuardians' Roundup: The Best Performers in Modern Computing & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-changer-msis-newest-aiplus-laptops-elevate-gamers-and-creators-with-powerful-100-to-wartime-542-tops-processing/"><u>Game Changer: MSI's Newest AI+ Laptops Elevate Gamers and Creators with Powerful 100 to Wartime 542 TOPS Processing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hydrogen-peroxide-h2o2-it-releases-oxygen-when-applied-to-a-wound-creating-a-foam-that-helps-remove-debris-and-bacteria-however-it-can-also-damage-healthy-c31/"><u>Hydrogen Peroxide (H2O2) - It Releases Oxygen when Applied to a Wound, Creating a Foam that Helps Remove Debris and Bacteria. However, It Can Also Damage Healthy Cells Surrounding the Wound, so Its Use Is Somewhat Controversial Among Medical Professionals.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-features-unveiled-in-our-lenovo-thinkpad-x1-carbon-gen-12-analysis-where-lightweight-meets-intelligent-computing/"><u>Innovative Features Unveiled in Our Lenovo ThinkPad X1 Carbon Gen 12 Analysis: Where Lightweight Meets Intelligent Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-pcs-and-peripherals-by-tom-your-trusted-source/"><u>Inside the World of PCs and Peripherals by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ultrabook-models-and-luxury-laptop-reviews/"><u>Leading Ultrabook Models & Luxury Laptop Reviews</u></a></li>
+<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-showdown-samsung-galaxy-s23-ultra-against-s21-ultra-reviewed/"><u>Ultimate Showdown: Samsung Galaxy S23 Ultra Against S21 Ultra Reviewed!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 5 | Dr.fone</u></a></li>
+</ul></div>
+

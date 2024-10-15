@@ -1,7 +1,7 @@
 ---
 title: "Sneak Peek at an Amazing Sale: How I Found One of the Best Affordable Samsung Tablets Out There (Not Your Usual Flagship) | ZDNET Exclusive"
-date: 2024-09-19 11:10:20
-updated: 2024-09-20 10:19:20
+date: 2024-10-14T16:11:20.577Z
+updated: 2024-10-15T16:31:45.767Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,19 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +105,19 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +169,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +234,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[Updated] Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-best-lighting-tools-ranked-17-1/"><u>[Updated] YouTube's Best Lighting Tools Ranked #17-1</u></a></li>
+<li><a href="https://blog-min.techidaily.com/pc60fps/"><u>動画編集忍者！PC向けの60fpsマスタリーテクニックを簡単に学ぶレシピ</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a14-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A14 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-3-unboxed-a-comprehensive-review-of-ions-marvel/"><u>In 2024, Pro 3 Unboxed A Comprehensive Review of ION's Marvel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/infinite-jest-joyride-top-kids-game-lineup-for-2024/"><u>Infinite Jest Joyride - Top Kids' Game Lineup for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-on-the-crystal-clear-lg-ultragear-qhd-monitor-w-g-sync-just-549-from-amazon/"><u>Limited Offer on the Crystal Clear LG Ultragear QHD Monitor W/ G-Sync - Just $549 From Amazon.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-gameplay-top-tier-gaming-display-for-just-199-the-innocn-27g1s-plus-with-crystal-clear-240hz-refresh-rate/"><u>Maximize Your Gameplay: Top-Tier Gaming Display for Just $199 - The Innocn 27G1S Plus with Crystal Clear 240Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-computer-components-with-expertise-discover-more-on-toms-hardware/"><u>Navigating Through Computer Components with Expertise - Discover More on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-expert-tips-from-toms-hardware-blog/"><u>Navigating Through Technology: Expert Tips From Tom's Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-experience-with-the-alienware-aw2725df-an-oled-monitor-built-for-speed-and-immersion-reviewed-here/"><u>Revolutionize Your Gaming Experience with the Alienware AW2725DF - An OLED Monitor Built for Speed and Immersion Reviewed Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv58/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/storyboard-suite-for-windows/"><u>Storyboard Suite for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Insights: Your Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ultrawide-displays-for-gamers-best-picks-2nd3/"><u>Top Ultrawide Displays for Gamers - Best Picks 2nD3</u></a></li>
+</ul></div>
+

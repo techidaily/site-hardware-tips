@@ -1,7 +1,7 @@
 ---
 title: Sustainable Future with Amazon? Meet the Duo of New Solar Energy Projects Down Under, as Spotted by ZDNET
-date: 2024-09-18 14:55:35
-updated: 2024-09-20 12:48:35
+date: 2024-10-11T16:35:02.373Z
+updated: 2024-10-15T16:33:46.476Z
 tags:
   - sustainability
 categories:
@@ -49,11 +49,32 @@ According to the company, it will speed up achieving these goals by further acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-adding-social-media-magic-snapchat-to-your-mac/"><u>[Updated] Adding Social Media Magic Snapchat to Your Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44cm44or44k944kz44oz55so44ks44kk44oj77ya6ksh5pww5yaz55yf44ks57we44g5zci44kp44gb44gm5yuv55s75yyw44gz44kl5pa55rov44cn/"><u>「パソコン用ガイド：複数写真を組み合わせて動画化する方法」</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-direct-pathway-iphone-files-on-your-desktop/"><u>2024 Approved Direct Pathway IPhone Files on Your Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clear-the-haunting-expert-advice-on-eliminating-ghost-images-in-3d-printing/"><u>Clear the Haunting: Expert Advice on Eliminating Ghost Images in 3D Printing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-complet-comprendre-les-fichiers-cr2-et-techniques-pour-les-ouvrir-sans-probleme/"><u>Guide Complet : Comprendre Les Fichiers CR2 Et Techniques Pour Les Ouvrir Sans Problème.</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-a18-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A18 Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-chill-an-expert-review-on-the-id-cooling-frozn-a720-and-a620-revolutionizing-air-cooling-solutions/"><u>Innovative Chill: An Expert Review on the ID-Cooling FROZN A720 & A620 - Revolutionizing Air Cooling Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New 2024 Approved Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-optimal-network-navigator-a-guide-to-selecting-superior-gaming-routers/"><u>The Optimal Network Navigator: A Guide to Selecting Superior Gaming Routers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews-1723264115881/"><u>Tom's Tech Review: In-Depth Analysis and Reviews</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

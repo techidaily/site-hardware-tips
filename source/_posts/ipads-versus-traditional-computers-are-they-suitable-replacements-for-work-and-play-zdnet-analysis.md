@@ -1,7 +1,7 @@
 ---
 title: "IPads Versus Traditional Computers: Are They Suitable Replacements for Work and Play? [ZDNet Analysis]"
-date: 2024-09-19 21:38:42
-updated: 2024-09-20 10:53:13
+date: 2024-10-12T16:40:20.162Z
+updated: 2024-10-15T16:39:25.566Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +167,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-minecraft-geometries-circular-and-spherical-designs-for-2024/"><u>[Updated] Mastering Minecraft Geometries Circular & Spherical Designs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-compre-written-by-jane-doe-phd-in-cognitive-psychology-and-behavioral-science/"><u>[Updated] The Compre Written By Jane Doe, PhD in Cognitive Psychology and Behavioral Science</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audio-engagement-exploration-delving-into-the-world-of-podcasts-vs-youtube-for-2024/"><u>Audio Engagement Exploration Delving Into the World of Podcasts Vs. YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-home-cooking-7-ai-inspired-ideas-from-gpt/"><u>Elevate Your Home Cooking: 7 AI-Inspired Ideas From GPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-lucky-day-top-discounted-powerhouse-laptops-of-2024-revealed/"><u>Gamers' Lucky Day: Top Discounted Powerhouse Laptops of 2024 Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-enthusiasts-holy-grail-exclusive-2024-alienware-and-dell-savings/"><u>Gaming Enthusiast's Holy Grail: Exclusive 2024 Alienware & Dell Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-powerhouse-asus-rog-zephyrus-g14-rtx-laptop-now-discounted-to-1099-at-best-buy/"><u>Get Your Hands on the Powerhouse: Asus ROG Zephyrus G14 RTX Laptop Now Discounted to $1099 at Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/howling-at-the-moon-the-mythic-tales-of-lunar-deities/"><u>Howling at the Moon: The Mythic Tales of Lunar Deities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-experience-microsofts-new-wave-surface-and-surface-pro-meets-copilotplus-tech/"><u>In-Depth Analysis: Experience Microsoft's New Wave – Surface and Surface Pro Meets Copilot+ Tech 🖥️</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insightful-reviews-on-pc-and-laptop-equipment-by-toms-team/"><u>Insightful Reviews on PC and Laptop Equipment by Tom's Team</u></a></li>
+<li><a href="https://fox-links.techidaily.com/jest-sculptor-undead-funnybots/"><u>Jest Sculptor Undead Funnybots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-28th-mark-your-calendar-get-ready-to-browse-best-buys-exclusive-listings-for-new-ryzen-ai-300-laptops/"><u>July 28Th - Mark Your Calendar! Get Ready to Browse Best Buy's Exclusive Listings for New Ryzen AI 300 Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-yoga-pro-9i-in-depth-review-highlighting-the-ergonomic-keyboard-and-slim-design/"><u>Lenovo Yoga Pro 9I In-Depth Review: Highlighting the Ergonomic Keyboard & Slim Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-asio-driver-update-for-windows-10-quick-easy-download-steps/"><u>RealTek Asio Driver Update for Windows 10 – Quick, Easy Download Steps!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-18-mais-populares-programas-de-gravacao-de-video-para-windows-gratuitos/"><u>Top 18 Mais Populares Programas De Gravação De Vídeo Para Windows Gratuitos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-still-show-pictures-ive-deleted-from-the-camera-roll-top-8-fixes-explored/"><u>Why Does My iPhone Still Show Pictures I've Deleted From the Camera Roll? Top 8 Fixes Explored</u></a></li>
+</ul></div>
+

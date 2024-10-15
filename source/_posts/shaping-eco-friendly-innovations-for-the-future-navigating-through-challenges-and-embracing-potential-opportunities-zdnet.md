@@ -1,7 +1,7 @@
 ---
 title: "Shaping Eco-Friendly Innovations for the Future: Navigating Through Challenges and Embracing Potential Opportunities | ZDNET"
-date: 2024-09-17 17:24:34
-updated: 2024-09-20 10:26:49
+date: 2024-10-10T16:04:15.730Z
+updated: 2024-10-15T16:17:08.954Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ Are we smart enough to deploy technology more effectively to help create a more 
 
 These are the main questions covered, from various angles, in this ZDNET in-depth special report. In the meantime, here's some more context. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is the fate of technological civilizations? 
 
 In his excellent and accessible 2018 book [_Light of the Stars_](https://www.adamfrankscience.com/light-of-the-stars), Adam Frank, a [professor of astrophysics](http://www.pas.rochester.edu/people/faculty/frank%5Fadam/index.html) at the University of Rochester, describes a mathematical model of how theoretical technological civilizations might respond to changing conditions on their planets. For simplicity, the model includes just two kinds of energy resources -- one with high planetary impact (like fossil fuels), the other with low impact (like solar energy). At some point, rising planetary temperature causes a civilization to switch energy resources from high to low impact, and the model explores various outcomes for the planet's capacity to support a population of the energy-consuming species. 
@@ -50,6 +57,13 @@ After running multiple simulations, three kinds of trajectory were observed: 'di
 Of course, we don't know which, if any, of these trajectories Earth and its human population might follow (although high-resolution [next-generation climate models](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-modelling.pdf) based on[exascale computing](https://www.zdnet.com/article/this-giant-supercomputer-dominates-the-rankings-and-catching-it-will-take-a-lot-of-work/) will help), but the warning signs are there, and it would certainly be wise to avoid dicing with the tipping points that can lead to full-blown collapse.
 
 However, global emissions are still too high: the IPCC estimates that 410 gigatonnes of CO2 were emitted between 2010 and 2019, leaving a 'carbon budget' of just 500GtCO2 for the remainder of the 21st century to limit global warming to 1.5°C. As of [November 2022](https://climateactiontracker.org/publications/massive-gas-expansion-risks-overtaking-positive-climate-policies/), global temperatures were about 1.2°C above pre-industrial levels and heading for 2.4°C by 2100 under current 2030 targets.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How does technology contribute to climate change? 
 
@@ -68,6 +82,19 @@ Further efforts will clearly be required to reduce the environmental footprint o
 The think tank's second report concentrated on online video, which, it estimated, generated 60% of world data flows and 300 million tons of CO2 in 2019, or 1% of global emissions. Four main types of online video content were identified: video on demand (e.g. Netflix, Amazon Prime, 34%); pornography (27%), 'Tubes' (e.g. YouTube, Dailymotion, 21%); and others (e.g. video hosted on social networks, 18%). Mitigating the environmental impact of online video would mean reducing the use and size of video files, and regulation of different types of usage, the report argued.
 
 A key component of any sustainable digital transition will be a move to a more [circular economy](https://en.wikipedia.org/wiki/Circular%5Feconomy), where instead of manufacturing, using, disposing of and replacing tech products, device lifetimes are extended via [repair](https://repair.eu/about/), refurbishment and reuse, and component materials re-enter the (ideally closed-loop) process via recycling rather than becoming [e-waste](https://weee-forum.org/who-we-are/) and going to landfill, causing pollution and requiring replacement minerals and metals to be extracted (resulting in further environmental damage). 
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are companies doing to improve sustainability? 
 
@@ -132,6 +159,19 @@ Image: HP
 
 Then there are smaller vendors such as [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/), which specialise in modular phones and laptops respectively. There's also a growing market for refurbished PCs, with a [2021 valuation](https://www.marketresearch.com/QYResearch-Group-v3531/Global-Refurbished-PC-Research-14240533/) of $9.34 billion, rising to an estimated $14.76bn (6.8% CAGR) by the end of 2027\. We should always be wary of [greenwashing](https://en.wikipedia.org/wiki/Greenwashing), of course, but it does seem as though technology companies are now paying a lot more than lip service to the environment.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The road ahead
 
 As the world's population heads towards 10 billion-plus in 2100, the window of opportunity for limiting global warming to 1.5°C, per the 2015 Paris Agreement, is closing rapidly. Technology has contributed significantly to global warming over the past 50-plus years, but tech companies are increasingly signing up for verifiable, science-based emission-reduction targets, and embracing sustainable and recycled materials, designing more modular and repairable products, and pledging to minimize e-waste. Innovation in areas like carbon capture, renewable energy, battery technology, the Internet of Things, and remote sensing will also have a big part to play in climate mitigation going forward.
@@ -161,11 +201,27 @@ News on climate change can seem relentlessly bad, but there are grounds for hope
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>[New] The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-choice-the-10-free-cross-platform-video-calling-tools/"><u>[New] Ultimate Choice The 10 Free, Cross-Platform Video Calling Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>[Updated] Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beste-techniken-zur-konvertierung-von-dvds-in-avi-format-fur-das-jahr-2023-eine-auswahl-der-drei-besten/"><u>Beste Techniken Zur Konvertierung Von DVDs in AVI Format Für Das Jahr 2023: Eine Auswahl Der Drei Besten</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>In 2024, The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instagram-not-running-smoothly-discover-6-essential-solutions-for-both-iphone-and-android-users/"><u>Instagram Not Running Smoothly? Discover 6 Essential Solutions for Both iPhone and Android Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-extends-support-with-additional-two-years-of-warranty-on-latest-generation-processors-to-combat-instability-issues/"><u>Intel Extends Support with Additional Two Years of Warranty on Latest Generation Processors to Combat Instability Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pro-tools-pro-results-elevating-video-quality-in-youtube-editing/"><u>Pro Tools, Pro Results Elevating Video Quality in YouTube Editing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-nokia-c210-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Nokia C210 has been deleted</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-record-your-powerpoint-presentation/"><u>Step-by-Step Record Your PowerPoint Presentation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-analyses/"><u>Tom's Tech Reviews: Comprehensive Gadget Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-expert-analysis-by-toms-hardware/"><u>Unveiling the Latest in Technology - Expert Analysis by Tom's Hardware</u></a></li>
+</ul></div>
+

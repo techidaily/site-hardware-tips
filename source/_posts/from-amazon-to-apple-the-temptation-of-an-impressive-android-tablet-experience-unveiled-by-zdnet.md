@@ -1,7 +1,7 @@
 ---
 title: "From Amazon to Apple: The Temptation of an Impressive Android Tablet Experience Unveiled by ZDNet"
-date: 2024-09-18 15:17:21
-updated: 2024-09-20 10:22:47
+date: 2024-10-13T16:41:56.517Z
+updated: 2024-10-15T16:42:51.602Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,19 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +130,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +153,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +173,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-10-best-iphone-and-android-apps-to-make-into-videos/"><u>[Updated] In 2024, The 10 Best iPhone & Android Apps to Make Into Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-srt-insights-essential-facts-unveiled/"><u>[Updated] Ultimate SRT Insights Essential Facts Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-potential-of-your-youtube-channel-subscribers/"><u>[Updated] Unlocking the Potential of Your YouTube Channel (Subscribers)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/3-simple-methods-to-brighten-a-video-on-iphone/"><u>3 Simple Methods to Brighten a Video on iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262290090-amd-confirms-on-schedule-release-the-ryzen-5000xt-series-arrives-this-month/"><u>AMD Confirms On-Schedule Release: The Ryzen 5000XT Series Arrives This Month!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beste-ansatze-zum-installieren-von-windows-11-auf-einem-ssd-ein-umfassender-leitfaden/"><u>Beste Ansätze Zum Installieren Von Windows 11 Auf Einem SSD - Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-90-gt-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor 90 GT to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11f-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11F 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-equipment-at-toms-hardware-hub/"><u>Navigate the World of Computing Equipment at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-components-through-toms-expertise/"><u>Navigating the World of Computer Components Through Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-toms-hardware/"><u>Navigating the World of Electronics - Tips & Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-electronics-a-look-at-toms-hardware/"><u>Navigating Through Electronics: A Look at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-msi-motherboard-update-defaulting-to-intel-official-power-specs-with-core-i9-cpus-to-prevent-system-crashes-during-intels-ongoeing-analysis/"><u>New MSI Motherboard Update: Defaulting to Intel Official Power Specs with Core I9 CPUs to Prevent System Crashes During Intel's Ongoeing Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-innovations-unveiling-pcie-60s-superior-thermal-solutions-compared-to-pcie-50/"><u>Next-Level Cooling Innovations: Unveiling PCIe 6.0'S Superior Thermal Solutions Compared to PCIe 5.0</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-stress-homemade-motherboards-perfect-for-a-smooth-computer-building-experience/"><u>No-Stress Homemade Motherboards: Perfect for a Smooth Computer Building Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-gear-guidance-by-toms-hardware-experts/"><u>Precision Gear Guidance by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sapphires-new-entry-low-cost-pcie-gen-4-mini-itx-am5-motherboard-now-available-in-china/"><u>Sapphire's New Entry: Low-Cost, PCIe Gen 4 Mini ITX AM5 Motherboard Now Available in China</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-nikon-video-editing-software-how-to-edit-nikon-video-files-for-2024/"><u>Updated Nikon Video Editing Software How to Edit Nikon Video Files for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-6s-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 6s i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings Alert: Snag the Ultra-Speedy 4TB Samsung Portable SSD Up to 50%% Off on Amazon for Labor Day - Don't Miss Out!"
-date: 2024-09-19 20:10:15
-updated: 2024-09-20 10:35:56
+date: 2024-10-14T16:29:20.081Z
+updated: 2024-10-15T16:21:56.750Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -143,9 +157,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] 6 Video Styles for Maximum Viewer Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-extensive-analysis-the-complete-gear-360-camera-experience/"><u>[Updated] In 2024, Extensive Analysis The Complete Gear 360 Camera Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-video-broadcasts-wirecast-and-its-allies-for-2024/"><u>[Updated] Mastering Video Broadcasts Wirecast and Its Allies for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-prime-windows-11-photo-inspector/"><u>2024 Approved Prime Windows 11 Photo Inspector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acers-exclusive-gamers-deal-unmatched-performance-with-rtx-4070-and-amd-cpu-in-the-nitro-16-laptop-available-now-for-just-1129/"><u>Acer's Exclusive Gamers Deal: Unmatched Performance with RTX 4070 and AMD CPU in the Nitro 16 Laptop - Available Now for Just $1,129!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-analysis-and-selection-by-toms-technology-experts/"><u>Advanced Hardware Analysis and Selection by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technology-trends-explored-by-experts-at-toms-hardware-hq/"><u>Advanced Technology Trends Explored by Experts at Tom's Hardware HQ</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g73-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Moto G73 5G?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-asus-rog-zephyrus-g16-cut-costs-on-top-tier-tech-with-ultra-performance-cpu-and-gpu-plus-a-flat-screen-display-at-240hz-oled-quality-avail-for28/"><u>Don't Miss Out: Asus ROG Zephyrus G16 - Cut Costs on Top-Tier Tech with Ultra Performance CPU & GPU, Plus a Flat Screen Display at 240Hz OLED Quality – Avail for $250 Less Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/exploring-the-length-limits-for-instagram-videos/"><u>Exploring the Length Limits for Instagram Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-from-live-to-recorded-using-obs-for-games/"><u>In 2024, From Live to Recorded Using OBS for Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tips-for-optimal-online-vhs-photo-enhancement/"><u>In 2024, Top Tips for Optimal Online VHS Photo Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862724985-prepare-for-acemagic-x1s-early-bird-discount-pre-launch-and-pricing-announcement-soon/"><u>Prepare for AceMagic X1's Early Bird Discount – Pre-Launch and Pricing Announcement Soon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-definitive-guide-to-cutting-edge-gadgets-and-systems/"><u>Tom's Tech Insights: The Definitive Guide to Cutting-Edge Gadgets and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-gaming-potential-with-the-budget-friendly-16-inch-dell-g16-just-949-awaits-you/"><u>Unleash Ultimate Gaming Potential with the Budget-Friendly 16-Inch Dell G16 - Just $949 Awaits You</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-mystery-of-vyncs-links-user-experience-and-subscriptions/"><u>Unraveling the Mystery of Vyncs Link's User Experience & Subscriptions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-asus-zenbook-s16-testing-and-analysis-of-amd-ryzen-ai-9-hx-370-cpu/"><u>Unveiling the Power of Asus Zenbook S16: Testing & Analysis of AMD Ryzen AI 9 HX 370 CPU</u></a></li>
+</ul></div>
+

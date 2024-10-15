@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Roku Devices & Streaming Sticks - Latest Reviews on ZDNet
-date: 2024-10-04T00:05:17.507Z
-updated: 2024-10-08T17:41:27.426Z
+date: 2024-10-11T16:24:51.003Z
+updated: 2024-10-15T16:13:22.177Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +105,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-professional-filmmaking-made-easy-with-right-lenses/"><u>[New] Professional Filmmaking Made Easy with Right Lenses</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-guide-to-effortless-acquisition-of-exquisite-royalty-free-images/"><u>[Updated] 2024 Approved The Guide to Effortless Acquisition of Exquisite Royalty-Free Images</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-animation-create-your-own-3d-printer-shaped-wireless-charger-for-under-50-using-bambu-labs-technology/"><u>Affordable Animation: Create Your Own 3D-Printer-Shaped Wireless Charger for Under $50 Using Bambu Labs Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deep-dive-into-amds-high-performance-realm-ryzen-cpu-series-comparative-analysis-of-9900x-e9700x-and-9600x-cinebench-scores/"><u>Deep Dive Into AMD's High-Performance Realm: Ryzen CPU Series - Comparative Analysis of 9900X, E9700X and 9600X Cinebench Scores</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-joining-officejet-8720-to-home-computers/"><u>Guide: Joining OfficeJet 8720 to Home Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-and-grow-an-online-space-for-beauty-product-reviews/"><u>In 2024, How To Create and Grow an Online Space for Beauty Product Reviews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-5g-2023-turbo-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 5G 2023 Turbo Phone with Broken Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-valkyrie-sync-240-aio-liquid-chiller-efficient-heat-dissipation-hindered-by-clunky-application-software/"><u>In-Depth Review of Valkyrie Sync 240 AIO Liquid Chiller: Efficient Heat Dissipation Hindered by Clunky Application Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-trends-through-toms-equipment-analysis/"><u>Mastering Tech Trends Through Tom's Equipment Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-your-teams-productivity-a-guide-to-using-the-copilot-functionality-in-microsoft-teams/"><u>Optimize Your Team's Productivity: A Guide to Using the Copilot Functionality in Microsoft Teams</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-install-guide-to-hd-webcam-driver-logitech-c270-windows-1011/"><u>Quick-Install Guide to HD Webcam Driver - Logitech C270, Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-non-primary-app-uses-computer-audio-devices/"><u>Resolving Non-Primary App Uses Computer Audio Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-cpu-cooler-pros-and-cons-of-aio-and-air-options/"><u>The Ultimate Guide to Choosing a CPU Cooler – Pros & Cons of AIO and Air Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-and-advice-mastering-computer-upgrades-and-buying-tips/"><u>Tom's Hardware Review & Advice: Mastering Computer Upgrades and Buying Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-boosting-your-iphones-audio-output-during-calls/"><u>Ultimate Guide: Boosting Your iPhone's Audio Output During Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-freeze-time-on-mi-11-with-impeccable-screen-recording-features-for-2024/"><u>[Updated] Freeze Time on Mi 11 with Impeccable Screen Recording Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>2024 Approved Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beat-the-buffering-clearing-up-netflixs-nw-1-19-issue/"><u>Beat the Buffering: Clearing Up Netflix's 'NW-1-19' Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-oculus-quest-experience-with-a-comfort-improving-counterweight/"><u>Enhance Your Oculus Quest Experience with a Comfort-Improving Counterweight!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-workshop-expert-advice-on-building-pcs/"><u>Inside Tom's Gear Workshop: Expert Advice on Building PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-low-fps-woes-world-of-warcraft-optimization-techniques-for-peak-performance-in-2n24/"><u>Say Goodbye to Low FPS Woes: World of Warcraft Optimization Techniques for Peak Performance in 2N24</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-with-logitechs-keys-to-go-2-a-revolutionary-compact-keyboard-solution/"><u>Ultimate Portability with Logitech's Keys-To-Go 2: A Revolutionary Compact Keyboard Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-1440pqhd-resolution-key-facts-and-insights/"><u>Understanding 1440P/QHD Resolution: Key Facts and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-debate-a-deep-dive-into-the-controversial-new-anti-cheat-tech/"><u>Understanding the Debate: A Deep Dive Into the Controversial New Anti-Cheat Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-role-and-benefits-of-placeholder-memory-chips-for-personal-computing-enthusiasts/"><u>Understanding the Role and Benefits of Placeholder Memory Chips for Personal Computing Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/undetected-backdoor-discovered-how-a-security-glitch-endangers-amd-cpu-users-with-stealthy-malware/"><u>Undetected Backdoor Discovered: How a Security Glitch Endangers AMD CPU Users with Stealthy Malware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwind-with-bargains-top-deals-on-noise-canceling-earbuds-for-better-sleep/"><u>Unwind with Bargains: Top Deals on Noise-Canceling Earbuds for Better Sleep</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tablet-experience-discover-why-the-zagg-pro-stylus-2-is-an-essential-accessory-for-every-ipad-owner/"><u>Upgrade Your Tablet Experience: Discover Why the ZAGG Pro Stylus 2 Is an Essential Accessory for Every iPad Owner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/week-in-review-changes-to-netflix-plans-and-top-tips-for-upgrading-iphone-repairs/"><u>Week in Review: Changes to Netflix Plans & Top Tips for Upgrading iPhone Repairs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-overcame-my-dislike-of-subscriptions-with-oura-ring/"><u>Why I Overcame My Dislike of Subscriptions with Oura Ring</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70e-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70E Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Take on Microsoft Surface Go 3: Compact Powerhouse with a Battery Caveat"
-date: 2024-09-18 22:38:55
-updated: 2024-09-20 11:26:51
+date: 2024-10-13T16:07:26.652Z
+updated: 2024-10-15T16:06:34.086Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-choosing-ideal-youtube-thumbnail-shapes/"><u>[New] 2024 Approved Guide to Choosing Ideal Youtube Thumbnail Shapes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-thriving-in-the-digital-age-mastering-facebook-interaction/"><u>[New] Thriving in the Digital Age Mastering Facebook Interaction</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-unlit-mouse-on-modern-os/"><u>[Resolution] Unlit Mouse on Modern OS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-gratis-emulation-software-for-nintendo-switch/"><u>[Updated] Gratis Emulation Software for Nintendo Switch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-incorporating-seconds-and-minutes-on-youtube-clips/"><u>2024 Approved Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acemagix-x1-your-new-intel-powered-workstation-with-two-14-inch-fhd-displays-for-only-899/"><u>AceMagix X1: Your New Intel-Powered Workstation with Two 14-Inch FHD Displays for Only $899</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-knowledge-with-toms-circuitry-experts/"><u>Advanced PC Knowledge with Tom's Circuitry Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-livestreams-with-manycam-cutting-edge-software-for-virtual-webcams-and-recording-features/"><u>Enhance Your Livestreams with ManyCam: Cutting-Edge Software for Virtual Webcams and Recording Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862695493-huge-savings-opportunity-snag-an-alienware-m18-r2-laptop-powered-by-rtx-4090-for-700-less/"><u>Huge Savings Opportunity: Snag an Alienware M18 R2 Laptop Powered by RTX 4090 for $700 Less</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-editing-capabilities-added-to-dall-e-3-a-work-in-progress/"><u>New Editing Capabilities Added to DALL-E 3 – A Work in Progress</u></a></li>
+<li><a href="https://win-top.techidaily.com/resolved-step-by-step-guide-for-overcoming-niet-werkt-in-windows-1011-startup-repair-process/"><u>Resolved: Step-by-Step Guide for Overcoming 'Niet Werkt' In Windows 10/11 Startup Repair Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862736993-starting-from-just-1099-acer-dell-hp-and-lenovo-launch-snapdragon-x-windows-copilot-pcs-with-extended-multi-day-battery/"><u>Starting From Just $1,099: Acer, Dell, HP & Lenovo Launch Snapdragon X Windows Copilot PCs With Extended Multi-Day Battery</u></a></li>
+</ul></div>
+

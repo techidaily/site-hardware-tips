@@ -1,7 +1,7 @@
 ---
 title: "[Month]: The Ultimate List of Apple Products You Need to Skip, Including These iPhones! | Digital Trends"
-date: 2024-09-17 16:47:39
-updated: 2024-09-20 11:38:24
+date: 2024-10-11T16:19:00.581Z
+updated: 2024-10-15T16:38:09.895Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-essential-strategies-for-professional-grade-video-editing/"><u>[Updated] In 2024, Essential Strategies for Professional-Grade Video Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-media-streamlining-is-a-podcast-or-youtube-better-for-you/"><u>[Updated] Media Streamlining Is a Podcast or YouTube Better for You?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enveloped-by-shadow-adobe-technique/"><u>2024 Approved Enveloped by Shadow Adobe Technique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digging-for-discounted-beauty-in-tiktok-backgrounds/"><u>Digging for Discounted Beauty in TikTok Backgrounds</u></a></li>
+<li><a href="https://facebook.techidaily.com/elite-clubs-sever-social-media-connections-amid-cyberbullying-fears/"><u>Elite Clubs Sever Social Media Connections Amid Cyberbullying Fears</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-11-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 11 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guidelines-for-accurate-dating-of-digital-pictures/"><u>In 2024, Guidelines for Accurate Dating of Digital Pictures</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-yosemite-video-editing-guide-tips-tricks-and-tutorials/"><u>New In 2024, The Ultimate Yosemite Video Editing Guide Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-bargain-asuss-tuf-gaming-monitor-24-ips-165-hz-now-just-99-on-newegg/"><u>Score a Bargain! Asus's TUF Gaming Monitor, 24 IPS, 165 Hz - Now Just $99 on Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-experience-the-thor-darth-vader-look-on-your-desk-with-this-high-performance-24-ips-monitor-at-just-139-from-chinese-retailer/"><u>Score a Steal: Experience the 'Thor Darth Vader' Look on Your Desk With This High-Performance 24 IPS Monitor at Just $139 From Chinese Retailer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-displays-a-comprehensive-review-of-the-philips-qd-oled-evonia-49m2c8900/"><u>The Future of Gaming Displays: A Comprehensive Review of the Philips QD-OLED Evonia 49M2C8900</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-complication-of-displayport-21-and-its-impact-on-high-speed-cables-unveiling-the-reason-behind-nvidias-persistent-use-of-dp-14-in-rtx-40-series.m62/"><u>The Hidden Complication of DisplayPort 2.1 and Its Impact on High-Speed Cables: Unveiling the Reason Behind Nvidia's Persistent Use of DP 1.4 in RTX 40 Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cost-effective-curved-monitors-with-g-sync-features/"><u>The Ultimate Guide to Cost-Effective Curved Monitors with G-Sync Features</u></a></li>
+</ul></div>
+

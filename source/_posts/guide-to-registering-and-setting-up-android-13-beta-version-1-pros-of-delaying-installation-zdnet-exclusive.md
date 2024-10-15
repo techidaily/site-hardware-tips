@@ -1,7 +1,7 @@
 ---
 title: Guide to Registering & Setting Up Android 13 Beta Version 1 - Pros of Delaying Installation [ZDNet Exclusive]
-date: 2024-09-18 11:28:43
-updated: 2024-09-20 11:52:23
+date: 2024-10-09T16:09:27.809Z
+updated: 2024-10-15T16:02:28.816Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +173,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-augmented-reality-and-vr-navigating-2023s-content-on-android/"><u>[New] 2024 Approved Augmented Reality & VR Navigating 2023'S Content on Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cutting-down-high-bitrate-obs-streams/"><u>[New] 2024 Approved Cutting Down High-Bitrate OBS Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-intriguing-book-trailers-on-display/"><u>[New] Intriguing Book Trailers on Display</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-art-of-iphone-macro-and-micro-imaging-for-2024/"><u>[New] Mastering the Art of iPhone Macro & Micro Imaging for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-protecting-data-while-transforming-youtube-videos-into-mp3-files/"><u>[Updated] Protecting Data While Transforming YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-start-and-sustain-an-indie-podcast-hit/"><u>How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone X/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplifying-display-management-asus-and-microsoft-collaborate-for-advanced-lighting-features-in-latest-bios-update/"><u>Simplifying Display Management: Asus and Microsoft Collaborate for Advanced Lighting Features in Latest BIOS Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-high-performance-computing-by-toms-hardware/"><u>The Complete Guide to High-Performance Computing by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-reviewhub-the-ultimate-guide-to-electronics-and-peripherals/"><u>Tom's Computing ReviewHub: The Ultimate Guide to Electronics & Peripherals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-reviews-and-hardware-guides/"><u>Tom's Tech Insights: Comprehensive Reviews and Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-on-toms-tech-review/"><u>Top Picks on Tom's Tech Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-audio-convert-wav-to-wmv-without-costs-using-movavis-web-service/"><u>Transform Your Audio: Convert WAV to WMV without Costs Using Movavi's Web Service</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-with-the-asus-rog-maximus-z790-formula-high-end-build-components-meet-hybrid-cooling-excellence/"><u>Unleashing Potential with the Asus ROG Maximus Z790 Formula - High-End Build Components Meet Hybrid Cooling Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-innovations-with-toms-electronic-advice/"><u>Unveiling Gadgets & Innovations with Tom’s Electronic Advice</u></a></li>
+</ul></div>
+

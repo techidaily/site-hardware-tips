@@ -1,7 +1,7 @@
 ---
 title: "Introducing TCL's Spectacular 115-Inch Mini LED TV : A Breakthrough in Visual Experience | ScreenTech Today"
-date: 2024-10-07T23:14:47.677Z
-updated: 2024-10-09T05:37:21.959Z
+date: 2024-10-10T16:49:13.554Z
+updated: 2024-10-15T16:35:07.781Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-content-with-free-audio-samples-for-2024/"><u>[New] Amplify Content with Free Audio Samples for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-breaking-barriers-with-iphone-x-fixing-facial-detection/"><u>[New] Breaking Barriers with iPhone X Fixing Facial Detection</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>[Updated] Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-rode-streamer-x-is-it-worth-transforming-your-filmmaking-experience/"><u>A Comprehensive Review of Rode Streamer X: Is It Worth Transforming Your Filmmaking Experience?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-future-in-depth-analysis-on-top-gaming-laptops-in-202/"><u>Benchmarking The Future: In-Depth Analysis on Top Gaming Laptops in 202</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-domains-tips-and-reviews-by-toms-hardware-professionals/"><u>Dive Into Digital Domains - Tips & Reviews by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/high-performance-vs-low-cost-gaming-ram-of-2024-options-and-reviews/"><u>High Performance Vs. Low Cost Gaming RAM of 2024: Options and Reviews</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c210-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/infusing-energy-youtube-music-in-film-and-media-projects-for-2024/"><u>Infusing Energy YouTube Music in Film and Media Projects for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-merging-multiple-filaments-into-a-single-cylinder-quickly-and-easily/"><u>Master the Art of Merging Multiple Filaments Into a Single Cylinder Quickly and Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-market-top-choices-in-toms-hardware-evaluation/"><u>Mastering the Market: Top Choices in Tom's Hardware Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-three-fans-with-cooler-masters-innovative-2-fan-graphics-solution/"><u>Say Goodbye to Three Fans with Cooler Master’s Innovative 2-Fan Graphics Solution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tcl-unveils-next-gen-4k-display-ultra-fast-1000hz-for-elite-gamers/"><u>TCL Unveils Next-Gen 4K Display: Ultra-Fast 1,000Hz for Elite Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-3d-printing-filaments/"><u>The Ultimate Selection of Premium 3D Printing Filaments</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-a14-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy A14 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-list-best-mac-videos-grabber-software/"><u>Ultimate List Best Mac Videos Grabber Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-the-complete-guide-from-toms-hardware/"><u>Unlocking Performance: The Complete Guide From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-lamptrons-misuse-of-fake-aida64-license-keys-in-their-display-units/"><u>Unveiling Lamptron's Misuse of Fake AIDA64 License Keys in Their Display Units</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-10-best-free-dvd-players-for-windows-10-2023-updated/"><u>Updated In 2024, 10 Best Free DVD Players for Windows 10 2023 Updated</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-essential-guide-to-youtube-video-lighting-tips/"><u>[New] 2024 Approved The Essential Guide to YouTube Video Lighting Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvdpcwindows11andmac/"><u>必見！DVDをPCに取り込むためのWindows11&Macコツ：パワフルな三つの技術</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/addressing-the-issue-head-on-ekwbs-promise-of-rectifying-supplier-and-staff-payment-lapses/"><u>Addressing the Issue Head-On: EKWB's Promise of Rectifying Supplier and Staff Payment Lapses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-the-world-of-computer-tech-with-insights-from-toms-hardware-gurus/"><u>Dive Into the World of Computer Tech with Insights From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-the-lian-li-galahad-ii-with-integrated-led-display-ideal-for-overclockers-and-gamers-using-the-i7-14900k/"><u>Expert Review: The Lian Li Galahad II with Integrated LED Display, Ideal for Overclockers and Gamers Using the I7-14900K</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-dropping-wi-fi-5-effective-fixes/"><u>How to Stop Your iPhone From Dropping Wi-Fi: 5 Effective Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-win10s-video-call-ecosystem-a-guide-to-using-zoom/"><u>In 2024, Navigating Win10's Video Call Ecosystem A Guide to Using Zoom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-exploration-inside-xcreative-media-suite/"><u>In 2024, The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/inside-out-comprehensive-understanding-of-stardews-fascinating-ginger-island-for-2024/"><u>Inside Out Comprehensive Understanding of Stardew’s Fascinating Ginger Island for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-insights-from-toms-hardware-hub/"><u>Mastering Gadgets with Insights From Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-technology-with-toms-expertise-in-computer-hardware/"><u>Navigate the Future of Technology with Tom's Expertise in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-reliable-reviews-and-tips-from-toms-systems/"><u>Navigate the Tech World: Reliable Reviews and Tips From Tom's Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronics-expertise-in-depth-gadget-analysis/"><u>Tom's Electronics Expertise: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-expert-reviews-and-in-depth-analysis-of-computer-hardware/"><u>Tom's Tech: Expert Reviews & In-Depth Analysis of Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-personal-computing-deepcools-fresh-arsenal-of-coolers-psus-and-pc-parts-infused-with-eye-catching-pixel-silicone-customization/"><u>Unveiling the Future of Personal Computing: DeepCool's Fresh Arsenal of Coolers, PSUs, & PC Parts – Infused with Eye-Catching Pixel Silicone Customization</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-fix-plugins-not-working-in-final-cut-pro-x-in-2024/"><u>Updated How to Fix Plugins Not Working in Final Cut Pro X, In 2024</u></a></li>
 </ul></div>
 

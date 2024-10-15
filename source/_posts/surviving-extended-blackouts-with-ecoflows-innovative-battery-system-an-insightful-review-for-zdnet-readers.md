@@ -1,7 +1,7 @@
 ---
 title: Surviving Extended Blackouts with EcoFlow's Innovative Battery System - An Insightful Review for ZDNet Readers
-date: 2024-09-17 20:12:42
-updated: 2024-09-20 10:26:43
+date: 2024-10-09T16:42:48.569Z
+updated: 2024-10-15T16:10:35.995Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,19 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C14fbdc92-bb22-4b39-b1c3-40c998ca774d%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C14fbdc92-bb22-4b39-b1c3-40c998ca774d%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +137,30 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-analyzing-the-updated-lg-bp550/"><u>[New] Masterclass Analyzing the Updated LG BP550</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-spark-business-visibility-affordable-logos-from-template-to-original/"><u>[Updated] 2024 Approved Spark Business Visibility Affordable Logos From Template to Original</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-real-time-periscope-broadcasting/"><u>2024 Approved Enhance Real-Time Periscope Broadcasting</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insight-into-toms-computer-components/"><u>Expert Insight Into Tom's Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-with-tom-comprehensive-hardware-insights/"><u>Exploring Advanced Computing with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-and-graphics-cards-with-toms-hardware-review/"><u>Exploring Gadgets and Graphics Cards with Tom's Hardware Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fix-guide-solving-the-not-enough-ram-for-god-of-war-issue/"><u>Fix Guide: Solving the Not Enough RAM for God of War Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-submersible-3d-printer-built-by-makers-operating-inside-an-aquarium-and-swimming-pools/"><u>Innovative Submersible 3D Printer Built by Makers: Operating Inside an Aquarium & Swimming Pools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-hardware-assessments-toms-technology-hub/"><u>Professional Hardware Assessments - Tom's Technology Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-shell32dll-error-comprehensive-guide/"><u>Resolving Shell32.dll Error: Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/safe-online-interactions-which-sites/"><u>Safe Online Interactions: Which Sites?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/snapchat-story-crafting-harness-over-a-hundred-ideas-for-your-unique-narrative/"><u>Snapchat Story Crafting Harness over a Hundred Ideas for Your Unique Narrative</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-cooler-master-ion-360-reviewed-examining-progress-and-setbacks-in-liquid-cpu-cooling/"><u>The Cooler Master ION 360 Reviewed: Examining Progress and Setbacks in Liquid CPU Cooling</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/volution-of-youtube-shorts-templates-and-their-impact-on-engagement/"><u>The Evolution of YouTube Shorts Templates and Their Impact on Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiny-yet-titanium-breakthrough-in-3d-printing-metals-bigger-than-the-smallest-virus/"><u>Tiny Yet Titanium: Breakthrough in 3D Printing Metals Bigger Than the Smallest Virus</u></a></li>
+</ul></div>
+

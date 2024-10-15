@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Future: Exploring Sustainable Practices in Technology Companies with Guidance From ZDNET"
-date: 2024-09-18 18:48:49
-updated: 2024-09-20 10:33:44
+date: 2024-10-14T16:43:03.310Z
+updated: 2024-10-15T16:41:18.734Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +70,19 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +129,28 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/elving-into-youtubes-complex-calculation-of-viewer-stats-for-2024/"><u>[New] Delving Into YouTube's Complex Calculation of Viewer Stats for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>[Updated] 2024 Approved A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-discover-hidden-gems-top-7-under-the-radar-tiktok-emojis/"><u>[Updated] 2024 Approved Discover Hidden Gems Top 7 Under-the-Radar TikTok Emojis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unboxing-opportunities-the-marketing-planning-journey/"><u>[Updated] 2024 Approved Unboxing Opportunities The Marketing Planning Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exclusive-content-delivery-assessment/"><u>2024 Approved Exclusive Content Delivery Assessment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aws-graviton4-dominates-benchmark-tests-vs-amd-and-intel-showcasing-record-breaking-speeds-for-a-fraction-of-the-cost/"><u>AWS Graviton4 Dominates Benchmark Tests vs AMD & Intel, Showcasing Record-Breaking Speeds for a Fraction of the Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/content-design-breakthroughs-via-chatxt-influence/"><u>Content Design Breakthroughs via ChaTxt Influence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-ai-designed-10000-ln2-container-transform-pc-performance-up-to-3x-faster-than-ordinary-coolers/"><u>Cutting-Edge, AI-Designed $10,000 LN2 Container: Transform PC Performance Up to 3X Faster than Ordinary Coolers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-comprehensive-hardware-guides/"><u>Expert Reviews by Tom: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-zen-5-advances-from-amd-new-era-of-smaller-cores-and-sophisticated-dual-ccx-chip-architecture-revealed/"><u>Exploring the Zen 5 Advances From AMD - New Era of Smaller Cores and Sophisticated Dual CCX Chip Architecture Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insight-from-benchmark-maker-a-sparse-56-arm-windows-pcs-undergo-qualcomm-copilotplus-evaluation-in-recent-months/"><u>Insight From Benchmark Maker: A Sparse 56 Arm-Windows PCs Undergo Qualcomm Copilot+ Evaluation in Recent Months</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-top-notch-hardware-insights-and-evaluations-by-tom/"><u>Navigating the Tech World: Top Notch Hardware Insights and Evaluations by Tom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-a-vanishing-cursor-on-your-windows-11-touchpad/"><u>Resolving the Issue of a Vanishing Cursor on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-social-networks-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>The Top Four Social Networks: A Guide to Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>
+

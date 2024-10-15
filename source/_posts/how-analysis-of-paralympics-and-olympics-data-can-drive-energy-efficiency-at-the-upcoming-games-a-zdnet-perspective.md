@@ -1,7 +1,7 @@
 ---
 title: "How Analysis of Paralympics & Olympics Data Can Drive Energy Efficiency at the Upcoming Games: A ZDNet Perspective"
-date: 2024-09-18 10:15:19
-updated: 2024-09-20 10:59:45
+date: 2024-10-08T16:06:55.263Z
+updated: 2024-10-15T16:04:09.238Z
 tags:
   - sustainability
 categories:
@@ -88,11 +88,36 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-art-in-a-flash-quick-draw-on-windows-10-images/"><u>[New] Masterful Art in a Flash Quick Draw on Windows 10 Images</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>[New] Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-exploring-the-creme-de-la-creme-instas-influential-elite-for-2024/"><u>[Updated] Exploring the Crème De La Crème Insta's Influential Elite for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asus-aura-desktop-themes-and-skins-for-windows-1011-download-now/"><u>ASUS AURA Desktop Themes & Skins for Windows 10/11: Download Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-technology-the-comprehensive-review-platform-toms-hardware/"><u>Decoding Technology: The Comprehensive Review Platform, Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-computing-with-toms-hardware-expertise/"><u>Dive Into Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easily-alter-video-velocity-youtubes-playback-speed-mastery/"><u>Easily Alter Video Velocity YouTube's Playback Speed Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-techniques-for-repairing-file-wear-and-tear/"><u>Effective Techniques for Repairing File Wear and Tear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-overclocking-with-xpgs-innovative-dual-fan-cooler-and-integrated-loop-suitable-for-cpus-up-to-280w/"><u>Experience Enhanced Overclocking with XPG's Innovative Dual-Fan Cooler and Integrated Loop - Suitable for CPUs up to 280W</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-essential-guide-to-the-premier-power-supplies-of-202e4/"><u>Gamers' Essential Guide to the Premier Power Supplies of 202E4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/good-news-for-gamers-la-noire-now-launched-and-accessible-on-personal-computers/"><u>Good News for Gamers: L.A. Noire Now Launched and Accessible on Personal Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-tech-scene-toms-precision-hardware-critiques-and-advice/"><u>Mastering the Tech Scene: Tom's Precision Hardware Critiques and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tom/"><u>Navigating the World of High-Performance Hardware with Tom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ranking-the-best-non-sportful-activities-at-first-row/"><u>Ranking the Best Non-Sportful Activities at First Row</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

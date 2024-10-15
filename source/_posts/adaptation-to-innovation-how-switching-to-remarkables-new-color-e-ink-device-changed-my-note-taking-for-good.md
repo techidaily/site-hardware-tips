@@ -1,7 +1,7 @@
 ---
 title: "Adaptation to Innovation: How Switching to Remarkable's New Color E-Ink Device Changed My Note-Taking for Good!"
-date: 2024-09-19 18:56:43
-updated: 2024-09-20 12:35:34
+date: 2024-10-14T16:31:44.789Z
+updated: 2024-10-15T16:28:34.810Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,19 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +105,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +153,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +173,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-and-record-every-sound-on-your-pc-with-x-recorder/"><u>[New] 2024 Approved Capture & Record Every Sound on Your PC with X-Recorder</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-podcast-summary-genius-guidance-and-examples/"><u>[New] In 2024, Podcast Summary Genius Guidance & Examples</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lively-registration-and-unregistration-guide/"><u>2024 Approved Lively Registration & Unregistration Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-realme-narzo-60-pro-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Realme Narzo 60 Pro 5G.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-how-to-get-your-warzone-audio-working-perfectly-on-any-device/"><u>Complete Guide: How to Get Your Warzone Audio Working Perfectly on Any Device</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-solutions-for-machine-check-exceptions-on-windows-10/"><u>Fixing the Blue Screen of Death: Solutions for Machine Check Exceptions on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-poco-x5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Poco X5 Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-next-generation-of-microsofts-surface-and-surface-pro-with-advanced-copilotplus-ai-assistance/"><u>In-Depth Review: The Next Generation of Microsoft’s Surface and Surface Pro with Advanced Copilot+ AI Assistance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-system-configurations-with-insights-from-toms-hardware/"><u>In-Depth System Configurations with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-gadgets-revealed-at-toms-electronics-showcase/"><u>Innovative Gadgets Revealed at Tom's Electronics Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-technology-vault-a-deep-dive-into-hardware-reviews/"><u>Inside Tom's Technology Vault: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-acemagic-x1-a-cutting-edge-dual-monitor-laptop-designed-for-productivity-and-fun/"><u>Introducing Acemagic X1: A Cutting-Edge Dual Monitor Laptop Designed for Productivity and Fun</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/level-up-with-the-lenovo-legion-slim-5-a-gamers-dream-laptop-under-a-grand-at-newegg/"><u>Level Up with the Lenovo Legion Slim 5 - A Gamer's Dream Laptop Under a Grand at Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-apples-holistic-approach-a-new-era-of-enhanced-mac-gaming-experience/"><u>Leveraging Apple’s Holistic Approach: A New Era of Enhanced Mac Gaming Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c12-plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C12 Plus Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-blaze-2-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Blaze 2 Pro Screen | Dr.fone</u></a></li>
+</ul></div>
+

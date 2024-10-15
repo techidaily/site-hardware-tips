@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Tablets : Thorough Reviews by Tech Experts | ZDNet"
-date: 2024-09-17 17:16:38
-updated: 2024-09-20 10:28:31
+date: 2024-10-13T16:35:09.117Z
+updated: 2024-10-15T16:05:16.010Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -147,6 +161,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should I buy one?
 
 If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) should make the most sense. Apple clearly thinks that, too. But I can't help but compare the 10th-gen iPad with the rest of Apple's hierarchy, all of which remain pricier and, in several aspects, are not as good as the vanilla model. In the broader context, here's what I'd suggest buying now: 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ross-media-content-flow-from-youtube-to-thirtyplus-others-for-2024/"><u>[New] Cross-Media Content Flow From YouTube to Thirty+ Others for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leading-synthetic-ps3-games-for-pc-gamers/"><u>[New] Leading Synthetic PS3 Games for PC Gamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-download-and-make-unique-instagram-ringtone-solo/"><u>[Updated] 2024 Approved How to Download & Make Unique Instagram Ringtone Solo</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-improving-remote-work-communications-with-4-strategies/"><u>[Updated] 2024 Approved Improving Remote Work Communications with #4 Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-quickly-clip-and-save-your-favorite-youtube-sections-for-2024/"><u>[Updated] How to Quickly Clip and Save Your Favorite YouTube Sections for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-strategies-for-recording-app-activity/"><u>[Updated] Ideal Strategies for Recording App Activity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-elgato-facecam-mk2-high-definition-hdr-flawless-1080p60fps-streaming-and-non-metal-build/"><u>Comprehensive Review of the Elgato Facecam MK.2 - High Definition HDR, Flawless 1080P/60fps Streaming and Non-Metal Build</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-before-its-gone-8bitdos-classic-nes-keyboard-slash-to-79-for-amazon-prime-day-shoppers/"><u>Grab the Deal Before It's Gone! 8BitDo's Classic NES Keyboard Slash to $79 for Amazon Prime Day Shoppers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-corsair-k70-pro-premium-wireless-gaming-keyboard-now-only-63-after-65-off/"><u>Huge Savings on Corsair K70 Pro: Premium Wireless Gaming Keyboard Now Only $63 After 65% Off</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-beyerdynamic-mmx-300-pro-outstanding-acoustics-with-a-simplistic-approach/"><u>In-Depth Evaluation of the Beyerdynamic MMX 300 Pro - Outstanding Acoustics with a Simplistic Approach</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-iris-xe-drivers-for-windows-download-now/"><u>Latest Intel Iris Xe Drivers for Windows - Download Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-video-captioning-on-youtube/"><u>Mastering Video Captioning on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-insights-into-the-latest-gadgets-and-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into the Latest Gadgets and Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-mouse-pads-of-2024-smooth-movement-and-stunning-led-illumination/"><u>Top-Rated Mouse Pads of 2024: Smooth Movement & Stunning LED Illumination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-full-potential-of-macs-preview-tool/"><u>Unlocking Full Potential of Mac's Preview Tool</u></a></li>
+</ul></div>
+

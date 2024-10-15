@@ -1,7 +1,7 @@
 ---
 title: "Top 30 Amazing Cyber Monday Sales: Unbeatable Amazon Echo Offers - Now Gone"
-date: 2024-10-04T22:17:08.802Z
-updated: 2024-10-09T08:53:02.957Z
+date: 2024-10-14T16:40:00.588Z
+updated: 2024-10-15T16:45:20.816Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[Updated] 2024 Approved Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-exclusive-gaming-delight-with-single-platform-play-in-apex-legends-for-2024/"><u>[Updated] Exclusive Gaming Delight with Single-Platform Play in Apex Legends for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-batch-save-presentations-in-video-format/"><u>[Updated] In 2024, Batch Save Presentations in Video Format</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/arctic-liquid-freezer-iii-aio-assessment-in-short-this-model-falls-short/"><u>Arctic Liquid Freezer III AIO Assessment: In Short, This Model Falls Short</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175705805-beat-the-heat-affordably-shop-the-coolest-arctic-high-performance-liquid-freezer-aiold2018a-v2-at-74-now/"><u>Beat the Heat Affordably – Shop the Coolest Arctic High-Performance Liquid Freezer (AIOLD2018A v2) at $74 Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-computer-components-wisdom-from-toms-hardware-experts/"><u>Decoding Computer Components: Wisdom From Tom’s Hardware Experts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/high-speed-snapshot-and-voice-commentary-assistant-device/"><u>High-Speed Snapshot & Voice Commentary Assistant Device</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 14? Heres the Best Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-hardware-the-toms-guide/"><u>Mastering Gadgets and Hardware - The Tom's Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-personal-tones-androids-ringtone-and-sound-guide/"><u>Mastering Personal Tones Android's Ringtone & Sound Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-intel-core-i7-ultra-series-featuring-lunar-lake-cpus-set-for-release-in-sept/"><u>New Intel Core I7-Ultra Series Featuring Lunar Lake CPUs Set for Release in Sept</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-pros-and-cons-of-using-vn-video-editor-pro-for-your-videos-for-2024/"><u>New The Pros and Cons of Using VN Video Editor Pro for Your Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-wireless-pointing-devices-the-pinnacle-of-portability-and-productivity/"><u>Revolutionary Wireless Pointing Devices - The Pinnacle of Portability and Productivity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/secretly-capturing-your-friends-facebook-stories-without-detection/"><u>Secretly Capturing Your Friend's Facebook Stories Without Detection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175715285-unleash-the-bloom-high-performance-computing-with-aromatic-heavenly-thermal-compound/"><u>Unleash the Bloom: High-Performance Computing with Aromatic, Heavenly Thermal Compound</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/urgent-advisory-stop-using-your-bambu-lab-3d-printer-refund-and-replacement-parts-en-route-for-the-a1-model/"><u>Urgent Advisory: Stop Using Your Bambu Lab 3D Printer - Refund & Replacement Parts En Route for the A1 Model</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/urgent-bambu-lab-a1-recall-notice-full-refund-for-impacted-customers-and-suspension-of-usage-pending-new-parts/"><u>Urgent Bambu Lab A1 Recall Notice: Full Refund for Impacted Customers & Suspension of Usage Pending New Parts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mental-wellness-through-virtual-environments/"><u>[Updated] Mental Wellness Through Virtual Environments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unseen-features-in-depth-look-at-instagrams-ask-emoji/"><u>[Updated] Unseen Features In-Depth Look at Instagram’s Ask Emoji</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-smart-rings-allowed-in-airports-understanding-security-check-regulations/"><u>Are Smart Rings Allowed in Airports: Understanding Security Check Regulations?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-water-driven-distortions-in-the-bathroom-top-4-strategies-for-optimal-audio-enjoyment/"><u>Avoid Water-Driven Distortions in the Bathroom: Top 4 Strategies for Optimal Audio Enjoyment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-overclocked-gpu-memory-improve-system-speed-and-efficiency-unpacking-the-myths/"><u>Can Overclocked GPU Memory Improve System Speed and Efficiency? Unpacking the Myths.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-ecoflow-delta-pro-3-battery-test-powering-your-home-with-reliable-energy-storage/"><u>Comprehensive EcoFlow Delta Pro 3 Battery Test: Powering Your Home with Reliable Energy Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-usb-categories-and-uses-understanding-every-type/"><u>Comprehensive Guide to USB Categories & Uses: Understanding Every Type</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-brother-wireless-hl-l2/"><u>Comprehensive Review of Brother Wireless HL-L2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-enhanced-artificial-intelligence-capabilities-on-your-new-samsung-galaxy-s22/"><u>Discover Enhanced Artificial Intelligence Capabilities on Your New Samsung Galaxy S22</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-a-comprehensive-review-of-2024s-finest-television-models/"><u>Discovering Excellence: A Comprehensive Review of 2024'S Finest Television Models</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>In 2024, Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>In 2024, Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-sierras-icloud-drive-accessibility/"><u>Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-stuck-apple-movie-playback/"><u>Resolving Stuck Apple Movie Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-basics-of-windows-canary-and-its-benefits/"><u>The Basics of Windows Canary and Its Benefits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-the-midnight-hue-fixes-for-fortnites-dark-screen-problem-on-windows-machines/"><u>Winning Against the Midnight Hue: Fixes for Fortnite's Dark Screen Problem on Windows Machines</u></a></li>
 </ul></div>
 

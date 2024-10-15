@@ -1,7 +1,7 @@
 ---
 title: "Samsung’s Hidden Gem: A Top-Tier, Affordable Tablet for Labor Day Specials - ZDNet's Inside Look"
-date: 2024-09-18 11:58:50
-updated: 2024-09-20 11:56:39
+date: 2024-10-11T16:29:32.615Z
+updated: 2024-10-15T16:18:34.978Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -143,9 +150,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-cash-flow-on-youtube-an-ad-free-blueprint-for-income/"><u>[New] In 2024, Creating Cash Flow on YouTube An Ad-Free Blueprint for Income</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlining-video-workflow-capture-save-refine-using-adobe-connect/"><u>[New] In 2024, Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-webscraper-pro-facebook-live-grabs/"><u>[Updated] 2024 Approved WebScraper Pro Facebook Live Grabs</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-the-pros-and-cons-of-android-integration-on-windows-11-is-it-worthwhile-digitalsavvy-blog/"><u>Exploring the Pros and Cons of Android Integration on Windows 11 - Is It Worthwhile? | DigitalSavvy Blog</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-spots-for-youtube-video-promotion-for-2024/"><u>Foremost Spots for YouTube Video Promotion for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-display-fingerprint-screens-an-idea-that-failed/"><u>In-Display Fingerprint Screens: An Idea That Failed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfecting-video-cuts-the-role-of-visual-callouts-in-edits-for-2024/"><u>Perfecting Video Cuts The Role of Visual Callouts in Edits for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/popart-app-deep-dive-2024-edition/"><u>PopArt App Deep Dive - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-tips-for-your-tech-needs-toms-hardware-way/"><u>Precision Tips for Your Tech Needs - Tom's Hardware Way</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-samsung-odyssey-g50a-a-quality-27-qhd-ips-display-now-at-only-255-on-amazon/"><u>Save Big with the Samsung Odyssey G50A - A Quality 27 QHD IPS Display Now At Only $255 on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/saving-money-without-sacrificing-quality-an-expert-take-on-144hz-and-40-inch-monoprices-gaming-marvel-at-a-steal-price/"><u>Saving Money without Sacrificing Quality: An Expert Take on 144Hz and 40-Inch Monoprice's Gaming Marvel at a Steal Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-on-your-game-setup-with-alienwares-curved-masterpiece-secure-100-off-the-aw3225qf-stunning-4k-gaming-qd-oled-quality-and-ultra-fast-240-hz-refresh61/"><u>Score Big on Your Game Setup with Alienware's Curved Masterpiece: Secure $100 Off the AW3225QF - Stunning 4K Gaming, QD-OLED Quality & Ultra Fast 240 Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steal-the-deal-acers-34-wqhd-curved-monitor-for-a-steal-at-just-200-newegg-exclusive/"><u>Steal the Deal: Acer's 34 WQHD Curved Monitor for a Steal at Just $200 - Newegg Exclusive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-dark-mode-a-step-by-step-fix/"><u>Win11 Dark Mode: A Step-by-Step Fix</u></a></li>
+</ul></div>
+

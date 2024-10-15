@@ -1,7 +1,7 @@
 ---
 title: Innovative Eco-Friendly Chips Derived From Mushrooms Revolutionize Powering Electronics | GreenTechInsights
-date: 2024-09-19 23:58:12
-updated: 2024-09-20 12:53:55
+date: 2024-10-10T16:35:37.922Z
+updated: 2024-10-15T16:42:17.053Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-15-best-action-cameras/"><u>[New] 2024 Approved 15 Best Action Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gastronomy-goals-attractive-food-network-branding-ideas/"><u>[New] In 2024, Gastronomy Goals Attractive Food Network Branding Ideas</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-selecting-prime-apps-for-iphoneandroid-intro-videos/"><u>[Updated] Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-essential-guide-to-video-spinning-in-vlc-media-player-for-2024/"><u>[Updated] The Essential Guide to Video Spinning in VLC Media Player for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-mastering-the-art-of-bios-recovery-the-ultimate-guide-to-regaining-access-to-your-asus-device/"><u>1. Mastering the Art of BIOS Recovery: The Ultimate Guide to Regaining Access to Your ASUS Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-official-winx-movie-editor-ultimate-free-tool-for-dvd-ripping-and-hd-video-transcoding/"><u>1. Official WinX Movie Editor: Ultimate Free Tool for DVD Ripping & HD Video Transcoding</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apex-level-ps5-storage-expansion-choosing-high-speed-nvme-drives-to-elevate-playtime/"><u>Apex Level PS5 Storage Expansion: Choosing High-Speed NVMe Drives to Elevate Playtime</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175704568-building-your-pc-faster-try-corsairs-new-single-turn-installation-screw-and-save-precious-seconds/"><u>Building Your PC Faster? Try Corsair’s New Single-Turn Installation Screw and Save Precious Seconds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-openai-still-keep-a-tight-leash-on-chatgpt-management/"><u>Can OpenAI Still Keep a Tight Leash on ChatGPT Management?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/como-transformar-archivos-mpeg-2-en-mp3-graciosamente-online-mediante-herramientas-de-conversion-de-movavi/"><u>Cómo Transformar Archivos MPEG-2 en MP3 Graciosamente Online Mediante Herramientas De Conversión De Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-anycubic-kobra-3-assessment-exploring-its-multi-hued-printing-capabilities/"><u>Comprehensive Anycubic Kobra 3 Assessment: Exploring Its Multi-Hued Printing Capabilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-screen-recording-tools-beyond-apowersoft-for-2024/"><u>Exploring Screen Recording Tools Beyond Apowersoft for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-revenue-dip-by-16b-amidst-challenges-in-its-data-center-processing-and-semiconductor-fabrication-units/"><u>Intel's Revenue Dip by $1.6B Amidst Challenges in Its Data Center Processing & Semiconductor Fabrication Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-space-tips-from-toms-hardware-hub/"><u>Mastering Your Digital Space - Tips From Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-electronics-with-toms-hardware-wisdom/"><u>Navigating Modern Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reviving-your-roblox-experience-a-guide-to-fixing-no-sound-on-pcs-with-windows-11-or-10/"><u>Reviving Your Roblox Experience: A Guide to Fixing No-Sound on PCs with Windows 11 or 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/silence-mastery-introducing-customizable-computing-chassis-and-luminescent-ventilators-for-bright-computer-enclosures/"><u>Silence Mastery: Introducing Customizable Computing Chassis & Luminescent Ventilators for Bright Computer Enclosures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-restore-heat-functionality-on-a-3d-printer-bed/"><u>Step by Step Guide to Restore Heat Functionality on a 3D Printer Bed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-toms-hardware-reviews/"><u>Unlocking the Secrets of Tom's Hardware Reviews</u></a></li>
+</ul></div>
+

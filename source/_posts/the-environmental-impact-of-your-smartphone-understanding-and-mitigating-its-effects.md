@@ -1,7 +1,7 @@
 ---
 title: "The Environmental Impact of Your Smartphone: Understanding and Mitigating Its Effects"
-date: 2024-09-17 21:57:42
-updated: 2024-09-20 12:27:51
+date: 2024-10-11T16:34:11.380Z
+updated: 2024-10-15T16:37:58.270Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-2024-discovering-8-superior-selfie-sticks/"><u>[Updated] Iphone 2024 Discovering #8 Superior Selfie Sticks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essentials-of-youtubes-cc-license-for-filmakers-for-2024/"><u>[Updated] The Essentials of YouTube's CC License for Filmakers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-wireless-mouse-picks-boost-productivity-and-comfort-on-the-go/"><u>2024'S Leading Wireless Mouse Picks: Boost Productivity & Comfort on the Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bluetooth-gaming-headsets-of-202carefully-crafted-to-offer-the-ultimate-wireless-experience-our-selection-includes-budget-and-premium-choices-alike-for5/"><u>Best Bluetooth Gaming Headsets of 202Carefully Crafted to Offer the Ultimate Wireless Experience, Our Selection Includes Budget and Premium Choices Alike for Gamers Seeking High-Quality Sound without Wires.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-latest-in-computer-hardware-with-toms-experts/"><u>Decoding the Latest in Computer Hardware with Tom’s Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/exposing-the-illusion-tips-to-discern-real-from-phony-fb/"><u>Exposing the Illusion: Tips to Discern Real From Phony FB</u></a></li>
+<li><a href="https://win-forum.techidaily.com/finding-out-which-powershell-version-you-have-in-windows-11-tips-and-tricks/"><u>Finding Out Which PowerShell Version You Have in Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/ready-to-delete-heres-what-you-should-do-first/"><u>Ready to Delete? Here's What You Should Do First</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-deeper-dive-into-hardware/"><u>Tom's Tech Insights: A Deeper Dive Into Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-from-toms-hardware/"><u>Tom's Tech Reviews: In-Depth Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultrathin-laptops-and-high-end-computers-of-2024/"><u>Top-Rated Ultrathin Laptops & High-End Computers of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-resin-tech-with-a-closer-look-at-elegoo-saturn-4-ultra-our-detailed-review/"><u>Unlocking the Potential of Resin Tech with a Closer Look at Elegoo Saturn 4 Ultra - Our Detailed Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11-scanner-reactivated-without-fuss/"><u>Win11: Scanner Reactivated Without Fuss</u></a></li>
+<li><a href="https://extra-information.techidaily.com/write-with-your-smile-best-ios-and-android-photo-text-apps/"><u>Write with Your Smile – Best iOS & Android Photo Text Apps</u></a></li>
+</ul></div>
+
