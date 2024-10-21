@@ -1,7 +1,7 @@
 ---
 title: "Innovative AI-Powered Inkjet Smart Sprinkler: Cutting Down on Water Consumption with Zeal"
-date: 2024-09-19 23:35:12
-updated: 2024-09-20 10:18:41
+date: 2024-10-14T21:11:57.768Z
+updated: 2024-10-20T17:01:55.019Z
 tags:
   - sustainability
 categories:
@@ -34,6 +34,19 @@ According to Irrigreen CEO, Shane Dyer, "Because of the flexibility and elegance
 **Also:** [**How to make tech more sustainable:5 practical ways**](https://www.zdnet.com/home-and-office/sustainability/how-to-make-tech-more-sustainable-five-practical-ways-to-make-it-happen/)
 
 This technology has the potential to save up to 50% of your outdoor water consumption -- or more if you're like me and often forget to turn off your sprinklers. Homeowners commonly upgrade to a smart sprinkler controller to use with traditional sprinklers. Instead of having the source be the smart device, each of the Irrigreen sprinkler heads uses AI technology to analyze changes in water pressure and flow, as well as adapt to weather and soil conditions, with the Irrigreen smart sprinkler controller connecting to them.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cost
 
@@ -80,11 +93,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-clean-cut-windows-10-screen-logger-for-2024/"><u>[New] Clean-Cut Windows 10 Screen Logger for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-dynamic-text-designs-ready-to-go-in-after-effects-for-2024/"><u>[Updated] Dynamic Text Designs Ready to Go in After Effects for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] In 2024, Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-boosting-obs-streams-direct-to-facebook-feed/"><u>2024 Approved Boosting OBS Streams Direct to Facebook Feed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>2024 Approved The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-closer-look-at-two-trees-sk1-review-accelerated-performance-with-open-source-technology/"><u>A Closer Look at 'Two Trees' SK1 Review: Accelerated Performance with Open Source Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-affordably-shop-the-coolest-arctic-high-performance-liquid-freezer-aiold2018a-v2-at-74-now/"><u>Beat the Heat Affordably – Shop the Coolest Arctic High-Performance Liquid Freezer (AIOLD2018A v2) at $74 Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-analysis-by-tom-the-ultimate-source/"><u>Comprehensive Computer Analysis by Tom - The Ultimate Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-computer-components-with-toms-hardware-explorations/"><u>Decoding Computer Components with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-electronics-evolution-with-authoritative-toms-reviews/"><u>Decoding Electronics Evolution with Authoritative Tom’s Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-review-expansive-bed-size-and-multiple-toolhead-operation-in-the-original-prusa-xl-3d-printer/"><u>Detailed Review: Expansive Bed Size & Multiple Toolhead Operation in the Original Prusa XL 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computer-innovations-trusted-recommendations-from-toms-technology-hub/"><u>Discover Advanced Computer Innovations - Trusted Recommendations From Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-crealitys-latest-marvel-the-flagship-k1c-and-enhanced-ender-3-v3-model-revealed/"><u>Discover Creality's Latest Marvel - The Flagship K1C and Enhanced Ender 3 V3 Model Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-from-toms-hardware-hub/"><u>Expert Insights on Computing From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-free-drivers/"><u>Get Your Corsair Keyboard Up and Running on Windows with Free Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals-for-2024/"><u>Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-video-content-delivery-a-curated-list-of-players/"><u>Streamline Video Content Delivery A Curated List of Players</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-which-way-to-go-a-comparison-of-adobe-premiere-and-after-effects-for-video-creators/"><u>Updated 2024 Approved Which Way to Go? A Comparison of Adobe Premiere and After Effects for Video Creators</u></a></li>
+</ul></div>
+

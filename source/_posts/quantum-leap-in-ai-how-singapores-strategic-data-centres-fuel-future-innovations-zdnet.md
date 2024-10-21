@@ -1,7 +1,7 @@
 ---
 title: "Quantum Leap in A.I.: How Singapore's Strategic Data Centres Fuel Future Innovations | ZDNET"
-date: 2024-09-19 20:57:33
-updated: 2024-09-20 11:51:44
+date: 2024-10-13T16:13:15.106Z
+updated: 2024-10-20T21:37:37.377Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,26 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cut-to-the-chase-managing-twitch-streams/"><u>[New] In 2024, Cut to the Chase Managing Twitch Streams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovative-5-web-video-capturing-technologies/"><u>[New] Innovative 5 Web Video Capturing Technologies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-google-meet-a-comprehensive-no-cost-host-and-participant-manual-for-2024/"><u>[New] Unlocking Google Meet A Comprehensive No-Cost Host & Participant Manual for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-user-insights-in-youtube-comments-for-2024/"><u>[Updated] Deciphering User Insights in YouTube Comments for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-equipment-through-toms-hardware-hub/"><u>Exploring Advanced Computing Equipment Through Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-computing-leap-intel-and-exxonmobils-groundbreaking-work-on-enhanced-liquid-cooling-systems-for-powerful-2000w-tdp-xeons/"><u>High Performance Computing Leap: Intel and ExxonMobil's Groundbreaking Work on Enhanced Liquid Cooling Systems for Powerful 2000W TDP Xeons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/homemade-liquid-nitrogen-creation-a-beginners-guide-to-using-refrigerator-pieces/"><u>Homemade Liquid Nitrogen Creation: A Beginner's Guide to Using Refrigerator Pieces</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-moto-g14-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Moto G14 Is Unlocked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-insightful-illustration-how-to-record-and-preserve-your-playthroughs-in-roblox-using-macos/"><u>In 2024, Insightful Illustration How to Record & Preserve Your Playthroughs in Roblox Using MacOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-reviews-of-modern-hardware-by-tom/"><u>In-Depth Analysis and Reviews of Modern Hardware by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-evaluations-by-toms-hardware-professionals/"><u>In-Depth Hardware Evaluations by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-final-cut-pro-x-alternatives-free-and-paid/"><u>Updated 10 Best Final Cut Pro X Alternatives Free & Paid</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Gardening Practices: The Intelligent Sprinkler System that Minimizes Water Usage Through Advanced Tech"
-date: 2024-09-19 21:36:15
-updated: 2024-09-20 11:57:50
+date: 2024-10-16T03:48:29.551Z
+updated: 2024-10-21T05:56:23.960Z
 tags:
   - sustainability
 categories:
@@ -34,6 +34,13 @@ According to Irrigreen CEO, Shane Dyer, "Because of the flexibility and elegance
 **Also:** [**How to make tech more sustainable:5 practical ways**](https://www.zdnet.com/home-and-office/sustainability/how-to-make-tech-more-sustainable-five-practical-ways-to-make-it-happen/)
 
 This technology has the potential to save up to 50% of your outdoor water consumption -- or more if you're like me and often forget to turn off your sprinklers. Homeowners commonly upgrade to a smart sprinkler controller to use with traditional sprinklers. Instead of having the source be the smart device, each of the Irrigreen sprinkler heads uses AI technology to analyze changes in water pressure and flow, as well as adapt to weather and soil conditions, with the Irrigreen smart sprinkler controller connecting to them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cost
 
@@ -80,11 +87,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-video-and-sound-capture-apps-for-artistic-visionaries/"><u>[New] Best Video & Sound Capture Apps for Artistic Visionaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>[New] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-use-youtube-cards-and-annotations-for-2024/"><u>[Updated] How to Use YouTube Cards and Annotations for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-top-viewers-playlist-on-youtube-history/"><u>[Updated] Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-gaming-computers-reviewed-find-your-ideal-setup-from-500-to-over-4k/"><u>2024 Gaming Computers Reviewed: Find Your Ideal Setup From $500 to Over $4K</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-review-of-anycubic-kobra-2-max-beyond-expectations/"><u>A Comprehensive Review of Anycubic Kobra 2 MAX: Beyond Expectations!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-graphics-cards-of-the-year-top-5-affordable-options/"><u>Best Value Gaming Graphics Cards of the Year - Top 5 Affordable Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrating-crealitys-decade-anniversary-with-the-release-of-a-vibrant-color-3d-printer/"><u>Celebrating Creality's Decade Anniversary with the Release of a Vibrant Color 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-neptune-4-max-enhanced-speed-and-increased-size-with-minor-glitches/"><u>Comprehensive Evaluation of the Elegoo Neptune 4 Max: Enhanced Speed & Increased Size with Minor Glitches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accessing-hidden-social-engagement-in-video-streams/"><u>In 2024, Accessing Hidden Social Engagement in Video Streams</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-how-to-restore-functionality-to-your-steelseries-arctis-7-mic/"><u>Overcoming Audio Hurdles: How to Restore Functionality to Your SteelSeries Arctis 7 Mic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/revolutionize-virtuality-top-7-devices-for-success-for-2024/"><u>Revolutionize Virtuality - Top 7 Devices for Success for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-computers-with-toms-hardware-insights/"><u>Unveiling Cutting-Edge Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-lens/"><u>Unveiling Cutting-Edge Technology Through Tom’s Hardware Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-capabilities-of-mingda-magician-pro2-oversized-prints-and-low-noise-performance/"><u>Unveiling the Capabilities of Mingda Magician Pro2 – Oversized Prints and Low-Noise Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-new-hardware-through-toms-lens/"><u>Your Ultimate Guide to New Hardware Through Tom's Lens</u></a></li>
+</ul></div>
+

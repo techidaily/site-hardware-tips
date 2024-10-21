@@ -1,7 +1,7 @@
 ---
 title: The Hidden Climate Cost of Our Phones - Identifying Issues & Sustainable Solutions
-date: 2024-09-17 20:27:53
-updated: 2024-09-20 11:39:49
+date: 2024-10-15T18:04:28.942Z
+updated: 2024-10-20T17:58:11.854Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,19 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +134,19 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +197,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-inter-device-image-sharing-expertise/"><u>[New] Inter-Device Image Sharing Expertise</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>[Updated] In 2024, The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-pixelpioneer-creating-collages-for-instagramplusdevices/"><u>2024 Approved PixelPioneer Creating Collages for Instagram+Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-discovering-vimeo-home-for-high-quality-films/"><u>In 2024, Discovering Vimeo Home for High-Quality Films</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-13-mini-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 13 mini Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-your-print-farm-with-phrozens-premium-sonic-mega-8k-s-synthetic-resin-a-thorough-review/"><u>Maximizing Your Print Farm with Phrozen's Premium Sonic Mega 8K S Synthetic Resin: A Thorough Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-toms-hardware-expertise/"><u>Navigating Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-gadgets-insights-from-toms-hardware-hub/"><u>Navigating the Latest Gadgets - Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-adhesion-issues-in-3d-prints-strategies-for-flawless-finishes/"><u>Overcoming Adhesion Issues in 3D Prints: Strategies for Flawless Finishes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-hardware-analysis-by-tom/"><u>Precision Hardware Analysis by Tom</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-the-barnes-and-noble-nook-glowlight-plus-featuring-expansive-screen-size/"><u>Review of the Barnes & Noble Nook GlowLight Plus – Featuring Expansive Screen Size!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-effective-aluminum-oil-cooler-models-to-upgrade-your-ride-in-asterisk/"><u>The Most Effective Aluminum Oil Cooler Models to Upgrade Your Ride in Asterisk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-gadget-reviews-and-insights/"><u>Tom's Tech Hub: In-Depth Gadget Reviews and Insights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-revolutionize-your-soundtracks-a-comprehensive-guide-to-the-most-effective-voice-suppressing-technology-in-music-and-karaoke-productio/"><u>Updated 2024 Approved Revolutionize Your Soundtracks A Comprehensive Guide to the Most Effective Voice-Suppressing Technology in Music and Karaoke Production.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-avi-video-rotation-software-top-picks/"><u>Updated In 2024, Free AVI Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-tackle-icons-not-aligned/"><u>Win 11: Tackle Icons Not Aligned</u></a></li>
+</ul></div>
+

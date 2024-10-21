@@ -1,7 +1,7 @@
 ---
 title: "Green Tech Innovations: The Journey of Corporates Towards Sustainable Practices - Insights From ZDNet"
-date: 2024-09-18 10:37:34
-updated: 2024-09-20 12:33:34
+date: 2024-10-15T21:32:17.436Z
+updated: 2024-10-20T23:21:42.894Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +70,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +123,29 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-a-comprehensive-review-of-next-gen-camera-systems/"><u>[New] A Comprehensive Review of Next-Gen Camera Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-free2x-cam-recorders/"><u>[New] In 2024, The Ultimate Guide to Free2X Cam Recorders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-final-cuts-ultimate-10-plug-in-essentials-list/"><u>[Updated] Final Cut's Ultimate 10 Plug-In Essentials List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>[Updated] In 2024, Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bings-advanced-ai-revolutionary-image-recognition-feature-unveiled/"><u>Bing's Advanced AI: Revolutionary Image Recognition Feature Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-tecno-spark-10c-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Tecno Spark 10C</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-edge-transforming-your-videography-with-precision-cropping/"><u>Instagram's Edge Transforming Your Videography with Precision Cropping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-at-toms-hardware-destination/"><u>Mastering Gadgets and Systems at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-landscape-the-ultimate-guide-to-hardware-by-toms-expertise/"><u>Mastering the Digital Landscape - The Ultimate Guide to Hardware by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-of-gadgets-trustworthy-insights-by-tom-on-computer-hardware/"><u>Mastery of Gadgets: Trustworthy Insights by Tom on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-and-components-toms-expertise/"><u>Navigating the World of Computers and Components: Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-innovative-hardware-solutions-with-tom/"><u>Navigating Through Innovative Hardware Solutions with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tips-on-how-to-address-stringing-concerns-when-3d-printing-at-home-or-professionally/"><u>Step-by-Step Tips on How to Address Stringing Concerns When 3D Printing at Home or Professionally</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-smart-8-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Smart 8 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
+

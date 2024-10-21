@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Review Highlights: Exceptional Samsung TV on a Steep 43%% Off for Labor Day Festivities!"
-date: 2024-09-27T20:17:52.704Z
-updated: 2024-10-03T23:31:01.013Z
+date: 2024-10-13T22:43:13.009Z
+updated: 2024-10-20T16:21:15.397Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,22 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-blueprint-for-broadcasting-breaks/"><u>[Updated] In 2024, Blueprint for Broadcasting Breaks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform-for-2024/"><u>[Updated] The Producer's Playbook for Mixing Audio and Visuals on FB Platform for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/enhancing-tweets-adding-media-files/"><u>Enhancing Tweets Adding Media Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanded-release-next-generation-qualcomm-snapdragon-8-gen-2-boosts-android-phone-performance/"><u>Expanded Release: Next-Generation Qualcomm Snapdragon 8 Gen 2 Boosts Android Phone Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-opinions-on-the-google-pixel-6-top-reviewer-insights-and-praises/"><u>Expert Opinions on the Google Pixel 6: Top Reviewer Insights and Praises</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fixing-the-pixel-6-pro-resolving-screen-flicker-issues-soon/"><u>Fixing the Pixel 6 Pro: Resolving Screen Flicker Issues Soon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-downloading-discontinued-apps-from-alternative-sources/"><u>Guide: Downloading Discontinued Apps From Alternative Sources</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-can-you-repurpose-or-recycle-outdated-mobile-case-accessories/"><u>How Can You Repurpose or Recycle Outdated Mobile Case Accessories?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-fix-the-problem-of-unreceived-texts-on-your-android-smartphone/"><u>How to Fix the Problem of Unreceived Texts on Your Android Smartphone?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/imessage-troubles-learn-how-to-turn-off-bothersome-reactions-on-android-phones/"><u>IMessage Troubles? Learn How to Turn Off Bothersome Reactions on Android Phones!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/imminent-arrival-of-android-13-what-this-means-for-most-smartphone-users/"><u>Imminent Arrival of Android 13: What This Means for Most Smartphone Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-hash-tracking-top-apps-reviewed-fbtwitterinsta/"><u>In 2024, Mastering the Art of Hash Tracking Top Apps Reviewed (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/shooting-sports-societies-suspend-digital-outreach/"><u>Shooting Sports Societies Suspend Digital Outreach</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-of-both-worlds-exceptional-functionality-meets-competitive-pricing-in-the-arcshell-ar-5-review/"><u>The Best of Both Worlds - Exceptional Functionality Meets Competitive Pricing in the Arcshell AR-5 Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-next-level-of-immersion-top-10-vr-gear-for-2024/"><u>The Next Level of Immersion (Top 10 VR Gear) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-record-google-meet-on-phone-in-2024/"><u>[New] How to Record Google Meet on Phone, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-hot-pursuit-of-snaps-tactics-for-uninterrupted-streaks/"><u>[Updated] Hot Pursuit of Snaps - Tactics for Uninterrupted Streaks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>2024 Approved Strategizing for Success The Essential Guide to Online Individuality</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-preventing-resident-evil-4-remastered-from-interrupting-your-gameplay/"><u>Expert Advice on Preventing Resident Evil 4 Remastered From Interrupting Your Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-ai-pcs-understanding-their-role-and-your-needs/"><u>Exploring AI PCs: Understanding Their Role and Your Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-through-toms-device-digest/"><u>Exploring Computer Components Through Tom's Device Digest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-ray-tracing-techniques/"><u>Exploring the World of Ray Tracing Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-on-how-microsoft-is-revolutionizing-pc-gaming-with-advanced-copilot-features/"><u>Game On: How Microsoft Is Revolutionizing PC Gaming with Advanced Copilot Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gear-up-with-toms-hardware-guides-expert-insights-and-opinions/"><u>Gear Up with Tom's Hardware Guides - Expert Insights & Opinions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-game-changing-lenovo-legion-slim-5-for-less-than-1100-shop-now-at-newegg/"><u>Get Your Hands on the Game-Changing Lenovo Legion Slim 5 for Less Than $1,100 – Shop Now at Newegg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gpd-teases-cutting-edge-dual-screen-oled-laptop-set-to-revolutionize-the-market-and-compete-directly-with-asus-zenbook-duo/"><u>GPD Teases Cutting-Edge Dual-Screen OLED Laptop, Set to Revolutionize the Market and Compete Directly with Asus ZenBook Duo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-10-tips-recording-your-youtube-livestreams/"><u>In 2024, Top 10 Tips Recording Your Youtube Livestreams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/incident-report-a-laptop-ignites-prompting-the-abandonment-of-an-american-airline-jet/"><u>Incident Report: A Laptop Ignites Prompting the Abandonment of An American Airline Jet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-processor-advanced-advice-from-toms-hardware-experts/"><u>Inside the Processor: Advanced Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maggiori-convertitori-video-hevc-h265-ottimo-codificatore-per-windows-11-e-mac/"><u>Maggiori Convertitori Video HEVC H.265: Ottimo Codificatore per Windows 11 E Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-flip-and-rotate-avi-videos-for-free-best-tools-for-2024/"><u>New Flip and Rotate AVI Videos for Free Best Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-on-purchasing-the-ideal-tv-for-your-household/"><u>Step-by-Step Tips on Purchasing the Ideal TV for Your Household</u></a></li>
 </ul></div>
 

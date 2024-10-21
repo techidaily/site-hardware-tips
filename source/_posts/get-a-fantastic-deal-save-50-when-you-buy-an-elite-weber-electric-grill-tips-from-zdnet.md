@@ -1,7 +1,7 @@
 ---
 title: "Get a Fantastic Deal: Save $50 When You Buy an Elite Weber Electric Grill - Tips From ZDNet"
-date: 2024-09-17 23:17:22
-updated: 2024-09-20 12:12:19
+date: 2024-10-17T18:14:30.267Z
+updated: 2024-10-21T03:52:08.805Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,31 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-lost-and-found-follower-hunt/"><u>[Updated] 2024 Approved Instagram Lost and Found Follower Hunt</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-the-craft-of-online-title-perfection/"><u>[Updated] 2024 Approved Mastering the Craft of Online Title Perfection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-filters-a-comprehensive-guide/"><u>[Updated] Instagram Filters A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-arsenal-choosing-the-top-7-fps/"><u>2024 Approved Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-professional-streams-from-obs-to-insta/"><u>2024 Approved Professional Streams From OBS to Insta</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-anker-maggo-wireless-charger-evaluation-unveiling-persistent-flaws-and-benefits/"><u>Comprehensive Anker MagGo Wireless Charger Evaluation: Unveiling Persistent Flaws and Benefits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-comprehensive-hardware-guides-with-toms-hardware/"><u>Explore Comprehensive Hardware Guides with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-insights/"><u>Exploring Advanced Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fire-ant-infestation-found-inside-gaming-pc-a-look-at-creepy-video-evidence/"><u>Fire Ant Infestation Found Inside Gaming PC: A Look at Creepy Video Evidence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-your-gameplay-the-top-rated-wireless-gaming-headsets-for-enhanced-audio-and-convenience/"><u>Future-Proof Your Gameplay: The Top Rated Wireless Gaming Headsets for Enhanced Audio & Convenience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-k1c-creality-shares-exciting-launch-date-price-tag-and-full-technical-specifications/"><u>Get Ready for the K1C: Creality Shares Exciting Launch Date, Price Tag & Full Technical Specifications!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-emporium-your-source-for-gear-reviews-and-news/"><u>Inside Tom's Electronics Emporium: Your Source for Gear Reviews and News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keep-your-temperature-right-with-arctics-superior-liquid-freezer-ii-aio-cooler-for-a-steal-at-just-74/"><u>Keep Your Temperature Right with Arctic's Superior Liquid Freezer II AIO Cooler for a Steal at Just $74!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-microphone-issues-effective-fixes-and-tips/"><u>Solving iPhone Microphone Issues - Effective Fixes & Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027607419-vob3/"><u>VOBビデオから高品質音声抽出に必要な3コツ</u></a></li>
+</ul></div>
+

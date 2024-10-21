@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special: Save $400 on the Segway Max G2 Electric Scooter - Exclusive Deal Alert!"
-date: 2024-09-19 17:48:56
-updated: 2024-09-20 11:11:44
+date: 2024-10-16T19:30:06.880Z
+updated: 2024-10-20T22:33:25.051Z
 tags:
   - sustainability
 categories:
@@ -46,11 +46,32 @@ You can connect the Max G2 to the companion app to get at-a-glance updates on re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-innovative-broadcasting-leveraging-monitor-screens-in-live-fb-streams/"><u>[New] 2024 Approved Innovative Broadcasting Leveraging Monitor Screens in Live Fb Streams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-5-facebook-video-grabber/"><u>[Updated] 2024 Approved Top 5 Facebook Video Grabber</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-mundane-titles-into-visual-marvels-with-ae/"><u>2024 Approved Transforming Mundane Titles Into Visual Marvels with AE</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-devices-with-toms-hardware-experts/"><u>Exploring Cutting-Edge Devices with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-your-go-to-hardware-hub/"><u>Exploring Gadgets with Tom: Your Go-To Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-electronics-a-guide-by-toms-hardware-experts/"><u>Mastering Modern Electronics: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-detailed-tutorials-and-reviews-from-toms-hardware-specialists/"><u>Mastering Tech: Detailed Tutorials and Reviews From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-insights/"><u>Mastering Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-directx-error-resolution-tips-and-tricks/"><u>Mastering the Art of DirectX Error Resolution: Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-frequent-shutdowns-in-elex-ii-for-pc-players-solutions-inside/"><u>Overcoming Frequent Shutdowns in Elex II for PC Players - Solutions Inside!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-behind-continuous-crashes-of-call-of-duty-black-ops-cold-war-on-windows-pcs/"><u>Solving the Mystery Behind Continuous Crashes of Call of Duty Black Ops Cold War on Windows PCs</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Eco-Friendly Smartphones - Features and Reviews by TechRadar
-date: 2024-09-19 19:41:14
-updated: 2024-09-20 11:23:29
+date: 2024-10-16T19:37:25.187Z
+updated: 2024-10-21T05:38:01.577Z
 tags:
   - sustainability
 categories:
@@ -149,6 +149,13 @@ Cons
 * No wireless charging
 * Disappointing software upgrade policy -- phone only comes with Android 11
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Motorola Edge
 
 #### Best battery life in a green phone
@@ -175,6 +182,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which eco-friendly phone is right for you?
 
 If you're loyal to a smartphone brand, the Apple and Samsung phones on this list are great options that don't require you to give up the smartphone experience you are used to. The Fairphone 4 is an excellent eco-conscious option with 5G speeds if you live in Europe. 
@@ -189,6 +203,13 @@ And, if you want a cheaper phone that will last at least five years, the Teracub
 | Teracube 2E                | A green phone that lasts longer than the average two- to three-year lifespan |
 | Motorola Edge              | A green phone that has up to two-days of battery life on a full charge       |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these eco-friendly phones?
 
 We looked at the usual name-brand smartphones as well as the not-so-conventional brands to add to this list. We read through and fact-checked climate pledges and claims companies have made. Other criteria we considered when choosing the smartphones on this list were what the devices were made of and their overall energy usage/carbon footprint when compared to the average smartphone. 
@@ -202,6 +223,19 @@ Some of the eco-friendly aspects of a phone include recycled parts and packaging
 An eco-friendly phone will help reduce environmental waste (e-waste). According to the Environmental Protection Agency (EPA), [e-waste is the fastest-growing waste stream](https://www.dosomething.org/us/facts/11-facts-about-e-waste) in America, but only a fraction of it is collected. As a result, the world produces as much as [50 million metric tons of e-waste a year](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste).
 
  Buying an eco-friendly phone means the phone is built with recycled materials and not hazardous e-waste materials like [lead, nickel, and mercury](https://www.ncsl.org/research/environment-and-natural-resources/e-waste-recycling-legislation.aspx). In addition, eco-friendly devices are built to last longer than the average smartphone, reducing the amount of e-waste by keeping your phone active for longer. 
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative environmentally conscious phones worth considering?
 
@@ -232,11 +266,31 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-become-a-meme-wizard-with-these-9gag-strategies/"><u>[New] Become a Meme Wizard with These 9GAG Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-engagement-a-compendium-of-the-top-20-youtube-hacks/"><u>[New] Mastering Engagement A Compendium of the Top 20 YouTube Hacks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-tiktok-video-posts-on-twitter/"><u>[Updated] Mastering TikTok Video Posts on Twitter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-leading-edge-cameras-for-flawless-hd-chat-and-recording/"><u>Expert Picks: Leading Edge Cameras for Flawless HD Chat and Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005641917-fix-completed-unstick-your-frozen-discord-game-stream-now/"><u>Fix Completed: Unstick Your Frozen Discord Game Stream Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgets-and-gear-insights-by-toms-hardware-review/"><u>Gadgets & Gear Insights by Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gaming-and-laptop-efficiency-screenspokes-selection-of-top-portable-monitors-2024-edition/"><u>Gaming & Laptop Efficiency: Screenspoke's Selection of Top Portable Monitors - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/homemade-3d-chocolate-creations-with-the-cocoapress-3d-printer-a-comprehensive-review/"><u>Homemade 3D Chocolate Creations with the CocoaPress 3D Printer - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-excel-with-orca-slicer-beginners-walkthrough/"><u>How to Excel with ORCA-Slicer - Beginner's Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-teamgroup-t-force-dark-airflow-i-top-choice-for-nvme-ssd-cooling/"><u>In-Depth Analysis of the TeamGroup T-Force Dark AirFlow I - Top Choice for NVMe SSD Cooling</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/in-depth-analysis-spanish-verb-structures/"><u>In-Depth Analysis: Spanish Verb Structures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-examinations-from-toms-technological-perspectives/"><u>In-Depth Hardware Examinations From Tom's Technological Perspectives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-texting-problems-here-are-7-fixes-you-need/"><u>IPhone Texting Problems? Here Are 7 Fixes You Need</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-computer-needs-expert-advice-from-toms-hardware/"><u>Master Your Computer Needs: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-ie-driver-setup-on-windows-environments/"><u>Mastering IE Driver Setup on Windows Environments</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-switching-your-sim-card-in-latest-iphones-models-15-14-13-and-more/"><u>Step-by-Step Guide: Switching Your SIM Card in Latest iPhones (Models 15, 14, 13, and More)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/victory-over-visual-voids-a-step-by-step-fix-for-call-of-duty-wwii-black-screens-on-pc/"><u>Victory over Visual Voids: A Step-by-Step Fix for Call of Duty: WWII Black Screens on PC</u></a></li>
+</ul></div>
+

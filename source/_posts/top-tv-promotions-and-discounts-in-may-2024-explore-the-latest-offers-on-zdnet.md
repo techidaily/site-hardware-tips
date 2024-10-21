@@ -1,7 +1,7 @@
 ---
 title: Top TV Promotions & Discounts in May 2024 - Explore the Latest Offers on ZDNET
-date: 2024-09-26T23:00:57.010Z
-updated: 2024-10-04T02:01:23.761Z
+date: 2024-10-16T17:49:38.096Z
+updated: 2024-10-20T19:15:14.809Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-group-chat-and-webcams-the-best-selection/"><u>[Updated] Elite Group Chat & Webcams The Best Selection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-get-that-perfect-fit-resize-videos-to-instagram-standards-using-mac/"><u>2024 Approved Get That Perfect Fit Resize Videos to Instagram Standards Using Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-yet-powerful-cpu-picks-expertly-tested-pcmag-insights/"><u>Affordable Yet Powerful CPU Picks , Expertly Tested - PCMag Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-the-gap-ais-impact-on-paperclip-maximization/"><u>Bridging the Gap: AI's Impact on Paperclip Maximization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-smooth-gliding-visually-appealing-mouse-pads-of-2024/"><u>Discover the Finest Smooth-Gliding, Visually Appealing Mouse Pads of 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-netgear-nighthawk-ax8-the-ultimate-wi-fi-n-mesh-expander-for-modern-homes/"><u>Expert Analysis of the Netgear Nighthawk AX8: The Ultimate Wi-Fi N Mesh Expander for Modern Homes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-equipment-with-toms-hardware-guides/"><u>Exploring Computer Equipment with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-choices-expertly-reviewed-filaments-for-3d-printers-in-eetings/"><u>Futureproof Choices: Expertly Reviewed Filaments for 3D Printers in Eetings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-google-pixel-8-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Google Pixel 8 Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-reveals-fix-for-persistent-cpu-stability-issues-overvolting-identified-as-primary-fault/"><u>Intel Reveals Fix for Persistent CPU Stability Issues: Overvolting Identified as Primary Fault</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-lore-of-roguelites-amidst-classic-rpgs-for-2024/"><u>The Lore of Roguelites Amidst Classic RPGs for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-best-curved-gaming-displays-of-2n24/"><u>Top-Ranked Best Curved Gaming Displays of 2N24</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-high-performance-pcs-with-toms-hardware-insights/"><u>Unlocking High-Performance PCs with Tom's Hardware Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-cloud-based-vertical-video-editing-software-top-picks-2023/"><u>Updated In 2024, Cloud-Based Vertical Video Editing Software Top Picks 2023</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourav-joshis-income-tactics-the-future-of-monetizing-content/"><u>[New] Sourav Joshi's Income Tactics The Future of Monetizing Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-essential-guide-to-crafting-engaging-haul-videos/"><u>[New] The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>[Updated] In 2024, Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-free-panasonic-avchd-sd-card-recovery-software-restore-your-files-without-cost/"><u>1. Free Panasonic AVCHD SD Card Recovery Software: Restore Your Files Without Cost</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-clip-viewer-extractor-system/"><u>2024 Approved Clip Viewer Extractor System</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-preserving-sound-integrity-with-ffmpeg-extract/"><u>2024 Approved Preserving Sound Integrity with FFmpeg Extract</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivating-sonic-boosters-in-your-new-windows-11-experience/"><u>Guide: Deactivating Sonic Boosters in Your New Windows 11 Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-g2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo G2 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fourfold-path-to-blurring-iphone-images/"><u>In 2024, The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-devices-tips-from-toms-hardware/"><u>Navigating the World of Devices: Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-with-the-lenovo-legion-slim-5-gaming-laptop-find-your-game-changer-under-1100-at-newegg/"><u>Score Big Savings with the Lenovo Legion Slim 5 Gaming Laptop - Find Your Game Changer Under $1,100 at Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-laptop-reviews-of-2024-comprehensive-tests-and-performance-analytics/"><u>Top-Ranking Gaming Laptop Reviews of 2024 - Comprehensive Tests & Performance Analytics</u></a></li>
 </ul></div>
 

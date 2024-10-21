@@ -1,7 +1,7 @@
 ---
 title: Singapore Advances Artificer Intellect by Integrating Quantum Computing & Data Hubs - Insights From ZDNet
-date: 2024-09-18 10:50:30
-updated: 2024-09-20 12:28:55
+date: 2024-10-19T23:01:11.044Z
+updated: 2024-10-20T18:47:06.981Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,28 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-understanding-vlcs-screen-recording-features/"><u>[Updated] Understanding VLC's Screen Recording Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-direct-video-streaming-sending-fb-vids-straight-into-whatsapp/"><u>2024 Approved Direct Video Streaming Sending FB Vids Straight Into WhatsApp</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-documenting-computer-sounds/"><u>2024 Approved Innovative Approaches to Documenting Computer Sounds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolving-watch-tech-with-ai-discover-6-game-changing-uses-for-chatgpt-in-smartwatches/"><u>Evolving Watch Tech with AI: Discover 6 Game-Changing Uses for ChatGPT in Smartwatches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-solving-code-39-errors-in-windows-environments/"><u>Expert Tips for Solving Code 39 Errors in Windows Environments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-11f-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-performance-gear-with-tom-a-comprehensive-look-at-hardware/"><u>Navigating High-Performance Gear with Tom: A Comprehensive Look at Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computing-with-expertise-from-toms-hardware/"><u>Navigating the World of High-Performance Computing with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-hardware-selection-tips-from-tom/"><u>Navigating Through Hardware Selection - Tips From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-cpu-chillers-revealed-by-noctua-experience-the-future-with-evaporative-and-pumpless-technology/"><u>Next-Gen CPU Chillers Revealed by Noctua - Experience the Future with Evaporative & Pumpless Technology</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-fix-annoyance-free-deletion-of-youtube-comments/"><u>Quick Fix Annoyance-Free Deletion of Youtube Comments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-3d-printing-experience-with-the-budget-friendly-creality-ender-asterix-v3-ke-in-depth-review/"><u>Revolutionize Your 3D Printing Experience with the Budget-Friendly Creality Ender Asterix V3 Ke - In-Depth Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-high-quality-black-tpu-filament-only-16-per-kg-specially-for-3d-printing-enthusiasts/"><u>Save Big on High-Quality Black TPU Filament - Only $16 per Kg, Specially For 3D Printing Enthusiasts!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/winning-tiktok-desktop-strategies-unveiled/"><u>Winning TikTok Desktop Strategies Unveiled</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Path to Green Tech Innovation: Overcoming Obstacles & Seizing Prospects"
-date: 2024-09-17 17:50:31
-updated: 2024-09-20 12:46:46
+date: 2024-10-18T01:59:26.424Z
+updated: 2024-10-20T20:57:07.320Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ Are we smart enough to deploy technology more effectively to help create a more 
 
 These are the main questions covered, from various angles, in this ZDNET in-depth special report. In the meantime, here's some more context. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is the fate of technological civilizations? 
 
 In his excellent and accessible 2018 book [_Light of the Stars_](https://www.adamfrankscience.com/light-of-the-stars), Adam Frank, a [professor of astrophysics](http://www.pas.rochester.edu/people/faculty/frank%5Fadam/index.html) at the University of Rochester, describes a mathematical model of how theoretical technological civilizations might respond to changing conditions on their planets. For simplicity, the model includes just two kinds of energy resources -- one with high planetary impact (like fossil fuels), the other with low impact (like solar energy). At some point, rising planetary temperature causes a civilization to switch energy resources from high to low impact, and the model explores various outcomes for the planet's capacity to support a population of the energy-consuming species. 
@@ -50,6 +57,13 @@ After running multiple simulations, three kinds of trajectory were observed: 'di
 Of course, we don't know which, if any, of these trajectories Earth and its human population might follow (although high-resolution [next-generation climate models](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-modelling.pdf) based on[exascale computing](https://www.zdnet.com/article/this-giant-supercomputer-dominates-the-rankings-and-catching-it-will-take-a-lot-of-work/) will help), but the warning signs are there, and it would certainly be wise to avoid dicing with the tipping points that can lead to full-blown collapse.
 
 However, global emissions are still too high: the IPCC estimates that 410 gigatonnes of CO2 were emitted between 2010 and 2019, leaving a 'carbon budget' of just 500GtCO2 for the remainder of the 21st century to limit global warming to 1.5°C. As of [November 2022](https://climateactiontracker.org/publications/massive-gas-expansion-risks-overtaking-positive-climate-policies/), global temperatures were about 1.2°C above pre-industrial levels and heading for 2.4°C by 2100 under current 2030 targets.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How does technology contribute to climate change? 
 
@@ -68,6 +82,13 @@ Further efforts will clearly be required to reduce the environmental footprint o
 The think tank's second report concentrated on online video, which, it estimated, generated 60% of world data flows and 300 million tons of CO2 in 2019, or 1% of global emissions. Four main types of online video content were identified: video on demand (e.g. Netflix, Amazon Prime, 34%); pornography (27%), 'Tubes' (e.g. YouTube, Dailymotion, 21%); and others (e.g. video hosted on social networks, 18%). Mitigating the environmental impact of online video would mean reducing the use and size of video files, and regulation of different types of usage, the report argued.
 
 A key component of any sustainable digital transition will be a move to a more [circular economy](https://en.wikipedia.org/wiki/Circular%5Feconomy), where instead of manufacturing, using, disposing of and replacing tech products, device lifetimes are extended via [repair](https://repair.eu/about/), refurbishment and reuse, and component materials re-enter the (ideally closed-loop) process via recycling rather than becoming [e-waste](https://weee-forum.org/who-we-are/) and going to landfill, causing pollution and requiring replacement minerals and metals to be extracted (resulting in further environmental damage). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are companies doing to improve sustainability? 
 
@@ -132,6 +153,13 @@ Image: HP
 
 Then there are smaller vendors such as [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/), which specialise in modular phones and laptops respectively. There's also a growing market for refurbished PCs, with a [2021 valuation](https://www.marketresearch.com/QYResearch-Group-v3531/Global-Refurbished-PC-Research-14240533/) of $9.34 billion, rising to an estimated $14.76bn (6.8% CAGR) by the end of 2027\. We should always be wary of [greenwashing](https://en.wikipedia.org/wiki/Greenwashing), of course, but it does seem as though technology companies are now paying a lot more than lip service to the environment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The road ahead
 
 As the world's population heads towards 10 billion-plus in 2100, the window of opportunity for limiting global warming to 1.5°C, per the 2015 Paris Agreement, is closing rapidly. Technology has contributed significantly to global warming over the past 50-plus years, but tech companies are increasingly signing up for verifiable, science-based emission-reduction targets, and embracing sustainable and recycled materials, designing more modular and repairable products, and pledging to minimize e-waste. Innovation in areas like carbon capture, renewable energy, battery technology, the Internet of Things, and remote sensing will also have a big part to play in climate mitigation going forward.
@@ -161,11 +189,29 @@ News on climate change can seem relentlessly bad, but there are grounds for hope
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-stream-like-a-champion-youtubes-ultimate-techniques/"><u>[New] 2024 Approved Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-guide-vidma-replayer-insights-and-rivals/"><u>[New] 2024 Approved Ultimate Guide Vidma Replayer - Insights & Rivals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-offsite-organization-unveiling-best-practices-and-platforms/"><u>[New] Optimal Offsite Organization Unveiling Best Practices & Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ions-pro-3-cam-revealed-a-compact-powerhouse-unveiled/"><u>2024 Approved ION's Pro 3 Cam Revealed - A Compact Powerhouse Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808158168-asus-aura-desktop-themes-and-skins-for-windows-1011-download-now/"><u>ASUS AURA Desktop Themes & Skins for Windows 10/11: Download Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovative-technology-through-toms-component-analysis/"><u>Exploring Innovative Technology Through Tom's Component Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-complexities-of-homemade-weapons-with-3d-printing-my-experiment/"><u>Exploring the Complexities of Homemade Weapons with 3D Printing: My Experiment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-gadgets-with-toms-hardware-insights/"><u>Exploring the Latest in Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-insider-guides/"><u>Exploring the Latest in Technology with Tom's Insider Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-speed-computing-unleashed-in-depth-review-of-two-trees-sk1-and-its-open-source-advantage/"><u>High-Speed Computing Unleashed: In-Depth Review of 'Two Trees' SK1 and Its Open-Source Advantage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-correct-pachyderm-pedal-disorders-during-3d-fabrication/"><u>How to Correct Pachyderm Pedal Disorders During 3D Fabrication</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-as-a-film-studio-tutorials-and-competitive-choices/"><u>In 2024, YouTube as a Film Studio Tutorials & Competitive Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-compatible-windows-117-drivers-for-realtek-rtl8188cu-adapter/"><u>Quick & Easy Download: Compatible Windows 11/7 Drivers for Realtek RTL8188CU Adapter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-youtubers-playbook-achieving-content-stardom-for-2024/"><u>The YouTuber's Playbook Achieving Content Stardom for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-the-potential-of-pip-in-microsoft-edge-browser/"><u>Unleash the Potential of PIP in Microsoft Edge Browser</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Track Your Carbon Footprint Reduction with Uber's Latest Emission Tracker Feature - Learn More About the Impact of Green Transportation | ZDNet
-date: 2024-09-17 15:19:31
-updated: 2024-09-20 10:20:23
+date: 2024-10-14T03:41:59.169Z
+updated: 2024-10-20T20:51:31.092Z
 tags:
   - sustainability
 categories:
@@ -66,11 +66,32 @@ Uber is taking steps to ensure the savings shown are as accurate as possible. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>[New] In 2024, Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-behind-the-scenes-of-video-studios-xreview-analysis/"><u>[Updated] Behind the Scenes of Video Studios XReview Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-contrast-of-virtual-realms-meta-vs-omni-universe-for-2024/"><u>[Updated] The Contrast of Virtual Realms Meta Vs. Omni Universe for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet/"><u>2024 Approved Go Live on YouTube From a Phone, No Need for Huge Fans Yet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-update-process-boost-your-computers-performance-with-windows-11-installation/"><u>Easy Update Process: Boost Your Computer's Performance with Windows 11 Installation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozen-sonic-mega-8k-s-resin-the-definitive-toolkit-companion-for-professionals-in-print-farming/"><u>Phrozen Sonic Mega 8K S Resin - The Definitive Toolkit Companion for Professionals in Print Farming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-testing-with-tom-hardware-solutions/"><u>Pioneering Computer Testing with Tom Hardware Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-review-top-tier-engravers-and-cutters-of-the-year-2024/"><u>Professional Review: Top-Tier Engravers and Cutters of the Year 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-cooling-tech-asetek-unveils-ai-enhanced-ecam-cold-plate-via-advanced-3d-metal-printing-with-fabric8labs/"><u>Revolutionizing Cooling Tech: Asetek Unveils AI-Enhanced ECAM Cold Plate via Advanced 3D Metal Printing with Fabric8Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-money-premium-3d-printer-models-delivering-excellence-without-breaking-your-budget/"><u>Save Money : Premium 3D Printer Models Delivering Excellence Without Breaking Your Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-longevous-play-why-physical-is-prevailing/"><u>The Longevous Play: Why Physical Is Prevailing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

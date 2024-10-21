@@ -1,7 +1,7 @@
 ---
 title: "Assess Your Cloud Impact: The Latest AWS Feature Revealing Carbon Emissions From Compute Use"
-date: 2024-09-19 20:35:10
-updated: 2024-09-20 10:41:37
+date: 2024-10-18T19:37:17.058Z
+updated: 2024-10-20T16:44:45.710Z
 tags:
   - sustainability
 categories:
@@ -109,6 +109,13 @@ Amazon Web Services (AWS) has released a tool that helps customers see how much 
 
 AWS has launched the free [Customer Carbon Footprint Tool](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Fnew-customer-carbon-footprint-tool%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C227aabc5-88d1-46e4-9d2f-a50721a4a3e9%7Cdtp&dtb=1) to help its customers understand the carbon emissions their EC2 instances and other compute and networking services are generating. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best cloud storage services Free and cheap personal and small business cloud storage services are everywhere. But, which one is best for you? Let's look at the top cloud storage options.  Read now](https://www.zdnet.com/article/best-cloud-storage/)
@@ -154,11 +161,30 @@ Microsoft yesterday launched a new sustainability industry team to power its eff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>[Updated] 2024 Approved Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-visual-communication-a-guide-to-using-gifs-on-discord-platform/"><u>[Updated] 2024 Approved Mastering Visual Communication A Guide to Using GIFs on Discord Platform</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-first-steps-in-learning-av1-compression/"><u>[Updated] First Steps in Learning AV1 Compression</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-1080-graphics-card-drivers-compatible-with-windows-11-quick-and-simple/"><u>Download Nvidia 1080 Graphics Card Drivers Compatible with Windows 11 - Quick & Simple</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-does-microsoft-word-utilize-the-autorecovery-feature-to-store-backup-documents/"><u>How Does Microsoft Word Utilize the AutoRecovery Feature to Store Backup Documents?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-iphone-image-conversion-from-jpgpng-to-pdf/"><u>In 2024, Master iPhone Image Conversion From JPG/PNG to PDF</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-pc-building-tips-and-tricks-from-tomn-hardware/"><u>Navigating PC Building Tips and Tricks From Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-tom-the-ultimate-guide/"><u>Navigating Technology with Tom - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-todays-tech-landscape-insights-from-toms-hardware/"><u>Navigating Today's Tech Landscape: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-processor-cooling-intels-collaboration-with-exxonmobil-paving-way-for-high-tech-2000w-tdp-xeon-innovations/"><u>Next-Gen Processor Cooling: Intel's Collaboration with ExxonMobil Paving Way for High-Tech, 2000W TDP Xeon Innovations</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/overcoming-the-challenge-seamless-installation-of-samsung-data-migration-application-for-windows-users/"><u>Overcoming the Challenge: Seamless Installation of Samsung Data Migration Application for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-silent-pc-experience-with-configurable-cases-and-glowing-fans-by-be-quiet/"><u>Revolutionize Your Silent PC Experience with Configurable Cases & Glowing Fans by Be Quiet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/significant-temperature-reduction-with-the-direct-die-aio-cooler-from-ek-solutions-for-intel-139/"><u>Significant Temperature Reduction with the Direct Die AIO Cooler From EK Solutions for Intel 139</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ideal-nvme-drives-to-enhance-your-steam-deck-experience-a-comprehensive-review/"><u>The Ideal NVMe Drives to Enhance Your Steam Deck Experience: A Comprehensive Review</u></a></li>
+</ul></div>
+

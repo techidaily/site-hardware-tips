@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Environmental Impact of Mobile Devices: Solutions for a Greener Future"
-date: 2024-09-18 17:53:51
-updated: 2024-09-20 10:37:42
+date: 2024-10-16T16:39:35.662Z
+updated: 2024-10-20T20:32:29.060Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-revolutionize-virtual-participation-with-top-10-free-recorder-software/"><u>[New] 2024 Approved Revolutionize Virtual Participation with Top 10 Free Recorder Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-a-step-by-step-approach-to-mastering-the-background-eraser-tool-for-2024/"><u>[New] A Step-by-Step Approach to Mastering the Background Eraser Tool for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-archive-navigation-made-simple-for-2024/"><u>[New] Twitter Archive Navigation Made Simple for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>2024 Approved Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-13-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/select-the-perfect-heat-transfer-solution-for-your-cpu-ranked-analysis-of-90-pastes/"><u>Select the Perfect Heat Transfer Solution for Your CPU - Ranked Analysis of 90 Pastes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-verdict-on-teamgroup-t-force-dark-airflow-i-superior-performance-for-your-fastest-ssds/"><u>The Definitive Verdict on TeamGroup T-Force Dark Airflow I - Superior Performance for Your Fastest SSDs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-breakdown/"><u>Tom's Computer Components Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-the-latest-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-graphics-cards-for-profitable-cryptocurrency-mining-a-guide-by-toms-hardware/"><u>Top Choice Graphics Cards for Profitable Cryptocurrency Mining: A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-and-detailed-assessments-at-toms-tech-review/"><u>Top Picks and Detailed Assessments at Tom's Tech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-3d-printing-devices-in-2vearly-2024-fdm-resin-and-budget-friendly-options/"><u>Top-Rated 3D Printing Devices in 2Vearly 2024 - FDM, Resin & Budget-Friendly Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/unplugging-pauses-a-guide-to-smooth-gaming/"><u>Unplugging Pauses: A Guide to Smooth Gaming</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-comparative-review-of-top-6-chrome-devices-offering-advanced-voice-manipulation-features-filmmagicworkshop/"><u>Updated In 2024, A Comparative Review of Top 6 Chrome Devices Offering Advanced Voice Manipulation Features - FilmMagicWorkshop</u></a></li>
+</ul></div>
+

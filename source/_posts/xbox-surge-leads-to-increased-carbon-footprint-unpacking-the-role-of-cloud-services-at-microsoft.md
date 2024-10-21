@@ -1,7 +1,7 @@
 ---
 title: "Xbox Surge Leads to Increased Carbon Footprint: Unpacking the Role of Cloud Services at Microsoft"
-date: 2024-09-19 18:46:57
-updated: 2024-09-20 10:58:12
+date: 2024-10-17T16:31:29.973Z
+updated: 2024-10-20T22:54:00.332Z
 tags:
   - sustainability
 categories:
@@ -109,6 +109,13 @@ Microsoft is promising "stronger steps" to help reduce its carbon emissions afte
 
 Microsoft took a step backwards in 2021 on its goal, first aired in 2020, to [become carbon negative by 2030](https://www.zdnet.com/article/microsofts-ambitious-plan-to-remove-its-entire-carbon-footprint/). The company disclosed a significant 23% rise in carbon output in its 2021 sustainability report. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best cloud storage services Free and cheap personal and small business cloud storage services are everywhere. But, which one is best for you? Let's look at the top cloud storage options.  Read now](https://www.zdnet.com/article/best-cloud-storage/)
@@ -172,11 +179,30 @@ Apple and Google have historically released their respective sustainability repo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foremost-4k-camcorders-our-best-picks/"><u>[New] 2024 Approved Foremost 4K Camcorders Our Best Picks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>[New] Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-visual-storytelling-crafting-compelling-narratives-in-youtube-videos/"><u>[Updated] 2024 Approved Visual Storytelling Crafting Compelling Narratives in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bright-ideas-top-17-lighting-setups-for-youtubers/"><u>[Updated] In 2024, Bright Ideas Top 17 Lighting Setups for YouTubers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Bootloader Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-anycubic-kobra-2-max-unearthing-a-hidden-gem/"><u>In-Depth Evaluation of Anycubic Kobra 2 MAX: Unearthing a Hidden Gem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-comparisons-and-advice-from-toms-tech-corner/"><u>In-Depth Hardware Comparisons and Advice From Tom's Tech Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-3d-metal-prints-unprecedented-durability-in-dimensions-smaller-than-a-virus/"><u>Innovative 3D Metal Prints: Unprecedented Durability in Dimensions Smaller than a Virus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-electronics-with-tom-your-guide-to-cutting-edge-hardware/"><u>Inside Electronics with Tom: Your Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insider-knowledge-on-computing-from-toms-hardware-hub/"><u>Insider Knowledge on Computing From Tom's Hardware Hub</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-a-prompt-engineers-job-real-a-comprehensive-guide-on-what-matters-most/"><u>Is a Prompt Engineer's Job Real? A Comprehensive Guide on What Matters Most</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/"><u>Master Your Gadgets with Innovative Solutions From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-techniques-for-addressing-filament-grinding-problems/"><u>Masterclass: Techniques for Addressing Filament Grinding Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-mix-fold-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Mix Fold 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
+

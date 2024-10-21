@@ -1,7 +1,7 @@
 ---
 title: "AI and Computing's Green Revolution: Strategies for Sustainable Tech Development in an Energy-Intensive Era | ZDNet"
-date: 2024-09-18 10:10:40
-updated: 2024-09-20 10:46:43
+date: 2024-10-18T01:46:20.040Z
+updated: 2024-10-21T00:54:15.091Z
 tags:
   - sustainability
 categories:
@@ -96,11 +96,35 @@ Asked about their biggest technology barriers to deployments, 35% point to stora
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-with-your-macbooks-camera/"><u>[Updated] In 2024, How to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scholarstreams-essential-educational-youtube-sites/"><u>[Updated] ScholarStreams Essential Educational YouTube Sites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-exposed-the-authoritative-look-at-toms-hardware-reviews/"><u>Advanced Computing Exposed: The Authoritative Look at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-diy-projects-featuring-top-picks-from-toms-hardware-collection/"><u>Advanced DIY Projects Featuring Top Picks From Tom’s Hardware Collection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-graphic-cards-in-2e24-the-best-picks-for-gamers-on-a-budget/"><u>Affordable High-Performance Graphic Cards in 2E24: The Best Picks for Gamers on a Budget</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/augmenting-realities-for-better-outcomes-for-2024/"><u>Augmenting Realities for Better Outcomes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-affordable-led-ram-modules-for-gamers/"><u>Best Affordable LED RAM Modules for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-pick-rp2040-based-single-board-computers-coming/"><u>Best Pick: RP2040-Based Single Board Computers Coming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 12 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

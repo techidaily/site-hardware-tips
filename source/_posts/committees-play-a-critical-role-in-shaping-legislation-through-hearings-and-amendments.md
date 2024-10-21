@@ -1,7 +1,7 @@
 ---
 title: Committees Play a Critical Role in Shaping Legislation Through Hearings and Amendments.
-date: 2024-10-01T17:02:46.371Z
-updated: 2024-10-03T18:56:53.727Z
+date: 2024-10-19T16:31:19.955Z
+updated: 2024-10-20T17:13:28.394Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +98,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-history-on-your-flip-watching-old-fb-stories/"><u>[New] In 2024, History on Your Flip Watching Old FB Stories</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-trimming-footage-for-insta-on-macos-for-2024/"><u>[New] Trimming Footage for Insta on macOS for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-rhythmic-resonance-incor-written-by-assistant/"><u>[Updated] 2024 Approved Rhythmic Resonance Incor Written by Assistant</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-elegoo-neptune-4-max-sizing-up-its-performance-and-issues/"><u>Comprehensive Analysis of the Elegoo Neptune 4 Max: Sizing Up Its Performance & Issues</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ensuring-privacy-the-ultimate-guide-to-erasing-sensitive-information-on-iphones/"><u>Ensuring Privacy: The Ultimate Guide to Erasing Sensitive Information on iPhones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-buying-guides-by-toms-technology-hub/"><u>Expert Reviews & Buying Guides by Tom’s Technology Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-broken-usb-connections-in-the-latest-windows-operating-systems/"><u>Expert Tips for Repairing Broken USB Connections in the Latest Windows Operating Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-old-school-techniques-elevating-edits/"><u>Prime Old-School Techniques Elevating Edits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-review/"><u>The Ultimate Guide to Computer Hardware by Tom's Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-in-air-cooled-showdown-in-depth-review-of-120mm-aio-units-from-be-quiet-corsair-cooler-master-and-enermax/"><u>Top 4 in Air-Cooled Showdown: In-Depth Review of 120MM AIO Units From Be Quiet, Corsair, Cooler Master, and Enermax</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshooting-repair-steps-when-your-3d-printers-bed-wont-heat/"><u>Troubleshooting: Repair Steps When Your 3D Printer's Bed Won't Heat</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-laughburst-app-for-all-humor-needs/"><u>2024 Approved LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-success-top-six-tactics-for-the-automation-era-jobscape/"><u>Adapting to Success: Top Six Tactics for the Automation Era Jobscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-new-ground-in-computer-cooling-thorough-review-and-breakdown-of-id-coolings-latest-masterpieces-the-frozn-a720-and-a620/"><u>Breaking New Ground in Computer Cooling: Thorough Review and Breakdown of ID-Cooling's Latest Masterpieces, the FROZN A720 & A620</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-brother-hl-l2350dw-printer-software-latest-updates-available/"><u>Download and Install Brother HL-L2350DW Printer Software: Latest Updates Available</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone X iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-next-gen-gadgets-with-expertise-from-toms-hardware-central/"><u>Navigating Next-Gen Gadgets with Expertise From Tom's Hardware Central</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-the-ultimate-guide-by-tom/"><u>Navigating Technology: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-strategies-for-indie-game-hunting/"><u>The Essential Strategies for Indie Game Hunting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronic-insights-and-expertise-navigating-hardware-choices/"><u>Tom’s Electronic Insights & Expertise – Navigating Hardware Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-top-choices-elite-key-discovering-tools-to-shop-this-year/"><u>Unveiling the Top Choices: Elite Key Discovering Tools to Shop This Year</u></a></li>
 </ul></div>
 

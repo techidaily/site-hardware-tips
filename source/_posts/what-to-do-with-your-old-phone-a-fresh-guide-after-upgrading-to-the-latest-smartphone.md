@@ -1,7 +1,7 @@
 ---
 title: "What To Do With Your Old Phone: A Fresh Guide After Upgrading to the Latest Smartphone"
-date: 2024-09-18 19:30:34
-updated: 2024-09-20 11:21:15
+date: 2024-10-19T23:29:08.737Z
+updated: 2024-10-20T16:22:14.816Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ If your issue with your current device is aesthetics, consider buying a new case
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Before you sell: Is there another option?
 
 Re-use is key way of cutting waste. Just because you don't want your phone or laptop any more, that doesn't mean it's without options. Does is make a useful starter device for someone else in your family? For those family members who don't need to be at the cutting edge of tech, an older model might be a fine option. Beware, however, of dumping your old kit on others if it's too slow or too out of date. They won't thank you for it.
@@ -54,6 +61,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -75,6 +89,13 @@ He also suggests buying a refurbished phone when you are due for an upgrade. Ref
 
 "Make sure you do so with a reputable retailer who can offer high-standard quality checks, certified refurbished products, and a money-back guarantee," he says.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why you should reduce, reuse, and recycle electronics
 
 Tech is all about novelty and the coolest new thing. But there are consequences to our upgrade culture. Since electronic devices have become a staple in our lives, [we've created massive amounts of e-waste](https://www.zdnet.com/article/our-old-devices-are-creating-a-mountain-of-e-waste-and-its-getting-a-lot-bigger/). According to the United Nations, [the world generated 53.5 million tons of e-waste in 2019](https://earth911.com/eco-tech/20-e-waste-facts/). The UN also reported that only 17.4% of the 53.5 million tons were recycled. 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,31 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-finest-digital-voice-recorders/"><u>[Updated] Finest Digital Voice Recorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-hdr-technology-demystified-with-a-look-at-aurora/"><u>2024 Approved HDR Technology Demystified with a Look at Aurora</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-insiders-manual-posting-youtube-videos-on-yourfb-page/"><u>2024 Approved The Insider's Manual Posting YouTube Videos on YourFB Page</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/best-photo-text-editor-to-add-text-on-picture-for-2024/"><u>Best Photo Text Editor to Add Text on Picture for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creative-uses-for-unwanted-or-supplementary-shots/"><u>Creative Uses for Unwanted or Supplementary Shots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-nvme-drive-efficiency-in-depth-look-at-the-best-coolers-with-a-closer-look-at-id-cooling-zero-m15-and-m05/"><u>Elevating NVMe Drive Efficiency: In-Depth Look At The Best Coolers With A Closer Look At ID-Cooling Zero M15 & M05</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-list-of-powerful-travel-friendly-and-advanced-type-c-usb-hubs/"><u>Elite List of Powerful, Travel-Friendly & Advanced Type-C USB Hubs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-overclocking-with-hypertherm-x2-pro-the-revolutionary-2-in-1-aio-cooler/"><u>Experience Next-Level Overclocking with HyperTherm X2-Pro, the Revolutionary 2-in-1 AIO Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-of-gadgets-and-components-toms-hardware-unveiled/"><u>Expert Review of Gadgets and Components - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-tips-on-the-latest-hardware-by-toms-team/"><u>Expert Reviews and Tips on the Latest Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/felicia-day-explores-the-world-of-additive-manufacturing-a-special-offer-on-her-custom-3d-models-for-enthusiasts/"><u>Felicia Day Explores the World of Additive Manufacturing: A Special Offer on Her Custom 3D Models for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fixing-delamination-problems-secure-your-3d-prints-with-these-tips/"><u>Fixing Delamination Problems: Secure Your 3D Prints with These Tips</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-15ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 15/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-lian-li-galahad-ii-360-lcd-all-in-one-cpu-cooler-for-intel-i7-14900k/"><u>In-Depth Analysis of the Lian Li Galahad II 360 LCD All-in-One CPU Cooler for Intel I7 14900K</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-a70-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from A70</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/strategies-efficaces-pour-la-synchronisation-de-fichiers-et-de-dossiers-sur-internet/"><u>Stratégies Efficaces Pour La Synchronisation De Fichiers Et De Dossiers Sur Internet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/troubleshooting-why-arent-your-recommended-fb-videos-displayed-in-2024/"><u>Troubleshooting Why Aren't Your Recommended FB Videos Displayed, In 2024</u></a></li>
+</ul></div>
+

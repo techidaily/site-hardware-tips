@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Guide to Sustainable Mobiles: Green Tech's Finest Phones of 2E|24 by ZDNET"
-date: 2024-09-17 20:46:22
-updated: 2024-09-20 12:34:40
+date: 2024-10-18T19:14:31.363Z
+updated: 2024-10-20T23:17:35.098Z
 tags:
   - sustainability
 categories:
@@ -94,6 +94,13 @@ Cons
 * It doesn't ship to the US -- only available in Europe
 * It runs on Android 9
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fairphone 4
 
 #### Best certified sustainable green phone
@@ -149,6 +156,19 @@ Cons
 * No wireless charging
 * Disappointing software upgrade policy -- phone only comes with Android 11
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Motorola Edge
 
 #### Best battery life in a green phone
@@ -189,6 +209,13 @@ And, if you want a cheaper phone that will last at least five years, the Teracub
 | Teracube 2E                | A green phone that lasts longer than the average two- to three-year lifespan |
 | Motorola Edge              | A green phone that has up to two-days of battery life on a full charge       |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these eco-friendly phones?
 
 We looked at the usual name-brand smartphones as well as the not-so-conventional brands to add to this list. We read through and fact-checked climate pledges and claims companies have made. Other criteria we considered when choosing the smartphones on this list were what the devices were made of and their overall energy usage/carbon footprint when compared to the average smartphone. 
@@ -202,6 +229,13 @@ Some of the eco-friendly aspects of a phone include recycled parts and packaging
 An eco-friendly phone will help reduce environmental waste (e-waste). According to the Environmental Protection Agency (EPA), [e-waste is the fastest-growing waste stream](https://www.dosomething.org/us/facts/11-facts-about-e-waste) in America, but only a fraction of it is collected. As a result, the world produces as much as [50 million metric tons of e-waste a year](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste).
 
  Buying an eco-friendly phone means the phone is built with recycled materials and not hazardous e-waste materials like [lead, nickel, and mercury](https://www.ncsl.org/research/environment-and-natural-resources/e-waste-recycling-legislation.aspx). In addition, eco-friendly devices are built to last longer than the average smartphone, reducing the amount of e-waste by keeping your phone active for longer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative environmentally conscious phones worth considering?
 
@@ -232,11 +266,31 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-talent-hunters-unite-top-10-video-roundup/"><u>[New] Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essential-guide-for-adding-depth-and-style-in-instagram-stories-for-2024/"><u>[New] The Essential Guide for Adding Depth & Style in Instagram Stories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-estimate-income-from-youtube-video-snippets/"><u>[Updated] 2024 Approved How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-guide-to-smart-video-money-making-on-platforms/"><u>[Updated] The Guide to Smart Video Money-Making on Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-achievement-customized-3d-printer-sets-new-speed-benchmark-with-speed-benchy-model-printed-in-under-two-minutes/"><u>Breakthrough Achievement: Customized 3D Printer Sets New Speed Benchmark with 'Speed Benchy' Model Printed in Under Two Minutes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/catalyze-viewers-interest-tutorial-for-traffic-triumphs-for-2024/"><u>Catalyze Viewers' Interest Tutorial for Traffic Triumphs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehvew-guide-using-third-party-software-to-open-pages-files-on-windowsmac/"><u>Comprehvew Guide: Using Third-Party Software to Open Pages Files on Windows/Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-builds-discover-teamgroups-latest-addition-the-magnetized-t-force-siren-aio-cpu-cooler-for-hassle-free-pc-tweaking/"><u>Elevate Your Builds: Discover TeamGroup's Latest Addition - The Magnetized T-Force Siren AIO CPU Cooler for Hassle-Free PC Tweaking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceed-expectations-with-cooler-masters-latest-aio-and-liquid-air-coolers-300wplus-thermal-management/"><u>Exceed Expectations with Cooler Master's Latest AIO and Liquid Air Coolers - 300W+ Thermal Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-tips-by-the-leaders-at-tomamoorium-hardware/"><u>Expert Advice and Tips by the Leaders at Tom'amoorium Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-technology-with-tom-your-go-to-resource/"><u>Expert Insights on Technology with Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-technology-reviews/"><u>Exploring Hardware with Tom's Technology Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-hardware-with-toms-gadget-analysis/"><u>Exploring the Latest in Hardware with Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-tech-products-tested-by-professionals-at-tomamhardwarecom/"><u>Find the Best Tech Products Tested by Professionals at Tom'amhardware.com</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-ai-is-shaping-the-modern-era-exploring-its-limitless-possibabities/"><u>How AI Is Shaping the Modern Era: Exploring Its Limitless Possibabities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-find-x6-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Find X6 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-connecting-your-laptop-to-a-television-using-an-hdmi-cable-step-by-step-instructions-with-images/"><u>Ultimate Guide: Connecting Your Laptop to a Television Using an HDMI Cable - Step-by-Step Instructions with Images</u></a></li>
+</ul></div>
+

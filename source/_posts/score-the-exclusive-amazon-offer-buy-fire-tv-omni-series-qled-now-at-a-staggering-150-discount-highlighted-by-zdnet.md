@@ -1,7 +1,7 @@
 ---
 title: "Score the Exclusive Amazon Offer: Buy Fire TV Omni Series QLED Now at a Staggering $150 Discount, Highlighted by ZDNet"
-date: 2024-10-14T16:22:28.473Z
-updated: 2024-10-15T16:37:26.106Z
+date: 2024-10-18T00:34:52.053Z
+updated: 2024-10-20T16:39:37.063Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,16 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 6 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-captivating-chronicles-youtube-stories-to-follow/"><u>In 2024, Captivating Chronicles YouTube Stories to Follow</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-voice-logging-on-apples-facetime-service-for-2024/"><u>Navigating Voice Logging on Apple's FaceTime Service for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/plunge-into-metaverse-top-8-high-tech-goggles-and-helmets-for-2024/"><u>Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-escort-ix-the-smart-gps-jammer-with-adaptive-learning-technology/"><u>Review of Escort iX: The Smart GPS Jammer with Adaptive Learning Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-mastery-creating-stunning-3d-chocolates-at-home-using-the-cocoapress-printer/"><u>Step-by-Step Mastery: Creating Stunning 3D Chocolates at Home Using the CocoaPress Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-hardware-guided-by-toms-tech-wisdom/"><u>The Ultimate Resource for Computer Hardware - Guided by Tom's Tech Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-insightful-reviews-and-latest-news/"><u>Tom's Tech Hub: Insightful Reviews & Latest News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-discounts-available-in-month/"><u>Top Apple Watch Discounts Available in [Month]</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wie-sie-mit-5-methoden-mp4-videos-perfekt-in-ihr-ipad-integrieren-anleitung-fur-die-neuesten-ipad-generationen/"><u>Wie Sie Mit 5 Methoden MP4-Videos Perfekt in Ihr iPad Integrieren: Anleitung Für Die Neuesten iPad-Generationen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-trusted-companer-to-cutting-edge-technology-discover-toms-hardware/"><u>Your Trusted Companer to Cutting-Edge Technology: Discover Tom's Hardware</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>[New] In 2024, SEO Breakthrough Dominating the Podcast Rankings Landscape</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077s-troubling-encounter-an-in-depth-look-at-error-code-2024/"><u>Cyberpunk 2077'S Troubling Encounter: An In-Depth Look at Error Code 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expert-advice-ensuring-smooth-playback-of-nba-5-new-best-seo-titles-suitable-for-google-search-engine-that-convey-similar-meanings-to-solved-how-to-fix-micr477/"><u>Expert Advice: Ensuring Smooth Playback of NBA 5 New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to [SOLVED] How to Fix Microsoft Edge Crashing on Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-download-filmora-13-video-editing-made-easy/"><u>In 2024, Free Download Filmora 13 Video Editing Made Easy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pixelpunmatic-device/"><u>In 2024, PixelPunmatic Device</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-civi-3-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Civi 3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-expert-opinions-from-toms-hardware-source/"><u>Top Tech Picks & Expert Opinions From Tom's Hardware Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-toms-hardware-reviews-expert-insights-and-buying-guides/"><u>Top Tom's Hardware Reviews: Expert Insights & Buying Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-picking-the-best-psus-for-blockchain-mining-optimal-gear-for-eth-and-coins/"><u>Ultimate Guide to Picking the Best PSUs for Blockchain Mining: Optimal Gear for Eth & Coins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-high-performance-live-streaming-cams/"><u>Unbeatable Deals on High-Performance Live Streaming Cams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-of-your-tech-trustworthy-tips-and-reviews-at-toms-hardware/"><u>Unlock the Potential of Your Tech: Trustworthy Tips and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-tech-trends-with-toms-hardware/"><u>Unveiling the Latest Tech Trends with Tom's Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/waveguard-assessment-deep-water-fidelity-standards/"><u>WaveGuard Assessment: Deep Water Fidelity Standards</u></a></li>
 </ul></div>
 

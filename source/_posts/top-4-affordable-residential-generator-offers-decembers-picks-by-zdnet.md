@@ -1,7 +1,7 @@
 ---
 title: Top 4 Affordable Residential Generator Offers - December's Picks by ZDNet
-date: 2024-09-19 16:30:19
-updated: 2024-09-20 10:26:51
+date: 2024-10-19T00:47:50.868Z
+updated: 2024-10-20T16:18:46.811Z
 tags:
   - sustainability
 categories:
@@ -20,6 +20,13 @@ Power outages from extreme weather is a year-round threat, but with a portable g
 And when you get your generator, remember to never use a gas or liquid propane-powered engine indoors and never plug a generator into your home's electrical system without first installing a transfer switch to prevent fires and other electrical damage. I've combed the web to find the best deals on portable generators, so you can save a little money while prepping for extreme weather situations.
 
 **Also:** [**Best portable power station: Emergency power when you need it**](https://www.zdnet.com/article/best-portable-power-station/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The best generator deals: November/December 2022**
 
@@ -77,17 +84,38 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 ###   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What kind of generator is best for home use?
 
 If you're looking to set up your house to go off-grid and be entirely self-sufficient, you'll want to install a home standby generator. These types of generators are permanent installations, designed to work with a solar panel array or wind turbines to provide consistent power on cloudy or windless days as well as at night. 
 
 If you want to make sure you have electricity for at-home medical equipment and appliances during a weather emergency, a portable or inverter generator is your best option. If you do opt for a portable or inverter generator, you'll need to make sure you get one with more than enough wattage to run everything. Lowe's has a [handy worksheet](https://www.lowes.com/pdf/portable%5Fgenerator%5Fwattage%5Fchart.pdf) available, so you won't accidentally burn up your fridge.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do you hook a generator to your house?
 
 Home standby generators require licensed technicians to properly install. And even portable generators need proper preparation before you can attempt to power your whole house with one. You should never plug a portable generator directly into your home's electrical system without first having a technician install a transfer switch. 
 
 Without a transfer switch, you could overload your home's wiring, causing fires, short-outs, and all kinds of other damage. If you intend to use a portable or inverter generator to run just a few appliances, make sure to read the operating manual thoroughly before plugging anything in.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long do generators last?
 
@@ -116,11 +144,23 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-engaging-dialogue-in-screenplays/"><u>[Updated] Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-serene-power-with-the-best-aio-a-comprehensive-look-at-hytes-thicc-q6-similar-problem/"><u>Experience Serene Power with the Best AIO - A Comprehensive Look at Hyte's THICC Q6 # Similar Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-revolutionary-raspberry-pi-enhancements-to-upgrade-your-projects/"><u>Expert Picks: Revolutionary Raspberry Pi Enhancements to Upgrade Your Projects</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-14-pro-max-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 14 Pro Max without a computer?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-c33-2023-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C33 2023 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-arctics-third-gen-liquid-freezer-aio-not-meeting-expectations/"><u>Inside Look at Arctic's Third-Gen Liquid Freezer (AIO): Not Meeting Expectations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/is-guilty-gear-strive-still-in-development-exploring-its-launch-progress-and-potential-dates/"><u>Is Guilty Gear Strive Still in Development? Exploring Its Launch Progress and Potential Dates</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-cookiebot-technology-for-precise-audience-insights-and-personalization/"><u>Leverage Cookiebot Technology for Precise Audience Insights and Personalization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-in-repair-effective-strategies-for-when-your-3d-printer-bed-fails-to-warm-up/"><u>Masterclass in Repair: Effective Strategies for When Your 3D Printer Bed Fails to Warm Up</u></a></li>
+</ul></div>
+

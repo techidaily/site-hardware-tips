@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Labor Day Savings on Highly Rated LG OLED TVs, Available Up to $80T Discounted Only Here | ZDN's Tech Corner
-date: 2024-10-13T16:41:39.796Z
-updated: 2024-10-15T16:21:24.711Z
+date: 2024-10-19T01:53:11.479Z
+updated: 2024-10-21T01:11:59.147Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +92,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enhance-your-video-with-these-premium-free-audio-stores/"><u>[Updated] 2024 Approved Enhance Your Video with These Premium, Free Audio Stores</u></a></li>
-<li><a href="https://win-guides.techidaily.com/2012-systemabbildern-entdecken-sie-drei-innovative-ansatze/"><u>2012-Systemabbildern – Entdecken Sie Drei Innovative Ansätze</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chinese-tech-marvel-tryx-reveals-a-game-changing-all-in-one-cooler-with-advanced-curved-amoled-display/"><u>Chinese Tech Marvel: Tryx Reveals a Game-Changing All-In-One Cooler with Advanced Curved AMOLED Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-scythe-mugen-and-mugen-black-edition-superior-silent-performance-for-an-affordable-cost/"><u>Comprehensive Review of Scythe Mugen Ⅵ & Mugen Ⅵ - Black Edition: Superior Silent Performance for an Affordable Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-gadgets-and-gizmos-at-toms-digital-workshop/"><u>Decoding Gadgets and Gizmos at Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-toms-gadget-guide-detailed-hardware-analysis/"><u>Delving Into Tom's Gadget Guide: Detailed Hardware Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-constructing-a-projector-screen-at-home/"><u>Easy Instructions for Constructing a Projector Screen at Home</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/edge-ai-cooling-solutions-freeze-intro-triad-with-airjet-pak-units-for-up-to-25w/"><u>Edge AI Cooling Solutions: Freeze Intro Triad with AirJet PAK Units for Up to 25W</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoo-3d-printer-ideal-size-to-create-lifesize-toy-with-child-friendly-dimensions/"><u>Elegoo 3D Printer: Ideal Size to Create Lifesize Toy with Child-Friendly Dimensions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A78 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-x100-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo X100 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/photo-hdr-excellence-tips-from-the-pros-for-2024/"><u>Photo-HDR Excellence Tips From the Pros for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-dialogue-in-writing-scripts/"><u>The Art of Dialogue in Writing Scripts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-itel-s23-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Itel S23 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-to-deleting-items-using-cmd-on-windows-11/"><u>Ultimate Guide to Deleting Items Using CMD on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/caseking-suspends-sale-of-barrow-dabel-radiators-after-new-aio-test-uncovers-lead-content/"><u>CaseKing Suspends Sale of Barrow Dabel Radiators After New AIO Test Uncovers Lead Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-interaction-top-9-upgrade-tips-to-chatgptplus/"><u>Enhance Interaction: Top 9 Upgrade Tips to ChatGPT+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-the-ultimate-hardware-guide/"><u>Exploring Technology with Tom - The Ultimate Hardware Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A14 5G FRP?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-pova-6-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Pova 6 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-find-x7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Find X7 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 12 mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-world-unveiling-pc-performance-secrets/"><u>Inside Tom's Hardware World: Unveiling PC Performance Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125146780-mastering-the-digital-world-with-your-site-name-what-toms-hardware-never-taught-you/"><u>Mastering the Digital World with [Your Site Name]: What Tom's Hardware Never Taught You</u></a></li>
 </ul></div>
 

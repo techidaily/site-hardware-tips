@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: How Samsung's Discounted S95C OLED Blows Away All Competitors - Save Up To $1,500!"
-date: 2024-09-27T23:32:49.708Z
-updated: 2024-10-03T22:16:20.696Z
+date: 2024-10-18T04:44:00.696Z
+updated: 2024-10-20T22:11:28.401Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,19 +105,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-recorded-talk-extraction-and-study/"><u>[Updated] 2024 Approved Recorded Talk Extraction & Study</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-make-a-video-best-fits-snapchat-size-on-mac-for-2024/"><u>[Updated] How to Make a Video Best Fits Snapchat Size on Mac for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-next-gen-entertainment-experience-scrutiny/"><u>[Updated] In 2024, Next-Gen Entertainment Experience Scrutiny</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-superior-webcam-gear-for-podcasters/"><u>[Updated] Superior Webcam Gear for Podcasters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-your-beloved-tv/"><u>2024 Approved The Ultimate Guide to Capturing Your Beloved TV</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-gamers-choice-the-finest-pc-cases-tested-in-202am-optimized-for-your-next-upgrade/"><u>Ace Gamer's Choice: The Finest PC Cases Tested in 202Am, Optimized for Your Next Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-reviews-with-a-focus-on-performance-toms-hardware-unveiled/"><u>Advanced Gadget Reviews with a Focus on Performance – Tom's Hardware Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-premium-printing-quality-instantly-grab-the-editor-selected-elegoo-neptune-4-pro-for-75-less/"><u>Get Premium Printing Quality Instantly: Grab the Editor-Selected Elegoo Neptune 4 Pro for $75 Less</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-poco-f5-pro-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Poco F5 Pro 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-text-generator/"><u>Motion Text Generator</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigate-video-trimming-with-ease-on-windows-11-photos-for-2024/"><u>Navigate Video Trimming with Ease on Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-guidance/"><u>Navigating the World of Gadgets with Tom's Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-critiques-from-toms-authority-hub/"><u>Pioneering Hardware Critiques From Tom's Authority Hub</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/todays-vr-experience-insight-for-2024/"><u>Today’s VR Experience Insight for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-explore-and-relish-top-sandbox-journeys/"><u>[New] Explore and Relish Top Sandbox Journeys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>[New] The Path to Personalization Adjusting Snapchat Videos' Pace</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[Updated] In 2024, Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-integrating-jobs-and-passion-projects-effectively-for-2024/"><u>[Updated] Integrating Jobs & Passion Projects Effectively for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-seamless-tactic-for-igtv-stories-integration/"><u>2024 Approved Seamless Tactic for IGTV Stories Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/geekbench-6-showdown-snapdragon-xs-impressive-stats-with-a-month-long-run/"><u>Geekbench 6 Showdown: Snapdragon X's Impressive Stats with a Month-Long Run</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-90-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor 90 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p55-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P55 Phones with/without a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-chromes-picture-in-progress-screensuitably-across-platforms/"><u>In 2024, How to Use Chrome’s Picture In Progress Screensuitably Across Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-top-picks-from-toms-computer-world/"><u>Inside Look: Top Picks From Tom's Computer World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-journey-with-diy-gun-production-via-3d-printer-debunking-the-hype/"><u>My Journey with DIY Gun Production via 3D Printer: Debunking the Hype</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-exploring-the-latest-in-hardware/"><u>Tom's Tech Review: Exploring the Latest in Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uphere-m201-ssd-cooler-test-report-unbeatable-nvme-heat-dissipation-for-only-5/"><u>UpHere M201 SSD Cooler Test Report: Unbeatable NVMe Heat Dissipation for Only $5</u></a></li>
 </ul></div>
 

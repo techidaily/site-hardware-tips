@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Offer: Save $400 on Segway Max G2 Electric Scooters – Shop Now at ZDNET"
-date: 2024-09-18 18:56:54
-updated: 2024-09-20 12:29:55
+date: 2024-10-19T02:18:37.490Z
+updated: 2024-10-20T18:23:14.371Z
 tags:
   - sustainability
 categories:
@@ -46,11 +46,40 @@ You can connect the Max G2 to the companion app to get at-a-glance updates on re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-parrot-ar-drone-evaluation-elite-edition/"><u>[New] Parrot AR Drone Evaluation - Elite Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-convenient-ways-to-screen-cast-lenovo-laptops/"><u>[Updated] Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>[Updated] In 2024, Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-valkyrie-al125-microatx-cpu-air-cooler-with-customizable-rgb-and-ips-display-support-less-than-20/"><u>Affordable Valkyrie AL125 MicroATX CPU Air Cooler with Customizable RGB & IPS Display Support - Less Than $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/arctic-freezer-36-air-cooler-reviewed-a-game-changer-for-affordable-climate-control-solutions/"><u>Arctic Freezer 36 Air Cooler Reviewed: A Game Changer for Affordable Climate Control Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/cutting-edge-6-tools-for-video-language-shift-for-2024/"><u>Cutting-Edge 6 Tools for Video Language Shift for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125190814-discover-the-best-deal-on-eleegoo-neptune-4-pro-3d-printer-unbeatable-price-of-240-at-newegg/"><u>Discover the Best Deal on Eleegoo Neptune 4 Pro 3D Printer: Unbeatable Price of $240 at Newegg</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-innovation-with-a-newer-windows-11-build/"><u>Embracing Innovation with a Newer Windows 11 Build</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4avi-formats-compatible-with-ios-and-android-devices/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI Formats Compatible with iOS and Android Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-infinix-hot-40i-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Infinix Hot 40i ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175723499-introducing-the-sleek-and-powerful-valkyrie-al125-cpu-cooling-solution-crisp-ips-display-dazzling-rgb-light-effects-all-for-less-than-twenty-bucks/"><u>Introducing the Sleek and Powerful Valkyrie AL125 CPU Cooling Solution: Crisp IPS Display, Dazzling RGB Light Effects, All for Less than Twenty Bucks</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005754933-the-division-2-stabilizing-tips-resolving-fps-issues-in-seconds/"><u>The Division 2 Stabilizing Tips: Resolving FPS Issues in Seconds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-soothing-games-to-ease-anxiety/"><u>Top 10 Soothing Games to Ease Anxiety</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-ssd-drives-of-2024/"><u>Top Rated Portable SSD Drives of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-buyers-guide-leading-pc-configurations-for-gamers-in-2e3-budget-to-luxury/"><u>Ultimate Buyer's Guide: Leading PC Configurations for Gamers in 2E3 (Budget to Luxury)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-cost-effective-gaming-laptops-under-1000/"><u>Ultimate Guide to the Most Cost-Effective Gaming Laptops Under $1,000</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-potential-top-tips-from-toms-hardware-experts/"><u>Unlocking Performance Potential: Top Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-imposes-penalties-on-deepcools-sales-support-to-russia-amidst-conflict-with-ukraine/"><u>US Imposes Penalties on DeepCool's Sales Support to Russia Amidst Conflict with Ukraine</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/wie-man-in-onedrive-gezielt-ausgewahlte-verzeichnisse-synchronisiert/"><u>Wie Man in OneDrive Gezielt Ausgewählte Verzeichnisse Synchronisiert</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

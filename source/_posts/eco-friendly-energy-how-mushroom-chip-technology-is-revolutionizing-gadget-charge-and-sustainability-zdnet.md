@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Energy: How Mushroom Chip Technology Is Revolutionizing Gadget Charge & Sustainability - ZDNet"
-date: 2024-09-18 11:41:23
-updated: 2024-09-20 10:28:24
+date: 2024-10-18T16:44:37.220Z
+updated: 2024-10-20T18:26:57.263Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-tutorial-to-elevate-your-slow-motion-videos-for-2024/"><u>[New] Step-by-Step Tutorial to Elevate Your Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-haste-in-playlist-distribution-youtube-guide/"><u>[Updated] Haste in Playlist Distribution YouTube Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-zip-content-to-captions-how-to-convert-files-for-editors/"><u>[Updated] In 2024, Zip Content to Captions How to Convert Files for Editors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-advanced-practices-for-capturing-iptv-visuals/"><u>2024 Approved Advanced Practices for Capturing IPTV Visuals</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snapshotsculptor-ultimate-photo-mosaic-builder/"><u>In 2024, SnapshotSculptor Ultimate Photo Mosaic Builder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-time-to-switch-to-an-apple-m1-macbook-pro-from-a-previous-generation-model-tech-insights-by-zdnet/"><u>Is It Time to Switch to an Apple M1 MacBook Pro From a Previous Generation Model? | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-verdict-on-levelplays-combat-air-ca4-cpu-cooler-efficient-heat-dissipation-and-whisper-quiet-functionality/"><u>The Ultimate Verdict on Levelplay's Combat Air CA4 CPU Cooler - Efficient Heat Dissipation and Whisper-Quiet Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-expertise-in-electronics-optimizing-performance-and-value/"><u>Tom's Expertise in Electronics: Optimizing Performance and Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-selecting-top-tier-hardware-solutions/"><u>Tom's Guide to Selecting Top-Tier Hardware Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-reviews-and-expert-advice/"><u>Tom's Tech Hub: In-Depth Reviews & Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Reviews and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-comparisons/"><u>Tom's Tech Review: In-Depth Analysis and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-3d-printers-of-2024-with-superior-quality-at-low-cost/"><u>Top Affordable 3D Printers of 2024 with Superior Quality at Low Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-and-detailed-breakdowns-of-gadgets-with-toms-hardware-reviews/"><u>Top Picks & Detailed Breakdowns of Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme C51 | Dr.fone</u></a></li>
+</ul></div>
+

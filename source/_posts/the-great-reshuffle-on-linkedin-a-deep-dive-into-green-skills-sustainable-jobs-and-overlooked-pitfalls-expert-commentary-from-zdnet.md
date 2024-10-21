@@ -1,7 +1,7 @@
 ---
 title: "The 'Great Reshuffle' On LinkedIn: A Deep Dive Into Green Skills, Sustainable Jobs and Overlooked Pitfalls | Expert Commentary From ZDNET"
-date: 2024-09-17 22:45:36
-updated: 2024-09-20 10:14:18
+date: 2024-10-14T05:42:04.160Z
+updated: 2024-10-21T00:52:10.052Z
 tags:
   - sustainability
 categories:
@@ -32,6 +32,13 @@ LinkedIn purports that the [Great Reshuffle](https://www.linkedin.com/pulse/navi
 That's the introduction to LinkedIn's recently published [Global Green Skills Report 2022](https://economicgraph.linkedin.com/research/global-green-skills-report). As LinkedIn CEO Ryan Roslansky writes in the report, LinkedIn wants to do its part by leveraging its unique data and labour market expertise to highlight actionable insights that are crucial to delivering a successful green transition and avoiding potential pitfalls.
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Green skills and green jobs
 
@@ -64,6 +71,13 @@ LinkedIn emphasizes that while more workers are transitioning into green and gre
 LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### see also
 
@@ -105,9 +119,23 @@ It includes 381 skills, 185 knowledge concepts and 5 transversal skills consider
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are green skills driving sustainable change in the European automotive industry?
 
 Another example of the fact that even data-driven analysis is often not as clear-cut as it seems is LinkedIn's reference to how green skills are driving sustainable change in the European automotive industry. LinkedIn notes that the move to electric is reshaping the talent profile of the automotive industry, and the need for innovation to cut emissions has influenced a sustained technological change in the European automotive industry.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -149,11 +177,27 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-boost-your-creative-output-mastering-template-centric-video-making-for-tiktok/"><u>[New] In 2024, Boost Your Creative Output Mastering Template-Centric Video Making for TikTok</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-staying-ahead-with-tiktoks-freshest-sensations/"><u>[Updated] 2024 Approved Staying Ahead with TikTok's Freshest Sensations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-post-editing-eliminating-unwanted-picture-borders/"><u>2024 Approved Perfect Post-Editing Eliminating Unwanted Picture Borders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skyrocket-your-marketing-game-on-reddit-proven-success-techniques/"><u>In 2024, Skyrocket Your Marketing Game on Reddit Proven Success Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovate-and-upgrade-with-tom-the-ultimate-guide-to-high-performance-hardware/"><u>Innovate & Upgrade with Tom - The Ultimate Guide to High-Performance Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-latest-tech-with-toms-hardware-reviews/"><u>Inside Look at Latest Tech with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-the-definitive-guide-to-gadgets-and-systems/"><u>Inside Tom's Hardware: The Definitive Guide to Gadgets and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-cooler-masters-ai-thermal-paste-next-gen-nanodiamond-tech-for-superior-pc-cooling-in-cryofuze-5/"><u>Introducing Cooler Master's 'AI Thermal Paste': Next-Gen Nanodiamond Tech for Superior PC Cooling in CryoFuze 5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-insightful-guides-on-computer-systems-by-tom/"><u>Mastering Modern Tech: Insightful Guides on Computer Systems by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-bit-storage-with-3d-printed-holograms-in-common-materials-keys-addresses-up-to-576-bits-achieved/"><u>Maximizing Bit Storage with 3D-Printed Holograms in Common Materials - Keys, Addresses Up to 576 Bits Achieved!</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharging-windows-solid-state-drives-utilizing-fresh-tools/"><u>Turbocharging Windows' Solid State Drives - Utilizing Fresh Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limitations-why-chatgpt-may-not-be-ideal-for-summarizing-texts/"><u>Understanding the Limitations: Why ChatGPT May Not Be Ideal for Summarizing Texts</u></a></li>
+</ul></div>
+

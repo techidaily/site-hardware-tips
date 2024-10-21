@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Right to Repair Movement: Importance & Impact on Consumers - Explore with ZDNet"
-date: 2024-09-19 18:57:31
-updated: 2024-09-20 11:18:43
+date: 2024-10-14T18:41:08.259Z
+updated: 2024-10-20T18:22:10.727Z
 tags:
   - sustainability
 categories:
@@ -31,9 +31,29 @@ One of the major objectives of right to repair laws is to make repairs much more
 
 One major issue the legislation is trying to tackle is reducing e-waste. According to the [United States Environmental Protection Agency (EPA)](https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste#:~:text=There%20are%20also%20problems%20with,neurological%20damage%20and%20diminished%20IQs.), consumers and businesses discarded 2.37 million tons of e-waste including televisions, computers, and cell phones in 2009\. By having people fix their own phones or find more affordable options, people won't have to dispose of their current products as often, reducing e-waste. Longer lasting hardware, and less e-waste makes right to repair a compelling argument for many.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do right to repair laws refer to?
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does e-waste affect the environment? Why should e-waste be reduced?
 
@@ -42,6 +62,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 **Also:** [**Right to repair move gets backing from President Biden**](https://www.zdnet.com/article/right-to-repair-move-gets-backing-from-president-biden/)
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which states have right to repair laws?
 
@@ -58,6 +85,13 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 > — Jon Campbell (@JonCampbellNY) [December 29, 2022](https://twitter.com/JonCampbellNY/status/1608327624526548993?ref%5Fsrc=twsrc^tfw)
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who's supporting the right to repair movement?
 
@@ -110,11 +144,25 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-masters-list-best-sierra-dvd-software/"><u>[New] In 2024, Master's List Best Sierra DVD Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-streamline-entertainment-incorporating-subtitles-into-wmp/"><u>[Updated] Streamline Entertainment Incorporating Subtitles Into WMP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-amplify-your-video-calls-with-these-essential-10-free-tools/"><u>2024 Approved Amplify Your Video Calls with These Essential 10 Free Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>2024 Approved Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/6-typical-cura-errors-and-how-to-correctly-address-them/"><u>6 Typical Cura Errors and How to Correctly Address Them</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aio-cooling-systems-ranked-elite-picks-for-efficient-heat-dissipation/"><u>AIO Cooling Systems Ranked: Elite Picks for Efficient Heat Dissipation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/america-blocks-deepcool-exports-to-russia-as-tensions-rise-over-ukraine-impact-on-tech-industry/"><u>America Blocks DeepCool Exports to Russia as Tensions Rise Over Ukraine; Impact on Tech Industry</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-fast-3d-printing-mits-innovative-method-utilizing-leftover-metal-and-glass-bead-substrates/"><u>Breakthrough in Fast 3D Printing: MIT's Innovative Method Utilizing Leftover Metal & Glass Bead Substrates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-better-systems-with-advice-from-toms-hardware-specialists/"><u>Building Better Systems with Advice From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/teps-to-tag-your-youtube-video-effectively/"><u>Key Steps to Tag Your YouTube Video Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-10-best-free-mobile-games-with-no-ads-or-in-app-purchases/"><u>The 10 Best Free Mobile Games With NO Ads or In-App Purchases</u></a></li>
+</ul></div>
+

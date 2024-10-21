@@ -1,7 +1,7 @@
 ---
 title: "How the EcoFlow Portable Generator Saved My Household Throughout Severe Power Cuts: A First-Hand Experience"
-date: 2024-09-17 17:30:53
-updated: 2024-09-20 11:59:38
+date: 2024-10-17T05:40:07.138Z
+updated: 2024-10-21T03:21:33.245Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C14fbdc92-bb22-4b39-b1c3-40c998ca774d%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C14fbdc92-bb22-4b39-b1c3-40c998ca774d%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,29 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-crafting-impeccable-srt-from-xml-ssa-and-ttml-files/"><u>[New] 2024 Approved Crafting Impeccable SRT From XML, SSA & TTML Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-illuminating-emotions-an-hdr-portraitists-guide/"><u>[New] 2024 Approved Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-splitcams-rated-or-not-for-2024/"><u>[New] Cutting-Edge SplitCams Rated or Not for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>[Updated] 2024 Approved Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-tutorial-for-making-memes-on-9gag/"><u>[Updated] The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-8-most-viewed-videos-on-facebook-for-2024/"><u>2023 | 8 Most Viewed Videos on Facebook for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-personal-library-from-spotify-to-youtube-music/"><u>In 2024, Streamlining Your Personal Library From Spotify, To YouTube Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-cutting-edge-devices-with-toms-hardware-wisdom/"><u>Navigating Through Cutting-Edge Devices with Tom’s Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-technology-enables-fabrication-of-3d-chip-circuits-via-cutting-edge-3d-printing-processes/"><u>Next-Generation Technology Enables Fabrication of 3D Chip Circuits via Cutting-Edge 3D Printing Processes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-elephantine-appendage-anomalies-in-three-dimensional-printing-techniques/"><u>Overcoming Elephantine Appendage Anomalies in Three-Dimensional Printing Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-maximize-savings-get-80-discount-on-elegoo-neptone-3plus-perfect-for-large-scale-printing/"><u>Slash Prices, Maximize Savings: Get $80 Discount on Elegoo Neptone 3+ - Perfect for Large-Scale Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sovol-sv08-review-honoring-voron-with-high-speed-performance/"><u>Sovol SV08 Review: Honoring Voron with High-Speed Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-cutting-edge-hardware-toms-domain/"><u>The Ultimate Resource for Cutting-Edge Hardware - Tom's Domain</u></a></li>
+</ul></div>
+

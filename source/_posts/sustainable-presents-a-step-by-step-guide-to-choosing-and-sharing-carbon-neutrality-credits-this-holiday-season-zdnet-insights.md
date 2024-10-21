@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Presents: A Step-by-Step Guide to Choosing and Sharing Carbon Neutrality Credits This Holiday Season | ZDNET Insights"
-date: 2024-09-17 19:26:36
-updated: 2024-09-20 11:43:11
+date: 2024-10-19T23:30:25.646Z
+updated: 2024-10-20T22:50:17.483Z
 tags:
   - sustainability
 categories:
@@ -39,6 +39,19 @@ This year Climeworks raised $650 million to support its operations. Part of its 
 
 ## How to give carbon removal credits this holiday season
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Choose a gift plan
 
 Head to Climeworks' climate impact gift page and select a plan. Pre-populated plans start at $30 for removing 25 kg of CO₂ and go up to $102, accounting for 85 kg. You can also create a custom plan.
@@ -62,6 +75,13 @@ There are four fields to fill out:
 
 According to Climeworks, removal and storage of your gifted carbon capture will be performed within six years or earlier. The variables are Climeworks' plant utilization and operation schedules. Recipients get a certificate verifying their purchase.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Other environmental impact gifts you might consider
 
 Want alternative gift giving options? There are lots of opportunities, starting with a donation to an organization doing good work on climate action. The Clean Air Task Force is a good example, a non-profit environmental organization that encourages resilient solutions to climate change, especially in promoting technology and policies that are required to get to a zero-emissions, high-energy planet.
@@ -76,9 +96,23 @@ One Tree Planted
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is carbon capture a viable solution? 
 
 There is [compelling criticism](https://www.climatecouncil.org.au/resources/what-is-carbon-capture-and-storage/) of carbon capture, which is that it actually enables industries to ramp up carbon emissions while still hitting emissions targets. Ultimately, even many supporters of carbon capture don't tout it as a solution, but rather a mitigation technology (and a fairly complicated one to boot) to help redress some of the damage caused by carbon-burning industries. How efficiently does it do that? It's actually pretty impressive. Here's a great [rundown from MIT](https://climate.mit.edu/ask-mit/how-efficient-carbon-capture-and-storage#:~:text=Most%20carbon%20capture%20technologies%20aim,to%20capture%20additional%20CO2.) you might want to check out.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are these gifts tax-deductible?
 
@@ -109,11 +143,24 @@ Yup, there are many out there, including ones [from Climeworks](https://climewor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-fbx-capture-tools-beyond-traditional-recorders-for-2024/"><u>[New] Top FBX Capture Tools Beyond Traditional Recorders for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-easily-capturing-your-facetime-calls-with-quality-audio/"><u>Complete Guide: Easily Capturing Your FaceTime Calls With Quality Audio</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-python-24-dll-file-errors-on-your-computer/"><u>Fixing Missing Python 2.4 DLL File Errors on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-american-soil-to-your-desk-prusas-launch-of-domestic-3d-devices-and-supplies/"><u>From American Soil to Your Desk: Prusa's Launch of Domestic 3D Devices & Supplies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fx360-pro-cooler-by-id-cooling-exceptional-performance-at-just-60/"><u>FX360 Pro Cooler by ID-Cooling - Exceptional Performance at Just $60</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-camon-30-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Camon 30 Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-nexus-link-revolutionize-pc-building-with-its-huge-display-aio-cooler-and-magnetic-snap-together-fans/"><u>Hyte's Nexus Link: Revolutionize PC Building with Its Huge Display AIO Cooler and Magnetic Snap Together Fans</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-hits-and-misses-the-photographers-account/"><u>In 2024, Hits and Misses The Photographer's Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-into-pc-components-with-toms-hardware-experts/"><u>In-Depth Look Into PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-and-device-longevity-with-the-ultimate-3-in-1-magsafe-charging-station-for-apple-users-zdnet/"><u>Maximize Productivity and Device Longevity with the Ultimate 3-in-1 MagSafe Charging Station for Apple Users | ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: High-Quality, 85” TCL TV for a Steal - Only $900 Available This Weekend in the Holiday Sale by ZDNet!"
-date: 2024-10-13T16:42:38.148Z
-updated: 2024-10-15T16:34:55.819Z
+date: 2024-10-15T21:35:02.519Z
+updated: 2024-10-20T22:10:14.916Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevating-your-youtube-stream-the-wirecast-way/"><u>[New] Elevating Your YouTube Stream The WireCast Way</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-vidmas-secrets-to-superior-screen-recording/"><u>[New] Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-ace-2-pro-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Ace 2 Pro.</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-media-management-tips-for-seamless-ripping-writing-and-backups-of-dvds-and-cds/"><u>Mastering Media Management: Tips for Seamless Ripping, Writing, and Backups of DVDs & CDs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-ultimate-android-weather-widget-applications-enhancing-your-forecast-experience/"><u>Top 10 Ultimate Android Weather Widget Applications: Enhancing Your Forecast Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-essential-factors-to-evaluate-before-purchasing-pre-owned-android-devices/"><u>Top 5 Essential Factors to Evaluate Before Purchasing Pre-Owned Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-digitizing-your-comic-book-collection-switching-from-print-to-tablet/"><u>Top 6 Benefits of Digitizing Your Comic Book Collection: Switching From Print to Tablet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-google-pixel-6-in-2/"><u>Top-Rated Protective Covers for Google Pixel 6 in 2</u></a></li>
-<li><a href="https://win-blog.techidaily.com/warzone-20-top-strategies-to-reduce-lag-and-lower-your-ping/"><u>Warzone 2.0: Top Strategies to Reduce Lag and Lower Your Ping</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-banishing-the-blank-screen-from-youtube-videos-for-2024/"><u>[New] Banishing the Blank Screen From YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-meme-gurus-list-of-the-best-designs-10-for-2024/"><u>[New] The Meme Guru's List of the Best Designs #10 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4/"><u>[New] Unlock the Secrets of Altering Voice Sounds on PS5/PS4</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-through-the-crowd-your-guide-to-choosing-free-intro-masters/"><u>[Updated] 2024 Approved Break Through the Crowd - Your Guide to Choosing Free Intro Masters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oad-youtube-responsibly-legal-mp4-conversion-methods/"><u>Download YouTube Responsibly Legal MP4 Conversion Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-hardware-selection-from-toms-tech-insight/"><u>Expert Advice on Hardware Selection From Tom's Tech Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-innovations-at-toms-tech-review/"><u>Exploring the Latest Innovations at Tom's Tech Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-and-electronics-reviews-toms-hardware-insights/"><u>Pioneering Computer & Electronics Reviews - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-finest-high-performance-laptops-and-elite-ultrabooks-of-the-year-2am/"><u>The Finest High-Performance Laptops & Elite Ultrabooks of the Year 2Am</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-top-hardware-solutions-by-tom/"><u>The Ultimate Guide to Choosing Top Hardware Solutions by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-building-high-performance-pcs-tips-and-reviews-from-toms-hardware/"><u>Tom's Guide to Building High Performance PCs: Tips & Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-concerns-in-selecting-a-router-model/"><u>Top Concerns in Selecting a Router Model</u></a></li>
 </ul></div>
 

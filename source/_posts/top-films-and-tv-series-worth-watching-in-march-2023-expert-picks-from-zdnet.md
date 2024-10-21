@@ -1,7 +1,7 @@
 ---
 title: Top Films & TV Series Worth Watching in March 2023 - Expert Picks From ZDNet
-date: 2024-10-08T16:16:55.640Z
-updated: 2024-10-15T16:38:25.291Z
+date: 2024-10-18T02:19:45.216Z
+updated: 2024-10-20T17:26:57.932Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-crafting-precise-shadows-with-adobe-curves/"><u>[Updated] Crafting Precise Shadows with Adobe Curves</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-screen-grab-specialists-top-apps-for-windows-10-users-for-2024/"><u>[Updated] Screen Grab Specialists Top Apps for Windows 10 Users for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-overcoming-sound-hurdles-in-zoom-calls/"><u>2024 Approved Overcoming Sound Hurdles in Zoom Calls</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-primepickings-top-twitters-and-top-viewers-favorites/"><u>2024 Approved PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-right-sound-the-right-mic-top-recommendations-for-diverse-online-presence/"><u>2024 Approved The Right Sound, The Right Mic Top Recommendations for Diverse Online Presence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/assessment-of-the-anime-inspired-valkyrie-vind-sl125-is-it-just-a-pretty-face/"><u>Assessment of the Anime-Inspired Valkyrie Vind SL125 - Is It Just a Pretty Face?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/boost-iphone-visual-quality-selective-photo-and-video-tools/"><u>Boost iPhone Visual Quality Selective Photo and Video Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cixin-p1-arm-based-processor-revolutionizes-chinas-ai-sector-with-industry-standard-45-teraops-capability-production-in-full-swing/"><u>Cixin P1 Arm-Based Processor Revolutionizes China’s AI Sector with Industry-Standard 45 TeraOps Capability - Production in Full Swing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-technology-with-toms-hardware/"><u>Expert Insights Into Technology with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-technology-with-toms-hardware-experts/"><u>Exploring Computer Technology with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-your-pc-with-intels-latest-discovery-arrow-lake-processors-meet-z890-chipsets-in-leaked-imagery/"><u>Futureproof Your PC with Intel's Latest Discovery: Arrow Lake Processors Meet Z890 Chipsets in Leaked Imagery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6s-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6s Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125170665-introducing-the-revolutionary-bamboolabs-bed-slinger-rapid-printing-with-their-latest-a1-3d-printer-coming-soon-on-dec-14th/"><u>Introducing the Revolutionary BambooLab's Bed Slinger: Rapid-Printing with Their Latest A1 3D Printer - Coming Soon on Dec. 14Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-hardware-assessments/"><u>Navigating the Digital World Through Tom's Hardware Assessments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262305886-toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide To Computer Components</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/youtube-tunes-integration-with-visual-content/"><u>YouTube Tunes Integration with Visual Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-high-impact-yt-cover-images/"><u>[New] In 2024, Creating High-Impact YT Cover Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9/"><u>[New] Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-dissecting-apowersoft-an-in-depth-screen-recorder-study-for-2024/"><u>[Updated] Dissecting Apowersoft An In-Depth Screen Recorder Study for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-quickfacebookvidextractor-pro-for-2024/"><u>[Updated] QuickFacebookVidExtractor Pro for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-system-requirements-guide-for-the-latest-mac-os-release/"><u>2024 Approved System Requirements Guide for the Latest Mac OS Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/addressing-the-rattling-sound-issues-noctuas-nh-d15-g2-cpu-heatsink-investigation/"><u>Addressing the Rattling Sound Issues: Noctua's NH-D15 G2 CPU Heatsink Investigation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-for-choosing-cutting-edge-technology-from-tom/"><u>Advanced Tips for Choosing Cutting-Edge Technology From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-animated-wireless-charger-in-the-shape-of-a-3d-printer-save-over-50-with-bambu-labs/"><u>DIY Animated Wireless Charger in the Shape of a 3D Printer: Save Over $50 with Bambu Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-roundup-performance-analysis-of-120mm-all-in-one-coolers-by-be-quiet-corsair-cooler-master-and-enermax/"><u>Expert Roundup: Performance Analysis of 120Mm All-in-One Coolers by Be Quiet, Corsair, Cooler Master & Enermax</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-a70-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel A70 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-science-of-naming-your-podcast-for-success/"><u>In 2024, The Science of Naming Your Podcast for Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-with-toms-hardware-guide/"><u>Inside the World of Technology with Tom's Hardware Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laughlens-pictorial-humor-studio-for-2024/"><u>LaughLens Pictorial Humor Studio for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pcs-the-ultimate-toms-hardware-compilation/"><u>Mastering Gadgets and PCs: The Ultimate Tom's Hardware Compilation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-electronics-a-closer-look-by-tom/"><u>Navigating the Latest in Electronics - A Closer Look by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-insights-the-complete-guide-from-toms-gadget-review/"><u>Top Tech Insights: The Complete Guide From Tom's Gadget Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Embracing Eco-Friendly Technology: A Look Into Compane's Steps Towards Sustainability as Featured by ZDNET"
-date: 2024-09-18 18:32:31
-updated: 2024-09-20 10:26:46
+date: 2024-10-17T20:22:50.205Z
+updated: 2024-10-21T03:21:23.380Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +70,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +123,23 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>[New] Harnessing Online Platforms Beyond YouTube to 30+ Communities for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pros-and-experts-choice-discover-the-finest-12-stock-photography-sites/"><u>[New] Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dos-and-donts-the-essential-night-photography-checklist/"><u>[Updated] 2024 Approved Do's & Don'ts The Essential Night Photography Checklist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked/"><u>[Updated] Speech Logging Made Easy on Mac The Top 5 Tools Tested & Ranked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-gadgets-and-pc-components/"><u>Tom's Tech Reviews: Unveiling the Latest Gadgets and PC Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-hardware-picks-and-performance-tests-by-professionals-at-toms-hardware/"><u>Top Hardware Picks and Performance Tests by Professionals at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-3d-printing-with-elegoo-neptune-4-pro-fast-accurate-results-at-unbeatable-prices/"><u>Top-Tier 3D Printing with Elegoo Neptune 4 Pro - Fast, Accurate Results at Unbeatable Prices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-gaming-routers-review-enhancing-online-play-experience/"><u>Ultimate Gaming Routers Review: Enhancing Online Play Experience</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-stop-wasting-time-check-out-our-verified-filmora-coupons/"><u>Updated 2024 Approved Stop Wasting Time Check Out Our Verified Filmora Coupons</u></a></li>
+</ul></div>
+

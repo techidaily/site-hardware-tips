@@ -1,7 +1,7 @@
 ---
 title: "Hunting Down Eco Innovators: Discovering Sustainable Ventures with Google's Ten-Week Program | ZDNet Insights"
-date: 2024-09-18 23:53:51
-updated: 2024-09-20 12:43:38
+date: 2024-10-17T03:08:13.689Z
+updated: 2024-10-21T03:24:33.338Z
 tags:
   - sustainability
 categories:
@@ -61,11 +61,38 @@ For Donnel Baird, founder of BlocPower, the accelerator program helped his compa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-phonesnapshot-protocols-expert-tips-for-mobile-capture-on-snapchat/"><u>[New] In 2024, Phonesnapshot Protocols Expert Tips for Mobile Capture on Snapchat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9-for-2024/"><u>[Updated] Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamlining-video-sharing-zoom-and-tiktok-harmony/"><u>[Updated] Streamlining Video Sharing Zoom and TikTok Harmony</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-dreamland-gamers-income-evolution/"><u>Digital Dreamland Gamers' Income Evolution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvdmkv/"><u>DVD化すべくMKVファイルの完璧な手ほどき：忙しい日々でも成功しますように</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125191106-get-your-hands-on-the-highest-ranked-eleegoo-neptune-4-pro-3d-printer-for-a-steal-at-240-from-newegg/"><u>Get Your Hands on the Highest-Ranked Eleegoo Neptune 4 Pro 3D Printer for a Steal at $240 From Newegg</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y02t-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y02T</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175708186-inside-the-world-of-high-performance-testing-results-for-top-m2-ssd-heatsinks-featuring-id-cooling-zero-series-reviewed/"><u>Inside the World of High-Performance: Testing Results for Top M.2 SSD Heatsinks, Featuring ID-Cooling Zero Series Reviewed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125171105-master-the-art-of-3d-printing-with-the-powerful-anycubic-kobra-max-expert-review-inside/"><u>Master the Art of 3D Printing with the Powerful Anycubic Kobra Max - Expert Review Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175648404-unbeatable-deal-on-the-top-value-choice-thermalright-phantom-spirit-120-se-for-just-35/"><u>Unbeatable Deal on The Top Value Choice: Thermalright Phantom Spirit 120 SE for Just $35</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-pc-potential-lessons-from-toms-hardware-reviews/"><u>Unlocking PC Potential: Lessons From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-pc-innovations-at-toms-electronic-showcase/"><u>Unveiling PC Innovations at Tom's Electronic Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-creality-ender-v3-a-budget-friendly-open-source-additive-manufacturing-marvel/"><u>Unveiling the Creality Ender 지오 V3: A Budget-Friendly Open Source Additive Manufacturing Marvel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-insights-from-toms-hardware/"><u>Unveiling the Latest in Tech - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-whats-hot-on-the-app-store-top-iphone-apps-ranked/"><u>Updated 2024 Approved Whats Hot on the App Store Top iPhone Apps , Ranked</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

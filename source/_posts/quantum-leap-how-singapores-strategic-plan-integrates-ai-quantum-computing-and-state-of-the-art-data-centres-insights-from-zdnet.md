@@ -1,7 +1,7 @@
 ---
 title: "Quantum Leap: How Singapore's Strategic Plan Integrates AI, Quantum Computing, and State-of-the-Art Data Centres - Insights From ZDNet"
-date: 2024-09-18 18:25:25
-updated: 2024-09-20 10:33:17
+date: 2024-10-18T02:29:59.992Z
+updated: 2024-10-21T01:15:40.051Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,25 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>[New] Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-rapid-video-filming-techniques-for-tiktok-success/"><u>[Updated] In 2024, Rapid Video Filming Techniques for TikTok Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blending-images-for-a-captivating-visual-journey/"><u>2024 Approved Blending Images for a Captivating Visual Journey</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>In 2024, Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-right-3d-printers-fdm-resin-and-sub-250-models-reviewed/"><u>The Ultimate Guide to Choosing the Right 3D Printers - FDM, Resin & Sub-$250 Models Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-guide/"><u>Tom's Tech Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-computer-and-electronics-reviews/"><u>Tom's Tech Hub: Comprehensive Computer & Electronics Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews & Advice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-apple-airpods-pro-gear-and-supplies/"><u>Top-Rated Apple AirPods Pro Gear & Supplies</u></a></li>
+</ul></div>
+

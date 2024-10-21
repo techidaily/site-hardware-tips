@@ -1,7 +1,7 @@
 ---
 title: "ZDNet: How Apple Now Permits Certain iPhones to Be Fixed Using Pre-Owned Pieces"
-date: 2024-09-18 12:30:37
-updated: 2024-09-20 12:46:59
+date: 2024-10-15T22:41:34.204Z
+updated: 2024-10-20T16:14:40.898Z
 tags:
   - sustainability
 categories:
@@ -64,11 +64,34 @@ To maintain transparency about repair history and deter disassembly of stolen ph
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>[New] Mastering Video Capture A Deep Dive Into Tunefab Products</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-nubia-red-magic-8s-proplus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nubia Red Magic 8S Pro+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-prints-say-goodbye-to-blobs-and-zits-forever/"><u>Elevate Your 3D Prints - Say Goodbye to Blobs and Zits Forever</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-network-growth-solutions-increase-your-port-count-and-velocity/"><u>Elite Network Growth Solutions: Increase Your Port Count & Velocity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-junior-geometric-future-eskimo-standout-design-subdued-sound-and-moderate-usefulness/"><u>Evaluating the Junior Geometric Future Eskimo: Standout Design, Subdued Sound, and Moderate Usefulness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-cooling-noctuas-new-prototype-for-a-pumpless-liquid-system-using-evaporative-techniques/"><u>Experience the Future of Cooling: Noctua's New Prototype for a Pumpless Liquid System Using Evaporative Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-cpu-cooling-with-this-ai-crafted-3d-printed-liquid-n2-container-achieve-up-to-triple-the-speed/"><u>Experience Top-Tier CPU Cooling with This AI-Crafted, 3D-Printed Liquid N2 Container – Achieve Up to Triple the Speed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-components-with-toms-gear-testing/"><u>Exploring Components with Tom's Gear Testing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-reno-10-proplus-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Reno 10 Pro+ 5G Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-video-loading-on-facebook-for-2024/"><u>Mastering Video Loading on Facebook for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-compatible-drivers-and-setup-for-logitech-hd-c270-webcam-on-windows-1011-free-downloads-inside/"><u>Ultimate Compatible Drivers & Setup for Logitech HD C270 Webcam on Windows 10/11: Free Downloads Inside!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-creative-top-video-dubbing-tools-for-funny-videos-for-2024/"><u>Updated Get Creative Top Video Dubbing Tools for Funny Videos for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

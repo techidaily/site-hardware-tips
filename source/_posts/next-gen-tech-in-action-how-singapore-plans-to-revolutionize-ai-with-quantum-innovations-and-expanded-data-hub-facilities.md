@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Tech in Action: How Singapore Plans to Revolutionize AI with Quantum Innovations & Expanded Data Hub Facilities"
-date: 2024-09-18 19:35:56
-updated: 2024-09-20 12:18:44
+date: 2024-10-16T05:43:10.538Z
+updated: 2024-10-20T18:55:13.168Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,26 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-practices-for-secondary-footage-selection-and-use/"><u>2024 Approved Best Practices for Secondary Footage Selection and Use</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-edge-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Edge 2023 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-sbcs-with-rp2040-chipset-set-to-release/"><u>Expert Picks: Top SBCs with RP2040 Chipset Set to Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-by-tom-your-guide-to-hardware-essentials/"><u>Expert Reviews and Advice by Tom: Your Guide to Hardware Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-strategies-navigating-and-utilizing-orca-slicer/"><u>Expert Strategies: Navigating and Utilizing ORCA Slicer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computing-solutions-through-toms-hardware-reviews/"><u>Explore Advanced Computing Solutions Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-deepcools-new-lineup-advanced-cooling-systems-and-pc-components-with-trendy-pixel-silicone-personalization-options/"><u>Explore DeepCool’s New Lineup: Advanced Cooling Systems and PC Components with Trendy Pixel Silicone Personalization Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-winhttpdll-errors-effectively-understanding-causes-and-remedies-for-not-found-messages/"><u>Fix Winhttp.dll Errors Effectively: Understanding Causes & Remedies for 'Not Found' Messages</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-vimeo-and-youtube-a-compreayer-of-their-core-philosophies/"><u>In 2024, Vimeo and YouTube A Compreayer of Their Core Philosophies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/omniview-app-critical-look-over-for-2024/"><u>OmniView App Critical Look-Over for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-on-screen-sounds-glitches-a-step-by-step-guide/"><u>Solving On-Screen Sounds Glitches: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-uninstall-process-for-ps5-titles/"><u>Step-by-Step Uninstall Process for PS5 Titles</u></a></li>
+</ul></div>
+

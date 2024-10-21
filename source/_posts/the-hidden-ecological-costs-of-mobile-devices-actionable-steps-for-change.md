@@ -1,7 +1,7 @@
 ---
 title: The Hidden Ecological Costs of Mobile Devices - Actionable Steps for Change
-date: 2024-09-18 17:57:35
-updated: 2024-09-20 10:20:47
+date: 2024-10-14T18:17:16.278Z
+updated: 2024-10-21T03:09:08.899Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cool-down-with-these-top-rated-stress-erasers-for-2024/"><u>[New] Cool Down with These Top-Rated Stress Erasers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/collaborative-playlist-sharing-on-spotify-a-friend-friendly-guide/"><u>Collaborative Playlist Sharing on Spotify: A Friend-Friendly Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tifying-t-series-income-streams-via-youtube-platforms/"><u>Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-insignia-bluetooth-device-drivers-on-windows/"><u>Download & Update Insignia Bluetooth Device Drivers on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y200-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo Y200.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>In 2024, From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-record-your-powerpoint-presentation/"><u>Step-by-Step Record Your PowerPoint Presentation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guides-on-pc-components-and-gadgets/"><u>Tom's Tech Insights: Expert Guides on PC Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-3d-printer-unveiled-discover-the-speed-and-quality-of-elegoos-neptune-grope/"><u>Top Rated 3D Printer Unveiled! Discover the Speed and Quality of Elegoo's Neptune Grope</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-ssds-of-2024-speed-and-capacity-combined/"><u>Top Rated Portable SSDs of 2024: Speed and Capacity Combined</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-advice-the-definitive-guide-by-tomnhardwarepros/"><u>Top Tech Picks and Advice: The Definitive Guide by Tom'nHardwarePros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-electronics-wisdom-from-toms-hardware/"><u>Ultimate Guide to Electronics - Wisdom From Tom's Hardware</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Adapting Home Power Consumption with SmartAI Features of Samsung's SmartThings | ZDNet
-date: 2024-09-18 15:53:22
-updated: 2024-09-20 10:14:42
+date: 2024-10-15T19:52:56.066Z
+updated: 2024-10-20T22:34:40.444Z
 tags:
   - sustainability
 categories:
@@ -89,11 +89,38 @@ Samsung also announced a new partnership with Electricity Maps to provide energy
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-captivating-openings-top-free-intra-makers-list/"><u>[New] Crafting Captivating Openings Top Free Intra Makers List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-flawless-visual-cuts-mastering-in-and-out-techniques-for-2024/"><u>[New] Flawless Visual Cuts Mastering 'In and Out' Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-high-quality-streaming-choice-go-with-obs-or-fraps-for-2024/"><u>[New] High-Quality Streaming Choice Go With OBS or Fraps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-style-essentials-download-for-free/"><u>[Updated] YouTube Style Essentials - Download for FREE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ae-text-styles-the-ultimate-selection/"><u>AE Text Styles The Ultimate Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-tech-dive-into-toms-hardware-guide/"><u>Expert Insights Into Tech - Dive Into Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-computing-articles-from-toms-hardware/"><u>Exploring Cutting-Edge Computing: Articles From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-tom-comprehensive-hardware-insights/"><u>Exploring Electronics with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-hardware-experts/"><u>Exploring the Latest in Computing with Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/improving-sound-speeds-a-guide-for-safe-spotify-use-for-2024/"><u>Improving Sound Speeds A Guide for Safe Spotify Use for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-blaze-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Blaze Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-fun-girl-games-for-kids/"><u>In 2024, Top Fun Girl Games for Kids</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-lab-expert-hardware-evaluations-unveiled/"><u>Inside Tom's Electronics Lab - Expert Hardware Evaluations Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-noctuas-revolutionary-pumpless-aio-liquid-cooler-with-evaporative-technology/"><u>Introducing Noctua's Revolutionary Pumpless AIO Liquid Cooler with Evaporative Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-gadgets-with-toms-hardware-wisdom/"><u>Master Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-inside-toms-hardware-world/"><u>Mastering Gadgets and Components: Inside Tom's Hardware World</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

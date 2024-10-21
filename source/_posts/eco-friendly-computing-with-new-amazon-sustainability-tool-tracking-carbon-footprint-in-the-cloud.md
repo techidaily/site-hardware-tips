@@ -1,7 +1,7 @@
 ---
 title: Eco-Friendly Computing with New Amazon Sustainability Tool Tracking Carbon Footprint in the Cloud
-date: 2024-09-18 15:23:37
-updated: 2024-09-20 10:46:20
+date: 2024-10-18T02:47:53.328Z
+updated: 2024-10-21T01:53:36.180Z
 tags:
   - sustainability
 categories:
@@ -109,6 +109,13 @@ Amazon Web Services (AWS) has released a tool that helps customers see how much 
 
 AWS has launched the free [Customer Carbon Footprint Tool](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Fnew-customer-carbon-footprint-tool%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C227aabc5-88d1-46e4-9d2f-a50721a4a3e9%7Cdtp&dtb=1) to help its customers understand the carbon emissions their EC2 instances and other compute and networking services are generating. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best cloud storage services Free and cheap personal and small business cloud storage services are everywhere. But, which one is best for you? Let's look at the top cloud storage options.  Read now](https://www.zdnet.com/article/best-cloud-storage/)
@@ -154,11 +161,27 @@ Microsoft yesterday launched a new sustainability industry team to power its eff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-iphoneandroid-apps-for-aspiring-creators-for-2024/"><u>[Updated] Essential iPhone/Android Apps for Aspiring Creators for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-mystery-why-there-were-misconceptions-about-assassins-creed-valhalla-launch-date/"><u>Cracking The Mystery: Why There Were Misconceptions About Assassin's Creed Valhalla Launch Date</u></a></li>
+<li><a href="https://win-trending.techidaily.com/cultural-imperialism-is-a-critical-concept-that-explores-the-impact-of-dominant-cultures-on-local-media-industries-and-cultural-practices/"><u>Cultural Imperialism Is a Critical Concept that Explores the Impact of Dominant Cultures on Local Media Industries and Cultural Practices.</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-differences-between-asus-tuf-proart-and-prime-models/"><u>Dissecting Differences Between Asus, Tuf, ProArt & Prime Models</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-instagrams-best-practices-for-video-posts/"><u>In 2024, Instagram's Best Practices for Video Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modularity-an-expert-review-of-the-lian-li-hydroshift-360s-and-its-impact-on-pc-building/"><u>Mastering Modularity: An Expert Review of the Lian Li Hydroshift 360S and Its Impact on PC Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-top-notch-reviews-tips-and-buying-advice/"><u>Mastering Technology with Tom's Hardware: Top-Notch Reviews, Tips, and Buying Advice!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-efficient-portable-usb-drives-for-ultimate-storage/"><u>Most Efficient Portable USB Drives for Ultimate Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-hardware-with-toms-insider-guides-and-analyses/"><u>Navigate the World of Hardware with Tom's Insider Guides and Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware/"><u>Navigating the World of Computing with Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-comprehensive-tips-from-toms-hardware-insiders/"><u>Navigating the World of Tech: Comprehensive Tips From Tom's Hardware Insiders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-x-fold-2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo X Fold 2 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207727609-windows-11-bluetooth-gone-wrong-rectify-it-swiftly-with-these-proven-techniques/"><u>Windows 11 Bluetooth Gone Wrong? Rectify It Swiftly with These Proven Techniques</u></a></li>
+</ul></div>
+

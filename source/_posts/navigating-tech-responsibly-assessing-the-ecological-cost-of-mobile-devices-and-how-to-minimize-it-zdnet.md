@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Responsibly: Assessing the Ecological Cost of Mobile Devices & How to Minimize It | ZDNET"
-date: 2024-09-19 23:26:11
-updated: 2024-09-20 12:38:17
+date: 2024-10-15T04:13:51.370Z
+updated: 2024-10-21T00:57:20.658Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>[New] 2024 Approved Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-coding-warfare-comparing-the-superiority-of-av1-and-vp9/"><u>[New] Coding Warfare Comparing the Superiority of AV1 and VP9</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-sharing-tweets-via-vids-on-whatsapp-now/"><u>[New] In 2024, Sharing Tweets via Vids on WhatsApp Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/80-discount-experience-big-prints-and-bigger-savings-with-the-upgraded-elegoo-neptune-3plus/"><u>$80 Discount: Experience Big Prints and Bigger Savings with the Upgraded Elegoo Neptune 3+</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>2024 Approved The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-high-performance-portable-storage-solutions-reviewed/"><u>2024'S High-Performance Portable Storage Solutions Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-analysis-and-reviews-the-expertise-of-toms-hardware/"><u>Advanced Tech Analysis and Reviews - The Expertise of Tom's Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/plain-story-formulation/"><u>Plain Story Formulation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125142050-qidi-techs-q1-pro-headset-uncovered-a-detailed-performance-assessment-for-gamers/"><u>QIDI Tech's Q1 Pro Headset Uncovered: A Detailed Performance Assessment for Gamers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-magic-5-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor Magic 5 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-equipment-with-toms-reviews/"><u>Unveiling the Best in Computer Equipment with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-a-dive-into-toms-hardware-analysis/"><u>Unveiling the Latest in Technology: A Dive Into Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-premiere-player-detailed-review-of-bambu-lab-x1-carbon-printer/"><u>Unveiling the Premiere Player: Detailed Review of Bambu Lab X1-Carbon Printer</u></a></li>
+</ul></div>
+

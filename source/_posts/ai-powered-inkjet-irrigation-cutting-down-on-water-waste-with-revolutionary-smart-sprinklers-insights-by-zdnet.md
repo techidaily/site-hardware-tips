@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Inkjet Irrigation: Cutting Down on Water Waste with Revolutionary Smart Sprinklers - Insights by ZDNET"
-date: 2024-09-19 10:28:59
-updated: 2024-09-20 12:58:45
+date: 2024-10-14T22:37:20.854Z
+updated: 2024-10-20T19:20:22.892Z
 tags:
   - sustainability
 categories:
@@ -34,6 +34,13 @@ According to Irrigreen CEO, Shane Dyer, "Because of the flexibility and elegance
 **Also:** [**How to make tech more sustainable:5 practical ways**](https://www.zdnet.com/home-and-office/sustainability/how-to-make-tech-more-sustainable-five-practical-ways-to-make-it-happen/)
 
 This technology has the potential to save up to 50% of your outdoor water consumption -- or more if you're like me and often forget to turn off your sprinklers. Homeowners commonly upgrade to a smart sprinkler controller to use with traditional sprinklers. Instead of having the source be the smart device, each of the Irrigreen sprinkler heads uses AI technology to analyze changes in water pressure and flow, as well as adapt to weather and soil conditions, with the Irrigreen smart sprinkler controller connecting to them.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cost
 
@@ -80,11 +87,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-aperture-alchemy-crafting-the-top-10-lens-list-for-2024/"><u>[Updated] Aperture Alchemy Crafting the Top 10 Lens List for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youthful-youtube-ventures-crafting-creative-videos-on-a-mac/"><u>[Updated] In 2024, Youthful YouTube Ventures Crafting Creative Videos on a Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-se-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone SE to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inside-look-expert-techniques-with-vlc-playback/"><u>Inside Look Expert Techniques with VLC Playback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-components-with-toms-gear-analysis/"><u>Navigating the World of Components with Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimized-ram-and-vrm-heat-management-with-noctuas-latest-addition-the-sff-compatible-nh-l12sx77-low-profile-cpu-cooler/"><u>Optimized RAM and VRM Heat Management with Noctua's Latest Addition: The SFF-Compatible NH-L12Sx77 Low-Profile CPU Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-discoveries-in-pc-components-by-toms-hardware-experts/"><u>Pioneering Discoveries in PC Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-the-common-problem-of-layer-shifting-in-3d-printing/"><u>Preventing the Common Problem of Layer Shifting in 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quality-scandal-rocks-aio-radiator-industry-as-caseking-pulls-barrow-dabel-products-off-the-market-after-unsettling-test-results-revealed-presence-of-harmfu6/"><u>Quality Scandal Rocks AIO Radiator Industry as CaseKing Pulls Barrow Dabel Products Off the Market After Unsettling Test Results Revealed Presence of Harmful Materials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rejected-graphic-card-use-by-os-win11/"><u>Rejected Graphic Card Use by OS Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-noctua-nh-d1-g2-subdued-fan-operation-boosted-thermal-conductivity-via-new-heatpipe-array-and-innovative-design/"><u>Revamped Noctua NH-D1# G2: Subdued Fan Operation, Boosted Thermal Conductivity via New Heatpipe Array and Innovative Design</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-tip-post-youtube-content-dont-twit-for-2024/"><u>Social Media Tip Post YouTube Content, Don't Twit for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streammine-group-video-downloads-for-2024/"><u>StreamMine Group Video Downloads for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taming-the-beast-an-engineers-journey-to-silence-with-a-python-powered-nzxt-kraken-aio-control-system/"><u>Taming the Beast: An Engineer's Journey to Silence with a Python-Powered NZXT Kraken AIO Control System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tesla-robotaxi-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Tesla Robotaxi: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/test-drive-the-lian-li-galahad-ii-ultimate-guide-to-an-advanced-aio-cpu-cooler-for-gamers-and-streamers/"><u>Test Drive the Lian Li Galahad II - Ultimate Guide to an Advanced AIO CPU Cooler for Gamers and Streamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-homemade-confections-in-depth-review-and-tips-for-your-3d-printed-chocolate-adventure-with-cocoa-press/"><u>The Future of Homemade Confections: In-Depth Review and Tips for Your 3D Printed Chocolate Adventure with Cocoa Press</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecret-to-youtube-dominance-unveiled-by-creative-studio-insights-for-2024/"><u>The Secret to YouTube Dominance Unveiled by Creative Studio Insights for 2024</u></a></li>
+</ul></div>
+

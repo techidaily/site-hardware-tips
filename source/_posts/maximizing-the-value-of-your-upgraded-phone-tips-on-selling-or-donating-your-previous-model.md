@@ -1,7 +1,7 @@
 ---
 title: Maximizing the Value of Your Upgraded Phone - Tips on Selling or Donating Your Previous Model
-date: 2024-09-19 12:22:56
-updated: 2024-09-20 12:24:35
+date: 2024-10-20T05:48:43.535Z
+updated: 2024-10-20T18:49:38.786Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ If your issue with your current device is aesthetics, consider buying a new case
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Before you sell: Is there another option?
 
 Re-use is key way of cutting waste. Just because you don't want your phone or laptop any more, that doesn't mean it's without options. Does is make a useful starter device for someone else in your family? For those family members who don't need to be at the cutting edge of tech, an older model might be a fine option. Beware, however, of dumping your old kit on others if it's too slow or too out of date. They won't thank you for it.
@@ -54,6 +61,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -75,6 +89,13 @@ He also suggests buying a refurbished phone when you are due for an upgrade. Ref
 
 "Make sure you do so with a reputable retailer who can offer high-standard quality checks, certified refurbished products, and a money-back guarantee," he says.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why you should reduce, reuse, and recycle electronics
 
 Tech is all about novelty and the coolest new thing. But there are consequences to our upgrade culture. Since electronic devices have become a staple in our lives, [we've created massive amounts of e-waste](https://www.zdnet.com/article/our-old-devices-are-creating-a-mountain-of-e-waste-and-its-getting-a-lot-bigger/). According to the United Nations, [the world generated 53.5 million tons of e-waste in 2019](https://earth911.com/eco-tech/20-e-waste-facts/). The UN also reported that only 17.4% of the 53.5 million tons were recycled. 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,28 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-warriors-epic-valhallas-endgame/"><u>[Updated] 2024 Approved Warriors' Epic Valhalla's Endgame</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-top-7-crypto-creators-for-nft-conversion/"><u>[Updated] Unveiling Top 7 Crypto-Creators for NFT Conversion</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-diving-into-youtubes-veiled-video-vaults/"><u>2024 Approved Digital Diving Into YouTube’s Veiled Video Vaults</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-complete-windows-10-know-how-reference/"><u>2024 Approved The Complete WINDOWS 10 Know-How Reference</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-enhanced-browser-protection-with-microsofts-defender-on-windows-11s-edge/"><u>Activate Enhanced Browser Protection with Microsoft's Defender on Windows 11'S Edge</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-video-output-broadcasts-vob-into-mp4-format-a-step-by-step-guide-for-both-windows-and-macos-users/"><u>Convert Video Output Broadcasts (VOB) Into MP4 Format: A Step-by-Step Guide for Both Windows and macOS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-windows-11s-voice-recorder-usability-via-shortcut-guide/"><u>Elevating Windows 11'S Voice Recorder Usability via Shortcut Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-discover-how-manycam-transforms-your-videography-with-a-virtual-camera/"><u>Live Streaming Mastery: Discover How ManyCam Transforms Your Videography with a Virtual Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-refrigeration-aseteks-launch-of-an-innovative-ai-powered-ecam-cold-plate-crafted-through-state-of-the-art-3d-metal-printing-in-teamwork-with11/"><u>Revolutionizing Refrigeration: Asetek's Launch of an Innovative AI-Powered ECAM Cold Plate, Crafted Through State-of-the-Art 3D Metal Printing in Teamwork with Fabric8Labs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-and-components-by-toms-electronics-hub/"><u>The Ultimate Guide to Gadgets & Components by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-components-toms-tech-selection/"><u>The Ultimate Resource for Computer Components - Tom's Tech Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-technological-breakdown/"><u>The Ultimate Resource for Computer Enthusiasts – Tom's Technological Breakdown</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-3-ipad-voice-logging-strategies/"><u>Top 3 iPad Voice Logging Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-secrets-of-hardware-with-toms-pro-reviews/"><u>Uncover the Secrets of Hardware with Tom's Pro Reviews</u></a></li>
+</ul></div>
+

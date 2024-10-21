@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Independence with Freedom and Savings: Get Your Segway Max G2 Electric Scooter for Half Price This Memorial Day – Only at ZDNET!"
-date: 2024-09-17 10:11:53
-updated: 2024-09-20 10:53:56
+date: 2024-10-17T16:21:57.887Z
+updated: 2024-10-20T17:38:59.214Z
 tags:
   - sustainability
 categories:
@@ -46,11 +46,40 @@ You can connect the Max G2 to the companion app to get at-a-glance updates on re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-broadcasting-innovations-combining-tv-and-social-media/"><u>[New] 2024 Approved Broadcasting Innovations Combining TV & Social Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-imovie-clip-integration-into-youtubes-vast-network/"><u>[New] 2024 Approved IMovie Clip Integration Into YouTube's Vast Network</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-livestreaming-facebook-made-simple-for-all-tech-users/"><u>2024 Approved Livestreaming Facebook Made Simple for All Tech Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>2024 Approved Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-analysis-by-professionals-at-toms-equipment-reviews/"><u>Advanced Tech Analysis by Professionals at Tom's Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-ice-floe-iceberg-thermal-unit-reviews-evaluating-the-quiet-cool-power-of-models-240-and-360/"><u>Affordable Ice FLOe Iceberg Thermal Unit Reviews: Evaluating the Quiet Cool Power of Models 240 & 360</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-mk710-webcam-software-step-by-step-guide/"><u>Download & Install Logitech MK710 Webcam Software: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/modern-compatible-swf-to-mp4-transformation-tools-find-the-optimal-converter/"><u>Modern-Compatible SWF to MP4 Transformation Tools - Find the Optimal Converter!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-best-fast-photo-viewer-for-windows-11/"><u>Top Best Fast Photo Viewer for Windows 11?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turboupload-the-ultimate-guide-to-fast-youtube-video-rendering-for-2024/"><u>TurboUpload The Ultimate Guide to Fast YouTube Video Rendering for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-the-finest-raspberry-pi-cases-for-2n45s/"><u>Ultimate Selection: The Finest Raspberry Pi Cases for 2N45s</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-no-cost-neighborhood-sales-with-oodles-free-marketplace/"><u>Unlock No-Cost Neighborhood Sales with Oodle's Free Marketplace</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-gadget-secrets-a-look-at-toms-hardware/"><u>Unlocking Gadget Secrets: A Look at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-in-depth-reviews-from-toms-hardware/"><u>Unlocking Tech Secrets: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-electronics-with-toms-equipment-insights/"><u>Unraveling the World of Electronics with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest Gadgets with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-a-trip-through-toms-hardware-world/"><u>Unveiling the Latest in Technology: A Trip Through Tom's Hardware World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-hardware-evaluations-with-toms-insights/"><u>Your Ultimate Guide to Hardware Evaluations with Tom's Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

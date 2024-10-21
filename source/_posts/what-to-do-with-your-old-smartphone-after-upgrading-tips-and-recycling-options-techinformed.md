@@ -1,7 +1,7 @@
 ---
 title: What to Do with Your Old Smartphone After Upgrading? Tips & Recycling Options - TechInformed
-date: 2024-09-19 22:27:36
-updated: 2024-09-20 11:40:11
+date: 2024-10-16T18:48:46.386Z
+updated: 2024-10-20T17:18:37.597Z
 tags:
   - sustainability
 categories:
@@ -37,11 +37,25 @@ If your issue with your current device is aesthetics, consider buying a new case
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Before you sell: Is there another option?
 
 Re-use is key way of cutting waste. Just because you don't want your phone or laptop any more, that doesn't mean it's without options. Does is make a useful starter device for someone else in your family? For those family members who don't need to be at the cutting edge of tech, an older model might be a fine option. Beware, however, of dumping your old kit on others if it's too slow or too out of date. They won't thank you for it.
 
 Another option is alternative re-use: can your phone find a second life as a video camera or a standalone GPS device, for example? 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before selling your electronics
 
@@ -75,6 +89,13 @@ He also suggests buying a refurbished phone when you are due for an upgrade. Ref
 
 "Make sure you do so with a reputable retailer who can offer high-standard quality checks, certified refurbished products, and a money-back guarantee," he says.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why you should reduce, reuse, and recycle electronics
 
 Tech is all about novelty and the coolest new thing. But there are consequences to our upgrade culture. Since electronic devices have become a staple in our lives, [we've created massive amounts of e-waste](https://www.zdnet.com/article/our-old-devices-are-creating-a-mountain-of-e-waste-and-its-getting-a-lot-bigger/). According to the United Nations, [the world generated 53.5 million tons of e-waste in 2019](https://earth911.com/eco-tech/20-e-waste-facts/). The UN also reported that only 17.4% of the 53.5 million tons were recycled. 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,24 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[New] Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capture-life-in-motion-on-your-ipad/"><u>[Updated] In 2024, Capture Life in Motion on Your iPad</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tube-top-ten-twitters-most-watched-video-rankings-for-2024/"><u>[Updated] Tube Top Ten Twitter's Most Watched Video Rankings for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gadgets-with-thorough-reviews-on-toms-hardware/"><u>Discover Cutting-Edge Gadgets with Thorough Reviews on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-pc-tips-with-toms-technology-guidance/"><u>Discover Top-Notch PC Tips with Tom’s Technology Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-game-sound-experiences-top-headset-reviews/"><u>Elite Game Sound Experiences: Top Headset Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-gear-from-toms-workshop/"><u>Expert Insights on Computing Gear From Tom's Workshop</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-nord-3-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus Nord 3 5G Phone?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncovering-gpts-standard-tools-and-capabilities/"><u>Uncovering GPT's Standard Tools & Capabilities</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Research Methodologies Like Randomized Controlled Trials Are Used to Measure Real-World Policy Effects.
-date: 2024-10-02T22:00:39.831Z
-updated: 2024-10-03T20:42:44.755Z
+date: 2024-10-14T01:46:27.648Z
+updated: 2024-10-20T21:59:29.178Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-edits-top-10-youtube-editing-strategies/"><u>[Updated] 2024 Approved Elevate Your Edits Top 10 YouTube Editing Strategies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dividing-footage-top-splitcams-worth-in-review/"><u>2024 Approved Dividing Footage Top SplitCam's Worth in Review?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/behind-the-scenes-exploring-promised-features-in-bambu-labs-firmware-revamp/"><u>Behind the Scenes: Exploring Promised Features in Bambu Lab's Firmware Revamp</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/close-competition-pumpless-240mm-aio-cooler-trails-by-a-minor-degree-in-benchmarking-against-conventional-pump-units/"><u>Close Competition: Pumpless 240Mm AIO Cooler Trails by a Minor Degree in Benchmarking Against Conventional Pump Units</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-labyrinth-luminaries-top-10-roguelike-highlights/"><u>In 2024, Labyrinth Luminaries Top 10 Roguelike Highlights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lightning-fast-visualization-for-win11-users/"><u>In 2024, Lightning-Fast Visualization for Win11 Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-akasa-gecko-blower-ssd-heatsink-evaluation-enhancing-your-solid-state-drives-cooling/"><u>In-Depth Akasa Gecko Blower SSD Heatsink Evaluation - Enhancing Your Solid State Drive's Cooling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-high-performance-computers-with-toms-hardware-insights/"><u>Inside the World of High-Performance Computers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719149598351-interoperability-intensified-effortlessly-sync-facebook-items-with-top-apps/"><u>Interoperability Intensified: Effortlessly Sync Facebook Items with Top Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia C12 Pro.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-asus-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-art-of-replicating-natural-wood-textures-aromas-and-appearances-with-3d-prints-and-sawdust-innovation/"><u>The Art of Replicating Natural Wood Textures, Aromas, and Appearances with 3D Prints and Sawdust Innovation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-component-guide/"><u>Tom's Tech Reviews: Comprehensive Computer Component Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-gadgets-with-toms-hardware-expertise/"><u>Unraveling Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-io-recorder-explained-for-users/"><u>[New] 2024 Approved Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-video-impact-20-essential-thumbnail-fonts/"><u>[Updated] 2024 Approved Elevate Your Video Impact 20 Essential Thumbnail Fonts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-effortless-music-extraction-top-8-android-compatible-downloader-apps-for-2024/"><u>[Updated] Effortless Music Extraction - Top 8 Android-Compatible Downloader Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-engage-efficiently-leading-insta-filters-for-2024/"><u>[Updated] Engage Efficiently Leading Insta Filters for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-watch-deleted-youtube-secrets-to-accessing-lost-content/"><u>2024 Approved Watch Deleted YouTube Secrets to Accessing Lost Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-performing-hdds-expert-selections-for-your-computer-needs/"><u>2024'S Best-Performing HDDs: Expert Selections for Your Computer Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-finest-economical-3d-printers-with-superior-print-quality-for-a-budget-friendly-choice/"><u>2024'S Finest Economical 3D Printers with Superior Print Quality for a Budget-Friendly Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-hardware-specialists/"><u>Advanced Gadget Analysis by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-virtual-reality-headsets-of-2023-for-enhanced-pc-gaming/"><u>Best Virtual Reality Headsets of 2023 for Enhanced PC Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-akasa-gecko-hs-series-effective-blower-cooler-for-enhanced-ssd-performance/"><u>Comprehensive Review of the Akasa Gecko HS Series: Effective Blower Cooler for Enhanced SSD Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-evaluations-of-processors-and-storage-solutions-at-toms-tech-space/"><u>Detailed Evaluations of Processors & Storage Solutions at Tom's Tech Space</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-4k-hdr-monitors-with-144hz-for-an-immersive-gaming-experience-straight-or-curved-screen-options-available/"><u>Discover the Leading 4K HDR Monitors with 144Hz for an Immersive Gaming Experience : Straight or Curved Screen Options Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-list-of-top-5-iphone-podcast-platforms/"><u>Exclusive List of Top 5 iPhone Podcast Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-vpn-services-unveiling-the-best-performers-through-testing-and-surveys/"><u>Expertly Reviewed VPN Services - Unveiling the Best Performers Through Testing and Surveys</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-perform-a-comprehensive-windows-10-system-backup-a-step-by-step-guide/"><u>How to Perform a Comprehensive Windows 10 System Backup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-groovy-get-your-printer-drivers-for-windows-11108/"><u>HP OfficeJet Pro Groovy: Get Your Printer Drivers for Windows [11/10/8]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-perfect-mac-video-capturer/"><u>In 2024, Perfect Mac Video Capturer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-diagnosing-and-repairing-a-non-powered-computer/"><u>The Ultimate Guide to Diagnosing and Repairing a Non-Powered Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-performance-pc-builds-wisdom-from-toms-hq/"><u>Unveiling High-Performance PC Builds - Wisdom From Tom's HQ</u></a></li>
 </ul></div>
 

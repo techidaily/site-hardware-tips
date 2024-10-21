@@ -1,7 +1,7 @@
 ---
 title: "How to Achieve a Sustainable Lifestyle with Your Gadgets: Save Costs & Help the Planet, According to ZDNET"
-date: 2024-09-18 11:55:46
-updated: 2024-09-20 11:26:49
+date: 2024-10-19T16:56:37.314Z
+updated: 2024-10-20T22:14:52.292Z
 tags:
   - sustainability
 categories:
@@ -26,6 +26,13 @@ Sure, you can reduce, reuse, and recycle all you want, but when it comes to our 
 The idea of sustainability is broad, but experts recommend looking at not only what tech products you buy, but how you use your devices can make even a little impact on being more "green" with technology.
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Take stock of your own sustainability and look at your lifestyle
 
@@ -67,6 +74,13 @@ Samsung has [e-waste collection sites](https://shop-links.co/link/?exclusive=1&p
 
 For Apple users, you can trade in any device in any condition, and Apple will give you [credit towards a new device](https://www.apple.com/recycling/nationalservices/), and recycle it for free. You can recycle any Apple-owned brand devices at Apple Stores or through [apple.com](https://www.apple.com/recycling/nationalservices/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Upcycle your devices
 
 On the flip side, your outdated smartphone doesn't have to get recycled to give it a new life. Upcycling your old devices to bring new life to them is a great way to be sustainable with technology. 
@@ -101,7 +115,27 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utilize smart home automations
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -151,11 +185,33 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>[New] 2024 Approved Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-artisans-crafting-marvel-fantasy-landscapes/"><u>[New] In 2024, Artisans Crafting Marvel Fantasy Landscapes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-qanda-beyond-basic-usage/"><u>[Updated] 2024 Approved Instagram Q&A Beyond Basic Usage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-audio-manipulation-in-canva-videos/"><u>[Updated] 2024 Approved Mastering Audio Manipulation in Canva Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unveiling-hidden-tiktok-ban-criteria/"><u>[Updated] In 2024, Unveiling Hidden TikTok Ban Criteria</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/10-best-listed-playlists-on-spotify-for-2024/"><u>10 Best-Listed Playlists on Spotify for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>2024 Approved Ignite Engagement on Twitch Alive Tweeting Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175674253-comprehensive-analysis-of-the-id-cooling-fx360-pro-top-performance-for-under-70/"><u>Comprehensive Analysis of the ID-Cooling FX360 Pro - Top Performance for Under $70</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125240412-discover-the-best-gaming-pc-power-supplies-our-top-picks-for-2amoy-2024/"><u>Discover the Best Gaming PC Power Supplies: Our Top Picks for 2Amoy 2024!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125169383-elevate-your-3d-creations-master-resin-wash-and-cure-with-elegoos-essential-1econd-kit/"><u>Elevate Your 3D Creations: Master Resin Wash and Cure with Elegoo's Essential $1Econd Kit!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-transforming-your-living-space-into-a-podcast-studio/"><u>In 2024, Transforming Your Living Space Into a Podcast Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novices-pathway-top-essential-gopro-supplementary-gear/"><u>Novice's Pathway Top Essential GoPro Supplementary Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-storage-enclosure-devices/"><u>Ultimate Guide to Choosing the Best Storage Enclosure Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-pc-overclocking-potential-the-new-massive-liquid-cooler-moora-iv-price-holds-eight-biggest-200mm-fans-in-one-unit-600/"><u>Unbeatable PC Overclocking Potential - The New Massive Liquid Cooler, MOORA IV ([Price]): Holds Eight Biggest 200MM Fans in One Unit (~$600)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-cosmic-creations-in-depth-review-of-elegoos-galaxy-neptune-4-plus-for-lightning-fast-3d-prints/"><u>Unleash Cosmic Creations: In-Depth Review of Elegoo's Galaxy Neptune 4 Plus for Lightning-Fast 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-creativity-the-phrozen-four-color-3d-printer/"><u>Unleash Creativity: The Phrozen Four-Color 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-innovations-with-toms-hardware/"><u>Unveiling New Gadgets and Innovations with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-insights/"><u>Unveiling the Latest Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-compatible-solutions-for-your-realtek-alc887-audio-drivers-woes/"><u>Windows-Compatible Solutions for Your Realtek ALC887 Audio Drivers Woes</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "New Phone, Same Savvy: Eco-Friendly Options & Valuable Tips for Recycling Your Previous Model"
-date: 2024-09-18 10:50:57
-updated: 2024-09-20 10:10:14
+date: 2024-10-16T20:09:24.744Z
+updated: 2024-10-20T16:53:31.242Z
 tags:
   - sustainability
 categories:
@@ -25,6 +25,13 @@ Should you add it to the junk drawer where all your other old devices and chargi
 
 First, here's what not to do: never dispose of your device in your household garbage. Not only will you send your device straight to a landfill and pollute the environment with the potentially toxic metals found in your device, but [in some states](https://recyclenation.com/2021/08/throw-it-out-or-recycle-it-each-states-rules-on-electronics-recycling-updated-2021/) and [countries](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee%5Fen), you will be breaking the law, too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before buying a new electronic device
 
 Many people upgrade their devices on a regular basis as tech companies announce a lineup of new devices every year. But usually it's unnecessary to upgrade your device that frequently, as more current devices typically only offer one or two minor upgrades. 
@@ -36,6 +43,13 @@ If you've only had your current device for a year or two, consider holding onto 
 If your issue with your current device is aesthetics, consider buying a new case or revamping your device's home and lock screen. Some apps can [completely change your device's home and lock screen appearance](https://www.makeuseof.com/best-apps-to-customize-iphone-home-screen/), offering more personalized widgets and icons. If it's a PC or laptop you are thinking about, it might be possible to upgrade your existing model with new components. 
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Before you sell: Is there another option?
 
@@ -75,6 +89,13 @@ He also suggests buying a refurbished phone when you are due for an upgrade. Ref
 
 "Make sure you do so with a reputable retailer who can offer high-standard quality checks, certified refurbished products, and a money-back guarantee," he says.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why you should reduce, reuse, and recycle electronics
 
 Tech is all about novelty and the coolest new thing. But there are consequences to our upgrade culture. Since electronic devices have become a staple in our lives, [we've created massive amounts of e-waste](https://www.zdnet.com/article/our-old-devices-are-creating-a-mountain-of-e-waste-and-its-getting-a-lot-bigger/). According to the United Nations, [the world generated 53.5 million tons of e-waste in 2019](https://earth911.com/eco-tech/20-e-waste-facts/). The UN also reported that only 17.4% of the 53.5 million tons were recycled. 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,30 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-quickcam-plus-audio-guide-integration-tool/"><u>[New] 2024 Approved QuickCam + Audio Guide Integration Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-tools-for-efficient-mp4-segmentation-on-mac/"><u>[New] Essential Tools for Efficient MP4 Segmentation on Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-make-money-from-youtube-shorts-requirements-and-earning-potential/"><u>[Updated] In 2024, How to Make Money From YouTube Shorts Requirements and Earning Potential</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/g-deep-into-youtube-launching-and-earning-your-way-for-2024/"><u>Diving Deep Into Youtube Launching and Earning Your Way for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-and-tricks-for-saving-screenshots-on-your-hp-desktop-computer/"><u>Easy Tips & Tricks for Saving Screenshots on Your HP Desktop Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-screenshot-and-video-edits-top-8-mobile-choices/"><u>In 2024, Master the Art of Screenshot and Video Edits – Top 8 Mobile Choices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-why-doesnt-my-rust-application-keep-closing-unexpectedly/"><u>Resolving the Issue: Why Doesn't My Rust Application Keep Closing Unexpectedly?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-dominating-youtube-search-results-through-seo-for-2024/"><u>Strategies for Dominating YouTube Search Results Through SEO for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-new-tech-toms-hardware-explained/"><u>The Definitive Guide to New Tech: Tom's Hardware Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-guide-in-depth-hardware-insights/"><u>Tom's Computer Guide: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-precision-testing-for-quality-and-performance/"><u>Tom's Computing Insights: Precision Testing for Quality and Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-the-ultimate-gaming-mouse-of-2024/"><u>Top Picks for the Ultimate Gaming Mouse of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-mystery-of-the-windows-error-code-0xc00000e9/"><u>Ultimate Guide: Solving the Mystery of the Windows Error Code 0xC00000E9</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-guide-best-mini-itx-computer-chassis-for-small-form-factor-systems-sff/"><u>Ultimate Selection Guide: Best Mini ITX Computer Chassis for Small Form Factor Systems (SFF)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-latest-in-tech-reviews-news-and-advice-from-toms-hardware/"><u>Uncover the Latest in Tech: Reviews, News & Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-heights-with-elegoos-saturn-4-ultra-a-game-changer-in-resin-printing-technology/"><u>Unlocking New Heights with Elegoo's Saturn #4 Ultra: A Game-Changer in Resin Printing Technology</u></a></li>
+</ul></div>
+

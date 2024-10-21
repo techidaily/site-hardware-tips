@@ -1,7 +1,7 @@
 ---
 title: "Singapore's Strategic Leap: Enhancing Artificial Intelligence Through Quantum Initiatives & Advanced Data Hubs - Insights From ZDNet"
-date: 2024-09-17 15:17:52
-updated: 2024-09-20 10:17:38
+date: 2024-10-16T18:32:56.476Z
+updated: 2024-10-20T22:43:52.515Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,31 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-camera-to-chrome-youtube-shorts-video-upload-guide-for-2024/"><u>[New] From Camera to Chrome YouTube Shorts Video Upload Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-master-the-art-of-photo-display-with-best-frames/"><u>[New] Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://fox-access.techidaily.com/color-calibration-transitioning-from-traditional-rgb-to-srgb/"><u>Color Calibration Transitioning From Traditional Rgb to Srgb</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-edge-design-enhanced-features-introducing-the-all-new-apple-iphone/"><u>Cutting-Edge Design, Enhanced Features: Introducing the All-New Apple iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y77t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y77t Phone without PIN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-emporium-in-depth-product-guides-and-comparisons/"><u>Inside Tom's Hardware Emporium: In-Depth Product Guides and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/interactive-food-for-thought-enjoyable-and-functional-edible-qr-codes-created-through-additive-manufacturing/"><u>Interactive Food for Thought: Enjoyable & Functional Edible QR Codes Created Through Additive Manufacturing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-noctuas-latest-innovations-the-impressive-home-series-featuring-the-star-attraction-affordable-100-nv-fs1-desk-ventilator/"><u>Introducing Noctua's Latest Innovations: The Impressive Home Series, Featuring the Star Attraction - Affordable $100 NV-FS1 Desk Ventilator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-discoveries-by-toms-gear-experts/"><u>Mastering Modern Tech: Discoveries by Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-expert-tips-from-tom/"><u>Mastering Technology with Expert Tips From Tom'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-setup-with-tips-from-toms-hardware/"><u>Mastering Your PC Setup with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-world-a-deep-look-by-toms-hardware-experts/"><u>Navigating Computer World: A Deep Look by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-at-toms-hardware-corner/"><u>Navigating the Latest in Computing at Tom's Hardware Corner</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-overcome-fortnite-login-troubles-effortlessly/"><u>Quick Solutions to Overcome Fortnite Login Troubles Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stay-ahead-of-the-curve-with-iphone-and-androids-best-photo-sticker-apps/"><u>Stay Ahead of the Curve with iPhone and Android's Best Photo Sticker Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blanking-and-flashing-windows-11-screen/"><u>Stop Blanking and Flashing Windows 11 Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-the-efficiency-of-lg-ud88-w-display-technology/"><u>Unraveling the Efficiency of LG UD88-W Display Technology</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Tech Innovations: The Corporate Journey Towards Eco-Friendly Solutions | ZDNet"
-date: 2024-09-19 18:34:48
-updated: 2024-09-20 12:57:51
+date: 2024-10-19T03:14:12.275Z
+updated: 2024-10-20T20:20:25.732Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +70,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +123,33 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premium-combo-exclusive-afx-design-tools/"><u>[New] In 2024, Premium Combo Exclusive AFX Design Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/"><u>[New] Simplify Your Edits Mastering the Art of Vimeo Video Snipping in 5 Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-strategies-to-elevate-your-video-in-the-trending-topics/"><u>2024 Approved Strategies to Elevate Your Video in the Trending Topics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmark-battle-pumpless-aio-coolers-prove-closely-matched-just-8c-behind-traditional-rivals-in-rigorous-tests/"><u>Benchmark Battle: Pumpless AIO Coolers Prove Closely Matched, Just 8°C Behind Traditional Rivals in Rigorous Tests</u></a></li>
+<li><a href="https://article-helps.techidaily.com/captivate-with-voice-intros-that-intrigue/"><u>Captivate with Voice Intros That Intrigue</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-your-course-through-youtube-compliance/"><u>Charting Your Course Through YouTube Compliance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125168199-discover-the-latest-in-tech-at-your-site-name-your-one-stop-resource-like-toms-hardware/"><u>Discover the Latest in Tech at [Your Site Name]: Your One-Stop Resource Like Tom's Hardware</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/effiziente-migration-mit-hyper-v-vm-exportieren-deine-einfache-losung-fur-die-virtualisierungstechnologie/"><u>Effiziente Migration Mit Hyper-V VM Exportieren – Deine Einfache Lösung Für Die Virtualisierungstechnologie</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/get-your-free-15-discount-for-winx-dvd-ripper-platinum-with-our-limited-time-offer/"><u>Get Your Free $15 Discount for WinX DVD Ripper Platinum with Our Limited-Time Offer!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-hidden-reasons-behind-imovies-cuts/"><u>In 2024, The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premium-app-list-androids-best-video-and-image-capture/"><u>Premium App List Android's Best Video & Image Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-blurring-images-with-your-iphone-for-2024/"><u>The Essential Guide to Blurring Images with Your iPhone for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-possibilities-in-custom-pc-assembly-teamgroups-innovation-adds-magnetic-mount-to-the-t-force-siren-aio-water-cooler-series/"><u>Unlocking New Possibilities in Custom PC Assembly - TeamGroup's Innovation Adds Magnetic Mount to the T-Force Siren AIO Water Cooler Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-technological-innovations-an-exploration-of-toms-hardware-findings/"><u>Unveiling Technological Innovations - An Exploration of Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-toms-guide-to-premium-hardware/"><u>Unveiling the Latest Gadgets: Tom's Guide to Premium Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom/"><u>Unveiling the Latest in Computer Hardware with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-computer-hardware-choices-at-toms-resourceful-site/"><u>Unveiling Top-Notch Computer Hardware Choices at Tom's Resourceful Site</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-creations-with-the-best-exclusive-offer-on-eleegoo-neptune-4-pro-at-just-240-from-newegg/"><u>Upgrade Your Creations with the Best: Exclusive Offer on Eleegoo Neptune 4 Pro at Just $240 From Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-comprehensive-resource-for-computer-specs-and-gear-toms-hardware/"><u>Your Comprehensive Resource for Computer Specs and Gear - Tom's Hardware</u></a></li>
+</ul></div>
+

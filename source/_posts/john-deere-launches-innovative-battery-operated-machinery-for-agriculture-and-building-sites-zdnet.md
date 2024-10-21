@@ -1,7 +1,7 @@
 ---
 title: John Deere Launches Innovative Battery-Operated Machinery for Agriculture & Building Sites - ZDNet
-date: 2024-09-17 10:19:38
-updated: 2024-09-20 11:21:48
+date: 2024-10-15T19:16:54.096Z
+updated: 2024-10-21T05:52:23.976Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ ExactShot, a technology made for farmers, uses sensors and robotics to dispense 
 
 ExactShot's built-in sensors know when a seed is being planted and will dispense the required amount of fertilizer, about 0.2 milliliters. With ExactShot, John Deere says US corn crops could save over 93 million gallons of fertilizer and decrease the effects runoff fertilizer can have on surrounding water supply and greenery.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
@@ -49,6 +56,13 @@ Jahmy Hindman, John Deere's CTO, said during the keynote address that, across th
 
 Last year, John Deere announced an upgrade to the original See and Spray technology: See and Spray Ultimate. See and Spray Ultimate targets weeds that lie in corn, soybean and cotton plants, releasing herbicides with precision to kill the weeds without harming benign crops and greenery.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to disable ACR (and greatly reduce ads) on every TV model - and why you should](https://www.zdnet.com/article/how-to-disable-acr-and-greatly-reduce-ads-on-every-tv-model-and-why-you-should/)
@@ -64,11 +78,25 @@ Hindman said that farmers across the US use 23 million gallons of herbicide annu
 
 See and Spray Ultimate has 126 cameras capable of capturing 1.6 billion pixels. The cameras are ultra-rugged and built for rough terrain and harsh weather conditions. The sprayer's body is embedded with 10 advanced computing processors that can process up to four gigabytes of data per second.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Electric excavator 
 
 A [Kreisel battery](https://www.kreiselelectric.com/) powers the electric excavator, increasing the machine's efficiency. As a result, the excavator promises lower operating costs, reduced noise, more reliability, and no emissions on construction sites. 
 
 Kreisel electric charging technology also promises decreased cost connections and electrical burdens on the electrical grid. Electric machines reduce noise pollution caused by heavy construction machinery and decrease combustion emissions in urban areas.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Biofuels, electrification, autonomy, and cloud computing
 
@@ -109,11 +137,24 @@ With this data, farmers can create digital twins of their farms to see which cro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-content-quality-essential-tips-for-youtube-users/"><u>[Updated] 2024 Approved Boosting Your Content Quality Essential Tips for YouTube Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-speed-watchers-24-hrs-youtube-chart-leaders-for-2024/"><u>[Updated] Speed Watchers 24-Hrs YouTube Chart Leaders for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-iphone-wireless-charging-issues-top-7-tips-and-tricks/"><u>How To Fix iPhone Wireless Charging Issues - Top 7 Tips & Tricks!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scale-up-snapshot-size-retain-sharpness/"><u>Scale Up Snapshot Size - Retain Sharpness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-in-computing-with-toms-hardware-wisdom/"><u>Unlocking Performance Secrets in Computing with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-equipment-analysis/"><u>Unveiling the Latest in Technology with Tom's Equipment Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-performance-in-depth-analysis-of-qidi-tech-q1-pro-audio-equipment/"><u>Unveiling the Performance: In-Depth Analysis of QIDI Tech Q1 Pro Audio Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-gear-insights-at-toms-computing-world-forums-and-reviews/"><u>Unveiling Top Gear Insights at Tom's Computing World - Forums and Reviews</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-adjusting-audio-levels-in-digital-recordings/"><u>Updated 2024 Approved Adjusting Audio Levels in Digital Recordings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcp-hall-of-fame-10-iconic-films-edited-with-final-cut-pro/"><u>Updated In 2024, FCP Hall of Fame 10 Iconic Films Edited with Final Cut Pro</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Transitioning To Fresh Tech: Maximizing Value From Your Previous Smartphone"
-date: 2024-09-17 11:46:58
-updated: 2024-09-20 10:50:25
+date: 2024-10-14T04:36:28.904Z
+updated: 2024-10-20T21:13:02.175Z
 tags:
   - sustainability
 categories:
@@ -25,6 +25,13 @@ Should you add it to the junk drawer where all your other old devices and chargi
 
 First, here's what not to do: never dispose of your device in your household garbage. Not only will you send your device straight to a landfill and pollute the environment with the potentially toxic metals found in your device, but [in some states](https://recyclenation.com/2021/08/throw-it-out-or-recycle-it-each-states-rules-on-electronics-recycling-updated-2021/) and [countries](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee%5Fen), you will be breaking the law, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before buying a new electronic device
 
 Many people upgrade their devices on a regular basis as tech companies announce a lineup of new devices every year. But usually it's unnecessary to upgrade your device that frequently, as more current devices typically only offer one or two minor upgrades. 
@@ -36,6 +43,13 @@ If you've only had your current device for a year or two, consider holding onto 
 If your issue with your current device is aesthetics, consider buying a new case or revamping your device's home and lock screen. Some apps can [completely change your device's home and lock screen appearance](https://www.makeuseof.com/best-apps-to-customize-iphone-home-screen/), offering more personalized widgets and icons. If it's a PC or laptop you are thinking about, it might be possible to upgrade your existing model with new components. 
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Before you sell: Is there another option?
 
@@ -54,6 +68,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,26 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facestream-recorder-pro-messenger-for-2024/"><u>[New] FaceStream Recorder Pro-Messenger for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-monitor-magic-asuss-mg28uq-review-reveals-a-new-vision-era/"><u>[New] Monitor Magic – ASUS's MG28UQ Review Reveals a New Vision Era</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-using-vlc-for-videos/"><u>[New] Ultimate Guide Using VLC for Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ad-free-streaming-verizon-introduces-bundle-with-netflix-and-amcplus/"><u>Ad-Free Streaming: Verizon Introduces Bundle with Netflix & AMC+</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/asistencia-online-expertos-de-ventas-para-herramienta-de-copia-y-conversion-de-audiovideo-winx-pro/"><u>Asistencia Online Expertos De Ventas Para Herramienta De Copia Y Conversión De Audio/Video WinX Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/complete-free-tutorial-on-how-to-get-watch-and-experience-high-quality-vr-in-4k-with-360-degrees-views/"><u>Complete Free Tutorial on How to Get, Watch & Experience High-Quality VR in 4K with 360 Degrees Views</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-the-group-dynamics-in-social-media-giants/"><u>Exploring the Group Dynamics in Social Media Giants</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-wisdom-with-toms-guided-reviews/"><u>Navigating Hardware Wisdom with Tom's Guided Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-the-authoritative-guide-by-toms-hardware/"><u>Navigating Tech Trends: The Authoritative Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimal-high-speed-and-high-capacity-usb-storage-devices/"><u>Optimal High-Speed and High-Capacity USB Storage Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-deepcool-assassin-4s-c6-silent-power-and-efficiency-in-cryptocurrency-mining/"><u>Review of DeepCool Assassin 4S C6 - Silent Power & Efficiency in Cryptocurrency Mining</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solutions-to-combat-elephant-foot-in-your-3d-printed-creations/"><u>Solutions to Combat Elephant Foot in Your 3D Printed Creations</u></a></li>
+</ul></div>
+

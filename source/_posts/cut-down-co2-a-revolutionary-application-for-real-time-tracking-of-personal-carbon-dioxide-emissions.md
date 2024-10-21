@@ -1,7 +1,7 @@
 ---
 title: "Cut Down CO2: A Revolutionary Application for Real-Time Tracking of Personal Carbon Dioxide Emissions"
-date: 2024-09-19 23:24:11
-updated: 2024-09-20 10:58:36
+date: 2024-10-18T02:08:04.038Z
+updated: 2024-10-20T17:10:35.066Z
 tags:
   - sustainability
 categories:
@@ -29,6 +29,13 @@ According to the app's creators, Zerofy aims to help people directly decrease th
 
 **Also:** [**Everything is moving to the cloud. But how green is it, really?**](https://www.zdnet.com/article/everything-is-moving-to-the-cloud-but-how-green-is-it-really/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Zerofy work?
 
 Zerofy collects several details about your lifestyle to pinpoint where and how you can decrease your carbon footprint. When you sign up for the app, it will ask you what your carbon emission goals are, what country, state, and zip code you reside in, your home type, your electricity type, and whether your house has solar panels.
@@ -44,6 +51,13 @@ In the "Actions" tab, Zerofy provides minor and major adjustments to your lifest
 **Also:** [**The best green phones: Sustainability and eco-friendly smartphones**](https://www.zdnet.com/home-and-office/sustainability/best-green-phone/)
 
 Zerofy also has a small shopping component, offering products that can help you limit your carbon emissions. Some of these products can connect to the Zerofy app to help track your carbon footprint.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Zerofy the future of personalized carbon tracking?
 
@@ -90,11 +104,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>[Updated] Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-instagrams-filter-features-for-high-quality-images/"><u>[Updated] Navigating Instagram's Filter Features for High-Quality Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>2024 Approved Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-create-shareable-memes-with-adobe-photoshop/"><u>2024 Approved Create Shareable Memes with Adobe Photoshop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fabulous-critique-and-diverse-suggestions/"><u>2024 Approved Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpt-coin-is-it-a-reliable-investment-or-just-another-scam/"><u>Exploring TruthGPT Coin - Is It a Reliable Investment or Just Another Scam?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-your-nfl-sunday-tickets-for-free-with-these-verizon-hacks/"><u>Get Your NFL Sunday Tickets for FREE with These Verizon Hacks!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-150-2023-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia 150 (2023) to Another | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-components-with-toms-expertise-in-hardware-selection/"><u>Mastering Computer Components with Tom’s Expertise in Hardware Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-trends-through-toms-hardware-guidance/"><u>Mastering Technology Trends Through Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-a-deep-dive-into-toms-hardware-resources/"><u>Mastering Technology: A Deep Dive Into Tom's Hardware Resources</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/moto-z2-play-smartphone-review-for-2024/"><u>MOTO Z2 Play Smartphone Review for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-components-with-toms-hardware-insights/"><u>Navigating the World of Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-guidance-from-toms-hardware-experts/"><u>Navigating the World of Gadgets: Guidance From Tom's Hardware Experts</u></a></li>
+</ul></div>
+

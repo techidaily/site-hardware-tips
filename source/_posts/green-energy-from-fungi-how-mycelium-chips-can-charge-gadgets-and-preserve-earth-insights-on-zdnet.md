@@ -1,7 +1,7 @@
 ---
 title: "Green Energy From Fungi: How Mycelium Chips Can Charge Gadgets & Preserve Earth - Insights on ZDNet"
-date: 2024-09-18 11:21:43
-updated: 2024-09-20 10:52:37
+date: 2024-10-13T23:44:10.709Z
+updated: 2024-10-21T01:40:47.372Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-selection-of-ps1-games-now-on-your-computer/"><u>[New] Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>[Updated] Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media-for-2024/"><u>A Stepwise Approach to Designing Powerful Edu-Vids on Social Media for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/beyond-the-norm-logitech-g533-reverberates-in-wireless-tech/"><u>Beyond the Norm: Logitech G533 Reverberates in Wireless Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-course-in-windows-preload-land/"><u>Charting Your Course in Windows Preload Land</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-motherboards-of-2024-a-comprehensive-guide-to-sockets-and-chipsets/"><u>Discover the Leading Gaming Motherboards of 2024: A Comprehensive Guide to Sockets & Chipsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/divine-floral-aroma-of-latest-innovative-heat-conductor/"><u>Divine Floral Aroma of Latest Innovative Heat Conductor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-eliminating-stringing-issues-in-your-3d-print-projects/"><u>Effective Solutions for Eliminating Stringing Issues in Your 3D Print Projects</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-se-2020-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone SE (2020) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-fixing-and-refreshing-your-3d-printers-filament-performance/"><u>Guide to Fixing and Refreshing Your 3D Printer's Filament Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-valkyrie-al125-cpu-air-cooler-premium-quality-rgb-led-lighting-and-bright-ips-screen-for-budget-under-20/"><u>High-Performance Valkyrie AL125 CPU Air Cooler: Premium Quality, RGB LED Lighting, and Bright IPS Screen for Budget Under $20</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-copyright-free-audio-treasury-for-gamers-online/"><u>In 2024, Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-frore-cooling-range-targeted-airjet-pak-freeze-intros-for-edge-computing-under-25w-power/"><u>Introducing the Frore Cooling Range: Targeted AirJet PAK Freeze Intros for Edge Computing Under 25W Power</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ey-to-digital-reach-the-complete-process-of-starting-a-youtube-channel/"><u>Journey to Digital Reach The Complete Process of Starting a YouTube Channel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-picks-for-premium-laser-engravers/"><u>Leading Picks for Premium Laser Engravers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-circuitry-on-toms-digital-workbench/"><u>Mastering Gadgets and Circuitry on Tom's Digital Workbench</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy A05 ?</u></a></li>
+</ul></div>
+

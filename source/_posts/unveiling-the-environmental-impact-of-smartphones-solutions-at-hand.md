@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Environmental Impact of Smartphones: Solutions at Hand"
-date: 2024-09-19 19:31:37
-updated: 2024-09-20 10:22:50
+date: 2024-10-19T23:13:11.737Z
+updated: 2024-10-21T05:52:13.498Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-techniques-for-unlinking-youtube-videos-from-devices/"><u>[New] Techniques for Unlinking YouTube Videos From Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-a-deep-dive-into-ideal-instagram-post-times/"><u>[Updated] 2024 Approved A Deep Dive Into Ideal Instagram Post Times</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-captivating-imagery-puzzles/"><u>2024 Approved Unveiling the Secrets of Captivating Imagery Puzzles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adata-reveals-dual-cooling-tower-tech-for-enhanced-performance-at-computex-exciting-news-on-next-gen-psus-and-pcie-50-storage/"><u>Adata Reveals Dual-Cooling Tower Tech for Enhanced Performance at Computex: Exciting News on Next-Gen PSUs & PCIe 5.0 Storage!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-3dmakerpros-mole-3d-scanner-a-revolutionary-scanning-experience/"><u>Comprehensive Evaluation of 3DMakerPro's Mole 3D Scanner: A Revolutionary Scanning Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-geometric-future-eskimo-jr-impressive-appearance-and-low-noise-profile-with-limited-performance-features/"><u>Comprehensive Review of the Geometric Future Eskimo Jr.: Impressive Appearance and Low Noise Profile with Limited Performance Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-latest-lenovo-t420-drivers-on-your-windows-machine/"><u>Easy Installation of Latest Lenovo T420 Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175701717-experience-faster-pc-builds-with-corsairs-redesigned-screw-installing-in-just-a-single-turn/"><u>Experience Faster PC Builds with Corsair’s Redesigned Screw, Installing in Just a Single Turn!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-12-proplus-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme 12 Pro+ 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-ultimate-guide-to-downloading-youtube-on-ios/"><u>In 2024, Your Ultimate Guide to Downloading YouTube on iOS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187704-inside-look-at-toms-hardware-lineup-performance-value-and-more/"><u>Inside Look at Tom's Hardware Lineup – Performance, Value & More!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125258219-powerful-gamers-laptops-under-1k-top-picks-revealed/"><u>Powerful Gamers' Laptops Under 1K: Top Picks Revealed!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/taking-on-firestick-our-in-depth-look-at-the-chromecast-with-google-tv/"><u>Taking on Firestick? Our In-Depth Look at the Chromecast with Google TV</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-window-brighter-controls-the-ultimate-guide-for-multiscreen-enthusiasts/"><u>Top 6 Window Brighter Controls: The Ultimate Guide for Multiscreen Enthusiasts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/winning-the-battle-against-asus-pce-ac56-driver-errors-for-windows-10-8-and-7-your-step-by-step-fix/"><u>Winning the Battle Against ASUS PCE-AC56 Driver Errors for Windows 10, 8 & 7 – Your Step-by-Step Fix</u></a></li>
+</ul></div>
+

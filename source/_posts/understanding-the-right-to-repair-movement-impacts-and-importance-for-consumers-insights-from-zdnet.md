@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Right-to-Repair Movement: Impacts and Importance for Consumers - Insights From ZDNet"
-date: 2024-09-17 20:16:12
-updated: 2024-09-20 12:13:57
+date: 2024-10-19T19:45:53.582Z
+updated: 2024-10-21T02:21:33.863Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Image: Thanasis/Getty Images
 ## What is right to repair trying to solve?  
 
 When devices like phones, tablets and laptops are damaged or break down, it can often be very complicated and costly to get them fixed. It can mean going through a particular supplier nominated by the manufacturer, and often the fix is so expensive that it's easier to simply buy a new device. Fixing it yourself is nearly impossible because spare parts are very hard to come by -- as are the manuals and tools needed to fix even the simplest of problems -- or the components are glued in place.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -43,6 +50,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which states have right to repair laws?
 
 As seen on the map below, only two states have actually passed a right to repair law -- New York and Colorado. Each state's laws and protections are slightly different. 
@@ -59,9 +73,23 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
@@ -110,11 +138,33 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>[New] 2024 Approved The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-prime-10-terraria-game-enhancements/"><u>[Updated] In 2024, Prime 10 Terraria Game Enhancements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-creating-stellar-content-for-facebook-stories-for-2024/"><u>[Updated] Step-by-Step Creating Stellar Content for Facebook Stories for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-3d-printers-of-2-2024-premium-performance-at-wallet-friendly-prices/"><u>Best Value 3D Printers of 2지갈리 2024: Premium Performance at Wallet-Friendly Prices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 activation lock with a professional tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mousepad-roundup-for-players/"><u>Champion Mousepad Roundup for Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-realms-with-toms-pc-specs-and-insights/"><u>Delving Into Digital Realms with Tom's PC Specs & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diagnosing-and-repairing-unresponsive-3d-printer-beds-expert-tips-for-restoring-heat-functionality/"><u>Diagnosing and Repairing Unresponsive 3D Printer Beds - Expert Tips for Restoring Heat Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-at-toms-tech-hub/"><u>Discover Cutting-Edge Hardware at Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-a-cool-experience-discover-the-revolutionary-sporty-active-chillers-by-frore-the-innovative-underwater-friendly-fanless-airjet-mini/"><u>Dive Into a Cool Experience - Discover the Revolutionary Sporty Active Chillers by Frore: The Innovative Underwater Friendly, Fanless AirJet Mini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-the-sweet-smell-of-success-with-our-newly-formulated-thermal-gel/"><u>Embrace the Sweet Smell of Success with Our Newly Formulated Thermal Gel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-from-toms-gear-analysis/"><u>Expert Insights on Electronics From Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-felicia-days-collection-of-downloadable-3d-printer-add-ons-on-thangs-platform/"><u>Explore Felicia Day's Collection of Downloadable 3D Printer Add-Ons on Thangs Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-tech-insights-toms-hardware/"><u>Exploring Computer Components with Tom's Tech Insights 🖥️ | Tom's Hardware</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-90-gt-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 90 GT FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streamlining-your-way-to-high-quality-android-recordings/"><u>In 2024, Streamlining Your Way to High-Quality Android Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/toolwiz-evaluation-the-top-choice-in-mobile-editing/"><u>Toolwiz Evaluation The Top Choice in Mobile Editing?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-successful-installation-of-windows-10-update-kb4n80323/"><u>Troubleshooting Steps for Successful Installation of Windows 10 Update KB4n80323</u></a></li>
+</ul></div>
+

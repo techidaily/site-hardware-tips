@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Great Reshuffle: Exploring Green Skills & Jobs in LinkedIn's Landscape - Insights From ZDNet"
-date: 2024-09-19 19:12:12
-updated: 2024-09-20 10:46:46
+date: 2024-10-20T03:05:58.795Z
+updated: 2024-10-20T22:07:06.168Z
 tags:
   - sustainability
 categories:
@@ -65,6 +65,13 @@ LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### see also
 
 [Want to attract new tech talent? Start thinking green Getting more young people into technology will require businesses to start thinking about the kind of company they want to be.  Read now](https://www.zdnet.com/article/want-to-attract-new-tech-talent-start-thinking-green/)
@@ -82,6 +89,13 @@ Fourth, the fastest-growing green skills are both mainstream and emerging. Some 
 And several of the fastest-growing green skills across all sectors during the same time period were not necessarily in-demand skills but suggested the emergence of new trends, including Sustainable Fashion, Oil Spill Response and Sustainable Business Strategies, among others.
 
 LinkedIn's data are a great source to derive insights from. LinkedIn's report is quite comprehensive, as it does not just offer data-driven insights but also dives into specific case studies, identifies trends blocking an equitable transition for workers and a sustainable transition for the planet, and lays out an action plan with recommendations for policymakers, business leaders and the global workforce.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taxonomies are the duct tape of connected data - green ones, too
 
@@ -105,9 +119,23 @@ It includes 381 skills, 185 knowledge concepts and 5 transversal skills consider
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are green skills driving sustainable change in the European automotive industry?
 
 Another example of the fact that even data-driven analysis is often not as clear-cut as it seems is LinkedIn's reference to how green skills are driving sustainable change in the European automotive industry. LinkedIn notes that the move to electric is reshaping the talent profile of the automotive industry, and the need for innovation to cut emissions has influenced a sustained technological change in the European automotive industry.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -149,11 +177,28 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-top-speed-solutions-for-sluggish-android-videos-for-2024/"><u>[New] Top Speed Solutions for Sluggish Android Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transform-your-online-image-top-9-insights-for-insta-stardom-for-2024/"><u>[New] Transform Your Online Image Top 9 Insights for Insta Stardom for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora/"><u>[Updated] In 2024, Seamless Video Editing Turning AVI Into Easily Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-saving-smiles-the-step-by-step-guide-to-downloading-tweets-animated-images-for-2024/"><u>[Updated] Saving Smiles The Step-by-Step Guide to Downloading Tweets’ Animated Images for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-streamline-your-social-experience-with-mobile-music-files/"><u>[Updated] Streamline Your Social Experience with Mobile Music Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/corsair-air-a115-evaluation-is-the-high-price-justified-by-its-quietness-and-durability/"><u>Corsair Air A115 Evaluation: Is the High Price Justified by Its Quietness and Durability?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-tech-mysteries-insightful-articles-from-toms-hardware-blog/"><u>Deciphering Tech Mysteries: Insightful Articles From Tom’s Hardware Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-avoiding-knots-in-your-3d-printing-filaments/"><u>Effective Strategies for Avoiding Knots in Your 3D Printing Filaments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-audio-drivers-in-ws11/"><u>Efficiently Managing Audio Drivers in WS11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-technology-by-tom-hardware-experts/"><u>Expert Insights Into Technology by Tom Hardware Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-diablo-immortal-pc-game-crash-issues-ultimate-troubleshooting-tips/"><u>Resolve Your Diablo Immortal PC Game Crash Issues: Ultimate Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-bad-image-errors-a-guide-to-correcting-side-by-side-configuration-issues-on-windows-10/"><u>Resolving ‘Bad Image’ Errors: A Guide to Correcting Side-By-Side Configuration Issues on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175723533-the-ultimate-guide-to-hardware-by-tom-informed-choices-await/"><u>The Ultimate Guide to Hardware by Tom - Informed Choices Await</u></a></li>
+</ul></div>
+

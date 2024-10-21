@@ -1,7 +1,7 @@
 ---
 title: Top Tech CEOs Create SustainableIT.org Platform for Combating Climate Crisis | Detailed Analysis by ZDNET
-date: 2024-09-18 17:50:17
-updated: 2024-09-20 11:20:45
+date: 2024-10-20T05:55:33.206Z
+updated: 2024-10-20T23:00:11.321Z
 tags:
   - sustainability
 categories:
@@ -80,11 +80,38 @@ As part of its mandate, SustainableIT.org will define sustainable transformation
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleashing-vintage-charm-filters-for-existing-media-on-ig/"><u>[New] 2024 Approved Unleashing Vintage Charm Filters for Existing Media on IG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-vr-movie-might-change-the-world/"><u>2024 Approved How VR Movie Might Change the World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/brave-move-alerting-owners-anycubic-3d-printing-devices-targeted-in-cybersecurity-breach/"><u>Brave Move Alerting Owners: Anycubic 3D Printing Devices Targeted in Cybersecurity Breach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-your-dream-pc-with-simplicity-using-hytes-nexus-link-big-screen-cooling-unit-and-effortless-assembly/"><u>Build Your Dream PC With Simplicity Using Hyte’s Nexus Link – Big-Screen Cooling Unit & Effortless Assembly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-the-experts-at-toms-tech/"><u>Comprehensive Hardware Guides by the Experts at Tom’s Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-insights-by-toms-tech-site/"><u>Comprehensive Hardware Insights by Tom's Tech Site</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-toms-expert-guides-and-comprehensive-tests/"><u>Dive Into Hardware with Tom's Expert Guides and Comprehensive Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-toms-hardware-wisdom-for-cutting-edge-devices/"><u>Dive Into Tom's Hardware Wisdom for Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-fixes-for-a-clogged-3d-printer-nozzle-a-comprehensive-walkthrough/"><u>Easy Fixes for a Clogged 3D Printer Nozzle: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-ways-to-monitor-and-manage-your-internet-consumption/"><u>Efficient Ways to Monitor and Manage Your Internet Consumption</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-downloads-and-updates-for-lenovo-thinkpad-t-series-including-t500/"><u>Effortless Driver Downloads and Updates for Lenovo ThinkPad T Series, Including T500</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-reimagined-expert-review-on-apple-ipad-air-2019-a-true-multimedia-marvel/"><u>Experience Reimagined: Expert Review on Apple iPad Air (2019) – A True Multimedia Marvel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flavor-meets-functionality-the-invention-of-3d-printed-edible-qr-code-treats/"><u>Flavor Meets Functionality: The Invention of 3D-Printed, Edible QR Code Treats</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-for-your-money-with-the-budget-friendly-fitbit-versa-lite-a-comprehensive-guide/"><u>Get More for Your Money with the Budget-Friendly Fitbit Versa Lite: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-safelist-email-addresses/"><u>How to Safelist Email Addresses</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-driver-verifier-detected-violation-bluescreen-woes-on-your-windows-10-pc-fixed/"><u>Resolving Driver Verifier Detected Violation Bluescreen Woes on Your Windows 10 PC - Fixed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

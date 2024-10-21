@@ -1,7 +1,7 @@
 ---
 title: Efficiently Power Your Entire House with EcoFlow's Portable Battery - A Lifesaver During Blackouts
-date: 2024-09-19 21:23:43
-updated: 2024-09-20 10:59:53
+date: 2024-10-18T03:21:38.205Z
+updated: 2024-10-20T20:59:17.617Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd25d2dd1-1a4f-4847-93ce-3d630ced7a04%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd25d2dd1-1a4f-4847-93ce-3d630ced7a04%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,25 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-adventure-worlds-unleashed-excluding-gta-v/"><u>[New] Adventure Worlds Unleashed (Excluding GTA V)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-pick-processors-specially-engineered-for-powerhouse-computing-stations/"><u>2024'S Top Pick: Processors Specially Engineered for Powerhouse Computing Stations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breaking-news-the-anticipated-launch-of-it-takes-two-is-now-live/"><u>Breaking News: The Anticipated Launch of 'It Takes Two' Is Now Live!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/computex-showcase-highlights-adatas-breakthrough-hybrid-cooling-system-future-unveiling-of-powerful-psus-and-fast-pcie-ssds/"><u>Computex Showcase Highlights Adata's Breakthrough Hybrid Cooling System - Future Unveiling of Powerful PSUs and Fast PCIe SSDs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-epson-wf-2650-printer-software-for-windows-users/"><u>Easy Installation Guide: Epson WF-2650 Printer Software for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone? | Stellar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175696978-hytes-nexus-link-unveiled-revolutionize-your-build-with-magnetic-fans-and-a-giant-screen-aio-cooler/"><u>Hyte's Nexus Link Unveiled - Revolutionize Your Build with Magnetic Fans and a Giant Screen AIO Cooler!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restarting-audio-communication-repair-tips-for-the-steelseries-arctis-1-mic-problem/"><u>Restarting Audio Communication: Repair Tips for the SteelSeries Arctis 1 Mic Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-expertise/"><u>Unveiling the Latest in PC Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100t-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100t Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727739-why-the-id-cooling-fx360-pro-is-your-best-bet-for-adequate-cooling-under-60/"><u>Why the ID-Cooling FX360 Pro Is Your Best Bet for Adequate Cooling Under $60!</u></a></li>
+</ul></div>
+

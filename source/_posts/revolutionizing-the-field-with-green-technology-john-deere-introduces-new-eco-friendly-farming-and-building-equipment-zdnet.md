@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing the Field with Green Technology: John Deere Introduces New Eco-Friendly Farming and Building Equipment - ZDNet"
-date: 2024-09-18 19:45:25
-updated: 2024-09-20 10:40:20
+date: 2024-10-18T01:42:51.959Z
+updated: 2024-10-20T17:52:44.709Z
 tags:
   - sustainability
 categories:
@@ -45,9 +45,23 @@ With ExactShot, John Deere says it hopes to help address issues like sustainabil
 
 Jahmy Hindman, John Deere's CTO, said during the keynote address that, across the US, farmers use about 140 million gallons of starter fertilizer every year at the beginning of the crop season. ExactShot can decrease the amount to 93 million gallons. Its technology distributes fertilizer directly to the seeds instead of administering extra fertilizer to a row of seeds. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## See and Spray Ultimate
 
 Last year, John Deere announced an upgrade to the original See and Spray technology: See and Spray Ultimate. See and Spray Ultimate targets weeds that lie in corn, soybean and cotton plants, releasing herbicides with precision to kill the weeds without harming benign crops and greenery.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -64,11 +78,31 @@ Hindman said that farmers across the US use 23 million gallons of herbicide annu
 
 See and Spray Ultimate has 126 cameras capable of capturing 1.6 billion pixels. The cameras are ultra-rugged and built for rough terrain and harsh weather conditions. The sprayer's body is embedded with 10 advanced computing processors that can process up to four gigabytes of data per second.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Electric excavator 
 
 A [Kreisel battery](https://www.kreiselelectric.com/) powers the electric excavator, increasing the machine's efficiency. As a result, the excavator promises lower operating costs, reduced noise, more reliability, and no emissions on construction sites. 
 
 Kreisel electric charging technology also promises decreased cost connections and electrical burdens on the electrical grid. Electric machines reduce noise pollution caused by heavy construction machinery and decrease combustion emissions in urban areas.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Biofuels, electrification, autonomy, and cloud computing
 
@@ -109,11 +143,25 @@ With this data, farmers can create digital twins of their farms to see which cro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-undead-universe-discover-the-top-8-zombie-games/"><u>[Updated] 2024 Approved Undead Universe Discover the Top 8 Zombie Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-take-your-photography-to-new-heights-with-lightrooms-hdr-capabilities/"><u>2024 Approved Take Your Photography to New Heights with Lightroom’s HDR Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-quality-high-definition-8k-phrozens-sonic-mini-s-resin-3d-printer-now-only-325/"><u>Affordable Quality: High Definition 8K Phrozen's Sonic Mini S Resin 3D Printer Now Only $325</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-a1-3d-printing-mishap-tiktok-accidentally-offers-reimbursement-for-non-defective-and-hazardous-models/"><u>Bambu Lab A1 3D Printing Mishap: TikTok Accidentally Offers Reimbursement for Non-Defective and Hazardous Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-nas-solutions-optimize-your-digital-space-with-reliable-storage-drives/"><u>Best NAS Solutions: Optimize Your Digital Space with Reliable Storage Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-anycubic-kobra-3-multicolor-printer-analysis/"><u>Comprehensive Anycubic Kobra 3 Multicolor Printer Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-moto-g84-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Moto G84 5G.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-interruptions-in-bluetooth-connections-on-windows-11-computers/"><u>How to Resolve Audio Interruptions in Bluetooth Connections on Windows 11 Computers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-off-facebook-activity-expose-is-it-worth-the-scrutiny/"><u>In 2024, Off-Facebook Activity Exposé - Is It Worth The Scrutiny?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/making-memories-sing-visual-plus-auditory-blend-for-2024/"><u>Making Memories Sing Visual + Auditory Blend for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-learning-a-curated-selection-of-the-9-most-important-tech-items-for-school-goers/"><u>Transforming Learning: A Curated Selection of the 9 Most Important Tech Items for School-Goers</u></a></li>
+</ul></div>
+

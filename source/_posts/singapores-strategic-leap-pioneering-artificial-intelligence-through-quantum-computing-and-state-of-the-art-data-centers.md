@@ -1,7 +1,7 @@
 ---
 title: "Singapore's Strategic Leap: Pioneering Artificial Intelligence Through Quantum Computing and State-of-the-Art Data Centers"
-date: 2024-09-17 14:51:10
-updated: 2024-09-20 10:27:44
+date: 2024-10-13T16:37:11.288Z
+updated: 2024-10-20T23:44:43.269Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,29 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/mplify-content-reach-essential-strategies-to-skyrocket-views/"><u>[New] Amplify Content Reach Essential Strategies to Skyrocket Views</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-soldering-irons-and-workstations-reviewed/"><u>2024'S Most Effective Soldering Irons and Workstations Reviewed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 Plus to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-boost-creativity-with-free-audio-effects-online/"><u>In 2024, Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-gt-5-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme GT 5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125260405-the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerful-overclocking-cooler-masters-advanced-aio-and-air-coolers-surpass-300w-heat-dissipation/"><u>Unleash Powerful Overclocking: Cooler Master's Advanced AIO & Air Coolers Surpass 300W Heat Dissipation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-hardware-secrets-with-tom-a-buyers-resource-for-technology-gear/"><u>Unlocking Hardware Secrets with Tom: A Buyer's Resource for Technology Gear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-todays-nyt-brain-teasers-hints-and-answers-for-august-7-422-a-deep-dive/"><u>Unlocking Today's NYT Brain Teasers: Hints and Answers for August 7 (#422) - A Deep Dive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-wisdom/"><u>Unveiling the Latest Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-insights/"><u>Unveiling the Latest Gadgets with Tom's Technology Insights</u></a></li>
+</ul></div>
+

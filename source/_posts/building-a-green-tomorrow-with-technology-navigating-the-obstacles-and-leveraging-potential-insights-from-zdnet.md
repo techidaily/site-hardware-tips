@@ -1,7 +1,7 @@
 ---
 title: "Building a Green Tomorrow with Technology: Navigating the Obstacles & Leveraging Potential - Insights From ZDNet"
-date: 2024-09-19 16:37:19
-updated: 2024-09-20 12:50:54
+date: 2024-10-14T23:23:25.105Z
+updated: 2024-10-21T03:07:56.706Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ Are we smart enough to deploy technology more effectively to help create a more 
 
 These are the main questions covered, from various angles, in this ZDNET in-depth special report. In the meantime, here's some more context. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is the fate of technological civilizations? 
 
 In his excellent and accessible 2018 book [_Light of the Stars_](https://www.adamfrankscience.com/light-of-the-stars), Adam Frank, a [professor of astrophysics](http://www.pas.rochester.edu/people/faculty/frank%5Fadam/index.html) at the University of Rochester, describes a mathematical model of how theoretical technological civilizations might respond to changing conditions on their planets. For simplicity, the model includes just two kinds of energy resources -- one with high planetary impact (like fossil fuels), the other with low impact (like solar energy). At some point, rising planetary temperature causes a civilization to switch energy resources from high to low impact, and the model explores various outcomes for the planet's capacity to support a population of the energy-consuming species. 
@@ -50,6 +57,13 @@ After running multiple simulations, three kinds of trajectory were observed: 'di
 Of course, we don't know which, if any, of these trajectories Earth and its human population might follow (although high-resolution [next-generation climate models](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-modelling.pdf) based on[exascale computing](https://www.zdnet.com/article/this-giant-supercomputer-dominates-the-rankings-and-catching-it-will-take-a-lot-of-work/) will help), but the warning signs are there, and it would certainly be wise to avoid dicing with the tipping points that can lead to full-blown collapse.
 
 However, global emissions are still too high: the IPCC estimates that 410 gigatonnes of CO2 were emitted between 2010 and 2019, leaving a 'carbon budget' of just 500GtCO2 for the remainder of the 21st century to limit global warming to 1.5°C. As of [November 2022](https://climateactiontracker.org/publications/massive-gas-expansion-risks-overtaking-positive-climate-policies/), global temperatures were about 1.2°C above pre-industrial levels and heading for 2.4°C by 2100 under current 2030 targets.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How does technology contribute to climate change? 
 
@@ -68,6 +82,13 @@ Further efforts will clearly be required to reduce the environmental footprint o
 The think tank's second report concentrated on online video, which, it estimated, generated 60% of world data flows and 300 million tons of CO2 in 2019, or 1% of global emissions. Four main types of online video content were identified: video on demand (e.g. Netflix, Amazon Prime, 34%); pornography (27%), 'Tubes' (e.g. YouTube, Dailymotion, 21%); and others (e.g. video hosted on social networks, 18%). Mitigating the environmental impact of online video would mean reducing the use and size of video files, and regulation of different types of usage, the report argued.
 
 A key component of any sustainable digital transition will be a move to a more [circular economy](https://en.wikipedia.org/wiki/Circular%5Feconomy), where instead of manufacturing, using, disposing of and replacing tech products, device lifetimes are extended via [repair](https://repair.eu/about/), refurbishment and reuse, and component materials re-enter the (ideally closed-loop) process via recycling rather than becoming [e-waste](https://weee-forum.org/who-we-are/) and going to landfill, causing pollution and requiring replacement minerals and metals to be extracted (resulting in further environmental damage). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are companies doing to improve sustainability? 
 
@@ -132,6 +153,13 @@ Image: HP
 
 Then there are smaller vendors such as [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/), which specialise in modular phones and laptops respectively. There's also a growing market for refurbished PCs, with a [2021 valuation](https://www.marketresearch.com/QYResearch-Group-v3531/Global-Refurbished-PC-Research-14240533/) of $9.34 billion, rising to an estimated $14.76bn (6.8% CAGR) by the end of 2027\. We should always be wary of [greenwashing](https://en.wikipedia.org/wiki/Greenwashing), of course, but it does seem as though technology companies are now paying a lot more than lip service to the environment.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The road ahead
 
 As the world's population heads towards 10 billion-plus in 2100, the window of opportunity for limiting global warming to 1.5°C, per the 2015 Paris Agreement, is closing rapidly. Technology has contributed significantly to global warming over the past 50-plus years, but tech companies are increasingly signing up for verifiable, science-based emission-reduction targets, and embracing sustainable and recycled materials, designing more modular and repairable products, and pledging to minimize e-waste. Innovation in areas like carbon capture, renewable energy, battery technology, the Internet of Things, and remote sensing will also have a big part to play in climate mitigation going forward.
@@ -161,11 +189,28 @@ News on climate change can seem relentlessly bad, but there are grounds for hope
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-bridal-collection-premium-wedding-cinematography-on-youtube-and-vimeo/"><u>[New] 2024 Approved The Ultimate Bridal Collection Premium Wedding Cinematography on YouTube & Vimeo</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-essential-guide-to-twitters-video-converters/"><u>[Updated] The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximize-your-relaxation-with-asmr-apps/"><u>2024 Approved Maximize Your Relaxation with ASMR Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools-for-2024/"><u>Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgets-and-components-toms-detailed-insights-and-rating-guide/"><u>Gadgets and Components: Tom's Detailed Insights & Rating Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-value-playbook-unveiling-the-best-and-most-cost-effective-gaming-gpus-of-2024/"><u>Gamers' Value Playbook: Unveiling the Best and Most Cost-Effective Gaming GPUs of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ahead-of-intel-optimize-for-the-upcoming-arrow-lake-processors-with-arctic-freezer-36-coolers/"><u>Get Ahead of Intel: Optimize for the Upcoming Arrow Lake Processors with Arctic Freezer 36 Coolers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>In 2024, A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-upgrade-how-teamgroups-newly-magnetized-t-force-siren-line-revolutionizes-easy-custom-pc-construction/"><u>Innovative Upgrade: How TeamGroup's Newly Magnetized T-Force Siren Line Revolutionizes Easy Custom PC Construction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-the-comprehensive-guide-from-toms-hardware/"><u>Mastering Technology Choices - The Comprehensive Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-froreamoors-your-new-go-to-for-a-submersible-sport-cooler-featuring-waterproof-and-fanless-active-cooling-technology/"><u>Meet Frore'amoors: Your New Go-To for a Submersible Sport Cooler Featuring Waterproof and Fanless Active Cooling Technology</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/multitask-mastery-in-media-co-watching-channels-with-ease/"><u>Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/nas-systeme-effizient-sichern-professionelle-tipps-und-bewahrte-verfahren-fur-die-datenwiederherstellung/"><u>NAS-Systeme Effizient Sichern: Professionelle Tipps Und Bewährte Verfahren Für Die Datenwiederherstellung</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-elevated-local-disk-usage-by-system-files-on-windows-hiberfilsys-and-pagefilesys-explained/"><u>Resolving Elevated Local Disk Usage by System Files on Windows - hiberfil.sys and Pagefile.sys Explained</u></a></li>
+</ul></div>
+

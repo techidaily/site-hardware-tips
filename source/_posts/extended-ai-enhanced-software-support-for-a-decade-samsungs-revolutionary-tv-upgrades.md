@@ -1,7 +1,7 @@
 ---
 title: Extended AI-Enhanced Software Support for a Decade - Samsung's Revolutionary TV Upgrades
-date: 2024-10-12T16:01:55.536Z
-updated: 2024-10-15T16:30:26.850Z
+date: 2024-10-17T16:17:57.376Z
+updated: 2024-10-20T22:07:12.251Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,22 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtubes-celebrated-click-it-achievements/"><u>[New] In 2024, YouTube's Celebrated Click-It Achievements</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-supercharge-your-social-media-experience-with-the-best-chrome-vids-extensions-for-2024/"><u>[New] Supercharge Your Social Media Experience with the Best Chrome Vids Extensions for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-content-for-more-subscribers/"><u>[Updated] In 2024, Mastering Content for More Subscribers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>2024 Approved Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-electronics-and-software-by-the-team-at-toms-hardware/"><u>Expert Advice on Electronics & Software by the Team at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-potential-of-3d-imaging-with-3dmakerpros-mole-a-detailed-assessment-for-tech-enthusiasts/"><u>Explore the Potential of 3D Imaging with 3DMakerPro's Mole - A Detailed Assessment for Tech Enthusiasts.</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>In 2024, Pathway Guide Acquiring Movie Maker 6 on Your System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-15-pro-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 15 Pro and Android Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-gmail-recognizing-when-someone-has-opened-your-message/"><u>Mastering Gmail: Recognizing When Someone Has Opened Your Message</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigate the World of Technology with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premium-choice-of-powered-compact-and-usb-type-c-hubs-for-optimal-connectivity/"><u>Premium Choice of Powered, Compact & USB Type-C Hubs for Optimal Connectivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175690926-scorching-summer-no-more-invest-in-high-value-air-cooling-for-less-the-thermalight-spirit-phantom-120-se-at-a-sensational-35/"><u>Scorching Summer No More: Invest in High-Value Air Cooling for Less! The Thermalight Spirit Phantom 120 SE at a Sensational $35</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-poco-x6-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Poco X6 Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-latest-evolution-of-noctuas-nh-d15-g2-series-advanced-offset-layout-and-improved-acoustic-profile-with-additional-heatpipes/"><u>The Latest Evolution of Noctua's NH-D15 G2 Series - Advanced Offset Layout & Improved Acoustic Profile with Additional Heatpipes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-by-toms-team/"><u>The Ultimate Resource for Hardware Enthusiasts by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analyses-and-performance-benchmarks/"><u>Tom's Tech Reviews: In-Depth Analyses and Performance Benchmarks</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-guide-to-screen-recording-during-presentations-via-powerpoint/"><u>Ultimate Guide to Screen Recording During Presentations via PowerPoint</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-adding-mp4-files-from-windows-movie-maker-onto-vimeo/"><u>[Updated] 2024 Approved Tips for Adding MP4 Files From Windows Movie Maker Onto Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture/"><u>2024 Approved Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-youtube-conversion-the-ultimate-4k-guide/"><u>2024 Approved Mastering YouTube Conversion The Ultimate 4K Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-story-blueprints-across-8-movie-sectors/"><u>2024 Approved Ultimate Story Blueprints Across 8 Movie Sectors</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125187993-affordable-phrozen-sonic-mini-8k-ss-resin-3d-printer-now-just-325/"><u>Affordable Phrozen Sonic Mini 8K sS Resin 3D Printer Now Just $325</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-3d-printer-sales-get-the-best-value/"><u>Budget-Friendly Premium 3D Printer Sales : Get the Best Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-scythes-mugen-6-and-6-black-edition-silent-effective-chilling-solutions-for-an-affordable-cost/"><u>Comprehensive Review of Scythe's Mugen #6 & #6 Black Edition: Silent, Effective Chilling Solutions for an Affordable Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-performance-and-value-of-scythe-mugen-series-the-mugen-6-and-its-enhanced-black-variant/"><u>Exploring the Performance and Value of Scythe Mugen Series - The Mugen 6 and Its Enhanced Black Variant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175697430-fragrant-freshness-discover-the-unexpected-scent-of-premium-computer-thermal-paste/"><u>Fragrant Freshness: Discover the Unexpected Scent of Premium Computer Thermal Paste!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-storage-solutions-leading-external-ssd-picks/"><u>Future-Proof Storage Solutions: Leading External SSD Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-highest-ranked-eleegoo-neptune-4-pro-3d-printer-for-a-steal-at-240-from-newegg/"><u>Get Your Hands on the Highest-Ranked Eleegoo Neptune 4 Pro 3D Printer for a Steal at $240 From Newegg!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-mechanics-of-llms-understanding-how-large-language-models-function/"><u>The Mechanics of LLMs: Understanding How Large Language Models Function</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-boosting-your-intel-based-imacs-capabilities/"><u>The Ultimate Guide to Boosting Your Intel-Based iMac's Capabilities</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-reno-9a-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo Reno 9A.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125168159-unveiling-the-future-of-fabrication-at-rapid-and-tct-2024-spotlight-on-cutting-edge-printers-materials-and-tech/"><u>Unveiling the Future of Fabrication at Rapid & TCT 2024: Spotlight on Cutting-Edge Printers, Materials & Tech!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/value-champion-in-cpu-coolers-how-the-id-cooling-frozn-a620-pro-se-sets-new-standards/"><u>Value Champion in CPU Coolers: How the Id-Cooling Frozn A620 PRO SE Sets New Standards</u></a></li>
 </ul></div>
 

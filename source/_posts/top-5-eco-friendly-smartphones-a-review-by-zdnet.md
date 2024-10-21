@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Eco-Friendly Smartphones : A Review by ZDNet"
-date: 2024-09-18 11:14:17
-updated: 2024-09-20 12:39:30
+date: 2024-10-16T20:39:42.958Z
+updated: 2024-10-21T01:21:08.462Z
 tags:
   - sustainability
 categories:
@@ -94,6 +94,13 @@ Cons
 * It doesn't ship to the US -- only available in Europe
 * It runs on Android 9
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fairphone 4
 
 #### Best certified sustainable green phone
@@ -121,6 +128,19 @@ Cons
 * No 5G coverage
 * Only operates on Android 10 -- can't use the latest Android 12
 * Only 64 GB of storage
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Teracube 2E
 
@@ -175,6 +195,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which eco-friendly phone is right for you?
 
 If you're loyal to a smartphone brand, the Apple and Samsung phones on this list are great options that don't require you to give up the smartphone experience you are used to. The Fairphone 4 is an excellent eco-conscious option with 5G speeds if you live in Europe. 
@@ -196,6 +223,13 @@ We looked at the usual name-brand smartphones as well as the not-so-conventional
 ## What makes a phone eco-friendly?
 
 Some of the eco-friendly aspects of a phone include recycled parts and packaging, how long a device lasts (so you don't have to keep getting a new one every few years and contribute to the e-waste problem), a company's carbon footprint from the phone's production to its shipping processes, and its energy usage. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why should my phone be sustainable?
 
@@ -232,11 +266,27 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-100-virtual-bicycle-escapades-to-experience/"><u>[New] Top 100 Virtual Bicycle Escapades to Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-naraka-bladepoint-crashing/"><u>[SOLVED] Naraka: Bladepoint Crashing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-clearer-captures-await-with-next-gen-tracker-tech/"><u>[Updated] 2024 Approved Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ideal-summertime-screens-top-10-family-vacay-movies/"><u>[Updated] 2024 Approved Ideal Summertime Screens Top 10 Family Vacay Movies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-depth-analysis-the-finesse-of-obs-recording-for-2024/"><u>[Updated] In-Depth Analysis The Finesse of OBS Recording for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enjoy-a-touch-of-heaven-fresh-and-floral-essence-in-modern-thermal-paste/"><u>Enjoy a Touch of Heaven: Fresh and Floral Essence in Modern Thermal Paste</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-a-breath-of-fresh-air-in-your-pc-the-alluring-floral-note-of-new-thermal-gel/"><u>Experience a Breath of Fresh Air in Your PC: The Alluring Floral Note of New Thermal Gel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-from-toms-technology-hub/"><u>Expert Hardware Insights From Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-computer-hardware-with-toms-guidance/"><u>Expert Insights Into Computer Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-hot-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V27 Pro</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-removing-images-from-your-icloud-without-affecting-your-iphone/"><u>Step-by-Step Tutorial: Removing Images From Your iCloud without Affecting Your iPhone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Edge 40 | Dr.fone</u></a></li>
+</ul></div>
+

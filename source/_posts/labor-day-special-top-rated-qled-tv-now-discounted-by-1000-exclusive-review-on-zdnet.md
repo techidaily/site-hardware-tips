@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Special: Top-Rated QLED TV Now Discounted by $1,000 - Exclusive Review on ZDNet"
-date: 2024-10-09T16:23:19.556Z
-updated: 2024-10-15T16:49:12.683Z
+date: 2024-10-15T03:27:03.521Z
+updated: 2024-10-20T21:38:00.166Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-best-5-webcams-with-mic/"><u>[New] Best 5 Webcams with Mic</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-games-effortlessly-with-nvidia/"><u>[Updated] In 2024, Capture Games Effortlessly with NVIDIA</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-windows-10-apps-and-games-to-explore-and-download/"><u>[Updated] Windows 10 Apps and Games to Explore and Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-yet-powerful-cpu-picks-expertly-tested-pcmag-insights/"><u>Affordable Yet Powerful CPU Picks , Expertly Tested - PCMag Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asmr-excellence-superior-performance-for-less-money-for-2024/"><u>ASMR Excellence Superior Performance for Less Money for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-the-significance-of-leaked-social-media-data/"><u>Deciphering the Significance of Leaked Social Media Data</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-smooth-gliding-visually-appealing-mouse-pads-of-2024/"><u>Discover the Finest Smooth-Gliding, Visually Appealing Mouse Pads of 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/enhanced-marketing-insights-with-the-cookiebot-platform/"><u>Enhanced Marketing Insights with the Cookiebot Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-equipment-with-toms-hardware-guides/"><u>Exploring Computer Equipment with Tom's Hardware Guides</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-meizu-21-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Meizu 21 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-choices-expertly-reviewed-filaments-for-3d-printers-in-eetings/"><u>Futureproof Choices: Expertly Reviewed Filaments for 3D Printers in Eetings</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-razr-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Razr 40 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-reveals-fix-for-persistent-cpu-stability-issues-overvolting-identified-as-primary-fault/"><u>Intel Reveals Fix for Persistent CPU Stability Issues: Overvolting Identified as Primary Fault</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/report-intel-cpus-in-laptops-face-critical-stability-issues-during-rigorous-testing-phases/"><u>Report: Intel CPUs in Laptops Face Critical Stability Issues During Rigorous Testing Phases</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/synchronized-screen-serenity-youtube-loops-on-television-for-2024/"><u>Synchronized Screen Serenity YouTube Loops on Television for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-best-curved-gaming-displays-of-2n24/"><u>Top-Ranked Best Curved Gaming Displays of 2N24</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-razer-man-o-war-mic-heres-the-solution/"><u>Trouble with Your Razer Man O' War Mic? Here's the Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-high-performance-pcs-with-toms-hardware-insights/"><u>Unlocking High-Performance PCs with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-hardware-guide/"><u>Unveiling the Latest in Electronics with Tom's Hardware Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quantifying-a-days-video-consumption-in-gb/"><u>2024 Approved Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-healthy-habits-structured-goals-with-chatgpt/"><u>AI-Assisted Healthy Habits: Structured Goals with ChatGPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-ultimate-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Ultimate Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immediate-aspect-alteration-assistant/"><u>In 2024, Immediate Aspect Alteration Assistant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cooling-tech-with-the-thermalright-phantom-spirit-120-evo-an-in-depth-review/"><u>Mastering Cooling Tech with the Thermalright Phantom Spirit 120 EVO - An In-Depth Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-and-tricks-from-toms-hardware-experts/"><u>Navigating the World of Electronics: Tips and Tricks From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-stunning-videos-top-3-4k8k-editing-software-2024/"><u>New Unleash Stunning Videos Top 3 4K/8K Editing Software 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-picture-pro-the-best-phones-for-uncompromised-4k-video-quality/"><u>Perfect Picture Pro The Best Phones for Uncompromised 4K Video Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-on-toms-technology-blog/"><u>The Ultimate Guide to Computer Components on Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-gadgets-insights-from-toms-equipment-hub/"><u>Unveiling Top-Notch Gadgets: Insights From Tom's Equipment Hub</u></a></li>
 </ul></div>
 

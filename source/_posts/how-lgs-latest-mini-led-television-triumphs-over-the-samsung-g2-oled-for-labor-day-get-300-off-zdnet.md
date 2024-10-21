@@ -1,7 +1,7 @@
 ---
 title: How LG's Latest Mini LED Television Triumphs Over the Samsung G2 OLED for Labor Day – Get $300 Off | ZDNET
-date: 2024-10-11T16:29:45.869Z
-updated: 2024-10-15T16:45:57.274Z
+date: 2024-10-18T21:40:03.298Z
+updated: 2024-10-21T00:29:54.955Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-strategic-visual-marketing-top-10-ideas-to-amplify-your-instagram-presence/"><u>[New] 2024 Approved Strategic Visual Marketing Top 10 Ideas to Amplify Your Instagram Presence</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-x-professional-audio-toolkit-personal-computing/"><u>[New] X-Professional Audio Toolkit, Personal Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-inserting-tracks-in-youtube-playlists/"><u>[Updated] Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/avoid-losing-memories-how-to-securely-recover-files-from-an-iphones-factory-reset/"><u>Avoid Losing Memories: How to Securely Recover Files From an iPhones Factory Reset</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287583307-batch-video-conversion-mastery-a-step-by-step-guide-using-handbrake/"><u>Batch Video Conversion Mastery: A Step-by-Step Guide Using HandBrake</u></a></li>
-<li><a href="https://win-updates.techidaily.com/comparing-aomei-backupper-and-macrium-reflect-for-optimal-pc-backup-the-better-choice-revealed/"><u>Comparing AOMEI Backupper and Macrium Reflect for Optimal PC Backup - The Better Choice Revealed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dynamic-lighting-features-now-available-on-asus-motherboards-with-windows-11/"><u>Dynamic Lighting Features Now Available on Asus Motherboards with Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-protecting-electronics-from-scorching-heat/"><u>Effective Strategies for Protecting Electronics From Scorching Heat</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensuring-your-pc-is-prepared-a-guide-to-assessing-compatibility-with-new-graphics-cards/"><u>Ensuring Your PC Is Prepared: A Guide to Assessing Compatibility with New Graphics Cards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-logitech-keys-to-go-2-an-uncomplicated-yet-effective-upgrade/"><u>Evaluating the Logitech Keys-To-Go 2: An Uncomplicated, Yet Effective Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fixing-your-galaxy-device-just-got-more-challenging-what-you-need-to-know/"><u>Fixing Your Galaxy Device Just Got More Challenging: What You Need To Know</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-g310-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia G310 Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-using-air-tube-earbuds-a-worthy-choice-or-just-hype/"><u>Is Using Air Tube Earbuds a Worthy Choice or Just Hype?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/launch-of-amds-advanced-ryzen-9000-processor-range-shop-the-latest-series-today/"><u>Launch of AMD's Advanced Ryzen 9000 Processor Range – Shop the Latest Series Today!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimize-and-customize-adjusting-bios-configurations-for-windows-11-systems/"><u>Optimize and Customize: Adjusting BIOS Configurations for Windows 11 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-mac-mastering-screen-recording-via-shortcuts/"><u>[New] Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-macscreens-how-to-record-and-save-immediately/"><u>[New] Unlocking MacScreens How to Record and Save Immediately</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-layers-intricate-analysis-of-vegas-pro-21/"><u>[New] Unveiling the Layers Intricate Analysis of Vegas Pro '21</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>[Updated] The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-grayed-out-icloud-settings-on-your-iphone-or-ipad/"><u>4 Ways to Fix Grayed Out iCloud Settings on Your iPhone or iPad</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-huge-savings-upgrade-to-a-new-price-of-just-80-on-elegoo-neptone-3plus/"><u>Get Huge Savings: Upgrade to a New Price of Just $80 on Elegoo Neptone 3+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-tech-world-toms-hardware-analysis-explained/"><u>Mastering the Tech World: Tom's Hardware Analysis Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-top-notch-hardware-tips-from-tom/"><u>Navigating the Tech World: Top-Notch Hardware Tips From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skyrocket-your-cpus-potential-with-our-high-tech-ai-generated-and-tested-liquid-nitrogen-canister-outperforms-standard-pots-by-300/"><u>Skyrocket Your CPU's Potential with Our High-Tech, AI-Generated & Tested Liquid Nitrogen Canister – Outperforms Standard Pots by 300%</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tricks-for-keeping-your-macbook-active-even-with-its-lid-shut/"><u>Tricks for Keeping Your MacBook Active Even With Its Lid Shut</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-arctic-liquid-freezer-iii-compatibility-could-your-intel-processor-be-at-risk-custom-contact-recommended/"><u>Understanding Arctic Liquid Freezer III Compatibility: Could Your Intel Processor Be at Risk? Custom Contact Recommended.</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unleashing-creativity-in-discord-our-top-picks-of-free-voice-transformers/"><u>Unleashing Creativity in Discord Our Top Picks of Free Voice Transformers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-electronics-on-toms-digital-platform/"><u>Unveiling New Electronics on Tom's Digital Platform</u></a></li>
 </ul></div>
 

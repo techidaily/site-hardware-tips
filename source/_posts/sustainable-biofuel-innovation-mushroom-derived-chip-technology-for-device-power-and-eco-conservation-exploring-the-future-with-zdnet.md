@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Biofuel Innovation: Mushroom-Derived Chip Technology for Device Power & Eco Conservation | Exploring the Future with ZDNET"
-date: 2024-09-18 23:50:50
-updated: 2024-09-20 11:41:54
+date: 2024-10-18T05:02:08.196Z
+updated: 2024-10-21T04:09:32.312Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-rectify-facebook-video-playback-issues-chrome-for-2024/"><u>[New] Rectify Facebook Video Playback Issues (Chrome) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fine-tune-your-videos-mood-with-custom-sound-design-for-2024/"><u>[Updated] Fine-Tune Your Video's Mood with Custom Sound Design for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-androids-fastest-vid-tuning-tools-reviewed/"><u>2024 Approved Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-joy-of-mobile-podcasts/"><u>Discover the Joy of Mobile Podcasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/engaging-stem-kits-for-kids-master-programming-skills-with-fun-filled-robot-toys/"><u>Engaging STEM Kits for Kids: Master Programming Skills with Fun-Filled Robot Toys</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-principles-of-3d-model-design-a-top-5-guide/"><u>Essential Principles of 3D Model Design: A Top 5 Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-how-to-stop-your-3d-printer-filament-from-getting-twisted-up/"><u>Expert Advice on How to Stop Your 3D Printer Filament From Getting Twisted Up</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-hardware-solutions-from-toms-computing-guide/"><u>Expert Insights on Hardware Solutions From Tom's Computing Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-pc-components-a-journey-with-tom/"><u>Exploring PC Components - A Journey with Tom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-identifying-repositories-of-flatulence-related-auditory-experiences-for-creative-use/"><u>Updated In 2024, Identifying Repositories of Flatulence-Related Auditory Experiences for Creative Use</u></a></li>
+</ul></div>
+

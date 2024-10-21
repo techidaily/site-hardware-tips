@@ -1,7 +1,7 @@
 ---
 title: "Longer Lifespan with Samsung: Exclusive 7-Year Software Support for Your Smart TV - Insights From ZDNet"
-date: 2024-10-11T16:02:06.384Z
-updated: 2024-10-15T16:25:42.442Z
+date: 2024-10-18T21:04:05.093Z
+updated: 2024-10-21T04:13:48.840Z
 tags:
   - tvs
 categories:
@@ -59,10 +59,16 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -94,10 +100,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -107,6 +113,19 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -133,13 +152,6 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -184,10 +196,10 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider 
@@ -230,20 +242,18 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-songs-and-visuals-adding-youtube-music-to-videos/"><u>2024 Approved Harmonizing Songs and Visuals Adding YouTube Music to Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-processor-selections-for-enhanced-workstation-efficiency/"><u>2024'S Leading Processor Selections for Enhanced Workstation Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anime-inspired-valkyrie-vind-sl125-a-review-of-style-vs-substance-performance/"><u>Anime-Inspired Valkyrie Vind SL125 - A Review of Style Vs. Substance Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoiding-stringing-frustrations-expert-advice-on-flawless-3d-printing/"><u>Avoiding Stringing Frustrations: Expert Advice on Flawless 3D Printing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-ek-solutions-all-in-one-cpu-cooling-system-delivers-remarkable-improvement-for-13900ks/"><u>Beat the Heat: EK Solutions' All-in-One CPU Cooling System Delivers Remarkable Improvement for 13900KS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-down-performance-of-teamgroups-strongest-nvme-ssd-heatsink-the-dark-airflow-i-in-review/"><u>Breaking Down Performance of TeamGroup's Strongest NVMe SSD Heatsink: The Dark AirFlow I in Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-elite-gamers-choice-2024s-finest-mouses/"><u>Discover the Elite Gamers' Choice: 2024'S Finest Mouses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-computer-gear-with-toms-hardware-experts/"><u>Discover the Latest in Computer Gear with Tom's Hardware Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-hilarious-side-of-iphones/"><u>In 2024, The Hilarious Side of iPhones</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-both-users-and-i-swapped-my-apple-watch-ultra-for-a-reliable-casio-alternative/"><u>Why Both Users and I Swapped My Apple Watch Ultra for a Reliable Casio Alternative</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>[New] 2024 Approved 20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-orchestrating-a-harmonious-tiktok-finale/"><u>[New] In 2024, Orchestrating a Harmonious TikTok Finale</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>[New] Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-10-free-recorder-apps-for-slack-meetings-and-video-conferencing/"><u>[Updated] In 2024, 10 FREE Recorder Apps for Slack Meetings & Video Conferencing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-key-approaches-to-microphone-and-computer-speaker-documentation/"><u>[Updated] In 2024, Key Approaches to Microphone & Computer Speaker Documentation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-curve-enhanced-monitoring-systems-for-gamers-in-24/"><u>Best Curve-Enhanced Monitoring Systems for Gamers in 2#4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-enhance-your-gaming-experience-by-lowering-ping-in-cs2/"><u>How to Enhance Your Gaming Experience by Lowering Ping in CS2</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-data-encoding-leveraging-common-plastics-for-ultra-efficient-3d-hologram-storage-capable-of-holding-up-to-amoeba-bits/"><u>Innovative Data Encoding: Leveraging Common Plastics for Ultra-Efficient 3D-Hologram Storage Capable of Holding Up to Amoeba Bits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-confirms-upcoming-launch-of-the-arrow-lake-s-processor-range-december-announcement-expected/"><u>Intel Confirms Upcoming Launch of the Arrow Lake-S Processor Range - December Announcement Expected</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rumored-december-release-intels-upcoming-arrow-lake-s-processor/"><u>Rumored December Release: Intel's Upcoming Arrow Lake-S Processor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zooming-in-elevating-the-art-of-tiktok-crafting/"><u>Zooming In Elevating the Art of TikTok Crafting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Value in Home Power Solutions: Top Deals for Generators This December on ZDNET"
-date: 2024-09-19 17:23:26
-updated: 2024-09-20 10:25:29
+date: 2024-10-18T21:08:24.308Z
+updated: 2024-10-20T19:13:04.446Z
 tags:
   - sustainability
 categories:
@@ -20,6 +20,13 @@ Power outages from extreme weather is a year-round threat, but with a portable g
 And when you get your generator, remember to never use a gas or liquid propane-powered engine indoors and never plug a generator into your home's electrical system without first installing a transfer switch to prevent fires and other electrical damage. I've combed the web to find the best deals on portable generators, so you can save a little money while prepping for extreme weather situations.
 
 **Also:** [**Best portable power station: Emergency power when you need it**](https://www.zdnet.com/article/best-portable-power-station/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The best generator deals: November/December 2022**
 
@@ -75,13 +82,34 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDuroMax-XP13000EH-13-000-Watt-500cc-Portable-Hybrid-Gas-Propane-Generator%2F192013905%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What kind of generator is best for home use?
 
 If you're looking to set up your house to go off-grid and be entirely self-sufficient, you'll want to install a home standby generator. These types of generators are permanent installations, designed to work with a solar panel array or wind turbines to provide consistent power on cloudy or windless days as well as at night. 
 
 If you want to make sure you have electricity for at-home medical equipment and appliances during a weather emergency, a portable or inverter generator is your best option. If you do opt for a portable or inverter generator, you'll need to make sure you get one with more than enough wattage to run everything. Lowe's has a [handy worksheet](https://www.lowes.com/pdf/portable%5Fgenerator%5Fwattage%5Fchart.pdf) available, so you won't accidentally burn up your fridge.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do you hook a generator to your house?
 
@@ -116,11 +144,31 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-social-media-sites-pick-the-prime-option/"><u>[New] In 2024, Social Media Sites Pick the Prime Option</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068691809-updated-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[Updated] 2024 Approved Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-selfies-advanced-techniques-in-snapchat-photography-for-2024/"><u>[Updated] Elevating Selfies Advanced Techniques in Snapchat Photography for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-dazzling-depths-expert-tips-for-video-brightness/"><u>2024 Approved Dazzling Depths Expert Tips for Video Brightness</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficient-setup-ps4-streaming-and-recording-via-obs/"><u>Efficient Setup PS4 Streaming and Recording via OBS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/id-coolings-fx310-pro-review-superior-cooling-for-a-budget-of-60-or-less/"><u>ID-Cooling's FX310 Pro Review: Superior Cooling for a Budget of 60$ or Less</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>In 2024, Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-tips-for-your-tech-needs-at-toms-hardware-zone/"><u>In-Depth Analysis & Tips for Your Tech Needs at Tom's Hardware Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tom-unveiling-the-best-in-pc-hardware/"><u>In-Depth Analysis by Tom - Unveiling the Best in PC Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-flsun-s1s-rapid-response-time-and-eccentric-delta-structure-a-reviewers-perspective/"><u>In-Depth Analysis of the FLSun S1's Rapid Response Time and Eccentric Delta Structure – A Reviewer’s Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-comparison-leading-3d-printers-from-fdm-to-resin-and-sub-250-models-unveiled/"><u>In-Depth Comparison: Leading 3D Printers - From FDM to Resin & Sub-$250 Models Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovation-alert-noctuas-latest-tech-pumpless-aio-liquid-cooler-with-advanced-evaporation-method/"><u>Innovation Alert: Noctua's Latest Tech - Pumpless AIO Liquid Cooler with Advanced Evaporation Method</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-gadgets-with-professional-tips-from-toms-hardware/"><u>Master Your Gadgets with Professional Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-setup-with-tips-from-toms-hardware/"><u>Master Your PC Setup with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-reviews-and-hardware-analysis-toms-digital-chronicles/"><u>Pioneering PC Reviews and Hardware Analysis - Tom's Digital Chronicles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-universal-print-driver-errors-for-samsung-devices-windows/"><u>Troubleshooting and Solving Universal Print Driver Errors for Samsung Devices (Windows)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-5-free-m4a-editor-software-for-2024/"><u>Updated Top 5 Free M4A Editor Software for 2024</u></a></li>
+</ul></div>
+

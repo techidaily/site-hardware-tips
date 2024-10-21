@@ -1,7 +1,7 @@
 ---
 title: Accelerating Progress in Self-Driving Tech with Groundbreaking Machine Learning Project Featured on ZDNet
-date: 2024-09-30T18:26:06.611Z
-updated: 2024-10-03T20:19:01.678Z
+date: 2024-10-18T19:10:45.456Z
+updated: 2024-10-21T01:00:58.557Z
 tags:
   - transportation
 categories:
@@ -77,27 +77,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-divine-clash-thors-return-date/"><u>[New] 2024 Approved Divine Clash Thor's Return Date</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-like-a-pro-with-telegram-web/"><u>[New] Navigating Like a Pro with Telegram Web</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-pioneering-cross-social-content-share-youtube-videos-on-facebook/"><u>[Updated] In 2024, Pioneering Cross-Social Content Share YouTube Videos on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-creative-utilizations-of-chatbots-like-gpt/"><u>5 Creative Utilizations of ChatBots Like GPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-in-simplistic-elegance-with-the-light-phone-3-your-ideal-minimalist-smartphone/"><u>Discover the Ultimate in Simplistic Elegance with the Light Phone 3 - Your Ideal Minimalist Smartphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultra-compact-lenovo-laptop-featuring-amd-ryzen-cpu-and-enhanced-connectivity-with-7-usb-ports/"><u>Discover the Ultra-Compact Lenovo Laptop Featuring AMD Ryzen CPU & Enhanced Connectivity with 7 USB Ports</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-your-computers-memory-capacity-and-performance-a-step-by-step-guide/"><u>Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effortless-mouse-maintenance-how-to-avoid-unnecessary-expenses-and-restore-your-device-quickly/"><u>Effortless Mouse Maintenance: How to Avoid Unnecessary Expenses and Restore Your Device Quickly</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/enjoy-the-magic-our-curated-selection-of-free-walt-disney-classics/"><u>Enjoy the Magic - Our Curated Selection of Free Walt Disney Classics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-bargains-on-latest-gadgets-ipad-mini-ultra-hd-televisions-and-googles-newest-smartphone-unveiled/"><u>Exclusive Bargains on Latest Gadgets: IPad Mini, Ultra HD Televisions & Google's Newest Smartphone Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-elite-selection-of-ipad-pro-11-sleeves-model-buy-today/"><u>Expert Picks: Elite Selection of iPad Pro 11 Sleeves Model – Buy Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-home-automation-with-home-assistant-how-does-it-compare-to-other-systems-and-what-holds-it-back-from-universal-usage/"><u>Exploring Home Automation with Home Assistant - How Does It Compare to Other Systems and What Holds It Back From Universal Usage?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-blades-vivid-palette-now-in-stunning-4k-clarity/"><u>In 2024, Blade's Vivid Palette, Now in Stunning 4K Clarity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-cinematic-art-with-top-ten-professional-tools/"><u>Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/perilous-pathways-decades-10-adventures-for-2024/"><u>Perilous Pathways Decade’s #10 Adventures for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-leading-corporate-cloud-vault-selection/"><u>2024 Approved Leading Corporate Cloud Vault Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-screenshopping-save-on-premium-4k-and-gamer-monitors/"><u>2024'S Top Screenshopping: Save on Premium 4K and Gamer Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-giant-on-a-budget-in-depth-review-of-the-40-monoprice-gaming-monitor-with-crystal-clear-display-and-stunning-gameplay/"><u>Affordable Giant on a Budget: In-Depth Review of the 40 Monoprice Gaming Monitor with Crystal Clear Display & Stunning Gameplay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/choosing-your-next-smartphone-iphone-vs-samsung-a-comprehensive-guide/"><u>Choosing Your Next Smartphone: IPhone Vs. Samsung - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discovering-androids-premier-mobas-ranked/"><u>Discovering Android's Premier MOBAs Ranked</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximize-profitability-the-dos-and-donts-of-youtube-monetization/"><u>In 2024, Maximize Profitability – The Do's and Don'ts of YouTube Monetization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862837497-level-up-your-gaming-world-with-the-high-performance-acer-nitro-now-on-sale-at-only-81/"><u>Level Up Your Gaming World with the High-Performance Acer Nitro - Now on Sale at Only $81!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862833576-transform-your-gaming-setup-with-the-incredible-34-alienware-curved-monitor-now-just-749-on-bestbuy/"><u>Transform Your Gaming Setup with The Incredible 34 Alienware Curved Monitor – Now Just $749 on BestBuy!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

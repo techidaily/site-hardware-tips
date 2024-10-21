@@ -1,7 +1,7 @@
 ---
 title: "How to Go Green with Your Gadgets: 6 Tips for Sustainability & Savings, According to ZDNet"
-date: 2024-09-18 18:15:41
-updated: 2024-09-20 11:22:12
+date: 2024-10-19T23:39:51.030Z
+updated: 2024-10-21T04:44:03.474Z
 tags:
   - sustainability
 categories:
@@ -27,6 +27,19 @@ The idea of sustainability is broad, but experts recommend looking at not only w
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Take stock of your own sustainability and look at your lifestyle
 
 According to the [Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/), the average US citizen has a yearly carbon footprint of 16 tons, compared to the global rate of about four tons.
@@ -40,6 +53,13 @@ Sustainability for each person could be different, especially depending on your 
 So sure, you could recycle plastic water bottles, but maybe you throw away old phones or GPS devices in the trash as soon as they stop working? Anderson says every little habit counts when it comes to sustainability, and utilizing technology in the right way to help us gauge our carbon footprint is vital.
 
 "We need to get to this point where it's not just about sustainability; it's about the specific things, the specific activities that lead us to the right sustainability outcomes," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recycle your devices, but make sure it's the proper way
 
@@ -67,6 +87,13 @@ Samsung has [e-waste collection sites](https://shop-links.co/link/?exclusive=1&p
 
 For Apple users, you can trade in any device in any condition, and Apple will give you [credit towards a new device](https://www.apple.com/recycling/nationalservices/), and recycle it for free. You can recycle any Apple-owned brand devices at Apple Stores or through [apple.com](https://www.apple.com/recycling/nationalservices/). 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Upcycle your devices
 
 On the flip side, your outdated smartphone doesn't have to get recycled to give it a new life. Upcycling your old devices to bring new life to them is a great way to be sustainable with technology. 
@@ -88,6 +115,13 @@ Image: Samsung
 And if you don't have a Samsung phone, there are still ways to upcycle. For example, you can install a surveillance camera app, such as [Alfred](https://alfred.camera), on both your old and new devices, then place the old phone where you need it for an instant security camera.
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Become an educated consumer
 
@@ -151,11 +185,33 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-directx12-obstacle-for-expected-halo-launch/"><u>[FIXED] DirectX12 Obstacle for Expected Halo Launch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies-for-2024/"><u>[New] From Global Reach to Engagement Deciphering IGTV & YouTube’s Strategies for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-browser-capture-tools-top-picks/"><u>[Updated] In 2024, Best Browser Capture Tools Top Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-manual-for-installing-microsofts-wm6/"><u>2024 Approved Complete Manual for Installing Microsoft's WM6</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-vivo-t2x-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Vivo T2x 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-tech-devices-every-modern-learner-should-possess/"><u>Crucial Tech Devices Every Modern Learner Should Possess</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-2e-prevention-ensure-windows-update-works/"><u>Error 2E Prevention, Ensure Windows Update Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-toms-digital-forge-a-buyers-guide/"><u>Navigating Hardware with Tom's Digital Forge: A Buyer’s Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-tackles-customer-feedback-on-unusual-noise-from-its-latest-nh-d15-g2-cooler-unit/"><u>Noctua Tackles Customer Feedback on Unusual Noise From Its Latest NH-D15 G2 Cooler Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-older-methods-with-newly-released-pink-caulking-gel-the-optimal-solution-for-filling-components-voids-and-replacing-thermal-pads/"><u>Say Goodbye to Older Methods with Newly Released Pink Caulking Gel - The Optimal Solution for Filling Components Voids and Replacing Thermal Pads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strawberry-scented-pink-thermal-compound-a-match-with-extrememugurisu-4g-for-top-notch-cooling/"><u>Strawberry Scented Pink Thermal Compound: A Match with ExtremeMUGURISU 4G for Top-Notch Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-innovative-reuse-of-plastic-kitchenware-for-superior-3d-printer-filament-production/"><u>The Innovative Reuse of Plastic Kitchenware for Superior 3D Printer Filament Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-computer-components/"><u>Tom's Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guides-on-hardware/"><u>Tom's Tech Insights: Expert Guides on Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://win-studio.techidaily.com/44oh44o844k5pcn5asx44gl44kj5a6i44kl77yb5asn5pah5a2x44ov44kh44kk44or44gu6jih55sf44go6yen6kab44gq5oof5acx44gu44oq44od44kv44ki44od44ox6kgt/"><u>データ損失から守る！大文字ファイルの蘇生と重要な情報のバックアップ術</u></a></li>
+</ul></div>
+

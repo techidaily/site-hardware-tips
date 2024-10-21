@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Throwing a Memorable Labor Day Gathering: A Comprehensive Guide for Beginners"
-date: 2024-10-14T16:01:12.417Z
-updated: 2024-10-15T16:19:35.798Z
+date: 2024-10-18T23:21:59.790Z
+updated: 2024-10-21T03:37:33.544Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +105,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-and-user-friendly-voice-editing-apps/"><u>[New] In 2024, Innovative and User-Friendly Voice Editing Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-youtube-views-leveraging-outro-content-partnerships/"><u>[Updated] In 2024, Enhance YouTube Views Leveraging Outro Content Partnerships</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-light-up-the-screen-tips-and-steps-for-adding-gifs-to-snapchats-for-2024/"><u>[Updated] Light Up the Screen Tips and Steps for Adding GIFs to Snapchats for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-timeless-tech-how-90s-innovations-continue-to-shape-modern-technology/"><u>1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-assessment-of-vlcs-digital-screen-monitoring/"><u>2024 Approved Assessment of VLC’s Digital Screen Monitoring</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts/"><u>Crafting Compelling Online Presentations Using Zoom for YouTube Broadcasts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y78t-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y78t Phone that is Locked?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-definitive-guide-making-memorable-youtube-music-videos/"><u>In 2024, The Definitive Guide Making Memorable YouTube Music Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-apple-watch-series-9/"><u>In-Depth Analysis of the Apple Watch Series 9</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-design-of-the-new-jabra-elite-series-gen-2-with-revolutionary-smart-case-technology/"><u>Innovative Design of the New Jabra Elite Series - Gen 2 with Revolutionary Smart Case Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-phone-charger-secure-it-with-our-unique-plug-lock/"><u>Protect Your Phone Charger - Secure It with Our Unique Plug Lock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-portable-power-stations-a-must-have-for-all/"><u>The Ultimate Guide to Portable Power Stations - A Must-Have for All!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-benefits-of-postponing-your-gaming-laptop-purchase-until-2025/"><u>Top 4 Benefits of Postponing Your Gaming Laptop Purchase Until 2025</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-full-customization-potential-with-the-drop-cstm65-the-ultimate-mechanical-keyboard-for-personalized-use/"><u>Unlock Full Customization Potential with the Drop CSTM^65: The Ultimate Mechanical Keyboard for Personalized Use</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-perks-of-private-space-on-android-15-understanding-its-functionality-and-advantages/"><u>Unveiling the Perks of Private Space on Android 15: Understanding Its Functionality and Advantages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/what-is-5g-ultra-connection-uc-and-how-does-it-impact-your-smartphone-experience/"><u>What Is 5G Ultra-Connection (UC) and How Does It Impact Your Smartphone Experience?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-are-phone-sizes-increasing-the-user-demand-explanation/"><u>Why Are Phone Sizes Increasing? The User Demand Explanation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cripted-sign-offs-for-the-savvy-viewer-for-2024/"><u>[New] Scripted Sign-Offs for the Savvy Viewer for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-securely-sharing-video-on-youtube-with-settings/"><u>[Updated] Securely Sharing Video on YouTube with Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-accessories-to-boost-your-raspberry-pi-projects/"><u>Advanced Accessories to Boost Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-pc-components-a-review-by-toms-hardware-experts/"><u>Inside Look at PC Components - A Review by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-schedule-with-winning-windows-to-dos/"><u>Mastering Your Schedule with Winning Windows To-Dos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-instas-archive-maze-for-optimal-results-for-2024/"><u>Navigating Insta’s Archive Maze for Optimal Results for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector-for-2024/"><u>Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-gadget-reviews-and-advice/"><u>Tom's Tech Hub: Expert Gadget Reviews and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-premier-wavy-gaming-screens-2024-edition/"><u>Ultimate Selection: Premier Wavy Gaming Screens - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-the-smart-way-advice-from-toms-hardware-experts/"><u>Upgrade Your PC the Smart Way – Advice From Tom's Hardware Experts</u></a></li>
 </ul></div>
 

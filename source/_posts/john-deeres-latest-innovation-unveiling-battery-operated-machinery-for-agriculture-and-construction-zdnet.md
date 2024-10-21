@@ -1,7 +1,7 @@
 ---
 title: "John Deere's Latest Innovation: Unveiling Battery-Operated Machinery for Agriculture & Construction - ZDNet"
-date: 2024-09-18 17:21:54
-updated: 2024-09-20 12:47:56
+date: 2024-10-19T23:30:51.421Z
+updated: 2024-10-20T20:18:48.157Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ ExactShot, a technology made for farmers, uses sensors and robotics to dispense 
 
 ExactShot's built-in sensors know when a seed is being planted and will dispense the required amount of fertilizer, about 0.2 milliliters. With ExactShot, John Deere says US corn crops could save over 93 million gallons of fertilizer and decrease the effects runoff fertilizer can have on surrounding water supply and greenery.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
@@ -49,6 +56,13 @@ Jahmy Hindman, John Deere's CTO, said during the keynote address that, across th
 
 Last year, John Deere announced an upgrade to the original See and Spray technology: See and Spray Ultimate. See and Spray Ultimate targets weeds that lie in corn, soybean and cotton plants, releasing herbicides with precision to kill the weeds without harming benign crops and greenery.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to disable ACR (and greatly reduce ads) on every TV model - and why you should](https://www.zdnet.com/article/how-to-disable-acr-and-greatly-reduce-ads-on-every-tv-model-and-why-you-should/)
@@ -64,11 +78,31 @@ Hindman said that farmers across the US use 23 million gallons of herbicide annu
 
 See and Spray Ultimate has 126 cameras capable of capturing 1.6 billion pixels. The cameras are ultra-rugged and built for rough terrain and harsh weather conditions. The sprayer's body is embedded with 10 advanced computing processors that can process up to four gigabytes of data per second.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Electric excavator 
 
 A [Kreisel battery](https://www.kreiselelectric.com/) powers the electric excavator, increasing the machine's efficiency. As a result, the excavator promises lower operating costs, reduced noise, more reliability, and no emissions on construction sites. 
 
 Kreisel electric charging technology also promises decreased cost connections and electrical burdens on the electrical grid. Electric machines reduce noise pollution caused by heavy construction machinery and decrease combustion emissions in urban areas.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Biofuels, electrification, autonomy, and cloud computing
 
@@ -109,11 +143,29 @@ With this data, farmers can create digital twins of their farms to see which cro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhancing-iphone-image-clarity-and-focus/"><u>[New] 2024 Approved Enhancing iPhone Image Clarity and Focus</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ranking-royales-the-ultimate-10-royale-battles/"><u>[New] In 2024, Ranking Royales The Ultimate 10 Royale Battles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-evaluating-video-quality-the-impact-of-fps-on-recordings/"><u>2024 Approved Evaluating Video Quality The Impact of FPS on Recordings</u></a></li>
+<li><a href="https://fox-making.techidaily.com/nvme-ssdsatahdd/"><u>如何在NVMe SSD上成功克隆SATA或HDD：關鍵技巧與安全啟動配置</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-trustworthy-advice-from-toms-hardware/"><u>Advanced Tech Insights: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-computer-specs-with-toms-hardware-experts/"><u>Decoding Computer Specs with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-toms-hardware-rundown/"><u>Decoding Tech Specs: Tom's Hardware Rundown</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/efficient-steps-for-fixing-a-disappeared-d-drive-in-windows-11-a-comprehensive-tutorial/"><u>Efficient Steps for Fixing a Disappeared D Drive in Windows 11 – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-solving-windows-error-messages/"><u>Strategies for Solving Windows Error Messages</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-xr21-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia XR21 Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175686979-toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724515-ultimate-comparison-of-best-cooling-solutions-for-m2-ssds-exploring-30-contenders-including-id-coolings-m05-and-m1nus/"><u>Ultimate Comparison of Best Cooling Solutions for M.2 SSDs - Exploring 30 Contenders Including ID-Cooling's M05 & M1nus!</u></a></li>
+</ul></div>
+

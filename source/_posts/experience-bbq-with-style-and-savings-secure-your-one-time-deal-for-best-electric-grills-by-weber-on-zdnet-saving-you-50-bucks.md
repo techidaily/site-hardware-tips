@@ -1,7 +1,7 @@
 ---
 title: "Experience BBQ with Style & Savings: Secure Your One-Time Deal for Best Electric Grills by Weber on ZDNET, Saving You 50 Bucks!"
-date: 2024-09-17 19:17:57
-updated: 2024-09-20 12:26:15
+date: 2024-10-15T04:57:36.172Z
+updated: 2024-10-20T20:10:03.318Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,33 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-retro-gaming-revived-top-5-emulators-to-play-your-favorite-ps1-titles/"><u>[New] 2024 Approved Retro Gaming Revived - Top 5 Emulators to Play Your Favorite PS1 Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-conversations-via-curated-creativity-in-stories-lives-for-2024/"><u>[New] Elevate Conversations via Curated Creativity in Stories Lives for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-disjointed-to-cohesive-perfecting-video-transition-artistry-on-inshot-for-2024/"><u>[New] From Disjointed to Cohesive Perfecting Video Transition Artistry on Inshot for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[Updated] Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-unparalleled-cpu-speeds-using-our-advanced-ai-generated-liquid-nitrogen-vessel-up-to-3x-faster-than-regular-techniques/"><u>Achieve Unparalleled CPU Speeds Using Our Advanced, AI-Generated Liquid Nitrogen Vessel – Up to 3X Faster than Regular Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-creation-the-usability-of-the-sub-80-aliexpress-3d-printer-as-confirmed-by-users/"><u>Affordable Creation: The Usability of the Sub-$80 AliExpress 3D Printer as Confirmed by Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-edge-how-pcs-beat-macs-in-9-aspects/"><u>Decoding the Edge: How PCs Beat Macs in 9 Aspects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125132392-get-the-best-deal-on-elegoo-neptune-4-pro-up-to-20-faster-with-75-savings/"><u>Get the Best Deal on Elegoo Neptune 4 Pro - Up to 20% Faster with $75 Savings</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pinnacle-of-funny-photo-artistry/"><u>In 2024, Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-tailored-user-experiences-a-guide-to-crafting-accurate-personalities/"><u>Leveraging ChatGPT for Tailored User Experiences: A Guide to Crafting Accurate Personalities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora/"><u>Streamlining Virtual Collaborations A Comprehensive Scheduling & Recording Manual for Slack + Filmora</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722988570558-the-all-new-samsung-ru7300-a-revolutionary-leap-in-4k-uhd-smart-tv-technology-reviewed/"><u>The All-New Samsung RU7300: A Revolutionary Leap in 4K UHD Smart TV Technology – Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125151021-the-ultimate-tech-companer-for-enthusiasts-beyond-toms-hardware-insights-at-your-brand/"><u>The Ultimate Tech Companer for Enthusiasts – Beyond Tom's Hardware Insights at [Your Brand]!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175665103-toms-tech-insights-a-comprehensive-guide/"><u>Tom's Tech Insights: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-2024-gaming-laptops-performance-rankings-inside/"><u>Ultimate Guide to the Best 2024 Gaming Laptops - Performance Rankings Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-surface-irregularities-the-art-of-smoothing-out-pillowing-on-3d-printed-objects/"><u>Ultimate Guide: Solving Surface Irregularities – The Art of Smoothing Out Pillowing on 3D Printed Objects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-future-of-portable-scanning-technology-the-3dmakerpro-mole-3d-scanner-reviewed-inside-and-out/"><u>Unboxing the Future of Portable Scanning Technology: The 3DMakerPro Mole 3D Scanner Reviewed Inside and Out</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-computer-secrets-with-toms-hardware-insights/"><u>Unlocking Computer Secrets with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

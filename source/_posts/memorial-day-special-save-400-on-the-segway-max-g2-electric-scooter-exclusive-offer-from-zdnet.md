@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special: Save $400 on the Segway Max G2 Electric Scooter - Exclusive Offer From ZDNet"
-date: 2024-09-17 13:33:11
-updated: 2024-09-20 10:58:11
+date: 2024-10-13T20:22:19.727Z
+updated: 2024-10-20T18:58:48.315Z
 tags:
   - sustainability
 categories:
@@ -46,11 +46,35 @@ You can connect the Max G2 to the companion app to get at-a-glance updates on re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-urban-ecosystem-fostering-resilience-through-green-policies-for-2024/"><u>[New] The Urban Ecosystem Fostering Resilience Through Green Policies for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-11-budget-friendly-recorders-for-vloggers-for-2024/"><u>[New] Top 11 Budget-Friendly Recorders for Vloggers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-minimizing-moments-edit-longer-videos-for-youtube/"><u>[Updated] Minimizing Moments Edit Longer Videos for YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-brightening-up-your-youtube-content/"><u>2024 Approved The Ultimate Guide to Brightening Up Your YouTube Content</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-selecting-the-ideal-sound-devices-with-top-microphone-picks/"><u>Gamers' Guide to Selecting the Ideal Sound Devices with Top Microphone Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-canon-printer-software-on-your-windows-pc/"><u>How to Install the Latest Canon Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-expert-guide-to-earning-with-youtube/"><u>In 2024, The Expert Guide to Earning with YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-hardware-lineup-performance-value-and-more/"><u>Inside Look at Tom's Hardware Lineup – Performance, Value & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-worlds-premier-3d-printing-expo-the-new-wave-of-printer-tech-showcased-at-rapid-and-tct-2024/"><u>Inside the World's Premier 3D Printing Expo: The New Wave of Printer Tech Showcased at Rapid & TCT 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-compatible-arctic-liquid-nitrogen-iii-modify-cpu-warranties-and-ensure-proper-contact-frames/"><u>Intel-Compatible Arctic Liquid Nitrogen III - Modify CPU Warranties and Ensure Proper Contact Frames</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-tom-the-ultimate-hardware-reference-point/"><u>Navigating the Tech World with Tom: The Ultimate Hardware Reference Point</u></a></li>
+<li><a href="https://video-capture.techidaily.com/solve-invisible-frames-in-video-capture-software/"><u>Solve Invisible Frames in Video Capture Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-primary-speech-is-used-by-israelis-today/"><u>What Primary Speech Is Used by Israelis Today?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

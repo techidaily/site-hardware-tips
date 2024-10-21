@@ -1,7 +1,7 @@
 ---
 title: Unveiling Eco-Friendly Features in Cisco's Collaborative Software – Insights From ZDNet
-date: 2024-09-18 15:34:59
-updated: 2024-09-20 11:13:34
+date: 2024-10-20T00:23:52.848Z
+updated: 2024-10-20T16:26:59.029Z
 tags:
   - sustainability
 categories:
@@ -72,11 +72,38 @@ Cisco also plans to help customers track the emissions they're producing when th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-incorited-visuals-in-text-without-cost-for-2024/"><u>[Updated] Guide to Incorited Visuals in Text Without Cost for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-technicalities-of-podcast-rss-file-design-for-2024/"><u>[Updated] The Technicalities of Podcast RSS File Design for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-manipulating-photography-captions/"><u>2024 Approved Manipulating Photography Captions</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-c65-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco C65 Device SIM</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-aerial-images-key-factors-in-picking-a-gimbal/"><u>In 2024, Perfecting Aerial Images Key Factors in Picking a Gimbal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>In 2024, Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-comprehensive-guide-to-audio-capture-in-video-production/"><u>In 2024, The Comprehensive Guide to Audio Capture in Video Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-discoveries-from-toms-domain/"><u>Mastering Technology: Discoveries From Tom's Domain</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-top-reviews-of-new-hardware-features-by-tom-systems/"><u>Mastering Technology: Top Reviews of New Hardware Features by Tom Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-gaming-rig-the-xpg-hybrid-pump-loop-and-radiator-cpu-cooler-a-game-changer-for-high-wattage-processors-up-to-2ebyte/"><u>Maximize Your Gaming Rig: The XPG Hybrid Pump, Loop & Radiator CPU Cooler - A Game Changer for High Wattage Processors Up to 2Ebyte</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-digital-world-with-tom-in-depth-reviews-of-hardware-and-software/"><u>Navigate the Digital World with Tom: In-Depth Reviews of Hardware & Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-review/"><u>Navigating the World of Computing with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-toms-hardware-deep-dives-explained/"><u>Navigating Through Circuitry: Tom's Hardware Deep Dives Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-grade-affordable-score-the-top-3d-printer-eleegoo-neptune-n4-pro-for-a-bargain-price-of-240-at-newegg/"><u>Professional-Grade, Affordable: Score the Top 3D Printer Eleegoo Neptune N4 Pro for a Bargain Price of $240 at Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-10k-ai-and-3d-printing-enhance-your-cpu-cooling-efficiency-with-a-nitrogen-based-liquid-container/"><u>Revolutionary $10K AI & 3D Printing: Enhance Your CPU Cooling Efficiency with a Nitrogen-Based Liquid Container</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-virtualdub-replacements-for-video-editing-for-2024/"><u>Updated The Best Virtualdub Replacements for Video Editing for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

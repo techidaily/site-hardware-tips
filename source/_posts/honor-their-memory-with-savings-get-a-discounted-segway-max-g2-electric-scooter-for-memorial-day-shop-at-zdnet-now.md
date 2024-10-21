@@ -1,7 +1,7 @@
 ---
 title: "Honor Their Memory with Savings: Get a Discounted Segway Max G2 Electric Scooter for Memorial Day – Shop at ZDNET Now!"
-date: 2024-09-18 20:42:14
-updated: 2024-09-20 12:41:58
+date: 2024-10-16T20:15:53.030Z
+updated: 2024-10-20T22:28:38.564Z
 tags:
   - sustainability
 categories:
@@ -46,11 +46,38 @@ You can connect the Max G2 to the companion app to get at-a-glance updates on re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-securesave-professionals-assessment/"><u>[New] In 2024, SecureSave Professionals' Assessment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-subtly-lowering-volume-alives-guide/"><u>[New] In 2024, Subtly Lowering Volume Alive’s Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-edge-in-game-capture-moving-past-fbx-methods/"><u>[Updated] In 2024, Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-elevating-your-online-presence-a-complete-handbook-for-tiktok-name-change/"><u>2024 Approved Elevating Your Online Presence A Complete Handbook for TikTok Name Change</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125165792-achieving-perfectly-sealed-3d-prints-how-to-avoid-common-hole-and-gap-issues/"><u>Achieving Perfectly Sealed 3D Prints: How to Avoid Common Hole and Gap Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-definition-monitors-top-pickup-list-of-4k-screens/"><u>Affordable High Definition Monitors: Top Pickup List of 4K Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmark-analysis-the-fastest-3d-printer-models-for-rapid-prototyping/"><u>Benchmark Analysis: The Fastest 3D Printer Models for Rapid Prototyping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrity-actress-felicia-day-ventures-into-3d-printing-shares-her-models-with-fans-for-free/"><u>Celebrity Actress Felicia Day Ventures Into 3D Printing, Shares Her Models with Fans for Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-narzo-60x-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-evaluations-from-toms-technology-blog/"><u>Comprehensive Hardware Evaluations From Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-noctuas-game-changer-the-prototype-for-pumpless-eco-friendly-aio-liquid-cooling-system/"><u>Discover Noctua's Game-Changer: The Prototype for Pumpless, Eco-Friendly AIO Liquid Cooling System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>In 2024, Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-velocity-in-virtue-share-your-youtube-lists-fast/"><u>In 2024, Velocity in Virtue Share Your YouTube Lists Fast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125189694-thangz-3d-printer-add-ons-by-felicia-day-now-available-for-download/"><u>Thangz 3D Printer Add-Ons by Felicia Day Now Available for Download!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-trailer-creation-apps-for-mac-and-windows-computers/"><u>Top-Rated Trailer Creation Apps for Mac and Windows Computers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unveiling-captivating-content-the-ultimate-guide-to-tiktok-captions/"><u>Unveiling Captivating Content The Ultimate Guide to TikTok Captions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-digital-devices-through-toms-critiques/"><u>Unveiling Top Digital Devices Through Tom’s Critiques</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

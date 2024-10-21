@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future: Key Strategies for Integrating Technology with Sustainability in Modern Enterprises"
-date: 2024-09-18 23:30:50
-updated: 2024-09-20 11:49:24
+date: 2024-10-18T20:38:37.010Z
+updated: 2024-10-20T19:31:39.858Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,19 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +76,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +129,28 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-viral-video-vanguard-youtubes-powerful-personalities/"><u>[New] 2024 Approved Viral Video Vanguard YouTube's Powerful Personalities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-art-of-lenovos-video-screen-capture-for-2024/"><u>[New] The Art of Lenovo's Video Screen Capture for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-first-steps-in-mastering-av1-coders/"><u>[Updated] First Steps in Mastering AV1 Coders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y78-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y78 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leading-spots-for-advertising-on-youtube-videos-for-2024/"><u>Leading Spots for Advertising on YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-video-subtitling-a-compreenhensive-review-of-key-online-tools/"><u>Mastering Video Subtitling A Compreenhensive Review of Key Online Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-toms-gadget-guides/"><u>Navigating the Tech World with Tom's Gadget Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-device-digest/"><u>Navigating the World of Electronics with Tom's Device Digest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/open-source-3d-printer-revolution-with-creality-ender-3-pro-v3-high-speed-and-low-cost/"><u>Open-Source 3D Printer Revolution with Creality Ender 3 Pro V3 - High Speed and Low Cost</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-v27-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo V27 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozen-sonic-mega-8k-styrene-reviewed-why-its-a-game-changer-for-print-farming/"><u>Phrozen Sonic Mega 8K Styrene Reviewed - Why It's a Game-Changer for Print Farming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purge-the-pasts-3-methods-to-clean-windows/"><u>Purge the Pasts: 3 Methods to Clean Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-cool-with-style-grab-your-essential-top-tier-arctic-aio-cooler-now-and-save-big-with-just-a-74-payment/"><u>Stay Cool with Style: Grab Your Essential, Top-Tier Arctic AIO Cooler Now and Save Big with Just a $74 Payment!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-continuous-bugs-and-stops-in-ghostwire-tokyo-for-pc-gamers/"><u>Troubleshooting Continuous Bugs & Stops in Ghostwire: Tokyo for PC Gamers</u></a></li>
+</ul></div>
+

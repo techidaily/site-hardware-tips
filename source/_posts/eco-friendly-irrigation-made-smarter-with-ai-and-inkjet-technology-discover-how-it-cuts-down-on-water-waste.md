@@ -1,7 +1,7 @@
 ---
 title: Eco-Friendly Irrigation Made Smarter with AI & Inkjet Technology - Discover How It Cuts Down on Water Waste
-date: 2024-09-17 11:50:23
-updated: 2024-09-20 10:15:31
+date: 2024-10-19T05:25:57.182Z
+updated: 2024-10-20T19:48:41.476Z
 tags:
   - sustainability
 categories:
@@ -34,6 +34,13 @@ According to Irrigreen CEO, Shane Dyer, "Because of the flexibility and elegance
 **Also:** [**How to make tech more sustainable:5 practical ways**](https://www.zdnet.com/home-and-office/sustainability/how-to-make-tech-more-sustainable-five-practical-ways-to-make-it-happen/)
 
 This technology has the potential to save up to 50% of your outdoor water consumption -- or more if you're like me and often forget to turn off your sprinklers. Homeowners commonly upgrade to a smart sprinkler controller to use with traditional sprinklers. Instead of having the source be the smart device, each of the Irrigreen sprinkler heads uses AI technology to analyze changes in water pressure and flow, as well as adapt to weather and soil conditions, with the Irrigreen smart sprinkler controller connecting to them.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cost
 
@@ -80,11 +87,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/change-google-password-what-should-i-do/"><u>Change Google Password – What Should I Do?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-the-ultimate-mac-x-dvd-ripper-pro-app-seamlessly-transfer-dvd-content-to-itunes-for-free/"><u>Download the Ultimate Mac X DVD Ripper Pro App - Seamlessly Transfer DVD Content to iTunes for Free</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quintessential-writing-across-the-movie-matrix-for-2024/"><u>Quintessential Writing Across the Movie Matrix for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/template-wizardry-a-blueprint-for-creating-viral-tiktoks-for-2024/"><u>Template Wizardry A Blueprint for Creating Viral TikToks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-premium-light-up-mice-pads-for-seamless-navigation/"><u>The Ultimate Guide to Premium Light-Up Mice Pads for Seamless Navigation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-comprehensive-reviews-and-tech-insights/"><u>Tom's Computer Gear - Comprehensive Reviews & Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-insights/"><u>Tom's Computer Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-digital-diary-a-journey-through-cutting-edge-hardware-discoveries/"><u>Tom's Digital Diary: A Journey Through Cutting-Edge Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-world-of-hardware/"><u>Tom's Tech Insights: Exploring the World of Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide/"><u>Tom's Tech Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-8-most-popular-mobile-games-today/"><u>Ultimate List: 8 Most Popular Mobile Games Today</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-12-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videosavior-mp4-and-mov-recovery/"><u>VideoSavior: MP4 and MOV Recovery</u></a></li>
+</ul></div>
+

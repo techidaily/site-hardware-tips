@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deal Alert: Top-Ranked Samsung TV Reduced by 43%% on Labor Day – Discover More at ZDNet!"
-date: 2024-09-29T19:56:03.177Z
-updated: 2024-10-03T18:43:32.824Z
+date: 2024-10-13T20:11:57.493Z
+updated: 2024-10-21T01:53:32.251Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +98,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-savory-sensations-top-youtube-food-influencers/"><u>[New] 2024 Approved Savory Sensations Top YouTube Food Influencers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[Updated] 2024 Approved Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fine-tuning-soundtracks-with-garageband-expertise/"><u>[Updated] Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/can-the-samsung-galaxy-tab-s3-hold-up-find-out-here/"><u>Can the Samsung Galaxy Tab S3 Hold Up ? Find Out Here!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/chuckle-champs-twitters-humor-heap/"><u>Chuckle-Champs Twitter’s Humor Heap</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complex-ideas/"><u>Complex Ideas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-steps-to-secure-your-android-device-against-theft/"><u>Essential Steps to Secure Your Android Device Against Theft</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/expert-advice-strategically-using-hashtags-to-grow-your-instagram-following-for-2024/"><u>Expert Advice Strategically Using Hashtags to Grow Your Instagram Following for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-casual-player-to-pro-on-android-essential-tips-and-advice-for-gamers/"><u>From Casual Player to Pro on Android: Essential Tips & Advice for Gamers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-tactics-for-unblemished-image-sourcing/"><u>In 2024, Proven Tactics for Unblemished Image Sourcing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>In 2024, Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-android-app-permissions-a-comprehensive-guide/"><u>Mastering Android App Permissions: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/material-you-design-arrives-on-five-popular-android-devices-with-upcoming-android-12-update/"><u>Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/messaging-showdown-google-messages-vs-samsung-messages-on-android/"><u>Messaging Showdown: Google Messages Vs. Samsung Messages on Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pixel-9-versus-pixel-9-pro-and-xl-variants-a-comprehensive-showdown-explained/"><u>Pixel 9 Versus Pixel 9 Pro and XL Variants: A Comprehensive Showdown Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prepare-yourself-for-innovation-samsung-gears-up-to-release-galaxy-s23-lineup-in-february/"><u>Prepare Yourself for Innovation: Samsung Gears Up to Release Galaxy S23 Lineup in February</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-guide-instant-access-to-your-samsung-galaxys-camera-app/"><u>Quick Guide: Instant Access to Your Samsung Galaxy's Camera App</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/regular-maintenance-alert-setup-automatic-weekly-reboot-for-your-samsung-galaxy-device/"><u>Regular Maintenance Alert: Setup Automatic Weekly Reboot for Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-solo-artists-roadmap-to-auditory-fame-for-2024/"><u>[New] The Solo Artist's Roadmap to Auditory Fame for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beginners-guide-to-pro-youtube-tech/"><u>[Updated] 2024 Approved Beginner's Guide to Pro YouTube Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[Updated] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-document-gameplay-secrets-in-galaxy-androids-for-2024/"><u>[Updated] Document Gameplay Secrets in Galaxy Androids for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-a-brand-with-captivating-haul-videos-and-edits/"><u>2024 Approved Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/easily-create-compelling-fb-video-ads-with-no-cost-kit-for-2024/"><u>Easily Create Compelling FB Video Ads with No-Cost Kit for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hydrogen-peroxide-h2o2-it-releases-oxygen-when-applied-to-a-wound-creating-a-foam-that-helps-remove-debris-and-bacteria-however-it-can-also-damage-healthy-c31/"><u>Hydrogen Peroxide (H2O2) - It Releases Oxygen when Applied to a Wound, Creating a Foam that Helps Remove Debris and Bacteria. However, It Can Also Damage Healthy Cells Surrounding the Wound, so Its Use Is Somewhat Controversial Among Medical Professionals.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-edge-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Edge 2023 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>In 2024, Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-features-unveiled-in-our-lenovo-thinkpad-x1-carbon-gen-12-analysis-where-lightweight-meets-intelligent-computing/"><u>Innovative Features Unveiled in Our Lenovo ThinkPad X1 Carbon Gen 12 Analysis: Where Lightweight Meets Intelligent Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-pcs-and-peripherals-by-tom-your-trusted-source/"><u>Inside the World of PCs and Peripherals by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ultrabook-models-and-luxury-laptop-reviews/"><u>Leading Ultrabook Models & Luxury Laptop Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-shakes-up-computing-industry-thinkpad-p1-gen-7-revolutionizes-portability-efficiency-and-power-with-groundbreaking-lpcamm2-memory/"><u>Lenovo Shakes Up Computing Industry: ThinkPad P1 Gen 7 Revolutionizes Portability, Efficiency & Power with Groundbreaking LPCAMM2 Memory</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-grab-the-amazing-2024-asus-tuf-gaming-a15-laptop-for-just-658/"><u>Memorial Day Deal: Grab the Amazing 2024 Asus TUF Gaming A15 Laptop for Just $658!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-unveils-revolutionary-aiplus-gaming-and-creative-workstations-delivering-exceptional-performance-from-100-542-tops/"><u>MSI Unveils Revolutionary AI+ Gaming & Creative Workstations: Delivering Exceptional Performance From 100-542 TOPS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-review-of-gigabytes-g6x-laptop-decent-functionality-without-distinctive-attributes/"><u>Performance Review of Gigabyte's G6X Laptop: Decent Functionality without Distinctive Attributes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pro-tips-for-building-your-dream-rig-expert-advice-straight-from-toms-hardware-analysis/"><u>Pro Tips for Building Your Dream Rig - Expert Advice Straight From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-resolving-iphone-airplay-problems-on-ios-12/"><u>Ultimate Guide to Resolving iPhone AirPlay Problems on iOS 12</u></a></li>
 </ul></div>
 

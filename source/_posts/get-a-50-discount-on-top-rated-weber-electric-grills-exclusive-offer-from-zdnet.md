@@ -1,7 +1,7 @@
 ---
 title: Get a $50 Discount on Top-Rated Weber Electric Grills - Exclusive Offer From ZDNet!
-date: 2024-09-19 11:40:20
-updated: 2024-09-20 12:49:55
+date: 2024-10-19T00:54:39.989Z
+updated: 2024-10-20T16:08:36.265Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,28 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-demystifying-income-flow-to-creators-within-the-short-video-model/"><u>[New] In 2024, Demystifying Income Flow to Creators Within the Short Video Model</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms/"><u>[New] In 2024, Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapid-relay-youtube-playlists-to-the-public/"><u>[Updated] Rapid Relay Youtube Playlists to the Public</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>In 2024, The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-watermark-no-problem-7-best-video-merger-software/"><u>New In 2024, No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimized-websites-powered-by-the-latest-from-cookiebot/"><u>Optimized Websites Powered by the Latest From Cookiebot</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-reno-11-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Reno 11 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-latest-from-deepcool-high-performance-coolers-power-supplies-fans-and-rigs-now-in-vibrant-pixel-silicone-variants/"><u>Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chilled-anywhere-exploring-the-aquatic-world-with-freezes-innovative-active-cooling-technology-in-their-new-sporty-waterproof-fanless-device/"><u>Stay Chilled Anywhere: Exploring the Aquatic World with Freeze's Innovative Active Cooling Technology in Their New Sporty Waterproof, Fanless Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-digital-workshop-in-depth-analysis-of-the-latest-technology/"><u>Tom's Digital Workshop: In-Depth Analysis of the Latest Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-and-hardware-reviews/"><u>Tom's Tech Insights: Comprehensive Computer and Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews/"><u>Tom's Tech Insights: In-Depth Guides & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-am3600-motherboards-unlocking-the-power-of-amds-budget-friendly-pcie-40-feature/"><u>Top-Rated AM3600 Motherboards: Unlocking the Power of AMD's Budget-Friendly PCIe 4.0 Feature</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-noticed-with-a-professional-video-resume-top-4-makers/"><u>Updated In 2024, Get Noticed with a Professional Video Resume Top 4 Makers</u></a></li>
+</ul></div>
+

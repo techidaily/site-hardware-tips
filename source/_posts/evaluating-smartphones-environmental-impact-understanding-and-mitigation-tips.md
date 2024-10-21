@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Smartphone's Environmental Impact: Understanding & Mitigation Tips"
-date: 2024-09-17 22:28:37
-updated: 2024-09-20 12:50:25
+date: 2024-10-19T16:59:00.811Z
+updated: 2024-10-21T04:26:26.218Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,19 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +191,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-syncing-sound-with-visuals-on-facebook-essential-guide/"><u>[New] 2024 Approved Syncing Sound with Visuals on Facebook - Essential Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-efficient-mobile-methods-for-snapchat-archive/"><u>[New] Efficient Mobile Methods for Snapchat Archive</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-techniques-to-ensure-uninterrupted-video-capturing-for-2024/"><u>[New] Techniques to Ensure Uninterrupted Video Capturing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-index-downloading-your-preferred-chime-files/"><u>[Updated] Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-fitness-monitoring-made-excellent-the-detailed-xiaomi-mi-smart-band-4-review/"><u>Affordable Fitness Monitoring Made Excellent - The Detailed Xiaomi Mi Smart Band 4 Review</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprendre-chkdsk-risque-delimination-des-fichiers-sur-le-disque-dur/"><u>Comprendre CHKDSK : Risque D'Elimination Des Fichiers Sur Le Disque Dur?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/panorama-pixels-cutting-edge-photo-assembler/"><u>Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-prores-format-using-windows-11/"><u>Step-by-Step Guide: Transforming MP4 Videos Into ProRes Format Using Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-cutting-edge-gadgets-and-components/"><u>Tom's Tech Hub: Your Guide to Cutting-Edge Gadgets and Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-reviews/"><u>Tom's Tech Insights: Comprehensive Computer Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-insightful-analysis-on-latest-computer-components/"><u>Tom's Tech Review: Insightful Analysis on Latest Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-picking-the-perfect-soldering-tools/"><u>Ultimate Guide: Picking the Perfect Soldering Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-gaming-headsets-and-mic-combos-for-online-play/"><u>Ultimate Selection of Gaming Headsets and Mic Combos for Online Play</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-revolutionary-3d-printed-holographics-for-high-capacity-encoding-of-keys-and-addresses-up-to-57n-bits/"><u>Unlock the Potential: Revolutionary 3D-Printed Holographics for High Capacity Encoding of Keys and Addresses (Up to 57N Bits)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-systems-on-toms-tech-hub/"><u>Unveiling New Gadgets and Systems on Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-newest-innovations-a-tour-of-toms-hardware-review-site/"><u>Unveiling the Newest Innovations: A Tour of Tom's Hardware Review Site</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-software-for-movie-trailers-on-mac-and-pc/"><u>Updated Best Video Editing Software for Movie Trailers on Mac and PC</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: What To Do When You Switch Phones? Ideas for Responsibly Disposing Of Old Mobile Devices
-date: 2024-09-18 20:40:15
-updated: 2024-09-20 12:33:19
+date: 2024-10-18T22:29:42.084Z
+updated: 2024-10-21T02:16:31.437Z
 tags:
   - sustainability
 categories:
@@ -25,6 +25,13 @@ Should you add it to the junk drawer where all your other old devices and chargi
 
 First, here's what not to do: never dispose of your device in your household garbage. Not only will you send your device straight to a landfill and pollute the environment with the potentially toxic metals found in your device, but [in some states](https://recyclenation.com/2021/08/throw-it-out-or-recycle-it-each-states-rules-on-electronics-recycling-updated-2021/) and [countries](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee%5Fen), you will be breaking the law, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before buying a new electronic device
 
 Many people upgrade their devices on a regular basis as tech companies announce a lineup of new devices every year. But usually it's unnecessary to upgrade your device that frequently, as more current devices typically only offer one or two minor upgrades. 
@@ -36,6 +43,13 @@ If you've only had your current device for a year or two, consider holding onto 
 If your issue with your current device is aesthetics, consider buying a new case or revamping your device's home and lock screen. Some apps can [completely change your device's home and lock screen appearance](https://www.makeuseof.com/best-apps-to-customize-iphone-home-screen/), offering more personalized widgets and icons. If it's a PC or laptop you are thinking about, it might be possible to upgrade your existing model with new components. 
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Before you sell: Is there another option?
 
@@ -54,6 +68,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,27 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-streamlining-your-iphones-gif-experience-from-savings-to-showtime/"><u>[New] 2024 Approved Streamlining Your iPhone's GIF Experience - From Savings to Showtime</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridge-gap-twitter-video-and-chrome-compatibility/"><u>[Updated] Bridge Gap Twitter Video and Chrome Compatibility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-tailoring-the-perfect-video-recording-and-post-production-with-adobe-connect/"><u>[Updated] Tailoring the Perfect Video Recording and Post-Production with Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-virtual-teamwork-made-simple-on-facebook-live/"><u>[Updated] Virtual Teamwork Made Simple on Facebook Live</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-appreciate-with-us-open-source-and-subscription-outro-samples/"><u>2024 Approved Appreciate with Us Open-Source & Subscription Outro Samples</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-smooth-strategies-for-uncluttered-google-meet-sessions/"><u>2024 Approved Smooth Strategies for Uncluttered Google Meet Sessions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-3d-printers-of-the-year-2024-a-closer-look-at-fdm-resin-and-under-250-budget-choices/"><u>Best Value 3D Printers of the Year 2024: A Closer Look at FDM, Resin and Under $250 Budget Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-gaming-rig-selection-top-5-laptops-under-1500/"><u>Budget-Friendly Gaming Rig Selection: Top 5 Laptops Under $1,500</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/challenges-of-creating-functional-guns-through-3d-printing-a-first-hand-experience/"><u>Challenges of Creating Functional Guns Through 3D Printing - A First-Hand Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125183339-dive-into-the-world-of-gadgets-premium-guides-and-in-depth-analysis-by-toms-hardware-your-trusted-tech-authority/"><u>Dive Into the World of Gadgets - Premium Guides & In-Depth Analysis by Tom's Hardware | Your Trusted Tech Authority</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-mpow-mic-not-working-error-on-pcs/"><u>Effective Solutions for MPOW Mic Not Working Error on PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-performance-with-nvidia-geforce-210-drivers-for-windows-10/"><u>Enhance Your PC Performance with NVIDIA GeForce 210 Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-system-ai-thermal-paste-infused-with-nanodiamond-technology-from-cooler-master-comes-in-cryofuze-vee/"><u>Upgrade Your PC's Cooling System - AI 'Thermal Paste' Infused with Nanodiamond Technology From Cooler Master, Comes in CryoFuze Vee</u></a></li>
+</ul></div>
+

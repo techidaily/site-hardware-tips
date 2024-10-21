@@ -1,7 +1,7 @@
 ---
 title: "Innovative Bioenergy Breakthrough: Mushrooms Meet Tech in the Quest for Greener Power Solutions | ZDNET"
-date: 2024-09-17 16:16:35
-updated: 2024-09-20 12:22:33
+date: 2024-10-13T22:19:11.842Z
+updated: 2024-10-21T05:30:24.367Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-best-5-programs-for-snagging-facebook-feeds/"><u>[New] 2024 Approved The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beta-blocker-metabolism-is-often-mediated-by-liver-enzymes-with-genetic-variations-affecting-drug-levels/"><u>Beta Blocker Metabolism Is Often Mediated by Liver Enzymes, with Genetic Variations Affecting Drug Levels.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/construct-powerpoint-into-digital-film/"><u>Construct PowerPoint Into Digital Film</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-view-remove-windows-overscan-effects/"><u>Enhance Your View: Remove Windows Overscan Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-how-does-the-levelplay-combat-air-ca4-keep-your-cpu-cool-and-quiet/"><u>Expert Review: How Does the Levelplay Combat Air CA4 Keep Your CPU Cool and Quiet?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-gear-with-tom-insights-and-analysis/"><u>Exploring Advanced Computing Gear with Tom - Insights & Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-your-go-to-guide/"><u>Exploring Technology with Tom - Your Go-To Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-tom-comprehensive-hardware-guides/"><u>Exploring the Latest Gadgets with Tom - Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-guides/"><u>Exploring the Latest Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-create-and-edit-videos-on-windows-11/"><u>How to Create and Edit Videos on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illusions-realized-what-is-augmented-reality-in-2024/"><u>Illusions Realized What Is Augmented Reality, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oneplus-ace-3-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost OnePlus Ace 3 for Free? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-why-the-arctic-liquid-freezer-iii-aio-doesnt-meet-expectations/"><u>In-Depth Review: Why the Arctic Liquid Freezer III AIO Doesn't Meet Expectations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-tech-solutions-spotlighted-at-toms-hardware-hub/"><u>Innovative Tech Solutions Spotlighted at Tom's Hardware Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/top-2024-video-audio-editing-software-and-apps-recommendations/"><u>Top 2024 Video Audio Editing Software & Apps - Recommendations</u></a></li>
+</ul></div>
+

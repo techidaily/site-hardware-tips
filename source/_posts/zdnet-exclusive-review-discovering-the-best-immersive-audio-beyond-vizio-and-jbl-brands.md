@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive Review: Discovering the Best Immersive Audio Beyond Vizio and JBL Brands"
-date: 2024-09-29T00:43:51.958Z
-updated: 2024-10-03T23:13:32.187Z
+date: 2024-10-18T17:32:01.409Z
+updated: 2024-10-20T16:06:34.852Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,19 +105,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-flair-up-your-stories-and-feeds-instagrams-simplified-method-of-sharing-gifs/"><u>[New] Flair Up Your Stories & Feeds Instagram's Simplified Method of Sharing GIFs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-hacker-alert-reclaiming-your-social-network/"><u>[New] Hacker Alert Reclaiming Your Social Network</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-novices-introduction-to-av1-codec/"><u>[Updated] 2024 Approved A Novice's Introduction to AV1 Codec</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-top-picks-the-ultimate-selection-of-4k-monitors-for-macos/"><u>2024 Approved Top Picks The Ultimate Selection of 4K Monitors for MacOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/complete-walkthrough-freeing-up-space-by-deleting-the-trash-on-android-phones/"><u>Complete Walkthrough: Freeing Up Space by Deleting the Trash on Android Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-your-unique-android-experience-with-no-charge-a-step-by-step-guide/"><u>Crafting Your Unique Android Experience with No Charge: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-android-lock-screen-adjusting-and-styling-the-clock-display-for-a-personal-touch/"><u>DIY Android Lock Screen: Adjusting and Styling the Clock Display for a Personal Touch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-ignore-these-crucial-phone-features-why-they-matter/"><u>Don't Ignore These Crucial Phone Features - Why They Matter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enjoy-cinema-on-the-go-best-no-cost-mobile-apps-for-movie-lovers/"><u>Enjoy Cinema on the Go: Best No-Cost Mobile Apps for Movie Lovers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fix-external-hard-drive-not-showing-up-in-windows-7/"><u>Fix External Hard Drive Not Showing Up in Windows 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-reno-10-proplus-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Reno 10 Pro+ 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-six-pioneering-steps-for-moving-mov-files-to-win-11/"><u>In 2024, Six Pioneering Steps for Moving MOV Files to Win 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-dialogue-draft-directory-for-2024/"><u>Prime Dialogue Draft Directory for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-fix-bring-youtube-music-to-your-imovie-projects/"><u>Quick Fix Bring YouTube Music to Your iMovie Projects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-virtual-giggle-creator-for-2024/"><u>[New] Virtual Giggle Creator for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-modern-marvel-of-laptops-a-closer-look-at-the-dell-xps-13s-latest-makeover-and-snapdragon-x-elite-integration/"><u>Experience the Modern Marvel of Laptops - A Closer Look at the Dell XPS 13'S Latest Makeover and Snapdragon X Elite Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-microsoft-surface-pro-with-copilotplus-stunning-design-meets-underwhelming-ai-capabilities/"><u>Expert Analysis of Microsoft Surface Pro with Copilot+: Stunning Design Meets Underwhelming AI Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-evaluations-by-tom-find-your-perfect-tech-companion/"><u>Expert Hardware Evaluations by Tom: Find Your Perfect Tech Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-lenovo-thinkpad-x1-carbon-gen-12-portable-powerhouse-equipped-with-next-generarian-artificial-intelligence/"><u>Exploring the Lenovo ThinkPad X1 Carbon Gen 12: Portable Powerhouse Equipped with Next-Generarian Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-use-of-hugging-face-in-ai-technology/"><u>Exploring the Use of Hugging Face in AI Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-in-depth-insights-and-analysis/"><u>Exploring Tom's Hardware: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgetguardians-roundup-the-best-performers-in-modern-computing-and-more/"><u>GadgetGuardians' Roundup: The Best Performers in Modern Computing & More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-changer-msis-newest-aiplus-laptops-elevate-gamers-and-creators-with-powerful-100-to-wartime-542-tops-processing/"><u>Game Changer: MSI's Newest AI+ Laptops Elevate Gamers and Creators with Powerful 100 to Wartime 542 TOPS Processing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-google-pixel-8-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Google Pixel 8 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reimagining-creation-in-the-crypto-world-a-guide-to-top-nft-generating-platforms/"><u>Reimagining Creation in the Crypto World - A Guide to Top NFT-Generating Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/whats-the-maximum-fps-for-exceptional-slow-motion-vids/"><u>What's the Maximum FPS for Exceptional Slow Motion Vids?</u></a></li>
 </ul></div>
 

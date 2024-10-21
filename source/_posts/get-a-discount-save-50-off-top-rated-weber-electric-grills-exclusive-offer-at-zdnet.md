@@ -1,7 +1,7 @@
 ---
 title: "Get a Discount: Save $50 Off Top-Rated Weber Electric Grills - Exclusive Offer at ZDNet!"
-date: 2024-09-18 20:45:14
-updated: 2024-09-20 10:38:37
+date: 2024-10-19T01:09:11.142Z
+updated: 2024-10-20T19:36:08.968Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,33 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-decoding-aspect-ratios-for-effective-youtube-videos/"><u>[New] Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-first-step-to-a-profitable-youtube-experience-for-2024/"><u>[New] Your First Step to a Profitable Youtube Experience for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-streamlining-the-process-of-updating-tiktok-profile-age/"><u>[Updated] In 2024, Streamlining the Process of Updating TikTok Profile Age</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-vlogging-cameras-with-a-flip-screen-for-2024/"><u>12 Best Vlogging Cameras with a Flip Screen for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-innovative-metaverse-marketing-for-2024/"><u>A Guide to Innovative Metaverse Marketing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-electronics-with-tom-the-ultimate-hardware-hub/"><u>Decoding Electronics with Tom: The Ultimate Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-tech-insights-at-toms-hardware-expert-reviews-and-comparisons/"><u>Discover Advanced Tech Insights at Tom's Hardware: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-superior-case-options-for-your-raspberry-pi-top-picks/"><u>Discovering Superior Case Options for Your Raspberry Pi - Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ekwb-officially-apologizes-for-late-payouts-commits-to-improved-practices/"><u>EKWB Officially Apologizes for Late Payouts: Commits to Improved Practices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-picks-for-ultraportable-computers-a-comprehensive-review/"><u>Elite Picks for Ultraportable Computers : A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-high-speed-microsd-cards-for-seamless-raspberry-pi-use-in-2eplust-year/"><u>Elite Selection of High-Speed MicroSD Cards for Seamless Raspberry Pi Use in 2E+t Year</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722859202980-evaluating-the-value-of-minecraft-realms-for-players/"><u>Evaluating the Value of Minecraft Realms for Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-how-to-transform-sketches-into-beautiful-lithophanes-using-a-3d-printer/"><u>Expert Advice: How to Transform Sketches Into Beautiful Lithophanes Using a 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-by-tom-on-cutting-edge-devices/"><u>Expert Analysis by Tom on Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-horizons-innovative-findings-from-the-toms-technology-review-platform/"><u>Expert Hardware Horizons: Innovative Findings From The Tom's Technology Review Platform</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 15 Pro How to Bypass?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-audio-editing-with-garageband-for-2024/"><u>Navigating the World of Audio Editing with GarageBand for 2024</u></a></li>
+</ul></div>
+

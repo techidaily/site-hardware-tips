@@ -1,7 +1,7 @@
 ---
 title: "Reduce Your Emissions with Uber's Latest Feature: Discover the Amount of CO2 You've Prevented From Polluting Our Atmosphere - The Complete Guide | ZDNet"
-date: 2024-09-18 19:21:30
-updated: 2024-09-20 11:15:11
+date: 2024-10-15T23:38:04.104Z
+updated: 2024-10-20T19:39:18.557Z
 tags:
   - sustainability
 categories:
@@ -66,11 +66,36 @@ Uber is taking steps to ensure the savings shown are as accurate as possible. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-audio-recording-made-easy-free-x-recorder-for-pc/"><u>[New] Audio Recording Made Easy Free X-Recorder for PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-lexicon-of-persuasion-in-business-communication/"><u>[New] The Lexicon of Persuasion in Business Communication</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hdr-video-power-windows-edition-explained/"><u>[Updated] HDR Video Power Windows Edition Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-c50-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco C50?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-compelling-video-storylines-with-chatgpt-script-help/"><u>Crafting Compelling Video Storylines with ChatGPT Script Help</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-11-proplus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme 11 Pro+ For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-displaylink-driver-installed-on-windows-10-fast/"><u>How to Get Your DisplayLink Driver Installed on Windows 10 - Fast!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-dauntless-pc-gaming-issues-solutions-explored/"><u>How to Resolve Dauntless PC Gaming Issues - Solutions Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-fast-pace-3d-print-technology-by-mit-harnesses-waste-metal-and-glass-bead-layers/"><u>New Fast-Pace 3D Print Technology by MIT Harnesses Waste Metal & Glass Bead Layers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-discoveries-curated-by-tom-and-his-team/"><u>Pioneering Hardware Discoveries Curated by Tom and His Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premier-selection-of-stm32qeg-kits-with-grove-expansion-blocks-for-raspberry-pi-and-arduino-newest-lineup/"><u>Premier Selection of STM32QEG Kits with Grove Expansion Blocks for Raspberry Pi & Arduino - Newest Lineup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-deal-with-the-elegoo-neptune-4-pro-sub-300-laser-cutter-at-284/"><u>Score a Deal with the Elegoo Neptune 4 Pro: Sub-$300 Laser Cutter at $284</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-test-showdown-identifying-the-speed-champions-amongst-3d-printers/"><u>Speed Test Showdown: Identifying the Speed Champions Amongst 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-best-3d-printing-tech-fdm-and-more-for-under-250/"><u>The Ultimate Guide to Best 3D Printing Tech - FDM & More for Under $250</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-cpu-coolers-liquid-and-airflow-varieties/"><u>The Ultimate Guide to Selecting the Best CPU Coolers - Liquid and Airflow Varieties</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Electric Future Fuels as GM and Samsung SDI Announce Joint Venture, Planning $3 Billion EV Battery Plant in America
-date: 2024-10-02T22:49:24.245Z
-updated: 2024-10-04T02:48:57.027Z
+date: 2024-10-13T16:19:34.235Z
+updated: 2024-10-21T00:09:29.672Z
 tags:
   - transportation
 categories:
@@ -77,26 +77,28 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-video-call-alternatives-zooms-rivalry-explained/"><u>[New] In 2024, Premier Video Call Alternatives Zoom's Rivalry Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-revealing-the-best-screen-grabbers-for-web-use/"><u>[New] In 2024, Revealing the Best Screen Grabbers for Web Use</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-photography-editing-tips-for-making-stunning-photos/"><u>[Updated] In 2024, Photography Editing Tips for Making Stunning Photos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-efficient-and-effective-tag-usage-on-youtube/"><u>[Updated] Step-by-Step Guide to Efficient and Effective Tag Usage on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-infinix-note-30-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Note 30 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-how-to-use-creative-commons-copyright-licenses/"><u>In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-seamless-storytelling-3-ways-to-use-transitions-in-final-cut-pro/"><u>New 2024 Approved Seamless Storytelling 3 Ways to Use Transitions in Final Cut Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/taking-down-tarkov-obstacle-mastering-the-art-of-resolving-error-code-103003-on-your-device/"><u>Taking Down Tarkov Obstacle - Mastering the Art of Resolving Error Code 103003 on Your Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-quality-hardware-with-toms-reviews/"><u>The Ultimate Guide to Quality Hardware with Tom's Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-innovative-electronics-by-tom-hardcore-tech/"><u>The Ultimate Resource for Innovative Electronics by Tom Hardcore Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-electronics-hub-the-ultimate-hardware-resource/"><u>Tom's Electronics Hub: The Ultimate Hardware Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-channel-your-source-for-cutting-edge-pcs-and-devices/"><u>Tom's Hardware Review Channel: Your Source for Cutting-Edge PCs and Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-overcome-vanished-youtube-minute-media/"><u>[Updated] 2024 Approved Overcome Vanished YouTube Minute Media</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-mi-drone-4k-review-drones-vs-landscape-photography/"><u>2024 Approved The Mi Drone 4K Review Drones vs Landscape Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-sites-convert-your-favorite-youtube-moments-into-ringtones-for-2024/"><u>Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oneplus-12-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on OnePlus 12 online without jailbreak</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-media-playback-issues-in-windows-easy-fix-guide/"><u>Overcome 'Media Playback Issues' In Windows - Easy Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-gaming-experience-with-smooth-120fps-gameplay-on-ps5/"><u>Revolutionize Your Gaming Experience with Smooth 120Fps Gameplay on PS5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-hardware-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Hardware by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-the-ultimate-guide/"><u>Tom's Hardware Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-and-equipment-reviews/"><u>Tom's Tech Insights: In-Depth Guides & Equipment Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-bargain-alert-a-high-quality-sceptre-24-curve-gaming-monitor-for-just-79/"><u>Unbelievable Bargain Alert: A High-Quality Sceptre 24 Curve Gaming Monitor for Just $79!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-premium-game-devices-youtube-edition/"><u>Unboxing Premium Game Devices YouTube Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-game-with-a-sale-the-high-performance-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-for-only-199/"><u>Unleash Your Game with a Sale – The High-Performance Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor for Only $199</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-high-performance-computers-with-toms-insider-knowledge/"><u>Unlock the Secrets of High-Performance Computers with Tom's Insider Knowledge</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

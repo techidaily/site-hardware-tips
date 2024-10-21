@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Eco-Friendly Strategies for Energy-Efficient Gadgets: Slash Costs & Support the Planet - Insights From ZDNet"
-date: 2024-09-19 15:45:41
-updated: 2024-09-20 11:22:39
+date: 2024-10-18T23:55:37.765Z
+updated: 2024-10-20T21:53:47.722Z
 tags:
   - sustainability
 categories:
@@ -26,6 +26,19 @@ Sure, you can reduce, reuse, and recycle all you want, but when it comes to our 
 The idea of sustainability is broad, but experts recommend looking at not only what tech products you buy, but how you use your devices can make even a little impact on being more "green" with technology.
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Take stock of your own sustainability and look at your lifestyle
 
@@ -89,6 +102,13 @@ And if you don't have a Samsung phone, there are still ways to upcycle. For exam
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Become an educated consumer
 
 Newton says sustainability is not simply about doing the right things but also about supporting the right companies and making informed buying decisions. 
@@ -102,6 +122,13 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
 ### Utilize smart home automations
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -119,6 +146,13 @@ Image: Amazon
 Since heating and cooling are responsible for [almost 50%](https://www.energy.gov/public-services/homes/heating-cooling) of energy use in an average US home, smart home products can help you consume less energy while saving cash on your bill. 
 
 Look into intuitive smart thermostats like Nest or Ecobee with voice-control features and ambient temperature sensors. In addition, [Neurio](https://elemental.green/neurio-smart-energy-monitor/) is a smart energy monitor that gives you real-time monitoring to see where energy is being used in your house, track your appliance use, and compare your home energy use to others. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't upgrade if you don't have to
 
@@ -151,11 +185,30 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlocking-full-screen-recording-features-in-mi-11/"><u>[New] 2024 Approved Unlocking Full-Screen Recording Features in Mi 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-become-a-top-notch-interviewer/"><u>2024 Approved Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-in-depth-analysis-from-toms-hardware-experts/"><u>Advanced PC Review: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid-for-2024/"><u>How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175682612-hytes-nexus-link-revolutionize-pc-building-with-its-huge-display-aio-cooler-and-magnetic-snap-together-fans/"><u>Hyte's Nexus Link: Revolutionize PC Building with Its Huge Display AIO Cooler and Magnetic Snap Together Fans!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timing-for-virality-in-video-content-sharing/"><u>In 2024, Strategic Timing for Virality in Video Content Sharing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-ultimate-guide-to-earning-on-tiktok-step-by-step-8-methods/"><u>In 2024, The Ultimate Guide to Earning on TikTok, Step by Step (8 Methods)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-typing-dynamics-the-ultimate-guide-to-qidi-techs-revolutionary-q1-pro-keyboard/"><u>Transforming Typing Dynamics: The Ultimate Guide to QIDI Tech's Revolutionary Q1 Pro Keyboard</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-dota-2-when-it-gets-stuck-during-initial-load/"><u>Troubleshooting Steps for Dota 2 when It Gets Stuck During Initial Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-erratic-wireless-mouse-problem-in-windows-11-and-10-a-comprehensive-guide/"><u>Troubleshooting Your Erratic Wireless Mouse Problem in Windows 11 and 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-sd-card-for-your-raspberry-pi/"><u>Ultimate Guide: Choosing the Perfect SD Card for Your Raspberry Pi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-with-toms-hardware-diagnostics/"><u>Unlocking Tech Secrets with Tom's Hardware Diagnostics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-pc-builds-and-upgrades-with-tom/"><u>Unraveling the Secrets of PC Builds and Upgrades with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-a-guide-by-toms-hardware-experts/"><u>Unveiling New Gadgets: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-copilot-assistant-discontinued-what-you-need-to-know-about-its-departure/"><u>Windows 11 Copilot Assistant Discontinued - What You Need to Know About Its Departure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-shorts-earning-strategies-what-you-need-how-much-you-can-make/"><u>Youtube Shorts Earning Strategies What You Need, How Much You Can Make</u></a></li>
+</ul></div>
+

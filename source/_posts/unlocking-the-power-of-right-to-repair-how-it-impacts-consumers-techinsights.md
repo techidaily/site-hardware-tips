@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Right-to-Repair - How It Impacts Consumers | TechInsights
-date: 2024-09-19 14:43:38
-updated: 2024-09-20 10:10:59
+date: 2024-10-16T22:30:32.274Z
+updated: 2024-10-20T17:48:16.902Z
 tags:
   - sustainability
 categories:
@@ -19,6 +19,13 @@ Image: Thanasis/Getty Images
 
 When devices like phones, tablets and laptops are damaged or break down, it can often be very complicated and costly to get them fixed. It can mean going through a particular supplier nominated by the manufacturer, and often the fix is so expensive that it's easier to simply buy a new device. Fixing it yourself is nearly impossible because spare parts are very hard to come by -- as are the manuals and tools needed to fix even the simplest of problems -- or the components are glued in place.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
@@ -31,9 +38,23 @@ One of the major objectives of right to repair laws is to make repairs much more
 
 One major issue the legislation is trying to tackle is reducing e-waste. According to the [United States Environmental Protection Agency (EPA)](https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste#:~:text=There%20are%20also%20problems%20with,neurological%20damage%20and%20diminished%20IQs.), consumers and businesses discarded 2.37 million tons of e-waste including televisions, computers, and cell phones in 2009\. By having people fix their own phones or find more affordable options, people won't have to dispose of their current products as often, reducing e-waste. Longer lasting hardware, and less e-waste makes right to repair a compelling argument for many.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do right to repair laws refer to?
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does e-waste affect the environment? Why should e-waste be reduced?
 
@@ -62,6 +83,13 @@ The modified, passed bill reads: "This agreement eliminates the bill's original 
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
@@ -110,11 +138,31 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-app-review-for-crafting-unique-reels/"><u>[New] 2024 Approved The Ultimate App Review for Crafting Unique Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-essentials-for-the-avid-gamer/"><u>[Updated] Funimate Essentials for the Avid Gamer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-tips-for-high-quality-discord-recordings/"><u>2024 Approved Essential Tips for High-Quality Discord Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-multi-lens-modifiers-for-creative-video-effects/"><u>2024 Approved Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-the-access-denied-issue-corrective-steps-for-a-401-error/"><u>Bypassing the Access Denied Issue - Corrective Steps for a 401 Error</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-247-wellness-monitoring-with-garmin-venu-your-ultimate-activity-tracker/"><u>Experience 24/7 Wellness Monitoring with Garmin Venu: Your Ultimate Activity Tracker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-customer-reports-understanding-the-nh-d15-g2-fan-vibration-concerns-raised-by-users/"><u>Exploring Customer Reports: Understanding the NH-D15 G2 Fan Vibration Concerns Raised by Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-with-toms-equipment-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-american-sanctions-on-deepcools-role-in-fueling-russias-war-resources-against-ukraine/"><u>Impact of American Sanctions on DeepCool's Role in Fueling Russia’s War Resources Against Ukraine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovations-decoded-a-journey-into-the-world-of-technology-by-toms-components-corner/"><u>Innovations Decoded: A Journey Into the World of Technology by Tom’s Components Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-digital-workshop-innovative-findings-by-toms-hardware-experts/"><u>Inside the Digital Workshop: Innovative Findings by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maintaining-a-tangle-free-experience-with-3d-printing-filaments/"><u>Maintaining a Tangle-Free Experience with 3D Printing Filaments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cold-storage-on-a-dime-the-ultimate-review-of-icebergs-thermal-icefloe-oasis-models/"><u>Mastering Cold Storage on a Dime: The Ultimate Review of Iceberg's Thermal IceFLOE Oasis Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-toms-in-depth-technology-guides/"><u>Mastering Hardware with Tom's In-Depth Technology Guides</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-without-admin-authorization/"><u>Resetting Windows 11 Without Admin Authorization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-document-creation-with-microsoft-word-speech-recognition-for-2024/"><u>Streamline Document Creation with Microsoft Word Speech Recognition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-gear-top-10-pc-headsets-2023-edition/"><u>VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
+</ul></div>
+

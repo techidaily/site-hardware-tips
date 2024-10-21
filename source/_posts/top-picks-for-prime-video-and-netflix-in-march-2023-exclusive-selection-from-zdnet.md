@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Prime Video & Netflix in March 2023 - Exclusive Selection From ZDNet
-date: 2024-10-11T16:25:30.658Z
-updated: 2024-10-15T16:35:43.101Z
+date: 2024-10-13T20:47:31.979Z
+updated: 2024-10-21T00:05:52.903Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,16 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-saving-social-media-stories-chromes-top-5-tools-for-2024/"><u>[Updated] Saving Social Media Stories Chromes' Top 5 Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>2024 Approved The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
-<li><a href="https://fox-info.techidaily.com/crack-the-code-top-10-hidden-iphone-x-functions/"><u>Crack The Code Top 10 Hidden iPhone X Functions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/regain-control-how-to-combat-cellphone-disruption-in-four-easy-steps/"><u>Regain Control: How to Combat Cellphone Disruption in Four Easy Steps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reliving-the-good-old-days-the-unforgettable-aspects-of-dial-up-connections/"><u>Reliving the Good Old Days: The Unforgettable Aspects of Dial-Up Connections</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/repurposing-your-unused-tablet-as-a-pet-entertainment-device/"><u>Repurposing Your Unused Tablet as a Pet Entertainment Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-gaming-the-impact-of-switching-to-a-curved-ultrawide-display/"><u>Revolutionizing Gaming: The Impact of Switching to a Curved Ultrawide Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamlessly-integrate-android-autocarplay-into-your-vehicle-with-simple-steps/"><u>Seamlessly Integrate Android Auto/CarPlay Into Your Vehicle with Simple Steps</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-restoring-the-missing-system-write-in-functionality-in-data-backups-3-proven-solutions/"><u>Troubleshooting: Restoring the Missing System Write-In Functionality in Data Backups (3 Proven Solutions)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-g54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Motorola G54 5G</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/huckle-filled-creativity-crafting-7-side-splitting-youtube-sets-for-2024/"><u>[New] Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-freeze-entire-browser-display/"><u>[New] In 2024, Freeze Entire Browser Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-tech-with-toms-computing-innovations/"><u>Exploring Cutting-Edge Tech with Tom's Computing Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-mastery-with-tom-in-depth-hardware-analysis-and-tips/"><u>Gadget Mastery with Tom: In-Depth Hardware Analysis and Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improving-dall-e-3-the-latest-addition-of-editing-features-requires-further-development/"><u>Improving DALL-E 3: The Latest Addition of Editing Features Requires Further Development</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-through-excellent-alternatives-to-gopro-cams/"><u>In 2024, Navigating Through Excellent Alternatives to GoPro Cams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/insightful-guide-to-sharex-critiques-and-counterparts/"><u>Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-3d-qr-code-printing-techniques-for-high-definition-results/"><u>Master the Art of 3D QR Code Printing: Techniques for High Definition Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-an-in-depth-look-from-toms-perspective/"><u>Navigating the Latest in Computing: An In-Depth Look From Tom's Perspective</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>New In 2024, The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-monitoring-your-audience-engagement-on-youtube/"><u>Strategies for Monitoring Your Audience Engagement on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-pick-for-gamers-2024s-top-screens-with-advanced-tech-and-competitive-pricing/"><u>The Best Pick for Gamers: 2024'S Top Screens with Advanced Tech & Competitive Pricing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-finding-the-perfect-b550-motherboards-with-pcie-asterisk-4-support-at-a-great-price/"><u>The Ultimate Guide to Finding the Perfect B550 Motherboards with PCIe Asterisk 4 Support at a Great Price</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-full-spectrum-of-sound-best-apps-for-music-videos-for-2024/"><u>Unleash the Full Spectrum of Sound Best Apps for Music Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-vibrant-colors-easily-construct-your-rainbow-computer-with-the-hyte-nexus-link-and-rgb-devices/"><u>Unleash Vibrant Colors: Easily Construct Your Rainbow Computer with the Hyte Nexus Link and RGB Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Initiating Change: Corporate Strategies at the Intersection of Technology & Environmental Responsibility | TechCrunch"
-date: 2024-09-19 11:47:43
-updated: 2024-09-20 12:32:38
+date: 2024-10-13T23:47:46.168Z
+updated: 2024-10-21T00:29:37.404Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,19 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +76,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +129,27 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-chortling-chronicles-new-comedy-sensations-on-tiktok/"><u>[New] Chortling Chronicles New Comedy Sensations on TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors/"><u>[Updated] Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-screen-casting-on-your-phone/"><u>[Updated] In 2024, The Ultimate Guide to Screen Casting on Your Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-for-perfect-3d-printing-overcoming-the-challenge-of-pillow-like-texture-defects/"><u>Advanced Tips for Perfect 3D Printing: Overcoming the Challenge of Pillow-Like Texture Defects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-hp-printer-drivers-for-windows-1011-compatible-updates/"><u>Download & Install Latest HP Printer Drivers for Windows 10/11 - Compatible Updates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125151375-grab-the-deal-on-phrozens-premium-8k-mini-s-resolution-resin-3d-printer-price-drops-to-325/"><u>Grab the Deal on Phrozen's Premium 8K Mini S Resolution Resin 3D Printer - Price Drops to $325</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/illusions-unveiled-discerning-genuine-supporters-in-digital-platforms-for-2024/"><u>Illusions Unveiled Discerning Genuine Supporters in Digital Platforms for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-k11x-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo K11x without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/samsung-ssd-driver-issues-in-windows-solved/"><u>Samsung SSD Driver Issues in Windows [Solved]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125176874-the-ultimate-guide-to-the-original-prusa-xls-impressive-size-and-concurrent-toolhead-operations/"><u>The Ultimate Guide to the Original Prusa XL's Impressive Size and Concurrent Toolhead Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-gear-a-spotlight-on-toms-hardware-findings/"><u>Unveiling the Latest in Technology Gear - A Spotlight on Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-3d-printing-process-save-time-and-money-with-the-149-elegoo-dip-n-cure-system/"><u>Upgrade Your 3D Printing Process: Save Time & Money With the $149 Elegoo Dip-N-Cure System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175695115-upgrade-your-pcs-cooling-game-lamptrons-st0ns-cpu-cooler-now-includes-a-six-inch-lcd-display-similar-in-size-to-the-proposed-iphone-15/"><u>Upgrade Your PC's Cooling Game - Lamptron's ST0nS CPU Cooler Now Includes a Six-Inch LCD Display Similar in Size to the Proposed iPhone 15</u></a></li>
+</ul></div>
+

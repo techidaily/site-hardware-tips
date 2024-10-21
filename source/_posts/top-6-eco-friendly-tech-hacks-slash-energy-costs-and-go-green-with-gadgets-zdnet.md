@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Eco-Friendly Tech Hacks: Slash Energy Costs & Go Green with Gadgets | ZDNet"
-date: 2024-09-17 14:11:51
-updated: 2024-09-20 11:48:58
+date: 2024-10-14T19:23:50.890Z
+updated: 2024-10-20T22:28:27.987Z
 tags:
   - sustainability
 categories:
@@ -27,6 +27,13 @@ The idea of sustainability is broad, but experts recommend looking at not only w
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Take stock of your own sustainability and look at your lifestyle
 
 According to the [Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/), the average US citizen has a yearly carbon footprint of 16 tons, compared to the global rate of about four tons.
@@ -40,6 +47,13 @@ Sustainability for each person could be different, especially depending on your 
 So sure, you could recycle plastic water bottles, but maybe you throw away old phones or GPS devices in the trash as soon as they stop working? Anderson says every little habit counts when it comes to sustainability, and utilizing technology in the right way to help us gauge our carbon footprint is vital.
 
 "We need to get to this point where it's not just about sustainability; it's about the specific things, the specific activities that lead us to the right sustainability outcomes," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recycle your devices, but make sure it's the proper way
 
@@ -67,6 +81,13 @@ Samsung has [e-waste collection sites](https://shop-links.co/link/?exclusive=1&p
 
 For Apple users, you can trade in any device in any condition, and Apple will give you [credit towards a new device](https://www.apple.com/recycling/nationalservices/), and recycle it for free. You can recycle any Apple-owned brand devices at Apple Stores or through [apple.com](https://www.apple.com/recycling/nationalservices/). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Upcycle your devices
 
 On the flip side, your outdated smartphone doesn't have to get recycled to give it a new life. Upcycling your old devices to bring new life to them is a great way to be sustainable with technology. 
@@ -88,6 +109,13 @@ Image: Samsung
 And if you don't have a Samsung phone, there are still ways to upcycle. For example, you can install a surveillance camera app, such as [Alfred](https://alfred.camera), on both your old and new devices, then place the old phone where you need it for an instant security camera.
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Become an educated consumer
 
@@ -151,11 +179,33 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-best-recording-equipment-for-creating-youtube-masterpieces/"><u>[New] 2024 Approved Best Recording Equipment For Creating YouTube Masterpieces</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-highlight-heroics-in-samsung-phone-games/"><u>[Updated] 2024 Approved Highlight Heroics in Samsung Phone Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unveiling-the-hidden-potential-of-twitter-archives-for-2024/"><u>[Updated] Unveiling the Hidden Potential of Twitter Archives for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beginners-pathway-to-effective-usage-of-orcaslicer-software/"><u>Beginner's Pathway to Effective Usage of OrcaSlicer Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-laptops-under-1500-quality-and-price-combined/"><u>Best Value Gaming Laptops Under $1,500 - Quality and Price Combined</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/caseking-suspends-sale-of-barrow-dabel-units-following-new-aio-radiator-quality-test-results-exposing-lead-contamination/"><u>CaseKing Suspends Sale of Barrow Dabel Units Following New AIO Radiator Quality Test Results Exposing Lead Contamination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-technology-featuring-toms-hardware-insight/"><u>Comprehensive Guide to Technology - Featuring Tom’s Hardware Insight</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/deciding-the-best-video-game-console-for-videos-for-2024/"><u>Deciding the Best Video Game Console for Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-insights-from-toms-technology-analysis/"><u>Discover Cutting-Edge Hardware Insights From Tom's Technology Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-toms-detailed-computer-and-peripheral-reviews/"><u>Discover Cutting-Edge Tech: Tom’s Detailed Computer and Peripheral Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-technology-with-tomebase-the-ultimate-guide-toms-hardware/"><u>Discover Cutting-Edge Technology with Tom'ebase - The Ultimate Guide! ⚡️ | Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-deliciousness-exploring-the-world-of-3d-chocolate-printing-with-cocoapress/"><u>DIY Deliciousness: Exploring the World of 3D Chocolate Printing with CocoaPress!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-techniques-for-combining-filaments-into-one-seamless-spool/"><u>Easy Techniques for Combining Filaments Into One Seamless Spool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-dev-error-5573-a-step-by-step-tutorial-for-playstation-and-pc-gamers/"><u>Fixing Dev Error 5573 - A Step-by-Step Tutorial for PlayStation & PC Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androids-guide-to-spinning-and-combining-video-files/"><u>In 2024, Android's Guide to Spinning & Combining Video Files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-windows-10-from-scratch-a-comprehensive-walkthrough-for-your-new-hdd/"><u>Installing Windows 10 From Scratch: A Comprehensive Walkthrough for Your New HDD</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719574908150-norges-lexicon-leapfrogging-10-minutes-a-day/"><u>Norge's Lexicon Leapfrogging, 10 Minutes A Day!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionary-hearing-aid-feature-set-to-debut-in-airpods-pro-ios-14-upgrade-no-new-headphones-required/"><u>Revolutionary Hearing Aid Feature Set to Debut in AirPods Pro iOS 14 Upgrade – No New Headphones Required</u></a></li>
+</ul></div>
+

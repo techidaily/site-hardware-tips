@@ -1,7 +1,7 @@
 ---
 title: Top 4 Affordable Home Generator Offers in December 2022 - Exclusive Picks From ZDNet
-date: 2024-09-18 13:44:27
-updated: 2024-09-20 11:53:17
+date: 2024-10-14T05:17:49.206Z
+updated: 2024-10-21T02:56:13.106Z
 tags:
   - sustainability
 categories:
@@ -20,6 +20,13 @@ Power outages from extreme weather is a year-round threat, but with a portable g
 And when you get your generator, remember to never use a gas or liquid propane-powered engine indoors and never plug a generator into your home's electrical system without first installing a transfer switch to prevent fires and other electrical damage. I've combed the web to find the best deals on portable generators, so you can save a little money while prepping for extreme weather situations.
 
 **Also:** [**Best portable power station: Emergency power when you need it**](https://www.zdnet.com/article/best-portable-power-station/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The best generator deals: November/December 2022**
 
@@ -75,6 +82,13 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDuroMax-XP13000EH-13-000-Watt-500cc-Portable-Hybrid-Gas-Propane-Generator%2F192013905%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
 
 ## What kind of generator is best for home use?
@@ -83,11 +97,31 @@ If you're looking to set up your house to go off-grid and be entirely self-suffi
 
 If you want to make sure you have electricity for at-home medical equipment and appliances during a weather emergency, a portable or inverter generator is your best option. If you do opt for a portable or inverter generator, you'll need to make sure you get one with more than enough wattage to run everything. Lowe's has a [handy worksheet](https://www.lowes.com/pdf/portable%5Fgenerator%5Fwattage%5Fchart.pdf) available, so you won't accidentally burn up your fridge.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do you hook a generator to your house?
 
 Home standby generators require licensed technicians to properly install. And even portable generators need proper preparation before you can attempt to power your whole house with one. You should never plug a portable generator directly into your home's electrical system without first having a technician install a transfer switch. 
 
 Without a transfer switch, you could overload your home's wiring, causing fires, short-outs, and all kinds of other damage. If you intend to use a portable or inverter generator to run just a few appliances, make sure to read the operating manual thoroughly before plugging anything in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long do generators last?
 
@@ -116,11 +150,25 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts-for-2024/"><u>[Updated] Becoming a Metaverse Veteran Top 7 Gadgets for the Experts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-12-ultimate-relaxing-pc-titles-for-2024/"><u>[Updated] Top 12 Ultimate Relaxing PC Titles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ffpm-demystified-your-guide-to-multi-tasking/"><u>2024 Approved FFPM Demystified Your Guide to Multi-Tasking</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-richest-video-content-star-on-earth/"><u>2024 Approved The Richest Video Content Star on Earth</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone SE</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-secrets-of-computers-and-devices-wisdom-from-toms-hardware/"><u>Unlock the Secrets of Computers & Devices – Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-future-tech-secrets-at-toms-gadget-analysis/"><u>Unlocking Future Tech Secrets at Tom's Gadget Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-vivas-multimedia-potential/"><u>Unlocking Viva's Multimedia Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-toms-equipment-evaluations/"><u>Unveiling the Latest in Computing - Tom's Equipment Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-toms-computer-diary-in-depth-hardware-analysis/"><u>Unveiling Tom's Computer Diary: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wallet-friendly-premium-keyboards-compared/"><u>Wallet-Friendly Premium Keyboards Compared</u></a></li>
+</ul></div>
+

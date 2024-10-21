@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Chip Technology Harnessed From Fungi to Charge Gadgets and Protect Our Environment | Explore with ZDNET
-date: 2024-09-17 17:36:32
-updated: 2024-09-20 12:30:21
+date: 2024-10-19T02:42:15.960Z
+updated: 2024-10-21T03:03:29.754Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-video-quality-debate-the-pros-of-30-vs-60-fps/"><u>[New] 2024 Approved Video Quality Debate The Pros of 30 Vs. 60 Fps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-building-applications-with-azure-speech-to-text/"><u>[New] Building Applications with Azure Speech to Text</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comical-content-for-apples-pixels-for-2024/"><u>Comical Content for Apple's Pixels for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-photographic-tool-dynamic-wallpaper-editor/"><u>Essential Photographic Tool Dynamic Wallpaper Editor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Google Phone without Any Data Loss</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-4k-tools-for-optimal-video-quality/"><u>In 2024, Cutting-Edge 4K Tools for Optimal Video Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-expert-analysis/"><u>Tom's Computer Insights & Expert Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-discounts-on-3d-printing-equipment/"><u>Top Discounts on 3D Printing Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-nas-solutions-ultimate-guide-to-storing-and-protecting-your-data-with-network-attached-servers/"><u>Top NAS Solutions: Ultimate Guide to Storing & Protecting Your Data with Network-Attached Servers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-quality-webcams-the-ultimate-guide/"><u>Top Quality Webcams: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-the-inside-scoop-from-toms-hardware/"><u>Unlocking Performance Secrets - The Inside Scoop From Tom's Hardware</u></a></li>
+</ul></div>
+

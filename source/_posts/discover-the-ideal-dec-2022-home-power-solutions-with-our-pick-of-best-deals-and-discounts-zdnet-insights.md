@@ -1,7 +1,7 @@
 ---
 title: Discover the Ideal Dec 2022 Home Power Solutions with Our Pick of Best Deals & Discounts | ZDNET Insights
-date: 2024-09-17 16:35:56
-updated: 2024-09-20 11:34:37
+date: 2024-10-14T04:23:56.283Z
+updated: 2024-10-21T03:55:47.880Z
 tags:
   - sustainability
 categories:
@@ -20,6 +20,13 @@ Power outages from extreme weather is a year-round threat, but with a portable g
 And when you get your generator, remember to never use a gas or liquid propane-powered engine indoors and never plug a generator into your home's electrical system without first installing a transfer switch to prevent fires and other electrical damage. I've combed the web to find the best deals on portable generators, so you can save a little money while prepping for extreme weather situations.
 
 **Also:** [**Best portable power station: Emergency power when you need it**](https://www.zdnet.com/article/best-portable-power-station/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The best generator deals: November/December 2022**
 
@@ -75,7 +82,21 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDuroMax-XP13000EH-13-000-Watt-500cc-Portable-Hybrid-Gas-Propane-Generator%2F192013905%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What kind of generator is best for home use?
 
@@ -88,6 +109,13 @@ If you want to make sure you have electricity for at-home medical equipment and 
 Home standby generators require licensed technicians to properly install. And even portable generators need proper preparation before you can attempt to power your whole house with one. You should never plug a portable generator directly into your home's electrical system without first having a technician install a transfer switch. 
 
 Without a transfer switch, you could overload your home's wiring, causing fires, short-outs, and all kinds of other damage. If you intend to use a portable or inverter generator to run just a few appliances, make sure to read the operating manual thoroughly before plugging anything in.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long do generators last?
 
@@ -116,11 +144,26 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ounteract-fake-views-boosting-genuine-audience-size-for-2024/"><u>[New] Counteract Fake Views Boosting Genuine Audience Size for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-crafting-quality-content-image-submission-for-youtubers-for-2024/"><u>[New] Crafting Quality Content Image Submission for YouTubers for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-gpio-controller-software-free-download-now/"><u>AMD GPIO Controller Software - Free Download Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solution-for-dealing-with-incorrectly-installed-amd-ryzen-master-drivers/"><u>Comprehensive Solution for Dealing with Incorrectly Installed AMD Ryzen Master Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom/"><u>Exploring Computer Components with Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-comprehensive-guides-and-reviews/"><u>Exploring Hardware with Tom: Comprehensive Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/groundbreaking-3d-print-method-delivers-operational-prosthetic-hand-in-one-step-advancing-personal-fabrication-for-missing-limbs-at-home/"><u>Groundbreaking 3D Print Method Delivers Operational Prosthetic Hand in One Step, Advancing Personal Fabrication for Missing Limbs at Home</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Headset Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-guide-to-cropped-video-content-on-instagram/"><u>In 2024, The Ultimate Guide to Cropped Video Content on Instagram</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-x100-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo X100? Fixed | Dr.fone</u></a></li>
+</ul></div>
+

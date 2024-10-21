@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on High-Quality Sony Bravia TV for Less - Exclusive Deals & Savings | ZDNET
-date: 2024-10-08T16:35:23.379Z
-updated: 2024-10-15T16:38:58.295Z
+date: 2024-10-13T22:05:52.545Z
+updated: 2024-10-21T04:20:29.844Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-listening-preferences-deciding-between-podcasts-and-youtube/"><u>[New] Listening Preferences Deciding Between Podcasts & YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-definitive-steps-to-record-your-favorite-hulu-episodes/"><u>[Updated] The Definitive Steps to Record Your Favorite Hulu Episodes</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/achetez-aomei-cyberbackup-solution-de-sauvegarde-dentreprise-abordable-et-rentable/"><u>Achetez AOMEI CyberBackup : Solution De Sauvegarde D'entreprise Abordable Et Rentable</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-v30-lite-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V30 Lite 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>In 2024, YouTube's Rewind Feat Unraveling Sequence with a Single Click</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-update-transitioning-to-android-12l-on-your-google-pixel-device/"><u>Mastering the Update: Transitioning to Android 12L on Your Google Pixel Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-use-of-googles-magic-eraser-a-comprehensive-guide-for-android-and-ios-users/"><u>Mastering the Use of Google’s Magic Eraser: A Comprehensive Guide for Android & iOS Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/oneplus-10t-unveiled-experience-rapid-charge-speeds-and-new-android-12-interface/"><u>OnePlus 10T Unveiled: Experience Rapid Charge Speeds & New Android 12 Interface</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/overcoming-issues-with-unread-texts-on-samsung-galaxy-phones/"><u>Overcoming Issues with Unread Texts on Samsung Galaxy Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/perfectly-syncing-android-iconography-with-wallpapers-a-comprehensive-guide/"><u>Perfectly Syncing Android Iconography with Wallpapers: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/useful-tips-and-apps-for-taking-amazing-android-photography-for-2024/"><u>Useful Tips and Apps for Taking Amazing Android Photography for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-rotation-riddle-decoding-the-secrets-of-video-swapping-on-social-media/"><u>[New] 2024 Approved The Rotation Riddle Decoding the Secrets of Video Swapping on Social Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smooth-shots-stronger-impressions-fixing-iphone-video-instability/"><u>[New] Smooth Shots, Stronger Impressions Fixing iPhone Video Instability</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-recommendation-best-websites-to-download-classical-ringtones-for-2024/"><u>[Updated] Recommendation Best Websites to Download Classical Ringtones for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-smart-way-to-extract-specific-segments-from-youtube/"><u>2024 Approved The Smart Way to Extract Specific Segments From YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-evaluations-by-toms-hardware-specialists/"><u>Advanced Tech Evaluations by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-c12-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia C12 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-effortless-heat-management-with-the-new-idiot-proof-thermal-paste-applicator-from-x-apply-arriving-soon/"><u>Master Effortless Heat Management with the New 'Idiot-Proof' Thermal Paste Applicator From X-Apply - Arriving Soon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-a-journey-through-toms-hardware-wisdom/"><u>Mastering PC Components: A Journey Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/miniature-marvels-unveiled-the-best-itx-computer-housing-options-of-the-year-2024-reviews/"><u>Miniature Marvels Unveiled: The Best ITX Computer Housing Options of the Year - 2024 Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-underdog-triumph-navigating-the-sls-kickstarter-campaign-to-a-strategic-acquisition-finale/"><u>The Underdog Triumph: Navigating the SLS Kickstarter Campaign to a Strategic Acquisition Finale</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-expert-computer-hardware-guidance/"><u>Tom's Tech Advice: Expert Computer Hardware Guidance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-performance-testing-a-detailed-review-of-the-family-friendly-netgear-nighthawk-x6-ac3200-3ghz-wifi-router/"><u>Top Performance Testing: A Detailed Review of the Family-Friendly Netgear Nighthawk X6 AC3200 3GHz WiFi Router</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-specialists-exceptional-instragram-highlight-artisans-for-2024/"><u>Top Specialists Exceptional Instragram Highlight Artisans for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-x-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone X?</u></a></li>
 </ul></div>
 

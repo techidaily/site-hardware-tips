@@ -1,7 +1,7 @@
 ---
 title: "Experience Amazing BBQs with Weber's Elite Electric Grills: Save $50 Today on Premier Models - Exclusive Deal!"
-date: 2024-09-17 16:59:48
-updated: 2024-09-20 11:54:16
+date: 2024-10-17T19:27:00.527Z
+updated: 2024-10-20T20:31:27.079Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,33 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-use-microsoft-azure-speech-to-text-service/"><u>[New] 2024 Approved How to Use Microsoft Azure Speech to Text Service</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catching-video-ad-campaigns-top-creators-exposed-for-2024/"><u>[New] Eye-Catching Video Ad Campaigns Top Creators Exposed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-iconic-counter-based-awards-system/"><u>[New] YouTube's Iconic Counter-Based Awards System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-best-cpu-thermal-pastes-evaluating-and-ranking-top-90-picks/"><u>2024'S Ultimate Guide to the Best CPU Thermal Pastes: Evaluating and Ranking Top 90 Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-play-40c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Play 40C to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-tiktok-giveaway-unauthorized-returns-for-safe-and-new-bambu-lab-a1-3d-printers/"><u>Accidental TikTok Giveaway: Unauthorized Returns for Safe and New Bambu Lab A1 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-ai-edgescool-with-freeze-intro-series-three-airjet-pak-models-up-to-25w-capacity/"><u>Advanced AI Edgescool with Freeze Intro Series: Three AirJet PAK Models Up to 25W Capacity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-hub-insights-and-tips-from-toms-hardware/"><u>Advanced PC Review Hub: Insights and Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anycubic-kobra-2-max-analysis-a-surprising-find-for-enthusiasts/"><u>Anycubic Kobra 2 Max Analysis: A Surprising Find for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-list-elite-laser-carving-tools/"><u>Comprehensive List: Elite Laser Carving Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-tech-the-toms-hardware-showcase/"><u>Discover Cutting-Edge Tech: The Tom's Hardware Showcase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-access-a-tutorial-on-enabling-autologin-functionality-on-windows-computers/"><u>Effortless Access: A Tutorial on Enabling Autologin Functionality on Windows Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175662321-expert-advice-for-upgrading-your-rig-check-out-toms-hardware/"><u>Expert Advice for Upgrading Your Rig? Check Out Tom's Hardware!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-uniden-r3-durable-construction-and-extended-detection-capabilities/"><u>Expert Analysis of the Uniden R3: Durable Construction and Extended Detection Capabilities</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-flv-video-editing-software-top-picks/"><u>Free FLV Video Editing Software Top Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/guided-pathway-for-large-file-exchange-in-apple-ecosystem/"><u>Guided Pathway for Large File Exchange in Apple Ecosystem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speak-with-ai-how-to-install-and-use-the-mobile-friendly-version-of-chatgpt-on-android-devices-using-voice-control/"><u>Speak with AI: How to Install and Use the Mobile-Friendly Version of ChatGPT on Android Devices Using Voice Control</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-techniques-for-utilizing-macos-screen-capture-features-including-the-snipping-tool/"><u>Ultimate Techniques for Utilizing macOS Screen Capture Features - Including the Snipping Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-secrets-the-toms-hardware-way/"><u>Unveiling Top Hardware Secrets - The Tom's Hardware Way</u></a></li>
+</ul></div>
+

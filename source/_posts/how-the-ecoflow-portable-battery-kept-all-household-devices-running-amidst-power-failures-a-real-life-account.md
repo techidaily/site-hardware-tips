@@ -1,7 +1,7 @@
 ---
 title: "How the EcoFlow Portable Battery Kept All Household Devices Running Amidst Power Failures: A Real-Life Account"
-date: 2024-09-17 15:51:54
-updated: 2024-09-20 11:32:45
+date: 2024-10-17T17:17:14.430Z
+updated: 2024-10-20T20:57:43.178Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2c90a6c-1df5-4cdc-8604-71162189bff0%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2c90a6c-1df5-4cdc-8604-71162189bff0%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,27 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-freely-download-youtube-series-on-mobile/"><u>[New] In 2024, The Ultimate Guide to Freely Download YouTube Series on Mobile</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[Updated] 2024 Approved Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-lava-yuva-3-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Lava Yuva 3 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-g2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo G2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-disconnect-on-snapchat-are-they-blocked/"><u>In 2024, The Disconnect on Snapchat Are They Blocked?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-now-latest-realtek-display-adapter-drivers-compatible-with-windows-11/"><u>Install Now: Latest Realtek Display Adapter Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-in-depth-articles-from-toms-hardware-hub/"><u>Navigating Through Technology: In-Depth Articles From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-innovations-featured-at-toms-hardware/"><u>Pioneering Computer Innovations Featured at Tom's Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-valkyrie-vind-sl125-aesthetics-vs-efficiency-in-motorcycle-engineering/"><u>Review of the Valkyrie Vind SL125: Aesthetics Vs. Efficiency in Motorcycle Engineering</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-vintage-directx-apps-by-harnessing-dxvk-power/"><u>Revitalizing Vintage DirectX Apps by Harnessing DXVK Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-thermal-management-noctua-introduces-game-changing-chiller-for-grace-hopper-gpu-architecture/"><u>Revolutionizing Thermal Management: Noctua Introduces Game-Changing Chiller for Grace Hopper GPU Architecture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-chill-grab-the-arctic-aiold2018a-v2-air-cooler-now-at-unbeatable-74-price/"><u>Save Big on Chill: Grab the Arctic AIOLD2018A v2 Air Cooler Now at Unbeatable $74 Price</u></a></li>
+</ul></div>
+

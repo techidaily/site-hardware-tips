@@ -1,7 +1,7 @@
 ---
 title: Efficiently Power Your Entire House with EcoFlow's Portable Battery During Outages - Insights From ZDNet
-date: 2024-09-19 18:46:50
-updated: 2024-09-20 10:53:29
+date: 2024-10-18T01:02:15.657Z
+updated: 2024-10-21T04:11:46.377Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aa54c9-7695-4649-b930-0e6d0bd0af21%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aa54c9-7695-4649-b930-0e6d0bd0af21%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,31 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-blueprint-for-blending-video-content-into-curricula/"><u>[New] In 2024, Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-stream-it-record-it-facebook-live-tips-and-tricks/"><u>[Updated] 2024 Approved Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728473569559-usb4/"><u>「手軽なUSBデータ移動：フォーマット不要・4つのシンプル方法」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcools-latest-innovations-next-gen-coolers-psus-and-more-now-featuring-customizable-pixel-silicone-design-accents/"><u>DeepCool's Latest Innovations: Next-Gen Coolers, PSUs & More - Now Featuring Customizable Pixel Silicone Design Accents</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delaware-welcomes-prusas-production-of-3d-printing-equipment-and-materials/"><u>Delaware Welcomes Prusa’s Production of 3D Printing Equipment and Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-rated-all-in-one-heat-sinks-and-liquid-coolers-for-enhanced-gaming-rigs-2024-edition/"><u>Discover the Top-Rated All-in-One Heat Sinks and Liquid Coolers for Enhanced Gaming Rigs, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-toms-tech-insights-in-depth-guides-on-hardware-and-gadgets/"><u>Discover Tom's Tech Insights - In-Depth Guides on Hardware and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-flsun-s1s-dynamic-performance-a-deep-dive-into-its-wonky-delta-mechanism-and-velocity/"><u>Discovering FLSun S1's Dynamic Performance: A Deep Dive Into Its Wonky Delta Mechanism and Velocity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-world-of-technology-with-toms-hardware/"><u>Discovering the World of Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoo-high-capacity-3d-printers-are-they-suitable-for-large-scale-objects-like-toddlers/"><u>Elegoo High-Capacity 3D Printers: Are They Suitable for Large Scale Objects Like Toddlers?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-images-a-professionals-palette-playbook/"><u>Elevating Images A Professional's Palette Playbook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computer-hardware-with-tom-a-comprehensive-resource/"><u>Expert Insights on Computer Hardware with Tom - A Comprehensive Resource</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-shield-your-data-from-vulnerabilities-with-adapted-generative-pre-trained-transformers/"><u>How to Shield Your Data From Vulnerabilities with Adapted Generative Pre-Trained Transformers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-xiaomi-lock-screen-without-password-xiaomi-redmi-note-12t-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi Lock Screen without Password(Xiaomi Redmi Note 12T Pro)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-alignment-in-windows-10-issue-fixed/"><u>Reverse Screen Alignment in Windows 10: Issue Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-usb-headphones-on-your-windows-7-pc-proven-fixes-and-tips/"><u>Solving Silent USB Headphones on Your Windows 7 PC - Proven Fixes and Tips</u></a></li>
+</ul></div>
+

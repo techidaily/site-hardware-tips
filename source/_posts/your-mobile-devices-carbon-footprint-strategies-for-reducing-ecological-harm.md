@@ -1,7 +1,7 @@
 ---
 title: Your Mobile Device's Carbon Footprint - Strategies for Reducing Ecological Harm
-date: 2024-09-17 14:43:37
-updated: 2024-09-20 11:21:43
+date: 2024-10-16T19:34:22.541Z
+updated: 2024-10-20T21:52:50.135Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-multi-video-viewing-on-youtube/"><u>2024 Approved Mastering Multi-Video Viewing on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps/"><u>2024 Approved Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/capturing-audio-masterpieces-using-audacity-for-2024/"><u>Capturing Audio Masterpieces Using Audacity for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-microphone-functionality-on-skype-with-windows-11/"><u>Effective Techniques to Restore Microphone Functionality on Skype with Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhancing-your-android-experience-controlling-app-access-on-android-11-with-revouninstallers-help/"><u>Enhancing Your Android Experience: Controlling App Access on Android 11 with RevoUninstaller's Help</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-in-computing-unveiling-high-tech-secrets-with-toms-hardware-insights/"><u>Precision in Computing: Unveiling High-Tech Secrets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-communication-equipment-for-your-gaming-setup-revealed/"><u>The Best Communication Equipment for Your Gaming Setup Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-psu-picks-for-gamers-expert-roundup-and-reviews/"><u>The Best PSU Picks for Gamers : Expert Roundup and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-companer-for-upgraders-toms-comprehensive-hardware-reviews/"><u>The Essential Companer for Upgraders: Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/umwandlung-von-flv-zu-mp4-professioneller-guide-mit-winx-hd-video-converter-deluxe/"><u>Umwandlung Von FLV Zu MP4: Professioneller Guide Mit WinX HD Video Converter Deluxe</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-digitalize-your-dvds-a-beginners-guide-to-conversion-for-2024/"><u>Updated Digitalize Your DVDs A Beginners Guide to Conversion for 2024</u></a></li>
+</ul></div>
+

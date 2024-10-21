@@ -1,7 +1,7 @@
 ---
 title: "Alert: Roku Users Beware as 576K Accounts Hit by Cyber Attack - Safeguard Your Entertainment Hub | ZDNET"
-date: 2024-10-09T16:11:14.254Z
-updated: 2024-10-15T16:44:26.405Z
+date: 2024-10-19T01:46:51.028Z
+updated: 2024-10-20T23:24:21.279Z
 tags:
   - tvs
 categories:
@@ -55,26 +55,27 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-must-get-external-hard-drives-for-xbox-enthusiasts/"><u>[New] Must-Get External Hard Drives for Xbox Enthusiasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-twitter-video-series-breakdown-area-format-duration-for-2024/"><u>[Updated] Twitter Video Series Breakdown Area, Format, Duration for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>2024 Approved Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>2024 Approved Smarter Storage, Simpler Style Top 40 Mobile Video Reducers on Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-methods-for-chatgpt-data-exportation-tactics/"><u>Comprehensive Methods for ChatGPT Data Exportation Tactics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Google Pixel 8 Pro?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/macs-most-reliable-snipers-reviewed-for-2024/"><u>Mac's Most Reliable Snipers Reviewed for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revamped-version-of-noctuas-nh-d15-g2-now-features-quieter-operation-and-extra-cooling-fins/"><u>Revamped Version of Noctua's NH-D15 G2 Now Features Quieter Operation & Extra Cooling Fins</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-the-corsair-air-a115-heat-sink-silent-and-efficient-but-pricey/"><u>Review of the Corsair Air A115 Heat Sink: Silent & Efficient but Pricey</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rivalry-heats-up-non-pump-240mm-aio-chiller-falls-short-of-pumped-contenders-by-a-slight-margin-during-performance-tests/"><u>Rivalry Heats Up: Non-Pump 240Mm AIO Chiller Falls Short of Pumped Contenders by a Slight Margin During Performance Tests</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/speed-masterclass-in-3d-printing-the-fastest-models-ranked-by-production-speed/"><u>Speed Masterclass in 3D Printing: The Fastest Models Ranked by Production Speed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-at-toms-tech-universe/"><u>The Ultimate Guide to Computer Components at Tom's Tech Universe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-10-on-screen-keyboard-control-enable-or-disable-with-ease/"><u>Windows 10 On-Screen Keyboard Control: Enable or Disable with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725285263637-2024-5/"><u>다이나박 해상도 강화에 성공하는 방법: 2024년의 관찰자들을 위한 5단계 전략</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-professional-workshop-embedding-countdown-features-in-obs/"><u>[New] 2024 Approved Professional Workshop Embedding Countdown Features in OBS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-innovative-practices-in-creating-powerful-youtube-summaries/"><u>[New] In 2024, Innovative Practices in Creating Powerful YouTube Summaries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-for-high-quality-resin-3d-printers/"><u>2024'S Top Picks for High-Quality Resin 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-ai-9-hx-aster-apples-m3-max-in-speed-a-deep-dive-into-single-core-benchmark-results/"><u>AMD's Ryzen AI 9 HX Aster Apple's M3 Max in Speed - A Deep Dive Into Single-Core Benchmark Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-cold-extremes-at-home-diy-liquid-nitrogen-from-everyday-fridge-components/"><u>Crafting Cold Extremes at Home: DIY Liquid Nitrogen From Everyday Fridge Components</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-steps-setting-up-matrix-aios-boys-add-on-in-your-kodi-device/"><u>Easy Steps: Setting Up Matrix AIO's Boys Add-On in Your Kodi Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714264-explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for Word 2010</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instantaneous-google-collage-a-speedy-diy-method/"><u>Instantaneous Google Collage A Speedy DIY Method</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-3d-printing-techniques-to-prevent-separation-between-layers/"><u>Masterful 3D Printing: Techniques to Prevent Separation Between Layers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-disabled-gpu-on-your-laptop-win1011/"><u>Overcoming Disabled GPU On Your Laptop (Win10/11)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/redefining-thermal-management-noctuas-revolutionary-cooler-design-for-the-grace-hopper-gpu/"><u>Redefining Thermal Management: Noctua's Revolutionary Cooler Design for the Grace Hopper GPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-computer-components-and-gear-reviews/"><u>Tom's Tech Insights: In-Depth Computer Components and Gear Reviews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-risks-relying-on-artificial-intelligence-instead-of-professional-mental-health-support/"><u>Top 9 Risks: Relying on Artificial Intelligence Instead of Professional Mental Health Support</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

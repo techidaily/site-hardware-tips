@@ -1,7 +1,7 @@
 ---
 title: Beat Bose and Sonos to Reveal the Revolutionary Sound of a Game-Changing Speaker System | ZDNet Exclusive
-date: 2024-10-11T16:20:19.248Z
-updated: 2024-10-15T16:13:07.075Z
+date: 2024-10-20T02:17:14.583Z
+updated: 2024-10-20T19:41:35.895Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,16 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,22 +133,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-search-of-greatness-top-15-timeless-stop-motion-films-for-2024/"><u>[New] In Search of Greatness Top 15 Timeless Stop Motion Films for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-iphone-tips-bringing-out-the-best-with-hdr-photography-for-2024/"><u>[New] IPhone Tips Bringing Out the Best with HDR Photography for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-3-strategies-for-tiktok-livestreaming-from-desktop/"><u>2024 Approved 3 Strategies for TikTok Livestreaming From Desktop</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyy-ocr-software-development-kit-optimierte-realzeitoptimierung-fur-dateneingabeaufgaben/"><u>ABBYY OCR Software Development Kit: Optimierte Realzeitoptimierung Für Dateneingabeaufgaben</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-heat-management-for-your-graphics-card-types-and-reviews-of-gpu-coolers/"><u>Choosing the Right Heat Management for Your Graphics Card: Types and Reviews of GPU Coolers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-anker-maggo-triple-port-wireless-charger-evaluation-reveals-critical-flaws/"><u>Comprehensive Anker MagGo Triple Port Wireless Charger Evaluation Reveals Critical Flaws</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-bose-soundlink-max-evaluation-a-remarkably-flawless-wireless-audio-experience/"><u>Comprehensive Bose SoundLink Max Evaluation: A Remarkably Flawless Wireless Audio Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-brother-hl-l3295cdw-a-high-speed-and-superior-quality-color-laser-printer/"><u>Comprehensive Evaluation of the Brother HL-L3295CDW - A High-Speed and Superior Quality Color Laser Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-keychron-q14-max-a-truly-universal-solution-for-all-hands/"><u>Comprehensive Review of the Keychron Q14 Max: A Truly Universal Solution for All Hands</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-ultimate-ears-everboom-assessment-exceptional-audio-quality-and-impressive-functionalities/"><u>Comprehensive Ultimate Ears Everboom Assessment: Exceptional Audio Quality and Impressive Functionalities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/d-links-ignored-vulnerability-unpatched-routers-attracting-cybercriminals-what-you-need-to-know/"><u>D-Link's Ignored Vulnerability: Unpatched Routers Attracting Cybercriminals - What You Need to Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-the-noise-level-of-mechanical-keyboards-pre-purchase/"><u>Deciphering the Noise Level of Mechanical Keyboards Pre-Purchase</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/social-connection-in-multilingualism-top-four-benefits-for-adults-learning-a-new-language/"><u>Social Connection in Multilingualism: Top Four Benefits for Adults Learning a New Language</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-k70-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi K70 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-magic-5-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Magic 5 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-the-5-most-protected-email-services-online/"><u>Ultimate Guide: The 5 Most Protected Email Services Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cut-and-paste-chronicles-qanda-archive-for-2024/"><u>[New] Cut & Paste Chronicles Q&A Archive for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aster-the-algorithm-top-youtube-seo-tips-and-techniques-for-2024/"><u>[New] Master the Algorithm Top YouTube SEO Tips and Techniques for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-to-the-leading-free-accurate-srt-translators-online-for-2024/"><u>[New] Navigating to the Leading Free, Accurate SRT Translators Online for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>[Updated] In 2024, 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-to-follow-steps-crafting-animated-gifs-from-youtube-content-pcmobile/"><u>[Updated] In 2024, Easy-to-Follow Steps Crafting Animated GIFs From YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-electronics-toms-comprehensive-device-reviews/"><u>Inside Scoop on Electronics: Tom's Comprehensive Device Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-guided-by-toms-hardware-experts/"><u>Mastering Technology Choices: Guided by Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-the-dossiers-of-facebook-disclosures/"><u>Navigating Through the Dossiers of Facebook Disclosures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-computing-how-gravitn4-cpus-surpass-traditional-amd-and-intel-in-performance-benchmarks/"><u>Next-Generation Computing: How Gravitn4 CPUs Surpass Traditional AMD & Intel in Performance Benchmarks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Tecno</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-day-multitask-mastery-for-the-podcast-aficionado-for-2024/"><u>Streamline Your Day Multitask Mastery for the Podcast Aficionado for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-thermalright-phantom-spirit-120-evo-exposed-where-competitors-fall-and-dominance-reigns-supreme/"><u>The Thermalright Phantom Spirit 120 EVO Exposed: Where Competitors Fall and Dominance Reigns Supreme</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-network-attached-storage-nas-devices-for-efficient-data-backup-and-entertainment/"><u>Top Network Attached Storage (NAS) Devices for Efficient Data Backup & Entertainment</u></a></li>
 </ul></div>
 

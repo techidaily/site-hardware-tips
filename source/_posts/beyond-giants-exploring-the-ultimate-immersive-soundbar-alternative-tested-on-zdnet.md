@@ -1,7 +1,7 @@
 ---
 title: "Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!"
-date: 2024-10-09T16:32:33.767Z
-updated: 2024-10-15T16:22:19.621Z
+date: 2024-10-15T05:48:27.630Z
+updated: 2024-10-21T03:06:56.616Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,20 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-rated-asmr-mic-picks-for-quality-sound/"><u>[New] In 2024, Top-Rated ASMR Mic Picks for Quality Sound</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[New] The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[Updated] In 2024, Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/find-freebies-in-your-area-oodles-local-listings-unveiled/"><u>Find Freebies in Your Area: Oodle’s Local Listings Unveiled!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-jotunheim-raid-the-war-of-the-worlds/"><u>In 2024, Jotunheim Raid The War of the Worlds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insights-into-geometric-future-eskimo-jr-outstanding-style-and-soft-noise-emissions-with-fair-usability/"><u>Insights Into Geometric Future Eskimo Jr.: Outstanding Style & Soft Noise Emissions with Fair Usability</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-selective-edits-blurring-images-in-ps-for-2024/"><u>Mastering Selective Edits Blurring Images in PS for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-through-in-depth-reviews-by-toms-specialists/"><u>Mastering Tech Essentials Through In-Depth Reviews by Tom's Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-with-the-user-friendly-x-apply-thermal-paste-applicator-set-releasing-shortly/"><u>Next-Level Cooling with the User-Friendly X-Apply Thermal Paste Applicator Set Releasing Shortly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-active-directory-related-printer-crashes-on-w11/"><u>Strategies for Resolving Active Directory-Related Printer Crashes on W11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-trickery-head-on-proven-tips-for-removing-misleading-google-chrome-error-notifications/"><u>Tackling Trickery Head-On: Proven Tips for Removing Misleading Google Chrome Error Notifications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-ranking-of-best-in-class-microsd-cards-compatible-with-raspberry-pi-2024-edition/"><u>The Definitive Ranking of Best-in-Class MicroSD Cards Compatible with Raspberry Pi – 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-fastest-3d-printers-unveiled-top-performers-based-on-print-time-analysis/"><u>The Fastest 3D Printers Unveiled – Top Performers Based on Print Time Analysis</u></a></li>
-<li><a href="https://discover-community.techidaily.com/transformar-archivos-swf-gratuitamente-a-formato-avi-en-linea-con-movavi/"><u>Transformar Archivos SWF Gratuitamente a Formato AVI en Línea Con Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-inside-tips-from-toms-hardware-experts/"><u>Unlocking Performance: Inside Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-beginners-pathway-for-live-streaming-pre-recorded-content/"><u>[New] A Beginner's Pathway for Live Streaming Pre-Recorded Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-8-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>[Updated] In 2024, The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-voice-tactics-for-playstation-45-gamers/"><u>2024 Approved Voice Tactics for PlayStation 4/5 Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lenovo ThinkPhone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lexical-legibility-strategies-for-difficult-term-articulation/"><u>Lexical Legibility: Strategies for Difficult Term Articulation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-electronics-through-toms-comprehensive-reviews/"><u>Mastering Modern Electronics Through Tom's Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-secure-passwords-the-best-software-for-free-and-subscription-based-management-systems/"><u>Mastering Secure Passwords: The Best Software for Free & Subscription-Based Management Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-cutting-edge-devices-at-toms-electronic-hub/"><u>Navigating Through Cutting-Edge Devices at Tom's Electronic Hub</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-13-proplus-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 13 Pro+ 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-adjustment-for-videos-and-graphics/"><u>Seamless Adjustment for Videos and Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-elite-raspberry-pi-hardware-for-the-year-2024/"><u>The Ultimate Selection: Elite Raspberry Pi Hardware for the Year 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175720132-tom-unveils-the-future-of-computing-top-hardware-insights/"><u>Tom Unveils the Future of Computing: Top Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125120931-unbeatable-deal-save-75-on-the-lightning-fast-elegoo-neptune-4-pro-editors-pick/"><u>Unbeatable Deal: Save $75 on the Lightning-Fast Elegoo Neptune 4 Pro - Editors Pick</u></a></li>
 </ul></div>
 

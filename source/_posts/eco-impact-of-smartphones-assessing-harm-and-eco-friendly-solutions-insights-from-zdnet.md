@@ -1,7 +1,7 @@
 ---
 title: "Eco-Impact of Smartphones: Assessing Harm & Eco-Friendly Solutions - Insights From ZDNet"
-date: 2024-09-19 16:45:15
-updated: 2024-09-20 12:50:50
+date: 2024-10-19T19:29:03.892Z
+updated: 2024-10-21T03:42:22.555Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-of-essential-equipment/"><u>[New] The Ultimate Checklist of Essential Equipment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-superior-vr-equipment-for-drone-flight/"><u>[Updated] In 2024, Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tailoring-teammates-backgrounds-in-microsoft-teams-calls/"><u>2024 Approved Tailoring Teammates’ Backgrounds in Microsoft Teams Calls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-dll-discrepencies-in-steam-apps/"><u>How to Address Dll Discrepencies in Steam Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-sony-reigning-supremely-with-their-latest-summer-ready-portable-speakers-our-in-depth-analysis-zdnet/"><u>Is Sony Reigning Supremely with Their Latest Summer-Ready Portable Speakers? Our In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-expert-advice-and-reviews-by-toms-hardware/"><u>Navigating Tech Choices: Expert Advice and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-expertise/"><u>Navigating the Latest in Technology with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-its-home-collection-the-100-desk-fan-that-takes-center-stage/"><u>Noctua Unveils Its Home Collection: The $100 Desk Fan that Takes Center Stage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-reviewed-the-inside-scoop-on-hardware-from-toms-desk/"><u>Precision Reviewed - The Inside Scoop on Hardware From Tom's Desk</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-video-distortion-in-new-windows-10/"><u>Solutions for Video Distortion in New Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/solving-mov-file-playback-issues-in-adobe-premiere-pro-a-guide-for-windows-users/"><u>Solving 'MOV File Playback Issues' In Adobe Premiere Pro: A Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-review-of-lian-lis-galahad-ii-an-all-in-one-solution-for-extreme-overclocking-rig-optimization/"><u>The Definitive Review of Lian Li's Galahad II: An All-in-One Solution for Extreme Overclocking Rig Optimization</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-f25-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo F25 Pro 5G Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-upgrade-corsair-icue-link-h1-h150i-rgb-performance-excellence-with-limitless-creativity/"><u>The Ultimate Upgrade: Corsair iCUE Link H1 🖤H150i RGB - Performance Excellence with Limitless Creativity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-reviews-on-hardware/"><u>Tom's Tech Hub: Expert Reviews on Hardware</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Adorable Drone Duo Tackling Pollution in the Great Lakes | ZDNet's Eco Initiative
-date: 2024-09-19 11:56:32
-updated: 2024-09-20 11:19:29
+date: 2024-10-14T16:06:10.299Z
+updated: 2024-10-20T18:15:07.404Z
 tags:
   - sustainability
 categories:
@@ -69,11 +69,38 @@ This is a nice story about a retailer -- by its nature, an entity involved in th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-costs-of-global-cloud-data-centers/"><u>[Updated] Comparing Costs of Global Cloud Data Centers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[Updated] In 2024, The Real Number of YouTube Views You Need to Make a Living</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-photo-pinnacle-insta-coverage-excellence-on-ios-and-android/"><u>[Updated] Photo Pinnacle Insta Coverage Excellence on iOS & Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-tackling-and-repairing-hitman-3s-persistent-connection-error-problem/"><u>Beat the Bugs - Tackling and Repairing Hitman 3'S Persistent Connection Error Problem</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/docooler-usb-20-12-megapixel-review-too-good-to-be-true/"><u>Docooler USB 2.0 12 Megapixel Review: Too Good to Be True</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-10t-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme 10T 5G.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-x6-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco X6</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-hyte-thicc-series-q60-air-cooler-leading-silent-and-potent-liquid-cpu-coolers-reviewed/"><u>In-Depth Analysis of the Hyte Thicc Series Q60 Air Cooler - Leading Silent and Potent Liquid CPU Coolers Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-hytes-latest-upgrades-advanced-cooling-systems-and-customizable-lighting-with-usb-connectivity/"><u>Introducing Hyte's Latest Upgrades: Advanced Cooling Systems & Customizable Lighting with USB Connectivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-noctuas-exclusive-home-range-the-dazzling-100-nv-fs1-desk-cooler/"><u>Introducing Noctua's Exclusive Home Range: The Dazzling $100 NV-FS1 Desk Cooler</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-with-toms-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom’s Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-the-ultimate-resource-from-toms-hardware/"><u>Mastering Gadgets: The Ultimate Resource From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-dive-into-toms-expert-analysis/"><u>Mastering Hardware Knowledge - Dive Into Tom’s Expert Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-specs-and-setups-the-ultimate-guide-by-toms-hardware/"><u>Mastering Tech Specs & Setups - The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-tom-a-comprehensive-guide-to-the-latest-devices/"><u>Mastering Technology with Tom: A Comprehensive Guide to the Latest Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-easy-way-to-unpin-conversations-from-your-facebook-page/"><u>The Easy Way to Unpin Conversations From Your Facebook Page</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-virtual-potential-with-kinemasters-latest-android-release-for-2024/"><u>Unlocking Virtual Potential with KineMaster's Latest Android Release for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

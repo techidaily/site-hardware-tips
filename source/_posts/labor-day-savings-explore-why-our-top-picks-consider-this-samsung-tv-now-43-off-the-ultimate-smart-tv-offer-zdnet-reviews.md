@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Savings: Explore Why Our Top Picks Consider This Samsung TV, Now 43%% Off, the Ultimate Smart TV Offer | ZDNET Reviews"
-date: 2024-09-30T17:19:22.541Z
-updated: 2024-10-03T18:03:47.175Z
+date: 2024-10-18T04:55:43.516Z
+updated: 2024-10-20T22:27:13.596Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,16 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +73,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,18 +98,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/akeup-maverick-innovative-looks-and-techniques-unveiled/"><u>[New] Makeup Maverick Innovative Looks & Techniques Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-mcb-video-graphics-pack-for-youtube-channels/"><u>[New] MCB Video Graphics Pack for YouTube Channels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-perfect-hdr-portraits-with-our-expert-techniques-for-2024/"><u>[New] Perfect HDR Portraits with Our Expert Techniques for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-10-ultimate-immersive-vr-video-hits/"><u>[Updated] 10 Ultimate Immersive VR Video Hits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>2024 Approved Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cinematic-capture-a-device-friendly-movie-guidebook/"><u>Cinematic Capture A Device-Friendly Movie Guidebook</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-your-broadcom-ethernet-connection-on-windows-10-latest-drivers-downloaded-and-installed/"><u>Fixing Your Broadcom Ethernet Connection on Windows 10: Latest Drivers Downloaded and Installed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-editing-hacks-for-visual-storytelling/"><u>In 2024, Mobile Editing Hacks for Visual Storytelling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-secrets-expert-strategies-for-identifying-hidden-programs-in-android-os/"><u>Unveiling Secrets: Expert Strategies for Identifying Hidden Programs in Android OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-top-10-undiscovered-android-13-functions/"><u>Unveiling the Secrets: Top 10 Undiscovered Android 13 Functions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/volume-adjustment-techniques-on-android-devices-without-physical-buttons/"><u>Volume Adjustment Techniques on Android Devices without Physical Buttons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/which-models-are-on-the-list-find-out-which-motorola-phones-will-be-updated-to-android-15/"><u>Which Models Are on the List? Find Out Which Motorola Phones Will Be Updated to Android 15</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-every-android-user-needs-a-high-quality-stylus-10-compelling-reasons-explained/"><u>Why Every Android User Needs a High-Quality Stylus: 10 Compelling Reasons Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tune-tracker-latest-audio-tech/"><u>[New] Tune Tracker Latest Audio Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>2024 Approved How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-apple-tv-3-to-apple-tv-4-exploring-key-enhancements-and-changes-in-features/"><u>From Apple TV 3 to Apple TV 4 - Exploring Key Enhancements and Changes in Features</u></a></li>
+<li><a href="https://facebook.techidaily.com/guiding-you-through-disconnecting-spotify-from-facebook/"><u>Guiding You Through Disconnecting Spotify From Facebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-13c-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi 13C Data? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-update-enhancements-in-the-new-logitech-extreme-3d/"><u>Latest Update: Enhancements in the New Logitech Extreme 3D</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-gadget-reviews-and-analysis-by-toms-trusted-hardware-experts/"><u>Pioneering Gadget Reviews and Analysis by Tom's Trusted Hardware Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/replace-old-idt-audio-with-current-driver-for-w7/"><u>Replace Old IDT Audio with Current Driver for W7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-laptop-life-a-users-journey-from-broken-lenovo-keyboard-to-customized-titanium-and-mechanical-upgrade/"><u>Reviving Laptop Life: A User's Journey From Broken Lenovo Keyboard to Customized Titanium and Mechanical Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-and-advice-t172386287986012/"><u>Tom's Tech Insights: Expert Reviews & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-your-guide-to-the-latest-in-hardware/"><u>Tom's Tech Reviews: Your Guide to the Latest in Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-get-700-off-the-alienware-m18-r2-with-rtx-groovy-gpu-for-gamers/"><u>Unbeatable Deal Alert! - Get $700 Off the Alienware M18 R2 with RTX Groovy GPU for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-benefits-of-using-an-artificer-intellect-personal-computer-essential-or-extravagance/"><u>Understanding the Benefits of Using an Artificer Intellect Personal Computer: Essential or Extravagance?</u></a></li>
 </ul></div>
 

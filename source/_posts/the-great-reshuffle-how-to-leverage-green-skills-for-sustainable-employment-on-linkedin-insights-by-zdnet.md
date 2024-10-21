@@ -1,7 +1,7 @@
 ---
 title: "The 'Great Reshuffle': How to Leverage Green Skills for Sustainable Employment on LinkedIn | Insights by ZDNET"
-date: 2024-09-19 12:18:35
-updated: 2024-09-20 11:31:21
+date: 2024-10-19T04:48:09.350Z
+updated: 2024-10-21T03:20:46.381Z
 tags:
   - sustainability
 categories:
@@ -32,6 +32,13 @@ LinkedIn purports that the [Great Reshuffle](https://www.linkedin.com/pulse/navi
 That's the introduction to LinkedIn's recently published [Global Green Skills Report 2022](https://economicgraph.linkedin.com/research/global-green-skills-report). As LinkedIn CEO Ryan Roslansky writes in the report, LinkedIn wants to do its part by leveraging its unique data and labour market expertise to highlight actionable insights that are crucial to delivering a successful green transition and avoiding potential pitfalls.
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Green skills and green jobs
 
@@ -65,6 +72,13 @@ LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### see also
 
 [Want to attract new tech talent? Start thinking green Getting more young people into technology will require businesses to start thinking about the kind of company they want to be.  Read now](https://www.zdnet.com/article/want-to-attract-new-tech-talent-start-thinking-green/)
@@ -82,6 +96,13 @@ Fourth, the fastest-growing green skills are both mainstream and emerging. Some 
 And several of the fastest-growing green skills across all sectors during the same time period were not necessarily in-demand skills but suggested the emergence of new trends, including Sustainable Fashion, Oil Spill Response and Sustainable Business Strategies, among others.
 
 LinkedIn's data are a great source to derive insights from. LinkedIn's report is quite comprehensive, as it does not just offer data-driven insights but also dives into specific case studies, identifies trends blocking an equitable transition for workers and a sustainable transition for the planet, and lays out an action plan with recommendations for policymakers, business leaders and the global workforce.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taxonomies are the duct tape of connected data - green ones, too
 
@@ -104,6 +125,13 @@ Perhaps more importantly, taxonomies, like any other knowledge organization appr
 It includes 381 skills, 185 knowledge concepts and 5 transversal skills considered most relevant for a greener labour market. Examples of green skills as defined in ESCO include conducting energy audits, measuring the sustainability of tourism activities, and training staff on recycling programmes.
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are green skills driving sustainable change in the European automotive industry?
 
@@ -149,11 +177,28 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-step-by-step-enablingdisabling-picture-in-picture/"><u>[New] 2024 Approved Step by Step Enabling/Disabling Picture-in-Picture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-online-podcast-recording/"><u>2024 Approved A Comprehensive Guide to Online Podcast Recording</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-nvidias-turbox-winrtx-3090/"><u>Direct Download - NVIDIA's TurboX, WinRTX 3090</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207952817-easy-solutions-to-common-file-explorer-problems-in-windows-10/"><u>Easy Solutions to Common File Explorer Problems in Windows 10!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-toms-pc-components-and-gadgets/"><u>Expert Insights Into Tom's PC Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-power-of-the-3dmakerpro-mole-3d-scanner-portable-precision-at-its-best/"><u>Expert Review: Unveiling the Power of the 3DMakerPro Mole 3D Scanner – Portable Precision at Its Best</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-rundown/"><u>Exploring the World of Gadgets with Tom's Equipment Rundown</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-70-lite-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 70 Lite 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-prusas-homegrown-tech-delaware-based-3d-printers-and-filament-creation/"><u>Introducing Prusa's Homegrown Tech: Delaware-Based 3D Printers and Filament Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-cura-extensions-boost-quality-of-3d-prints/"><u>Leading Cura Extensions: Boost Quality of 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-builds-tips-from-toms-hardware-expose/"><u>Mastering PC Builds: Tips From Tom's Hardware Exposé</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-converter-convert-mov-files-for-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung converter-convert .mov files for Samsung</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/top-20-hilarious-tiktok-skits-for-giggle-fests/"><u>Top 20 Hilarious TikTok Skits for Giggle Fests</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlocking-full-screen-with-chrome-pip-on-any-platform-for-2024/"><u>Unlocking Full Screen with Chrome PIP on Any Platform for 2024</u></a></li>
+</ul></div>
+

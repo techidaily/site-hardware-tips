@@ -1,7 +1,7 @@
 ---
 title: "How Innovative Technology Tackles Climate Change: Discover the Five Key Tools Shaping Our Environmental Strategy | Featured on ZDNET"
-date: 2024-09-19 19:42:47
-updated: 2024-09-20 10:56:19
+date: 2024-10-17T18:37:06.830Z
+updated: 2024-10-20T22:29:33.185Z
 tags:
   - sustainability
 categories:
@@ -25,6 +25,13 @@ Estimates suggest technology is [one of the biggest contributors to rising carbo
 
 The IPCC's [Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) report noted that continued high rates of emissions mean that excess CO2 removal is now required to reach net zero emissions in the required timeframe. According to the [Center for Climate and Energy Solutions](https://www.c2es.org/content/carbon-capture/), at least 26 commercial-scale carbon capture projects were operating around the world as of 2020, with 21 more in early development and 13 in advanced development.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Renewable energy 
 
 The need to move to renewable energy sources will drive plenty of future innovation: in November 2021, data science/information company [StartUs Insights](https://www.startus-insights.com/innovators-guide/top-10-renewable-energy-trends-2022/) analysed 5,152 startups and scaleups to get a picture of the key developments.
@@ -33,9 +40,29 @@ Image: StartUs Insights
 
 The biggest impact, this research revealed, will come from advanced photovoltaics, AI and big data, distributed energy storage systems and hydro power, followed by wind energy, bioenergy, grid integration, green hydrogen, advanced robotics, and blockchain. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Batteries and energy storage 
 
 Rechargeable batteries will provide an efficient way of storing renewable electricity on grids of various sizes, as well as powering electric vehicles and all manner of digital devices. According to the UK's [Royal Society](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-batteries.pdf), new lithium ion batteries will deliver lower cost, extended life, enhanced energy density, increased safety, and faster charging, and they will also be more sustainable, easier to recycle, and last longer. Next-generation batteries -- including [sodium ion](https://en.wikipedia.org/wiki/Sodium-ion%5Fbattery), [multivalent-ion](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/batt.202000330), [redox flow](https://en.wikipedia.org/wiki/Flow%5Fbattery), [solid-state](https://en.wikipedia.org/wiki/Solid-state%5Fbattery), [metal-sulphur](https://pubs.acs.org/doi/10.1021/acsenergylett.8b02212) and [metal-air](https://pubs.acs.org/doi/10.1021/acsenergylett.7b00119) \-- should have even lower costs and substantially higher energy densities. 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Smart homes, buildings, cities, grids, agriculture 
 
@@ -44,6 +71,13 @@ The IPCC's Climate Change 2022 report notes that "Digital technologies can contr
 **Also: [Business travel, energy consumption in the spotlight as sustainability jumps up the agenda](https://www.zdnet.com/article/sustainability-initiatives-wont-just-save-the-planet-theyll-save-your-company-too/)**
 
 However, the report also notes the potential negative aspects of multiple 'smart' sectors, including growth in digital device usage, increased e-waste, job losses, and an exacerbated digital divide. "Digital technology supports decarbonisation only if appropriately governed," the IPCC concludes. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Remote sensing of greenhouse gas emissions 
 
@@ -78,11 +112,29 @@ In [November 2022](https://climatetrace.org/news/more-than-70000-of-the-highest-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-efficient-media-navigation/"><u>[New] Advanced Techniques for Efficient Media Navigation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software-for-2024/"><u>[Updated] Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/banish-persistent-errors-in-windows-explorer-with-these-7-fixes-pro-guide/"><u>Banish Persistent Errors in Windows Explorer with These 7 Fixes! - Pro Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-our-new-be-quiet-pc-cases-tailorable-and-radiant-fans-to-light-up-your-system/"><u>Discover Our New 'Be Quiet!' PC Cases - Tailorable and Radiant Fans to Light Up Your System!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-in-computer-parts-with-tom-your-hardware-resource/"><u>Discovering Excellence in Computer Parts with Tom - Your Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-scalability-and-glitches-of-elegoos-latest-innovation-the-neptune-4-max-model/"><u>Discovering the Scalability and Glitches of Elegoo's Latest Innovation - The Neptune 4 Max Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-next-gen-technology-trends-with-expert-reviews-on-toms-hardware/"><u>Dive Into Next-Gen Technology Trends with Expert Reviews on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computer-components-by-toms-electronics-hub/"><u>Expert Insights on Computer Components by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-motherboards-and-cpus-navigate-with-toms-hardware/"><u>Expert Insights on Motherboards and CPUs - Navigate with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-guide/"><u>Exploring Computer Components with Tom’s Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-art-of-filter-selection-on-instagram-for-2024/"><u>Mastering the Art of Filter Selection on Instagram for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-through-the-best-pc-vr-headset-lineup-of-2023-for-2024/"><u>Navigating Through the Best PC VR Headset Lineup of 2023 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-c12-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia C12 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/unlock-enhanced-performance-with-your-logitech-extreme-3d-pros-newest-driver-version/"><u>Unlock Enhanced Performance with Your Logitech Extreme 3D Pro's Newest Driver Version |</u></a></li>
+</ul></div>
+

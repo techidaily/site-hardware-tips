@@ -1,7 +1,7 @@
 ---
 title: "Desai: C. 760 CE During the Rule of Rashtrakuta Emperor Krishna I (R. 753–774)"
-date: 2024-10-01T22:02:23.847Z
-updated: 2024-10-04T02:16:59.622Z
+date: 2024-10-19T17:10:17.485Z
+updated: 2024-10-20T22:15:51.454Z
 tags:
   - tvs
 categories:
@@ -55,31 +55,23 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/op-youtube-fonts-for-striking-shareable-thumbnails/"><u>[New] Top YouTube Fonts for Striking, Shareable Thumbnails</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-virtual-memoirs-best-tools-and-practices-for-downloading-twitter-content/"><u>[New] Virtual Memoirs Best Tools and Practices for Downloading Twitter Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-astonishing-freeness-of-screen-dance-duels/"><u>[Updated] In 2024, Astonishing Freeness of Screen Dance Duels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-breakdown-tips-from-toms-experts/"><u>Advanced Hardware Breakdown – Tips From Tom's Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/debunking-myths-my-journey-into-3d-printing-personal-weapons/"><u>Debunking Myths: My Journey Into 3D Printing Personal Weapons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-technology-with-toms-hardware-the-ultimate-gadget-review-site/"><u>Dive Into Technology with Tom's Hardware - The Ultimate Gadget Review Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-printing-experience-top-cura-software-upgrades/"><u>Elevate Your 3D Printing Experience: Top Cura Software Upgrades</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-game-with-amd-ryzen-5-and-9700x-the-zen-5-advantage-unveiled/"><u>Elevate Your Game with AMD Ryzen 5 & 9700X: The Zen 5 Advantage Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-advice-on-constructing-clear-concise-image-previews-for-2024/"><u>Expert Advice on Constructing Clear, Concise Image Previews for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-when-your-blue-yeti-microphone-wont-respond/"><u>Fixing Issues When Your Blue Yeti Microphone Won't Respond</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-converter-change-mpg-format-to-m4v-without-hitches/"><u>Free Converter: Change MPG Format to M4V Without Hitches</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/french-amd-ryzen-9th-gen-chips-available-euro-zones-premium-ryzen-9-9900x-costing-649/"><u>French AMD Ryzen 9Th Gen Chips Available: Euro Zone's Premium Ryzen 9 9900X Costing €649</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-in-depth-analysis/"><u>Navigate the World of Technology with Tom's In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-technology-tips-and-reviews-with-tom/"><u>Navigating the World of Computer Technology: Tips and Reviews with Tom</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/pixel-pandemonium-ranking-the-funniest-tiktok-game-screencaps-for-2024/"><u>Pixel Pandemonium Ranking the Funniest TikTok Game Screencaps for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-webm-to-mp4-conversion-tools-you-need-to-know/"><u>Top 10 WebM to MP4 Conversion Tools You Need to Know</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-more-views-the-art-of-crafting-titles-and-tags-for-youtube-for-2024/"><u>Unlock More Views The Art of Crafting Titles & Tags for YouTube for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-comprehensive-source-for-high-performance-hardware-toms-insights/"><u>Your Comprehensive Source for High-Performance Hardware: Tom's Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-the-art-of-social-media-video-magic-on-fb/"><u>[New] 2024 Approved Unveiling the Art of Social Media Video Magic on FB</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-solutions-for-non-deliverable-facebook-messenger-videos-on-androidios/"><u>[Updated] Solutions for Non-Deliverable Facebook Messenger Videos on Android/iOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-practices-for-mentioning-ai-contributions-citing-chatgpt-references-and-quotes/"><u>Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-steps-to-revoke-itunes-and-apple-store-subscriptions-using-your-iphone-on-latest-ios-version/"><u>Complete Guide: Steps to Revoke iTunes & Apple Store Subscriptions Using Your iPhone on Latest iOS Version</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-11-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus 11 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computer-hardware-by-tom-experts/"><u>In Depth Analysis of Computer Hardware by Tom Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-experiences-massive-overnight-drop-stocks-plummet-by-30-market-cap-declines-by-39b/"><u>Intel Experiences Massive Overnight Drop: Stocks Plummet by 30%, Market Cap Declines by $39B</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-how-to-stop-your-gas-station-simulator-from-freezing-on-a-windows-computer/"><u>Solution Guide: How to Stop Your Gas Station Simulator From Freezing on a Windows Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-faceoff-how-amd-ryzen-ai-9-hx-370-dominates-in-core-vs-apple-m3-max-laptops/"><u>Tech Faceoff: How AMD Ryzen AI 9 HX 370 Dominates in Core Vs. Apple M3 Max Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-guide-to-computer-components/"><u>Tom's Tech Review: Your Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-hardware-secrets-through-toms-analysis/"><u>Unveiling the Best Hardware Secrets Through Tom's Analysis</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

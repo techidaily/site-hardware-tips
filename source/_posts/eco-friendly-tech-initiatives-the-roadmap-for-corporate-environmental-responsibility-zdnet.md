@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Tech Initiatives: The Roadmap for Corporate Environmental Responsibility | ZDNet"
-date: 2024-09-18 14:35:15
-updated: 2024-09-20 11:29:55
+date: 2024-10-17T20:18:22.831Z
+updated: 2024-10-21T01:18:43.089Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +70,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +123,29 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-process-for-incorrante-youtube-playlist-integration/"><u>[New] 2024 Approved The Ultimate Process for Incorrante YouTube Playlist Integration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>[New] 2024 Approved Yi's ActionCam The Innovation Leader in High-Res Footage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-roadmap-to-crafting-high-quality-srt-files-for-2024/"><u>[New] The Ultimate Roadmap to Crafting High-Quality SRT Files for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-review-snapshot-is-active-8-top-tier-or-not/"><u>[Updated] 2024 Approved Screen Review Snapshot Is Active 8 Top-Tier or Not?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-get-your-epson-printer-online-with-wifi-the-ultimate-guide/"><u>Easy Ways to Get Your Epson Printer Online with WiFi – The Ultimate Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-install-the-latest-logitech-g13-gamepad-software-update/"><u>Free Download: Install the Latest Logitech G13 Gamepad Software Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-light-to-shadow-premiere-pro-transitions-for-2024/"><u>From Light to Shadow Premiere Pro Transitions for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-review-comprehensive-insights-on-latest-technology/"><u>Tom's Gadget Review: Comprehensive Insights on Latest Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-gadget-reviews-and-in-depth-analysis/"><u>Tom's Tech Hub: Gadget Reviews & In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-hardware-reviews/"><u>Tom's Tech Insights: Expert Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-insights-on-gadgets/"><u>Tom's Tech Reviews: Comprehensive Insights on Gadgets</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/uncover-the-top-7-android-alternatives-for-ad-free-browsing/"><u>Uncover the Top 7 Android Alternatives for Ad-Free Browsing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-insights-toms-comprehensive-hardware-review/"><u>Unlocking Technology Insights: Tom's Comprehensive Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-top-tier-computer-builds-toms-hardware-analysis/"><u>Unlocking the Secrets of Top-Tier Computer Builds - Tom's Hardware Analysis</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "OLED Flagships Face-Off: LG G4 Vs. Samsung S95D - Top Pick for Your Ultimate Viewing Experience | ZDNET Guide"
-date: 2024-10-07T08:44:32.571Z
-updated: 2024-10-08T18:24:29.572Z
+date: 2024-10-16T22:42:49.055Z
+updated: 2024-10-20T20:56:09.953Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,17 +99,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-dead-walkers-dominance-leading-zombie-video-game-ranks/"><u>[New] Dead Walkers Dominance Leading Zombie Video Game Ranks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quick-diy-cinematic-techniques-every-hobbyist-should-know/"><u>[Updated] In 2024, Quick DIY Cinematic Techniques Every Hobbyist Should Know</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[Updated] In 2024, Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-broadcasted-theatrical-skits/"><u>2024 Approved Excellence in Broadcasted Theatrical Skits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-insights-with-tom-your-go-to-source-for-hardware-knowledge/"><u>Advanced Gadget Insights with Tom – Your Go-To Source for Hardware Knowledge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-with-toms-guide/"><u>Discover Cutting-Edge Hardware with Tom's Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V30 Phone that is Locked?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-the-step-by-step-process-to-disengage-from-discord-groups/"><u>In 2024, The Step-by-Step Process to Disengage From Discord Groups</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-gear-insights/"><u>Navigating the Digital World Through Tom's Gear Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-innovative-reviews-from-toms-systems-guide/"><u>Stay Ahead of the Curve: Innovative Reviews From Tom's Systems Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tryx-the-chinese-tech-innovator-exclusive-launch-of-an-advanced-aio-cooling-system-with-stunning-curved-display-technology/"><u>Tryx, the Chinese Tech Innovator: Exclusive Launch of an Advanced AIO Cooling System with Stunning Curved Display Technology</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevating-your-videography-youtube-enhancements-explained/"><u>[New] Elevating Your Videography YouTube Enhancements Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-determining-top-screen-recorder-obs-studio-vs-bandicam/"><u>[New] In 2024, Determining Top Screen Recorder OBS Studio Vs. Bandicam</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-masterful-drawings-made-easy-top-chrome-os-tools-for-artists/"><u>[New] Masterful Drawings Made Easy Top Chrome OS Tools for Artists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-picture-editor-tutorial/"><u>[New] The Ultimate Picture Editor Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-advanced-techniques-in-zoom-sessions-capture/"><u>[Updated] 2024 Approved Advanced Techniques in Zoom Sessions Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-extracting-youtube-videos-simplified/"><u>[Updated] 2024 Approved Extracting YouTube Videos Simplified</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125181063-dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-tom-navigating-modern-technology/"><u>Expert Advice From Tom - Navigating Modern Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/forced-transition-to-windows-11-23h2-update-implications-for-pc-users/"><u>Forced Transition to Windows 11 23H2 Update: Implications for PC Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-parameter-is-incorrect-error/"><u>How to Fix The Parameter Is Incorrect Error</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-specs-and-performance-guidance-from-toms-hardware/"><u>Mastering Computer Specs and Performance: Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-technology-landscape-with-expert-advice-from-toms-gear-guide/"><u>Mastering the Technology Landscape with Expert Advice From Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-a-guide-from-toms-hardware/"><u>Navigating the World of Electronics - A Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-pc-cooling-foolproof-thermal-interface-material-tim-applier-by-x-apply-coming-shortly/"><u>Revolutionize Your PC Cooling: 'Foolproof' Thermal Interface Material (TIM) Applier by X-Apply - Coming Shortly!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-potential-inside-look-at-sk1-two-trees-fast-free-software-core-processor-performance/"><u>Unlocking Potential: Inside Look at SK1 Two Trees' Fast, Free Software Core Processor Performance</u></a></li>
 </ul></div>
 

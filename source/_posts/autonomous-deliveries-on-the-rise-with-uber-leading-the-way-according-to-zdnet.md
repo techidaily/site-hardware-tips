@@ -1,7 +1,7 @@
 ---
 title: Autonomous Deliveries on the Rise with Uber Leading the Way, According to ZDNet
-date: 2024-09-26T16:33:50.638Z
-updated: 2024-10-03T23:31:45.427Z
+date: 2024-10-15T05:57:09.540Z
+updated: 2024-10-20T19:09:05.419Z
 tags:
   - transportation
 categories:
@@ -77,25 +77,29 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevate-your-sims-gaming-with-recording-expertise/"><u>[New] 2024 Approved Elevate Your Sims Gaming with Recording Expertise</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-media-streamlining-iphoneandroid-tips-for-effective-feeds/"><u>[Updated] Social Media Streamlining IPhone/Android Tips for Effective Feeds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-flight-cam-combat-dji-spark-vs-gopro-fury/"><u>2024 Approved Flight Cam Combat DJI Spark VS GoPro Fury</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>2024 Approved Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-diagnose-and-cure-your-pcs-persistent-black-screen-on-windows-11/"><u>Guide to Diagnose & Cure Your PC's Persistent Black Screen on Windows 11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complete-manual-for-installing-microsofts-wm6/"><u>In 2024, Complete Manual for Installing Microsoft's WM6</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lamptron-accused-of-illegally-distributing-counterfeit-aida64-software-on-lcd-equipment/"><u>Lamptron Accused of Illegally Distributing Counterfeit AIDA64 Software on LCD Equipment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ai-chats-10-winning-phrases-to-boost-your-cryptocurrency-knowledge/"><u>Mastering AI Chats: 10 Winning Phrases to Boost Your Cryptocurrency Knowledge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-the-ultimate-resource-by-toms-hardware-pro/"><u>Mastering Technology Choices - The Ultimate Resource by Tom's Hardware Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-expert-advice-by-toms-hardware/"><u>Navigate the World of Technology: Expert Advice by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pastel-cooling-showdown-extrememugurisu-4g-strawberry-edition-challenges-the-classic-thermal-grizzlys-kryonaut-in-aroma-and-efficiency/"><u>Pastel Cooling Showdown: ExtremeMUGURISU 4G Strawberry Edition Challenges the Classic Thermal Grizzly's Kryonaut in Aroma and Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/simplify-thermal-management-the-revolutionary-x-apply-stencil-kits-for-hassle-free-tim-application/"><u>Simplify Thermal Management: The Revolutionary X-Apply Stencil Kits for Hassle-Free TIM Application</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-captureconductor-review-a-dive-into-the-best-recording-software/"><u>[New] In 2024, CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722846232559-2024s-elite-collection-of-smart-spectacles-elevate-your-vision-tech/"><u>2024'S Elite Collection of Smart Spectacles - Elevate Your Vision Tech!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-itel-p55t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Itel P55T to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-13-unbeatable-free-pdf-editors-for-august-2024/"><u>Discover the Ultimate List: 13 Unbeatable Free PDF Editors for August 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-elite-8-sites-for-gamers-and-critics/"><u>Exclusive List: Elite 8 Sites for Gamers and Critics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-close-ups-to-far-off-landscapes-sx70s-zoom-mastery/"><u>From Close-Ups to Far Off Landscapes - SX70's Zoom Mastery!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-radiant-registering-and-unregistering-rites/"><u>In 2024, Radiant Registering and Unregistering Rites</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-feeling-the-vibe-learn-how-to-restore-your-devices-vibrating-function-in-quiet-modes/"><u>IPhone Not Feeling the Vibe? Learn How to Restore Your Device's Vibrating Function in Quiet Modes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-trend-for-oled-displays-analysts-predict-yearly-shipment-of-more-than-1-million-screens/"><u>Rising Trend for OLED Displays: Analysts Predict Yearly Shipment of More Than 1 Million Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-ultra-hd-gaming-screens-the-best-offers-of-202n4/"><u>Save Big on Ultra HD Gaming Screens - The Best Offers of 202N4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-game-changing-34-alienware-curved-oled-screen-limited-time-offer-at-749-from-best-buy/"><u>Score the Game-Changing 34” Alienware Curved OLED Screen - Limited Time Offer at $749 From Best Buy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-game-changer-a-high-end-sceptre-24-curved-monitor-for-gamers-now-just-79/"><u>The Game Changer: A High-End Sceptre 24 Curved Monitor for Gamers – Now Just $79!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-budget-gamers-companion-a-detailed-look-at-titan-army-p27a2r-180-hz-display/"><u>The Ultimate Budget Gamer’s Companion - A Detailed Look at Titan Army P27A2R, 180 Hz Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Insights: In-Depth Analysis of Latest Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-asus-rog-swift-oled-pg32ucdp-assessment-a-glimpse-into-near-perfect-tech/"><u>Ultimate Asus ROG Swift OLED (PG32UCDP) Assessment - A Glimpse Into Near-Perfect Tech</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

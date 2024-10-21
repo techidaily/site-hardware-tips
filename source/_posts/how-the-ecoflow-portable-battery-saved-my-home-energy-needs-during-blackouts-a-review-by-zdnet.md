@@ -1,7 +1,7 @@
 ---
 title: "How the EcoFlow Portable Battery Saved My Home Energy Needs During Blackouts: A Review by ZDNET"
-date: 2024-09-19 12:16:25
-updated: 2024-09-20 12:32:27
+date: 2024-10-16T19:53:43.382Z
+updated: 2024-10-21T01:56:17.267Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aa54c9-7695-4649-b930-0e6d0bd0af21%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aa54c9-7695-4649-b930-0e6d0bd0af21%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,25 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-explore-the-world-of-drawing-on-your-chromebook-today/"><u>[New] Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leading-apps-for-dji-video-manipulation-and-mixing-for-2024/"><u>[Updated] Leading Apps for DJi Video Manipulation and Mixing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-precise-screen-record-azs-full-app-dissection/"><u>In 2024, Precise Screen Record - AZ's Full App Dissection</u></a></li>
+<li><a href="https://article-posts.techidaily.com/long-exposure-iphone-shots-step-by-step-guide-for-2024/"><u>Long-Exposure iPhone Shots Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-quick-subtitleclosed-caption-integration-on-youtube-for-2024/"><u>Mastering Quick Subtitle/Closed Caption Integration on YouTube for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-cutting-edge-reviews-by-toms-hardware/"><u>Stay Ahead of the Curve: Cutting-Edge Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-manufacturing-turn-your-old-plastics-into-top-tier-3d-printing-materials/"><u>Sustainable Manufacturing: Turn Your Old Plastics Into Top-Tier 3D Printing Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-a-z-of-modern-hardware-features-by-toms-technology-spotlight/"><u>The A-Z of Modern Hardware Features by Tom's Technology Spotlight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-top-pick-of-gaming-keyboards-featuring-full-half-and-mini-sizes/"><u>The Ultimate Guide to the Top Pick of Gaming Keyboards : Featuring Full, Half & Mini Sizes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
+</ul></div>
+

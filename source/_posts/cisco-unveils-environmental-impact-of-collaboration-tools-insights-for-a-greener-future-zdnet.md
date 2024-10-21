@@ -1,7 +1,7 @@
 ---
 title: "Cisco Unveils Environmental Impact of Collaboration Tools: Insights for a Greener Future | ZDNet"
-date: 2024-09-18 12:10:11
-updated: 2024-09-20 12:50:37
+date: 2024-10-19T21:23:38.545Z
+updated: 2024-10-21T05:44:02.571Z
 tags:
   - sustainability
 categories:
@@ -72,11 +72,36 @@ Cisco also plans to help customers track the emissions they're producing when th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices-in-2024/"><u>[New] Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-radiate-on-reels-instagram-highlight-techniques-simplified-to-three-for-2024/"><u>[Updated] Radiate on Reels Instagram Highlight Techniques, Simplified to Three for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-enriching-youtube-content-with-improved-sound-quality/"><u>In 2024, Enriching YouTube Content with Improved Sound Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lava-blaze-curve-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lava Blaze Curve 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-expert-advice-from-toms-hardware/"><u>Mastering PC Components: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-world-top-picks-and-reviews-by-toms-computer-essentials/"><u>Mastering the Digital World: Top Picks & Reviews by Tom's Computer Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-top-findings-by-toms-hardware-gurus/"><u>Navigating Tech Trends: Top Findings by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-toms-hardware-insights/"><u>Navigating the Digital World with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-virtuoso-top-tips-to-overcome-blurry-windows-11-displays/"><u>Visual Virtuoso: Top Tips to Overcome Blurry Windows 11 Displays</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

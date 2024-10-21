@@ -1,7 +1,7 @@
 ---
 title: Top 5 Eco-Friendly Smartphones - Picking the Perfect Choice on ZDNet
-date: 2024-09-17 13:11:22
-updated: 2024-09-20 11:41:27
+date: 2024-10-14T23:29:54.014Z
+updated: 2024-10-21T04:12:42.746Z
 tags:
   - sustainability
 categories:
@@ -163,6 +163,13 @@ Since all of Motorola's phones have made this eco-conscious shift, you could cho
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best green phone?
 
 The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, including eco-friendly packaging, energy consumption, incorporation of recycled materials, price, warranty, software system, camera quality, battery life and more, to find the best green phone. 
@@ -174,6 +181,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Fairphone 4                | €579               | 128GB, 6GB RAM or 256GB, 8GB RAM | 100% recycled plastic back cover     |
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which eco-friendly phone is right for you?
 
@@ -193,6 +207,19 @@ And, if you want a cheaper phone that will last at least five years, the Teracub
 
 We looked at the usual name-brand smartphones as well as the not-so-conventional brands to add to this list. We read through and fact-checked climate pledges and claims companies have made. Other criteria we considered when choosing the smartphones on this list were what the devices were made of and their overall energy usage/carbon footprint when compared to the average smartphone. 
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What makes a phone eco-friendly?
 
 Some of the eco-friendly aspects of a phone include recycled parts and packaging, how long a device lasts (so you don't have to keep getting a new one every few years and contribute to the e-waste problem), a company's carbon footprint from the phone's production to its shipping processes, and its energy usage. 
@@ -202,6 +229,19 @@ Some of the eco-friendly aspects of a phone include recycled parts and packaging
 An eco-friendly phone will help reduce environmental waste (e-waste). According to the Environmental Protection Agency (EPA), [e-waste is the fastest-growing waste stream](https://www.dosomething.org/us/facts/11-facts-about-e-waste) in America, but only a fraction of it is collected. As a result, the world produces as much as [50 million metric tons of e-waste a year](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste).
 
  Buying an eco-friendly phone means the phone is built with recycled materials and not hazardous e-waste materials like [lead, nickel, and mercury](https://www.ncsl.org/research/environment-and-natural-resources/e-waste-recycling-legislation.aspx). In addition, eco-friendly devices are built to last longer than the average smartphone, reducing the amount of e-waste by keeping your phone active for longer. 
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative environmentally conscious phones worth considering?
 
@@ -232,11 +272,33 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-free-online-tools-for-precise-srt-translation/"><u>[New] 2024 Approved Best FREE Online Tools for Precise SRT Translation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-techniques-for-effective-capturing-of-chat-conversations-for-2024/"><u>[New] Techniques for Effective Capturing of Chat Conversations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-watermark-implementation-for-social-posts-for-2024/"><u>[Updated] Navigating Watermark Implementation for Social Posts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-techniques-for-harvesting-fb-status-video-content-for-2024/"><u>2023 Techniques for Harvesting FB Status Video Content for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725290467708-10/"><u>完全無損失ディスク圧縮：ウィンドウズ10/マッキュール用ダイナミック処理法</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-chromecast-with-google-tv-a-worthy-rival-to-amazons-firestick-find-out-here/"><u>Is the Chromecast with Google TV a Worthy Rival to Amazon's Firestick? Find Out Here!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-40-keyboard-shortcuts-for-final-cut-pro-x-users-for-2024/"><u>New Unleash Your Creativity Top 40 Keyboard Shortcuts for Final Cut Pro X Users for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/profit-from-puzzles-best-graphics-processing-units-for-boosted-bitcoin-gains-insights-by-toms-hardware/"><u>Profit From Puzzles: Best Graphics Processing Units for Boosted Bitcoin Gains - Insights by Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumors-confirmed-detailed-analysis-on-apple-cars-price-tag-availability-and-technical-specs-uncovered/"><u>Rumors Confirmed? Detailed Analysis on Apple Car's Price Tag, Availability, and Technical Specs Uncovered!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-modern-electronics-with-authoritative-input-from-tom/"><u>The Ultimate Guide to Modern Electronics with Authoritative Input From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tech-picks-insights-from-tomn-hardware/"><u>The Ultimate Guide to Top Tech Picks: Insights From Tom'n Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-valkyrie-vind-sl125-reviewed-stunning-design-yet-lacking-in-robust-performance/"><u>The Valkyrie Vind SL125 Reviewed: Stunning Design, Yet Lacking in Robust Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-comprehensive-insights-and-reviews-on-computer-hardware/"><u>Tom's Tech Advice: Comprehensive Insights and Reviews on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-and-gadget-reviews/"><u>Tom's Tech Insights & Gadget Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-grove-interface-accessories-to-upgrade-your-raspberry-pi-and-arduino-systems/"><u>Top Grove Interface Accessories to Upgrade Your Raspberry Pi and Arduino Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-ultimate-gaming-nvme-ssds-for-your-portable-steam-deck-experience/"><u>Top Pick: Ultimate Gaming NVMe SSDs for Your Portable Steam Deck Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-ultimate-comfort-and-performance-best-wireless-gaming-headsets-of-2024/"><u>Top Picks for Ultimate Comfort & Performance: Best Wireless Gaming Headsets of 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/which-screen-recording-app-wins-bandicam-vs-camtasia-analysis/"><u>Which Screen Recording App Wins? Bandicam Vs Camtasia Analysis</u></a></li>
+</ul></div>
+

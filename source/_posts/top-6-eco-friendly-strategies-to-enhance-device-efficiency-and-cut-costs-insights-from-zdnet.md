@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Eco-Friendly Strategies to Enhance Device Efficiency and Cut Costs: Insights From ZDNet"
-date: 2024-09-19 20:24:43
-updated: 2024-09-20 10:26:51
+date: 2024-10-18T17:18:53.336Z
+updated: 2024-10-21T03:47:55.145Z
 tags:
   - sustainability
 categories:
@@ -27,6 +27,13 @@ The idea of sustainability is broad, but experts recommend looking at not only w
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Take stock of your own sustainability and look at your lifestyle
 
 According to the [Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/), the average US citizen has a yearly carbon footprint of 16 tons, compared to the global rate of about four tons.
@@ -40,6 +47,19 @@ Sustainability for each person could be different, especially depending on your 
 So sure, you could recycle plastic water bottles, but maybe you throw away old phones or GPS devices in the trash as soon as they stop working? Anderson says every little habit counts when it comes to sustainability, and utilizing technology in the right way to help us gauge our carbon footprint is vital.
 
 "We need to get to this point where it's not just about sustainability; it's about the specific things, the specific activities that lead us to the right sustainability outcomes," he says.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recycle your devices, but make sure it's the proper way
 
@@ -89,6 +109,13 @@ And if you don't have a Samsung phone, there are still ways to upcycle. For exam
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Become an educated consumer
 
 Newton says sustainability is not simply about doing the right things but also about supporting the right companies and making informed buying decisions. 
@@ -102,6 +129,13 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
 ### Utilize smart home automations
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -151,11 +185,29 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-your-macs-potential-with-sierra-update-steps/"><u>[New] Boosting Your Mac's Potential with Sierra Update Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>[New] Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-warehouse-in-the-sky-top-pricing-on-demand/"><u>[New] Warehouse in the Sky Top Pricing on Demand</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-effortless-dvd-to-mp4-conversion-with-winx-free-ripper-hassle-free-backup-software-for-windows-11/"><u>1. Effortless DVD to MP4 Conversion with WinX Free Ripper - Hassle-Free Backup Software for Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-starting-an-online-platform-for-consumer-goods-reviews/"><u>2024 Approved Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-no-such-support-errors-in-windows-systems/"><u>Eradicate No Such Support Errors in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-errors-with-windows-10-update-build-1607/"><u>Incompatibility Errors with Windows 10 Update (Build 1607)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-builds-with-toms-hardware-expertise/"><u>Mastering PC Builds with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-the-hardware-perspectives-of-toms-gurus/"><u>Mastering Tech Choices: The Hardware Perspectives of Tom's Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-electronics-with-toms-in-depth-analysis/"><u>Mastering Your Electronics with Tom's In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-gaming-with-optimal-arc-monitors/"><u>Navigate the Future of Gaming with Optimal Arc Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-electronics-like-a-pro-guided-by-toms-expertise-in-hardware/"><u>Navigate Through Electronics Like a Pro - Guided by Tom's Expertise in Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-guides/"><u>Navigating the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-analysis-by-tom-in-depth-guides-and-expert-opinions/"><u>Pioneering Hardware Analysis by Tom: In-Depth Guides & Expert Opinions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/xbox-one-dvd-player-compatibility-guide-and-setup-tips/"><u>Xbox One DVD Player Compatibility Guide and Setup Tips</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of the Right-to-Repair Movement: How It Affects Consumers and Why It's Crucial."
-date: 2024-09-17 11:31:48
-updated: 2024-09-20 12:48:17
+date: 2024-10-13T18:34:18.753Z
+updated: 2024-10-21T00:14:24.209Z
 tags:
   - sustainability
 categories:
@@ -31,6 +31,13 @@ One of the major objectives of right to repair laws is to make repairs much more
 
 One major issue the legislation is trying to tackle is reducing e-waste. According to the [United States Environmental Protection Agency (EPA)](https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste#:~:text=There%20are%20also%20problems%20with,neurological%20damage%20and%20diminished%20IQs.), consumers and businesses discarded 2.37 million tons of e-waste including televisions, computers, and cell phones in 2009\. By having people fix their own phones or find more affordable options, people won't have to dispose of their current products as often, reducing e-waste. Longer lasting hardware, and less e-waste makes right to repair a compelling argument for many.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do right to repair laws refer to?
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
@@ -59,15 +66,36 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
 In addition to the positive effects that the legislation has on the environment, right to repair laws ultimately will save individuals money. Often, repairs at the OEM can be costly and inconvenient, since you need to seek out a service provider. 
 
 With options to repair a product yourself or bring it to a third party, you can compare different servicing fees and locations -- and ultimately pick the one that is best for you. The ability to fix your device at your own convenience should also make you more confident about getting your device repaired in the first place and hopefully extend its life. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the arguments against right to repair?
 
@@ -110,11 +138,27 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-top-quality-on-youtube-video-enhancement-fundamentals/"><u>[New] 2024 Approved Achieving Top Quality on YouTube Video Enhancement Fundamentals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>[New] Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-cutest-and-most-informative-igtvs-now/"><u>[Updated] The Cutest & Most Informative IGTVs Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-starting-vlogging-right-the-top-equipmentsoftware/"><u>2024 Approved Starting Vlogging Right The Top Equipment/Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-waste-to-wonder-achieving-true-to-life-texture-appearance-and-smell-of-wood-through-3d-printing-with-sawdust-ink/"><u>From Waste to Wonder: Achieving True-to-Life Texture, Appearance, and Smell of Wood Through 3D Printing with Sawdust Ink</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-your-projects-best-3d-printing-materials/"><u>Future-Proof Your Projects: Best 3D Printing Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-eliminating-gaps-and-imperfections-in-3d-printed-models/"><u>Guide: Eliminating Gaps & Imperfections in 3D Printed Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-startup-failure-with-error-0xc000007b-step-by-step-solutions/"><u>How to Fix the Startup Failure with Error 0xC000007B: Step-by-Step Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a25-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A25 5G Phone that is Locked?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-tech-reviews-spotlight-on-toms-hardware-findings/"><u>In-Depth Tech Reviews: Spotlight on Tom's Hardware Findings</u></a></li>
+</ul></div>
+

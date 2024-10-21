@@ -1,7 +1,7 @@
 ---
 title: Upgrading to a New Phone? Eco-Friendly Tips and Best Practices for Disposing of Your Outdated Device
-date: 2024-09-17 13:36:20
-updated: 2024-09-20 11:30:33
+date: 2024-10-17T04:55:23.527Z
+updated: 2024-10-21T01:30:05.429Z
 tags:
   - sustainability
 categories:
@@ -25,6 +25,13 @@ Should you add it to the junk drawer where all your other old devices and chargi
 
 First, here's what not to do: never dispose of your device in your household garbage. Not only will you send your device straight to a landfill and pollute the environment with the potentially toxic metals found in your device, but [in some states](https://recyclenation.com/2021/08/throw-it-out-or-recycle-it-each-states-rules-on-electronics-recycling-updated-2021/) and [countries](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee%5Fen), you will be breaking the law, too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before buying a new electronic device
 
 Many people upgrade their devices on a regular basis as tech companies announce a lineup of new devices every year. But usually it's unnecessary to upgrade your device that frequently, as more current devices typically only offer one or two minor upgrades. 
@@ -43,6 +50,13 @@ Re-use is key way of cutting waste. Just because you don't want your phone or la
 
 Another option is alternative re-use: can your phone find a second life as a video camera or a standalone GPS device, for example? 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before selling your electronics
 
 If you've just spent hundreds of dollars on a new device, it might be nice to put some extra cash back in your pocket. Many online vendors will buy your old device and refurbish it for someone else to use.
@@ -54,6 +68,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,28 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-secure-recording-techniques-masking-personal-details/"><u>[New] 2024 Approved Secure Recording Techniques Masking Personal Details</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-transform-slide-show-into-video-format/"><u>[New] Transform Slide Show Into Video Format</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screencaptureelite-the-5-star-apeaksoft-evaluation/"><u>[Updated] ScreenCaptureElite – The 5-Star Apeaksoft Evaluation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-plot-crafting-hub/"><u>2024 Approved Leading Plot Crafting Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-secrets-toms-expert-analysis-and-insights/"><u>Decoding Hardware Secrets: Tom's Expert Analysis and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computing-secrets-at-toms-hardware-universe/"><u>Discover Advanced Computing Secrets at Tom's Hardware Universe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-pc-components-with-toms-hardware-guides/"><u>Discover the Latest in PC Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-finest-computer-speakers-of-the-year-balancing-cost-with-superior-audio-experience/"><u>Discovering the Finest Computer Speakers of the Year: Balancing Cost with Superior Audio Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-esports-experience-with-the-best-bluetooth-gaming-headsets-of-2024/"><u>Elevate Your Esports Experience with the Best Bluetooth Gaming Headsets of 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-online-presence-through-effective-facebook-strategies/"><u>Enhancing Online Presence Through Effective Facebook Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-beyond-the-wire-mic-connectivity-problems/"><u>Expert Tips on Resolving Beyond The Wire Mic Connectivity Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-meizu-21-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Meizu 21</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco M6 Pro 5G?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reestablishing-internet-links-for-iphones-and-ipads-effective-fixes-you-should-try/"><u>Reestablishing Internet Links for iPhones and iPads: Effective Fixes You Should Try</u></a></li>
+</ul></div>
+

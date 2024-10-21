@@ -1,7 +1,7 @@
 ---
 title: "Donating Carbon Offsets: The Perfect Eco-Friendly Gift Idea for the Festive Seasons"
-date: 2024-09-18 10:40:36
-updated: 2024-09-20 12:58:43
+date: 2024-10-19T21:24:53.879Z
+updated: 2024-10-20T21:28:22.809Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ You may have heard of Swiss company [Climeworks](https://climeworks.com/) from i
 
 This year Climeworks raised $650 million to support its operations. Part of its business model? Selling carbon removal to conscientious private consumers, including as giftable credits.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to give carbon removal credits this holiday season
 
 ## 1\. Choose a gift plan
@@ -58,9 +65,29 @@ There are four fields to fill out:
 3. Design: Choose which design you'd like to use.
 4. Personal message: Write a personal message to your recipient. The message will be included in the gift email and the gift PDF (max 500 characters).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How long does it take for the CO₂ to be removed?
 
 According to Climeworks, removal and storage of your gifted carbon capture will be performed within six years or earlier. The variables are Climeworks' plant utilization and operation schedules. Recipients get a certificate verifying their purchase.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Other environmental impact gifts you might consider
 
@@ -79,6 +106,13 @@ One Tree Planted
 ## Is carbon capture a viable solution? 
 
 There is [compelling criticism](https://www.climatecouncil.org.au/resources/what-is-carbon-capture-and-storage/) of carbon capture, which is that it actually enables industries to ramp up carbon emissions while still hitting emissions targets. Ultimately, even many supporters of carbon capture don't tout it as a solution, but rather a mitigation technology (and a fairly complicated one to boot) to help redress some of the damage caused by carbon-burning industries. How efficiently does it do that? It's actually pretty impressive. Here's a great [rundown from MIT](https://climate.mit.edu/ask-mit/how-efficient-carbon-capture-and-storage#:~:text=Most%20carbon%20capture%20technologies%20aim,to%20capture%20additional%20CO2.) you might want to check out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are these gifts tax-deductible?
 
@@ -109,11 +143,28 @@ Yup, there are many out there, including ones [from Climeworks](https://climewor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-7-screen-recorders-for-low-end-pc-for-2024/"><u>[New] Top 7 Screen Recorders for Low-End PC for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-in-memory-keeping-organizing-photos-on-iphone-and-uploading-to-icloud/"><u>[Updated] Precision in Memory Keeping Organizing Photos on iPhone and Uploading to iCloud</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-productivity-with-zoom-and-a-chromebook/"><u>2024 Approved Boosting Productivity with Zoom and a Chromebook</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-effect-of-disabling-windows-11s-taskbar-chat-on-users/"><u>Decoding The Effect Of Disabling Windows 11'S Taskbar Chat on Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-at-toms-hardware-store-comprehensive-guides/"><u>Expert Insights at Tom’s Hardware Store - Comprehensive Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-the-best-gaming-mouse-on-the-market/"><u>Expert Picks for the Best Gaming Mouse on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-a-hardware-perspective/"><u>Exploring Computer Components with Tom - A Hardware Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-pc-components-with-toms-hardware-guides/"><u>Exploring High-Performance PC Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-desktop-speaker-options-in-202n4-choices-for-every-budget-and-sound-enthusiast/"><u>Exploring the Best Desktop Speaker Options in 202N4: Choices for Every Budget and Sound Enthusiast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-writing-in-cinemas-diverse-segments/"><u>In 2024, Pinnacle Writing in Cinema's Diverse Segments</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-to-installing-amd-ryzen-5-2600-drivers-today/"><u>Quick & Easy Guide to Installing AMD Ryzen 5 2600 Drivers Today</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-10-streaming-services-worth-a-try/"><u>Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-when-your-fallout-76-game-is-offline-on-windows/"><u>Troubleshooting Steps for When Your Fallout 76 Game Is Offline on Windows</u></a></li>
+</ul></div>
+

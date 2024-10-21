@@ -1,7 +1,7 @@
 ---
 title: Top 4 Home Generator Bargains of December 2022 - Insider Picks From ZDNet
-date: 2024-09-19 23:17:41
-updated: 2024-09-20 11:28:35
+date: 2024-10-17T22:41:54.104Z
+updated: 2024-10-20T23:09:23.242Z
 tags:
   - sustainability
 categories:
@@ -20,6 +20,13 @@ Power outages from extreme weather is a year-round threat, but with a portable g
 And when you get your generator, remember to never use a gas or liquid propane-powered engine indoors and never plug a generator into your home's electrical system without first installing a transfer switch to prevent fires and other electrical damage. I've combed the web to find the best deals on portable generators, so you can save a little money while prepping for extreme weather situations.
 
 **Also:** [**Best portable power station: Emergency power when you need it**](https://www.zdnet.com/article/best-portable-power-station/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The best generator deals: November/December 2022**
 
@@ -75,13 +82,34 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDuroMax-XP13000EH-13-000-Watt-500cc-Portable-Hybrid-Gas-Propane-Generator%2F192013905%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What kind of generator is best for home use?
 
 If you're looking to set up your house to go off-grid and be entirely self-sufficient, you'll want to install a home standby generator. These types of generators are permanent installations, designed to work with a solar panel array or wind turbines to provide consistent power on cloudy or windless days as well as at night. 
 
 If you want to make sure you have electricity for at-home medical equipment and appliances during a weather emergency, a portable or inverter generator is your best option. If you do opt for a portable or inverter generator, you'll need to make sure you get one with more than enough wattage to run everything. Lowe's has a [handy worksheet](https://www.lowes.com/pdf/portable%5Fgenerator%5Fwattage%5Fchart.pdf) available, so you won't accidentally burn up your fridge.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do you hook a generator to your house?
 
@@ -116,11 +144,31 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-idealized-panzoid-blueprints-collection/"><u>[Updated] Idealized Panzoid Blueprints Collection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-edge-adjusting-fcpx-to-vertical-footage/"><u>[Updated] Instagram Edge Adjusting FCPX to Vertical Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-vr-travel-a-step-by-step-guide/"><u>[Updated] Mastering VR Travel A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2021s-top-picks-expertly-curated-list-of-best-in-class-x570-motherboards-with-enhanced-am4-capabilities/"><u>2021’S Top Picks: Expertly Curated List of Best-In-Class X570 Motherboards with Enhanced AM4 Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-efficient-chroma-removal-in-kinemaster/"><u>2024 Approved Efficient Chroma Removal in KineMaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-method-for-great-insta-posts/"><u>2024 Approved Simple Method for Great Insta Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-filaments-for-superior-3d-printing-results-2024-edition/"><u>Best-in-Class Filaments for Superior 3D Printing Results, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-bargain-alert-thrifty-beginners-guide-to-a-4k-resin-3d-printer-save-an-amazing-44/"><u>Black Friday Bargain Alert: 'Thrifty Beginner’s Guide to a 4K Resin 3D Printer - Save an Amazing 44%</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-aio-all-in-one-pc-liquid-cooling-system/"><u>Comprehensive Analysis of the Cooler Master ION 360 AIO All-in-One PC Liquid Cooling System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-the-inside-scoop-from-toms-equipment-guide/"><u>Decoding Tech Specs: The Inside Scoop From Tom's Equipment Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-hytes-innovative-accessories-chic-cooling-systems-dynamic-lighting-solutions-with-usb-controlled-rgb-effects-and-fan-management-for-motherboards/"><u>Discover Hyte's Innovative Accessories: Chic Cooling Systems, Dynamic Lighting Solutions with USB-Controlled RGB Effects & Fan Management for Motherboards</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/espressione-di-gratitudine-per-la-vostra-fondamentale-collaborazione/"><u>Espressione Di Gratitudine Per La Vostra Fondamentale Collaborazione!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125186460-mastering-technology-with-toms-hardware-top-notch-reviews-tips-and-buying-advice/"><u>Mastering Technology with Tom's Hardware: Top-Notch Reviews, Tips, and Buying Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcome-your-portable-charger-woes-with-the-affordable-20-anker-power-bank-insights/"><u>Overcome Your Portable Charger Woes with the Affordable $20 Anker Power Bank - Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nubia-red-magic-8s-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Red Magic 8S Pro FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-guide-to-cutting-edge-electronics-with-toms-tech-wisdom/"><u>Your Guide to Cutting-Edge Electronics with Tom's Tech Wisdom</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "July's Ultimate Shopping Extravaganza at Best Buy: Exclusive List of 29 Deals to Beat Out Amazon Prime Day - ZDNet Special Report"
-date: 2024-09-26T17:35:32.980Z
-updated: 2024-10-03T23:38:25.254Z
+date: 2024-10-13T23:18:21.179Z
+updated: 2024-10-20T17:07:32.309Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,16 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,20 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/he-pathway-to-popularity-strategies-for-soaring-viewership/"><u>[New] The Pathway to Popularity Strategies for Soaring Viewership</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-intimate-perspectives-with-team-zooms/"><u>[Updated] Intimate Perspectives with Team Zooms</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/dive-into-durability-and-style-the-impressive-battery-features-of-the-new-moto-g-power/"><u>Dive Into Durability and Style: The Impressive Battery Features of the New Moto G Power</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-motorola-edge-40-neo-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-steelseries-arctis-prime-microphone-back-up-and-running/"><u>Fixing the Issue: How to Get Your SteelSeries Arctis Prime Microphone Back Up and Running</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-add-multiple-waypoints-on-google-maps-with-ease-and-precision/"><u>How to Add Multiple Waypoints on Google Maps with Ease and Precision</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-12-pro-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 12 Pro 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/simplifying-multi-account-management-connect-more-than-one-google-id-to-an-android-smartphone-or-tablet/"><u>Simplifying Multi-Account Management: Connect More than One Google ID to an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/staying-stuck-between-portability-and-power-the-dual-modes-of-androids-tablet-experience/"><u>Staying Stuck Between Portability & Power: The Dual Modes of Android's Tablet Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-uninstalling-quick-setting-widgets-on-your-android-device/"><u>Step-by-Step Guide: Uninstalling Quick Setting Widgets on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-google-pixel-with-the-latest-android-12l-os/"><u>Step-by-Step Guide: Upgrading Your Google Pixel with the Latest Android 12L OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-utilizing-googles-magic-eraser-feature-across-mobile-devices-androidiphone/"><u>Step-by-Step Tutorial: Utilizing Google's Magic Eraser Feature Across Mobile Devices (Android/iPhone)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-growing-trend-of-oversized-phones-understanding-consumer-choices/"><u>The Growing Trend of Oversized Phones: Understanding Consumer Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-stressful-moments-solutions-with-chatgpt/"><u>Transforming Stressful Moments: Solutions with ChatGPT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rapid-instagram-video-viewing-techniques/"><u>[New] 2024 Approved Rapid Instagram Video Viewing Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-techniques-for-soundless-video/"><u>[New] In 2024, Essential Techniques for Soundless Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>[Updated] In 2024, Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/10-video-card-selections-for-peak-streaming-performance/"><u>Best 10 Video Card Selections for Peak Streaming Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-it-products-with-toms-expert-hardware-analysis/"><u>Discover Top IT Products with Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-endurance-lenovos-thinkpad-t14s-with-remarkable-29-hour-battery-life/"><u>Experience Unmatched Endurance: Lenovo's ThinkPad T14s with Remarkable 29-Hour Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-at-toms-hardware-hub/"><u>Exploring Advanced Computing at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-and-systems-a-journey-by-toms-hardware-experts/"><u>Exploring Advanced Gadgets and Systems - A Journey by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-comprehensive-hardware-insights/"><u>Exploring Gadgets with Tom - Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flying-lotus-unleashed-experience-the-next-gen-battery-powered-all-in-one-pc-seamlessly-merging-laptop-foundations-with-cutting-edge-3d-print-components/"><u>Flying Lotus Unleashed: Experience the Next-Gen Battery-Powered All-in-One PC, Seamlessly Merging Laptop Foundations with Cutting-Edge 3D Print Components</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-14-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 14 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-apples-ecosystem-plays-a-crucial-role-in-boosting-mac-gaming-appeal/"><u>How Apple's Ecosystem Plays a Crucial Role in Boosting Mac Gaming Appeal</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-gigabyte-g6x-reliable-gaming-power-with-standard-offerings/"><u>In-Depth Analysis of the Gigabyte G6X: Reliable Gaming Power with Standard Offerings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/initial-performance-tests-show-snapdragon-x-elite-lagging-behind-iphone-12-book4-edges-surprise-reviews/"><u>Initial Performance Tests Show Snapdragon X Elite Lagging Behind iPhone 12 - Book4 Edge's Surprise Reviews</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/online-tutorial-adding-youtube-playlists-to-your-site/"><u>Online Tutorial Adding YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-accessories-for-your-high-quality-gopro-for-2024/"><u>Optimal Accessories for Your High-Quality GoPro for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/picverse-by-movavi-ultimate-mobile-image-editing-tool/"><u>Picverse by Movavi: Ultimate Mobile Image Editing Tool</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-web-traffic-with-cookiebots-advanced-automated-seo-tools/"><u>Revolutionize Web Traffic With Cookiebot's Advanced Automated SEO Tools</u></a></li>
 </ul></div>
 

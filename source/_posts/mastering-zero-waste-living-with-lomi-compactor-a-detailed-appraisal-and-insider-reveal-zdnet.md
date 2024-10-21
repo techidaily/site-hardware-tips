@@ -1,7 +1,7 @@
 ---
 title: "Mastering Zero-Waste Living with Lomi Compactor: A Detailed Appraisal and Insider Reveal | ZDNET"
-date: 2024-09-17 15:55:29
-updated: 2024-09-20 11:26:35
+date: 2024-10-14T05:38:31.996Z
+updated: 2024-10-21T04:00:04.301Z
 tags:
   - sustainability
 categories:
@@ -67,6 +67,13 @@ The Lomi takes up a decent amount of counter space, so we keep ours under the ta
 
 Greg Nichols / ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setup and form factor 
 
 The device isn't small, which is a consideration when it comes to limited counter space. Since we have no spare counter space to speak of aboard Lindy, our WWII era sailboat, we keep ours under the table in our salon. That makes it convenient to deposit food scraps from the inevitably hectic weekday breakfast rush followed by dash to school. 
@@ -82,6 +89,13 @@ Once the charcoal is in, you just plug in the Lomi and you're in business.
 Starts as oatmeal and mango peel ...
 
 Greg Nichols / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using Lomi 
 
@@ -114,6 +128,19 @@ Eco-Express mode is the fastest and takes about 3-5 hours. You can add the resul
 **Lomi Approved:** This mode is meant for food waste, bioplastics and Lomi Approved packaging and products. Lomi recommends using a LomiPod in this mode, which adds beneficial microbes to help aid the process of breaking down the bioplastics. This mode takes about 5-8 hours. The resulting dirt can be tossed in the green bin, but like the Eco-Express dirt it isn't rich in microorganisms and shouldn't be used with plants. 
 
 **Grow Mode:** This mode is meant for use with fruit and vegetable waste only. So no cooked or processed foods and no bioplastics. This mode utilizes low heat to help preserve microorganisms. Lomi recommends adding a LomiPod in this mode. The benefit is that the resulting dirt can be mixed with garden or houseplant soil. Lomi recommends a ratio of 1:10 dirt to soil. 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How much power does Lomi use? 
 
@@ -153,6 +180,13 @@ But if you live in an apartment or other small space, like our boat, and if food
 
 If you're tight on space and need to do better with your food waste, Lomi is a great solution. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [FoodCycler FC-50 $399.95 at Vitamix](https://www.dpbolvw.net/click-9041660-14552448-1671737722000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -184,11 +218,24 @@ The grandaddy of traditional outdoor composters, if you have the space and the w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-great-gimbal-debate-hero-black-vs-km-170/"><u>[New] 2024 Approved The Great Gimbal Debate HERO Black vs KM-170</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>[Updated] Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-vlog-editing-top-10-apps/"><u>New In 2024, The Ultimate Guide to Mobile Vlog Editing Top 10 Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-insights-into-the-latest-computer-hardware/"><u>Tom's Tech Reviews: Insights Into the Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-thermal-compounds-for-cpu-cooling-comprehensive-ranking-of-90-products/"><u>Top Rated Thermal Compounds for CPU Cooling : Comprehensive Ranking of 90 Products</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-most-durable-google-pixel-t6-hard-shells-2023s-premier-choices/"><u>Ultimate Guide to the Most Durable Google Pixel T6 Hard Shells: 2023'S Premier Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-gadget-wisdom/"><u>Unlocking Performance Secrets with Tom's Gadget Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveil-advanced-gadgets-through-toms-comprehhardware-overview/"><u>Unveil Advanced Gadgets Through Tom's Compreh#Hardware Overview</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-outlook-not-opening-expert-fixes-and-tips-for-users/"><u>Why Is My Outlook Not Opening? Expert Fixes & Tips for Users</u></a></li>
+</ul></div>
+

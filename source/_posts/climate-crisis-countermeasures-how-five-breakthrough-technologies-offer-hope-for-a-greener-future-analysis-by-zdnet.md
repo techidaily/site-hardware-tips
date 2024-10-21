@@ -1,7 +1,7 @@
 ---
 title: "Climate Crisis Countermeasures: How Five Breakthrough Technologies Offer Hope for a Greener Future | Analysis by ZDNET"
-date: 2024-09-18 19:41:50
-updated: 2024-09-20 11:17:35
+date: 2024-10-19T22:03:08.496Z
+updated: 2024-10-20T22:29:00.587Z
 tags:
   - sustainability
 categories:
@@ -19,6 +19,13 @@ Estimates suggest technology is [one of the biggest contributors to rising carbo
 
 ### 1\. Carbon capture, removal, and storage 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
@@ -33,9 +40,23 @@ Image: StartUs Insights
 
 The biggest impact, this research revealed, will come from advanced photovoltaics, AI and big data, distributed energy storage systems and hydro power, followed by wind energy, bioenergy, grid integration, green hydrogen, advanced robotics, and blockchain. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Batteries and energy storage 
 
 Rechargeable batteries will provide an efficient way of storing renewable electricity on grids of various sizes, as well as powering electric vehicles and all manner of digital devices. According to the UK's [Royal Society](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-batteries.pdf), new lithium ion batteries will deliver lower cost, extended life, enhanced energy density, increased safety, and faster charging, and they will also be more sustainable, easier to recycle, and last longer. Next-generation batteries -- including [sodium ion](https://en.wikipedia.org/wiki/Sodium-ion%5Fbattery), [multivalent-ion](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/batt.202000330), [redox flow](https://en.wikipedia.org/wiki/Flow%5Fbattery), [solid-state](https://en.wikipedia.org/wiki/Solid-state%5Fbattery), [metal-sulphur](https://pubs.acs.org/doi/10.1021/acsenergylett.8b02212) and [metal-air](https://pubs.acs.org/doi/10.1021/acsenergylett.7b00119) \-- should have even lower costs and substantially higher energy densities. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Smart homes, buildings, cities, grids, agriculture 
 
@@ -44,6 +65,13 @@ The IPCC's Climate Change 2022 report notes that "Digital technologies can contr
 **Also: [Business travel, energy consumption in the spotlight as sustainability jumps up the agenda](https://www.zdnet.com/article/sustainability-initiatives-wont-just-save-the-planet-theyll-save-your-company-too/)**
 
 However, the report also notes the potential negative aspects of multiple 'smart' sectors, including growth in digital device usage, increased e-waste, job losses, and an exacerbated digital divide. "Digital technology supports decarbonisation only if appropriately governed," the IPCC concludes. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Remote sensing of greenhouse gas emissions 
 
@@ -78,11 +106,33 @@ In [November 2022](https://climatetrace.org/news/more-than-70000-of-the-highest-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-identifying-top-video-capturing-tools-for-win11/"><u>[Updated] In 2024, Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-wired-internet-overcoming-100mbps-limit-in-windows/"><u>Boosting Wired Internet: Overcoming 100Mbps Limit in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-at-toms-digital-workshop/"><u>Exploring Computer Components at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-technology-through-toms-lens/"><u>Exploring Cutting-Edge Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-the-authority-in-hardware-insights/"><u>Exploring Gadgets with Tom: The Authority in Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-and-installation-guide-for-d-link-device-drivers-on-windows/"><u>Free Update and Installation Guide for D-Link Device Drivers on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-12-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 12 Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>In 2024, The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-world-of-computing-in-depth-performance-analysis/"><u>Inside Tom's World of Computing - In-Depth Performance Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-refined-noctua-nh-d15-g2-whisper-quieter-cooling-fans-extra-heatpipes-for-optimal-performance/"><u>Introducing the Refined Noctua NH-D15 G2: Whisper Quieter Cooling Fans, Extra Heatpipes for Optimal Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investigating-the-rattling-audio-complaints-noctuas-response-for-its-new-nh-d15-g2-air-cooling-solution/"><u>Investigating the ‘Rattling’ Audio Complaints: Noctua's Response for Its New NH-D15 G2 Air Cooling Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-based-prophecy-superior-to-horoscopes-in-charting-lifes-course/"><u>Is AI-Based Prophecy Superior to Horoscopes in Charting Life's Course?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keep-your-system-cool-and-efficient-for-99-get-a-game-changing-nh-d12l-chromax-black-from-noctua/"><u>Keep Your System Cool and Efficient for $99 - Get a Game-Changing NH-D12L Chromax Black From Noctua</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-smooth-layers-techniques-for-overcoming-3d-printer-issues/"><u>Mastering Smooth Layers: Techniques for Overcoming 3D Printer Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-find-your-fit-at-toms-hardware/"><u>Mastering Technology Choices: Find Your Fit at Tom's Hardware</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-seamless-scene-shifts-in-video-editing/"><u>New 2024 Approved Mastering Seamless Scene Shifts in Video Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-discord-stream-interruptions-and-app-failures/"><u>Overcoming Discord Stream Interruptions and App Failures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly-for-2024/"><u>Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-splice-for-mac-the-ultimate-video-editing-experience/"><u>Updated In 2024, Splice for Mac The Ultimate Video Editing Experience</u></a></li>
+</ul></div>
+

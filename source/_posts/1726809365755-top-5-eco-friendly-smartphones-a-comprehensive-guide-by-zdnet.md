@@ -1,7 +1,7 @@
 ---
 title: Top 5 Eco-Friendly Smartphones - A Comprehensive Guide by ZDNet
-date: 2024-09-18 23:23:43
-updated: 2024-09-20 11:10:55
+date: 2024-10-17T19:01:38.834Z
+updated: 2024-10-20T20:38:59.425Z
 tags:
   - sustainability
 categories:
@@ -94,6 +94,13 @@ Cons
 * It doesn't ship to the US -- only available in Europe
 * It runs on Android 9
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fairphone 4
 
 #### Best certified sustainable green phone
@@ -175,6 +182,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which eco-friendly phone is right for you?
 
 If you're loyal to a smartphone brand, the Apple and Samsung phones on this list are great options that don't require you to give up the smartphone experience you are used to. The Fairphone 4 is an excellent eco-conscious option with 5G speeds if you live in Europe. 
@@ -189,9 +203,23 @@ And, if you want a cheaper phone that will last at least five years, the Teracub
 | Teracube 2E                | A green phone that lasts longer than the average two- to three-year lifespan |
 | Motorola Edge              | A green phone that has up to two-days of battery life on a full charge       |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these eco-friendly phones?
 
 We looked at the usual name-brand smartphones as well as the not-so-conventional brands to add to this list. We read through and fact-checked climate pledges and claims companies have made. Other criteria we considered when choosing the smartphones on this list were what the devices were made of and their overall energy usage/carbon footprint when compared to the average smartphone. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What makes a phone eco-friendly?
 
@@ -232,11 +260,27 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-discover-the-best-21-hdmi-monitors-ranked-by-quality-for-2024/"><u>[Updated] Discover the Best 2.1 HDMI Monitors Ranked by Quality for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-discovering-the-past-best-history-youtubers-for-2024/"><u>[Updated] Discovering the Past Best History YouTubers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magix-vpx-the-ultimate-software-showdown/"><u>[Updated] Magix VPX The Ultimate Software Showdown</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-simplifying-complications-in-youtube-shorts-for-2024/"><u>[Updated] Simplifying Complications in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-s23-ultra-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy S23 Ultra Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-7-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125139449-revolutionize-bulk-printing-and-cut-expenses-snag-huge-savings-with-the-elegoo-neptune-3plus-enjoy-80-off-now/"><u>Revolutionize Bulk Printing and Cut Expenses: Snag Huge Savings with the Elegoo Neptune 3+ - Enjoy $80 Off Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-into-modern-hardware/"><u>Tom's Tech Review: Comprehensive Insights Into Modern Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-unbeatable-savings-thrifty-beginners-4k-resin-3d-printer-now-at-44-off-on-black-friday/"><u>Unlock Unbeatable Savings: 'Thrifty Beginner's 4K Resin 3D Printer Now at 44% Off on Black Friday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-and-motherboards-at-toms-equipment-corner/"><u>Unveiling the Latest in Gadgets and Motherboards at Tom's Equipment Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-toms-computer-review-platform/"><u>Unveiling the Secrets of Tom's Computer Review Platform</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Join Uber's Eco-Friendly Initiative: Track Your Carbon Footprint Reduction with the Latest Riders Emission Tracker"
-date: 2024-09-17 19:42:52
-updated: 2024-09-20 10:40:59
+date: 2024-10-13T22:31:01.487Z
+updated: 2024-10-21T01:31:31.679Z
 tags:
   - sustainability
 categories:
@@ -66,11 +66,36 @@ Uber is taking steps to ensure the savings shown are as accurate as possible. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-linux-software-best-choices-for-snaps-and-shots/"><u>[New] 2024 Approved Essential Linux Software Best Choices for Snaps & Shots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-zoomed-success-on-set-harnessing-kinemasters-viewer-focus/"><u>[New] 2024 Approved Zoomed Success on Set Harnessing Kinemaster’s Viewer Focus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-imageclass-mf4800-printer-drivers-full-version/"><u>Download Canon ImageCLASS MF4800 Printer Drivers - Full Version</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquering-hdr-photography-with-ease/"><u>In 2024, Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-effective-youtube-comment-engagement/"><u>In 2024, Strategies for Effective YouTube Comment Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-world-with-your-site-name-what-toms-hardware-never-taught-you/"><u>Mastering the Digital World with [Your Site Name]: What Tom's Hardware Never Taught You!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-equipment-toms-authoritative-guide/"><u>Navigating the World of Computing Equipment - Tom's Authoritative Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-with-toms-expert-insights-and-guides/"><u>Navigating the World of Hardware with Tom's Expert Insights and Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-of-fast-3d-printing-unlocked-technique-from-mit-employs-secondhand-metals-and-layers-of-glass-beads-for-speedier-production/"><u>Next Generation of Fast 3D Printing Unlocked: Technique From MIT Employs Secondhand Metals & Layers of Glass Beads for Speedier Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-resin-output-with-this-power-packed-elegoo-washcure-bundle-all-for-just-149/"><u>Revolutionize Your Resin Output with This Power-Packed Elegoo Wash/Cure Bundle - All for Just $149</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-cpu-cooler-paste-for-2amoy/"><u>The Ultimate Guide to Choosing the Best CPU Cooler Paste for 2Amoy</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-make-movies-for-free-top-rated-video-editing-software/"><u>Updated Make Movies for Free Top-Rated Video Editing Software</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

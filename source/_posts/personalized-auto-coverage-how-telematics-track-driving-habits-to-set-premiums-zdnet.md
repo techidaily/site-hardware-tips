@@ -1,7 +1,7 @@
 ---
 title: "Personalized Auto Coverage: How Telematics Track Driving Habits to Set Premiums | ZDNET"
-date: 2024-09-19 14:43:11
-updated: 2024-09-20 11:17:27
+date: 2024-10-19T05:10:36.790Z
+updated: 2024-10-21T05:28:11.169Z
 tags:
   - sustainability
 categories:
@@ -34,6 +34,13 @@ I connected with Joe Meisinger, Vice President of Personal Insurance Product at 
 Travelers Insurance plans to continue expanding its telematics offerings -- the technologies used to track and transmit driving data -- into the future, leveraging advances in technology and customer insights. The reality is that this is undoubtedly the way the insurance industry will go in years ahead. Insurers have long rewarded good driving records, and with the prevalence of connected technologies, there's a huge incentive for underwriters to seek a more granular picture of individual customers' risk profiles.
 
 For now, customers have a choice to opt in if their vehicle has embedded technology, and the year, make, and model are supported by IntelliDrive.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -77,11 +84,30 @@ The reality, for better or (more likely) worse, is that we consent to a broad ar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-10-exceptional-cost-saving-passport-portrait-maker-applications/"><u>[New] 2024 Approved 10 Exceptional, Cost-Saving Passport Portrait Maker Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-prominent-comment-spotlights-for-2024/"><u>[Updated] Finding Prominent Comment Spotlights for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>[Updated] In 2024, How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tucked-into-narratives-a-review-of-evening-storytelling-videos/"><u>[Updated] In 2024, Tucked Into Narratives A Review of Evening Storytelling Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-nord-ce-3-lite-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Nord CE 3 Lite 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-edge-step-by-step-video-cropping-techniques-for-2024/"><u>Instagram Edge Step-by-Step Video Cropping Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pixelshalfed-dissection/"><u>PixelsHalfed Dissection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-filming-for-virality-on-youtube/"><u>The Ultimate Guide to Filming for Virality on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-gadgets/"><u>Tom's Tech Review - In-Depth Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide-to-hardware-components/"><u>Tom's Tech Review: The Ultimate Guide to Hardware Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-best-2024-motherboards-tailored-for-gaming-enthusiasts-categorized-by-compatibility-with-sockets-and-chipsets/"><u>Top Pick: Best 2024 Motherboards Tailored for Gaming Enthusiasts, Categorized by Compatibility with Sockets & Chipsets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-stemma-qt-enhancements-grove-accessories-for-raspberry-pi-and-arduino-in-2e/"><u>Top Stemma QT Enhancements: Grove Accessories for Raspberry Pi & Arduino in 2E</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-speakers-of-2024-finding-the-perfect-match-from-economy-to-high-end/"><u>Top-Rated Computer Speakers of 2024: Finding the Perfect Match From Economy to High-End</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-electronics-by-toms-hardware-team/"><u>Ultimate Guide to Electronics by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-computer-components-secrets-expert-advice-from-toms-tech-hub/"><u>Unveiling Computer Components Secrets – Expert Advice From Tom's Tech Hub</u></a></li>
+</ul></div>
+

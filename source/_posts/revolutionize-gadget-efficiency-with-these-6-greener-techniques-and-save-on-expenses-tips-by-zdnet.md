@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Gadget Efficiency with These 6 Greener Techniques & Save on Expenses – Tips by ZDNET
-date: 2024-09-17 15:37:12
-updated: 2024-09-20 12:39:38
+date: 2024-10-20T03:31:44.378Z
+updated: 2024-10-20T18:48:16.200Z
 tags:
   - sustainability
 categories:
@@ -26,6 +26,13 @@ Sure, you can reduce, reuse, and recycle all you want, but when it comes to our 
 The idea of sustainability is broad, but experts recommend looking at not only what tech products you buy, but how you use your devices can make even a little impact on being more "green" with technology.
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Take stock of your own sustainability and look at your lifestyle
 
@@ -89,6 +96,13 @@ And if you don't have a Samsung phone, there are still ways to upcycle. For exam
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Become an educated consumer
 
 Newton says sustainability is not simply about doing the right things but also about supporting the right companies and making informed buying decisions. 
@@ -102,6 +116,13 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
 ### Utilize smart home automations
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -119,6 +140,19 @@ Image: Amazon
 Since heating and cooling are responsible for [almost 50%](https://www.energy.gov/public-services/homes/heating-cooling) of energy use in an average US home, smart home products can help you consume less energy while saving cash on your bill. 
 
 Look into intuitive smart thermostats like Nest or Ecobee with voice-control features and ambient temperature sensors. In addition, [Neurio](https://elemental.green/neurio-smart-energy-monitor/) is a smart energy monitor that gives you real-time monitoring to see where energy is being used in your house, track your appliance use, and compare your home energy use to others. 
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't upgrade if you don't have to
 
@@ -151,11 +185,28 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-art-of-iphone-photography-shadow-techniques/"><u>[New] 2024 Approved The Art of iPhone Photography Shadow Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-integrating-your-photos-smart-transfers-from-iphone-to-snapchat/"><u>[Updated] Integrating Your Photos Smart Transfers From iPhone to Snapchat</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/emilia-romagna-bank-enhances-document-management-with-abnyy-finereader-technology/"><u>Emilia Romagna Bank Enhances Document Management with ABNYy FineReader Technology</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-essential-history-vids-student-edition-of-top-10-lists/"><u>In 2024, Essential History Vids Student Edition of Top 10 Lists</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y78t-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y78t?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-g42-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia G42 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-at-toms-hardware-corner/"><u>Inside the World of Technology at Tom's Hardware Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/joining-separate-filaments-with-ease-for-perfect-continuous-reels/"><u>Joining Separate Filaments with Ease for Perfect, Continuous Reels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-devices-tips-and-tricks-by-toms-hardware-authorities/"><u>Master Your Devices: Tips and Tricks by Tom's Hardware Authorities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-system-upgrades-with-expert-tips-from-toms-hardware/"><u>Master Your System Upgrades with Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-financials-of-additive-manufacturing-precise-cost-projection-techniques/"><u>Navigating the Financials of Additive Manufacturing: Precise Cost Projection Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-xbox-controller-setup-a-step-by-step-guide-for-seamlessly-linking-with-your-pc/"><u>Wireless Xbox Controller Setup: A Step-by-Step Guide for Seamlessly Linking with Your PC</u></a></li>
+</ul></div>
+

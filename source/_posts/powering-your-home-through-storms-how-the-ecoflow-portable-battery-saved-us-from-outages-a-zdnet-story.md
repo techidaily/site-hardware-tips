@@ -1,7 +1,7 @@
 ---
 title: "Powering Your Home Through Storms: How the EcoFlow Portable Battery Saved Us From Outages - A ZDNet Story"
-date: 2024-09-17 21:59:50
-updated: 2024-09-20 11:25:49
+date: 2024-10-15T20:13:51.309Z
+updated: 2024-10-20T20:49:04.229Z
 tags:
   - sustainability
 categories:
@@ -85,6 +85,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://www.amazon.com/EF-ECOFLOW-Battery-Expandable-Emergency/dp/B0CQXLCK75?tag=zdnet-buy-button-20) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://www.amazon.com/EF-ECOFLOW-Expandable-Generator-Emergency/dp/B0CQXMZ5BK?tag=zdnet-buy-button-20)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -114,11 +121,28 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-effortless-photo-transformations-using-instagrams-green-screen/"><u>[New] 2024 Approved Effortless Photo Transformations Using Instagram's Green Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-integrating-youtube-media-into-instagram-experience/"><u>[New] Integrating YouTube Media Into Instagram Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fusing-your-content-creation-with-youtube-and-tiktok-synergy/"><u>[Updated] 2024 Approved Fusing Your Content Creation with YouTube & TikTok Synergy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-soundscape-adjustments-fading-volume-with-precision-in-logic-pro/"><u>[Updated] In 2024, Soundscape Adjustments Fading Volume with Precision in Logic Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-velocity-in-virtue-share-your-youtube-lists-fast/"><u>2024 Approved Velocity in Virtue Share Your YouTube Lists Fast</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-magic-6-lite-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor Magic 6 Lite to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-market-with-tom-a-deep-dive-into-reliable-hardware-choices/"><u>Mastering the Market with Tom - A Deep Dive Into Reliable Hardware Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-value-packed-mechanical-keyboards-reviewed/"><u>Most Value-Packed Mechanical Keyboards Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mugurisus-4g-strawberry-edition-outshines-with-its-unique-berry-flavored-thermal-pink-paste-vs-kryonaut/"><u>Mugurisu's 4G Strawberry Edition Outshines with Its Unique Berry-Flavored Thermal Pink Paste Vs. Kryonaut</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-innovations-your-trusted-source-toms-hardware/"><u>Navigating Computer Innovations - Your Trusted Source, Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-cutting-edge-tech-insights-from-toms-hardware/"><u>Navigating Through Cutting-Edge Tech: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-tech-terrain-toms-hardware-essentials-for-savvy-consumers/"><u>Navigating Through Tech Terrain: Tom's Hardware Essentials for Savvy Consumers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24plus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24+</u></a></li>
+</ul></div>
+

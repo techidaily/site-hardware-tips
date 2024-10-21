@@ -1,7 +1,7 @@
 ---
 title: "Harnessing IoT for Environmental Monitoring: IBM Teams with The Nature Conservancy in India, Spotlighted by ZDNET"
-date: 2024-09-18 17:36:50
-updated: 2024-09-20 10:32:14
+date: 2024-10-19T20:52:09.445Z
+updated: 2024-10-21T05:48:25.148Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ Manoj Balachandran, head of CSR at IBM India & South Asia, told _ZDNet_ that the
 That period followed a planning period of over eight months when The Nature Conservancy and IBM co-created a project plan based on a review of needs specific to Lake Sembakkam and prior IBM IoT deployments for water conservation, including The Jefferson Project at Lake George, NY. 
 
 "Globally, IBM has done five other IBM Service Corps deployments in support of water-related work with TNC since 2016 (including projects focused on Brazil, Peru, Colombia, Kenya, and global uses)," Balachandran said. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,11 +86,25 @@ Balachandran added, "The Nature Conservancy India aims to integrate these into t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/iscover-new-heights-top-10-adventure-channels/"><u>[New] Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-productive-online-team-sessions/"><u>[Updated] In 2024, The Ultimate Guide to Productive Online Team Sessions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmatched-clarity-best-blu-ray-players-of-24/"><u>In 2024, Unmatched Clarity Best Blu-Ray Players of '24</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-st060-the-next-gen-cpu-cooler-that-comes-with-a-six-inch-lcd-display-as-big-and-clear-as-an-iphone-15s-retina-screen/"><u>Lamptron ST060: The Next-Gen CPU Cooler That Comes With a Six-Inch LCD Display as Big and Clear as an iPhone 15'S Retina Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/legal-battles-heat-up-competing-brands-accused-of-copying-cooler-masters-patented-radiator-technology/"><u>Legal Battles Heat Up: Competing Brands Accused of Copying Cooler Master's Patented Radiator Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-builds-top-tips-from-toms-hardware-experts/"><u>Master Your PC Builds: Top Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-knowledge-your-guide-to-top-hardware-picks-by-tom/"><u>Mastering Tech Knowledge - Your Guide to Top Hardware Picks by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-needs-with-insights-from-toms-hardware-experts/"><u>Mastering Your PC Needs with Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-explainer-video-tools-to-boost-your-brand/"><u>New In 2024, Top Explainer Video Tools to Boost Your Brand</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-top-5-weightless-action-recording-units-for-2024/"><u>Prime Top 5 Weightless Action Recording Units for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Right-to-Repair Movement: Impacts & Importance for Consumers - An In-Depth Exploration by ZDNET"
-date: 2024-09-17 11:45:17
-updated: 2024-09-20 11:33:53
+date: 2024-10-16T04:09:05.372Z
+updated: 2024-10-21T03:54:21.357Z
 tags:
   - sustainability
 categories:
@@ -35,6 +35,13 @@ One major issue the legislation is trying to tackle is reducing e-waste. Accordi
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does e-waste affect the environment? Why should e-waste be reduced?
 
 E-waste is toxic for the environment and can harm living species -- including humans. The materials used to make electronic devices contain metals and chemicals that are hazardous to human health, such as beryllium, lead, mercury, nickel, and zinc, [according to the EPA](https://www.epa.gov/large-scale-residential-demolition/electronic-waste-and-demolition). 
@@ -42,6 +49,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 **Also:** [**Right to repair move gets backing from President Biden**](https://www.zdnet.com/article/right-to-repair-move-gets-backing-from-president-biden/)
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which states have right to repair laws?
 
@@ -59,9 +73,23 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
@@ -110,11 +138,30 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>[New] 2024 Approved A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-superior-live-streaming-services/"><u>[New] The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-direct-screen-capture-chromium-version/"><u>[Updated] In 2024, Direct Screen Capture Chromium Version</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-spectrum-of-sharing-navigating-video-distribution-on-fb-for-2024/"><u>[Updated] The Spectrum of Sharing Navigating Video Distribution on FB for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-hl-2240-printer-software-for-optimal-performance-on-your-windows-machine/"><u>Get the Latest Brother HL-2240 Printer Software for Optimal Performance on Your Windows Machine!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hiberfilsys-and-pagefilesys-high-local-disk-usage-on-windows-107-solved/"><u>hiberfil.sys and pagefile.sys High Local Disk Usage on Windows 10/7 [Solved]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-unfollow-a-path-towards-a-lasting-account-discontinuation/"><u>Insta Unfollow A Path Towards a Lasting Account Discontinuation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/roguelikes-traditional-tactics-vs-modern-mechanics/"><u>Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-external-hard-drives-a-comprehensive-guide/"><u>Top Recommended External Hard Drives : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125137767-unbelievable-offer-top-notch-black-nylon-filament-for-3d-printing-at-a-steal-just-16kg/"><u>Unbelievable Offer: Top-Notch Black Nylon Filament for 3D Printing at a Steal – Just $16/Kg!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-the-comprehensive-guide-to-hardware/"><u>Unveiling Tech Secrets: The Comprehensive Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-by-toms-experts/"><u>Unveiling the Latest in Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-hardware/"><u>Unveiling the Latest in PC Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gameplay-with-optimal-screens-a-buyers-guide-for-ps5-and-xbox-series-gamers/"><u>Upgrade Your Gameplay with Optimal Screens: A Buyer's Guide for PS5 & Xbox Series Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgraded-airflow-efficiency-discover-the-strength-of-thermaltakes-latest-br)/"><u>Upgraded Airflow Efficiency: Discover the Strength of Thermaltake's Latest ^Br></u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-google-pixel-8-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Google Pixel 8 Phone Network-Ready</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How Singapore's Focus on Data Infrastructure Powers Its AI Expansion: Insights Into Data Centers & Models - ZDNet"
-date: 2024-09-17 22:17:37
-updated: 2024-09-20 11:56:14
+date: 2024-10-14T05:25:18.876Z
+updated: 2024-10-20T20:19:03.417Z
 tags:
   - sustainability
 categories:
@@ -90,11 +90,40 @@ Singapore last month [launched a research initiative to build an LLM](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-visuals-with-better-obs-settings/"><u>[New] In 2024, Enhance Visuals with Better OBS Settings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tick-tock-tally-calculating-pewdiepies-cash/"><u>[New] Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-srt-insights-essential-facts-unveiled/"><u>2024 Approved Ultimate SRT Insights Essential Facts Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format-for-2024/"><u>FFmpeg Audio Review Can FFmpeg Extract Audio in Original Format for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/head-to-head-detailed-performance-analysis-of-120mm-aio-cpu-coolers-from-industry-leaders/"><u>Head to Head: Detailed Performance Analysis of 120MM AIO CPU Coolers From Industry Leaders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-cutting-edge-tools-for-unique-youtube-channel-names/"><u>In 2024, Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>In 2024, The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-evaluations-discover-what-toms-tech-reviewers-say/"><u>In-Depth Hardware Evaluations – Discover What Tom’s Tech Reviewers Say</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-computers-tips-from-toms-hardware-experts/"><u>Inside the World of Computers - Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-king-of-3d-printing-crealitys-flagship-k1c-reveal-all-about-its-launch-price-and-specs/"><u>Introducing the New King of 3D Printing: Creality's Flagship K1C – Reveal All About Its Launch, Price and Specs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-network-augmentation-devices-for-more-ports-and-quickness/"><u>Leading Network Augmentation Devices for More Ports and Quickness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-hardware-guides/"><u>Mastering Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-with-toms-hardware-gadgets-reviewed-by-pros/"><u>Mastering Tech with Tom's Hardware: Gadgets Reviewed by Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-with-toms-digital-toolbox/"><u>Navigating New Gadgets with Tom's Digital Toolbox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-trustworthy-reviews-and-advice-from-toms-hardware/"><u>Navigating the Tech World: Trustworthy Reviews and Advice From Tom's Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/starting-with-hauls-a-step-by-step-editing-manual/"><u>Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-of-teslas-autonomous-cab-service-pricing-info-expected-debut-specs-plus-rumors/"><u>Unveiling of Tesla's Autonomous Cab Service: Pricing Info, Expected Debut, Specs + Rumors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-video-editing-best-apps-to-blur-unwanted-parts/"><u>Updated Mobile Video Editing Best Apps to Blur Unwanted Parts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
