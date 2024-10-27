@@ -1,7 +1,7 @@
 ---
 title: "Reboot Your Mac's Control: A Step-by-Step Guide to Reconfiguring the Command Key"
-date: 2024-10-14T20:42:19.666Z
-updated: 2024-10-21T06:11:55.131Z
+date: 2024-10-21T20:55:17.081Z
+updated: 2024-10-26T16:15:59.971Z
 tags:
   - laptops
 categories:
@@ -91,16 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,22 +131,19 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-digital-dexterity-quick-quality-trimming-of-vimeo-videos-5-ways/"><u>[Updated] Digital Dexterity Quick, Quality Trimming of Vimeo Videos (5 Ways)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-visual-virality-strategies-that-transform-snaps-into-success/"><u>[Updated] In 2024, Visual Virality Strategies That Transform Snaps Into Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-action-to-archive-top-screenshot-tools-reviewed/"><u>2024 Approved From Action to Archive Top Screenshot Tools Reviewed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-picks-the-fastest-external-solid-state-drives-for-this-year/"><u>Elite Picks: The Fastest External Solid State Drives for This Year</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-digital-world-for-your-pc-and-more/"><u>Expert Advice From Tom's Digital World for Your PC and More</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-in-depth-analysis-from-toms-world-of-hardware/"><u>Exploring Technology: In-Depth Analysis From Tom's World of Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-expertise/"><u>Exploring the Latest in Computing with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-match-best-thermal-pastes-for-modern-cpus-our-in-depth-testing-of-90-products/"><u>Find Your Perfect Match: Best Thermal Pastes for Modern CPUs - Our In-Depth Testing of 90 Products</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/flip-and-spin-16-top-rated-free-avi-video-rotation-tools-you-need-to-know-for-2024/"><u>Flip and Spin 16 Top-Rated Free AVI Video Rotation Tools You Need to Know for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-cooling-technology-top-aio-units-for-tech-enthusiasts/"><u>Future-Proof Cooling Technology: Top AIO Units for Tech Enthusiasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-laugh-ledger-top-10-tweets-for-a-smile/"><u>In 2024, Laugh Ledger Top 10 Tweets for a Smile</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-noctua-nh-d15-g2-the-latest-and-greatest-in-high-performance-cpu-cooling-for-150/"><u>Introducing the Revolutionary Noctua NH-D15 G2: The Latest and Greatest in High-Performance CPU Cooling for $150</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-build-professional-tips-from-toms-hardware-reviews/"><u>Master Your Build: Professional Tips From Tom's Hardware Reviews</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-converting-mkv-videos-with-multi-track-audio-into-mp4-format/"><u>Step-by-Step Guide: Converting MKV Videos With Multi-Track Audio Into MP4 Format</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-ranking-wireless-mouse-picks-for-2n25/"><u>Top-Ranking Wireless Mouse Picks for 2N25</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-watermark-instagram-photos/"><u>[Updated] 2024 Approved How to Watermark Instagram Photos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-professional-strategies-for-editing-full-spherical-video-in-premiere/"><u>[Updated] 2024 Approved Professional Strategies for Editing Full Spherical Video in Premiere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maintaining-youtube-like-video-quality-on-twitter-for-2024/"><u>[Updated] Maintaining YouTube-Like Video Quality on Twitter for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/altering-meeting-screens-in-microsoft-teams/"><u>Altering Meeting Screens in Microsoft Teams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-kinesis-advantage-arrow-mechanical-keyboard-comfort-and-precision-unveiled/"><u>Comprehensive Analysis of Kinesis Advantage Arrow Mechanical Keyboard – Comfort and Precision Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-masters-new-release-the-modular-masterhub-control-pad-challenges-stream-deck-with-this-summers-launch/"><u>Cooler Master's New Release: The Modular MasterHUB Control Pad Challenges Stream Deck with This Summer’s Launch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-personalized-typing-ease-with-nuphy-gem80s-cutting-edge-keyboard-design/"><u>Experience Personalized Typing Ease with Nuphy Gem80's Cutting-Edge Keyboard Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606435-flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/legal-ways-to-listen-to-music-online-for-free-top-15-destinations/"><u>Legal Ways to Listen to Music Online for Free – Top 15 Destinations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-iphone-hdr-imaging-techniques-for-2024/"><u>Mastering iPhone HDR Imaging Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964489630-memorable-memorial-day-offer-premium-roccat-pyro-full-sized-mechanical-keyboard-at-only-34/"><u>Memorable Memorial Day Offer: Premium Roccat Pyro Full-Sized Mechanical Keyboard at Only $34</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-inspired-art-of-video-scriptwriting/"><u>The ChatGPT-Inspired Art of Video Scriptwriting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-your-gaming-potential-scientists-introduce-innovative-robotic-third-thumb/"><u>Unlock Your Gaming Potential: Scientists Introduce Innovative Robotic Third Thumb</u></a></li>
 </ul></div>
 

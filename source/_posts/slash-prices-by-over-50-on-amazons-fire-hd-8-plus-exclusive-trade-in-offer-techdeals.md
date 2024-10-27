@@ -1,7 +1,7 @@
 ---
 title: Slash Prices by Over 50%% on Amazon's Fire HD 8 Plus - Exclusive Trade-In Offer | TechDeals
-date: 2024-09-18 14:11:32
-updated: 2024-09-20 11:12:54
+date: 2024-10-21T16:49:19.768Z
+updated: 2024-10-27T00:51:48.931Z
 tags:
   - streaming-devices
 categories:
@@ -62,11 +62,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,27 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-your-ig-presence-the-ultimate-tool-list-for-2024/"><u>[Updated] Enhancing Your IG Presence The Ultimate Tool List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-approach-to-podcast-naming-and-50plus-dynamic-name-options/"><u>2024 Approved Step-by-Step Approach to Podcast Naming & 50+ Dynamic Name Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>2024 Approved Video Production Evolution Prime Lenses for YouTube Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-domains-tips-and-reviews-by-toms-hardware-professionals/"><u>Dive Into Digital Domains - Tips & Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-advanced-webcam-features-and-online-broadcasting-tools/"><u>Live Streaming with ManyCam: Advanced Webcam Features and Online Broadcasting Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-effortless-heat-management-with-the-new-idiot-proof-thermal-paste-applicator-from-x-apply-arriving-soon/"><u>Master Effortless Heat Management with the New 'Idiot-Proof' Thermal Paste Applicator From X-Apply - Arriving Soon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-a-journey-through-toms-hardware-wisdom/"><u>Mastering PC Components: A Journey Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/miniature-marvels-unveiled-the-best-itx-computer-housing-options-of-the-year-2024-reviews/"><u>Miniature Marvels Unveiled: The Best ITX Computer Housing Options of the Year - 2024 Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-expert-computer-hardware-guidance/"><u>Tom's Tech Advice: Expert Computer Hardware Guidance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-guide/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive Guide</u></a></li>
+</ul></div>
+

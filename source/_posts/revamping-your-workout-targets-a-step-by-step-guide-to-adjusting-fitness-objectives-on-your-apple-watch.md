@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your Workout Targets: A Step-by-Step Guide to Adjusting Fitness Objectives on Your Apple Watch"
-date: 2024-09-17 20:14:55
-updated: 2024-09-20 11:27:24
+date: 2024-10-25T20:47:06.676Z
+updated: 2024-10-26T18:37:46.962Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,26 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>[New] In 2024, Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-list-of-5-effective-youtube-promotion-strategies-for-success/"><u>[New] In 2024, The Ultimate List of 5 Effective YouTube Promotion Strategies for Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-pinnacle-of-participation-events-post-vidcon/"><u>[Updated] In 2024, Pinnacle of Participation Events Post-VidCon</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-countdown-creation-in-obs-step-by-step-guide/"><u>2024 Approved Countdown Creation in OBS Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-amazon-echo-network-issues-how-to-get-your-smart-assistant-back-online/"><u>Dealing with Amazon Echo Network Issues: How to Get Your Smart Assistant Back Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-deep-into-technology-toms-comprehensive-hardware-reviews/"><u>Dive Deep Into Technology: Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-geometric-future-eskimo-junior-24-innovative-aesthetics-meet-subdued-sound-fair-functionality/"><u>Evaluating Geometric Future Eskimo Junior 24: Innovative Aesthetics Meet Subdued Sound; Fair Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-for-your-pc-needs-from-toms-hardware-hub/"><u>Expert Advice for Your PC Needs From Tom's Hardware Hub</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-computer-knowledge-with-expertise-from-toms-hardware/"><u>Master Your Computer Knowledge with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-the-ultimate-guide-to-computer-hardware-by-tom/"><u>Mastering Technology: The Ultimate Guide to Computer Hardware by Tom</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-repair-outlook-spell-check-errors-and-enable-auto-correct/"><u>Step-by-Step Guide to Repair Outlook Spell Check Errors and Enable Auto-Correct</u></a></li>
+</ul></div>
+

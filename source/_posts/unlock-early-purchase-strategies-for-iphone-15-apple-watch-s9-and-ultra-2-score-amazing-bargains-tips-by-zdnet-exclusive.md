@@ -1,7 +1,7 @@
 ---
 title: Unlock Early Purchase Strategies for iPhone 15, Apple Watch S9 and Ultra 2; Score Amazing Bargains | Tips by ZDNET Exclusive
-date: 2024-09-18 17:20:12
-updated: 2024-09-20 12:12:59
+date: 2024-10-20T17:47:41.786Z
+updated: 2024-10-27T01:15:03.321Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,19 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-expert-creating-your-avatar-with-confidence/"><u>[New] From Novice to Expert Creating Your Avatar with Confidence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>[New] Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-industries-via-vr/"><u>[New] Transforming Industries via VR</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-online-downloads-converting-youtube-to-mp3-made-simple/"><u>[Updated] 2024 Approved Explore Online Downloads Converting YouTube to MP3 Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-top-picks-for-high-quality-resin-3d-printers/"><u>2024'S Top Picks for High-Quality Resin 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-ai-9-hx-aster-apples-m3-max-in-speed-a-deep-dive-into-single-core-benchmark-results/"><u>AMD's Ryzen AI 9 HX Aster Apple's M3 Max in Speed - A Deep Dive Into Single-Core Benchmark Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-corsair-air-a115-cooler-analysis-powerful-performance-at-a-high-cost/"><u>Comprehensive Corsair Air A115 Cooler Analysis: Powerful Performance at a High Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714264-explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-k70e-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi K70E 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy S23 Ultra Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-the-latest-brother-scanner-drivers-compatible-with-windows/"><u>How to Download the Latest Brother Scanner Drivers Compatible with Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-communication-simplicity-unboxing-the-clearstream-eclipse-antennas-superior-capabilities/"><u>Mastering Communication Simplicity: Unboxing the ClearStream Eclipse Antenna's Superior Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-trails-with-tom-a-deeper-dive-into-computer-parts-and-systems/"><u>Navigating Technology Trails with Tom: A Deeper Dive Into Computer Parts and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-digital-muse-using-chatgpt-for-dynamic-story-creation/"><u>The Digital Muse: Using ChatGPT for Dynamic Story Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-best-college-desktops-perfect-for-study-sessions-and-leisure-time/"><u>Ultimate List of Best College Desktops: Perfect for Study Sessions & Leisure Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
+</ul></div>
+

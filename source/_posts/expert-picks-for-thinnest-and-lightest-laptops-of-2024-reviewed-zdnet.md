@@ -1,7 +1,7 @@
 ---
 title: Expert Picks for Thinnest & Lightest Laptops of 2024 Reviewed | ZDNET
-date: 2024-10-15T06:21:26.531Z
-updated: 2024-10-20T22:00:14.480Z
+date: 2024-10-21T18:53:08.712Z
+updated: 2024-10-26T22:09:14.907Z
 tags:
   - laptops
 categories:
@@ -26,13 +26,6 @@ Furthermore, this has been a big year for laptop releases, with lots of new mode
 
 My pick for the best laptop under $1,000 overall is the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-Storage-Midnight%2Fdp%2FB0CB73MSX4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C87387b85-5da8-4a6a-a136-7d60a5ec8a07%7Cdtp&dtb=1), thanks to its solid performance, portability, and HD display. With the March release of the [M3 MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/), the previous M2 model received a price cut. This is great news because the device is well known for its portability and awesome performance -- but not for its affordability. Of course, the M2 MacBook Air isn't the only option out there. With this in mind, check out my top picks for the best laptops under $1,000.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best laptops under $1,000 of 2024
 
 Show less 
@@ -46,6 +39,13 @@ Pros
 
 Cons 
 * Shorter battery life
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple M2 MacBook Air
 
@@ -74,13 +74,6 @@ Pros
 
 Cons 
 * Heavy
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## HP Victus 15
 
@@ -139,10 +132,10 @@ Cons
 * Dim display
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dell Inspiron 14 Plus 7440
@@ -176,6 +169,13 @@ Cons
 * Expensive configurations
 
 ## HP Pavilion Plus
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best screen for a laptop under $1,000
 
@@ -212,6 +212,13 @@ Processor tested  Intel Core i7-1260P
 
 Graphics tested  Intel Iris Xe Graphics
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Acer Aspire 3
 
 ### Best value laptop under $1,000
@@ -238,13 +245,6 @@ Pros
 Cons 
 * Integrated GPU
 * Poor battery
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Asus Vivobook 15
 
@@ -274,6 +274,13 @@ Pros
 Cons 
 * Accessories sold separately
 * Limited ports
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Surface Pro 9
 
@@ -310,13 +317,6 @@ With all big decisions comes a lot of research. Thankfully, we did a lot of the 
 | Asus Vivobook 15             | $729                       | Intel Core o7-1255U     | 15.6 inches     | 1 TB             |
 | Microsoft Surface Pro 9      | $779                       | 12th Gen Intel Core i7  | 13 inches       | 256 GB           |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which is the right laptop under $1,000 for you?
 
 The best laptop is the one that meets your needs. There isn't a one-size-fits-all computer. The MacBook Air, as great as it is, is a bad pick for people who want a gaming laptop. Mac hardware just isn't built for that. Small laptops aren't recommended for those who are looking for a large screen.
@@ -335,10 +335,10 @@ Read the chart below to find out which device works best for you.
 | Microsoft Surface Pro 9                      | A fantastic graphic design laptop. The Surface Pro 9 doubles as a tablet with a stunning hi-res screen, with a battery that can last all day.                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop under $1,000:
@@ -349,6 +349,13 @@ A great laptop doesn't have to cost a fortune. To determine the best laptops und
 * ****RAM Memory:** Consider how much memory you will need for your computer. If you deal with a lot of files, you'll need more RAM than the average user.
 * **Screen size:** It's usually a matter of preference when it comes to picking out the best screen size. Laptops under $1,000 tend to have small display screens, ranging from 12.3 inches to 15.6 inches. It is possible to find laptops that are both bigger and smaller than this specific range.
 * **Price:** Cost is, of course, the most important factor here, so pay attention to that price tag. We find that the best devices range between $500 to $800, depending on the make and model you choose.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we test these laptops?
 
@@ -361,10 +368,10 @@ Once all that is done, we come to a consensus on the best ones that will suit a 
 To learn more about our laptop testing process, be sure to visit [this extensive article](https://www.zdnet.com/article/how-we-test-laptops/) on the topic. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which laptop brand is the best and cheapest?
@@ -386,19 +393,6 @@ Other notable laptop companies include Dell, Microsoft, and Acer.
 Most people would say that you need to replace a laptop when you begin to experience performance degradation. That is certainly one factor you should look for, however it's possible you're simply behind on your software updates. In this case, we recommend merely installing your computer's latest patches to bring up to snuff.
 
 There are other factors to consider, such as constant errors. Constant crashes and random restarts are signs that the hard drive is failing. Additionally, exceptionally loud cooling fans are another sign that the device is nearing its final days. You can certainly try to fix the laptop yourself, but you'll need a lot of experience in computer repair to get things done right -- or risk damaging the hardware. You're better off buying a new machine.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
 
@@ -492,24 +486,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts-for-2024/"><u>[New] Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unwind-with-youtube-tricks-for-reducing-playback-velocity-49-chars/"><u>[New] Unwind with YouTube Tricks for Reducing Playback Velocity (49 Chars)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pro-gif-maker-software-that-wins-every-time/"><u>[Updated] In 2024, Pro-Gif Maker Software That Wins Every Time</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10plus-tools-to-record-your-pc-screen-seamlessly/"><u>[Updated] Top 10+ Tools to Record Your PC Screen Seamlessly</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-cutting-edge-computing-select-the-optimal-device-for-video-editing/"><u>2024 Approved Cutting Edge Computing Select the Optimal Device for Video Editing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hidden-gems-the-top-10-websites-offering-mystery-box-deals/"><u>Hidden Gems The Top 10 Websites Offering Mystery Box Deals</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-latest-amazon-fire-hd-8-eighth-generation-a-top-pick-for-low-budget-tablets-comprehensive-review-inside/"><u>Is the Latest Amazon Fire HD 8 (Eighth Generation) a Top Pick for Low Budget Tablets? Comprehensive Review Inside!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-deepcool-assassin-4s-c6-silent-power-and-efficiency-in-cryptocurrency-mining/"><u>Review of DeepCool Assassin 4S C6 - Silent Power & Efficiency in Cryptocurrency Mining</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/revolutionize-your-posts-best-igtv-edits-unveiled-for-2024/"><u>Revolutionize Your Posts Best IGTV Edits Unveiled for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/solutions-to-combat-elephant-foot-in-your-3d-printed-creations/"><u>Solutions to Combat Elephant Foot in Your 3D Printed Creations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-with-toms-expert-hardware-breakdowns/"><u>Stay Ahead of the Curve with Tom's Expert Hardware Breakdowns</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-restoring-smooth-operation-in-your-perturbation-printer/"><u>The Complete Guide to Restoring Smooth Operation in Your Perturbation Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cutting-edge-hardware-by-toms-team/"><u>The Ultimate Guide to Cutting-Edge Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-guide-expert-hardware-insights/"><u>Tom's Computer Components Guide: Expert Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review: Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-affordable-3d-printing-solutions-exceptional-quality-low-cost/"><u>Top Affordable 3D Printing Solutions - Exceptional Quality, Low Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-motherboards-compare-by-socket-type-and-chipset/"><u>Top-Rated Gaming Motherboards : Compare by Socket Type & Chipset</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-digital-canvas-a-review-for-photography-enthusiasts/"><u>Unboxing the Digital Canvas: A Review for Photography Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-top-10-emerging-youtube-channels-to-spark-motivation/"><u>[New] 2024 Approved Top 10 Emerging YouTube Channels to Spark Motivation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-combining-youtube-videos-for-seamless-playback/"><u>[Updated] 2024 Approved Combining YouTube Videos for Seamless Playback</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-a-filmmakers-handbook-mastering-close-up-videography/"><u>[Updated] A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-best-a-comprehensive-overview-of-top-cpus/"><u>Benchmarking the Best: A Comprehensive Overview of Top CPUs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevating-visual-content-a-guide-to-adding-descriptions-on-instagram/"><u>Elevating Visual Content A Guide to Adding Descriptions on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175667822-enhance-noise-free-performance-with-adaptable-pc-enclosures-and-shining-ventilation-fans-from-be-quiet/"><u>Enhance Noise-Free Performance with Adaptable PC Enclosures & Shining Ventilation Fans From Be Quiet</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/masterful-mac-capturing-techniques-explored/"><u>Masterful Mac Capturing Techniques Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-pcs-the-toms-expertise-collection/"><u>Mastering Gadgets and PCs: The Tom's Expertise Collection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsofts-project-natick-successful-deployment-of-an-underwater-data-facility-with-reduced-server-downtime/"><u>Microsoft's Project Natick: Successful Deployment of an Underwater Data Facility with Reduced Server Downtime</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-percussion-prospector-find-and-test-free-software/"><u>The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-real-deal-on-the-77-3d-printer-from-aliexpress-does-it-hold-up/"><u>The Real Deal on the $77 3D Printer From AliExpress – Does It Hold Up?</u></a></li>
 </ul></div>
 

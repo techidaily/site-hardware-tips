@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest Upgrades in Samsung’s Copilot+ Desktop: How AI Enhancements Are Transforming Your Computing Experience - ZDNet"
-date: 2024-10-17T22:19:36.637Z
-updated: 2024-10-20T19:40:21.170Z
+date: 2024-10-22T20:40:05.054Z
+updated: 2024-10-26T20:12:01.231Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -118,10 +118,10 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,16 +131,10 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -177,16 +171,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-avoiding-pitfalls-in-low-light-portrait-photography/"><u>[New] Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-spectral-time-freeze-instruction-for-2024/"><u>[Updated] Spectral Time-Freeze Instruction for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-craft-your-viral-story-in-online-videos/"><u>[Updated] Step by Step, Craft Your Viral Story in Online Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-hot-30-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Hot 30 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-y56-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y56 5G Through Google Earth?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-maximize-gaming-essential-tips-and-picks-for-the-best-monitors-for-xbox-series-x/"><u>In 2024, Maximize Gaming - Essential Tips & Picks for the Best Monitors for Xbox Series X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-components-a-look-into-toms-tech-collections/"><u>Pioneering PC Components - A Look Into Tom's Tech Collections</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pumpless-air-cooled-giant-holds-ground-outperformed-by-just-eight-degrees-in-head-to-head-trials-with-traditional-coolers/"><u>Pumpless Air-Cooled Giant Holds Ground, Outperformed by Just Eight Degrees in Head-to-Head Trials with Traditional Coolers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-cool-with-thermal-grizzlys-new-heatspreader-a-remarkable-15c-drop-in-processor-temperatures/"><u>Stay Cool with Thermal Grizzly's New Heatspreader: A Remarkable 15°C Drop in Processor Temperatures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-fixes-for-a-cold-3d-printing-bed-how-to-reignite-the-heating-mechanism/"><u>Step-by-Step Fixes for a Cold 3D Printing Bed: How to Reignite the Heating Mechanism</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-8t-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 8T Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accessible-learning-using-ifunny-meme-app/"><u>[New] Accessible Learning Using iFunny Meme App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-notebooks-excellent-in-media-post-production/"><u>[New] In 2024, Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ringers-paradise-top-downloads-for-skype-sounds/"><u>[New] Ringer's Paradise Top Downloads for Skype Sounds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unveiling-the-secrets-to-effortless-youtube-sharing-on-fb-groups-for-2024/"><u>[Updated] Unveiling the Secrets to Effortless YouTube Sharing on FB Groups for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-app-chart-toppers-the-most-popular-downloads-for-2024/"><u>Android App Chart-Toppers The Most Popular Downloads for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-location-not-available-on-iphone/"><u>How to Fix Location Not Available on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-best-twitch-video-download-services-5/"><u>Navigating the Best Twitch Video Download Services #5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-toms-hardware-insights-and-reviews/"><u>Navigating the Digital World with Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nextorages-revolutionary-handheld-ssd-for-gamers-experience-unprecedented-speeds-of-up-to-7400mbs/"><u>Nextorage's Revolutionary Handheld SSD for Gamers: Experience Unprecedented Speeds of Up to 7,400MB/S</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permissions-obstacles-for-os-installation/"><u>Overcoming Permissions Obstacles for OS Installation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-performance-phisons-new-e29t-pcie-gen-40-ssd-controller-unveiled-at-fms-2024-summit/"><u>Pioneering Performance: Phison's New E29T PCIe Gen 4.0 SSD Controller Unveiled at FMS 2024 Summit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-lightspeed-ssd-technology-by-kioxia-achieves-over-40m-communication-range-with-cpu/"><u>Revolutionary Lightspeed SSD Technology by Kioxia Achieves Over 40M Communication Range with CPU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-data-with-the-powerhouse-get-samsungs-990-evo-2-tb-ssd-for-a-remarkable-low-of-only-129/"><u>Secure Your Data with the Powerhouse: Get Samsung's 990 EVO ^2 TB SSD for a Remarkable Low of Only $129!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-tech-trends-with-toms-authoritative-hardware-guides/"><u>Stay Ahead of Tech Trends with Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-top-tier-lexar-1-tb-solid-state-disk-reviewed-powerhouse-performance-in-portable-storage/"><u>The Top-Tier Lexar 1 TB Solid State Disk Reviewed: Powerhouse Performance in Portable Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-your-ultimate-tech-resource/"><u>Tom's Computer Components: Your Ultimate Tech Resource</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/transform-mobile-scanning-with-abbyys-business-card-reader-for-android-fast-accurate-intuitive-technology/"><u>Transform Mobile Scanning with ABBYY's Business Card Reader for Android: Fast, Accurate, Intuitive Technology</u></a></li>
 </ul></div>
 

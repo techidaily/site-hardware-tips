@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Snag Apple's Latest Series of Smartwatches or Opt for a Discounted Samsung Galaxy Watch 6 - Find Out How!"
-date: 2024-09-18 20:31:37
-updated: 2024-09-20 11:43:50
+date: 2024-10-23T16:50:13.743Z
+updated: 2024-10-26T16:53:04.241Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,28 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-attention-grabber-composer/"><u>[New] Top Attention Grabber Composer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-narrative-nuance-in-voiceovers-mastering-the-art-of-storytelling-on-ppts/"><u>[Updated] 2024 Approved Narrative Nuance in Voiceovers Mastering the Art of Storytelling on PPTs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-a-cool-youtube-video-intro-in-imovie-in-2024/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-mysteries-tips-from-toms-desk/"><u>Decoding Hardware Mysteries: Tips From Tom's Desk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-accessories-every-raspberry-pi-user-needs/"><u>Essential Accessories Every Raspberry Pi User Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-computer-and-component-analysis/"><u>Expert Advice From Tom's Computer & Component Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-enable-compatibility-mode-for-dvd-shrink-in-windows-unlock-the-full-potential/"><u>How to Enable Compatibility Mode for DVD Shrink in Windows 지원 - Unlock the Full Potential!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g13-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G13 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/levelplays-combat-air-ca4-cpu-cooler-unrivaled-performance-meets-near-silent-functionality/"><u>Levelplay's Combat Air CA4 CPU Cooler: Unrivaled Performance Meets Near-Silent Functionality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-face-obscuring-made-easy-expert-video-editing-solutions/"><u>New 2024 Approved Face Obscuring Made Easy Expert Video Editing Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printer-filaments-of-2024/"><u>Top Recommended 3D Printer Filaments of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-innovative-zen/"><u>Unveiling AMD's Innovative Zen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vibration-victory-clearer-cinematography-for-2024/"><u>Vibration Victory Clearer Cinematography for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wonder-workshops-robotic-companion-dash-a-game-changer-in-interactive-playthings/"><u>Wonder Workshop's Robotic Companion, Dash – A Game Changer in Interactive Playthings</u></a></li>
+</ul></div>
+

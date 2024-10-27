@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Shakes Up the Laptop Market: IFixit Impressed by Unprecedented Repairability Vs. Competitors, Including Apple"
-date: 2024-10-19T02:42:55.710Z
-updated: 2024-10-20T21:30:02.164Z
+date: 2024-10-19T17:27:08.509Z
+updated: 2024-10-26T23:32:33.696Z
 tags:
   - laptops
 categories:
@@ -73,16 +73,16 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/reating-momentum-in-life-coaching-video-series/"><u>[New] Creating Momentum in Life Coaching Video Series</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-video-backgrounds-teammeeting-blurring-guide-for-2024/"><u>[New] Mastering Video Backgrounds TeamMeeting Blurring Guide for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-halovision-highlights-critique/"><u>[Updated] HaloVision Highlights Critique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-impact-of-ai-innovations-on-future-search-engine-landscape/"><u>Assessing the Impact of AI Innovations on Future Search Engine Landscape</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bringing-back-missing-airpods-discover-11-effective-find-my-app-strategies/"><u>Bringing Back Missing AirPods: Discover 11 Effective Find My App Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-receive-messages-and-calls-in-do-not-disturb-modes-on-iphones-top-8-solutions/"><u>How to Receive Messages & Calls in Do Not Disturb Modes on iPhones: Top 8 Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-casing-designs-with-the-lian-li-hydroshift-lcd-360s/"><u>Revolutionizing Casing Designs with the Lian Li Hydroshift LCD 360S</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-technology-trends-discoveries-from-toms-experts/"><u>Stay Ahead of Technology Trends - Discoveries From Tom’s Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-resource-for-high-performance-pcs-toms-hardware/"><u>The Complete Resource for High-Performance PCs - Tom's Hardware</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-game-changing-arrival-of-new-apps-for-windows-on-arm-systems/"><u>The Game-Changing Arrival of New Apps for Windows on Arm Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-quality-hardware-with-toms-reviews/"><u>The Ultimate Guide to Quality Hardware with Tom's Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-innovative-electronics-by-tom-hardcore-tech/"><u>The Ultimate Resource for Innovative Electronics by Tom Hardcore Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-electronics-hub-the-ultimate-hardware-resource/"><u>Tom's Electronics Hub: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/anner-brilliance-elevating-your-game-channel-image/"><u>[New] Banner Brilliance Elevating Your Game Channel Image</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-begin-with-no-cost-video-intro-tools/"><u>[Updated] 2024 Approved Begin with No-Cost Video Intro Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-social-media-snippet-seizers-2023/"><u>[Updated] 2024 Approved Social Media Snippet Seizers, 2023</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>[Updated] Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigating-twitters-algorithm-to-amplify-your-message/"><u>[Updated] In 2024, Navigating Twitter's Algorithm to Amplify Your Message</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-softening-effects-in-ableton-live/"><u>[Updated] In 2024, Softening Effects in Ableton Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultra-compact-lenovo-laptop-featuring-amd-ryzen-cpu-and-enhanced-connectivity-with-7-usb-ports/"><u>Discover the Ultra-Compact Lenovo Laptop Featuring AMD Ryzen CPU & Enhanced Connectivity with 7 USB Ports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-your-computers-memory-capacity-and-performance-a-step-by-step-guide/"><u>Discovering Your Computer's Memory Capacity and Performance: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-mouse-maintenance-how-to-avoid-unnecessary-expenses-and-restore-your-device-quickly/"><u>Effortless Mouse Maintenance: How to Avoid Unnecessary Expenses and Restore Your Device Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-bargains-on-latest-gadgets-ipad-mini-ultra-hd-televisions-and-googles-newest-smartphone-unveiled/"><u>Exclusive Bargains on Latest Gadgets: IPad Mini, Ultra HD Televisions & Google's Newest Smartphone Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-elite-selection-of-ipad-pro-11-sleeves-model-buy-today/"><u>Expert Picks: Elite Selection of iPad Pro 11 Sleeves Model – Buy Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-home-automation-with-home-assistant-how-does-it-compare-to-other-systems-and-what-holds-it-back-from-universal-usage/"><u>Exploring Home Automation with Home Assistant - How Does It Compare to Other Systems and What Holds It Back From Universal Usage?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-get-your-arlo-defense-set-at-a-whopping-50-discount-ends-soon/"><u>Huge Savings Alert: Get Your Arlo Defense Set at a Whopping 50% Discount - Ends Soon!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-note-12-proplus-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi Note 12 Pro+ 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-issues-repairing-non-functional-apps-on-your-samsung-television/"><u>Troubleshooting Common Issues: Repairing Non-Functional Apps on Your Samsung Television</u></a></li>
 </ul></div>
 

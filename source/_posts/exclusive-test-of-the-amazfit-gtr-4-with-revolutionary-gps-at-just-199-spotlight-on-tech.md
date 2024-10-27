@@ -1,7 +1,7 @@
 ---
 title: Exclusive Test of the Amazfit GTR 4 with Revolutionary GPS at Just $199 - Spotlight on Tech
-date: 2024-09-17 20:35:19
-updated: 2024-09-20 11:54:22
+date: 2024-10-23T21:34:48.705Z
+updated: 2024-10-26T23:35:17.826Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-basic-steps-flip-video-using-vlc-software/"><u>[New] 2024 Approved Basic Steps Flip Video Using VLC Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elevate-your-ppt-game-with-clear-concise-voiceover-techniques/"><u>[New] In 2024, Elevate Your PPT Game with Clear, Concise Voiceover Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revamp-your-workflow-with-top-watermarkers/"><u>[New] Revamp Your Workflow with Top Watermarkers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-monetizing-youtube-content-2024-edition/"><u>[New] The Ultimate Guide to Monetizing YouTube Content - 2024 Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-techniques-for-background-resource-sourcing/"><u>[Updated] In 2024, Cutting-Edge Techniques for Background Resource Sourcing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-motorola-moto-g04-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Moto G04 Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-for-improved-minecraft-zooms/"><u>In 2024, Expert Advice for Improved Minecraft Zooms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-newest-tech-trends-in-depth-analysis-by-toms-computing-experts/"><u>Navigate Through Newest Tech Trends: In-Depth Analysis by Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-insights-with-toms-authoritative-guides/"><u>Navigating Technology Insights with Tom's Authoritative Guides</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-truth-insights-from-the-tech-industrys-leaks/"><u>Navigating Through Truth: Insights From the Tech Industry's Leaks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-12-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 12</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qualcomm-outspends-rivals-in-marketing-war-chest-attributes-copilotplus-success-to-exceptional-battery-life/"><u>Qualcomm Outspends Rivals in Marketing War Chest, Attributes Copilot+ Success to Exceptional Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ryzen-revolution-optimizing-your-frameworks-laptop-16-for-maximum-performance-with-ubuntu-not-windows-11/"><u>Ryzen Revolution: Optimizing Your Frameworks Laptop 16 for Maximum Performance with Ubuntu, Not Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solutions-in-sight-as-apple-releases-payouts-of-up-to-395-for-defective-macbook-keyboard-replacements/"><u>Solutions in Sight as Apple Releases Payouts of Up to $395 For Defective MacBook Keyboard Replacements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speed-comparison-in-focus-how-does-samsung-book4-edges-new-chipset-stack-up-to-apples-iphone-12/"><u>Speed Comparison in Focus: How Does Samsung Book4 Edge's New Chipset Stack up to Apple's iPhone 12</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-in-depth-tech-reviews-and-analysis/"><u>Tom's Computing: In-Depth Tech Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-your-trusted-advisor-for-computer-technology/"><u>Tom's Hardware: Your Trusted Advisor for Computer Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-unmatched-performance-expert-reviews/"><u>Tom's Tech Gear: Unmatched Performance, Expert Reviews</u></a></li>
+</ul></div>
+

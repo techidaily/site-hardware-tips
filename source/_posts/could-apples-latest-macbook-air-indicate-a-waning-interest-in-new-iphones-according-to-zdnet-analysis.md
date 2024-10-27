@@ -1,7 +1,7 @@
 ---
 title: Could Apple's Latest MacBook Air Indicate a Waning Interest in New iPhones, According to ZDNet Analysis
-date: 2024-10-14T02:49:10.592Z
-updated: 2024-10-20T16:50:07.481Z
+date: 2024-10-25T22:14:51.756Z
+updated: 2024-10-26T23:11:52.346Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,21 +123,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-diminutive-directors-script/"><u>[New] In 2024, Diminutive Director's Script</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-windows-11-simplified-video-cutting-tips-and-tricks-for-2024/"><u>[New] Windows 11 Simplified Video Cutting Tips & Tricks for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-constructing-an-intriguing-trailer-blueprint-for-2024/"><u>[Updated] Constructing an Intriguing Trailer Blueprint for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-real-time-media-streamers/"><u>2024 Approved Superior Real-Time Media Streamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-gaming-headphones-for-an-immersive-experience/"><u>2024'S Leading Gaming Headphones for an Immersive Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/arctics-ln2-coolers-and-intel-chips-protect-your-warranty-with-custom-fitted-contact-frame-kits-for-optimal-performance/"><u>Arctic's LN2 Coolers and Intel Chips: Protect Your Warranty with Custom-Fitted Contact Frame Kits for Optimal Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/break-news-bambu-labs-a1-recall-full-reimbursement-and-mandatory-device-shutdown-until-new-components-arrive/"><u>Break News: Bambu Lab's A1 Recall – Full Reimbursement and Mandatory Device Shutdown Until New Components Arrive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-pc-temperature-control-with-this-tested-ai-and-3d-printed-liquid-n2-container-outperform-standard-pots-by-up-to-three-times/"><u>Cutting-Edge PC Temperature Control with This Tested, AI & 3D-Printed Liquid N2 Container – Outperform Standard Pots by Up to Three Times</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-fastest-and-most-economical-wi-fi-routers-of-2024-compatible-with-latest-tech-wi-fi-6-6e-and-beyond/"><u>Discover the Fastest and Most Economical Wi-Fi Routers of 2024 Compatible with Latest Tech: Wi-Fi 6, 6E & Beyond</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-premier-choices-in-online-video-surveillnce-devices/"><u>Discover the Premier Choices in Online Video Surveillnce Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-in-computing-toms-hardware-specialist/"><u>Discovering the Latest in Computing - Tom's Hardware Specialist</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tise-unleashed-professional-insights-into-video-editing-for-2024/"><u>Expertise Unleashed Professional Insights Into Video Editing for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-narzo-60x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60x 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/incorinasmatic-mix-sharing-songs-in-social-spaces/"><u>Incorinasmatic Mix Sharing Songs in Social Spaces</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-y78-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y78 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transition-smoothly-to-metaverse-living-with-these-tools/"><u>Transition Smoothly to Metaverse Living with These Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-drive-more-viewers-to-your-videos-top-growth-hacks/"><u>[New] In 2024, Drive More Viewers to Your Videos Top Growth Hacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-engagement-with-weblink-content-in-instagram/"><u>2024 Approved Crafting Engagement with Weblink Content in Instagram</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/download-free-webinar-recording-tools-capture-and-share-your-sessions-seamlessly/"><u>Download Free Webinar Recording Tools: Capture & Share Your Sessions Seamlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-zero-30-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-f34-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy F34 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel? Try These Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-store-a-comprehensive-guide-to-cutting-edge-pc-parts/"><u>Inside Tom's Hardware Store: A Comprehensive Guide to Cutting-Edge PC Parts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-of-raspberry-pi-controller-manage-and-operate-your-pi-online-with-ease/"><u>Launch of Raspberry Pi Controller: Manage and Operate Your Pi Online with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-release-fsps-premium-2000w-power-supply-tailored-for-latest-nvidia-and-amd-gpu-models/"><u>New Release: FSP's Premium 2000W Power Supply Tailored for Latest Nvidia and AMD GPU Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-expertise-navigating-the-world-of-advanced-computer-components/"><u>Tom's Gadget Expertise: Navigating the World of Advanced Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-computing/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-guides-on-computer-components/"><u>Tom's Tech Insights: In-Depth Guides on Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-diy-ideas-and-creations-whats-new-in-july-2024/"><u>Top Raspberry Pi DIY Ideas and Creations - What's New in July 2024?</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ultimate-guide-and-comprehensive-review-mastering-mp4-video-format-conversions/"><u>Ultimate Guide & Comprehensive Review: Mastering MP4 Video Format Conversions</u></a></li>
 </ul></div>
 

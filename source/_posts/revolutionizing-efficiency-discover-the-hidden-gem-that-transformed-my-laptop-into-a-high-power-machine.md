@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Efficiency: Discover The Hidden Gem That Transformed My Laptop Into a High-Power Machine"
-date: 2024-10-15T23:59:14.789Z
-updated: 2024-10-20T20:30:06.110Z
+date: 2024-10-23T21:31:00.493Z
+updated: 2024-10-26T22:18:15.971Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,19 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -55,10 +68,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -102,10 +115,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -129,10 +142,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -144,13 +157,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,22 +196,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-a-peek-at-cinematic-magic-in-vr-worlds/"><u>[New] A Peek at Cinematic Magic in VR Worlds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-checklist-for-perfecting-your-laptops-screen-capture-abilities-for-2024/"><u>[New] The Ultimate Checklist for Perfecting Your Laptop's Screen Capture Abilities for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastery-of-gesture-recognition-all-methods-explained/"><u>[Updated] 2024 Approved Mastery of Gesture Recognition All Methods Explained</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-analysis-by-professionals-at-toms-equipment-reviews/"><u>Advanced Tech Analysis by Professionals at Tom's Equipment Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-ice-floe-iceberg-thermal-unit-reviews-evaluating-the-quiet-cool-power-of-models-240-and-360/"><u>Affordable Ice FLOe Iceberg Thermal Unit Reviews: Evaluating the Quiet Cool Power of Models 240 & 360</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-f23-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo F23 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-f54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g-5g-2023-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G 5G (2023)? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a05s-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A05s Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlock-the-secrets-of-facebook-live-a-beginners-manual/"><u>In 2024, Unlock the Secrets of Facebook Live A Beginner's Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-gadget-secrets-a-look-at-toms-hardware/"><u>Unlocking Gadget Secrets: A Look at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-in-depth-reviews-from-toms-hardware/"><u>Unlocking Tech Secrets: In-Depth Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-electronics-with-toms-equipment-insights/"><u>Unraveling the World of Electronics with Tom's Equipment Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest Gadgets with Tom - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-a-trip-through-toms-hardware-world/"><u>Unveiling the Latest in Technology: A Trip Through Tom's Hardware World</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-ultimate-guide-to-hardware-evaluations-with-toms-insights/"><u>Your Ultimate Guide to Hardware Evaluations with Tom's Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-interactive-dimensions-understanding-ar-mr-and-vr/"><u>[New] 2024 Approved Interactive Dimensions Understanding AR, MR & VR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-evaluating-vegaspros-progressive-changes-2019/"><u>[New] In 2024, Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-strategies-for-building-a-hit-youtube-video-preview/"><u>[Updated] 2024 Approved Strategies for Building a Hit YouTube Video Preview</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unleash-creativity-with-these-essential-vector-editors/"><u>[Updated] 2024 Approved Unleash Creativity with These Essential Vector Editors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-samsung-exploring-other-brands-innovative-foldable-smartphones/"><u>Beyond Samsung: Exploring Other Brands' Innovative Foldable Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-numbers-is-seven-years-of-android-support-truly-beneficial/"><u>Beyond the Numbers: Is Seven Years of Android Support Truly Beneficial?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-android-speeds-with-expert-tricks-on-under-the-radar-settings/"><u>Boosting Android Speeds with Expert Tricks on Under-the-Radar Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/calculate-the-circumference-of-the-earth-using-the-formula-for-the-circumference-of-a-circle-which-is-c-2pi-r-where-r-is-the-radius-of-the-earth-we-will-con1/"><u>Calculate the Circumference of the Earth Using the Formula for the Circumference of a Circle, Which Is $C = 2 Pi R$, Where $R$ Is the Radius of the Earth. We Will Convert the Radius From Miles to Kilometers (Since 1 Mile = 1.60934 Kilometers).</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-mystery-of-infinite-c-drive-usage/"><u>Combatting the Mystery of Infinite C: Drive Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complete-guide-setting-up-amazon-appstore-on-your-android-device/"><u>Complete Guide: Setting Up Amazon Appstore on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complete-tutorial-how-to-remove-saved-browsing-information-from-android-phones/"><u>Complete Tutorial: How to Remove Saved Browsing Information From Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-google-pixel-tablet-is-it-a-viable-rival-for-apples-ipad/"><u>Comprehensive Guide to the Google Pixel Tablet: Is It a Viable Rival for Apple's iPad?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722875874749-d3dx927dll-absent-heres-how-you-can-get-it-back/"><u>d3dx9_27.dll Absent? Here's How You Can Get It Back</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-se-2020-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone SE (2020) to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-ipad-hot-find-out-why-and-how-to-keep-it-chill-247/"><u>Is Your iPad Hot? Find Out Why & How to Keep It Chill 24/7</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a59-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A59 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

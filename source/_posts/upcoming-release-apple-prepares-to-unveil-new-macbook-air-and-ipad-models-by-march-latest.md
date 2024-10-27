@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Prepares to Unveil New MacBook Air & iPad Models by March - Latest"
-date: 2024-10-14T05:26:28.548Z
-updated: 2024-10-20T22:05:15.862Z
+date: 2024-10-19T17:36:00.150Z
+updated: 2024-10-26T20:20:54.003Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,16 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +66,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +83,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,19 +129,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>[New] In 2024, Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-elevate-visual-narratives-on-tiktok-the-top-5-proven-text-techniques/"><u>2024 Approved Elevate Visual Narratives on TikTok The Top 5 Proven Text Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-computer-tech-advice-with-toms-equipment-experts/"><u>Discover Top-Notch Computer Tech Advice with Tom's Equipment Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-evaluations-with-toms-technological-perspectives/"><u>Dive Into Hardware Evaluations with Tom's Technological Perspectives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eco-friendly-creations-crafting-quality-3d-print-filaments-from-used-plastic-utensils/"><u>Eco-Friendly Creations: Crafting Quality 3D Print Filaments From Used Plastic Utensils</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-tips-for-setting-up-and-conducting-zoom-webinars-for-2024/"><u>Essential Tips for Setting Up & Conducting Zoom Webinars for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-top-sbcs-with-rp2040-chipset-set-to-release/"><u>Expert Picks: Top SBCs with RP2040 Chipset Set to Release</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-advice-by-tom-your-guide-to-hardware-essentials/"><u>Expert Reviews and Advice by Tom: Your Guide to Hardware Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-strategies-navigating-and-utilizing-orca-slicer/"><u>Expert Strategies: Navigating and Utilizing ORCA Slicer</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/hdd-windowspc/"><u>HDD Windows再インストール不要で別PCへの移行手順</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-x50-gt-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor X50 GT Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-make-and-upload-360-video-to-facebook/"><u>In 2024, How to Make and Upload 360 Video to Facebook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pioneering-camera-spin-top-professionals-360cameras-of-2023-for-2024/"><u>Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023 for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-erase-live-video-on-facebook-windows-android-tactics/"><u>[New] In 2024, Erase Live Video on Facebook Windows, Android Tactics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-viral-stardom-quick-simple-strategies-for-instagram-success-for-2024/"><u>[New] Mastering Viral Stardom Quick, Simple Strategies for Instagram Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fourfold-precision-in-color-capture-with-blade-cameras/"><u>[Updated] In 2024, Fourfold Precision in Color Capture with Blade Cameras</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-emulation-suites-to-experience-sonys-ps1-library/"><u>[Updated] Top 5 Emulation Suites to Experience Sony's PS1 Library</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transcending-platform-boundaries-from-tiktok-to-fb-for-2024/"><u>[Updated] Transcending Platform Boundaries From TikTok To FB for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-master-unveils-vibrant-ai-enhanced-thermal-paste-powered-by-nanodiamond-tech-in-cryofuze-5/"><u>Cooler Master Unveils Vibrant AI Enhanced 'Thermal Paste' - Powered by Nanodiamond Tech in CryoFuze 5</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat/"><u>In 2024, Identifying Unresponsiveness Signs Someone Has Blocked on Snapchat</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-streamlining-youtube-videos-for-facebook-circulation/"><u>In 2024, Streamlining YouTube Videos for Facebook Circulation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-chronicles-by-tom-unraveling-secrets-of-modern-computer-systems/"><u>Tech Chronicles by Tom: Unraveling Secrets of Modern Computer Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-gear-review/"><u>Tom's Computer Gear Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-hub-your-source-for-in-depth-hardware-insights/"><u>Tom's Gear Hub: Your Source for In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-opinions/"><u>Tom's Tech Review: In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wake-on-lan-how-to-control-your-windows-11-computer-from-afar/"><u>Wake-on-LAN: How to Control Your Windows 11 Computer From Afar</u></a></li>
 </ul></div>
 

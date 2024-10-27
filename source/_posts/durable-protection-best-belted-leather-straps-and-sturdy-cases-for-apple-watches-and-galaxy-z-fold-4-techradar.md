@@ -1,7 +1,7 @@
 ---
 title: "Durable Protection: Best Belted Leather Straps & Sturdy Cases for Apple Watches & Galaxy Z Fold 4 | TechRadar"
-date: 2024-09-19 22:51:30
-updated: 2024-09-20 12:30:15
+date: 2024-10-20T19:05:36.542Z
+updated: 2024-10-26T19:40:16.393Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts/"><u>2024 Approved Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-graphics-card-cooling-upgrade-to-cooler-masters-innovative-two-fan-system/"><u>Cutting Edge Graphics Card Cooling: Upgrade to Cooler Master's Innovative Two-Fan System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-reviewz/"><u>Exploring Advanced Gadgets with Tom's Hardware Reviewz</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-elite-selection-of-advanced-smart-frames-available/"><u>Exploring the Elite Selection of Advanced Smart Frames Available</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-recurring-audio-drops-on-your-windows-11-machine-a-comprehensive-guide/"><u>Fixing Recurring Audio Drops on Your Windows 11 Machine – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-started-with-updated-thinkpad-thunderbolt-3-dock-compatibility-and-setup-instructions/"><u>Get Started with Updated ThinkPad Thunderbolt 3 Dock - Compatibility and Setup Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-problems-with-unplayable-dvds-on-your-pc/"><u>How to Resolve Problems with Unplayable DVDs on Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-reveals-mobile-processors-hit-by-different-fault-distinguishing-from-desktops-defective-bugs/"><u>Intel Reveals Mobile Processors Hit by Different Fault: Distinguishing From Desktops' Defective Bugs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-corner/"><u>Navigating the World of Gadgets with Tom's Hardware Corner</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overload-incident-at-networking-interface/"><u>Resolved: Overload Incident at Networking Interface</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-installation-guide-huion-tablet-software-updates-and-downloads-on-windows/"><u>Successful Installation Guide: Huion Tablet Software Updates and Downloads on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-elevating-your-youtube-presence-with-these-20-hacks/"><u>The Ultimate Guide to Elevating Your YouTube Presence with These 20 Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-the-truecaller-call-identifier/"><u>The Ultimate Guide to Understanding the TrueCaller Call Identifier</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermal-paste-eaten-by-fire-ants-shocking-discovery-reveals-insects-in-gpu-unit/"><u>Thermal Paste Eaten by Fire Ants? Shocking Discovery Reveals Insects in GPU Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-gear-and-components-insights/"><u>Tom's Tech Review: Gear & Components Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-screens-of-2024-a-buyers-guide/"><u>Top Rated Computer Screens of 2024: A Buyer's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-toms-equipment-rundown/"><u>Unlocking Performance Secrets - Tom's Equipment Rundown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyrie-vind-sl125-evaluation-when-cute-designs-clash-with-disappointing-results/"><u>Valkyrie Vind SL125 Evaluation: When Cute Designs Clash with Disappointing Results</u></a></li>
+</ul></div>
+

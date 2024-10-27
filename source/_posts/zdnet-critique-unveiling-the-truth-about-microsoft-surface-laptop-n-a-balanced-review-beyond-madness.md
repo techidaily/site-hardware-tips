@@ -1,7 +1,7 @@
 ---
 title: "ZDNET Critique: Unveiling the Truth About Microsoft Surface Laptop N – A Balanced Review Beyond Madness"
-date: 2024-10-14T03:51:27.277Z
-updated: 2024-10-21T02:03:21.745Z
+date: 2024-10-23T21:58:23.319Z
+updated: 2024-10-26T22:52:41.325Z
 tags:
   - laptops
 categories:
@@ -47,16 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -72,10 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -91,10 +85,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -136,20 +130,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-decoding-the-art-of-fb-video-downloads-in-hd/"><u>[New] Decoding the Art of FB Video Downloads in HD</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-android-screenshot-and-video-tools-ranked-five/"><u>[New] Premium Android Screenshot & Video Tools - Ranked Five</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-sifting-through-cloud-costs-for-maximum-savings-for-2024/"><u>[New] Sifting Through Cloud Costs for Maximum Savings for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-tackling-inaudible-speech-in-obs-captures-for-2024/"><u>[New] Tackling Inaudible Speech in OBS Captures for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-broadcasting-on-demand-transferring-fb-videos-to-whatsapp-groups/"><u>[Updated] Broadcasting on Demand Transferring FB Videos to WhatsApp Groups</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dragon-quest-continuum-arranging-the-how-to-train-your-dragon-movies-for-full-story/"><u>Dragon Quest Continuum: Arranging the How To Train Your Dragon Movies for Full Story</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-high-performance-hardware-by-toms-channel/"><u>Expert Insights Into High-Performance Hardware by Tom's Channel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fubotv-integration-install-and-enjoy-live-sports-and-shows-on-firestick/"><u>FuboTV Integration: Install and Enjoy Live Sports & Shows on Firestick</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-ready-for-speedy-bed-slinger-by-bambu-lab-the-new-a1-3d-printer-arrives-on-december-14th/"><u>Get Ready for Speedy 'Bed Slinger' By Bambu Lab – The New A1 3D Printer Arrives on December 14Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-from-toms-computer-gear-hub/"><u>In-Depth Analysis From Tom's Computer Gear Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-method-employs-additive-manufacturing-for-creating-complex-semiconductor-pathways/"><u>Innovative Method Employs Additive Manufacturing for Creating Complex Semiconductor Pathways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-at-toms-hardware-corner/"><u>Inside the World of Technology at Tom's Hardware Corner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/joining-separate-filaments-with-ease-for-perfect-continuous-reels/"><u>Joining Separate Filaments with Ease for Perfect, Continuous Reels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-devices-tips-and-tricks-by-toms-hardware-authorities/"><u>Master Your Devices: Tips and Tricks by Tom's Hardware Authorities</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/overcoming-region-coding-enjoying-american-dvds-abroad-without-extra-costs/"><u>Overcoming Region Coding: Enjoying American DVDs Abroad Without Extra Costs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-enhancing-synchronization-between-cameras-and-obs/"><u>[New] 2024 Approved Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-music-live-streaming-services/"><u>[New] Best Music Live Streaming Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-3-effective-methods-to-archive-itunes-videos/"><u>[New] In 2024, 3 Effective Methods to Archive iTunes Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>[New] YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-leading-platforms-for-snagging-snapchat-soundtracks/"><u>[Updated] 2024 Approved Leading Platforms for Snagging Snapchat Soundtracks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-flourish-in-fame-elevate-from-zero-to-1000-followersmonthly/"><u>[Updated] In 2024, Flourish in Fame Elevate From Zero to 1,000 Followers/Monthly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-streamline-your-vimeo-video-subtitles/"><u>[Updated] In 2024, How to Streamline Your Vimeo Video Subtitles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-movie-file-processing-in-windows-11-for-2024/"><u>[Updated] Streamlining Movie File Processing in Windows 11 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-ultimate-minimalist-how-the-light-phone-3-stands-out-for-tech-enthusiasts/"><u>Meet the Ultimate Minimalist: How the Light Phone 3 Stands Out for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mid-range-showdown-compare-samsung-galaxy-tab-s9-lite-vs-ipad-10th-generation/"><u>Mid-Range Showdown: Compare Samsung Galaxy Tab S9 Lite vs iPad 10Th Generation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newest-advancements-unveiled-for-samsung-galaxy-wearables-and-cutting-edge-foldable-tech-gadgets/"><u>Newest Advancements Unveiled for Samsung Galaxy Wearables and Cutting-Edge Foldable Tech Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-6-software-support-extended-to-3-year-cycle-no-more-android-version-lock/"><u>Pixel 6 Software Support Extended to 3-Year Cycle: No More Android Version Lock</u></a></li>
+<li><a href="https://solve-news.techidaily.com/top-6-convertidores-de-video-libres-para-cambiar-formatos-mp4-guia-integral/"><u>Top 6 Convertidores De Video Libres Para Cambiar Formatos MP4: Guía Integral</u></a></li>
 </ul></div>
 

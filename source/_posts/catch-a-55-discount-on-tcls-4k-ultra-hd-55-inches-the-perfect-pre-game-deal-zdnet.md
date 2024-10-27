@@ -1,7 +1,7 @@
 ---
 title: Catch a 55%% Discount on TCL's 4K Ultra HD 55 Inches - The Perfect Pre-Game Deal | ZDNET
-date: 2024-09-18 17:19:57
-updated: 2024-09-20 12:41:36
+date: 2024-10-19T22:09:28.538Z
+updated: 2024-10-26T17:11:48.911Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -61,6 +68,13 @@ Taylor Clemons/ZDNet
 Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,28 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-playlist-passport-traveling-tunes-throughout-platforms/"><u>[New] Playlist Passport Traveling Tunes Throughout Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-evolving-your-tiktok-conclusion-designs/"><u>[Updated] In 2024, Evolving Your TikTok Conclusion Designs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-for-choosing-cutting-edge-technology-from-tom/"><u>Advanced Tips for Choosing Cutting-Edge Technology From Tom</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c53-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C53 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-rights-vs-cc-licensing/"><u>In 2024, YouTube Rights Vs. CC Licensing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/join-the-visual-speech-the-simple-guide-to-posting-and-uploading-gifs-on-instagram/"><u>Join the Visual Speech The Simple Guide to Posting and Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pcs-the-ultimate-toms-hardware-compilation/"><u>Mastering Gadgets and PCs: The Ultimate Tom's Hardware Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x8007000f-running-tasks-failure/"><u>Mastering Windows' Error Code 0X8007000F: Running Tasks Failure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-electronics-a-closer-look-by-tom/"><u>Navigating the Latest in Electronics - A Closer Look by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-innovation-enables-homemade-creation-of-robot-hands-in-one-simple-print-bringing-3d-bioprinting-closer-to-home/"><u>Revolutionary Innovation Enables Homemade Creation of Robot Hands in One Simple Print - Bringing 3D Bioprinting Closer to Home</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-dealing-with-realtek-wifi-driver-issues-on-windows-operating-systems/"><u>Step-by-Step Fix: Dealing with RealTek WiFi Driver Issues on Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pros-guide-evaluating-gamers-technology-options/"><u>The Pro's Guide: Evaluating Gamers’ Technology Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-insights-the-complete-guide-from-toms-gadget-review/"><u>Top Tech Insights: The Complete Guide From Tom's Gadget Review</u></a></li>
+</ul></div>
+

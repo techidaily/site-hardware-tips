@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of 2023'S Most Popular Mechanical Keyboards Reviewed by ZDNet
-date: 2024-10-14T01:59:28.900Z
-updated: 2024-10-21T04:12:22.694Z
+date: 2024-10-22T21:28:26.130Z
+updated: 2024-10-27T01:49:15.528Z
 tags:
   - laptops
 categories:
@@ -48,10 +48,10 @@ Cons
 ## Razer Pro Type Ultra
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best mechanical keyboard overall
@@ -83,14 +83,14 @@ Cons
 * Lacks wrist rest
 * On the louder side
 
-## Cooler Master CK552
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Cooler Master CK552
 
 ### Best budget mechanical keyboard
 
@@ -152,20 +152,14 @@ Cons
 * Mediocre battery
 * Lacks a wrist rest
 
-## Razer BlackWidow V3 Mini Hyperspeed
-
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Razer BlackWidow V3 Mini Hyperspeed
 
 ### Best 65 percent mechanical keyboard
 
@@ -197,10 +191,10 @@ Cons
 ## SteelSeries Apex Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best mechanical keyboard for gaming
@@ -247,26 +241,26 @@ When comparing the best mechanical keyboards and talking to users, I took severa
 * **Design**: In addition to the number of clicks, there is the actual design to consider. Look for heavy-duty materials that promise durability, especially if you plan on traveling with them. For example, the Cooler Master CK552 boasts a brushed aluminum design that is far tougher than your standard plastic construction.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best mechanical keyboard manufacturer?
 
 Many different companies manufacture mechanical keyboards but not all of them may offer the best quality or features to do the job. In my search, I found that the best mechanical keyboards come from companies like Razer, NuPhy, and SteelSeries, but you are likely to find many others in your search. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is a mechanical keyboard worth it?
 
 Experts and users agree -- a mechanical keyboard can be a fantastic addition to your setup, especially if you want a great "feel" for typing and gaming. They're also a great option if you want fast button press-to-screen response, custom key-stroke capabilities, durability, and long-lasting battery. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much do mechanical keyboards cost?
 
@@ -285,6 +279,13 @@ It's worth noting that all of the above statements apply most aptly to the stand
 
 Ideally, if you're ever considering a new switch, try to buy one, or just a few, to test the feel before you commit to enough for a full board. The same goes for any pre-made boards with pre-installed switches you can try before you buy as well.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is wireless connectivity OK for gaming?
 
 This is a more nuanced subject than it might seem at first. Wireless keyboards that rely on Bluetooth (as well as other peripherals that rely on it) can suffer from latency. This means any command entered on them will be delayed, usually by about 0.2 seconds or less. Wired keyboards don't suffer from this delay, meaning that commands are registered almost instantly. 
@@ -292,13 +293,6 @@ This is a more nuanced subject than it might seem at first. Wireless keyboards t
 In an ideal world, any keypress during a game will be instantly recognized to give the player the minimal amount of delay before that life-saving jump or vital crouch is registered. While Bluetooth might get you close enough to instant for more casual games, I wouldn't recommend it for competitive shooter games and high-pressure MMORPGs. Thankfully, many wireless keyboards also offer a wired mode for just this reason. 
 
 The only exception I'd make for using a wireless gaming keyboard is if the board in question used 2.4GHz wireless, like some options from Logitech. These dongle-based wireless connections offer far lower latency, and can be just as ideal for gaming as high-end wireless mice have become. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What parts of a mechanical keyboard can you modify?
 
@@ -319,6 +313,13 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
 
 ## Asus ROG Azoth
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best mechanical keyboard splurge
 
@@ -345,13 +346,6 @@ Show less
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F422727508&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07STXYG5T%2Fref%3Dasc%5Fdf%5FB07STXYG5T1728298800000%3Fcreative%3D395261%26creativeASIN%3DB07STXYG5T%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C42b99cba-3e3f-4923-b920-31d464771bf8%7Cdtp&dtb=1)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Kinesis Freestyle Edge RGB Split Gaming Keyboard
 
@@ -403,15 +397,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-short-videos-and-everything-about-them-for-2024/"><u>[New] Facebook Short Videos and Everything About Them for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-guide-to-capturing-life-in-full-hd-with-yi/"><u>[New] In 2024, The Ultimate Guide to Capturing Life in Full HD with Yi</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-vlc-player-tips-10-hidden-features-for-2024/"><u>[New] Vlc Player Tips 10 Hidden Features for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-one-advanced-techniques/"><u>Capture One Advanced Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-hdmi-21-vs-21a-identification-tips-and-importance/"><u>Discovering HDMI 2.1 vs 2.1A: Identification Tips & Importance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dynamic-lighting-features-now-available-on-asus-motherboards-with-windows-11/"><u>Dynamic Lighting Features Now Available on Asus Motherboards with Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-protecting-electronics-from-scorching-heat/"><u>Effective Strategies for Protecting Electronics From Scorching Heat</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensuring-your-pc-is-prepared-a-guide-to-assessing-compatibility-with-new-graphics-cards/"><u>Ensuring Your PC Is Prepared: A Guide to Assessing Compatibility with New Graphics Cards</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-z-flip-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-on-utilizing-selfie-illumination-techniques/"><u>The Beginner's Handbook on Utilizing Selfie Illumination Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dive-into-diy-the-beginners-guide-to-eye-catching-mac-videos/"><u>[Updated] In 2024, Dive Into DIY The Beginner’s Guide to Eye-Catching Mac Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/going-back-with-android-video-editing/"><u>Going Back with Android Video Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grizzlys-thermal-advancement-a-phase-changing-pad-for-optimal-temperature-regulation-starting-at-45c/"><u>Grizzly's Thermal Advancement: A Phase-Changing Pad for Optimal Temperature Regulation Starting at 45°C!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/groundbreaking-single-run-technique-produces-functional-robotic-hand-a-leap-toward-personal-printers-for-replacing-lost-arms/"><u>Groundbreaking Single-Run Technique Produces Functional Robotic Hand: A Leap Toward Personal Printers for Replacing Lost Arms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonizing-with-inshot-music-integration-guide-for-2024/"><u>Harmonizing with InShot Music Integration Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-guide-to-utilizing-curas-fuzziness-functionality-for-improved-print-quality/"><u>In-Depth Guide to Utilizing Cura's Fuzziness Functionality for Improved Print Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-evaluations-the-toms-review-series/"><u>In-Depth Hardware Evaluations - The Tom's Review Series</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-display-driver-installation-guide-for-modern-windows-os-including-windows-11-and-previous-versions-windows-78/"><u>Nvidia Display Driver Installation Guide for Modern Windows OS Including Windows 11 and Previous Versions (Windows 7/8)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-city-portier-problems-effective-ways-when-your-game-fails-to-start/"><u>Solving City Portier Problems: Effective Ways When Your Game Fails to Start</u></a></li>
 </ul></div>
 

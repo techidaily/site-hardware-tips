@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Dual Worlds: My Experience with Motorola's Flexible Smartwatch/Phone Device - Insights From ZDNet"
-date: 2024-09-19 22:58:57
-updated: 2024-09-20 10:19:53
+date: 2024-10-23T23:46:39.542Z
+updated: 2024-10-26T18:05:30.258Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-tips-elevating-content-with-tags/"><u>[New] Cutting-Edge Tips Elevating Content with Tags</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-vidmas-potential-as-a-video-capturer/"><u>[New] Unlocking Vidma's Potential as a Video Capturer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-inside-the-studio-magix-vpx-leading-media-production/"><u>[Updated] Inside the Studio Magix VPX Leading Media Production</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unboundscreen-capturing-every-gaming-moment-for-free/"><u>[Updated] UnboundScreen Capturing Every Gaming Moment for FREE</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-3-storytelling-techniques-to-grow-your-youtube-channel/"><u>2024 Approved Top 3 Storytelling Techniques to Grow Your YouTube Channel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fly-high-with-flying-lotus-the-innovative-battery-powered-aio-workstation-blending-laptop-chassis-and-3d-print-tech/"><u>Fly High with Flying Lotus: The Innovative Battery-Powered AIO Workstation Blending Laptop Chassis & 3D Print Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oppo-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Oppo</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/latest-news-the-long-awaited-launch-of-mafia-definitive-edition-confirmed/"><u>Latest News: The Long-Awaited Launch of Mafia: Definitive Edition Confirmed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-new-game-changer-thinkpad-t14s-unveiled-with-longest-battery-life-29-hours-high-performance-qualcomm-processor-and-speed-boosting-ssd-storage/"><u>Lenovo's New Game-Changer: ThinkPad T14S Unveiled with Longest Battery Life (29 Hours), High-Performance Qualcomm Processor, and Speed-Boosting SSD Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-components-with-toms-hardware-guides/"><u>Navigating Computer Components with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-experts/"><u>Navigating the World of Computers with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-framework-and-deepcomputing-join-forces-bringing-the-power-of-risc-v-processors-to-a-next-gen-mainboard-for-modern-computing-needs/"><u>New Framework and DeepComputing Join Forces, Bringing the Power of RISC-V Processors to a Next-Gen Mainboard for Modern Computing Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-release-date-for-ryzen-ai-300-laptops-shop-the-latest-availability-at-best-buy-coming-soon-july-28/"><u>New Release Date for Ryzen AI 300 Laptops: Shop the Latest Availability at Best Buy – Coming Soon, July 28</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precise-electronics-reviews-by-tom-finding-the-best-gear/"><u>Precise Electronics Reviews by Tom: Finding the Best Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-leap-in-computing-the-initial-risc-v-laptop-now-features-enhanced-performance-with-doubling-of-cpu-cores-and-boosted-speed-up-to-2ghz-plus-int21/"><u>Revolutionary Leap in Computing: The Initial RISC-V Laptop Now Features Enhanced Performance with Doubling of CPU Cores and Boosted Speed up to 2GHz + Integrated AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-productivity-on-the-go-the-premium-honor-magicbook-art-n14-for-under-1200-features-meteor-lake-cpu-and-removable-privacy-camera/"><u>Revolutionize Productivity on the Go: The Premium Honor MagicBook Art N14 for Under $1,200 Features Meteor Lake CPU and Removable Privacy Camera</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategie-efficaci-per-convertire-mkv-in-mp4-senza-compromettere-la-qualita-visiva/"><u>Strategie Efficaci per Convertire MKV in MP4 Senza Compromettere La Qualità Visiva</u></a></li>
+</ul></div>
+

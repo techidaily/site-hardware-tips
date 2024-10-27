@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Alert: Over 15K Users Affected - Urgent Steps to Secure Your Account | ZDNet"
-date: 2024-09-17 21:20:23
-updated: 2024-09-20 10:31:12
+date: 2024-10-26T00:56:49.039Z
+updated: 2024-10-26T23:55:09.795Z
 tags:
   - streaming-devices
 categories:
@@ -58,11 +58,31 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] 2024 Approved Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>[Updated] 2024 Approved FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quicksnap-screen-record-assessment-plus-choices-for-2024/"><u>[Updated] Quicksnap Screen Record Assessment + Choices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-guide-to-using-google-docs-for-speech-recognition/"><u>2024 Approved Complete Guide to Using Google Docs for Speech Recognition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125193005-expert-hardware-analysis-by-tom-dive-into-gear-details/"><u>Expert Hardware Analysis by Tom – Dive Into Gear Details</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/flight-expertise-unleashed-an-examination-of-dji-phantom-3/"><u>Flight Expertise Unleashed An Examination of DJI Phantom 3</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-8s-proplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Red Magic 8S Pro+ Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-a-guide-by-toms-hardware/"><u>Navigating the Latest in Computing: A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-technology-with-toms-hardware-analysis/"><u>Stay Ahead in Technology with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronic-oasis-expert-insights-on-pc-components-and-gear/"><u>Tom's Electronic Oasis: Expert Insights on PC Components and Gear</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

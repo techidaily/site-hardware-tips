@@ -1,7 +1,7 @@
 ---
 title: CES 2023 Highlights and Breakthroughs From the First Day - Insights From ZDNet
-date: 2024-10-17T18:07:28.845Z
-updated: 2024-10-21T01:52:42.059Z
+date: 2024-10-23T19:58:09.862Z
+updated: 2024-10-26T17:14:34.667Z
 tags:
   - laptops
 categories:
@@ -31,16 +31,10 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG saves its biggest (and best) TV for last
@@ -53,13 +47,6 @@ While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.co
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus debuts all-new laptops across the board
 
 Asus
@@ -67,13 +54,6 @@ Asus
 In addition to a new line of [eco-friendly laptops for workers and students](https://www.zdnet.com/article/asus-unveils-two-sustainably-designed-laptops-for-business-executives-and-students/), Asus released information regarding its gaming Chromebook, the Vibe CX34\. It also debuted a 3D OLED laptop that consumers can use sans 3D glasses.
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
 
@@ -90,10 +70,10 @@ MSI
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
@@ -122,6 +102,13 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Track your feathered friends with the Bird Buddy smart feeder
 
 Bird Buddy
@@ -137,6 +124,19 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -184,21 +184,22 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-primeplay-videoapp-inspection/"><u>[New] 2024 Approved PrimePlay VideoApp Inspection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-tips-seamless-youtube-to-mpeg-conversion-guide/"><u>[New] Leading Tips Seamless YouTube-to-MPEG Conversion Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-best-ways-to-captivate-an-audience-on-snapchat/"><u>[New] The Best Ways to Captivate an Audience on Snapchat</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-tutorial-on-editing-youtube-videos/"><u>[New] The Ultimate Tutorial on Editing YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>[Updated] 2024 Approved How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-maximizing-your-androids-storage-top-8-effective-strategies/"><u>1. Maximizing Your Android's Storage: Top 8 Effective Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-remove-samsung-calendar-from-your-galaxy-device-a-step-by-step-guide/"><u>1. Remove Samsung Calendar From Your Galaxy Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-seamless-transition-moving-your-contact-list-from-one-android-device-to-another/"><u>1. Seamless Transition: Moving Your Contact List From One Android Device to Another</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-recording-made-simple-methodical-guidebook/"><u>2024 Approved Screen Recording Made Simple Methodical Guidebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-in-depth-assessment-of-the-chic-compact-anker-powercoreplus-26800-battery-setup/"><u>An In-Depth Assessment of the Chic, Compact Anker PowerCore+ 26800 Battery Setup</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-spot-and-secure-top-monetization-potential/"><u>How to Spot and Secure Top Monetization Potential</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unable-to-add-songs-to-your-iphone-discover-the-top-5-fixes/"><u>Unable to Add Songs to Your iPhone? Discover the Top 5 Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-top-10-undiscovered-android-13-functions/"><u>Unveiling the Secrets: Top 10 Undiscovered Android 13 Functions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/volume-adjustment-techniques-on-android-devices-without-physical-buttons/"><u>Volume Adjustment Techniques on Android Devices without Physical Buttons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/which-models-are-on-the-list-find-out-which-motorola-phones-will-be-updated-to-android-15/"><u>Which Models Are on the List? Find Out Which Motorola Phones Will Be Updated to Android 15</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-every-android-user-needs-a-high-quality-stylus-10-compelling-reasons-explained/"><u>Why Every Android User Needs a High-Quality Stylus: 10 Compelling Reasons Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-leveraging-multiple-channels-to-boost-online-visibility/"><u>[New] In 2024, Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-win-10s-best-webcam-recording-software-guide/"><u>[New] Win 10'S Best Webcam Recording Software Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] 2024 Approved The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/"><u>[Updated] A Picture's Worth Top 12 Websites for Exquisite Stock Photography Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-prevent-gaps-in-live-obs-broadcasting/"><u>[Updated] How To Prevent Gaps In Live OBS Broadcasting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pulling-puzzled-listeners-intros-that-involve/"><u>2024 Approved Pulling Puzzled Listeners Intros That Involve</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577964287-how-to-study-polish-fast-a-smart-strategy-for-beginners/"><u>How to Study Polish Fast: A Smart Strategy for Beginners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-the-most-of-black-friday-here-are-5-reasons-why-you-need-a-3d-printer-now/"><u>Make the Most of Black Friday - Here Are 5 Reasons Why You Need a 3D Printer Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-flawless-3d-printing-no-more-blisters-or-pimples/"><u>Master the Art of Flawless 3D Printing: No More Blisters or Pimples</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-systems-inside-perspective-by-toms-hardware/"><u>Mastering Gadgets and Systems - Inside Perspective by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mo-ra-iv-600-premium-heavy-duty-pc-radiator-with-9x200mm-fans-over-35lbs-cooling-power-for-under-600/"><u>MO-RA IV 600: Premium Heavy-Duty PC Radiator with 9X200mm Fans - Over 35Lbs Cooling Power for Under $600</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-a-journey-with-toms-computer-world/"><u>Navigating New Tech: A Journey with Tom's Computer World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-pro-reviews/"><u>Navigating the World of Electronics with Tom's Pro Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-trustworthy-advice-by-toms-hardware/"><u>Navigating the World of Electronics: Trustworthy Advice by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-in-depth-articles-from-toms-hardware-hub/"><u>Navigating Through Technology: In-Depth Articles From Tom's Hardware Hub</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-script-generator-for-2024/"><u>New What Is an AI Script Generator for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooter-for-computers-unable-to-shutdown-windows-10-fixed/"><u>Ultimate Troubleshooter for Computers Unable to Shutdown Windows 10 - FIXED</u></a></li>
 </ul></div>
 

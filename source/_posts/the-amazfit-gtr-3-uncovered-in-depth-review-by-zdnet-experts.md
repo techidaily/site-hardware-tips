@@ -1,7 +1,7 @@
 ---
 title: The Amazfit GTR 3 Uncovered - In-Depth Review by ZDNet Experts
-date: 2024-09-17 13:49:53
-updated: 2024-09-20 10:12:46
+date: 2024-10-23T17:10:19.937Z
+updated: 2024-10-26T20:19:23.923Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,28 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs-for-2024/"><u>[New] Capturing the Moment The Ultimate Guide to Screen Recording with OBS for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-role-of-motion-leveraging-fb-ads-for-outstanding-roi/"><u>[Updated] 2024 Approved The Role of Motion Leveraging FB Ads for Outstanding ROI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>2024 Approved PowerPoint Presentations Enhancing Clarity with Voiceovers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-unleash-the-fun-top-10-free-game-download-sites-for-pc-android-and-more/"><u>2024 Approved Unleash the Fun Top 10 Free Game Download Sites for PC, Android, and More</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-correct-sudden-errors-encountered-on-property-management-pages/"><u>How to Correct Sudden Errors Encountered on Property Management Pages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/important-elements-to-think-about-when-adopting-chatgpt-for-mental-health-assistance/"><u>Important Elements to Think About When Adopting ChatGPT for Mental Health Assistance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-sticker-removal-on-tiktok-videos/"><u>Mastering Sticker Removal on TikTok Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-screen-fidelity-update-hp-graphics-for-win10/"><u>Rejuvenate Screen Fidelity: Update HP Graphics for Win10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-steep-discount-asus-rog-zephyrus-g16-laptop-top-tier-cpu-and-rtx-graphics-for-250-less/"><u>Snag the Steep Discount: Asus ROG Zephyrus G16 Laptop, Top-Tier CPU and RTX Graphics for $250 Less</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sneak-peek-at-the-upcoming-samsung-galaxy-book4-edge-snapdragon-laptop-arriving-sooner-than-expected-just-in-time-for-microsofts-announcement/"><u>Sneak Peek at the Upcoming Samsung Galaxy Book4 Edge Snapdragon Laptop - Arriving Sooner Than Expected, Just in Time for Microsoft's Announcement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sneak-peek-into-samsungs-upcoming-laptop-lineup-the-galaxy-book-4-edge-powered-by-qualcomms-latest-chip-pre-microsoft-event-tease/"><u>Sneak Peek Into Samsung's Upcoming Laptop Lineup: The Galaxy Book 4 Edge Powered by Qualcomm's Latest Chip - Pre-Microsoft Event Tease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-productive-for-days-with-the-latest-addition-to-lenovo-laptops-the-powerful-thinkpad-t14s-featuring-snapdragon-x-elite-cpu-and-massive-32gb-ram/"><u>Stay Productive for Days with the Latest Addition to Lenovo Laptops - The Powerful ThinkPad T14s Featuring Snapdragon X Elite CPU & Massive 32GB RAM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-finest-elite-computers-2024s-premier-ultrabooks-and-high-end-laptops/"><u>The Finest Elite Computers: 2024'S Premier Ultrabooks & High-End Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-source-for-in-depth-hardware-analysis-toms-equipment-advice/"><u>The Ultimate Source for In-Depth Hardware Analysis - Tom's Equipment Advice</u></a></li>
+</ul></div>
+

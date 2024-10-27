@@ -1,7 +1,7 @@
 ---
 title: Is the Era of Dual-Screens Dawned with Lenovo Yoga Book 9I? Insights From ZDNet
-date: 2024-10-14T05:26:02.341Z
-updated: 2024-10-21T02:31:57.994Z
+date: 2024-10-21T22:31:17.176Z
+updated: 2024-10-26T22:08:03.491Z
 tags:
   - laptops
 categories:
@@ -51,16 +51,16 @@ Ultimately, does what you see above really seem more practical and usable than a
 Asus
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Explore
@@ -92,10 +92,10 @@ Lenovo
 Of course, even this form factor, which seems like the most objectively usable way to take a dual-screen setup on the go, still requires some adjustment. The detachable Bluetooth keyboard will require you to lug along an extra accessory, and you'll still be limited to using the dual touchscreens or the optional Lenovo stylus for input, unless you also bring a mouse. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -107,10 +107,10 @@ Luckily, even if you forget everything else, you can still opt for an onscreen k
 As always, it'll be up to the consumers once the Yoga Book 9i comes out in June to decide if the company has finally answered the dual-screen laptop question correctly. It'll also depend on whether they think the specs, which you can find below, are worth the $2,100 asking price. If the reality of the Yoga Book 9i finally lives up to the massive potential of a truly useful dual-screen laptop, it might just be a bargain. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lenovo Yoga Book 9i specifications
@@ -172,22 +172,21 @@ As always, it'll be up to the consumers once the Yoga Book 9i comes out in June 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-download-video-as-mp3-with-vimeo-step-by-step-guide/"><u>[New] 2024 Approved Download Video as MP3 with Vimeo - Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-leading-ai-named-generators-boosting-podcast-titles/"><u>[Updated] 10 Leading AI Named Generators Boosting Podcast Titles</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-a-practical-approach-to-creating-captivating-youtube-shorts-templates/"><u>[Updated] In 2024, A Practical Approach to Creating Captivating YouTube Shorts Templates</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>[Updated] In 2024, Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-light-up-your-screen-the-9-most-innovative-camgear-for-video-creators/"><u>[Updated] Light Up Your Screen The 9 Most Innovative CamGear for Video Creators</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-balanced-approach-to-computing-with-the-dell-inspiron-3671-desktop-features-and-functions-explored/"><u>A Balanced Approach to Computing with the Dell Inspiron 3671 Desktop - Features and Functions Explored</u></a></li>
-<li><a href="https://fox-links.techidaily.com/crafting-compelling-movie-previews-for-2024/"><u>Crafting Compelling Movie Previews for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-quantum-hdr-essentials/"><u>In 2024, Unveiling Quantum HDR Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-teases-artificial-intelligence-capabilities-for-legacy-galaxy-devices/"><u>Samsung Teases Artificial Intelligence Capabilities for Legacy Galaxy Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-communication-tips-sending-messages-and-making-calls-without-a-signal/"><u>Seamless Communication Tips: Sending Messages & Making Calls without a Signal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/simplifying-multi-account-management-connect-more-than-one-google-id-to-an-android-smartphone-or-tablet/"><u>Simplifying Multi-Account Management: Connect More than One Google ID to an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/staying-stuck-between-portability-and-power-the-dual-modes-of-androids-tablet-experience/"><u>Staying Stuck Between Portability & Power: The Dual Modes of Android's Tablet Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-uninstalling-quick-setting-widgets-on-your-android-device/"><u>Step-by-Step Guide: Uninstalling Quick Setting Widgets on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-upgrading-your-google-pixel-with-the-latest-android-12l-os/"><u>Step-by-Step Guide: Upgrading Your Google Pixel with the Latest Android 12L OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-utilizing-googles-magic-eraser-feature-across-mobile-devices-androidiphone/"><u>Step-by-Step Tutorial: Utilizing Google's Magic Eraser Feature Across Mobile Devices (Android/iPhone)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-growing-trend-of-oversized-phones-understanding-consumer-choices/"><u>The Growing Trend of Oversized Phones: Understanding Consumer Choices</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-13-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 13 takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-compelling-youtube-content-through-split-screens/"><u>[New] 2024 Approved Crafting Compelling YouTube Content Through Split-Screens</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>2024 Approved Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/creative-compactness-how-to-reduce-and-enhance-iphone-photos-for-2024/"><u>Creative Compactness How to Reduce and Enhance iPhone Photos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/energy-conservation/"><u>Energy Conservation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sandisk-drivers-on-windows-11-with-this-simple-step-by-step-tutorial/"><u>Get the Latest SanDisk Drivers on Windows 11 with This Simple Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-vids-excellence-the-top-20-techniques/"><u>In 2024, Facebook Vids Excellence The Top 20 Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-manufacturing-turn-your-old-plastics-into-top-tier-3d-printing-materials/"><u>Sustainable Manufacturing: Turn Your Old Plastics Into Top-Tier 3D Printing Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-a-z-of-modern-hardware-features-by-toms-technology-spotlight/"><u>The A-Z of Modern Hardware Features by Tom's Technology Spotlight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-top-pick-of-gaming-keyboards-featuring-full-half-and-mini-sizes/"><u>The Ultimate Guide to the Top Pick of Gaming Keyboards : Featuring Full, Half & Mini Sizes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-microsd-memory-cards-for-optimal-raspberry-pi-performance/"><u>Top MicroSD Memory Cards for Optimal Raspberry Pi Performance</u></a></li>
 </ul></div>
 

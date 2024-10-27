@@ -1,7 +1,7 @@
 ---
 title: ASUS Releases a Surprisingly Sleek Laptop Packed with Features for Creative Professionals
-date: 2024-10-19T20:22:12.740Z
-updated: 2024-10-20T22:55:19.223Z
+date: 2024-10-23T16:26:38.310Z
+updated: 2024-10-27T01:31:40.481Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,16 +111,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[Updated] From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-reach-with-multi-network-content-sharing/"><u>[Updated] Maximizing Reach with Multi-Network Content Sharing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>[Updated] Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hytes-nexus-link-unveiled-revolutionize-your-build-with-magnetic-fans-and-a-giant-screen-aio-cooler/"><u>Hyte's Nexus Link Unveiled - Revolutionize Your Build with Magnetic Fans and a Giant Screen AIO Cooler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-gadgets-and-pc-advice-from-toms-hardware/"><u>Innovative Gadgets and PC Advice From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-lab-expert-insights-into-pc-components/"><u>Inside Tom's Gear Lab: Expert Insights Into PC Components</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/learn-the-art-of-virality-infuse-insta-reels-with-tiktok-charm-for-2024/"><u>Learn the Art of Virality Infuse Insta Reels With TikTok Charm for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-gameplay-with-leading-edge-gaming-routers-on-the-market/"><u>Master Your Gameplay with Leading-Edge Gaming Routers on the Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-an-insightful-journey-by-toms-hardware/"><u>Mastering Modern Tech: An Insightful Journey by Tom's Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-challenge-of-ai-alignment-an-in-depth-guide/"><u>Understanding the Challenge of AI Alignment: An In-Depth Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagram-videos-direct-and-alternative-saves/"><u>[New] In 2024, Mastering Instagram Videos Direct & Alternative Saves</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-free-and-trusted-vlc-downloads-for-mac-os-x/"><u>[Updated] The Essential Guide Free & Trusted VLC Downloads for Mac OS X</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-tweeting-short-videos-to-interactive-shareable-customized-gifs/"><u>2024 Approved From Tweeting Short Videos to Interactive, Shareable Customized GIFS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-amd-general-purpose-inputoutput-gpio-drivers-instantly/"><u>Download the Latest AMD General-Purpose Input/Output (GPIO) Drivers Instantly!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-hd-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 HD to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-interactive-slides-with-youtube-videos/"><u>In 2024, Interactive Slides with YouTube Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-no-sound-in-logitech-g93-revised-problem/"><u>Quick Fix for No Sound in Logitech G93 # Revised Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-screen-industry-the-superiority-of-qdel-over-oled-in-tomorrows-devices/"><u>Revolutionizing the Screen Industry: The Superiority of QDEL over OLED in Tomorrow's Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securing-your-smart-television-steps-to-block-spying-by-top-manufacturers-lg-samsung-sony-and-vizio/"><u>Securing Your Smart Television: Steps to Block Spying by Top Manufacturers LG, Samsung, Sony, and Vizio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sonos-unveils-new-bluetooth-ace-headphones-an-in-depth-review-by-an-expert-user/"><u>Sonos Unveils New Bluetooth ACE Headphones - An In-Depth Review by an Expert User</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-assessing-the-condition-of-your-macbook-proair-battery/"><u>Step-by-Step Guide: Assessing the Condition of Your MacBook Pro/Air Battery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-for-running-windows-on-a-steam-deck-with-an-oled-display/"><u>Step-by-Step Tutorial for Running Windows on a Steam Deck with an OLED Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stunning-design-satechi-unveils-latest-innovation-in-vehicle-wireless-charging-solutions/"><u>Stunning Design: Satechi Unveils Latest Innovation in Vehicle Wireless Charging Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktoks-biggest-foodie-trends-unveiled/"><u>TikTok's Biggest Foodie Trends Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-concerns-holding-me-back-from-purchasing-an-oled-display/"><u>Top 4 Concerns Holding Me Back From Purchasing an OLED Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-essential-upgrades-for-your-computer-must-have-peripherals/"><u>Top 5 Essential Upgrades for Your Computer: Must-Have Peripherals</u></a></li>
 </ul></div>
 

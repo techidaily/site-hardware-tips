@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Bargain: Acer's Chromebook Plus Strikes Gold Under $400, Outshines Competitors | ZDNET"
-date: 2024-10-13T19:50:29.099Z
-updated: 2024-10-21T02:53:05.466Z
+date: 2024-10-19T19:40:37.415Z
+updated: 2024-10-26T22:28:40.639Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,14 +131,16 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-asmr-recorders-for-exceptional-audio-quality/"><u>[New] 2024 Approved 10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-macs-choice-of-capture-an-in-depth-look-at-premium-software-for-2024/"><u>[New] Mac's Choice of Capture An In-Depth Look at Premium Software for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sounding-off-instagrams-copyright-rules/"><u>[New] Sounding Off Instagram's Copyright Rules</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-latest-nvidias-quadro-driver/"><u>Get Latest NVIDIA's Quadro Driver</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 14 Plus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/repair-friendly-tech-discovering-the-exceptional-durability-and-fixability-of-the-hmd-skyline/"><u>Repair-Friendly Tech: Discovering the Exceptional Durability and Fixability of the HMD Skyline</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revitalize-your-aging-android-device-top-5-fresh-tricks/"><u>Revitalize Your Aging Android Device: Top 5 Fresh Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsungs-durable-new-galaxy-tab-active-5-now-available-in-the-usa/"><u>Samsung's Durable New Galaxy Tab Active 5 Now Available in the USA</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snapping-screen-captures-like-a-pro-on-your-samsung-galaxy-device-step-by-step-instructions/"><u>Snapping Screen Captures Like a Pro on Your Samsung Galaxy Device - Step-by-Step Instructions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-windows-screencast-champions-revealed-for-2024/"><u>[New] Windows Screencast Champions Revealed for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premier-non-udemy-platforms-for-personalized-e-learning/"><u>[Updated] In 2024, Premier Non-Udemy Platforms for Personalized E-Learning</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-power-of-your-camera-with-snapchats-tools-for-2024/"><u>[Updated] Unlock the Power of Your Camera with Snapchat's Tools for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>2024 Approved The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
+<li><a href="https://win-info.techidaily.com/windows-11-synology-nas/"><u>把 Windows 11 系統備份到 Synology NAS - 使用者好友的四技巧分享</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-desk-setup-with-the-best-wireless-mice-of-2024-efficiency-meets-comfort/"><u>Optimize Your Desk Setup with the Best Wireless Mice of 2024: Efficiency Meets Comfort</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scan-and-savor-innovative-edible-qr-codes-made-with-3d-printing/"><u>Scan & Savor: Innovative Edible QR Codes Made with 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cutting-edge-computing-tools-by-tom/"><u>The Ultimate Guide to Cutting-Edge Computing Tools by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-your-next-computer-tips-from-toms-hardware/"><u>The Ultimate Guide to Selecting Your Next Computer: Tips From Tom's Hardware</u></a></li>
 </ul></div>
 

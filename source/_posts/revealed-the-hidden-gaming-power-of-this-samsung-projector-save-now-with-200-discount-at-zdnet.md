@@ -1,7 +1,7 @@
 ---
 title: "Revealed: The Hidden Gaming Power of This Samsung Projector - Save Now with $200 Discount at ZDNet!"
-date: 2024-09-18 21:35:37
-updated: 2024-09-20 11:44:19
+date: 2024-10-25T21:11:17.188Z
+updated: 2024-10-26T19:11:10.124Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,19 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -62,11 +75,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -100,6 +127,13 @@ The on-board touch controls were also a godsend during streaming for quick-mutin
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusions
 
 If you're an absolute newbie when it comes to recording or streaming, there are simpler, more budget-friendly options out there for USB microphones for you to cut your teeth on. However, the Shure MV7 is an almost perfect option for anyone who is willing to invest a bit more money into a quality microphone for pro-quality audio. 
@@ -129,11 +163,26 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-documenting-xbox-gaming-tips-and-tricks/"><u>[New] Documenting Xbox Gaming Tips & Tricks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-converting-memories-into-videos-the-power-of-pixiz-techniques/"><u>[New] In 2024, Converting Memories Into Videos The Power of Pixiz Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[New] In 2024, How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-webcam-tech-unveiled-best-recording-practices/"><u>[Updated] WebCam Tech Unveiled Best Recording Practices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-robust-brand-partnership-portfolio-on-youtube-for-2024/"><u>Building a Robust Brand Partnership Portfolio on YouTube for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-chromebook-screenshot-hacks-in-four-steps/"><u>In 2024, Chromebook Screenshot Hacks in Four Steps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-your-creativity-best-video-editing-apps-with-music-for-mobile/"><u>New 2024 Approved Unlock Your Creativity Best Video Editing Apps with Music for Mobile</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-realm-pioneering-insights-on-gadgets-and-systems/"><u>Tom's Review Realm: Pioneering Insights on Gadgets and Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-phrozens-pioneering-four-tone-3d-printer-for-enhanced-production/"><u>Transform Your Workspace with Phrozen’s Pioneering Four Tone 3D Printer for Enhanced Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-top-performance-toms-hardware-selection/"><u>Unlocking the Secrets of Top Performance: Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172865-unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More</u></a></li>
+</ul></div>
+

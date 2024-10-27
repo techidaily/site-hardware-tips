@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Bargains on Apple Products: Exclusive Discounts on MacBook Air & AirPods Pro | ZDNET"
-date: 2024-09-17 14:39:11
-updated: 2024-09-20 12:59:27
+date: 2024-10-22T16:26:47.266Z
+updated: 2024-10-26T18:10:27.170Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,26 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-pioneering-techniques-to-improve-your-fb-video-ad-effectiveness-for-2024/"><u>[New] Pioneering Techniques to Improve Your FB Video Ad Effectiveness for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-color-techniques-incorporating-luts-for-cinematic-flair/"><u>Advanced Color Techniques Incorporating Luts for Cinematic Flair</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-disappearing-bluetooth-icon-tips-for-windows-11-users/"><u>Fixing a Disappearing Bluetooth Icon – Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-software-for-your-epson-xp-310-driver-downloads-and-tips/"><u>Get the Most Recent Software for Your Epson XP-310: Driver Downloads and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-play-fortnite-on-unsupported-graphics-cards-under-windows-solution/"><u>How to Play Fortnite on Unsupported Graphics Cards Under Windows [Solution]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-a2plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi A2+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-phrozens-sonic-mega-8ks-resin-a-top-choice-for-advanced-printing-operations/"><u>In-Depth Review of Phrozen's Sonic Mega 8kS Resin: A Top Choice for Advanced Printing Operations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-peripherals-and-systems-at-toms-hardware-hub/"><u>Pioneering PC Peripherals and Systems at Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-toms-system-guide-to-modern-electronic-tools-and-devices/"><u>The Tom's System Guide to Modern Electronic Tools and Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Reviews & News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175717907-upgrade-your-pc-with-the-newly-released-nh-d1nx-chromax-black-noctua-cooler-for-only-99/"><u>Upgrade Your PC with the Newly Released NH-D1nX Chromax Black Noctua Cooler for Only $99!</u></a></li>
+</ul></div>
+

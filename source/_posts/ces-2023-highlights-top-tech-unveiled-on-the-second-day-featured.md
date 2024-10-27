@@ -1,7 +1,7 @@
 ---
 title: "CES 2023 Highlights: Top Tech Unveiled on the Second Day Featured"
-date: 2024-10-15T18:53:55.627Z
-updated: 2024-10-21T04:29:14.201Z
+date: 2024-10-26T00:45:59.273Z
+updated: 2024-10-26T17:46:27.037Z
 tags:
   - laptops
 categories:
@@ -31,22 +31,15 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG saves its biggest (and best) TV for last
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 LG
 
@@ -70,11 +63,25 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MSI drops new laptops for gamers and creatives
 
 MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
 
@@ -111,10 +118,10 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
@@ -124,13 +131,6 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -178,15 +178,21 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-secret-sauce-of-submillion-success-youtube-edition/"><u>[New] The Secret Sauce of Submillion Success Youtube Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-secure-and-seamless-file-sharing-with-20-preferred-no-fee-services/"><u>[Updated] Secure & Seamless File Sharing with 20 Preferred No-Fee Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-steadicams-to-elevate-your-dslr-filming-capabilities/"><u>2024 Approved Top Steadicams to Elevate Your DSLR Filming Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-insights-by-toms-tech-site/"><u>Comprehensive Hardware Insights by Tom's Tech Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-toms-expert-guides-and-comprehensive-tests/"><u>Dive Into Hardware with Tom's Expert Guides and Comprehensive Tests</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-toms-hardware-wisdom-for-cutting-edge-devices/"><u>Dive Into Tom's Hardware Wisdom for Cutting-Edge Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-fixes-for-a-clogged-3d-printer-nozzle-a-comprehensive-walkthrough/"><u>Easy Fixes for a Clogged 3D Printer Nozzle: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/mline-production-workflow-elevate-video-quality-for-2024/"><u>Streamline Production Workflow Elevate Video Quality for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-12-high-quality-mp3-players-unleash-free-music-downloads/"><u>Top 12 High-Quality MP3 Players: Unleash Free Music Downloads</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-6-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 6 has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-elite-selections-5-fast-screen-recorders/"><u>[New] 2024 Approved Elite Selections 5 Fast Screen Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-create-snapchat-lenses-easily-2-methods-for-2024/"><u>[Updated] How to Create Snapchat Lenses Easily 2 Methods for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>2024 Approved From Ordinary to Epic IPhone's Best Landscape Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-bricking-your-ipad-essential-tips-for-navigating-the-ios-n-installation-risks-gadgetflow/"><u>Avoiding Bricking Your iPad - Essential Tips for Navigating the iOS N Installation Risks | GadgetFlow</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/commanders-canvas-painting-victory-in-the-top-7-total-wars-for-2024/"><u>Commanders' Canvas Painting Victory in the Top 7 Total Wars for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flash-dramatization-structure-for-2024/"><u>Flash Dramatization Structure for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-end-3d-printing-solutions-for-under-500-top-picks-and-reviews/"><u>High-End 3D Printing Solutions for Under $500 : Top Picks and Reviews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone SE (2020) | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-12-pro-4g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 12 Pro 4G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-breaking-down-3d-designs-into-printable-units/"><u>Strategies for Breaking Down 3D Designs Into Printable Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-guide-to-the-latest-gadgets/"><u>Tom's Tech Review: Your Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-analyses/"><u>Tom's Tech Reviews: Comprehensive Gadget Analyses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-pc-building-with-toms-hardware-experts/"><u>Unlocking the Secrets of PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-expert-analysis-by-toms-hardware/"><u>Unveiling the Latest in Technology - Expert Analysis by Tom's Hardware</u></a></li>
 </ul></div>
 

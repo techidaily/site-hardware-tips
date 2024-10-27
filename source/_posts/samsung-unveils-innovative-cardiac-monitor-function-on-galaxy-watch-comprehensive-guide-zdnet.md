@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unveils Innovative Cardiac Monitor Function on Galaxy Watch: Comprehensive Guide - ZDNet"
-date: 2024-09-18 17:28:57
-updated: 2024-09-20 12:50:19
+date: 2024-10-19T22:03:45.737Z
+updated: 2024-10-26T20:04:08.516Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-truth-about-magix-video-pro-xs-performance/"><u>[Updated] 2024 Approved The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-instant-reddit-history-retrieval-for-deleted-threads/"><u>[Updated] In 2024, Instant Reddit History Retrieval for Deleted Threads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-laptop-editing-avoiding-inshot-dependence/"><u>2024 Approved Laptop Editing Avoiding Inshot Dependence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ranking-the-best-free-passport-picture-services-worldwide/"><u>2024 Approved Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-9-9950x-es-demonstrates-substantial-improvements-in-performance-and-efficiency-detailed-blender-benchmark-analysis-at-multiple-tdp-values/"><u>AMD's Ryzen 9 9950X ES Demonstrates Substantial Improvements in Performance and Efficiency: Detailed Blender Benchmark Analysis at Multiple TDP Values</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-labs-proactive-response-to-a1-3d-printer-concerns-recall-executed-with-refund-option-and-replacement-part-arrival-expected/"><u>Bambu Lab's Proactive Response to A1 3D Printer Concerns: Recall Executed with Refund Option & Replacement Part Arrival Expected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-get-your-windows-7-mic-working-perfectly-again/"><u>Comprehensive Fixes to Get Your Windows 7 Mic Working Perfectly Again</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-technology-evaluations-by-toms-hardware-experts/"><u>Cutting-Edge Technology Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-solutions-featured-on-toms-tech-platform/"><u>Expert Hardware Solutions Featured on Tom's Tech Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-superior-hardware-with-toms-guide/"><u>Exploring Superior Hardware with Tom's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-elegoo-neptune-4-pro-for-a-steal-at-only-284/"><u>Get the Elegoo Neptune 4 Pro for a Steal at Only $284!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-se-2022-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone SE (2022) to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-selection-of-cost-effective-4k-projection-screens-for-2024/"><u>Ideal Selection of Cost-Effective 4K Projection Screens for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/er-collectors-list-top-shorts-for-free-online-for-2024/"><u>Premier Collector's List Top Shorts for FREE Online for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-behind-bambu-labs-promised-updates-to-printer-firmware/"><u>Unveiling the Truth Behind Bambu Lab’s Promised Updates to Printer Firmware</u></a></li>
+</ul></div>
+

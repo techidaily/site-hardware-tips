@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Guide: Discover the Ultimate Non-iPad/ThinkPad Tablet for Savvy Business Travelers!"
-date: 2024-10-18T21:59:24.887Z
-updated: 2024-10-20T16:36:01.409Z
+date: 2024-10-19T20:42:13.334Z
+updated: 2024-10-26T21:34:41.935Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,19 +121,20 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/lueprints-for-making-youtube-intro-videos-that-stick-for-2024/"><u>[New] Blueprints for Making YouTube Intro Videos that Stick for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-animating-scenes-with-windows-movie-maker/"><u>[New] Guide to Animating Scenes with Windows Movie Maker</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>[New] In 2024, In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-moto-g-plays-extended-battery-life-and-trustworthy-performance-metrics-in-our-latest-review/"><u>Exploring the Moto G Play's Extended Battery Life & Trustworthy Performance Metrics in Our Latest Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-90-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor 90</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-edge-40-neo-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Edge 40 Neo to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-up-your-game-mastering-effective-video-title-and-tag-techniques/"><u>Step Up Your Game Mastering Effective Video Title & Tag Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-resin-3d-printer-picks-to-watch/"><u>Top Resin 3D Printer Picks to Watch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-storage-enclosure-devices/"><u>Ultimate Guide to Choosing the Best Storage Enclosure Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-pc-overclocking-potential-the-new-massive-liquid-cooler-moora-iv-price-holds-eight-biggest-200mm-fans-in-one-unit-600/"><u>Unbeatable PC Overclocking Potential - The New Massive Liquid Cooler, MOORA IV ([Price]): Holds Eight Biggest 200MM Fans in One Unit (~$600)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-cosmic-creations-in-depth-review-of-elegoos-galaxy-neptune-4-plus-for-lightning-fast-3d-prints/"><u>Unleash Cosmic Creations: In-Depth Review of Elegoo's Galaxy Neptune 4 Plus for Lightning-Fast 3D Prints</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-creativity-the-phrozen-four-color-3d-printer/"><u>Unleash Creativity: The Phrozen Four-Color 3D Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-innovations-with-toms-hardware/"><u>Unveiling New Gadgets and Innovations with Tom's Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-embed-presentation-asset-as-video-feature/"><u>[New] 2024 Approved Embed Presentation Asset as Video Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-understanding-facebooks-new-policies-and-updates/"><u>[New] In 2024, Understanding Facebook's New Policies and Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-tips-eliminating-parse-errors-from-your-android-codebase/"><u>Comprehensive Troubleshooting Tips: Eliminating Parse Errors From Your Android Codebase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-with-tom-in-depth-analysis-of-latest-gadgets-and-computers/"><u>Explore with Tom: In-Depth Analysis of Latest Gadgets and Computers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-sharex-review-and-alternatives/"><u>In 2024, ShareX Review and Alternatives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-puget-passes-quality-test-demonstrates-superior-failure-ratings-over-competitor-amd-ryzen-insights-from-system-builders-detailed-analysis/"><u>Intel's Puget Passes Quality Test: Demonstrates Superior Failure Ratings Over Competitor AMD Ryzen - Insights From System Builder's Detailed Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-evga-graphics-card-drivers-quick-install-steps-for-windows-users/"><u>Latest EVGA Graphics Card Drivers: Quick Install Steps for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-showdown-how-kingstons-c38-ddr5-7200-camm2-stacks-up-against-conventional-dimm-memory-modules-a-benchmark-study/"><u>Performance Showdown: How Kingston's C38 DDR5-7200 CAMM2 Stacks Up Against Conventional DIMM Memory Modules - A Benchmark Study</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-asus-rog-phone-8-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Asus ROG Phone 8 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-hardware-evaluations/"><u>Tom's Tech Review: Comprehensive Guide on Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-amd-bundle-experience-enhanced-gaming-with-a-ryzen-7000-processor-and-radeon-rx-ebox-7000-collect-up-to-two-complimentary-games-note-no6/"><u>Unveiling the Latest AMD Bundle: Experience Enhanced Gaming with a Ryzen 7000 Processor & Radeon RX Ebox 7000 - Collect Up to Two Complimentary Games, Note: Not Applicable for Upcoming Ryzen 9000 Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/urgent-security-alert-amds-sinkrate-flaw-compromises-global-processor-units-and-facilitates-data-breaches-immediate-fixes-underway-with-additional-measures-13/"><u>Urgent Security Alert: AMD's Sinkrate Flaw Compromises Global Processor Units & Facilitates Data Breaches – Immediate Fixes Underway with Additional Measures Coming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/viral-video-ventures-crafting-addictive-loops-on-ig/"><u>Viral Video Ventures Crafting Addictive Loops on IG</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock Savings! Get $1,200 Off on the Latest Galaxy Z Fold and Z Flip Models – Secrets to a Smart Purchase Revealed
-date: 2024-09-19 17:46:44
-updated: 2024-09-20 10:20:11
+date: 2024-10-23T21:46:28.983Z
+updated: 2024-10-26T20:00:06.769Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,19 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-best-matches-top-ten-gimbals-for-quality-shoots-for-2024/"><u>[New] Best Matches Top Ten Gimbals for Quality Shoots for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ptimal-youtube-video-formats-a-comprehensive-guide/"><u>[New] Optimal YouTube Video Formats A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-list-hashtags-for-maximum-video-engagement-in-games/"><u>[New] Ultimate List Hashtags for Maximum Video Engagement in Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-newest-cpu-contenders-best-places-to-shop-for-the-ryzen-7-9700x-and-9600x/"><u>AMD's Newest CPU Contenders: Best Places to Shop for the Ryzen 7 9700X & 9600X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-z890-taichi-motherboard-features-10-usb-type-c-and-2-thunderbolt-a-detailed-review/"><u>ASRock Z890 Taichi Motherboard: Features 10 USB Type-C & 2 Thunderbolt - A Detailed Review</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-13-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 13 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-perfect-your-channel-info-a-template-approach/"><u>In 2024, Perfect Your Channel Info A Template Approach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-innovations-on-toms-digital-workshop/"><u>Navigating New Hardware Innovations on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-pc-parts-with-toms-guide-to-hardware/"><u>Navigating PC Parts with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-computer-and-hardware-analysis/"><u>Navigating the Digital World Through Tom's Computer & Hardware Analysis</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-blaze-2-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Blaze 2 Pro on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-product-quality-modelfarm-halves-defects-with-unreal-engine-and-intel-eyes-amd-ryzen-9-for-next-level-performance/"><u>Revolutionizing Product Quality: ModelFarm Halves Defects with Unreal Engine and Intel, Eyes AMD Ryzen 9 for Next Level Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-reviews-in-depth-analysis-of-the-latest-tech-hardware/"><u>Tom’s Gadget Reviews: In-Depth Analysis of the Latest Tech Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-mystery-behind-the-rattling-sound-noctuas-examination-of-its-new-nh-d15-g2-heat-sink-fans/"><u>Unraveling the Mystery Behind the Rattling Sound: Noctua's Examination of Its New NH-D15 G2 Heat Sink Fans</u></a></li>
+</ul></div>
+

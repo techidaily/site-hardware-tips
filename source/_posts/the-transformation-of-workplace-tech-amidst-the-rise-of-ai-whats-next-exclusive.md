@@ -1,7 +1,7 @@
 ---
 title: The Transformation of Workplace Tech Amidst the Rise of AI - What's Next? Exclusive
-date: 2024-10-19T00:57:10.086Z
-updated: 2024-10-20T23:09:57.731Z
+date: 2024-10-25T20:57:04.239Z
+updated: 2024-10-27T00:09:42.738Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,16 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,16 +86,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -142,19 +142,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[New] In 2024, Mastering Movie Capture PC, Mac, & Mobile Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-exploring-windows-11-essential-upgrades/"><u>[Updated] Exploring Windows 11 Essential Upgrades</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pioneering-sites-for-downloading-text-aesthetics/"><u>[Updated] In 2024, Pioneering Sites for Downloading Text Aesthetics</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tune-in-to-success-mastering-the-art-of-vocal-change-on-insta/"><u>[Updated] Tune in to Success Mastering the Art of Vocal Change on Insta</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-strategic-approaches-to-googles-podcast-submission-protocol/"><u>2024 Approved Strategic Approaches to Google’s Podcast Submission Protocol</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-motorola-razr-40-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Motorola Razr 40 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-210-graphics-card-driver-version-compatible-with-windows-11/"><u>Latest NVIDIA GeForce 210 Graphics Card Driver Version Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/speedy-3d-creation-technique-unveiled-by-mit-harnesses-scrap-metal-with-sand-like-glass-bedding-for-efficient-results/"><u>Speedy 3D Creation Technique Unveiled by MIT, Harnesses Scrap Metal with Sand-Like Glass Bedding for Efficient Results</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-and-review-of-anycubic-kobra-max-2-for-enhanced-printing-quality/"><u>The Ultimate Guide & Review of Anycubic Kobra Max 2 for Enhanced Printing Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-gadgets-tips-and-tricks-by-toms-hardware/"><u>The Ultimate Guide to Gadgets - Tips & Tricks by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-workstation-cpus-of-2024/"><u>The Ultimate Guide to Selecting the Best Workstation CPUs of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-using-pink-caulk-gun-thermal-gel-a-step-towards-advanced-heat-sink-application-and-overflow-prevention/"><u>The Ultimate Guide to Using Pink Caulk-Gun Thermal Gel: A Step Towards Advanced Heat Sink Application and Overflow Prevention</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-closed-captions-a-windows-10-experts-method/"><u>Troubleshoot Closed Captions: A Windows 10 Expert's Method</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-comments-with-emojis-on-youtube-for-2024/"><u>[New] Enhancing Comments with Emojis on YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>2024 Approved Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-comical-artwork-adobe-style/"><u>2024 Approved Fabricate Comical Artwork, Adobe Style</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/capturando-solo-una-parte-de-la-pantalla-con-windows/"><u>Capturando Solo Una Parte De La Pantalla Con Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175709385-chill-out-save-money-invest-in-arctics-liquid-freezer-ii-aio-for-just-74-dollars-limited-time-offer/"><u>Chill Out, Save Money: Invest in Arctic's Liquid Freezer II AIO for Just 74 Dollars - Limited Time Offer!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-phenomenon-of-online-memes-explained/"><u>Decoding the Phenomenon of Online Memes Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175687738-effortless-heat-transfer-with-the-stupid-proof-x-apply-temperatures-fixed-kit-upcoming-accessories/"><u>Effortless Heat Transfer with the 'Stupid Proof' X-Apply Temperatures Fixed Kit - Upcoming Accessories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-of-mingda-magician-pro2-substantial-print-size-with-whisper-quiet-functionality/"><u>Exploring the Features of Mingda Magician Pro2: Substantial Print Size with Whisper-Quiet Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-microsoft-bluetooth-drivers-for-your-windows-pc-compatible-with-win-10-11-8-or-er/"><u>Find & Update Microsoft Bluetooth Drivers for Your Windows PC - Compatible with Win 10, 11, 8, or Er</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-step-by-step-solutions/"><u>Fixing Logitech G533 Microphone Issues: Step-by-Step Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-7-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 7 using macOS finder</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-builds-expert-advice-from-toms-hardware-resource/"><u>Mastering Computer Builds: Expert Advice From Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-the-definitive-tech-analysis-from-toms-experts/"><u>Pioneering Hardware Reviews: The Definitive Tech Analysis From Tom's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-charging-and-transportable-usb-hubs-with-quickconnect-technology-type-c/"><u>The Best Charging and Transportable USB Hubs with QuickConnect Technology (Type-C)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-high-performance-hardware-by-toms-team/"><u>The Ultimate Resource for High-Performance Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-hardware-reviews-and-insights-1723267249481/"><u>Tom's Tech Hub: In-Depth Hardware Reviews & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-expert-insights/"><u>Unveiling the Latest Gadgets with Tom's Expert Insights</u></a></li>
 </ul></div>
 

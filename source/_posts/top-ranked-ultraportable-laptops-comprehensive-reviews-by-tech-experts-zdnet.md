@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Ultraportable Laptops : Comprehensive Reviews by Tech Experts | ZDNet"
-date: 2024-10-15T04:26:57.509Z
-updated: 2024-10-21T00:28:50.819Z
+date: 2024-10-21T16:29:09.231Z
+updated: 2024-10-26T23:30:33.271Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Luckily, [we've gone hands-on](https://www.zdnet.com/article/how-we-test-laptops
 Our pick for the overall best laptop in 2024 is the [MacBook Pro (M3 Max)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-14-laptop-m3-max-chip-36gb-memory-30-core-gpu-1tb-ssd-latest-model-space-black%2F6534620.p%3FskuId%3D6534620&publisher_slug=itechdaily19598&exclusive=1). It's hard to beat the MacBook Pro's 22-hour battery life, its suite of powerful hardware, and its gorgeous 120Hz refresh rate display, all in a super portable and sleek package. This is a laptop that checks off all the boxes and looks as good as it performs. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best laptops of 2024: Expert tested
@@ -84,21 +84,7 @@ Cons
 * Not the best speakers
 * Pricey
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## LG Gram Pro 16 2-in-1
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop
 
@@ -127,6 +113,13 @@ Cons
 * Expensive
 * Divisive keyboard design
 * Limited ports
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dell XPS 16
 
@@ -162,13 +155,6 @@ Cons
 
 ## Alienware m18 R2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best gaming laptop
 
 Dell's Alienware m18 R2 is a top-tier gaming laptop that runs upwards of $3,000, but it's well worth the cost. This is a beastly, high-powered laptop that is designed for one thing: immersive gaming. As the refresh of last year's m18 r1 model, the R2 is a powerful, top-of-the-line gamer's paradise stacked with a 14th-generation HX Intel 24-core 5.8 GHz max boost processor, high-end graphics capabilities, a sophisticated cooling system, and more ports than you'll know what to do with.
@@ -198,6 +184,13 @@ Cons
 
 ## Acer Aspire Go 15
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best laptop under $500
 
 We're calling the Acer Aspire Go 15 the best laptop under $500, but it's actually well under that price. For just $300, this is a capable laptop at a price you can't argue with. Not everyone needs a powerful laptop decked out in high-end hardware, especially if you're looking for a secondary computer. And for a portable notebook that is built to cover the basics, it doesn't get much more affordable than this. 
@@ -226,13 +219,6 @@ Cons
 * Battery life is variable
 * Can run warm
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus Vivobook Pro 15 (2024)
 
 ### Best laptop for content creators
@@ -252,16 +238,10 @@ The trackpad also has an ingenious feature called the DialPad that acts as a qui
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best laptop?
@@ -325,6 +305,13 @@ Multiple factors influence the choice of laptops for this list. We look for mach
 
 While the desktop form factor, especially in the form of all-in-one (AIO) devices, still exists, laptops come in various sizes and cover many use cases. They range from thin, light, and ultraportable to bulky, powerful, and deskbound. Because of how good laptops are nowadays, most people opt for sticking with a laptop to serve as their main computer. If a small laptop screen is an issue, an external monitor can be connected. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, ChromeOS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. ChromeOS is mostly limited to mid-range devices.
@@ -333,16 +320,16 @@ While every computing platform has its loyal supporters, most people end up usin
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What brand of laptop is best?
 
 In general, the leading PC vendors have the most extensive range of offerings and the best-documented track records for product development and customer relations. Therefore, if you do not have a specialized use case or budgetary constraints, you will typically consider vendors such as Lenovo, HP, Dell, Apple, or Asus. These vendors currently lead the PC market in terms of shipments, along with several other well-known brands.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best laptops for gaming?
 
@@ -360,18 +347,18 @@ It really depends on the student, but there are some common factors to consider 
 
 You'll also want something with at least an 8-hour battery life to get through a typical school day without needing to plug in (which is excellent for younger kids who may be forgetful and leave their charging cable at home). Also look for a laptop with at least 4GB of RAM, 256GB of storage, and cloud-storage backup to create duplicate copies of important files and classwork. You'll also want to avoid laptops with dedicated graphics cards aimed toward gaming to help cut down misuse and procrastination
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best laptops for business?
 
 Whether you're looking for a single laptop for yourself or a fleet for your business, the best laptops for work not only offer great performance but also multiple connectivity options and durable builds. 
 
 You'll want to look for a model that has at least 8GB of RAM, a 512GB storage drive, a quad-core CPU, and a display that is large enough to work on without being too bulky to travel with. You'll also want a model with, at least, 8 hours of battery life to get through a typical shift without needing to plug in.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best laptops for video editing?
 
@@ -380,6 +367,13 @@ We strongly recommend getting a [MacBook Pro (M3 Max)](https://www.apple.com/sho
 **Review:** [**Apple 16-inch MacBook Pro (M2 Max, 2023): A content creator's dream machine**](https://www.zdnet.com/article/apple-macbook-pro-m2-max-review/)
 
 Therefore, Apple MacBook Pros are a popular choice as are any laptops with powerful processors, dedicated graphics cards, and high-resolution displays such as the Dell XPS 13 and 15\. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other laptops we've tested
 
@@ -429,24 +423,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-lightweight-obs-adjustments-for-thriftier-systems/"><u>[New] Lightweight OBS Adjustments for Thriftier Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-moviemaking-magic-ideal-scenes-for-video-craft/"><u>[New] Moviemaking Magic Ideal Scenes for Video Craft</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quick-and-cool-xbox-snapshots-a-gamers-bible/"><u>[Updated] 2024 Approved Quick & Cool Xbox Snapshots A Gamers' Bible</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-clear-screen-choices-the-ultrawide-and-uhd-4k-showdown/"><u>[Updated] Clear Screen Choices The Ultrawide & UHD 4K Showdown</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-earnings-in-beauty-vlogs/"><u>[Updated] Maximizing Earnings in Beauty Vlogs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-new-games-pick-your-top-vr-headset/"><u>2024 Approved Pioneering New Games? Pick Your Top VR Headset</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cool-down-with-arctic-freezers-36-cooling-systems-your-ideal-partner-for-upcoming-intel-arrow-lake-and-socket-lga1851-processors/"><u>Cool Down with Arctic Freezers 36 Cooling Systems - Your Ideal Partner for Upcoming Intel Arrow Lake & Socket LGA1851 Processors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/corsair-icue-link-h150i-rgb-analysis-apex-performance-combined-with-plentiful-personalize-settings/"><u>Corsair iCUE Link H150i RGB Analysis: Apex Performance Combined with Plentiful Personalize Settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-computer-components-by-toms-site/"><u>Expert Analysis on Computer Components by Tom's Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-for-flawless-printouts-and-zero-weaknesses-in-3d-fabrication/"><u>Expert Tips for Flawless Printouts and Zero Weaknesses in 3D Fabrication</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-match-elite-gaming-mice-features-for-202/"><u>Find Your Perfect Match: Elite Gaming Mice Features for 202</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-f5-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco F5 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-new-technology-the-tomn-hardware-approach/"><u>In-Depth Analysis of New Technology - The Tom'n Hardware Approach</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-3d-printing-technique-creating-lifelike-wooden-artifacts-using-sawdust-based-ink/"><u>Innovative 3D Printing Technique: Creating Lifelike Wooden Artifacts Using Sawdust-Based Ink</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-home-workshop-solution-a-comprehensive-review-of-the-xtool-s1-premium-laser-cutter/"><u>Innovative Home Workshop Solution: A Comprehensive Review of the XTool S1 Premium Laser Cutter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-tech-sphere-unlocking-the-mysteries-of-computer-components-with-tom/"><u>Inside the Tech Sphere: Unlocking the Mysteries of Computer Components with Tom</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-large-display-laptops-to-buy-our-expert-selection/"><u>Leading Large Display Laptops to Buy : Our Expert Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-steams-missing-files-and-restore-full-access/"><u>Resolved: How to Fix Steam's Missing Files and Restore Full Access</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omparative-review-smartphone-usage-of-the-leading-video-apps-for-2024/"><u>[New] Comparative Review Smartphone Usage of the Leading Video Apps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>2024 Approved Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>2024 Approved The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-online-presence-with-manycam-the-ultimate-choice-for-real-time-virtual-webcams-and-recording-tools/"><u>Elevate Your Online Presence with ManyCam - The Ultimate Choice for Real-Time Virtual Webcams and Recording Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-windows-storage-the-top-free-volume-boosters-list/"><u>Enhance Your Windows Storage: The Top Free Volume Boosters List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-experts/"><u>Exploring Advanced Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insightful-evaluation-of-sunfounders-piranman-5-bike-unpacking-the-assembly-process/"><u>Insightful Evaluation of Sunfounder's Piranman 5 Bike: Unpacking the Assembly Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/north-case-revival-how-the-maker-movement-continues-fractals-legacy-with-customized-raspberry-pi-enclosures/"><u>North Case Revival: How the Maker Movement Continues Fractal's Legacy with Customized Raspberry Pi Enclosures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-insights-from-toms-hardware-hub/"><u>Pioneering Tech Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-gopro-editing-software-for-iosandroid-users/"><u>Prime GoPro Editing Software for iOS/Android Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snap-up-engagement-streamlined-methods-for-crop-and-export-to-instagram-for-2024/"><u>Snap Up Engagement Streamlined Methods for Crop & Export to Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zerowriter-ink-sequels-upgrade-features-new-model-boasts-expanded-52-screen-all-week-power-and-tactile-keyboard-design-for-authors/"><u>Zerowriter Ink Sequels Upgrade Features: New Model Boasts Expanded 5.2” Screen, All-Week Power, and Tactile Keyboard Design for Authors</u></a></li>
 </ul></div>
 

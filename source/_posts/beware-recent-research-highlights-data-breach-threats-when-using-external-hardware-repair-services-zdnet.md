@@ -1,7 +1,7 @@
 ---
 title: Beware! Recent Research Highlights Data Breach Threats When Using External Hardware Repair Services | ZDNet
-date: 2024-10-19T16:49:16.193Z
-updated: 2024-10-20T20:39:19.166Z
+date: 2024-10-21T18:22:19.032Z
+updated: 2024-10-27T01:25:18.434Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,19 +113,19 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-zoom-sessions-with-invisible-edges-for-2024/"><u>[New] Streamlining Zoom Sessions with Invisible Edges for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-beginners-path-vrecord-instalment-manual/"><u>[Updated] Beginners' Path VRecord Instalment Manual</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-video-extractor-mp3-format-support/"><u>[Updated] In 2024, Facebook Video Extractor – MP3 Format Support</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-radeon-performance-windows-11-driver-guide/"><u>Maximizing Radeon Performance: Windows 11 Driver Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-impact-of-online-gaming-on-the-appeal-of-solo-adventures-my-personal-story/"><u>The Impact of Online Gaming on the Appeal of Solo Adventures: My Personal Story</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-high-quality-results-the-5-rules-every-3d-printer-must-know/"><u>Unlocking High Quality Results: The 5 Rules Every 3D Printer Must Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-a-deeper-dive-into-toms-hardware-expertise/"><u>Unveiling Tech Secrets: A Deeper Dive Into Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-gear-toms-hardware-insights/"><u>Unveiling the Latest in Computer Gear - Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-a-journey-through-toms-hardware/"><u>Unveiling the Latest in Computing: A Journey Through Tom's Hardware</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-mac-video-editor-adobe-premiere-pro-for-pros-for-2024/"><u>Updated The Ultimate Mac Video Editor Adobe Premiere Pro for Pros for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-3d-print-quality-with-elegoos-professional-washcure-combo-at-just-149/"><u>Upgrade Your 3D Print Quality with Elegoo's Professional Wash/Cure Combo at Just $149</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[New] 2024 Approved Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easily-access-live-sports-updates-directly-from-your-android-home-screen/"><u>Easily Access Live Sports Updates Directly From Your Android Home Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-methods-to-insert-subtitles-onto-videos-on-android-phonestablets/"><u>Easy Methods to Insert Subtitles Onto Videos on Android Phones/Tablets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-to-follow-instructions-for-wiping-and-rebooting-your-android-smartphonetablet-to-default-settings/"><u>Easy-to-Follow Instructions for Wiping and Rebooting Your Android Smartphone/Tablet to Default Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-tips-for-navigating-and-organizing-your-android-file-system/"><u>Essential Tips for Navigating and Organizing Your Android File System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-apple-vision-pro-a-2-day-test-drive-and-top-3-insights-insiders-report/"><u>Exploring the Apple Vision Pro: A 2-Day Test Drive & Top 3 Insights - Insider's Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-cooling-dilemma-how-modern-phones-match-pc-power-without-fans/"><u>Exploring the Cooling Dilemma: How Modern Phones Match PC Power Without Fans</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-visualizationvirtue-the-art-of-resizing-photos-and-videos-in-instagram/"><u>In 2024, VisualizationVirtue The Art of Resizing Photos and Videos in Instagram</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-videoleap-on-macbook-download-installation-and-getting-started-tips/"><u>New In 2024, Videoleap on MacBook Download, Installation, and Getting Started Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-13c-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi 13C 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-mastering-zoom-in-windows-10-for-2024/"><u>The Ultimate Guide to Mastering Zoom in Windows 10 for 2024</u></a></li>
 </ul></div>
 

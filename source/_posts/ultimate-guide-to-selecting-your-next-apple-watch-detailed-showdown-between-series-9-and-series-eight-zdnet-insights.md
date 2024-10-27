@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Selecting Your Next Apple Watch: Detailed Showdown Between Series 9 and Series Eight | ZDNET Insights"
-date: 2024-09-19 23:48:27
-updated: 2024-09-20 11:28:56
+date: 2024-10-19T19:24:46.231Z
+updated: 2024-10-26T16:01:28.442Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[Updated] 2024 Approved InShot vs Other Editors A Comprehensive Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-jokes-that-rule-top-twenty-on-social-networks/"><u>[Updated] 2024 Approved Jokes that Rule Top Twenty on Social Networks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/4799-razer-blade-18-upgrades-gaming-laptops-packed-with-i9-14900hx-cpu-and-cutting-edge-rtx-4090-gpu/"><u>$4,799 Razer Blade 18 Upgrades Gaming Laptops: Packed with I9-14900HX CPU and Cutting-Edge RTX 4090 GPU</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-premier-video-network-for-live-and-on-demand-viewers/"><u>2024 Approved Premier Video Network for Live and On-Demand Viewers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-techniques-for-screen-recorders-in-video-games/"><u>Advanced Techniques for Screen Recorders in Video Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-asus-tuf-gaming-a14-laptop-analysis-the-silent-powerhouse/"><u>Comprehensive Asus TUF Gaming A14 Laptop Analysis - The Silent Powerhouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dells-newest-xps-13-plus-revolutionizing-battery-efficiency-with-qualcomm-snapdragon-x-chips/"><u>Dell's Newest XPS 13 Plus: Revolutionizing Battery Efficiency with Qualcomm Snapdragon X Chips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-bengali-language-learning/"><u>Efficient Bengali Language Learning</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-endurance-with-lenovos-new-thinkpad-t1-4s-exclusive-specs-include-up-to-29-hour-battery-life-x-elite-cpu-and-expansive-storage/"><u>Experience Unmatched Endurance with Lenovo's New ThinkPad T1 4S: Exclusive Specs Include Up to 29-Hour Battery Life, X Elite CPU and Expansive Storage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-insights/"><u>Exploring the Latest Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gadgets-and-hardware-the-ultimate-resource/"><u>Exploring Tom's Gadgets & Hardware: The Ultimate Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/framework-condemns-excessive-use-of-ai-by-other-computer-makers-in-latest-marketing-flap/"><u>Framework Condemns Excessive Use of 'AI' By Other Computer Makers in Latest Marketing Flap</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-affordable-msi-bravo-with-rtx-4060-graphics-sub-1000-deals/"><u>Get Your Hands on the Affordable MSI Bravo with RTX 4060 Graphics: Sub-$1,000 Deals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>In 2024, Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrate-ai-in-your-web-experience-signup-to-bing/"><u>Integrate AI in Your Web Experience: Signup to Bing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/strategies-pour-accelerer-la-performance-de-stockage-externe-un-guide-complet/"><u>Stratégies Pour Accélérer La Performance De Stockage Externe : Un Guide Complet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mystery-of-missing-la-noire-pc-version-is-solved-start-playing-today/"><u>The Mystery of Missing L.A. Noire PC Version Is Solved - Start Playing Today!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-s18e-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo S18e</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862723791-unbeatable-deal-alert-grab-the-power-of-rtx-4080-in-lenovo-legion-gaming-laptops-for-750-less-plus-a-240hz-display/"><u>Unbeatable Deal Alert! Grab the Power of RTX 4080 in Lenovo Legion Gaming Laptops for $750 Less – Plus a 240Hz Display</u></a></li>
+</ul></div>
+

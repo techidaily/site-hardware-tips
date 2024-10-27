@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review
-date: 2024-10-18T04:36:05.661Z
-updated: 2024-10-20T22:18:31.300Z
+date: 2024-10-21T22:03:43.409Z
+updated: 2024-10-26T21:56:30.887Z
 tags:
   - laptops
 categories:
@@ -36,13 +36,6 @@ Until I'm sure I don't just want it, but need it.
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The weakness. I just can't bear the weakness
 
 I worried, though, when Apple released the [M2 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). 
@@ -59,6 +52,13 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best MagSafe accessories: Top choices for the iPhone 12 and 13 Want to try the iPhone's MagSafe tech but not sure where to start? We'll show you some of our favorite accessories thus far.  Read now](https://www.zdnet.com/article/best-magsafe-accessory/)
@@ -74,10 +74,10 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The lies I'd told myself
@@ -108,10 +108,10 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -125,10 +125,10 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -177,20 +177,21 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/"><u>[Updated] Expert Tips on Syncing Gmail and Zoom for Remote Collaboration</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-building-a-bridge-between-twitch-and-youtube-audience-loyalty/"><u>2024 Approved Building a Bridge Between Twitch and YouTube Audience Loyalty</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-instagram-meets-tiktok-syncing-social-media/"><u>2024 Approved Instagram Meets TikTok Syncing Social Media</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoo-neptune-4-pro-the-ultimate-combo-of-speed-precision-and-economy-in-3d-printing-reviews/"><u>Elegoo Neptune 4 Pro: The Ultimate Combo of Speed, Precision & Economy in 3D Printing Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-id-cooling-frozn-a620-pro-se-unparalleled-value/"><u>Expert Review: ID-Cooling Frozn A620 PRO SE - Unparalleled Value</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-a-hardware-specialist/"><u>Exploring Computer Components with Tom - A Hardware Specialist</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-your-hardware-hub/"><u>Exploring Computer Components with Tom - Your Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computing-systems-with-toms-technology-reviews/"><u>Exploring Computing Systems with Tom's Technology Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/freezing-into-action-with-frore-trio-of-trial-airjet-pak-cools-ideal-for-edge-ai-max-25-watts/"><u>Freezing Into Action with Frore - Trio of Trial AirJet PAK Cools Ideal for Edge AI, Max 25 Watts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-your-ultimate-guide-to-effortless-xbox-one-image-snaps/"><u>In 2024, Your Ultimate Guide to Effortless Xbox One Image Snaps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-hardware-by-toms-hardware-experts/"><u>In-Depth Analysis of Modern Hardware by Tom's Hardware Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722852192203-troubleshoot-hulus-rununk13-issue-comprehensive-fixes-unveiled/"><u>Troubleshoot Hulu's RUNUNK13 Issue – Comprehensive Fixes Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-effective-ads-a-cost-free-guide-to-youtube-videos/"><u>[New] In 2024, Crafting Effective Ads A Cost-Free Guide to YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-keep-track-who-dropped-off-my-insta-feed-in-2024/"><u>[New] Keep Track Who Dropped Off My Insta Feed, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hack-the-youtube-timeline-increase-or-decrease-sound-for-2024/"><u>[Updated] Hack the YouTube Timeline Increase or Decrease Sound for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/factory-pro-hd45off/"><u>Factory Pro - HD変換ソフトウェアを安く購入!今すぐ45％OFFでセール中</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-for-mac-quick-installation-tips/"><u>In 2024, Snapchat for MAC Quick Installation Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sehbehinderten-studierenden-helfend-abbyy-finereader-grenzen-in-der-bildung-uberschreiten/"><u>Sehbehinderten Studierenden Helfend: ABBYY FineReader - Grenzen in Der Bildung Überschreiten</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia 105 Classic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simplifying-display-management-asus-and-microsoft-collaborate-for-advanced-lighting-features-in-latest-bios-update/"><u>Simplifying Display Management: Asus and Microsoft Collaborate for Advanced Lighting Features in Latest BIOS Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-high-performance-computing-by-toms-hardware/"><u>The Complete Guide to High-Performance Computing by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-reviewhub-the-ultimate-guide-to-electronics-and-peripherals/"><u>Tom's Computing ReviewHub: The Ultimate Guide to Electronics & Peripherals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-reviews-and-hardware-guides/"><u>Tom's Tech Insights: Comprehensive Reviews and Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-on-toms-tech-review/"><u>Top Picks on Tom's Tech Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-buying-quality-outdoor-movie-projectors-professional-ratings-and-evaluations-pcmag/"><u>Ultimate Guide to Buying Quality Outdoor Movie Projectors: Professional Ratings & Evaluations | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-with-the-asus-rog-maximus-z790-formula-high-end-build-components-meet-hybrid-cooling-excellence/"><u>Unleashing Potential with the Asus ROG Maximus Z790 Formula - High-End Build Components Meet Hybrid Cooling Excellence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-visuals-zooms-filter-guide-for-2024/"><u>Unlocking the Power of Visuals Zoom's Filter Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-innovations-with-toms-electronic-advice/"><u>Unveiling Gadgets & Innovations with Tom’s Electronic Advice</u></a></li>
 </ul></div>
 

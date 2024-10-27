@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Take on the Lenovo ThinkPad Z1ebox: Impressive Specs Overshadowed by Poor Camera Quality"
-date: 2024-10-17T16:43:29.517Z
-updated: 2024-10-21T06:03:40.369Z
+date: 2024-10-24T18:13:45.657Z
+updated: 2024-10-27T01:10:07.683Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,20 +133,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-your-digital-destiny-the-art-of-creating-and-launching-a-youtube-chanel/"><u>[New] Unveiling Your Digital Destiny The Art of Creating and Launching a YouTube Chanel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-5-monitors-for-enhanced-ps5-experience/"><u>[Updated] Ideal 5 Monitors for Enhanced PS5 Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-premier-6-modern-architecture-in-mc-world-for-2024/"><u>[Updated] Premier 6 Modern Architecture in MC World for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/80-discount-experience-big-prints-and-bigger-savings-with-the-upgraded-elegoo-neptune-3plus/"><u>$80 Discount: Experience Big Prints and Bigger Savings with the Upgraded Elegoo Neptune 3+</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglestv-beginners-guide-to-making-videos/"><u>2024 Approved GigglesTV Beginner's Guide to Making Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-high-performance-portable-storage-solutions-reviewed/"><u>2024'S High-Performance Portable Storage Solutions Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-analysis-and-reviews-the-expertise-of-toms-hardware/"><u>Advanced Tech Analysis and Reviews - The Expertise of Tom's Hardware</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728474568081-cf/"><u>CFカードの初期化後、どうやって情報を回復するか?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-overview-the-extended-build-volume-and-simultaneous-use-of-five-tools-on-the-original-prusa-xl/"><u>Comprehensive Overview: The Extended Build Volume & Simultaneous Use of Five Tools on the Original Prusa XL</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-digital-tools-your-go-to-resource-for-tech-insights-from-toms-hardware/"><u>Decoding Digital Tools: Your Go-To Resource for Tech Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-with-tom-expert-opinions-on-tech-specs-and-reviews/"><u>Decoding Hardware with Tom: Expert Opinions on Tech Specs and Reviews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/fix-fixed-no-more-obs-camera-issues/"><u>Fix Fixed No More OBS Camera Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-k70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi K70 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125142050-qidi-techs-q1-pro-headset-uncovered-a-detailed-performance-assessment-for-gamers/"><u>QIDI Tech's Q1 Pro Headset Uncovered: A Detailed Performance Assessment for Gamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-visuals-zooms-filter-guide-for-2024/"><u>Unlocking the Power of Visuals Zoom's Filter Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instavid-promotion-crafting-a-successful-marketing-gameplan/"><u>[New] Mastering InstaVid Promotion Crafting a Successful Marketing Gameplan</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-backward-play-innovative-youtube-video-tricks/"><u>[Updated] Mastering Backward Play Innovative YouTube Video Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/15-free-ai-solutions-for-email-efficiency-and-quality/"><u>15 Free AI Solutions for Email Efficiency and Quality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-ai-top-recommended-ai-drawing-sites-and-software-for-202/"><u>2024 年度頂級 AI 繪圖平台與相關軟件的最佳選擇 - Top Recommended AI Drawing Sites & Software for 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-overclockers-picks-premium-cpu-coolers-for-hot-runners-air-vs-aio-technologies-explored/"><u>Best Overclockers' Picks: Premium CPU Coolers for Hot-Runners - Air vs AIO Technologies Explored</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-microsoft-sculpt-ergonomic-keyboard-evaluation-exceptional-worth/"><u>Comprehensive Microsoft Sculpt Ergonomic Keyboard Evaluation – Exceptional Worth</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-joy-of-coding-top-stem-building-blocks-and-robot-kits-for-budding-engineers/"><u>Discover the Joy of Coding - Top STEM Building Blocks & Robot Kits for Budding Engineers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/17245043454662-exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-safeguard-games-add-password-protection-to-your-nintendo-switch/"><u>How to Safeguard Games: Add Password Protection to Your Nintendo Switch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-instruction-manual-for-telegram-desktop/"><u>In 2024, Complete Instruction Manual for Telegram Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovate-with-confidence-using-tomn-gadget-guides-from-toms-hardware/"><u>Innovate with Confidence Using Tom'n Gadget Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-vpn-solutions-evaluated-find-out-which-ones-really-excel/"><u>Leading VPN Solutions Evaluated – Find Out Which Ones Really Excel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-at-toms-hardware-destination/"><u>Navigate the World of Computing at Tom's Hardware Destination</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/streamlining-business-operations-advanced-process-automation-strategies-by-abbyy/"><u>Streamlining Business Operations: Advanced Process Automation Strategies by ABBYY</u></a></li>
 </ul></div>
 

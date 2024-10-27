@@ -1,7 +1,7 @@
 ---
 title: Is Your Smartwatch Equipped for Offline Navigation? Discover the Google Maps Update for WearOS by ZDNET
-date: 2024-09-17 18:17:43
-updated: 2024-09-20 10:53:18
+date: 2024-10-22T22:18:46.264Z
+updated: 2024-10-26T22:02:20.357Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-ensuring-smooth-sailing-for-iphone-xs-face-recognition-for-2024/"><u>[New] Ensuring Smooth Sailing for iPhone X's Face Recognition for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/5-best-racing-simulator-games-you-can-find/"><u>5 Best Racing Simulator Games You Can Find</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-100-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-system-setup-with-tomsystemhardware/"><u>Advanced System Setup with TomSystemHardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-movement-with-clarity-implementing-motion-blur-on-peoples-photos-with-picsart-for-2024/"><u>Capturing Movement with Clarity Implementing Motion Blur on People's Photos with Picsart for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-toms-gadgets-and-hardware/"><u>Comprehensive Analysis of Tom's Gadgets and Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-acemagics-revolutionary-x1-dual-screen-laptop-deserves-your-attention/"><u>Discover Why Acemagic's Revolutionary X1 Dual-Screen Laptop Deserves Your Attention</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-asus-rog-zephyrus-g16-cut-costs-on-top-tier-tech-with-ultra-performance-cpu-and-gpu-plus-a-flat-screen-display-at-240hz-oled-quality-avail-for10/"><u>Don't Miss Out: Asus ROG Zephyrus G16 - Cut Costs on Top-Tier Tech with Ultra Performance CPU & GPU, Plus a Flat Screen Display at 240Hz OLED Quality – Avail for $250 Less Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-predict-a-12-surge-in-standard-laptop-memory-projecting-an-118gb-increase/"><u>Experts Predict a 12% Surge in Standard Laptop Memory, Projecting an 11.8GB Increase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-the-toms-innovative-insights-series/"><u>Exploring Advanced Computing: The Tom's Innovative Insights Series</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-narzo-n55-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme Narzo N55 phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-f23-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo F23 5G Lock Screen Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-techniques-in-artificial-intelligence-for-effective-sonic-clarity-and-denoising/"><u>New In 2024, Techniques in Artificial Intelligence for Effective Sonic Clarity and Denoising</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-potential-5-convincing-arguments-for-why-chatgpt-plus-is-essential/"><u>Unlock the Potential: 5 Convincing Arguments for Why ChatGPT Plus Is Essential</u></a></li>
+</ul></div>
+

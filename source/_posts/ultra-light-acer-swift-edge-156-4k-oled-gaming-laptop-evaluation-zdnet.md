@@ -1,7 +1,7 @@
 ---
 title: Ultra-Light Acer Swift Edge 15.6 4K OLED Gaming Laptop Evaluation | ZDNet
-date: 2024-10-17T01:06:43.580Z
-updated: 2024-10-20T20:39:26.259Z
+date: 2024-10-20T01:37:15.866Z
+updated: 2024-10-26T20:11:02.011Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,16 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,22 +119,17 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigate-the-art-of-film-with-xps-easy-tools/"><u>[New] In 2024, Navigate the Art of Film with XP's Easy Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-content-the-science-of-instagram-video-loops/"><u>2024 Approved Transform Your Content The Science of Instagram Video Loops</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-performance-free-nvidia-rtx-2060-super-drivers-tailored-for-windows-11-download/"><u>Enhance Performance: Free NVIDIA RTX 2060 Super Drivers Tailored for Windows 11 Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722960497936-expert-advice-on-secure-downloading-of-sandisk-ssd-drivers-overcoming-common-hurdles/"><u>Expert Advice on Secure Downloading of Sandisk SSD Drivers - Overcoming Common Hurdles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-zte-nubia-z60-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your ZTE Nubia Z60 Ultra to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-editing-essentials-import-edit-and-export-in-adobe-premiere/"><u>New In 2024, Video Editing Essentials Import, Edit, and Export in Adobe Premiere</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-its-home-collection-the-100-desk-fan-that-takes-center-stage/"><u>Noctua Unveils Its Home Collection: The $100 Desk Fan that Takes Center Stage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-reviewed-the-inside-scoop-on-hardware-from-toms-desk/"><u>Precision Reviewed - The Inside Scoop on Hardware From Tom's Desk</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-nokia-g22-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nokia G22</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-review-of-lian-lis-galahad-ii-an-all-in-one-solution-for-extreme-overclocking-rig-optimization/"><u>The Definitive Review of Lian Li's Galahad II: An All-in-One Solution for Extreme Overclocking Rig Optimization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-upgrade-corsair-icue-link-h1-h150i-rgb-performance-excellence-with-limitless-creativity/"><u>The Ultimate Upgrade: Corsair iCUE Link H1 🖤H150i RGB - Performance Excellence with Limitless Creativity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-reviews-on-hardware/"><u>Tom's Tech Hub: Expert Reviews on Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-cutting-edge-gadgets-and-components/"><u>Tom's Tech Hub: Your Guide to Cutting-Edge Gadgets and Components</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-reviews/"><u>Tom's Tech Insights: Comprehensive Computer Reviews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-harmonious-hushes-softening-sounds-with-garageband-for-2024/"><u>[New] Harmonious Hushes Softening Sounds with Garageband for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-intel-unveils-comprehensive-extended-warranty-program-for-13th-and-14th-gen-cpus-covering-i5-i7-and-i9-models/"><u>Exclusive Look: Intel Unveils Comprehensive Extended Warranty Program for 13Th & 14Th Gen CPUs - Covering I5, I7, & I9 Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-set-up-browser-cookies-to-enhance-online-experience-and-security/"><u>How To Set Up Browser Cookies to Enhance Online Experience and Security</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-switchable-graphics-issue-with-intel-and-nvidia-win10/"><u>Rectifying Switchable Graphics Issue with Intel & NVIDIA Win10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/sifting-through-media-options-vlc-versus-mx/"><u>Sifting Through Media Options VLC Versus MX</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sky-high-adventures-the-gopro-karma-experience-for-2024/"><u>Sky-High Adventures The GoPro Karma Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-the-viewfinder-tips-for-artistic-photo-edits-for-2024/"><u>Through the Viewfinder Tips for Artistic Photo Edits for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-a-comprehensive-guide-on-latest-hardware-innovations/"><u>Tom's Computing: A Comprehensive Guide on Latest Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware-t17239718733623/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-resolve-a-malfunctioning-msi-mystic-light-in-the-windows-environment/"><u>Troubleshoot and Resolve a Malfunctioning MSI Mystic Light in the Windows Environment</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo X90S | Dr.fone</u></a></li>
 </ul></div>
 

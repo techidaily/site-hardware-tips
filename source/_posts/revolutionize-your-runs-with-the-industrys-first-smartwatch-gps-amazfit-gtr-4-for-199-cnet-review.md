@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Runs with the Industry's First Smartwatch GPS, Amazfit GTR 4 for $199 | CNET Review
-date: 2024-09-19 22:37:37
-updated: 2024-09-20 11:15:52
+date: 2024-10-24T16:40:39.707Z
+updated: 2024-10-26T17:36:00.016Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-10-must-have-tech-gadgets-for-seamless-video-meetings-for-2024/"><u>[New] 10 Must-Have Tech Gadgets for Seamless Video Meetings for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-logic-of-imovies-trim-feature/"><u>[New] The Logic of iMovie's Trim Feature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-warriors-path-a-list-of-intense-fighting-games/"><u>[Updated] 2024 Approved Warrior's Path A List of Intense Fighting Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>[Updated] Push Boundaries Top Windows 10 Innovations in Games and Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-predictive-analytics-anticipating-future-consumer-trends/"><u>2024 Approved Leveraging Predictive Analytics Anticipating Future Consumer Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-creality-k1-carbon-printer-a-game-changer-in-3d-printing/"><u>Comprehensive Analysis of the Creality K1-Carbon Printer: A Game Changer in 3D Printing?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/create-captivating-photos-adding-motion-blur-in-photoshop/"><u>Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-gadgets-with-tom-in-depth-hardware-reviews/"><u>Exploring Gadgets with Tom: In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computer-hardware-by-tom-experts/"><u>In Depth Analysis of Computer Hardware by Tom Experts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/prime-additions-for-newbie-gopro-photographers/"><u>Prime Additions for Newbie GoPro Photographers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-faceoff-how-amd-ryzen-ai-9-hx-370-dominates-in-core-vs-apple-m3-max-laptops/"><u>Tech Faceoff: How AMD Ryzen AI 9 HX 370 Dominates in Core Vs. Apple M3 Max Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-hardware-secrets-through-toms-analysis/"><u>Unveiling the Best Hardware Secrets Through Tom's Analysis</u></a></li>
+</ul></div>
+

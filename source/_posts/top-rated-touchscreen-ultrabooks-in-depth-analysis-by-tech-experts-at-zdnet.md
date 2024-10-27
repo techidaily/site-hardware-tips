@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Touchscreen Ultrabooks: In-Depth Analysis by Tech Experts at ZDNet"
-date: 2024-10-13T16:54:16.175Z
-updated: 2024-10-20T20:06:33.040Z
+date: 2024-10-25T16:50:42.885Z
+updated: 2024-10-26T23:33:27.275Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,10 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
@@ -81,19 +81,6 @@ Pros
 Cons 
 * Generic design
 * Loud fans
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Acer Swift Go 14
 
@@ -155,20 +142,13 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG Gram Pro 17
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
 
@@ -199,14 +179,14 @@ Cons
 * Battery life is not the best
 * Expensive
 
-## Lenovo ThinkPad X1 Carbon
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Lenovo ThinkPad X1 Carbon
 
 ### Best lightweight laptop for work
 
@@ -222,13 +202,6 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -240,6 +213,13 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | ASUS ROG Zephyrus G14 | $1600             | AMD Ryzen 9 8945HS, GeForce RTX 4060             | 16GB, 1TB                   | 3.31             |
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
 
@@ -269,13 +249,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a lightweight laptop
 
 These laptops all offer solid performance in their own right, but paired with their lightweight design, bring a new level of convenience with their portability. Keep in mind that the differences in their weight here are broken down to tenths of a pound, while most people won't even notice much of a difference between two and three pounds. These other factors went into the decision making process: 
@@ -291,6 +264,13 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -308,6 +288,19 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -315,6 +308,13 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -362,19 +362,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-top-large-language-model-llm-bard-chatgpt-or-offline-alpaca-a-comparative-review/"><u>Choosing the Top Large Language Model (LLM): Bard, ChatGPT, or Offline Alpaca - A Comparative Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprendere-il-formato-di-file-wmv-e-le-procedure-per-aprirlo/"><u>Comprendere Il Formato Di File WMV E Le Procedure per Aprirlo</u></a></li>
-<li><a href="https://win-blog.techidaily.com/decoding-pc-trouble-solutions-to-get-call-of-duty-modern-warfare-up-and-running/"><u>Decoding PC Trouble: Solutions to Get Call of Duty: Modern Warfare Up and Running</u></a></li>
-<li><a href="https://fox-http.techidaily.com/demystifying-copyright-policies-for-your-instagram-playlist-for-2024/"><u>Demystifying Copyright Policies for Your Instagram Playlist for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972957026-effortless-installation-of-targus-connectivity-drivers-get-them-here/"><u>Effortless Installation of Targus Connectivity Drivers - Get Them Here!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-copy-creator-pro/"><u>In 2024, Captivating Copy Creator Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/resolving-disk-utility-cannot-duplicate-dvd-files-proven-techniques/"><u>Resolving 'Disk Utility Cannot Duplicate DVD Files': Proven Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-on-latest-gadgets/"><u>Tom's Tech Insights: Expert Reviews on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-and-insights/"><u>Tom's Tech Review: In-Depth Guide and Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-insights-into-the-latest-computer-hardware/"><u>Tom's Tech Reviews: Insights Into the Latest Computer Hardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-free-online-platforms-for-watching-live-sport-events/"><u>Top 5 Free Online Platforms for Watching Live Sport Events</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-thermal-compounds-for-cpu-cooling-comprehensive-ranking-of-90-products/"><u>Top Rated Thermal Compounds for CPU Cooling : Comprehensive Ranking of 90 Products</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-gadget-wisdom/"><u>Unlocking Performance Secrets with Tom's Gadget Wisdom</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-pros-and-cons-a-detailed-look-at-the-nook-glowlight-4-edition/"><u>Unveiling the Pros and Cons: A Detailed Look at the Nook GlowLight 4 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>[New] Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-diversify-referrals-tactics-for-effective-youtube-backlinks-for-2024/"><u>[Updated] Diversify Referrals Tactics for Effective YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-masterful-descriptions-for-impactful-podcast-intros/"><u>2024 Approved Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-120mm-all-in-one-cpu-coolers-detailed-test-results-for-models-by-be-quiet-corsair-cooler-master-and-enermax/"><u>Best 120Mm All-in-One CPU Coolers: Detailed Test Results for Models by Be Quiet!, Corsair, Cooler Master & Enermax</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-razer-blade-14-powerful-computing-fit-for-a-high-investment/"><u>Comprehensive Evaluation of the Razer Blade 14: Powerful Computing Fit for a High Investment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-journey/"><u>Discover Cutting-Edge Devices on Tom's Hardware Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-heat-transfer-with-the-stupid-proof-x-apply-temperatures-fixed-kit-upcoming-accessories/"><u>Effortless Heat Transfer with the 'Stupid Proof' X-Apply Temperatures Fixed Kit - Upcoming Accessories!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175702936-experience-a-breath-of-fresh-air-in-your-pc-the-alluring-floral-note-of-new-thermal-gel/"><u>Experience a Breath of Fresh Air in Your PC: The Alluring Floral Note of New Thermal Gel!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fragrant-freshness-discover-the-unexpected-scent-of-premium-computer-thermal-paste/"><u>Fragrant Freshness: Discover the Unexpected Scent of Premium Computer Thermal Paste</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g-stylus-2023-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G Stylus (2023) for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c32-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C32 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/restoring-full-volume-on-hindered-facebook-videos-for-2024/"><u>Restoring Full Volume on Hindered Facebook Videos for 2024</u></a></li>
 </ul></div>
 

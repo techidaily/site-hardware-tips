@@ -1,7 +1,7 @@
 ---
 title: Improve Your Online Privacy with Custom DNS Setup on a Chromebook - Step by Step Tutorial
-date: 2024-10-14T19:02:28.154Z
-updated: 2024-10-21T01:00:44.700Z
+date: 2024-10-19T22:23:10.697Z
+updated: 2024-10-26T18:45:10.703Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,16 @@ The Duex Plus works on both Windows and Mac laptops and getting a display output
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Usability and performance
@@ -66,10 +72,10 @@ June Wan/ZDNET
 The biggest question I had going into testing was how battery-consuming the additional monitor would be. With the Duex Plus constantly on and its brightness set to the max, I saw a 6%-7% battery drop every hour, which is comparable to the numbers I've gotten with other portable monitors. Keep in mind that this is with the [16-inch M1 Pro MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbc4819c9-8716-47e7-bf2e-6e62775e6d14%7Cdtp&dtb=1), so your numbers may vary.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -106,16 +112,18 @@ Portable monitors come in all shapes and sizes, but the Mobile Pixels Duex Plus'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-start-making-money-today-top-13-easy-methods-for-newbies/"><u>[New] 2024 Approved Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-collabs-how-to-find-youtube-collaboration-partners/"><u>[New] 2024 Approved YouTube Collabs How to Find YouTube Collaboration Partners?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-are-ai-tools/"><u>In 2024, What Are AI Tools?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-msvcrt10dll-file-doesnt-exist-a-step-by-step-guide/"><u>Resolving 'msvcrt10.dll' File Doesn't Exist: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-external-hard-drives-a-comprehensive-guide/"><u>Top Recommended External Hard Drives : A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-3d-printing-devices-in-2vearly-2024-fdm-resin-and-budget-friendly-options/"><u>Top-Rated 3D Printing Devices in 2Vearly 2024 - FDM, Resin & Budget-Friendly Options</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones-for-2024/"><u>Ultimate Directory Where to Download YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-the-comprehensive-guide-to-hardware/"><u>Unveiling Tech Secrets: The Comprehensive Guide to Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-by-toms-experts/"><u>Unveiling the Latest in Hardware by Tom's Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker/"><u>Updated Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>[New] In 2024, Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>[New] Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-sound-sculpting-crafting-harmony-in-audiovox-studio/"><u>[Updated] In 2024, Sound Sculpting Crafting Harmony in Audiovox Studio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-for-2024/"><u>Beginner’s Guide to Changing Speed Up in Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-laptops-for-academic-excellence-and-beyond-extensively-tested-options-for-research-writing-gaming-and-more/"><u>Best Laptops for Academic Excellence and Beyond: Extensively Tested Options for Research, Writing, Gaming, and More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-in-depth-analysis-and-reviews-by-toms-hardware-experts/"><u>Discover In-Depth Analysis & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-innovative-ways-to-leverage-zoom-for-fb-live/"><u>In 2024, Innovative Ways to Leverage Zoom for FB Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-cpu-owners-take-note-game-dev-offers-solutions-to-mitigate-crashes-on-13th-and-14th-gen-models-click-for-guide/"><u>Intel CPU Owners, Take Note! Game Dev Offers Solutions to Mitigate Crashes on 13Th & 14Th Gen Models – Click for Guide!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-keeping-a-clean-nozzle-on-your-3d-printing-device/"><u>Master the Art of Keeping a Clean Nozzle on Your 3D Printing Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximize-your-media-influence-with-10-effortless-steps-for-2024/"><u>Maximize Your Media Influence with 10 Effortless Steps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-game-monitors-budget-essentials-to-high-end-curved-displays-with-g-sync/"><u>Navigating the Latest Game Monitors : Budget Essentials to High-End Curved Displays with G-Sync</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sustainable-screen-tech-best-picks-reviewed-for-2024/"><u>Sustainable Screen Tech Best Picks Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-flsun-s1-in-detail-dissecting-its-distinctive-warp-speed-and-oddball-delta-features-reviews/"><u>The FLSun S1 in Detail: Dissecting Its Distinctive Warp Speed & Oddball Delta Features – Reviews</u></a></li>
 </ul></div>
 

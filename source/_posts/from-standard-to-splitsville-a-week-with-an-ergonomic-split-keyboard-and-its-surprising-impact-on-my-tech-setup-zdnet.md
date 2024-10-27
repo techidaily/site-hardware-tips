@@ -1,7 +1,7 @@
 ---
 title: "From Standard to Splitsville: A Week with an Ergonomic Split Keyboard & Its Surprising Impact on My Tech Setup | ZDNET"
-date: 2024-10-18T01:00:47.235Z
-updated: 2024-10-21T00:14:37.707Z
+date: 2024-10-25T23:52:05.973Z
+updated: 2024-10-26T20:07:45.191Z
 tags:
   - laptops
 categories:
@@ -109,10 +109,16 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -151,22 +157,20 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>[New] 2024 Approved Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-standout-literary-book-videos/"><u>[New] Standout Literary Book Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[Updated] In 2024, Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-complete-process-of-logging-google-voice-calls/"><u>[Updated] In 2024, The Complete Process of Logging Google Voice Calls</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/addressing-the-elephants-foot-advanced-strategies-for-perfect-3d-prints/"><u>Addressing the 'Elephant's Foot': Advanced Strategies for Perfect 3D Prints</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-economical-pcie-40-motherboards-the-ultimate-buy-guide-to-b550-chipset-options/"><u>AMD's Economical PCIe 4.0 Motherboards - The Ultimate Buy Guide to B550 Chipset Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/aseteks-innovative-leap-in-liquid-cooling-solutions-the-launch-of-a-newly-engineered-ai-optimized-ecam-cold-plate-produced-with-state-of-the-art-3d-metal-pr12/"><u>Asetek's Innovative Leap in Liquid Cooling Solutions: The Launch of a Newly Engineered, AI-Optimized ECAM Cold Plate Produced with State-of-the-Art 3D Metal Printing by Fabric8Labs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beat-it-right-top-free-and-easy-online-analyzers-at-your-fingertips/"><u>Beat It Right Top Free & Easy Online Analyzers at Your Fingertips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175727359-beat-the-heat-in-style-unbeatable-deal-on-the-best-air-cooler-ever-thermalrights-peerless-assassin-120-se-at-just-33/"><u>Beat the Heat in Style - Unbeatable Deal on the Best Air Cooler Ever, Thermalright's Peerless Assassin 120 SE at Just $33</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reconnect-disconnected-file-apps-in-windows/"><u>How to Reconnect Disconnected File Apps in Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/identifying-ideal-frame-rates-in-slow-mo-vids/"><u>Identifying Ideal Frame Rates in Slow-Mo Vids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-video-calls-combining-gmail-and-zoom-for-effective-communication/"><u>Integrating Video Calls Combining Gmail & Zoom for Effective Communication</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-displays-of-2024-affordable-options-and-cutting-edge-features/"><u>Top Rated Gaming Displays of 2024: Affordable Options & Cutting-Edge Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125145273-transform-your-design-with-the-affordable-elegoo-neptune-x4-pro-for-only-284/"><u>Transform Your Design with the Affordable Elegoo Neptune X4 Pro for Only $284</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-gadget-potential-insights-from-toms-hardware/"><u>Unleashing Gadget Potential: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-achieving-professionalism-with-zoom-filter-applications/"><u>[New] 2024 Approved Achieving Professionalism with Zoom Filter Applications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-aligning-with-audience-habits-in-podcast-releases-for-2024/"><u>[Updated] Aligning with Audience Habits in Podcast Releases for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-superior-vector-file-polishing/"><u>[Updated] In 2024, Superior Vector File Polishing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/capture-crisp-memories-top-text/"><u>Capture Crisp Memories: Top [TEXT]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-the-steal-of-a-lifetime-premium-corsairs-1000w-small-form-factor-psu-at-an-unbeatable-price/"><u>Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-corsair-tx550m-psu-evaluation-a-detailed-performance-analysis/"><u>Comprehensive Corsair TX550M PSU Evaluation: A Detailed Performance Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-gadget-analysis-by-tom-in-depth-reviews-of-latest-electronics/"><u>Expert Gadget Analysis by Tom: In-Depth Reviews of Latest Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hardcore-hardware-insights-by-tom-your-ultimate-guide/"><u>Hardcore Hardware Insights by Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-harnessing-royalty-free-graphics-a-compreeved-guide/"><u>In 2024, Harnessing Royalty-Free Graphics A Compreeved Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-itel-p55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Itel P55 Phone?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-guides-and-reviews/"><u>Tom's Tech Hub: Expert Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-and-comparisons-t17239718751873/"><u>Tom's Tech Reviews: In-Depth Analysis and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-car-stereo-that-abruptly-stops-functioning/"><u>Troubleshooting a Car Stereo That Abruptly Stops Functioning</u></a></li>
 </ul></div>
 

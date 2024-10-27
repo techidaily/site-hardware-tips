@@ -1,7 +1,7 @@
 ---
 title: ZDNet Review Reveals Apple's Powerful New MacBook Pro (M3 Max) - The Leading Pro Artificial Intelligence Laptop on the Market
-date: 2024-10-18T16:30:47.594Z
-updated: 2024-10-20T18:07:37.662Z
+date: 2024-10-21T21:02:29.533Z
+updated: 2024-10-26T19:53:09.235Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,13 @@ The Ultra laptop still suffers from similar setbacks as its predecessor, [which 
 
 You can expect to pay between $2,400 to $3,000 for the Galaxy Book 4 Ultra, which is a big ask, but the performance and hardware package you're getting in return justifies the price point. My buying advice is to wait for one of Samsung's sales events (usually during major holidays) and take advantage of its trade-in program, which can deduct up to $600 more. Case in point: you can pick up the highest configuration, which comes with an Intel Core Ultra 9, Nvidia GeForce RTX 4070, and 32GB of RAM, for [$500 off](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intel-core-ultra-9-1tb-moonstone-gray-np960xgl-xg1us%2F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display     | 16-inch 3K AMOLED (2,800 x 1,800, 16:10) with 120Hz, 400 nits                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -57,10 +64,10 @@ You can expect to pay between $2,400 to $3,000 for the Galaxy Book 4 Ultra, whic
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the Samsung Galaxy Book 4 Ultra
@@ -74,13 +81,6 @@ Kerry Wan/ZDNET
 Most of the time, the laptop is either hooked to an external monitor (meaning I try to run as many windows of apps and services at the same time as possible) or used in tandem with my [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/) with the help of Quick Share and Second Screen. Both cross-platform features worked very smoothly, though they're mainly compatible with Samsung devices and Samsung devices only.
 
 For performance testing, I ran Cinebench 2024 to calculate the single, multi, and GPU scores of the laptop, while also taking notes on day-to-day aspects like fan speed and loudness, system temperature, frame rate drops, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What are the Samsung Galaxy Book 4 Ultra's best features?
 
@@ -131,16 +131,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -155,16 +155,22 @@ Kerry Wan/ZDNET
 
 The trackpad is also a physical one, meaning it presses down instead of mimicking the feel of it via haptic motors like on the [MacBook Pro](https://www.zdnet.com/article/macbook-pro-m3-max-review/) and [Dell XPS](https://www.zdnet.com/article/i-tested-dells-2024-xps-14-laptop-and-cant-recommend-it-enough/). As a result, when I did want to click, drag, or tap on something, I had to find the "sweet spot" on the trackpad to register it properly. Otherwise, pressing too close to the corners and edges would oftentimes not register anything at all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Final thought
 
 While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) as the "MacBook Pro for Samsung users," several upgrades this year, including the Intel Core Ultra chip for AI applications, touchscreen display, and improved battery life, make the laptop a formidable pickup for just about every Windows user. Just note that if you're a content creator who relies on full-sized SD cards to transfer photos and videos, you'll want to pick up a [dongle or docking station](https://www.zdnet.com/article/best-laptop-docking-station/) to work with the Galaxy Book. There's also no charging port on the laptop's right side, so you'll want to think twice when situating near an outlet.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -200,22 +206,20 @@ While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-link
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-drone-deals-ready-to-buy/"><u>[New] Best Drone Deals Ready to Buy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quickcapture-simplified-windows-screen-record/"><u>[New] In 2024, QuickCapture Simplified Windows Screen Record</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-visual-data-harvester/"><u>[Updated] In 2024, Visual Data Harvester</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discounted-price-alert-high-resolution-8k-phrozen-sonic-mini-s-resin-3d-printer-for-325-only/"><u>Discounted Price Alert: High-Resolution 8K Phrozen Sonic Mini S Resin 3D Printer for $325 Only</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-hardware-excellence-with-toms-comprehensive-guide/"><u>Discover Hardware Excellence with Tom’s Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-noctua-is-changing-game-with-its-latest-pumpless-aio-liquid-cooler-design-harnessing-evaporation-power/"><u>Discover How Noctua Is Changing Game with Its Latest Pumpless AIO Liquid Cooler Design Harnessing Evaporation Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-gadgets-of-2021-with-toms-hardware/"><u>Discover the Best Gadgets of 2021 with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-gaming-mice-of-2024-reviewed-and-rated/"><u>Discover the Leading Gaming Mice of 2024 Reviewed and Rated</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-vr-headsets-of-2023-enhancing-your-gaming-world-on-a-computer/"><u>Discover the Leading VR Headsets of 2023: Enhancing Your Gaming World on a Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-vibrant-world-of-4-color-3d-printing-with-phrozen-innovation/"><u>Discover the Vibrant World of 4-Color 3D Printing with Phrozen Innovation</u></a></li>
-<li><a href="https://win-lab.techidaily.com/el-metodo-de-sincronizacion-perfecto-y-gratis-para-windows-compatible-con-windows-11-10-and-8/"><u>El Método De Sincronización Perfecto Y Gratis Para Windows: Compatible Con Windows 11, 10 & 8</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-creations-master-resin-wash-and-cure-with-elegoos-essential-1econd-kit/"><u>Elevate Your 3D Creations: Master Resin Wash and Cure with Elegoo's Essential $1Econd Kit</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltx Using DigiSigner</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-11-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-mastery-tips-for-producing-cutting-edge-videos/"><u>In 2024, YouTube Mastery Tips for Producing Cutting-Edge Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stardew-valley-startup-problems-how-to-get-your-game-running-smoothly/"><u>Stardew Valley Startup Problems - How To Get Your Game Running Smoothly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-game-on-recording-off-nvidia-magic/"><u>[New] 2024 Approved Game On, Recording Off! - NVIDIA Magic</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-deep-dive-into-fraps-recording-capabilities/"><u>[New] A Deep Dive Into Fraps Recording Capabilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[New] Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-insider-guide-to-instagrams-inquiry-emoji-for-2024/"><u>[New] The Insider Guide to Instagram's Inquiry Emoji for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-srt-to-subcap-conversion-techniques/"><u>[Updated] SRT to SUBCAP Conversion Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-structured-writing-tactics-for-boosting-facebook-ad-performance/"><u>[Updated] Structured Writing Tactics for Boosting Facebook Ad Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-toms-hardware-reviews-and-insights-online/"><u>Discover Tom's Hardware Reviews and Insights Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-hassle-free-pc-cooling-the-upcoming-tim-applying-solution-by-x-apply-no-more-mistakes-guaranteed/"><u>Experience Hassle-Free PC Cooling: The Upcoming TIM Applying Solution by X-Apply – No More Mistakes Guaranteed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-analysis-on-cutting-edge-electronics-toms-hardware-experts/"><u>Expert Advice and Analysis on Cutting-Edge Electronics - Tom's Hardware Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-issues-restoring-your-steam-friend-connections/"><u>No More Issues: Restoring Your Steam Friend Connections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-critiques-from-toms-authority-hub/"><u>Pioneering Hardware Critiques From Tom's Authority Hub</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-social-media-marketers-handbook-tiktok-success-story-for-2024/"><u>The Social Media Marketer's Handbook TikTok Success Story for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-dive-into-latest-gadgets-and-hardware-reviews/"><u>Tom's Tech Corner: Dive Into Latest Gadgets and Hardware Reviews!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-enclosures-of-2024-a-comprehensive-guide/"><u>Top Raspberry Pi Enclosures of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-a-comprehensive-guide-to-new-hardware/"><u>Unveiling Gadgets with Tom: A Comprehensive Guide to New Hardware</u></a></li>
 </ul></div>
 

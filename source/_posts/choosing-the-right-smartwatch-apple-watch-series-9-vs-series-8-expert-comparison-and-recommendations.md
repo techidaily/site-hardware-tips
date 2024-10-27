@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Smartwatch: Apple Watch Series 9 Vs. Series 8 - Expert Comparison & Recommendations"
-date: 2024-09-18 17:22:51
-updated: 2024-09-20 11:35:25
+date: 2024-10-20T18:22:22.609Z
+updated: 2024-10-26T23:37:03.662Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/iscovering-underrated-gems-this-year-films/"><u>[New] Discovering Underrated Gems This Year (Films)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-immersive-gameplay-capture-roblox-and-macos-synergy/"><u>[Updated] In 2024, Immersive Gameplay Capture Roblox & macOS Synergy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-huawei-nova-y71-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Huawei Nova Y71 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-components-and-solutions-from-toms-hardware-pros/"><u>Advanced PC Components and Solutions From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advancing-gaming-on-copilotplus-pcs-microsofts-latest-upgrades-include-anti-cheat-solutions-and-refined-graphics-optimizations/"><u>Advancing Gaming on Copilot+ PCs: Microsoft's Latest Upgrades Include Anti-Cheat Solutions and Refined Graphics Optimizations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipated-gadgets-of-computex-202n4-exposed-asus-rog-ally-and-snapdragon-x-laptops-but-no-gpu-news/"><u>Anticipated Gadgets of Computex 202N4 Exposed - Asus ROG Ally & Snapdragon X Laptops, but No GPU News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-butterfly-keyboard-issues-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Butterfly Keyboard Issues Begin Receiving Up To $395 Refund Per Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-lenovo-legion-pro-5i-gen-9-laptop-assessment-unmatched-performance-at-a-steal/"><u>Comprehensive Lenovo Legion Pro 5I Gen 9 Laptop Assessment – Unmatched Performance at a Steal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-hardware-specs-get-insightful-analysis-from-toms-tech-world/"><u>Deciphering Hardware Specs? Get Insightful Analysis From Tom's Tech World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-tools-a-trip-through-toms-circuitry/"><u>Delving Into Digital Tools – A Trip Through Tom’s Circuitry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-chatgpt-plus-find-out-why-these-5-points-make-it-a-must-have-service/"><u>Evaluating ChatGPT Plus - Find Out Why These 5 Points Make It a Must-Have Service!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862731073-exploring-toms-hardware-top-tech-reviews-and-insights/"><u>Exploring Tom's Hardware: Top Tech Reviews and Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-groovy-76-optimization-tips-eliminating-gameplay-hitches-and-hiccups/"><u>Fallout Groovy 76 Optimization Tips: Eliminating Gameplay Hitches and Hiccups</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-g310-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia G310 Activity | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jpegjpg-movavi/"><u>レディオ・エニークスで無料JPEGとJPGのファイル交換 - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Sale: Save Big on the New Galaxy Watch 5 Pro - Now Just $120 Cheaper!"
-date: 2024-09-18 13:10:35
-updated: 2024-09-20 12:19:29
+date: 2024-10-21T23:09:59.523Z
+updated: 2024-10-26T23:02:26.003Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/fixed-conexant-hd-audio-on-the-latest-windows-version/"><u>[Fixed] Conexant HD Audio on the Latest Windows Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-handle-previewed-activities-on-facebook/"><u>2024 Approved How to Handle Previewed Activities on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp3-flv-movavi/"><u>免費線上 MP3 到 FLV 傳輸：利用 Movavi 視頻編輯器</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-canada-exclusive-ryzen-5-9600x-amd-cpu-goes-live-at-a-steep-472-prime-day-comparison/"><u>Amazon Canada Exclusive! Ryzen 5 9600X AMD CPU Goes Live at a Steep $472 – Prime Day Comparison</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-blueprint-learning-how-to-navigate-pokemon-go-successfully/"><u>Beginner's Blueprint: Learning How to Navigate Pokémon Go Successfully</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-pioneer-highlights-scant-windows-on-arm-device-evaluations-for-qualcomms-copilotplus-a-recent-month-saw-just-n-units/"><u>Benchmarking Pioneer Highlights Scant Windows-on-Arm Device Evaluations for Qualcomm's Copilot+ – A Recent Month Saw Just N Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-high-tech-hardware-a-tour-of-toms-tech-world/"><u>Delving Into High-Tech Hardware: A Tour of Tom's Tech World</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-prevent-dead-by-daylight-crashes-top-tricks-for-a-stable-gameplay-experience/"><u>Expert Advice to Prevent Dead By Daylight Crashes: Top Tricks for a Stable Gameplay Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gear-with-toms-hardware-review-sphere/"><u>Exploring Computer Gear with Tom's Hardware Review Sphere</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-deathloop-crashes-on-pc-simple-and-effective-fixes-revealed/"><u>How to Stop Deathloop Crashes on PC - Simple and Effective Fixes Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-experiences-massive-overnight-drop-stocks-plummet-by-30-market-cap-declines-by-39b/"><u>Intel Experiences Massive Overnight Drop: Stocks Plummet by 30%, Market Cap Declines by $39B</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-magnetic-solutions-the-newest-addition-to-teamgroups-t-force-siren-series-of-aio-cpu-coolers-promotes-user-friendly-pc-customization/"><u>Introducing Magnetic Solutions: The Newest Addition to TeamGroup's T-Force Siren Series of AIO CPU Coolers Promotes User-Friendly PC Customization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-3d-printing-to-new-depths-makers-construct-an-innovative-underwater-printer-fit-for-pools-and-aquariums/"><u>Taking 3D Printing to New Depths: Makers Construct an Innovative Underwater Printer Fit for Pools and Aquariums</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-guide-to-computer-components/"><u>Tom's Tech Review: Your Guide to Computer Components</u></a></li>
+<li><a href="https://discover-able.techidaily.com/two-effective-methods-for-creating-a-backup-of-your-windows-11-system-on-a-qnap-network-attached-storage/"><u>Two Effective Methods for Creating a Backup of Your Windows 11 System on a QNAP Network Attached Storage</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204525599-warframe-patch-problems-heres-how-you-can-successfully-install-updates-again/"><u>Warframe Patch Problems? Here's How You Can Successfully Install Updates Again</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/zooming-in-advanced-screen-share-techniques/"><u>Zooming In Advanced Screen-Share Techniques</u></a></li>
+</ul></div>
+

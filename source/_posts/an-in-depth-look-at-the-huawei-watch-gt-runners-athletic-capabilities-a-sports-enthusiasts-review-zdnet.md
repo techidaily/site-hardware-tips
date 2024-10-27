@@ -1,7 +1,7 @@
 ---
 title: "An In-Depth Look at the Huawei Watch GT Runner's Athletic Capabilities: A Sports Enthusiast's Review | ZDNET"
-date: 2024-09-17 17:54:22
-updated: 2024-09-20 11:44:18
+date: 2024-10-24T21:44:58.977Z
+updated: 2024-10-26T22:35:06.498Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[New] 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-filmmakers-handbook-for-professional-gopro-videographers/"><u>[New] In 2024, The Filmmaker's Handbook for Professional Gopro Videographers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-apex-4k-screen-recorder-options-analysis/"><u>[Updated] 2024 Approved Apex 4K Screen Recorder Options Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-single-run-3d-printing-enables-creation-of-working-robotic-hands-bringing-the-future-of-home-made-limb-restoration-closer-to-reality/"><u>Cutting-Edge Single Run 3D Printing Enables Creation of Working Robotic Hands – Bringing the Future of Home-Made Limb Restoration Closer to Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tweets-choosing-the-right-converter/"><u>Essential Tweets Choosing the Right Converter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-notch-cooling-at-just-99-discover-noctuas-revolutionary-nh-d12l-air-conditioner/"><u>Experience Top-Notch Cooling at Just $99 - Discover Noctua's Revolutionary NH-D12L Air Conditioner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175703788-grizzlys-thermal-advancement-a-phase-changing-pad-for-optimal-temperature-regulation-starting-at-45c/"><u>Grizzly's Thermal Advancement: A Phase-Changing Pad for Optimal Temperature Regulation Starting at 45°C</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-maximizing-call-recording-20plus-techniques-for-windowsmac-users/"><u>In 2024, Maximizing Call Recording 20+ Techniques for Windows/Mac Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-split-wmv-files-for-free-top-5-tools/"><u>New Split WMV Files for Free Top 5 Tools</u></a></li>
+<li><a href="https://win-net.techidaily.com/synology-backup-proxy-windows-10-download-reliable-data-replication/"><u>Synology Backup Proxy: Windows 10 Download - Reliable Data Replication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-responsibility-ekwb-announces-apology-for-overdue-payments-commits-to-reformed-approach/"><u>Taking Responsibility: EKWB Announces Apology for Overdue Payments, Commits to Reformed Approach</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-reviews-decoded-a-journey-through-toms-hardware/"><u>Tech Reviews Decoded: A Journey Through Tom's Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolve-rainbow-six-sieges-troublesome-error-3-0x0001000b/"><u>The Ultimate Guide to Resolve Rainbow Six Siege's Troublesome Error: 3-0X0001000B</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-the-latest-in-computer-components/"><u>Tom's Tech Hub: Your Guide to the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-review-how-the-levelplay-combat-air-ca4-ensures-stellar-performance-with-whisper-quiet-operation/"><u>Top Review: How the Levelplay Combat Air CA4 Ensures Stellar Performance with Whisper-Quiet Operation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/trustworthy-reviews-on-computer-hardware-by-toms-technical-team/"><u>Trustworthy Reviews on Computer Hardware by Tom's Technical Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-with-the-newly-released-nh-d1nx-chromax-black-noctua-cooler-for-only-99/"><u>Upgrade Your PC with the Newly Released NH-D1nX Chromax Black Noctua Cooler for Only $99</u></a></li>
+</ul></div>
+

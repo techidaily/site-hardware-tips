@@ -1,7 +1,7 @@
 ---
 title: Selecting Carbon-Neutral Accessories for Your Apple Watch Series 10 to Minimize Environmental Impact | ZDNET Insights
-date: 2024-09-17 11:41:22
-updated: 2024-09-20 10:11:21
+date: 2024-10-23T23:28:42.661Z
+updated: 2024-10-26T23:42:55.428Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlocking-social-media-potential-a-guide-to-video-marketing-on-fb/"><u>[New] In 2024, Unlocking Social Media Potential A Guide to Video Marketing on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beginning-with-adobe-audition-the-fading-start/"><u>[Updated] Beginning with Adobe Audition The Fading Start</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>[Updated] In 2024, Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>2024 Approved How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unparalleled-8-webcams-elevate-your-livestream-experience/"><u>2024 Approved Unparalleled 8 Webcams Elevate Your Livestream Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-gaming-laptop-deals-options-stronger-than-ever-under-150curosn/"><u>Best Gaming Laptop Deals: Options Stronger Than Ever Under $1,50Curosn</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-discover-the-endurance-of-hps-omnibook-x-with-snapdragon-chip-power/"><u>Comprehensive Assessment: Discover the Endurance of HP's OmniBook X with Snapdragon Chip Power</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-of-gigabytes-g6x-for-gamers-solid-execution-lackluster-uniqueness/"><u>Comprehensive Breakdown of Gigabyte's G6X for Gamers: Solid Execution, Lackluster Uniqueness</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-strikingly-viral-content-50-inspiring-tiktok-quotes-for-2024/"><u>Crafting Strikingly Viral Content 50 Inspiring TikTok Quotes for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-superior-efficiency-ubuntu-triumphs-over-windows-11-for-the-latest-amd-equipped-laptops/"><u>Discover Superior Efficiency: Ubuntu Triumphs Over Windows 11 for the Latest AMD-Equipped Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-play-the-zephyrus-g14-by-asus-redefines-laptop-aesthetics-with-a-colorful-adaptive-e-paper-screen/"><u>Elevate Your Play: The Zephyrus G1^4 by Asus Redefines Laptop Aesthetics With a Colorful, Adaptive E-Paper Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-toms-tech-articles-and-reviews/"><u>Expert Insights Into Tom's Tech Articles & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-malfunctioning-lenovo-to-ultimate-gaming-rig-enthusiasts-guide-to-keyboard-replacement-and-advanced-upgrades/"><u>From Malfunctioning Lenovo to Ultimate Gaming Rig: Enthusiast's Guide to Keyboard Replacement and Advanced Upgrades</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-outdated-ai-pcs-to-cutting-edge-tech-how-microsofts-copilotplus-empowers-users-of-2024-laptops-beyond-expectations/"><u>From Outdated AI PCs to Cutting-Edge Tech: How Microsoft's Copilot+ Empowers Users of 2024 Laptops Beyond Expectations</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-display-your-emeditor-bookmarks-efficiently-for-quick-access/"><u>How to Display Your EmEditor Bookmarks Efficiently for Quick Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-a-macbook-pro-keyboard-isnt-working/"><u>How to Fix It When a MacBook Pro Keyboard Isn't Working</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-deal-alert-save-big-on-the-asus-rog-zephyrus-g14-for-300-less-featuring-oled-screen-and-rtx-4060/"><u>Huge Deal Alert: Save Big on The Asus ROG Zephyrus G14 for $300 Less Featuring OLED Screen and RTX 4060</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973291647-realtek-rtl8188cu-wifi-drivers-fresh-updates-for-windows-107-users-start-your-free-download-today/"><u>Realtek RTL8188CU WiFi Drivers: Fresh Updates for Windows 10/7 Users – Start Your Free Download Today!</u></a></li>
+</ul></div>
+

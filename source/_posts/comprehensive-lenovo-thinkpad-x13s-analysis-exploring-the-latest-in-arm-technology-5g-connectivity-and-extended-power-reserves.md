@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Lenovo ThinkPad X13s Analysis: Exploring the Latest in ARM Technology, 5G Connectivity & Extended Power Reserves"
-date: 2024-10-16T05:14:09.421Z
-updated: 2024-10-21T01:55:59.637Z
+date: 2024-10-25T22:15:40.816Z
+updated: 2024-10-26T19:18:39.416Z
 tags:
   - laptops
 categories:
@@ -66,10 +66,10 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +83,10 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +118,10 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +175,10 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,19 +226,22 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-current-lighting-infrastructure/"><u>[New] 2024 Approved Current Lighting Infrastructure</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-superior-nintendo-switch-brawlers-selection-max-156/"><u>[Updated] In 2024, Superior Nintendo Switch Brawlers Selection (Max 156)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-new-era-of-social-media-a-side-by-side-comparison-between-tiktok-and-snap/"><u>2024 Approved The New Era of Social Media A Side-By-Side Comparison Between TikTok and Snap</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-photographic-edge-cutting-edge-editing-strategies/"><u>2024 Approved The Photographic Edge Cutting-Edge Editing Strategies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/c65-music-recovery-recover-deleted-music-from-c65-by-fonelab-android-recover-music/"><u>C65 Music Recovery - Recover Deleted Music from C65</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175721938-custom-python-script-for-a-quieter-streamlined-experience-with-the-nzxt-kraken-aio-beat-fan-noise-and-bulky-apps/"><u>Custom Python Script for a Quieter, Streamlined Experience with the NZXT Kraken AIO - Beat Fan Noise & Bulky Apps!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-exceptional-cooling-value-the-thermalight-phantom-spirit-120-se-now-available-at-an-unbeatable-price-of-just-35/"><u>Discover Exceptional Cooling Value: The Thermalight Phantom Spirit 120 SE, Now Available at an Unbeatable Price of Just $35!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-toms-tech-reviews-and-gadget-guides/"><u>Explore Tom's Tech Reviews & Gadget Guides</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/framing-it-all-a-comprehensive-list-of-best-11-bridge-cams-for-2024/"><u>Framing It All A Comprehensive List of Best 11 Bridge Cams for 2024</u></a></li>
-<li><a href="https://discover-data.techidaily.com/guide-simple-comment-obtenir-un-fichier-a-0-octets-sans-effort/"><u>Guide Simple: Comment Obtenir Un Fichier À 0 Octets Sans Effort?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 12 Pro+ 5G?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimal-network-enhancements-add-speed-and-port-options/"><u>Optimal Network Enhancements: Add Speed & Port Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-expertise-on-innovative-tech-and-pc-components/"><u>Tom's Expertise on Innovative Tech and PC Components</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-osetupdll-errors-in-windows-systems/"><u>Troubleshooting Missing osetup.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-riches-in-pixels-identifying-the-best-12-sites-with-free-stock-photos/"><u>[New] Riches in Pixels Identifying the Best 12 Sites with Free Stock Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-ps2-games-simulation-for-ios-users/"><u>[Updated] Cutting-Edge PS2 Games Simulation for iOS Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-these-awesome-monitor-deals-of-2024-4k-brilliance-meets-gamers-needs/"><u>Catch These Awesome Monitor Deals of 2024: 4K Brilliance Meets Gamers’ Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-technology-hub/"><u>Comprehensive Hardware Guides by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-and-tech-advice-with-toms-hardware-analysis/"><u>Discover Top Hardware Picks and Tech Advice with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-of-computer-hardware-from-tomtech-central/"><u>Expert Reviews of Computer Hardware From TomTech Central</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17238628801376/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-inside-scoop-on-tech-trends-with-toms-hardware-expertise/"><u>Get the Inside Scoop on Tech Trends with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-list-google-pixel-tone-sources/"><u>In 2024, Insider's List Google Pixel Tone Sources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-titans-180hz-p27a2r-monitor-value-meets-performance-in-the-gaming-world/"><u>In-Depth Review of the Titan's 180Hz P27A2R Monitor: Value Meets Performance in the Gaming World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-lightest-portable-display-vaios-visionplus-14-screen-a-featherlight-072-pounds/"><u>Introducing the Lightest Portable Display: Vaio’s Vision+ ([14” Screen - a Featherlight 0.72 Pounds)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pc-transfer-protocols-effective-five-ways-to-send-your-files-for-2024/"><u>PC Transfer Protocols Effective Five Ways to Send Your Files for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pinnacle-of-stream-quality-nine-must-try-video-filters-for-2024/"><u>Pinnacle of Stream Quality Nine Must-Try Video Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-blueprint-for-youtube-income-generation-for-2024/"><u>The Blueprint for YouTube Income Generation for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721788024716-unveiling-the-future-can-we-expect-a-gpt-5-soon-launch-predictions-inside/"><u>Unveiling the Future: Can We Expect a GPT-5 Soon? Launch Predictions Inside!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Pro 9 Showdown: The Ultimate Challenge Against MacBooks Awaited by Windows Enthusiasts - Insights From ZDNet"
-date: 2024-10-14T16:17:30.036Z
-updated: 2024-10-20T19:05:35.841Z
+date: 2024-10-20T23:30:45.310Z
+updated: 2024-10-27T01:51:13.077Z
 tags:
   - laptops
 categories:
@@ -61,10 +61,10 @@ That said, I've been testing the 12th Gen Intel model (i7, 16GB RAM, 256GB), and
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If it ain't broke...
@@ -104,16 +104,16 @@ My main call out here is the difference in USB-C technology. If you're planning 
 **Review: [Microsoft Surface Pro 8 for Business](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/)**
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: Intel or Arm?
@@ -142,24 +142,18 @@ With the Arm-based model, the Surface Pro 9 gets a Neural Processing Unit (NPU) 
 
 **Also: [The best webcams for work and play](https://www.zdnet.com/article/best-webcam/)**
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery life
 
 Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only speak to its endurance numbers, though I fully expect the [SQ3 model](https://www.zdnet.com/article/arm-processors-everything-you-need-to-know-now/), with its more efficient operation, to be even more promising. From my near-week of use, I averaged six hours of battery life per charge on the Surface Pro 9\. Keep in mind that that's with 120Hz permanently on -- I'll admit, I'm one of those, "Once you go 120Hz, you can't go back" users -- and brightness set to about 65%. In my opinion, that's a solid B-tier as far as endurance numbers go.
 
 [Buy the Microsoft Surface Pro 9 $919 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1458165054&subId1=zd-__COM_CLICK_ID__-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -168,10 +162,10 @@ By now you may be wondering, "Is there anything wrong with the [Surface Pro 9](h
 That's not to say that the Surface Pro 9 is a bad product; it'll most definitely earn a spot in our [year-end rankings](https://www.zdnet.com/article/best-2-in-1-laptop/). I'm just finding it harder and harder to justify the tablet-laptop hybrid, especially when you factor in the cost of the [$279 keyboard and Slim Pen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Signature-Keyboard-Slim%2Fdp%2FB09DK21NK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a0293ad-0b24-4500-84fe-bdb73d62158c%7Cdtp&dtb=1) bundle, and the fact that most users eyeing this particular model will probably opt for, at least, 256GB of storage. That puts the [Surface Pro 9](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Pro-9%2F93VKD8NP4FVK) firmly in the $1,400 territory, where Apple's [M1 and M2-powered laptops dominate](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,20 +206,21 @@ That's not to say that the Surface Pro 9 is a bad product; it'll most definitely
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-free-youtube-ending-creators-top-6-picks/"><u>[New] 2024 Approved Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-melodic-medium-finding-the-right-film-score/"><u>[New] In 2024, Melodic Medium Finding the Right Film Score</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-moonlit-mastery-tips-for-perfecting-nighttime-photos-for-2024/"><u>[New] Moonlit Mastery Tips for Perfecting Nighttime Photos for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/entschuldigung-ich-habe-versehentlich-meine-externe-seagate-hard-drive-formatiert/"><u>Entschuldigung, Ich Habe Versehentlich Meine Externe Seagate-Hard Drive Formatiert</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175718586-expertly-selected-best-aio-cooling-units-of-2024-beat-the-heat/"><u>Expertly Selected Best AIO Cooling Units of 2024: Beat the Heat</u></a></li>
-<li><a href="https://article-helps.techidaily.com/free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-s23-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy S23 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125187876-is-the-creality-k1-carbon-revolutionizing-carbon-3d-printing-heres-what-you-need-to-know/"><u>Is the Creality K1-Carbon Revolutionizing Carbon 3D Printing? Here's What You Need to Know!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125161585-maximize-your-printing-minimize-your-spending-with-80-off-elegoos-neptune-3plus/"><u>Maximize Your Printing, Minimize Your Spending with $80 Off Elegoo's Neptune 3+!</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-hat-hardware-attached-on-top-selection-of-2024-the-ultimate-guide-to-choosing-the-perfect-board-for-your-diy-ventures/"><u>Top Raspberry Pi HAT (Hardware Attached on Top) Selection of 2024: The Ultimate Guide to Choosing the Perfect Board for Your DIY Ventures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-headset-picks/"><u>Top-Ranking Gaming Headset Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-routines-with-auto-gtp/"><u>Transform Your Routines with Auto-GTP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-toms-hardware-top-picks-and-reviews/"><u>Ultimate Guide to Tom's Hardware: Top Picks & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-technology-review/"><u>Unveiling the Latest in Computing at Tom's Technology Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-color-techniques-for-professional-visual-narratives/"><u>[New] Expert Color Techniques for Professional Visual Narratives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-explore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>[Updated] Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>2024 Approved Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-cable-modem-models-reviewed-for-optimal-internet-speed/"><u>2024'S Most Effective Cable Modem Models Reviewed for Optimal Internet Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3d-ideal-printer-selection-for-startup-enterprises/"><u>3D: Ideal Printer Selection for Startup Enterprises</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-acer-chromebook-perfect-blend-of-features-and-value/"><u>Affordable Acer Chromebook: Perfect Blend of Features and Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-bluetooth-free-airtube-headphones-actually-effective-and-true-to-claims/"><u>Are Bluetooth-Free AirTube Headphones Actually Effective and True to Claims?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-the-limitations-a-closer-look-at-samsung-and-ubreakifixs-insufficient-partnership/"><u>Assessing the Limitations: A Closer Look at Samsung and uBreakiFix's Insufficient Partnership</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-technology-products-including-smart-security-cctv-systems-anker-portable-chargers-and-razor-pro-gaming-audio-equipment/"><u>Best Bargains on Technology Products: Including Smart Security CCTV Systems, Anker Portable Chargers & Razor Pro-Gaming Audio Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/despite-harsh-reviews-humane-ai-pin-unveils-fascinating-features-worth-exploring/"><u>Despite Harsh Reviews, 'Humane AI Pin' Unveils Fascinating Features Worth Exploring</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-address-and-repair-missing-jvm-dll-errors/"><u>Expert Advice: How To Address and Repair Missing JVM DLL Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android/"><u>In 2024, Capture Every Moment The Premier 8 Free Screen Capture Apps for Android</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-impressions-intova-x-in-the-spotlight/"><u>In 2024, First Impressions Intova X in the Spotlight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/navigating-through-the-new-terrain-how-fortnites-fps-adjusted-in-latest-update/"><u>Navigating Through the New Terrain: How Fortnite’s FPS Adjusted in Latest Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-19-complete-guide-to-repairing-dvdcd-rom-issues-on-windows-11/"><u>Resolving Code 19: Complete Guide to Repairing DVD/CD-ROM Issues on Windows 11</u></a></li>
 </ul></div>
 

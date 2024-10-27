@@ -1,7 +1,7 @@
 ---
 title: "Battle of Timepieces: How the New Pixel Watch Compares to Samsung's Galaxy Watch 5 Pro | Engadget"
-date: 2024-09-18 23:11:14
-updated: 2024-09-20 12:57:46
+date: 2024-10-22T18:27:30.611Z
+updated: 2024-10-27T00:55:08.125Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-essential-knowledge-for-creating-thoughtful-twitreact-videos/"><u>[New] 2024 Approved Essential Knowledge for Creating Thoughtful TwitReact Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-learn-to-prevent-persistent-commercials-in-digital-platforms-for-2024/"><u>[New] Learn to Prevent Persistent Commercials in Digital Platforms for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-slow-motion-photography-techniques-for-instagram-posts/"><u>[New] Mastering Slow Motion Photography Techniques for Instagram Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exceptional-windows-calls-8-highest-rated/"><u>[Updated] Exceptional Windows Calls 8 Highest Rated</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>2024 Approved Video Masterclass Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-gadget-guidance-from-toms-digital-domain/"><u>Expert Gadget Guidance From Tom's Digital Domain</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/for-newcomers-discover-these-essential-gopro-upgrades-for-2024/"><u>For Newcomers, Discover These Essential GoPro Upgrades for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-gt-neo-5-se-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme GT Neo 5 SE to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-chinese-producer-tryx-unveils-exclusive-all-in-one-cooler-featuring-a-sleek-curved-amoled-screen/"><u>Innovative Chinese Producer Tryx Unveils Exclusive All-In-One Cooler Featuring a Sleek Curved AMOLED Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-dual-core-310-processor-still-goes-strong-in-latest-geekbench-tests/"><u>Intel's Dual-Core 310 Processor Still Goes Strong in Latest Geekbench Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/"><u>Mastering Tech Essentials at Tom's Hardware Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-breakthrough-in-additive-manufacturing-yields-working-robo-hand-through-one-time-print-paving-way-for-in-house-prosthetics-production/"><u>New Breakthrough in Additive Manufacturing Yields Working Robo-Hand Through One-Time Print - Paving Way for In-House Prosthetics Production</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-10-unresponsive-behavior-at-first-boot/"><u>Step-by-Step Solutions for Windows 10 Unresponsive Behavior at First Boot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gamer-seating-solutions-your-ultimate-guide/"><u>Top Rated Gamer Seating Solutions : Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-review-of-the-hytech-thicc-q60-240mm-aio-quiet-operation-meets-unmatched-strength/"><u>Ultimate Review of the Hytech THICC Q60 240MM AIO: Quiet Operation Meets Unmatched Strength</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-power-of-multiple-ai-conversational-agents-the-ultimate-application-for-your-computer/"><u>Unlock the Power of Multiple AI Conversational Agents: The Ultimate Application for Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-gadgets-and-pc-builds-with-tom-hardware-insight/"><u>Unveiling the Best Gadgets and PC Builds with Tom Hardware Insight</u></a></li>
+</ul></div>
+

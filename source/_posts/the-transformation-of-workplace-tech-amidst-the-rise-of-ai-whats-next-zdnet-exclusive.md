@@ -1,7 +1,7 @@
 ---
 title: The Transformation of Workplace Tech Amidst the Rise of AI - What's Next? | ZDNet Exclusive
-date: 2024-10-16T00:00:46.856Z
-updated: 2024-10-20T22:03:52.615Z
+date: 2024-10-24T16:24:05.716Z
+updated: 2024-10-26T19:12:10.509Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,14 +136,15 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-movavi-screencapture-pro-detailed-review-analysis/"><u>[New] Movavi ScreenCapture Pro Detailed Review Analysis</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-the-essence-of-your-facebook-live-spontaneity-for-2024/"><u>[Updated] Capturing the Essence of Your Facebook Live Spontaneity for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-uninstalling-edge-on-windows-11/"><u>Guide to Uninstalling Edge on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-generation-of-fast-3d-printing-unlocked-technique-from-mit-employs-secondhand-metals-and-layers-of-glass-beads-for-speedier-production/"><u>Next Generation of Fast 3D Printing Unlocked: Technique From MIT Employs Secondhand Metals & Layers of Glass Beads for Speedier Production</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-resin-output-with-this-power-packed-elegoo-washcure-bundle-all-for-just-149/"><u>Revolutionize Your Resin Output with This Power-Packed Elegoo Wash/Cure Bundle - All for Just $149</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stealthy-video-streamer-reviews-1-8/"><u>Stealthy Video Streamer Reviews #1-8</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-day-using-auto-gtp-tech/"><u>Streamline Your Day Using Auto-GTP Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-cpu-cooler-paste-for-2amoy/"><u>The Ultimate Guide to Choosing the Best CPU Cooler Paste for 2Amoy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-electronics-wisdom-from-toms-hardware-experts/"><u>The Ultimate Guide to Selecting Electronics: Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhancing-youtube-music-soundscape/"><u>[Updated] 2024 Approved Enhancing YouTube Music Soundscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-put-your-faith-in-ais-for-economic-decisions/"><u>Can You Put Your Faith in AIs for Economic Decisions?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/downloading-the-latest-tiktok-features-on-your-macbook/"><u>Downloading the Latest TikTok Features on Your MacBook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-perform-a-clean-installation-on-your-dell-desktop-pc/"><u>How to Perform a Clean Installation on Your Dell Desktop PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-google-photos-your-ultimate-tutorial/"><u>In 2024, Mastering Google Photos Your Ultimate Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-this-years-prime-pc-vr-tech/"><u>In 2024, Unveiling This Year's Prime PC VR Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/retail-launch-akasas-innovative-13-inch-fanless-nuc-13-pro-computing-system/"><u>Retail Launch: Akasa's Innovative 13-Inch Fanless NUC 13 Pro Computing System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-comprehensive-insights-into-the-latest-tech/"><u>Tom's Computer Review: Comprehensive Insights Into the Latest Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components and Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Lenovo ThinkPad X13s Review - Powerful ARM Ultrabook Meets 5G & Extended Battery for Professionals | TechRadar
-date: 2024-10-17T22:50:02.103Z
-updated: 2024-10-20T21:35:42.784Z
+date: 2024-10-20T20:18:58.225Z
+updated: 2024-10-27T00:40:51.040Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ It's entirely possible I encountered some random bug and is not indicative of th
 I did manage to get the Smart Auto feature up and running. It allows users to reallocate resources from different areas of the computer to whatever app you're using at the time to boost performance. Or if you want a certain app to get the boost at all times, Smart Auto also lets you target specific software. It was a nifty little tool that I got a lot of enjoyment out of. You likely will, too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,22 +117,17 @@ For the smaller, 13-inch size that I tested, you can buy the Intel Core Ultra i5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-howtos.techidaily.com/wqsg5zue5b6p5oml6acg77ya44oq44od44kv44ki44od44ox5lplusd5a2y5ywi44gm6kgo56s644gv44km44gq44ge5ac05zci44cn/"><u>« 回復手順：バックアップ保存先が表示されない場合」</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-early-bird-winners-youtubes-quick-favorites/"><u>[New] Early Bird Winners Youtube's Quick Favorites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expertise-in-speech-conversion-mastering-googles-method/"><u>[Updated] In 2024, Expertise in Speech Conversion Mastering Google’s Method</u></a></li>
-<li><a href="https://win-web.techidaily.com/guaranteed-methods-to-securely-backup-every-file-on-windows-amoeba/"><u>Guaranteed Methods to Securely Backup Every File on Windows Amoeba</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-motorola-g24-power-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Motorola G24 Power? Fixed | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/y-methods-for-shuffling-youtube-lists-on-devices-for-2024/"><u>Speedy Methods for Shuffling YouTube Lists on Devices for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/streamline-your-content-advanced-tricks-with-youtube-studio-editor/"><u>Streamline Your Content Advanced Tricks with YouTube Studio Editor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-wi-fi-routers-a-comprehensive-guide/"><u>Top Rated Wi-Fi Routers : A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-technology-must-haves-for-savvy-globe-trotters/"><u>Top-Rated Technology Must-Haves for Savvy Globe Trotters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-mobile-typing-how-logitech-elevates-convenience-with-keys-to-go/"><u>Transforming Mobile Typing: How Logitech Elevates Convenience With Keys-To-Go ^</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-roborock-s8-maxv-ultra-a-must-have-luxury-robotic-vacuum/"><u>Ultimate Guide to the Roborock S8 MaxV Ultra: A Must-Have Luxury Robotic Vacuum</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncover-essential-factors-when-does-an-additional-left-keypad-become-crucial/"><u>Uncover Essential Factors: When Does an Additional Left Keypad Become Crucial?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-vrr-why-your-gaming-monitor-might-flicker-and-how-to-stop-it-now/"><u>Understanding VRR: Why Your Gaming Monitor Might Flicker and How to Stop It Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-improved-apple-pencil-pro-a-significant-advancement-in-tech-tools/"><u>Unveiling the Improved Apple Pencil Pro: A Significant Advancement in Tech Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-visuals-with-the-latest-tiny-go-3-from-insta360-capture-images-and-videos-at-true-4k-quality/"><u>Upgrade Your Visuals with the Latest Tiny Go 3 From Insta360 - Capture Images and Videos at True 4K Quality</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze 2 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-intros-a-comprehensive-instructional-guide/"><u>[New] In 2024, Free YouTube Intros A Comprehensive Instructional Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mobilizing-audience-engagement-igtv-and-fb-synchronization-for-2024/"><u>[Updated] Mobilizing Audience Engagement IGTV and FB Synchronization for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-a-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>2024 Approved A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloadhp-envy-5055-driverseasily-and-quickly/"><u>Download|HP ENVY 5055 Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-livestream-wisdom-without-wealth-waste/"><u>How to Livestream Wisdom Without Wealth Waste</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-urdu-skills-just-10-minsday/"><u>Quick Urdu Skills, Just 10 Mins/Day!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use/"><u>Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-huge-storage-potential-with-everyday-plastic-through-cutting-edge-3d-printed-holography-storing-keys-and-addresses-efficiently/"><u>Unlocking Huge Storage Potential with Everyday Plastic Through Cutting-Edge 3D-Printed Holography - Storing Keys and Addresses Efficiently!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computing-tech-with-toms-hardware-expertise/"><u>Unraveling the World of Computing Tech with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-and-components-at-toms-tech-zone/"><u>Unveiling New Gadgets and Components at Tom's Tech Zone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-components-at-toms-digital-workshop/"><u>Unveiling the Latest in Computer Components at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-upgrade-to-scythes-mugen-series-models-6-and-6-black-for-optimal-silent-operation-without-breaking-the-bank/"><u>Why Upgrade to Scythe's Mugen Series (Models 6 & 6 Black) for Optimal Silent Operation Without Breaking the Bank?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "October's Must-Have Prime Gaming Bargains for Gamers: Save Big on the Latest Releases"
-date: 2024-10-19T03:05:36.978Z
-updated: 2024-10-20T17:05:36.636Z
+date: 2024-10-19T23:58:47.076Z
+updated: 2024-10-27T02:03:20.492Z
 tags:
   - laptops
 categories:
@@ -102,6 +102,13 @@ ZDNET
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6d181e99-b740-4943-9ff7-f16132ccf680%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6d181e99-b740-4943-9ff7-f16132ccf680%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -118,10 +125,10 @@ ZDNET
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
@@ -168,13 +175,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -202,6 +202,13 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -220,10 +227,10 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -233,10 +240,10 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -244,13 +251,6 @@ Samsung/ZDNET
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -290,19 +290,24 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-ascend-to-million-view-milestone-with-this-guide/"><u>[Updated] Ascend to Million View Milestone with This Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-access-high-quality-youtube-images-without-paying-a-dime/"><u>[Updated] In 2024, Access High-Quality YouTube Images Without Paying a Dime</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-simplified-blue-screen-usage-guide/"><u>[Updated] Simplified Blue Screen Usage Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-experts-choice-top-10-tools-for-spotify-recordings/"><u>[Updated] The Expert's Choice Top 10 Tools for Spotify Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-sound-problems-in-turtle-beach-recon-70-mics/"><u>Diagnosing and Fixing Sound Problems in Turtle Beach Recon 70 Mics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-11x-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme 11X 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-zoom-beszelgetesek-bevezetesenek-szuksegtelen-gyakorlati-tizenletenek-tanacsa/"><u>Movavi Zoom Beszélgetések Bevezetésének Szükségtelen Gyakorlati Tizenlétének Tanácsa</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-obtaining-your-android-devices-user-manual/"><u>Step-by-Step Guide: Obtaining Your Android Device's User Manual</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-restoring-lost-android-phone-numbers/"><u>Step-by-Step Guide: Restoring Lost Android Phone Numbers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-your-default-browser-app-on-android-devices/"><u>Step-by-Step Guide: Switching Your Default Browser App on Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-rebranding-of-nokia-introducing-the-latest-evolution-in-its-visual-identity/"><u>The Rebranding of Nokia: Introducing the Latest Evolution in Its Visual Identity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/to-case-or-not-to-case-do-ios-and-android-devices-really-benefit-from-an-extra-shell/"><u>To Case or Not to Case: Do iOS & Android Devices Really Benefit From an Extra Shell?</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-g2-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo G2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/system-failure-spooler-issue-on-workstation/"><u>[SYSTEM FAILURE] Spooler Issue on Workstation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-peeling-back-layers-what-hides-beneath-each-snapchat-emoji-in-2024/"><u>[Updated] Peeling Back Layers What Hides Beneath Each Snapchat Emoji, In 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-and-crafting-your-essential-guide-to-gopro-4k-edits-for-2024/"><u>Capturing and Crafting Your Essential Guide to GoPro 4K Edits for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-converting-and-downloading-your-favorite-acast-podcasts-in-various-audio-formats/"><u>Comprehensive Guide: Converting and Downloading Your Favorite Acast Podcasts in Various Audio Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engaging-podcast-openers-captivating-intro-lines/"><u>Engaging Podcast Openers Captivating Intro Lines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-computer-hardware-by-tom/"><u>Expert Analysis of Computer Hardware by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-with-toms-hardware-guide/"><u>Expert Insights on Gadgets with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-tom-comprehensive-guides-and-insights/"><u>Exploring Computer Hardware with Tom - Comprehensive Guides & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computing-gear-with-tom-in-depth-hardware-analysis/"><u>Exploring Computing Gear with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-tech-equipment-the-ultimate-guide-by-tom-hardware/"><u>Exploring High-Tech Equipment - The Ultimate Guide by Tom Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-cutting-edge-8k-sonic-mini-s-resin-printer-by-phrozen-at-an-unbeatable-low-of-325/"><u>Get the Cutting-Edge 8K Sonic Mini S RESIN Printer by Phrozen at an Unbeatable Low of $325!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-bambu-lab-x1-carbon-3d-printer-the-industrys-top-performer/"><u>In-Depth Analysis of Bambu Lab X1-Carbon 3D Printer: The Industry's Top Performer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptrons-deceitful-tactics-unveiled-counterfeit-software-keys-for-new-screen-gadgets/"><u>Lamptron's Deceitful Tactics Unveiled – Counterfeit Software Keys for New Screen Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/low-cost-tech-fun-design-and-assemble-your-own-animation-ready-3d-printer-shaped-charger-with-bambu-labs-at-under-50/"><u>Low-Cost Tech Fun: Design and Assemble Your Own Animation-Ready 3D Printer Shaped Charger with Bambu Labs at Under $50</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-8-best-stop-motion-animation-software-for-mac-and-windows/"><u>New 8 Best Stop Motion Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplify-collaboration-with-mematics-cloud-notes/"><u>Simplify Collaboration with Mematic’s Cloud Notes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-skype-microphone-issues-in-windows-11-step-by-step-tutorial/"><u>Solve Your Skype Microphone Issues in Windows 11 - Step by Step Tutorial</u></a></li>
 </ul></div>
 

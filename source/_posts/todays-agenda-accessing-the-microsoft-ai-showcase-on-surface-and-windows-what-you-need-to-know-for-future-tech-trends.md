@@ -1,7 +1,7 @@
 ---
 title: "Today's Agenda: Accessing the Microsoft AI Showcase on Surface and Windows – What You Need To Know for Future Tech Trends"
-date: 2024-10-15T16:19:56.766Z
-updated: 2024-10-21T02:38:20.561Z
+date: 2024-10-21T20:19:02.124Z
+updated: 2024-10-27T00:28:24.443Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,16 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +83,16 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,19 +135,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-comprehensive-guide-webp-to-jpg-conversion-secrets-for-2024/"><u>[New] Comprehensive Guide WebP to JPG Conversion Secrets for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-distinguished-choices-top-iphone-sound-artisans/"><u>[New] Distinguished Choices Top iPhone Sound Artisans</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-full-potential-share-videos-on-fb-effectively/"><u>[Updated] Unlocking Full Potential Share Videos on FB Effectively</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>2024 Approved Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-art-of-transcribing-dreams-into-movies/"><u>2024 Approved The Art of Transcribing Dreams Into Movies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-technology-insights-and-ratings-from-toms-hardware-experts/"><u>Advanced Technology Insights and Ratings From Tom's Hardware Experts</u></a></li>
-<li><a href="https://article-files.techidaily.com/choreographing-compelling-cinematic-hooks-for-2024/"><u>Choreographing Compelling Cinematic Hooks for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-and-rating-of-bambulabs-top-tier-queen-mattress-variant/"><u>Comprehensive Breakdown and Rating of BambuLab’s Top-Tier Queen Mattress Variant</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-hardware-innovations-at-toms-digest/"><u>Discover the Latest in Hardware Innovations at Tom's Digest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoo-saturn-4-ultra-reviewed-transforming-the-landscape-of-resin-based-3d-printing-innovations/"><u>Elegoo Saturn 4 Ultra Reviewed - Transforming the Landscape of Resin-Based 3D Printing Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-guides-by-tom-master-your-computer-components/"><u>Expert Guides by Tom: Master Your Computer Components</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 with/without SIM Card</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-complete-guide-to-producing-high-impact-youtube-intros/"><u>In 2024, The Complete Guide to Producing High-Impact YouTube Intros</u></a></li>
-<li><a href="https://techtrends.techidaily.com/vreeksommeet-omzetten-van-mef-files-gratis-konvertereer-online-met-movavi/"><u>Vreeksommeet Omzetten Van MEF Files - Gratis Konvertereer Online Met Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-navigating-the-ginger-isle-of-stardew/"><u>[New] 2024 Approved Navigating the Ginger Isle of Stardew</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-tips-for-producing-engaging-educational-content-for-youtube/"><u>[New] In 2024, Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-expert-guide-to-snagging-twitter-gifs-pc/"><u>[Updated] Expert Guide to Snagging Twitter GIFs (PC)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-asus-rog-phone-7-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Asus ROG Phone 7 to Protect Your Individual Information</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-6s-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tightening-the-focus-fine-tuning-your-roblox-experience/"><u>In 2024, Tightening the Focus Fine-Tuning Your Roblox Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-8-release-is-an-upgrade-in-your-future-now/"><u>Pixel 8 Release: Is an Upgrade in Your Future Now?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-auto-lock-on-android-devices-effective-strategies/"><u>Preventing Auto-Lock on Android Devices: Effective Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qualcomms-new-leap-forward-with-snapdragon-2nd-gen-arriving-on-widespread-android-devices/"><u>Qualcomm's New Leap Forward with Snapdragon 지급 2Nd Gen Arriving on Widespread Android Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-document-digitization-how-to-use-your-android-smartphone-camera-for-creating-pdfs/"><u>Seamless Document Digitization: How to Use Your Android Smartphone Camera for Creating PDFs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solving-the-issue-of-unpredictable-vibration-on-android-devices-a-step-by-step-guide/"><u>Solving the Issue of Unpredictable Vibration on Android Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-changing-notifications-tones-on-your-android-device/"><u>Step-by-Step Guide: Changing Notifications Tones on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-rotating-videos-easily-with-your-android-device/"><u>Step-by-Step Guide: Rotating Videos Easily with Your Android Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stills-extraction-procedure-windows-11-photos-guide-for-2024/"><u>Stills Extraction Procedure Windows 11 Photos Guide for 2024</u></a></li>
 </ul></div>
 

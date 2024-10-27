@@ -1,7 +1,7 @@
 ---
 title: "Professional Perspectives: How the Microsoft Surface Pro 8 Fares in Our Comprehensive ZDNet Assessment"
-date: 2024-10-16T05:28:29.497Z
-updated: 2024-10-20T19:26:42.694Z
+date: 2024-10-23T17:38:03.657Z
+updated: 2024-10-26T21:22:31.854Z
 tags:
   - laptops
 categories:
@@ -37,13 +37,6 @@ Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Surface Laptop 5 gets a splash of color
 
 Microsoft Surface Laptop 5 in Sage.
@@ -61,10 +54,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -86,10 +79,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -107,10 +100,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -124,6 +117,13 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -171,15 +171,24 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-ai-editor.techidaily.com/1726027215274-and/"><u>「スムーズな動画接続術：カット&リンクのテクニック」</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-explore-11-budget-friendly-title-generators-for-yt/"><u>2024 Approved Explore 11 Budget-Friendly Title Generators for YT</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-hearing-tech-for-drivers-an-affordable-bluetooth-headset-unpacked/"><u>Budget Hearing Tech for Drivers: An Affordable Bluetooth Headset Unpacked</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-spark-go-2024-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark Go (2024) in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/sound-on-call-sensor-iphone-24-tech/"><u>Sound-on-Call Sensor IPhone '24 Tech</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-face-id-not-responding-try-these-14-effective-fixes-for-immediate-relief/"><u>Struggling with iPhone's Face ID Not Responding? Try These 14 Effective Fixes for Immediate Relief</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-truth-about-the-rattling-sounds-from-noctuas-new-nh-d15-g2-air-cooler-a-comprehensive-look/"><u>The Truth About the Rattling Sounds From Noctua's New NH-D15 G2 Air Cooler - A Comprehensive Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-partitioning-items-for-successful-3d-print-jobs/"><u>The Ultimate Guide to Partitioning Items for Successful 3D Print Jobs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-microsd-cards-for-your-raspberry-pi-needs-2024-edition/"><u>The Ultimate Selection of MicroSD Cards for Your Raspberry Pi Needs - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-part-reviews-and-advice/"><u>Tom's Computer Part Reviews and Advice</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-photo-funnies-the-ultimate-guide-to-chuckles-and-tech/"><u>[New] 2024 Approved Photo Funnies The Ultimate Guide to Chuckles & Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-access-to-nba-live-gameplay-with-these-15-tips/"><u>[New] Unlock Access to NBA Live Gameplay with These 15 Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262308673-amd-ryzen-5-7600x-cpu-hits-low-price-of-174-at-newegg-dont-miss-out/"><u>AMD Ryzen 5 7600X CPU Hits Low Price of $174 at Newegg – Don’t Miss Out</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-online-cameras-for-video-chat-and-streaming-experience/"><u>Best Online Cameras for Video Chat & Streaming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-the-elegoo-neptune-4-max-sizing-up-its-performance-and-issues/"><u>Comprehensive Analysis of the Elegoo Neptune 4 Max: Sizing Up Its Performance & Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-gadgets-and-pc-building-at-toms-hardware/"><u>Discover the Latest in Gadgets and PC Building at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-overview-of-the-sk1-two-trees-chip-unveiling-its-rapid-community-driven-capabilities/"><u>Exclusive Overview of the SK1 Two Trees Chip: Unveiling Its Rapid, Community-Driven Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-strategies-for-eliminating-zits-and-blobs-in-3d-print-production/"><u>Expert Strategies for Eliminating Zits and Blobs in 3D Print Production</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dslr-or-mirrorless-for-high-quality-video-recording/"><u>In 2024, DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-confirms-13th-and-14th-generation-cpus-experience-crashes-unrelated-bug-causes-compared-to-desktops/"><u>Intel Confirms 13Th & 14Th Generation CPUs Experience Crashes: Unrelated Bug Causes Compared to Desktops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-reactivation-process-for-an-insta-disabled-or-deactivated-username/"><u>Navigating the Reactivation Process for an Insta-Disabled or Deactivated Username</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-far-cry-6-installation-issues-on-pc/"><u>Resolved: Fixes for Far Cry 6 Installation Issues on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-high-performance-computing-experience-unprecedented-power-with-amperes-latest-innovation-the-512-core-ampereone-aurora-processor-featuring-c27/"><u>Revolutionizing High-Performance Computing: Experience Unprecedented Power with Ampere's Latest Innovation, the 512-Core AmpereOne Aurora Processor, Featuring Customized AI Engines and HBM Memory Optimization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/samsung-ue590-review-top-tier-4k-uhd-tv-for-gamers/"><u>Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-review/"><u>The Ultimate Guide to Computer Hardware by Tom's Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
 

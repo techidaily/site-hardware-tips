@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Best SSDs for Gamers on PC, PS5, and Xbox | Insights From ZDNET
-date: 2024-10-14T17:06:24.700Z
-updated: 2024-10-20T22:42:24.141Z
+date: 2024-10-19T22:05:23.783Z
+updated: 2024-10-26T22:30:46.025Z
 tags:
   - laptops
 categories:
@@ -31,16 +31,10 @@ Keep in mind that you can only access these online deals and Costco's warehouse 
 * [Executive Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=h1OXv6tU3UkMLZWjDFxv%2FQCkaCGx65GC4BFsg8cXQfxkOkvgo6ALO%2Bl6ejb71sRxEBtFqB1SJq%2F1gW68DYBbGEzOo84201p4iK0Cyq%2FU3NaO%2BI0oWIsB%2B2v2xwjhURsu8Y0R2K685otVKnbYQ6fcPQNT%2FY1UhiqNBzuKDHglFjo7zSgvD8Yh6M%2F5J0XOECfkfaKZ%2FUphCOFrecBhX%2FrYipxztA0naD%2FeVuf9ykUqYl6grkgrx93XzMWi7Qs238bZK%2BgNSeyxdXBi0r18zamgB%2BAkpSuQQlNza4qXd3eJk7Q%3D&ddkey=http%3AManageShoppingCartCmd) $120 annual fee, valid at all Costco locations worldwide, annual 2% cash back on Costco purchases
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Latest Costco Cyber Monday deals still available**
@@ -57,13 +51,6 @@ Many of these deals have been available on and off since Black Friday, but we're
 * [CyberPower 1500VA Uninterruptible power supply (UPS) for $149 (Save $30)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/cyberpower-1500va--900watts-true-sine-wave-uninterruptible-power-supply-%28ups%29.product.100527623.html)
 * [Ring Stick Up Cam (3-Pack) for $200 (save $50)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-stick-up-cam-battery-%283rd-gen%29-%2b-mounts---3-pack.product.100572894.html)
 * [LG 23 cu ft side-by-side Refrigerator for $1400 (save $250)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/.product.4000037861.html)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Best Costco Cyber Monday deals still available**
 
@@ -122,10 +109,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Samsung 55-inch OLED S95B Series 4K TV for $1,700 (save $450) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-55%22-class---oled-s95b-series---4k-uhd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.4000045530.html)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Costco Cyber Monday laptop & computer deals still available**
@@ -144,13 +131,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [MSI Aegis RS Gaming Desktop for $3,600 (Save $400) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/msi-aegis-rs-gaming-desktop---intel-core-i9-12900kf----geforce-rtx-3080ti.product.100847630.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday streaming device deals still available**
 
 [Chromecast (2-Pack) for $70 (Save $10) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/chromecast-with-google-tv-%284k%29%2c-2-pack.product.4000032491.html)
@@ -164,6 +144,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Samsung Galaxy 12.4" Tab S7 + Keyboard for $460 (Save $140) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-12.4%22-tab-s7-fe-wi-fi-tablet-64gb---mystic-black---includes-keyboard.product.100792001.html)
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday headphone deals still available**
 
@@ -179,6 +166,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Apple Watch Series 8 GPS (in Silver or Midnight) for $350 (Save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-watch-series-8-gps.product.100813018.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday camera deals still available**
 
 [Arlo Essential Wire-Free Video Doorbell + Chime for $150 (save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/arlo-essential-wire-free-video-doorbell-with-chime-2-bundle.product.100840477.html)
@@ -186,13 +180,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [GoPro Hero10 action camera bundle for $340 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/gopro-hero10-black-action-camera-bundle.product.100946503.html)
 
 [Google Nest Cam 3-Pack for $300 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/google-nest-cam-%28outdoor-or-indoor%2c-battery%29-3-pack.product.100798317.html)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday smart home deals still available**
 
@@ -202,22 +189,15 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best Costco membership type?
@@ -244,6 +224,13 @@ Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals
 ## When was Cyber Monday 2022?
 
 Cyber Monday takes place on the next Monday following the Thanksgiving holiday and Black Friday. This year it was on November 28, 2022\. We combed through all the best Cyber Monday deals as the day went on, to bring you the latest ones available.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When was Black Friday 2022?
 
@@ -299,6 +286,19 @@ Our experts split out the best deals by retailer, brand, and category, which you
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Cyber Monday live blog deals still available**
 
 Finally, if you'd like to see the Cyber Monday deals from our live blog:
@@ -347,22 +347,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-best-windows-music-managers/"><u>[Updated] Best Windows Music Managers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-capture-winmac-tools-to-record-desktop-screens/"><u>2024 Approved Effortless Capture Win/Mac Tools to Record Desktop Screens</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728476135045-windows-11/"><u>効率的にWindows 11上のローレベルフォーマット方法を学ぶ</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dji-inspire-2-complete-evaluation/"><u>DJI Inspire 2 Complete Evaluation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-11x-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme 11X 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-a-users-unwavering-affection/"><u>In-Depth Analysis of the Huawei P30 Pro: A User's Unwavering Affection</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mp4-mpd/"><u>MP4形式への変換: MPD ファイルを簡単に移行する方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/surfers-choice-ultimate-cam-tech-review-2023/"><u>Surfer’s Choice Ultimate Cam Tech Review 2023</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-essential-guide-to-choosing-a-garmin-venu-for-holistic-health-tracking/"><u>The Essential Guide to Choosing a Garmin Venu for Holistic Health Tracking</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/this-weeks-tech-highlights-discontinuation-of-netflix-basic-plan-and-improved-strategies-for-iphone-fixes/"><u>This Week's Tech Highlights: Discontinuation of Netflix Basic Plan & Improved Strategies for iPhone Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-pitfalls-in-designing-your-intelligent-residence-tips-for-effective-smart-home-planning/"><u>Top 10 Pitfalls in Designing Your Intelligent Residence: Tips for Effective Smart Home Planning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-expectations-from-nvidias-revolutionary-arm-based-cpu-architecture/"><u>Top 5 Expectations From NVIDIA's Revolutionary ARM-Based CPU Architecture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-leading-network-attached-storage-nas-solutions-optimized-for-plex/"><u>Top Picks: Leading Network-Attached Storage (NAS) Solutions Optimized for Plex</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-pro-11-protective-covers-shop-now/"><u>Top Rated iPad Pro 11 Protective Covers - Shop Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-bargains-secure-playstation-vr-for-only-690-high-quality-airpods-at-a-steal-and-reliable-anker-power-stations/"><u>Top Tech Bargains: Secure PlayStation VR² for Only $690, High-Quality AirPods at a Steal, and Reliable Anker Power Stations!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-photo-scanners-the-ultimate-buyers-guide/"><u>Top-Rated Photo Scanners : The Ultimate Buyer's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-audio-experience-with-a-switch-from-stereo-to-immersive-spatial-headphones/"><u>Transform Your Audio Experience with a Switch From Stereo to Immersive Spatial Headphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-video-conferencing-on-xbox-one/"><u>[New] Mastering the Art of Video Conferencing on Xbox One</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-safeguard-against-youtube-prohibitions/"><u>[Updated] 2024 Approved How to Safeguard Against Youtube Prohibitions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-digiarty-softwares-compliance-with-specific-trade-regulations-an-in-depth-guide/"><u>1. Digiarty Software's Compliance with Specific Trade Regulations: An In-Depth Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-mute-malfunction-fix-your-games-sound-on-windows-1nk-11/"><u>Anthem Mute Malfunction? Fix Your Game's Sound on Windows 1Nk 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-computer-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-wireless-gaming-headsets-budget-friendly-options-and-premium-features/"><u>Top Picks for Wireless Gaming Headsets : Budget-Friendly Options & Premium Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-cpu-thermal-pastes-of-2024-a-comprehensive-review-of-90-brands/"><u>Top-Ranked CPU Thermal Pastes of 2024: A Comprehensive Review of 90 Brands</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-photography-potential-with-lightroom-hdrs/"><u>Unleashing Photography Potential with Lightroom HDRs</u></a></li>
 </ul></div>
 

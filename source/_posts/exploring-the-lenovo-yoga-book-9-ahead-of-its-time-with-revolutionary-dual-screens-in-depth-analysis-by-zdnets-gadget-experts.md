@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Lenovo Yoga Book 지이9: Ahead of Its Time with Revolutionary Dual Screens | In-Depth Analysis by ZDNET's Gadget Experts"
-date: 2024-10-20T05:42:12.321Z
-updated: 2024-10-21T03:05:29.781Z
+date: 2024-10-21T00:32:11.915Z
+updated: 2024-10-26T18:54:38.567Z
 tags:
   - laptops
 categories:
@@ -51,10 +51,10 @@ Ultimately, does what you see above really seem more practical and usable than a
 Asus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Explore
@@ -86,10 +86,10 @@ Lenovo
 Of course, even this form factor, which seems like the most objectively usable way to take a dual-screen setup on the go, still requires some adjustment. The detachable Bluetooth keyboard will require you to lug along an extra accessory, and you'll still be limited to using the dual touchscreens or the optional Lenovo stylus for input, unless you also bring a mouse. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -101,10 +101,10 @@ Luckily, even if you forget everything else, you can still opt for an onscreen k
 As always, it'll be up to the consumers once the Yoga Book 9i comes out in June to decide if the company has finally answered the dual-screen laptop question correctly. It'll also depend on whether they think the specs, which you can find below, are worth the $2,100 asking price. If the reality of the Yoga Book 9i finally lives up to the massive potential of a truly useful dual-screen laptop, it might just be a bargain. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lenovo Yoga Book 9i specifications
@@ -166,24 +166,24 @@ As always, it'll be up to the consumers once the Yoga Book 9i comes out in June 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[New] 2024 Approved Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-a-simple-guide-changing-your-voice-in-online-battles-pubg/"><u>[New] A Simple Guide Changing Your Voice in Online Battles (PUBG)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-visual-perfection-in-videos-implementing-black-bar-and-box-on-fb/"><u>[Updated] 2024 Approved Visual Perfection in Videos Implementing Black Bar & Box on FB</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quick-tips-for-uploading-content-on-twitter/"><u>[Updated] In 2024, Quick Tips for Uploading Content on Twitter</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-boosting-views-essential-hashtags-for-trending-shorts/"><u>2024 Approved Boosting Views Essential Hashtags for Trending Shorts</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-rapid-deletion-of-youtube-feedback/"><u>In 2024, Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-photo-techniques-mastering-leading-lines/"><u>IPhone Photo Techniques Mastering Leading Lines</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-image-text-overlay-online/"><u>Step-by-Step Guide to Image Text Overlay Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-all-seeing-amazon-halo-a-fitness-companion-like-no-other-in-the-market/"><u>The All-Seeing Amazon Halo – A Fitness Companion Like No Other in the Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-nzxt-function-nv-capsule-tkl-in-depth-review-approaching-the-ultimate-gamepad/"><u>The NZXT Function Nv Capsule TKL In-Depth Review: Approaching the Ultimate Gamepad</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-strategic-pivot-of-microsoft-enhancing-the-durability-and-maintenance-of-surface-gadgets/"><u>The Strategic Pivot of Microsoft: Enhancing the Durability and Maintenance of Surface Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-unbeatable-reasons-why-investing-in-a-gaming-laptop-isnt-right-for-me-despite-their-current-advantages/"><u>The Unbeatable Reasons: Why Investing in a Gaming Laptop Isn't Right For Me, Despite Their Current Advantages</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/title-mastering-gpu-benchmarks-a-step-by-step-guide-to-comparing-video-cards/"><u>Title: Mastering GPU Benchmarks: A Step-by-Step Guide to Comparing Video Cards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-innovative-tools-for-simplifying-your-life-as-a-pet-parent/"><u>Top 5 Innovative Tools for Simplifying Your Life as a Pet Parent</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-wireless-speakers-the-ultimate-buyers-guide/"><u>Top Rated Affordable Wireless Speakers : The Ultimate Buyer's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-boosting-your-ring-doorbell-usage-a-personal-expert-tips-list/"><u>Top Strategies for Boosting Your Ring Doorbell Usage - A Personal Expert Tips List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-ereader-devices-a-comprehensive-guide/"><u>Top-Ranked eReader Devices : A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transitioning-from-43-to-169-screens-impacts-on-productivity-and-daily-routines/"><u>Transitioning From 4:3 to 16:9 Screens: Impacts on Productivity & Daily Routines</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tips-for-crafting-impactful-video-thumbnails-on-youtube/"><u>[Updated] 2024 Approved Tips for Crafting Impactful Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-8-truly-effective-video-marketing-strategies-for-2024/"><u>[Updated] Exploring 8 Truly Effective Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>[Updated] Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-the-art-of-sowing-and-cultivation-in-valheim-for-2024/"><u>[Updated] Master the Art of Sowing and Cultivation in Valheim for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-processor-selections-for-enhanced-workstation-efficiency/"><u>2024'S Leading Processor Selections for Enhanced Workstation Efficiency</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ai-i-apologize-for-the-confusion-but-it-seems-there-was-a-typo-in-my-previous-response-here-are-5-corrected-and-improved-seo-titles-suitable-for-google-sear295/"><u>AI: I Apologize for the Confusion, but It Seems There Was a Typo in My Previous Response. Here Are 5 Corrected and Improved SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Download Toshiba Copier Drivers in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anime-inspired-valkyrie-vind-sl125-a-review-of-style-vs-substance-performance/"><u>Anime-Inspired Valkyrie Vind SL125 - A Review of Style Vs. Substance Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-stringing-frustrations-expert-advice-on-flawless-3d-printing/"><u>Avoiding Stringing Frustrations: Expert Advice on Flawless 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-ek-solutions-all-in-one-cpu-cooling-system-delivers-remarkable-improvement-for-13900ks/"><u>Beat the Heat: EK Solutions' All-in-One CPU Cooling System Delivers Remarkable Improvement for 13900KS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/budget-friendly-ways-to-connect-your-ipad-with-laptop-or-desktop-for-seamless-screen-sharing/"><u>Budget-Friendly Ways to Connect Your iPad with Laptop or Desktop for Seamless Screen Sharing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-evaluation-chilled-delights-playback-tools-for-2024/"><u>Expert Evaluation Chilled Delights Playback Tools for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/proven-pc-strategies-elevating-video-quality-and-engagement-on-youtube-for-2024/"><u>Proven PC Strategies Elevating Video Quality and Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-bluetooth-mice-of-2024-boost-your-work-efficiency/"><u>Top-Rated Portable Bluetooth Mice of 2024: Boost Your Work Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tryx-from-china-introduces-a-revolutionary-aio-pc-cooler-featuring-innovative-curved-amoled-screen/"><u>Tryx From China Introduces a Revolutionary AIO PC Cooler Featuring Innovative Curved AMOLED Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125167851-unbelievable-bargain-alert-get-your-hands-on-the-budget-friendly-thrifty-beginner-4k-resin-printer-for-just-half-price-this-black-friday/"><u>Unbelievable Bargain Alert: Get Your Hands On The Budget-Friendly 'Thrifty Beginner 4K Resin' Printer for Just Half Price This Black Friday!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-high-tech-secrets-with-toms-comprehve-hewrdie-guide/"><u>Unlocking High-Tech Secrets with Tom's Comprehve Hewrdie Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125241981-why-you-need-a-super-light-gan-interior-usb-c-charger-for-your-laptop-top-picks/"><u>Why You Need a Super Light GaN Interior USB-C Charger for Your Laptop - Top Picks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-masterclass-choose-your-development-stage/"><u>YouTube Masterclass Choose Your Development Stage</u></a></li>
 </ul></div>
 

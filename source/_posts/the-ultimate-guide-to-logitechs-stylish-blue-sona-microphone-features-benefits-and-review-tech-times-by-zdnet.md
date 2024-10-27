@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Logitech's Stylish Blue Sona Microphone: Features, Benefits & Review - Tech Times by ZDNet"
-date: 2024-09-19 17:44:33
-updated: 2024-09-20 11:45:28
+date: 2024-10-21T21:36:42.338Z
+updated: 2024-10-26T16:07:13.788Z
 tags:
   - streaming-devices
 categories:
@@ -62,11 +62,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,28 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensive-list-of-top-10-video-communication-apps-for-2024/"><u>[New] A Comprehensive List of Top 10 Video Communication Apps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-beam-bright-navigating-the-world-of-snapchat-gifs-for-2024/"><u>[New] Beam Bright Navigating the World of Snapchat GIFS for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-counteract-crashes-in-win-11s-photo-viewer/"><u>[New] In 2024, How to Counteract Crashes in Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-origami-homes-in-minecraft-japanese-vistas/"><u>[New] In 2024, Origami Homes in Minecraft Japanese Vistas</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-nvidias-geforce-now-error-code-xc0f1103f/"><u>Fixing NVIDIA's GeForce Now Error Code: Xc0f1103f</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/give-your-mac-a-facelift-effective-steps-for-restoring-performance-and-vitality/"><u>Give Your Mac a Facelift: Effective Steps for Restoring Performance and Vitality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-camon-20-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Camon 20 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-a-dive-into-toms-hardware-findings/"><u>Inside the World of Technology: A Dive Into Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-insights-from-toms-comprehensive-hardware-analysis/"><u>Navigating the Tech World: Insights From Tom’s Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-expertise/"><u>Navigating the World of Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-the-perfect-ultrawide-display-for-gamers/"><u>Selecting the Perfect Ultrawide Display for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-mice-of-2024-enhance-efficiency-with-ultimate-portability/"><u>Top-Rated Wireless Mice of 2024: Enhance Efficiency with Ultimate Portability</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-open-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus Open Screen | Dr.fone</u></a></li>
+</ul></div>
+

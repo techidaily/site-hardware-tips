@@ -1,7 +1,7 @@
 ---
 title: Guide to Preordering iPhone 15 and Apple Watch S9 Ultra II with Amazing Discounts – Tips From ZDNet Experts
-date: 2024-09-18 16:31:21
-updated: 2024-09-20 12:37:17
+date: 2024-10-25T18:15:21.005Z
+updated: 2024-10-26T18:57:10.164Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-get-more-video-views-on-youtube/"><u>[New] 2024 Approved How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-6-mac-methods-for-recording-live-tv-shows-like-netflix-for-2024/"><u>[Updated] The Ultimate 6 Mac Methods for Recording Live TV Shows Like Netflix for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-fortnites-challenge-fixing-error-84-and-restoring-your-team-play-capability/"><u>Conquering Fortnite's Challenge: Fixing Error 84 and Restoring Your Team Play Capability</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-c67-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme C67 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-14-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 14 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-epitome-of-hd-recording-curated-list-unveiled/"><u>In 2024, The Epitome of HD Recording Curated List Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computing-gear-expert-insights-and-opinions/"><u>Inside Tom's Computing Gear: Expert Insights & Opinions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-minisforums-new-portable-gaming-laptop-156-144hz-full-hd-display-at-just-189/"><u>Introducing Minisforum's New Portable Gaming Laptop: 15.6 144Hz Full HD Display at Just $189</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-44-discount-on-the-27-pixel-dense-viewfinity-samsung-monitor-wbuilt-in-4k-webcam-now-at-899/"><u>Massive 44% Discount on the 27 Pixel-Dense ViewFinity Samsung Monitor W/Built-In 4K Webcam - Now at $899</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-tech-in-depth-reviews-from-toms-hardware/"><u>Master the World of Tech: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-components-with-toms-hardware-insights/"><u>Mastering Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nook-glowlight-3-by-barnes-and-noble-ultimate-review-for-evening-readers/"><u>Nook GlowLight 3 by Barnes & Noble: Ultimate Review for Evening Readers</u></a></li>
+</ul></div>
+

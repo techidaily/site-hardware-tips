@@ -1,7 +1,7 @@
 ---
 title: "Wearable Wars: In-Depth Comparison of the Newest Smartwatches - Google Pixel Vs. Apple Watch Series 9 | ZDNET"
-date: 2024-09-18 23:10:20
-updated: 2024-09-20 10:40:35
+date: 2024-10-21T20:29:28.545Z
+updated: 2024-10-26T17:50:38.229Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-tiny-screenplay-scheme/"><u>[New] 2024 Approved Tiny Screenplay Scheme</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-picking-between-filmora-and-democracy-creator-for-edits-for-2024/"><u>[New] Picking Between Filmora and Democracy Creator for Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-web-add-on-fb-stories-repository-app/"><u>[New] Web Add-On FB Stories Repository App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/849-portable-e-ink-color-monitor-with-12-inches-of-quality-display-introducing-the-us-market-dasung-paperlike/"><u>$849, Portable E-Ink Color Monitor with 12 Inches of Quality Display - Introducing the U.S.-Market Dasung Paperlike</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1-transfert-facile-de-jeux-steam-vers-un-nouveau-disque-dur-ou-ssd/"><u>1. Transfert Facile De Jeux Steam Vers Un Nouveau Disque Dur Ou SSD</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-exploration-by-tom-top-picks-and-advice/"><u>Advanced Hardware Exploration by Tom - Top Picks and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-toms-equipment-experts/"><u>Advanced PC Insights From Tom's Equipment Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-system-analysis-with-toms-hardware-experts/"><u>Advanced System Analysis with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-and-reviews-at-toms-technology-page/"><u>Advanced Tips and Reviews at Tom's Technology Page</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrocks-stunning-32-oled-display-crystal-clear-at-480hz-a-visual-delight/"><u>ASROCK's Stunning 32 OLED Display: Crystal Clear at 480Hz - A Visual Delight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behold-the-crown-jewel-of-ultra-high-end-monitors-asus-groundbreaking-8k-mini-led-proart-display-featuring-stunning-1200-nit-brightness-and-unprecedented-4060/"><u>Behold the Crown Jewel of Ultra High-End Monitors: Asus' Groundbreaking 8K Mini LED ProArt Display, Featuring Stunning 1200 Nit Brightness & Unprecedented 4096 Lighting Zones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-gaming-displays-ultra-hd-samsungs-gen-2-odyssey-for-gamers-now-more-accessible-than-ever/"><u>Breakthrough in Gaming Displays: Ultra HD Samsung's Gen 2 Odyssey for Gamers - Now More Accessible Than Ever!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-30-best-freefire-tagshashtags-for-youtube/"><u>In 2024, 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitechs-ultimate-driving-experience-driving-force-gt-driver-download-for-windows-71011-now-available/"><u>Logitech's Ultimate Driving Experience: Driving Force GT Driver Download for Windows 7/10/11 Now Available!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-itunes-library-into-mp3-format-discover-our-easy-two-step-solutions/"><u>Transform Your iTunes Library Into MP3 Format: Discover Our Easy Two-Step Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-virality-mastering-the-art-of-influential-content-for-2024/"><u>Unlocking Virality Mastering the Art of Influential Content for 2024</u></a></li>
+</ul></div>
+

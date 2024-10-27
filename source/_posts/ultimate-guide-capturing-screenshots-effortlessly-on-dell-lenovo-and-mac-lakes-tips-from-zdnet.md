@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Screenshots Effortlessly on Dell, Lenovo & Mac Lakes - Tips From ZDNet"
-date: 2024-10-18T23:12:31.411Z
-updated: 2024-10-20T17:20:51.037Z
+date: 2024-10-19T17:59:48.123Z
+updated: 2024-10-27T01:19:07.221Z
 tags:
   - laptops
 categories:
@@ -28,13 +28,40 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -60,14 +87,14 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -81,29 +108,9 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -114,13 +121,6 @@ MacOS also has its own way to capture a portion of the display. Simply press Shi
 These are the three keys you'll need to press at once on a mac to take a standard screenshot.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -133,10 +133,10 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -178,21 +178,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-dos-and-donts-of-adding-tags-to-youtube-videos/"><u>[New] The Do's and Don'ts of Adding Tags to YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-reverse-trick-in-android-filmmaking/"><u>[Updated] 2024 Approved The Reverse Trick in Android Filmmaking</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-narrative-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>[Updated] Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-views-top-14-gaming-video-ideas-that-work/"><u>Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immersive-tech-critical-review-of-vr-gadgets/"><u>Immersive Tech Critical Review of VR Gadgets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-top-editors-for-youtube-writers-and-creators-all-free/"><u>In 2024, Top Editors for YouTube' Writers and Creators - All Free!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-3060-ti-graphics-card-driver-version-for-windows-11/"><u>Latest GeForce RTX 3060 Ti Graphics Card Driver Version for Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/multi-color-printing-breakdown-a-closer-look-at-the-anycubic-kobra-3/"><u>Multi-Color Printing Breakdown - A Closer Look at the Anycubic Kobra 3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-2024s-best-gaming-displays-cost-effective-curved-panels-and-adaptive-sync-technology/"><u>Navigate Through 2024'S Best Gaming Displays: Cost-Effective, Curved Panels and Adaptive Sync Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-devices-with-toms-guide-to-hardware/"><u>Navigating New Devices with Tom's Guide to Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-tips-and-tricks-from-toms-world-of-hardware/"><u>Navigating New Technology: Tips and Tricks From Tom's World of Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/performance-evaluation-how-effective-is-the-lian-li-galahad-ii-aio-cooling-system-on-an-intel-core-i7-14900k/"><u>Performance Evaluation: How Effective Is the Lian Li Galahad II AIO Cooling System on an Intel Core I7 14900K?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-computing-tips-from-tom-decoding-hardware-specs/"><u>Precision Computing Tips From Tom: Decoding Hardware Specs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/prime-video-the-twitterspheres-favorite-shows-of-23-for-2024/"><u>Prime Video The Twittersphere's #Favorite Shows of '23 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-cpu-cooling-with-our-10k-3d-printed-liquid-nitrogen-vessel-triple-the-speed/"><u>Revolutionize Your CPU Cooling with Our $10K 3D Printed Liquid Nitrogen Vessel - Triple the Speed</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1726228169284-wmamp4-movavi/"><u>WMAファイルの無料オンラインMP4変換 - Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mixease-mac-and-windows-unifier/"><u>[New] MIXEase Mac & Windows Unifier</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-filmmakers-first-steps-learning-15-fundamental-shots/"><u>[New] The Filmmaker's First Steps Learning 15 Fundamental Shots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-subtitled-freely-top-10-tools-for-youtubes-text-extractors/"><u>[Updated] 2024 Approved Subtitled Freely Top 10 Tools for YouTube's Text Extractors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>2024 Approved Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-gamers-keyboard-our-verdict-on-full-size-half-tkl-and-mini-options/"><u>Choosing the Right Gamers' Keyboard : Our Verdict on Full-Size, Half (TKL) & Mini Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-curated-by-toms-team/"><u>Comprehensive Hardware Guides Curated by Tom's Team</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easy-steps-to-copy-hdd-to-ssd-msata-in-windows-8107/"><u>Easy Steps to Copy HDD to SSD mSATA in Windows 8/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-electronics-with-tom-a-deep-dive-into-hardware-reviews/"><u>Exploring Electronics with Tom: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-cards-for-ultra-hd-content-creation-for-2024/"><u>Ideal Cards for Ultra-HD Content Creation for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travellers-guide-sharing-past-photos-as-snaps/"><u>In 2024, Time Traveller's Guide - Sharing Past Photos as Snaps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-electronics-with-toms-expert-hardware-analysis/"><u>Mastering Modern Electronics with Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-gaming-bundle-sale-snag-the-powerful-aurora-r16-pc-and-impressive-34-alienware-oled-for-just-over-half-price-save-700-today/"><u>Ultimate Gaming Bundle Sale: Snag the Powerful Aurora R16 PC & Impressive 34 Alienware OLED for Just Over Half Price – Save $700 Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/valkyrie-sync-240-aio-liquid-cooler-evaluation-excellent-thermal-management-but-user-unfriendly-interface/"><u>Valkyrie Sync 240 AIO Liquid Cooler Evaluation: Excellent Thermal Management but User-Unfriendly Interface</u></a></li>
 </ul></div>
 

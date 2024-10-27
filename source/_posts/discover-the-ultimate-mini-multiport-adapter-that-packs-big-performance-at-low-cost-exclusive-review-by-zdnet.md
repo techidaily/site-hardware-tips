@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Mini Multiport Adapter That Packs Big Performance at Low Cost | Exclusive Review by ZDNET
-date: 2024-10-19T00:35:22.279Z
-updated: 2024-10-20T17:08:53.007Z
+date: 2024-10-20T17:57:30.834Z
+updated: 2024-10-26T18:27:21.294Z
 tags:
   - laptops
 categories:
@@ -63,10 +63,10 @@ Maria Diaz/ZDNET
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $50
@@ -90,13 +90,6 @@ June Wan/ZDNET
 * [Costco membership](https://www.stacksocial.com/sales/costco-1-year-gold-star-membership-a-40-digital-costco-shop-card?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=costco-1-year-gold-star-membership-30-costco-card&utm%5Fterm=scsf-566150&utm%5Fcontent=a0x1P0000058Tp1QAE&scsonar=1&aid=a-ceempx7z): $60 (get a free $40 gift card at Stack Social)
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $69 (save $30 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday deals under $200
 
@@ -125,13 +118,6 @@ Jason Cipriani/ZDNET
 * [Nest Learning Thermostat](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-White%2F120823467&subId1=zd-__COM_CLICK_ID__-dtp): $215 (save $34 at Walmart)
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $261 (save $39 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday Apple deals
 
 Jason Hiner/ZDNET
@@ -146,6 +132,13 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -158,6 +151,13 @@ Beth Mauder/ZDNET
 * [Shark IQ Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-IQ-Robot-Self-Empty-XL-Vacuum-with-Self-Empty-Base-Home-Mapping-RV1002AE-New%2F875128326&subId1=zd-__COM_CLICK_ID__-dtp): $249 (save $351 at Walmart)
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday TV deals
 
@@ -173,13 +173,6 @@ June Wan/ZDNET
 * [Samsung The Frame 55-inch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-55-Class-LS03B-The-Frame-QLED-4K-Smart-TV-QN55LS03BAFXZA-New%2F944779027&subId1=zd-__COM_CLICK_ID__-dtp): $1,059 (save $441 at Walmart)
 * [TCL 55-inch Q6 QLED Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTCL-55-Inch-55Q650F-Streaming-Television%2Fdp%2FB0C1J581SJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $350 (save $150 at Amazon)
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $450 (save $150 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday smartwatch deals
 
@@ -215,6 +208,13 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy A54 128GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Factory-Unlocked-Android-Smartphone%2Fdp%2FB0BSLR2L5R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $399 (save $50 at Amazon)
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cedeaa6f7-1308-4225-a044-261ef59a59f6%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals
 
 Jason Hiner/ZDNET
@@ -227,10 +227,10 @@ Jason Hiner/ZDNET
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday tablet deals
@@ -318,20 +318,17 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-enhanced-visual-fidelity-with-srgb/"><u>[New] Enhanced Visual Fidelity with Srgb</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamline-your-screencast-the-best-obs-tools-insider-tips/"><u>[New] In 2024, Streamline Your Screencast The Best OBS Tools Insider Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-becoming-an-economic-force-a-guide-to-earning-on-youtube-for-2024/"><u>[Updated] Becoming an Economic Force A Guide to Earning on YouTube for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cloud-marketplace-dissecting-cost-structures/"><u>[Updated] Cloud Marketplace Dissecting Cost Structures</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked/"><u>[Updated] Speech Logging Made Easy on Mac The Top 5 Tools Tested & Ranked</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-temperature-control-cooler-master-leads-the-way-with-aio-and-air-coolers-capable-of-dissipating-well-over-300w-of-thermal-energy/"><u>Cutting-Edge Temperature Control: Cooler Master Leads the Way with AIO and Air Coolers Capable of Dissipating Well Over 300W of Thermal Energy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-gadgets-and-pcs-with-toms-hardware-insights/"><u>Discover the Latest in Gadgets and PCs with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-electronics-from-toms-technology-review/"><u>Expert Advice on Electronics From Tom's Technology Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-banking-securing-premium-stock-graphics/"><u>In 2024, Image Banking Securing Premium Stock Graphics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175723086-optimize-your-edge-ai-systems-with-three-in-one-freeze-intro-airjet-pak-cooling-for-efficiency-at-25wplus/"><u>Optimize Your Edge AI Systems with Three-in-One Freeze Intro: AirJet PAK Cooling for Efficiency at 25W+.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-fallout-76-for-pc-ensuring-your-gpu-works-with-windows-11/"><u>Optimizing Fallout 76 for PC: Ensuring Your GPU Works with Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-creating-your-own-3d-qr-code-printer/"><u>Step-by-Step Guide: Creating Your Own 3D QR Code Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125165974-the-thrifty-beginner-4k-resin-revolution-unleash-your-creativity-with-a-staggering-44-off-this-black-friday/"><u>The 'Thrifty Beginner 4K Resin' Revolution: Unleash Your Creativity with a Staggering 44% Off This Black Friday</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-pro-level-iphone-landscape-tips/"><u>Unlocking the Secrets Pro-Level iPhone Landscape Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>Updated 2024 Approved The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crack-the-code-of-imagerys-roots-with-our-reverse-analysis-tools-for-instagram/"><u>[Updated] Crack the Code of Imagery's Roots with Our Reverse Analysis Tools for Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-best-full-screen-recorder-for-pc-and-mac/"><u>[Updated] In 2024, Best Full Screen Recorder for PC and Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860481417-updated-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[Updated] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-tailors-high-performance-motherboard-designed-to-overclock-chinas-homegrown-kx-7000-cpu-by-quarter-percentage-point/"><u>Asus Tailors High-Performance Motherboard Designed to Overclock China’s Homegrown KX-7000 CPU by Quarter Percentage Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-your-own-slim-htpc-with-the-elegant-asrock-am5-mini-itx-board-x600tm-itx/"><u>Build Your Own Slim HTPC with the Elegant ASRock AM5 Mini-ITX Board - X600TM-ITX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-computers-made-easy-with-diy-compatible-motherboards-no-expertise-needed/"><u>Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise Needed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-pc-connectivity-usb-20-to-local-lan/"><u>Direct PC Connectivity - USB 2.0 to Local LAN</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-gadgets-and-hardware-with-toms-technology-insights/"><u>Discover Top-Notch Gadgets and Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-open-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Open Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/recuperar-dados-apagados-no-windows-11-guia-gratuito-de-5-estrategias/"><u>Recuperar Dados Apagados No Windows 11: Guia Gratuito De 5 Estratégias</u></a></li>
 </ul></div>
 

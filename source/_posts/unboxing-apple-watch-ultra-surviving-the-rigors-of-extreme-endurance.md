@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Apple Watch Ultra: Surviving the Rigors of Extreme Endurance"
-date: 2024-09-17 11:18:56
-updated: 2024-09-20 12:35:27
+date: 2024-10-22T00:04:40.210Z
+updated: 2024-10-26T19:32:35.341Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-proven-strategies-for-professional-green-screen-filming/"><u>[New] Proven Strategies for Professional Green Screen Filming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-boosting-your-snapchat-presence-with-easy-voice-modification-tricks-for-2024/"><u>[Updated] Boosting Your Snapchat Presence with Easy Voice Modification Tricks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-pursuit-for-full-viewable-content-from-friends-on-direct-chat-platforms/"><u>[Updated] Pursuit for Full Viewable Content From Friends on Direct Chat Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-finest-economical-3d-printers-with-superior-print-quality-for-a-budget-friendly-choice/"><u>2024'S Finest Economical 3D Printers with Superior Print Quality for a Budget-Friendly Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-step-by-step-guide-transforming-your-fbx-models-into-compatible-obj-files-for-3d-printing/"><u>A Step-by-Step Guide: Transforming Your FBX Models Into Compatible OBJ Files for 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gadget-analysis-by-toms-hardware-specialists/"><u>Advanced Gadget Analysis by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-unveils-the-ultra-performing-amd-ryzen-desktop-introducing-deskmini-x600-for-global-audiences-on-may-24/"><u>ASRock Unveils the Ultra-Performing AMD Ryzen Desktop - Introducing DeskMini X600 for Global Audiences on May 24</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-virtual-reality-headsets-of-2023-for-enhanced-pc-gaming/"><u>Best Virtual Reality Headsets of 2023 for Enhanced PC Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-akasa-gecko-hs-series-effective-blower-cooler-for-enhanced-ssd-performance/"><u>Comprehensive Review of the Akasa Gecko HS Series: Effective Blower Cooler for Enhanced SSD Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-evaluations-of-processors-and-storage-solutions-at-toms-tech-space/"><u>Detailed Evaluations of Processors & Storage Solutions at Tom's Tech Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-potential-of-claude-artificial-intelligence-systems/"><u>Harnessing the Potential of Claude Artificial Intelligence Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y17s-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y17s Phones? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/saving-on-setups-a-review-of-low-cost-tv-mounting/"><u>Saving on Setups: A Review of Low-Cost TV Mounting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-economics-of-3d-printers-strategies-for-accurate-cost-estimation/"><u>The Economics of 3D Printers: Strategies for Accurate Cost Estimation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-8-best-video-calling-app-for-windows/"><u>Top 8 Best Video Calling App for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-high-performance-pc-builds-wisdom-from-toms-hq/"><u>Unveiling High-Performance PC Builds - Wisdom From Tom's HQ</u></a></li>
+</ul></div>
+

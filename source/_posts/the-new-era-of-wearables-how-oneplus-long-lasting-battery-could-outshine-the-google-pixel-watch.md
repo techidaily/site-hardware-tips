@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Wearables: How OnePlus' Long-Lasting Battery Could Outshine the Google Pixel Watch"
-date: 2024-09-17 19:16:38
-updated: 2024-09-20 10:48:21
+date: 2024-10-26T00:04:07.946Z
+updated: 2024-10-26T22:24:10.761Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-buying-tips-for-high-end-360-camera-systems/"><u>[New] 2024 Approved Essential Buying Tips for High-End 360 Camera Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rush-and-reaction-sochis-speed-showdown/"><u>[New] Rush & Reaction Sochi's Speed Showdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-guilty-gear-strive-lag-issues/"><u>[SOLVED] Guilty Gear -Strive- Lag Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-conquer-the-shadows-5-ways-to-fix-black-screen-with-obs/"><u>[Updated] Conquer the Shadows 5 Ways to Fix Black Screen with OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-high-quality-online-meeting-capture-devices/"><u>[Updated] In 2024, Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-spinning-indie-podcast-hits/"><u>[Updated] The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/creating-engaging-gaming-broadcasts-using-ai-faces-for-2024/"><u>Creating Engaging Gaming Broadcasts Using AI Faces for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-next-gen-core-ultra-k-prototype-hitting-5ghz-with-gen-4-nodes-but-falls-short-on-avx-512-support-confirmed-by-cpu-z-software/"><u>Intel's Next-Gen Core Ultra K Prototype: Hitting 5Ghz with Gen 4 Nodes but Falls Short on AVX-512 Support - Confirmed by CPU-Z Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-technology-trends-toms-expert-hardware-analysis/"><u>Navigate Through Technology Trends - Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-common-3d-printing-flaws-fixing-elephant-foot-issues-with-ease/"><u>Overcoming Common 3D Printing Flaws: Fixing Elephant Foot Issues with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-sd-videos-to-high-definition-flawlessly/"><u>Step-by-Step Guide: Converting SD Videos to High Definition Flawlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlining-presentations-captivate-techniques-for-2024/"><u>Streamlining Presentations Captivate Techniques for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-your-canon-printers-online-access/"><u>Streamlining Your Canon Printer's Online Access</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-enthusiast-acquires-early-access-to-zen-5-powered-ryzen-ebx-7-9700x-preparing-distribution-network-in-warehouses-ahead-of-official-release/"><u>Tech Enthusiast Acquires Early Access to Zen 5-Powered Ryzen Ebx 7 9700X — Preparing Distribution Network in Warehouses Ahead of Official Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-scoop-intels-panther-lake-lineup-expands-to-three-aiming-for-market-impact-post-lunar-success/"><u>Tech Scoop: Intel's Panther Lake Lineup Expands to Three, Aiming for Market Impact Post Lunar Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-blueprint-to-cost-efficiency-a-step-by-steps-approach-to-estimating-3d-print-project-investments/"><u>The Blueprint to Cost Efficiency: A Step-by-Steps Approach to Estimating 3D Print Project Investments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-formula-unveiling-the-secrets-behind-accurate-3d-printing-cost-analysis/"><u>The Ultimate Formula: Unveiling the Secrets Behind Accurate 3D Printing Cost Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-gear-and-hardware-reviews/"><u>Tom's Tech Insights: Gear and Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-insider-tips-on-tech-gear-from-toms-hardware-review-site/"><u>Ultimate Insider Tips on Tech Gear From Tom's Hardware Review Site</u></a></li>
+</ul></div>
+

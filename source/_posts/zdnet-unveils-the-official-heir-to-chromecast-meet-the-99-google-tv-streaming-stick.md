@@ -1,7 +1,7 @@
 ---
 title: ZDNet Unveils the Official Heir to Chromecast – Meet the $99 Google TV Streaming Stick!
-date: 2024-09-18 16:42:32
-updated: 2024-09-20 12:50:49
+date: 2024-10-22T17:48:29.896Z
+updated: 2024-10-26T22:35:37.301Z
 tags:
   - streaming-devices
 categories:
@@ -62,11 +62,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,28 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-record-and-share-every-victory-in-obs-for-2024/"><u>[New] Record & Share Every Victory in OBS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-room-and-pc-checklist-for-vr-for-2024/"><u>[Updated] The Ultimate Room and PC Checklist for VR for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-tech-with-toms-computing-innovations/"><u>Exploring Cutting-Edge Tech with Tom's Computing Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/foremost-joypads-for-the-switch-reviews/"><u>Foremost Joypads for the Switch Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-mastery-with-tom-in-depth-hardware-analysis-and-tips/"><u>Gadget Mastery with Tom: In-Depth Hardware Analysis and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-responses-top-techniques-unveiled/"><u>Mastering GPT Responses: Top Techniques Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-youtube-scriptwriting-utilizing-the-power-of-chatgpt-for-successful-videos/"><u>Mastering YouTube Scriptwriting: Utilizing the Power of ChatGPT for Successful Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computing-an-in-depth-look-from-toms-perspective/"><u>Navigating the Latest in Computing: An In-Depth Look From Tom's Perspective</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-fixes-for-windows-update-error-0x80070422-in-windows-10-operating-system/"><u>Step-by-Step Fixes for Windows Update Error 0X80070422 in Windows 10 Operating System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-pick-for-gamers-2024s-top-screens-with-advanced-tech-and-competitive-pricing/"><u>The Best Pick for Gamers: 2024'S Top Screens with Advanced Tech & Competitive Pricing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-finding-the-perfect-b550-motherboards-with-pcie-asterisk-4-support-at-a-great-price/"><u>The Ultimate Guide to Finding the Perfect B550 Motherboards with PCIe Asterisk 4 Support at a Great Price</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-galaxy-xcover-7-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Galaxy XCover 7.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-vibrant-colors-easily-construct-your-rainbow-computer-with-the-hyte-nexus-link-and-rgb-devices/"><u>Unleash Vibrant Colors: Easily Construct Your Rainbow Computer with the Hyte Nexus Link and RGB Devices</u></a></li>
+</ul></div>
+

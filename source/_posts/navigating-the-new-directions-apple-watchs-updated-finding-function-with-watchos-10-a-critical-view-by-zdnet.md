@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Directions: Apple Watch's Updated Finding Function with WatchOS 10 | A Critical View by ZDNET"
-date: 2024-09-18 14:23:37
-updated: 2024-09-20 10:33:18
+date: 2024-10-19T20:33:47.317Z
+updated: 2024-10-26T19:59:54.977Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-freelancers-companion-easy-and-affordable-audio-effect-additions/"><u>[New] The Freelancer's Companion Easy and Affordable Audio Effect Additions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-discover-9-affordable-online-editors-for-youtube/"><u>2024 Approved Discover 9 Affordable Online Editors for YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-game-stability-effective-solutions-for-recurring-disruptions-in-the-formula-1-2t21-installation/"><u>Addressing Game Stability: Effective Solutions for Recurring Disruptions in the Formula 1 2T21 Installation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-new-era-of-earphones-discover-the-4-key-improvements-in-latest-airpods-across-all-models-zdnet-innovations/"><u>Apple's New Era of Earphones: Discover the 4 Key Improvements in Latest AirPods Across All Models | ZDNET Innovations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-your-xiaomi-experience-with-easy-record-screens/"><u>In 2024, Enhance Your Xiaomi Experience with Easy Record Screens</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-masterful-gameplay-transmission-with-obs-studio/"><u>In 2024, Masterful Gameplay Transmission with OBS Studio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/market-analysts-anticipate-an-upward-trend-in-laptop-memory-with-a-projected-118gb-jump-next-year/"><u>Market Analysts Anticipate an Upward Trend in Laptop Memory, with a Projected 11.8GB Jump Next Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-hardware-with-toms-tech-advice-and-reviews/"><u>Master the World of Hardware with Tom's Tech Advice & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-knowledge-with-toms-hardware-experts/"><u>Master Your PC Knowledge with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-peripherals-at-toms-hardware-hub/"><u>Mastering Gadgets and Peripherals at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-setup-with-expertise-from-toms-hardware-hub/"><u>Mastering Your Tech Setup with Expertise From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mediatek-steps-up-with-arm-processors-for-windows-laptops-as-qualcomm-exclusivity-term-ends/"><u>MediaTek Steps Up with Arm Processors for Windows Laptops as Qualcomm Exclusivity Term Ends</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-potent-5g-speeds-and-remarkable-battery-endurance-the-motorola-one-5g-ace-breakdown/"><u>Unleashing Potent 5G Speeds and Remarkable Battery Endurance: The Motorola One 5G Ace Breakdown</u></a></li>
+</ul></div>
+

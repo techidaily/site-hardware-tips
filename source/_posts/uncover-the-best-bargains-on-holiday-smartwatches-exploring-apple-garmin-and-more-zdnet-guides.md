@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Best Bargains on Holiday Smartwatches : Exploring Apple, Garmin and More | ZDNET Guides"
-date: 2024-09-17 19:23:16
-updated: 2024-09-20 12:43:12
+date: 2024-10-23T23:25:37.575Z
+updated: 2024-10-26T23:25:34.823Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,19 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,26 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[Updated] Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-expert-picks-top-mac-editors-for-cinema-professionals/"><u>In 2024, Expert Picks Top Mac Editors For Cinema Professionals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-asus-rog-phone-8-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Asus ROG Phone 8 Pro Lock Screen Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-experience-microsofts-new-wave-surface-and-surface-pro-meets-copilotplus-tech/"><u>In-Depth Analysis: Experience Microsoft's New Wave – Surface and Surface Pro Meets Copilot+ Tech 🖥️</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insightful-reviews-on-pc-and-laptop-equipment-by-toms-team/"><u>Insightful Reviews on PC and Laptop Equipment by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-28th-mark-your-calendar-get-ready-to-browse-best-buys-exclusive-listings-for-new-ryzen-ai-300-laptops/"><u>July 28Th - Mark Your Calendar! Get Ready to Browse Best Buy's Exclusive Listings for New Ryzen AI 300 Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-your-apple-devices-powered-and-protected-with-our-top-pick-of-3-in-1-magsafe-chargers-innovative-tech-insights/"><u>Keep Your Apple Devices Powered & Protected with Our Top Pick of 3-in-1 MagSafe Chargers | Innovative Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-yoga-pro-9i-in-depth-review-highlighting-the-ergonomic-keyboard-and-slim-design/"><u>Lenovo Yoga Pro 9I In-Depth Review: Highlighting the Ergonomic Keyboard & Slim Design</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-get-the-powerful-16gb-memory-in-a-portable-13-inch-with-m3-macbook-air-at-an-unbeatable-price-of-1149/"><u>Limited Offer! Get the Powerful 16GB Memory in a Portable 13-Inch with M3 MacBook Air at an Unbeatable Price of $1,149</u></a></li>
+<li><a href="https://article-tips.techidaily.com/no1-video-recorders-headset-display-enhanced-for-2024/"><u>No.1 Video Recorders Headset Display Enhanced for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsungs-answer-to-high-end-phones-an-insightful-review-of-the-galaxy-a71-5g/"><u>Samsung's Answer to High-End Phones: An Insightful Review of the Galaxy A71 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-creative-genius-with-iphone-x-camera/"><u>Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+</ul></div>
+

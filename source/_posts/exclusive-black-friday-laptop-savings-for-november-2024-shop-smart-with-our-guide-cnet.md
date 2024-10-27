@@ -1,7 +1,7 @@
 ---
 title: Exclusive Black Friday Laptop Savings for November 2024 - Shop Smart with Our Guide! | CNET
-date: 2024-10-19T03:20:37.240Z
-updated: 2024-10-20T19:35:49.436Z
+date: 2024-10-24T18:25:23.063Z
+updated: 2024-10-27T01:08:04.495Z
 tags:
   - laptops
 categories:
@@ -76,13 +76,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -101,18 +94,18 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $522 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $1,679 ($20 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $1,499 ($100 off): This Copilot+ certified laptop features the more competent Snapdragon X Elite chip and 1TB of storage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
 
@@ -123,6 +116,13 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -142,16 +142,16 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -166,10 +166,10 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -238,24 +238,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-conquer-the-vr-world-your-first-vr-adventure/"><u>[New] Conquer the VR World Your First VR Adventure</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-snaps-15-pro-tips-for-2024/"><u>[New] Master the Art of Snaps 15 Pro Tips for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ensure-your-insta-pics-are-real-a-comprehensible-guide/"><u>[Updated] In 2024, Ensure Your Insta Pics Are Real - A Comprehensible Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mobile-studio-kits-convenient-for-filmmakers-for-2024/"><u>[Updated] Mobile Studio Kits Convenient for Filmmakers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-the-best-code-companion-github-copilot-or-gpt/"><u>Deciding the Best Code Companion: GitHub Copilot or GPT?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/id-coolings-fx310-pro-review-superior-cooling-for-a-budget-of-60-or-less/"><u>ID-Cooling's FX310 Pro Review: Superior Cooling for a Budget of 60$ or Less</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-tips-for-your-tech-needs-at-toms-hardware-zone/"><u>In-Depth Analysis & Tips for Your Tech Needs at Tom's Hardware Zone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tom-unveiling-the-best-in-pc-hardware/"><u>In-Depth Analysis by Tom - Unveiling the Best in PC Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-flsun-s1s-rapid-response-time-and-eccentric-delta-structure-a-reviewers-perspective/"><u>In-Depth Analysis of the FLSun S1's Rapid Response Time and Eccentric Delta Structure – A Reviewer’s Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-comparison-leading-3d-printers-from-fdm-to-resin-and-sub-250-models-unveiled/"><u>In-Depth Comparison: Leading 3D Printers - From FDM to Resin & Sub-$250 Models Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovation-alert-noctuas-latest-tech-pumpless-aio-liquid-cooler-with-advanced-evaporation-method/"><u>Innovation Alert: Noctua's Latest Tech - Pumpless AIO Liquid Cooler with Advanced Evaporation Method</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-gadgets-with-professional-tips-from-toms-hardware/"><u>Master Your Gadgets with Professional Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-pc-setup-with-tips-from-toms-hardware/"><u>Master Your PC Setup with Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-modularity-an-expert-review-of-the-lian-li-hydroshift-360s-and-its-impact-on-pc-building/"><u>Mastering Modularity: An Expert Review of the Lian Li Hydroshift 360S and Its Impact on PC Building</u></a></li>
-<li><a href="https://win-able.techidaily.com/overwatch-2-troubleshooting-guide-fixes-for-launch-failures-1-7/"><u>Overwatch 2 Troubleshooting Guide : Fixes for Launch Failures #1-7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-gsdll32dll-file-not-found-a-step-by-step-guide/"><u>Resolving gsdll32.dll File Not Found: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/transform-your-playtime-mastering-ps4-live-recordings-with-obs/"><u>Transform Your Playtime Mastering PS4 Live Recordings with OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>[New] Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-srt-output-from-adobe-premiere/"><u>[Updated] 2024 Approved Mastering SRT Output From Adobe Premiere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/5-uphere-m201-essential-nvme-ssd-heatsink-performance-review-reliable-thermal-management-on-a-budget/"><u>$5 UpHere M201 Essential NVMe SSD Heatsink Performance Review - Reliable Thermal Management on a Budget</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-acid-pro-insights-and-looking-for-alternatives/"><u>2024 Approved ACID Pro Insights & Looking for Alternatives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-impressive-performance-leap-of-amds-newest-zen-5-ryzen-cpu-the-ryzen-9-9950x-eclipses-the-ryzen-9-7950x-with-a-24-boost-in-rendering-bench30/"><u>Breaking Down the Impressive Performance Leap of AMD's Newest Zen #5 Ryzen CPU: The Ryzen 9 9950X Eclipses the Ryzen 9 7950X with a 24% Boost in Rendering Benchmark Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-perfect-socket-and-chipset-for-your-rig-elite-motherboards-in-202/"><u>Choosing the Perfect Socket and Chipset for Your Rig: Elite Motherboards in 202</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-new-gadgets-with-toms-electronics-expertise/"><u>Discover New Gadgets with Tom's Electronics Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-navigating-the-world-of-hardware-and-gadgets/"><u>Expert Reviews by Tom: Navigating the World of Hardware and Gadgets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-correctly-address-not-as-expected-messages-on-windows-11/"><u>How to Correctly Address 'Not As Expected' Messages on Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g04-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G04 FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-play-ps4-video-games-on-the-latest-ps5-platforms/"><u>Is It Possible to Play PS4 Video Games on the Latest PS5 Platforms?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2070-super-graphics-driver-downloads-and-updates-for-windows-10-and-11/"><u>Latest RTX 2070 Super Graphics Driver Downloads and Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computing-expert-advice-from-toms-hardware-hub/"><u>Mastering Modern Computing: Expert Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-right-cpu-cooler-focus-on-these-8-elements/"><u>Selecting the Right CPU Cooler: Focus on These 8 Elements</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-open-graph-protocol-a-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding Open Graph Protocol: A Comprehensive Guide with Essential SEO Strategies</u></a></li>
 </ul></div>
 

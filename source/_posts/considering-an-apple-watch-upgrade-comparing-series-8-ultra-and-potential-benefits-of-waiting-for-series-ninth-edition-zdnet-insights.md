@@ -1,7 +1,7 @@
 ---
 title: Considering an Apple Watch Upgrade? Comparing Series 8, Ultra and Potential Benefits of Waiting for Series Ninth Edition | ZDNET Insights
-date: 2024-09-18 12:22:32
-updated: 2024-09-20 10:10:10
+date: 2024-10-24T01:51:12.892Z
+updated: 2024-10-26T16:03:22.037Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-software-for-efficient-teleconferences/"><u>[New] 2024 Approved Essential Software for Efficient Teleconferences</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-landscapes-for-streaming-success/"><u>[New] Prime Landscapes for Streaming Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehhrenous-guide-to-addressing-system-faults-during-the-boot-sequence/"><u>A Comprehhrenous Guide to Addressing System Faults During the Boot Sequence</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-hot-40i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Hot 40i Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/integration-transparente-de-fichiers-sur-windows-server-methodes-a-privilegier-pour-une-optimisation-seo/"><u>Intégration Transparente De Fichiers Sur Windows Server - Méthodes À Privilégier Pour Une Optimisation SEO</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/pasos-sencillos-para-recobrar-informacion-perdida-desde-un-disco-externo-buffalo/"><u>Pasos Sencillos Para Recobrar Información Perdida Desde Un Disco Externo Buffalo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-updated-on-tech-insights-from-toms-hardware-experts/"><u>Stay Updated on Tech: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-lenovo-thinkpad-x1-carbon-gen-12-a-detailed-review-of-its-slim-profile-and-cutting-edge-ai-capabilities/"><u>The Latest Lenovo ThinkPad X1 Carbon (Gen 12): A Detailed Review of Its Slim Profile and Cutting-Edge AI Capabilities</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-kobo-forma-ereader-perfecting-your-book-enthusiasts-journey/"><u>The Ultimate Guide to the Kobo Forma eReader: Perfecting Your Book Enthusiast's Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computing-enthusiasts-at-toms-tech-corner/"><u>The Ultimate Resource for Computing Enthusiasts at Tom's Tech Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-and-tech-advice/"><u>Tom's Hardware Review & Tech Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-and-reviews-t172386287987416/"><u>Tom's Tech Hub - Comprehensive Guides and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-lenovo-legion-slim-5-with-nvidia-rtx-4060-now-at-a-record-low-849/"><u>Unbeatable Deal: Lenovo Legion Slim 5 with NVIDIA RTX 4060 Now at a Record Low $849</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-the-lack-of-received-texts-on-android-phones/"><u>Understanding and Repairing the Lack of Received Texts on Android Phones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-evergreen-most-watched-video-catalog/"><u>YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+</ul></div>
+

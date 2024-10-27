@@ -1,7 +1,7 @@
 ---
 title: "Fitbit Sense 2 vs Versa 4 Review: A Month's Insight Into Well-Being Features and Navigational Limitations | ZDNET"
-date: 2024-09-17 23:19:42
-updated: 2024-09-20 12:28:56
+date: 2024-10-22T22:35:31.382Z
+updated: 2024-10-26T21:18:46.073Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,28 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-edit-podcasts-in-garageband/"><u>2024 Approved How To Edit Podcasts in GarageBand</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-cryptocurrency-miner-drivers-for-windows-pcs/"><u>Download & Install AMD Cryptocurrency Miner Drivers for Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-duo-wearable-and-mac-harmony/"><u>Dynamic Duo Wearable & Mac Harmony</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enlightening-the-future-one-language-at-a-time/"><u>Enlightening the Future, One Language at a Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-regain-access-to-lost-steam-game-files-complete-solution/"><u>How to Regain Access to Lost Steam Game Files - Complete Solution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-shoot-a-green-screen-video-must-know-tips-and-tricks/"><u>How to Shoot a Green Screen Video [Must Know Tips & Tricks]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266864383-iphone-fix-easy-steps-for-fresh-start-even-without-backup/"><u>Iphone Fix: Easy Steps for Fresh Start, Even Without Backup!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-portable-eyoyo-em105-monitor-small-size-exceptional-value/"><u>The Ultimate Guide to the Portable EYOYO EM105 Monitor - Small Size, Exceptional Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-newest-computer-parts-discovering-wonders-at-toms-hardware/"><u>The Ultimate Resource for Newest Computer Parts: Discovering Wonders at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-insights-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Insights & Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-top-picks-and-performance-reviews/"><u>Tom's Tech Hub: Top Picks and Performance Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Review: Expert Insights on Hardware and Gadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-voice-windows-10-audio-basics/"><u>Unleashing Voice Windows 10 Audio Basics</u></a></li>
+</ul></div>
+

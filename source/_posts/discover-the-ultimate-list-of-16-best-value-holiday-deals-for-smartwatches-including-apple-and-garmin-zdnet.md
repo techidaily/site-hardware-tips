@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of 16 Best-Value Holiday Deals for Smartwatches Including Apple and Garmin | ZDNET
-date: 2024-09-19 21:44:57
-updated: 2024-09-20 10:20:52
+date: 2024-10-20T00:19:39.317Z
+updated: 2024-10-26T23:52:52.859Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-beat-infused-imagery-mobile-video-making-on-iphone/"><u>[New] Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-security-accessories-for-webcams-for-2024/"><u>[Updated] Top Security Accessories for Webcams for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hack-your-way-to-instant-signature-bg-elimination/"><u>2024 Approved Hack Your Way to Instant Signature BG Elimination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-overclock-how-ek-custom-waterblocks-transform-cooling-for-amd-ryzen-am5-processors-after-delidding/"><u>Elevate Your Overclock: How EK Custom Waterblocks Transform Cooling for AMD Ryzen AM5 Processors After Delidding</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-professional-3d-printing-without-breaking-the-bank-get-elegoos-neptune-x4-pro-at-just-284/"><u>Experience Professional 3D Printing Without Breaking the Bank: Get Elegoo's Neptune X4 Pro at Just $284</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-from-toms-hardware-guide/"><u>Expert Insights on Gadgets From Tom's Hardware Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-subscriptions-the-value-of-youtube-premium-for-2024/"><u>Exploring Subscriptions The Value of YouTube Premium for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-ensure-flawless-textures-when-3d-printing-parts/"><u>How to Ensure Flawless Textures When 3D Printing Parts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-c12-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia C12 to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-in-technology-the-ultimate-resource-for-your-pc-needs-from-tom/"><u>Mastery in Technology: The Ultimate Resource for Your PC Needs From Tom</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reviving-the-lineup-a-comprehensive-examination-of-the-newly-resurrected-oneplus-12r-flagship-fighter/"><u>Reviving the Lineup: A Comprehensive Examination of the Newly Resurrected OnePlus 12R Flagship Fighter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-adding-extra-layers-of-safety-to-icloud-mail-through-two-step-verification/"><u>Step-by-Step Tutorial for Adding Extra Layers of Safety to iCloud Mail Through Two-Step Verification</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlined-strategies-mastering-screen-record-on-an-hp-notebook/"><u>Streamlined Strategies Mastering Screen Record on an HP Notebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-speakers-of-2024-affordable-choices-and-high-end-audio-experiences/"><u>Top Rated Computer Speakers of 2024: Affordable Choices and High-End Audio Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-creativity-in-confectionery-a-review-of-the-innovative-cocoapress-3d-chocolate-printer/"><u>Unleashing Creativity in Confectionery - A Review of the Innovative CocoaPress 3D Chocolate Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-top-budget-conscious-3d-printers-with-outstanding-output-quality/"><u>Unveiling the Top Budget-Conscious 3D Printers with Outstanding Output Quality</u></a></li>
+</ul></div>
+

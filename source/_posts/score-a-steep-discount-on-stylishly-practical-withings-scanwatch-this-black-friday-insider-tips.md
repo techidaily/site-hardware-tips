@@ -1,7 +1,7 @@
 ---
 title: Score a Steep Discount on Stylishly Practical Withings ScanWatch This Black Friday - Insider Tips!
-date: 2024-09-17 21:21:51
-updated: 2024-09-20 11:35:32
+date: 2024-10-20T19:31:12.422Z
+updated: 2024-10-26T23:42:45.702Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,28 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/1722964464086-free-download-asrock-ab350-pro4-drivers-in-windows-easily/"><u>[Free Download] ASRock AB350 Pro4 Drivers in Windows. Easily!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ballot-box-battles-prime-voting-challenge-platforms-for-2024/"><u>[Updated] Ballot Box Battles Prime Voting Challenge Platforms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-pc-editing-techniques-enhancing-your-youtube-presence-for-2024/"><u>[Updated] Cutting-Edge PC Editing Techniques Enhancing Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bending-budgets-less-surprisingly-reasonable-prices-for-high-tech-foldable-phones/"><u>Bending Budgets Less: Surprisingly Reasonable Prices for High-Tech Foldable Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chinese-semiconductor-advancement-the-3c6000-cpu-rivals-intels-powerful-xeon-silver-series/"><u>Chinese Semiconductor Advancement: The 3C6000 CPU Rivals Intel's Powerful Xeon Silver Series</u></a></li>
+<li><a href="https://fox-links.techidaily.com/easy-steps-to-personalize-movie-outro-templates-for-free-for-2024/"><u>Easy Steps to Personalize Movie Outro Templates for Free for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-pc-modding-hytes-latest-innovations-featuring-sleek-cooler-designs-vibrant-lighting-options-and-unparalleled-motherboard-control-in4/"><u>Experience the Future of PC Modding: Hyte's Latest Innovations Featuring Sleek Cooler Designs, Vibrant Lighting Options & Unparalleled Motherboard Control Including USB Header Usage and Fan Adjustability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-in-depth-analysis-and-advice/"><u>Exploring Hardware with Tom: In-Depth Analysis and Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2010-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2010 document online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-12-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 12 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-advanced-pc-builds-and-tech-tips-from-toms-hardware-hub/"><u>Navigating Advanced PC Builds and Tech Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-ranking-of-2024s-best-gaming-notebooks-thoroughly-tested-and-critically-reviewed/"><u>The Definitive Ranking of 2024'S Best Gaming Notebooks - Thoroughly Tested & Critically Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-innovative-gadget-reviews-and-insights/"><u>Tom's Tech Hub: Innovative Gadget Reviews and Insights</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-lava-yuva-3-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Lava Yuva 3?</u></a></li>
+</ul></div>
+

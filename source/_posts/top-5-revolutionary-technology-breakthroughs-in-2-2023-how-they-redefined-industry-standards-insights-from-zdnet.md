@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Revolutionary Technology Breakthroughs in 2# 2023: How They Redefined Industry Standards - Insights From ZDNet"
-date: 2024-10-20T00:24:18.741Z
-updated: 2024-10-21T04:53:16.426Z
+date: 2024-10-22T20:11:57.108Z
+updated: 2024-10-26T16:12:21.476Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,16 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +68,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +89,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +108,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,24 +156,20 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-master-content-creation-video-and-photo-synergy/"><u>[New] In 2024, Master Content Creation Video & Photo Synergy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-premium-audio-enhancer-on-android/"><u>2024 Approved Premium Audio Enhancer on Android</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>2024 Approved Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/choosing-the-right-account-for-a-smooth-windows-11-setup-experience-expert-advice/"><u>Choosing the Right Account for a Smooth Windows 11 Setup Experience – Expert Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-upgraded-noctua-nh-d15-g2-cooling-system-enhanced-quietness-more-heatpipes-and-a-revolutionary-offset-configuration-for-superior-efficiency/"><u>Discover the Upgraded Noctua NH-D15 #G2 Cooling System - Enhanced Quietness, More Heatpipes & a Revolutionary Offset Configuration for Superior Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-why-the-airflow-i-by-teamgroup-t-force-is-the-premier-ssd-cooler-for-gamers-and-enthusiasts-alike/"><u>Discover Why the AirFlow I by TeamGroup T-Force Is the Premier SSD Cooler for Gamers and Enthusiasts Alike</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoos-celestial-machine-reviewed-the-neptune-4-plus-delivers-starry-print-quality-at-warp-speed-pace/"><u>Elegoo's Celestial Machine Reviewed: The Neptune 4 Plus Delivers Starry Print Quality at Warp-Speed Pace</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-electronics-hub/"><u>Expert Insights From Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-review-on-bambulabs-x1-carbon-revolutionizing-the-3d-printer-market-leaderboard/"><u>Expert Review on BambuLab's X1-Carbon - Revolutionizing the 3D Printer Market Leaderboard</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experts-take-on-phrozen-sonic-mega-8k-styrene-perfect-for-your-print-setup/"><u>Experts' Take on Phrozen Sonic Mega 8K Styrene: Perfect for Your Print Setup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-computing-essentials/"><u>Exploring Tom's Computing Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fastest-picks-in-3d-printing-technology-a-ranking-based-on-production-efficiency/"><u>Fastest Picks in 3D Printing Technology - A Ranking Based on Production Efficiency</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Red Magic 8S Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hyte-unveils-latest-upgrades-stylish-coolers-and-advanced-lighting-with-customizable-rgb-and-usb-powered-fan-control/"><u>Hyte Unveils Latest Upgrades: Stylish Coolers & Advanced Lighting with Customizable RGB & USB-Powered Fan Control</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-10t-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme 10T 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-12-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus 12 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-uac-messages-for-system-changes-on-windows-11107/"><u>Overcome UAC Messages for System Changes on WIndows 11/10/7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/update-proton-vpn-sign-in-info-and-uncover-real-vs-fake-chatgpt-app-for-windows-users/"><u>Update Proton VPN Sign-In Info and Uncover Real Vs. Fake ChatGPT App for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bending-words-in-media-landscapes/"><u>[Updated] Bending Words in Media Landscapes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/33-savings-alert-top-performance-cpu-cooling-with-thermalrights-peerless-assassin-120-se-a-must-have-for-serious-gamers/"><u>$33 Savings Alert! Top-Performance CPU Cooling with Thermalright's Peerless Assassin 120 SE: A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-stand-out-on-google-the-ultimate-thumbnail-font-guide/"><u>2024 Approved Stand Out on Google The Ultimate Thumbnail Font Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-computer-hardware-from-toms-trusted-source/"><u>Expert Advice on Computer Hardware From Tom’s Trusted Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-by-tom-your-trusted-resource/"><u>Expert Hardware Insights by Tom - Your Trusted Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-at-toms-hardware-insights/"><u>Exploring High-Performance Computing at Tom's Hardware Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-lg-stylo-6-the-perfect-mix-of-elegant-design-and-handwriting-tool/"><u>In-Depth Look at LG Stylo 6 - The Perfect Mix of Elegant Design & Handwriting Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Reviews and Tech Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/master-screen-recording-on-windows-macos-and-android-devices/"><u>Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-android-maintenance-a-quick-way-to-clear-cache/"><u>Mastering Android Maintenance: A Quick Way to Clear Cache</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-device-with-toms-comprehensive-hardware-advice/"><u>Mastering Your Device with Tom's Comprehensive Hardware Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-obstacles-expert-strategies-for-a-successful-minecraft-startup/"><u>Overcoming Launch Obstacles: Expert Strategies for a Successful Minecraft Startup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y100-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y100 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-showdown-in-portable-ssds-a-detailed-comparison-of-samsung-t5-vs-t7/"><u>Ultimate Showdown in Portable SSDs: A Detailed Comparison of Samsung T5 Vs. T7</u></a></li>
 </ul></div>
 

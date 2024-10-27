@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Exploration of the Outstanding Duo Traits that Make This Lenovo Notebook a Powerhouse for Enthusiasts
-date: 2024-10-19T20:55:16.013Z
-updated: 2024-10-20T18:02:34.040Z
+date: 2024-10-21T20:19:50.727Z
+updated: 2024-10-26T16:26:32.629Z
 tags:
   - laptops
 categories:
@@ -61,10 +61,10 @@ Cesar Cadenas/ZDNET
 I should also mention that I ran into some bugs. This may have been relegated to my review unit only, but the cursor would sometimes jitter back and forth without direct input. Certain key presses were registered even though I hadn't pushed them. The snipping tool, for example, came up without direct interaction. And the Windows Copilot key didn't work at all. The only thing it would do is sometimes make the screen turn momentarily black.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's Buying Advice
@@ -107,20 +107,21 @@ There are other options out there that can do the same thing, if not better. One
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-the-art-of-zoom-filters-for-premium-sessions/"><u>[New] Mastering the Art of Zoom Filters for Premium Sessions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-screen-record-on-android/"><u>2024 Approved How to Screen Record on Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-in-depth-analysis-from-toms-hardware-experts/"><u>Advanced PC Review: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beginners-pathway-to-effective-usage-of-orcaslicer-software/"><u>Beginner's Pathway to Effective Usage of OrcaSlicer Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-screenshot-and-recorder-software-for-professors/"><u>Best Screenshot and Recorder Software for Professors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-laptops-under-1500-quality-and-price-combined/"><u>Best Value Gaming Laptops Under $1,500 - Quality and Price Combined</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/caseking-suspends-sale-of-barrow-dabel-units-following-new-aio-radiator-quality-test-results-exposing-lead-contamination/"><u>CaseKing Suspends Sale of Barrow Dabel Units Following New AIO Radiator Quality Test Results Exposing Lead Contamination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-language-learning-powerhouse-for-modern-learners/"><u>ChatGPT Plus: A Language Learning Powerhouse for Modern Learners</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-technology-featuring-toms-hardware-insight/"><u>Comprehensive Guide to Technology - Featuring Tom’s Hardware Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-insights-from-toms-technology-analysis/"><u>Discover Cutting-Edge Hardware Insights From Tom's Technology Analysis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond-for-2024/"><u>Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/grasping-chroma-key-magic-a-complete-beginners-guide-to-green-screens/"><u>Grasping Chroma Key Magic A Complete Beginner's Guide to Green Screens</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-starting-strong-top-10-quick-and-efficient-youtube-biz-channel-tips/"><u>[Updated] 2024 Approved Starting Strong Top 10 Quick and Efficient YouTube Biz Channel Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-your-ideal-screen-recorder-pc-and-mac-edition/"><u>[Updated] Discover Your Ideal Screen Recorder - PC & Mac Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-pioneering-giants-in-vr-development/"><u>2024 Approved Pioneering Giants in VR Development</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-imessage-7-effortless-methods-to-get-it-running-again-on-apple-devices/"><u>Fixing iMessage: 7 Effortless Methods to Get It Running Again on Apple Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unveiling-imovies-inherent-cropping-rules/"><u>In 2024, Unveiling iMovie's Inherent Cropping Rules</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-process-for-embedding-youtube-playlists-on-websites-efficiently-for-2024/"><u>Perfect Process for Embedding YouTube Playlists on Websites Efficiently for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/sound-masterpieces-selecting-the-top-10-on-spotify-for-2024/"><u>Sound Masterpieces Selecting the Top 10 on Spotify for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-troubleshooting-for-android-phones-stuck-in-emergency-call-mode/"><u>Step-by-Step Troubleshooting for Android Phones Stuck in Emergency Call Mode</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-prevent-intrusive-phone-calls-using-androids-call-blocking-features/"><u>Step-by-Step Tutorial: How to Prevent Intrusive Phone Calls Using Android's Call-Blocking Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-preventing-apps-from-connecting-to-the-web-on-your-android-phone/"><u>Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stop-automatic-bluetooth-pairing-on-android-a-simple-hack/"><u>Stop Automatic Bluetooth Pairing on Android: A Simple Hack</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/strategies-for-managing-and-reducing-android-phone-temperature/"><u>Strategies for Managing and Reducing Android Phone Temperature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/syncing-and-streaming-your-smartphone-soundtrack-via-windows-11/"><u>Syncing and Streaming Your Smartphone Soundtrack via Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-perks-of-private-space-on-android-15-understanding-its-functionality-and-advantages/"><u>Unveiling the Perks of Private Space on Android 15: Understanding Its Functionality and Advantages</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728483956375-outlookgmail/"><u>オフィスツール連携：OutlookにGmailアカウントを追加する効果的な方法</u></a></li>
 </ul></div>
 

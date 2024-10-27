@@ -1,7 +1,7 @@
 ---
 title: "Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet"
-date: 2024-09-18 19:11:42
-updated: 2024-09-20 11:46:54
+date: 2024-10-24T01:49:33.446Z
+updated: 2024-10-26T18:01:53.287Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-trailblazers-crafting-immersive-virtual-landscapes/"><u>[Updated] In 2024, Trailblazers Crafting Immersive Virtual Landscapes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cted-non-existence-of-shorts-on-feeds-for-2024/"><u>Corrected Non-Existence of Shorts on Feeds for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-address-windows-drivers-not-installing-properly/"><u>How to Address Windows Drivers Not Installing Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-in-lenovo-computer-systems/"><u>How to Restore Sound Output in Lenovo Computer Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>In 2024, Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-review-your-source-for-top-tier-pc-specs/"><u>Inside Tom's Hardware Review: Your Source for Top-Tier PC Specs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/interactive-personalized-jdi-2vd-screens-with-two-touch-interfaces-see-what-others-cant-and-identify-touching-users/"><u>Interactive Personalized JDI 2VD Screens with Two Touch Interfaces: See What Others Can't & Identify Touching Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-minisforums-new-affordable-gaming-laptop-156-screen-144hz-refresh-rate-and-1440p-display-just-189/"><u>Introducing Minisforum's New Affordable Gaming Laptop: 15.6 Screen, 144Hz Refresh Rate & 1440P Display - Just $189</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-the-toms-hardware-way-to-informed-choices/"><u>Mastering Hardware Knowledge: The Tom's Hardware Way to Informed Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-performance-select-the-best-from-toms-tech-gear/"><u>Maximize Performance: Select the Best From Tom's Tech Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-digital-innovation-through-tome-hardware-experts/"><u>Navigating Digital Innovation Through Tom'e Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-insider-tips-from-toms-hardware-experts/"><u>Navigating New Tech Trends: Insider Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-file-transfer-techniques-for-high-size-content-in-discord/"><u>Seamless File Transfer Techniques for High-Size Content in Discord</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-streaming-tips-for-uninterrupted-broadcasts-for-2024/"><u>Seamless Streaming Tips for Uninterrupted Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-iphone-photography-top-angles-for-stunning-images/"><u>Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
+</ul></div>
+

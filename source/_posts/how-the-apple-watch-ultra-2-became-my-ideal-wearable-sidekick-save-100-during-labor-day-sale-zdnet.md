@@ -1,7 +1,7 @@
 ---
 title: How the Apple Watch Ultra 2 Became My Ideal Wearable Sidekick (Save $100 During Labor Day Sale!) | ZDNET
-date: 2024-09-19 16:15:11
-updated: 2024-09-20 11:57:35
+date: 2024-10-21T01:33:53.360Z
+updated: 2024-10-26T20:48:45.492Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebooks-vision-for-video-unpacking-the-short-form-movement/"><u>[New] In 2024, Facebook's Vision for Video Unpacking the Short Form Movement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-pro-tips-for-effective-youtube-tag-utilization/"><u>[Updated] 2024 Approved Pro Tips for Effective YouTube Tag Utilization</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-effortless-steps-transitioning-your-laptops-operating-system-from-hdd-to-ssd/"><u>1. Effortless Steps: Transitioning Your Laptop's Operating System From HDD to SSD</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-tale-of-two-faces-iphone-x-and-samsung-compared/"><u>2024 Approved A Tale of Two Faces IPhone X & Samsung Compared</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-equipment-breakdown-and-advice-from-tech-virtuoso-tom/"><u>Advanced Equipment Breakdown & Advice From Tech Virtuoso, Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battery-life-breakthroughs-in-top-tier-snapdragon-x-laptops-over-15-hours-of-uninterrupted-use-and-competition-with-intels-longest-lasting-models/"><u>Battery Life Breakthroughs in Top-Tier Snapdragon X Laptops: Over 15 Hours of Uninterrupted Use and Competition with Intel's Longest Lasting Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-reviews-by-tom-your-trusted-source-for-hardware-information/"><u>Comprehensive Reviews by Tom: Your Trusted Source for Hardware Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-devices-with-precision-toms-hardware-experts-weigh-in/"><u>Decoding Devices with Precision: Tom's Hardware Experts Weigh In</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-dilemma-the-ephemeral-nature-of-games/"><u>Digital Dilemma: The Ephemeral Nature of Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-computer-technologies-with-tomn-gear-guides/"><u>Discover Cutting-Edge Computer Technologies with Tom'n Gear Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-advanced-tips-from-toms-tech-corner/"><u>Dive Into Digital: Advanced Tips From Tom's Tech Corner</u></a></li>
+<li><a href="https://win-able.techidaily.com/enable-seamless-multitasking-with-youtube-pip-comprehensive-instructions-for-chrome-and-firefox-users/"><u>Enable Seamless Multitasking with YouTube PiP: Comprehensive Instructions for Chrome and Firefox Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-managed-system-preferences-on-windows-by-your-companys-policy/"><u>Navigating Managed System Preferences on Windows by Your Company's Policy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nsvmp3-movavi/"><u>NSV到MP3無成本上線即可 - 以Movavi進行轉換方便多了</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862739684-sale-alert-save-big-on-m3-macbook-air-16gb-ram-and-slim-13-display-for-1149/"><u>Sale Alert: Save Big on M3 MacBook Air – 16GB RAM and Slim 13 Display for $1,149!</u></a></li>
+</ul></div>
+

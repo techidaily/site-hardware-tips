@@ -1,7 +1,7 @@
 ---
 title: Lifesaving Hidden Function in the Apple Watch Series 6 - Discover How It Can Keep You Safe
-date: 2024-09-17 14:36:13
-updated: 2024-09-20 11:49:53
+date: 2024-10-24T21:39:17.039Z
+updated: 2024-10-26T20:56:20.802Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-celebrity-inspired-glamour-videos-for-2024/"><u>[New] Celebrity-Inspired Glamour Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-android-3d-playback-software/"><u>[New] Ultimate Android 3D Playback Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-editing-game-changer-fcps-best-10-plugins/"><u>[Updated] In 2024, The Editing Game Changer FCP's Best 10 Plugins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-faulty-butterfly-keyboard-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Faulty Butterfly Keyboard Begin Receiving Up To $395 Refund Per Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862698708-dont-miss-out-get-the-2024-asus-tuf-gaming-a15-laptop-this-memorial-day-for-an-exclusive-price-of-658/"><u>Don't Miss Out - Get the 2024 Asus TUF Gaming A15 Laptop This Memorial Day for an Exclusive Price of $658!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mobile-downloader-the-ultimate-apps-for-video-buffs/"><u>Free Mobile Downloader The Ultimate Apps for Video Buffs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture-for-2024/"><u>Helmet Hats A Comprehensive Look at Best Cams in Bike Culture for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-becoming-an-instagrammable-replica-a-comprehensive-guide-to-duplicating-oneself-on-tiktok/"><u>In 2024, Becoming an Instagrammable Replica A Comprehensive Guide to Duplicating Oneself on TikTok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862742471-level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-digital-networking-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Digital Networking: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862738375-ryzens-cutting-edge-ai-300-series-arrives-sooner-than-expected-preorder-before-july-28th-at-best-buy/"><u>Ryzen's Cutting-Edge AI 300 Series Arrives Sooner Than Expected – Preorder Before July 28Th at Best Buy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-pathway-to-vimeo-recording/"><u>The Ultimate Pathway to Vimeo Recording</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-get-700-off-the-alienware-m18-r2-with-rtx-groovy-gpu-for-gamers/"><u>Unbeatable Deal Alert! - Get $700 Off the Alienware M18 R2 with RTX Groovy GPU for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-benefits-of-using-an-artificer-intellect-personal-computer-essential-or-extravagance/"><u>Understanding the Benefits of Using an Artificer Intellect Personal Computer: Essential or Extravagance?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-asus-innovative-expertbook-p5-a-revolutionary-laptop-with-new-gen-intel-core-i7-cpus-from-lunar-lake-series/"><u>Unveiling Asus' Innovative ExpertBook P5: A Revolutionary Laptop with New-Gen Intel Core I7 CPUs From Lunar Lake Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-technology-with-toms-expertise-a-look-at-the-latest-hardware/"><u>Unveiling Technology with Tom's Expertise: A Look at the Latest Hardware</u></a></li>
+</ul></div>
+

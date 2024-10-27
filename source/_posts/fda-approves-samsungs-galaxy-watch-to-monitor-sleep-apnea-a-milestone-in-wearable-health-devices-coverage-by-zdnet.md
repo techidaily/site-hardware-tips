@@ -1,7 +1,7 @@
 ---
 title: "FDA Approves Samsung's Galaxy Watch to Monitor Sleep Apnea: A Milestone in Wearable Health Devices | Coverage by ZDNET"
-date: 2024-09-19 22:48:44
-updated: 2024-09-20 10:12:22
+date: 2024-10-24T20:58:05.743Z
+updated: 2024-10-26T23:46:12.678Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-your-snap-game-15-must-try-tactics/"><u>[New] In 2024, Elevate Your Snap Game 15 Must-Try Tactics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-master-stitching-gopro-content-in-extended-panorama-videos/"><u>[Updated] Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessment-of-pc-brands-varied-policies-on-extended-intel-cpu-warranty-coverage-amidst-rising-crash-incidents/"><u>Assessment of PC Brands’ Varied Policies on Extended Intel CPU Warranty Coverage Amidst Rising Crash Incidents</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compensation-for-ailing-apples-butterfly-keyboard-eligible-users-get-up-to-395-back-on-each-laptop/"><u>Compensation for Ailing Apple's Butterfly Keyboard: Eligible Users Get Up to $395 Back on Each Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-quality-checks-trigger-global-recall-of-amd-ryzen-9000-fans-anticipate-revised-release-timeline-in-august/"><u>Critical Quality Checks Trigger Global Recall of AMD Ryzen 9000 - Fans Anticipate Revised Release Timeline in August</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-in-technology-with-toms-hardware-guides/"><u>Discovering the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/exclusive-list-best-online-video-to-mp3-tools-for-2024/"><u>Exclusive List Best Online Video to Mp3 Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-evaluations-with-toms-technological-digest/"><u>Expert Hardware Evaluations with Tom’s Technological Digest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-dnssddll-cannot-be-opened-issue-on-your-computer/"><u>Resolving the 'dnssd.dll Cannot Be Opened' Issue on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862706379-save-big-this-memorial-day-with-the-2024-asus-tuf-gaming-a15-laptop-now-for-a-steal-at-658/"><u>Save Big This Memorial Day with the 2024 Asus TUF Gaming A15 Laptop Now for a Steal at $658!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-capturing-high-quality-periscope-broadcasts-for-2024/"><u>Strategies for Capturing High-Quality Periscope Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tackling-unexpected-video-reversals-on-instagram/"><u>Tackling Unexpected Video Reversals on Instagram</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-guide-how-to-resolve-usb-file-transfer-issues-on-windows-11-top-5-solutions/"><u>Troubleshooting Guide: How to Resolve USB File Transfer Issues on Windows 11 (Top 5 Solutions)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-overview-of-du-recorders-technical-specifications-for-2024/"><u>Ultimate Overview of Du Recorder’s Technical Specifications for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-f04-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy F04 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

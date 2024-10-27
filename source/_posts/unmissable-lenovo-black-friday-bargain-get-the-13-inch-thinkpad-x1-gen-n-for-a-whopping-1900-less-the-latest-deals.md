@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Lenovo Black Friday Bargain: Get the 13-Inch ThinkPad X1 Gen N for a Whopping $1,900 Less | The Latest Deals"
-date: 2024-10-19T05:21:04.571Z
-updated: 2024-10-20T20:07:33.991Z
+date: 2024-10-21T17:46:30.184Z
+updated: 2024-10-26T22:09:10.819Z
 tags:
   - laptops
 categories:
@@ -84,13 +84,6 @@ June Wan/ZDNET
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $200
 
 Maria Diaz/ZDNET
@@ -99,13 +92,6 @@ Maria Diaz/ZDNET
 * [Samsung T9 portable SSD 2TB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG2T0B-AM%2Fdp%2FB0CHFS9K14%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $180 (save $60 at Amazon)
 * [Bose Soundbar](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-Speaker-Soundbar-Bluetooth-connectivity%2Fdp%2FB088KRPCQJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $199 (save $80 at Amazon)
 * [Bose SoundLink Flex Bluetooth Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB099TJGJ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $119 (save $30 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday deals under $500
 
@@ -125,6 +111,13 @@ Jason Cipriani/ZDNET
 * [Nest Learning Thermostat](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-White%2F120823467&subId1=zd-__COM_CLICK_ID__-dtp): $215 (save $34 at Walmart)
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $261 (save $39 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday Apple deals
 
 Jason Hiner/ZDNET
@@ -140,10 +133,10 @@ Jason Hiner/ZDNET
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday robot vacuum deals
@@ -160,10 +153,10 @@ Beth Mauder/ZDNET
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday TV deals
@@ -226,6 +219,13 @@ Jason Hiner/ZDNET
 * [Lenovo Legion Pro 7i](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1745684-REG%2Flenovo%5F82wq002tus%5F16%5Flegion%5Fpro%5F7.html): $2,599 (save $700 at B&H Photo)
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday tablet deals
 
 Maria Diaz/ZDNET
@@ -238,10 +238,10 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc426c2a7-ccfa-4fa1-863f-5c09279d39ba%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -318,15 +318,14 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-rapid-fire-rise-to-fame-with-customizable-tiktok-templates/"><u>[New] 2024 Approved Rapid-Fire Rise to Fame with Customizable TikTok Templates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-cutting-edge-technology-through-toms-equipment-insights/"><u>Deciphering Cutting-Edge Technology Through Tom's Equipment Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-blistering-pace-with-bamboo-labs-a1-bed-slinger-coming-soon-december-14th/"><u>Experience Blistering Pace with Bamboo Lab's A1 Bed Slinger - Coming Soon, December 14Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-converting-regular-fridge-components-into-a-diy-liquid-nitrogen-source/"><u>Expertly Converting Regular Fridge Components Into a DIY Liquid Nitrogen Source</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-gt-10-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix GT 10 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-breakthrough-creating-lifelike-wooden-artifacts-with-3d-printed-sawdust/"><u>Innovative Breakthrough: Creating Lifelike Wooden Artifacts with 3D-Printed Sawdust</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-iphones-silent-mode-a-step-by-step-guide/"><u>Solving iPhone's Silent Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-process-to-disable-audio-boosting-tools-in-windows-11/"><u>Step-by-Step Process to Disable Audio Boosting Tools in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-online-sources-for-high-quality-vector-illustrations-for-2024/"><u>Top Online Sources for High-Quality Vector Illustrations for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/form-your-youtube-experience-with-bespoeid-shorts-thumbnails/"><u>Transform Your YouTube Experience with Bespoeid Shorts Thumbnails</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-uncover-the-best-10-online-vectors-collections/"><u>[Updated] In 2024, Uncover the Best 10 Online Vectors Collections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-downloads-get-the-right-software-for-your-acer-predator-xb271hu/"><u>Hassle-Free Driver Downloads: Get the Right Software for Your Acer Predator XB271HU</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C32 Bootloader Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/issue-resolved-keyboard-now-responding-say-goodbye-to-typos/"><u>Issue Resolved: Keyboard Now Responding - Say Goodbye to Typos!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-tech-experience-with-toms-hardware-solutions/"><u>Revolutionize Your Tech Experience with Tom's Hardware Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-correcting-windows-error-code-0x8000ffff-issues-on-your-pc/"><u>The Ultimate Guide to Correcting Windows Error Code 0X8000FFFF Issues on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Review: In-Depth Computer and Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-boosting-your-raspberry-pis-speed-through-effective-overclocking-techniques/"><u>Ultimate Guide: Boosting Your Raspberry Pi's Speed Through Effective Overclocking Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-power-with-toms-electronics-hub/"><u>Unveiling the Latest in Computing Power with Tom's Electronics Hub</u></a></li>
 </ul></div>
 

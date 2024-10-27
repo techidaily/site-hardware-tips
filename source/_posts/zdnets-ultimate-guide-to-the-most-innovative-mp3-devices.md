@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Ultimate Guide to the Most Innovative MP3 Devices
-date: 2024-09-18 12:46:18
-updated: 2024-09-20 12:22:10
+date: 2024-10-20T01:23:00.615Z
+updated: 2024-10-26T21:20:25.252Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,19 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -62,11 +75,31 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -85,6 +118,13 @@ The second tab is labeled "manual," and it gives you a bit more control over how
 I love the High-pass presence boost setting, since that gave me the tone and quality I was looking for when I stream on Twitch (however rarely that is). And I switched to the Flat setting when just chatting with friends on Discord or in-game voice chat since gain and audio richness didn't matter so much in a casual setting. I also prefer to keep this mic on the "natural" tone-setting, since that fits my voice the best, giving me crisp, clear audio without any "fuzz" from bass boosting or annoying whines that can come with prioritizing high tones.
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Recording and live streaming
 
@@ -129,11 +169,27 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>[New] 2024 Approved Content Distribution Showdown Vimeo vs YouTubes and DailyMotions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>[New] The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-playtracker-insight/"><u>[Updated] 2024 Approved Ultimate PlayTracker Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-owns-the-lead-ryzne-ai-9-hx-triumphantly-outperforms-intels-20-core-and-apples-m3-max-in-passmark-benchmark/"><u>Ai Owns the Lead: Ryzne AI 9 Hx Triumphantly Outperforms Intel's 20-Core & Apple's M3 Max in Passmark Benchmark</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-and-electronics-assessments-by-tom/"><u>Comprehensive Computer and Electronics Assessments by Tom</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962075455-get-your-canon-mf7e3cdw-drivers-on-windows-free-and-instant-access/"><u>Get Your Canon MF7e3CDW Drivers on Windows - Free and Instant Access</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-google-pixel-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Google Pixel 8 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-f14-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy F14 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-pc-components-and-equipment/"><u>Inside Look at Tom's PC Components and Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-hub-expert-insights-on-cutting-edge-technology/"><u>Inside Tom's Hardware Hub: Expert Insights on Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-metal-3d-printing-the-compact-and-economical-micronics-sls-printer-2999/"><u>Introducing the New Era of Metal 3D Printing: The Compact and Economical Micronics' SLS Printer ($2,999)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insiders-guide-to-professional-gif-creation/"><u>The Insider's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-using-phrozen-sonic-mega-8k-s-resin-in-your-printer-farm-setup/"><u>Ultimate Guide to Using Phrozen Sonic Mega 8K S Resin in Your Printer Farm Setup</u></a></li>
+</ul></div>
+

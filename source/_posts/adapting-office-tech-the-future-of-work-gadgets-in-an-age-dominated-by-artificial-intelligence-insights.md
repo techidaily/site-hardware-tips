@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Tech: The Future of Work Gadgets in an Age Dominated by Artificial Intelligence - Insights"
-date: 2024-10-16T16:42:03.392Z
-updated: 2024-10-20T22:06:21.087Z
+date: 2024-10-22T16:42:00.601Z
+updated: 2024-10-27T01:02:17.058Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,16 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -142,20 +136,14 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-crafting-standout-content-on-reddit-strategic-guide-available/"><u>[New] In 2024, Crafting Standout Content on Reddit - Strategic Guide Available</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-high-performance-tools-youtube-meets-twitter/"><u>[New] In 2024, High-Performance Tools YouTube Meets Twitter</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-freefire-gaming-guide-maximizing-video-impact/"><u>[Updated] 2024 Approved FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/8-youtube-thumbnail-grabbers-you-should-know-for-2024/"><u>Best 8 YouTube Thumbnail Grabbers You Should Know for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-up-your-portable-play-with-the-fastest-ssd-options-for-steam-deck-gamers/"><u>Power Up Your Portable Play with the Fastest SSD Options for Steam Deck Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-verdict-unveiling-the-capabilities-of-the-xtool-s1-diode-laser-system-for-personal-workspaces/"><u>Professional Verdict: Unveiling the Capabilities of the XTool S1 Diode Laser System for Personal Workspaces</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-yourself-from-fake-chatgpt-websites-detection-techniques/"><u>Protect Yourself From Fake ChatGPT Websites: Detection Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/real-time-collage-wizardry-tips-and-tricks/"><u>Real-Time Collage Wizardry Tips & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-diy-fabrication-an-insightful-evaluation-of-the-elegoo-neptune-4-pros-capabilities/"><u>Revolutionizing DIY Fabrication – An Insightful Evaluation of the Elegoo Neptune 4 Pro's Capabilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sustainable-3d-printing-solutions-with-recycled-kitchenware-as-premium-filament-source/"><u>Sustainable 3D Printing Solutions with Recycled Kitchenware as Premium Filament Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-resource-for-computer-enthusiasts-toms-hardware-explored/"><u>The Definitive Resource for Computer Enthusiasts - Tom's Hardware Explored</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-perfect-tenth-birthday-gift-from-creality-unveiling-their-first-multi-colored-3d-printer/"><u>The Perfect Tenth Birthday Gift From Creality: Unveiling Their First Multi-Colored 3D Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-your-next-pc-advice-from-toms-hardware/"><u>The Ultimate Guide to Choosing Your Next PC - Advice From Tom's Hardware</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-6-effective-phone-call-voice-modifiers-for-android-and-desktop-devices/"><u>Top 6 Effective Phone Call Voice Modifiers for Android & Desktop Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/vintage-stop-motion-magic-15-timeless-titles/"><u>Vintage Stop-Motion Magic #15 Timeless Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>[New] In 2024, Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/concurrent-resolutions-although-non-binding-they-may-be-used-by-the-house-to-express-its-collective-stance-on-fiscal-matters-urging-compliance-from-the-sena17/"><u>Concurrent Resolutions – Although Non-Binding, They May Be Used by the House to Express Its Collective Stance on Fiscal Matters, Urging Compliance From the Senate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/concurrent-resolutions-although-non-binding-they-may-be-used-by-the-house-to-express-its-collective-stance-on-fiscal-matters-urging-compliance-from-the-sena20/"><u>Concurrent Resolutions – Although Non-Binding, They May Be Used by the House to Express Its Collective Stance on Fiscal Matters, Urging Compliance From the Senate.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-premium-sound-quality-79-for-corsairs-void-rgb-elite-a-top-tier-wireless-headset-perfect-for-pc-and-playstation-5-gaming/"><u>Experience Premium Sound Quality: $79 for Corsair's Void RGB Elite – A Top-Tier, Wireless Headset Perfect for PC and PlayStation 5 Gaming.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-motorola-moto-g04-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Motorola Moto G04 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a60-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A60 Fingerprint Lock</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highest-achievers-in-the-realm-of-reddit-posts/"><u>In 2024, Highest Achievers in the Realm of Reddit Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gameplay-get-asus-rog-strix-scope-ii-gaming-keyboard-at-only-69/"><u>Transform Your Gameplay: Get ASUS ROG Strix Scope II Gaming Keyboard at Only $69</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-and-fix-non-playable-udf-dvd-movies-using-winx-dvd-ripper-software/"><u>Troubleshoot and Fix Non-Playable UDF DVD Movies Using WinX DVD Ripper Software</u></a></li>
 </ul></div>
 

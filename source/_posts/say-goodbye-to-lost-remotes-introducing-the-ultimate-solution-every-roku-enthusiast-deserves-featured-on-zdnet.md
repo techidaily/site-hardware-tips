@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Lost Remotes: Introducing the Ultimate Solution Every Roku Enthusiast Deserves, Featured on ZDNet"
-date: 2024-09-19 11:11:38
-updated: 2024-09-20 12:43:30
+date: 2024-10-23T17:11:03.249Z
+updated: 2024-10-26T19:51:16.910Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -68,6 +75,13 @@ Because I don't have any sort of XLR mixing module, I wasn't able to compare how
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ShurePlus Motiv app
 
 As I said, the [ShurePlus Motiv app](https://www.shure.com/en-US/products/software/shure%5Fplus%5Fmotiv%5Fdesktop) isn't strictly necessary to use the MV7 microphone with your computer, but if you want to get the most out of your mic without needing a degree in audio engineering, I highly recommend downloading it; the app is free and simple enough to use, even for beginners. 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,31 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs-for-2024/"><u>[New] Navigating the World of Online Broadcasts on YouTube and Twitch with OBS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prodigious-story-making-worlds-top-8-institutions/"><u>[New] Prodigious Story Making World's Top 8 Institutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-draft-humoristic-visuals-with-adobe-suite/"><u>[Updated] Draft Humoristic Visuals with Adobe Suite</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-embark-on-a-google-meet-journey/"><u>2024 Approved Embark on a Google Meet Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acknowledging-setbacks-ekwbs-official-apology-and-resolution-plan-for-delayed-payments-to-workers-and-partners/"><u>Acknowledging Setbacks: EKWB'S Official Apology and Resolution Plan for Delayed Payments to Workers and Partners</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-razr-40-easily-by-drfone-android/"><u>How To Unlock a Motorola Razr 40 Easily?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724256-keep-your-temperature-right-with-arctics-superior-liquid-freezer-ii-aio-cooler-for-a-steal-at-just-74/"><u>Keep Your Temperature Right with Arctic's Superior Liquid Freezer II AIO Cooler for a Steal at Just $74</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/key-russian-language-elements-your-journey-starter-kit/"><u>Key Russian Language Elements: Your Journey Starter Kit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-exceptional-aio-cooler-by-manufacturer-tryx-chinas-latest-with-stunning-curved-amoled-display-technology/"><u>Meet the Exceptional AIO Cooler by Manufacturer Tryx - China's Latest with Stunning Curved AMOLED Display Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-tom-a-deep-dive-into-electronics-and-hardware/"><u>Navigating the Tech World with Tom: A Deep Dive Into Electronics and Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-new-technology-with-toms-hardware-guides/"><u>Navigating Through New Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlined-steps-easy-recording-on-vimeo/"><u>Streamlined Steps Easy Recording on Vimeo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-step-by-step-process-of-partitioning-models-for-optimal-3d-printing/"><u>The Step-by-Step Process of Partitioning Models for Optimal 3D Printing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-an-effective-inexpensive-philips-hf352-clock/"><u>The Ultimate Guide to Choosing an Effective, Inexpensive Philips HF352# Clock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-offer-top-notch-black-nylon-filament-for-3d-printing-at-a-steal-just-16kg/"><u>Unbelievable Offer: Top-Notch Black Nylon Filament for 3D Printing at a Steal – Just $16/Kg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-3d-printing-at-rapid-plus-tct-2024-discover-new-tech-filaments-and-more/"><u>Unveiling the Future of 3D Printing at Rapid + TCT 2024 – Discover New Tech, Filaments & More!</u></a></li>
+</ul></div>
+

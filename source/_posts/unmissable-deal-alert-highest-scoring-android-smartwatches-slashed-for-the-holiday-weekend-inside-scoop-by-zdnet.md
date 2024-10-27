@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Deal Alert: Highest Scoring Android Smartwatches Slashed for the Holiday Weekend - Inside Scoop by ZDNET"
-date: 2024-09-19 14:43:16
-updated: 2024-09-20 11:41:42
+date: 2024-10-21T00:00:49.162Z
+updated: 2024-10-26T18:28:42.270Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-retrieve-your-voice-on-youtube-comments/"><u>[New] How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-gaming-mouse-rog-keris-ii-ace-a-lightweight-rivals-to-the-iconic-deathadder-v3-pro/"><u>Asus Unveils New Gaming Mouse - ROG Keris II Ace, a Lightweight Rivals to the Iconic DeathAdder V3 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862789860-discover-unbeatable-bargain-samsungs-odyssey-g5eby-27-qhd-ips-monitor-at-a-steal-255/"><u>Discover Unbeatable Bargain – Samsung's Odyssey G5eby - 27” QHD IPS Monitor at a Steal: $255.</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-will-reels-redefine-user-engagement-against-tiktok/"><u>Facebook, Will Reels Redefine User Engagement Against TikTok?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-making-youtube-video-thumbnails-mobile/"><u>In 2024, Step-by-Step Making YouTube Video Thumbnails (Mobile)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-hyperlink-integration-in-flipbook-ebooks-a-complete-guide/"><u>Mastering Hyperlink Integration in FlipBook Ebooks - A Complete Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-s-best-gopro-editing-tools-replacing-gopro-studio-with-these-alternatives/"><u>New In 2024, S Best GoPro Editing Tools Replacing GoPro Studio with These Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/proven-strategies-for-superior-design-with-canva/"><u>Proven Strategies for Superior Design with Canva</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-up-your-skills-techniques-for-a-smoother-experience-with-higher-fps-in-ring-of-elysium/"><u>Step Up Your Skills: Techniques for a Smoother Experience with Higher FPS in Ring of Elysium</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862800358-the-game-changer-a-high-end-sceptre-24-curved-monitor-for-gamers-now-just-79/"><u>The Game Changer: A High-End Sceptre 24 Curved Monitor for Gamers – Now Just $79</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-pc-and-hardware-insights-the-ultimate-resource/"><u>Tom's PC and Hardware Insights: The Ultimate Resource</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-hardware-analysis-t172386287988620/"><u>Tom's Tech Insights: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets-t172386287988821/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-gadgets-with-toms-hardware-insights/"><u>Unveiling New Gadgets with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-with-toms-equipment-guides/"><u>Unveiling the Latest in Computing with Tom’s Equipment Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-next-gen-computing-at-techodyssey-by-tom/"><u>Unveiling the Secrets of Next-Gen Computing at TechOdyssey by Tom</u></a></li>
+</ul></div>
+

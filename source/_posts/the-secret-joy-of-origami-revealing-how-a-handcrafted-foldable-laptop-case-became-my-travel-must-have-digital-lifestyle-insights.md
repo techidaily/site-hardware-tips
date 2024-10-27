@@ -1,7 +1,7 @@
 ---
 title: "The Secret Joy of Origami: Revealing How a Handcrafted Foldable Laptop Case Became My Travel Must-Have | Digital Lifestyle Insights"
-date: 2024-10-13T17:44:42.226Z
-updated: 2024-10-20T21:02:49.925Z
+date: 2024-10-21T21:59:21.750Z
+updated: 2024-10-26T19:33:13.393Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,16 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,22 +119,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-viewers-to-valuables-mastering-video-monetization-on-vimeo/"><u>[New] 2024 Approved From Viewers to Valuables Mastering Video Monetization on Vimeo</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>[Updated] Boost Your Visibility with a Cutting-Edge Set of Banners</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-direct-youtube-video-capture-guide/"><u>[Updated] In 2024, Direct YouTube Video Capture Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-modify-where-mac-photos-stash-location/"><u>[Updated] In 2024, Modify Where Mac Photos Stash Location</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-guide-to-transforming-swf-files-into-avi-format/"><u>Easy Guide to Transforming SWF Files Into AVI Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-tips-using-command-prompt-within-windows-folders-efficiently/"><u>Quick Tips: Using Command Prompt Within Windows Folders Efficiently</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-social-media-sensation-kit-building-memes-on-9gag-for-2024/"><u>The Social Media Sensation Kit Building Memes on 9GAG for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125254753-the-ultimate-guide-to-the-top-laptop-picks-for-college-students-perfect-for-work-creativity-entertainment-etc/"><u>The Ultimate Guide to the Top Laptop Picks for College Students: Perfect for Work, Creativity, Entertainment, Etc</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-upgrading-your-raspberry-pi-pico/"><u>The Ultimate Guide to Upgrading Your Raspberry Pi Pico</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-gear/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-x570-motherboards-featuring-advanced-amd-am4-platforms/"><u>Top-Rated X570 Motherboards Featuring Advanced AMD AM4 Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-hardware-expertise/"><u>Unlocking Performance Secrets with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-expert-hardware-reviews/"><u>Unveiling Gadgets with Tom - Expert Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-high-performance-hardware-at-toms-review-hub/"><u>Unveiling High-Performance Hardware at Tom’s Review Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-newest-in-technology-tools-by-toms-tech-spotlight/"><u>Unveiling the Newest in Technology Tools by Tom's Tech Spotlight</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-building-your-asmr-empire-key-concepts-and-best-practices/"><u>[New] In 2024, Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-reversal-techniques-a-new-perspective-on-youtube-videos/"><u>[Updated] In 2024, Reversal Techniques A New Perspective on YouTube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-google-pixel-7a-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Google Pixel 7a to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/historic-discount-alert-grab-the-logitech-g-pro-for-just-54-best-offer-yet/"><u>Historic Discount Alert! Grab the Logitech G Pro for Just $54 – Best Offer Yet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-efficiently-use-zoom-features-on-ios-devices/"><u>How to Efficiently Use Zoom Features on iOS Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-today-to-tomorrow-the-drone-evolution-story/"><u>In 2024, From Today to Tomorrow The Drone Evolution Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mass-dismissals-at-wells-fargo-employees-caught-using-mouse-movers-and-software-to-mimic-activity/"><u>Mass Dismissals at Wells Fargo: Employees Caught Using Mouse Movers and Software to Mimic Activity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-with-toms-expert-guidance-and-reviews/"><u>Navigating the Tech World with Tom's Expert Guidance and Reviews</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seeking-solutions-why-no-facebook-videos-pop-up/"><u>Seeking Solutions Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-critical-media-device-drivers-missing-from-your-pc/"><u>Solved: Critical Media Device Drivers Missing From Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/super-affordable-logitech-g502-hero-gaming-mouse-unleash-precision-with-25k-dpi-for-just-35/"><u>Super Affordable Logitech G502 Hero Gaming Mouse: Unleash Precision with 25K DPI for Just $35!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-next-step-after-vlc-top-media-players-reviewed-for-2024/"><u>The Next Step After VLC - Top Media Players Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-prime-listening-guide-to-youtube-standards/"><u>The Prime Listening Guide to YouTube Standards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-hardware-explorations/"><u>Tom's Tech Insights: Advanced Hardware Explorations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-insights-into-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-gaming-headsets-of-2024-compare-features-from-affordable-to-premium/"><u>Top Rated Wireless Gaming Headsets of 2024: Compare Features From Affordable to Premium</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xyzas-compact-keyboard-revolution-introducing-version-20-with-unique-3-key-customization-and-handy-volume-control/"><u>XYZA's Compact Keyboard Revolution: Introducing Version 2.0 with Unique 3-Key Customization and Handy Volume Control</u></a></li>
 </ul></div>
 

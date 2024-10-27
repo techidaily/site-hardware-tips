@@ -1,7 +1,7 @@
 ---
 title: "Critical Update for Roku Owners: More Than 15,000 Accounts Compromised – Immediate Action Required | ZDNet"
-date: 2024-09-18 11:54:53
-updated: 2024-09-20 12:45:57
+date: 2024-10-25T16:36:30.564Z
+updated: 2024-10-26T23:48:56.206Z
 tags:
   - streaming-devices
 categories:
@@ -58,11 +58,39 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>2024 Approved How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlocking-potential-the-best-non-vimeo-editors-listed/"><u>2024 Approved Unlocking Potential The Best Non-Vimeo Editors Listed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/drones-demystified-crucial-considerations-before-buying-for-2024/"><u>Drones Demystified Crucial Considerations Before Buying for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-free-to-funded-monetization-mastery-for-fb-pages/"><u>In 2024, From Free to Funded Monetization Mastery for FB Pages</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-c33-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme C33 2023 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-through-toms-hardware-expertise/"><u>Mastering Technology Insights Through Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-premium-monitors-for-ps5-and-xbox-series-enthusiasts/"><u>The Ultimate Guide to Choosing Premium Monitors for PS5 and Xbox Series Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-computer-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultimate-printing-power-with-a-discount-grab-elegoo-neptune-4-pro-at-75-off/"><u>Unleash Ultimate Printing Power with a Discount - Grab Elegoo Neptune 4 Pro at $75 Off!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-with-toms-technology-hub/"><u>Unveiling the Latest with Tom's Technology Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-effortless-video-editing-how-to-add-effects-in-fcp-x-3-simple-steps/"><u>Updated In 2024, Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

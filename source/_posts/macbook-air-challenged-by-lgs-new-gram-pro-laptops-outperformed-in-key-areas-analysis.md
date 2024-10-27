@@ -1,7 +1,7 @@
 ---
 title: MacBook Air Challenged by LG's New Gram Pro Laptops, Outperformed in Key Areas Analysis
-date: 2024-10-16T00:09:02.973Z
-updated: 2024-10-21T02:02:15.264Z
+date: 2024-10-23T20:14:22.471Z
+updated: 2024-10-26T19:28:19.584Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +77,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,22 +119,16 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-apex-craftsman-studio-evaluation/"><u>[New] 2024 Approved Apex Craftsman Studio Evaluation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-replay-on-iphone-set-videos-cycling/"><u>[New] 2024 Approved Easy Replay on iPhone Set Videos Cycling</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-amplify-your-messages-a-guide-to-effective-telegram-advertising-for-2024/"><u>[New] Amplify Your Messages A Guide to Effective Telegram Advertising for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-guide-to-accurate-transfer-of-camera-photos-to-social-media-apps/"><u>[New] Guide to Accurate Transfer of Camera Photos to Social Media Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-guide-to-sharing-your-tiktok-content-on-twitter/"><u>[Updated] 2024 Approved The Guide to Sharing Your TikTok Content on Twitter</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy XCover 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-true-to-life-wood-objects-using-a-novel-3d-printing-approach-and-sawdust-ink-material/"><u>Crafting True-to-Life Wood Objects Using a Novel 3D Printing Approach and Sawdust Ink Material</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-technology-with-toms-hardware-insights/"><u>Decoding Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175706142-deepcools-latest-innovations-next-gen-coolers-psus-and-more-now-featuring-customizable-pixel-silicone-design-accents/"><u>DeepCool's Latest Innovations: Next-Gen Coolers, PSUs & More - Now Featuring Customizable Pixel Silicone Design Accents!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-technology-with-toms-hardware-reviews/"><u>Delving Into Technology with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-gear-with-toms-pc-and-component-analysis/"><u>Discover Cutting-Edge Gear with Tom's PC and Component Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-computer-components-with-toms-hardware-experts/"><u>Discover the Latest in Computer Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-knowledge-discoveries-from-toms-tech-world/"><u>Dive Into Hardware Knowledge - Discoveries From Tom's Tech World</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dual-storage-mastery-how-to-delete-icloud-images-and-keep-them-intact-on-iphone/"><u>Dual-Storage Mastery: How to Delete iCloud Images and Keep Them Intact on iPhone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125257451-elevate-your-raspberry-pi-projects-with-the-premier-selection-of-2024s-top-hat-devices/"><u>Elevate Your Raspberry Pi Projects with the Premier Selection of 2024'S Top HAT Devices!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-ameren-is-harnessing-abbyy-intelligent-automation-to-revamp-finance-and-accounting-processes-exclusive-update-from-the-official-abbyy-blog/"><u>How Ameren Is Harnessing ABBYY Intelligent Automation to Revamp Finance & Accounting Processes - Exclusive Update From the Official ABBYY Blog</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-3-strategies-for-capturing-real-time-sports-events-online/"><u>Top 3 Strategies for Capturing Real-Time Sports Events Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>[New] Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[New] Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-accessible-steps-to-proficiently-watch-facebook-live-feeds/"><u>[Updated] In 2024, Accessible Steps to Proficiently Watch Facebook Live Feeds</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a18-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-building-tips-by-tom-unlocking-performance-secrets/"><u>Advanced PC Building Tips by Tom - Unlocking Performance Secrets</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030608777-mkv/"><u>MKVファイルからオーディオトラックの抽出と削除手順</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/musical-pixels-perfecting-instagram-video-choreography/"><u>Musical Pixels Perfecting Instagram Video Choreography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-enhances-sff-computing-introducing-the-nh-l12sx77-low-profile-cpu-cooler-for-optimal-ram-placement-and-superior-vrm-temperature-control/"><u>Noctua Enhances SFF Computing: Introducing the NH-L12Sx77 Low-Profile CPU Cooler for Optimal Ram Placement & Superior VRM Temperature Control</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-lamptron-cpu-cooler-features-an-oversized-screen-comparable-to-iphone-15-the-st0ns-model-with-six-inch-full-hd-lcd-for-dual-monitor-setup/"><u>Revolutionary Lamptron CPU Cooler Features an Oversized Screen Comparable to iPhone 15 - The ST0nS Model with Six-Inch Full HD LCD for Dual Monitor Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gaming-displays-ultimate-guide-to-choosing-monitors-for-playstation-5-xbox-series-x-and-s/"><u>Top Gaming Displays: Ultimate Guide to Choosing Monitors for PlayStation 5, Xbox Series X & S</u></a></li>
 </ul></div>
 

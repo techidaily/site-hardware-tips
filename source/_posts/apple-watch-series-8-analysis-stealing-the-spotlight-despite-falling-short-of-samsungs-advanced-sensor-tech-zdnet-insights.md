@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Series 8 Analysis: Stealing the Spotlight Despite Falling Short of Samsung's Advanced Sensor Tech - ZDNet Insights"
-date: 2024-09-19 12:37:53
-updated: 2024-09-20 10:25:24
+date: 2024-10-22T01:25:00.963Z
+updated: 2024-10-26T20:26:34.183Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-leading-free-console-reproduction-devices/"><u>[New] In 2024, Leading Free Console Reproduction Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools/"><u>[New] Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-startup-to-success-skyrocketing-youtube-subs/"><u>[Updated] 2024 Approved From Startup to Success Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-24-clever-tiktoks-the-comedy-goldmine/"><u>[Updated] In 2024, 24 Clever TikToks The Comedy Goldmine</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-the-art-of-tiktok-with-apple-and-windows-devices/"><u>[Updated] Mastering the Art of TikTok with Apple and Windows Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transformative-techniques-applying-luts-for-dynamic-effects-in-after-effects/"><u>[Updated] Transformative Techniques Applying LUTs for Dynamic Effects in After Effects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-unexpected-10-truths-about-instagram-reels-for-2024/"><u>[Updated] Unveiling the Unexpected 10 Truths About Instagram Reels for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125181063-dont-miss-out-secure-your-editor-endorsed-elegoo-neptune-amo-now-at-an-amazing-75-off-deal/"><u>Don't Miss Out: Secure Your Editor-Endorsed Elegoo Neptune Amo, Now at an Amazing $75 Off Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-tom-navigating-modern-technology/"><u>Expert Advice From Tom - Navigating Modern Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-from-editing-desk-to-youtube-post-production-processes/"><u>In 2024, From Editing Desk to YouTube Post-Production Processes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-computer-specs-and-performance-guidance-from-toms-hardware/"><u>Mastering Computer Specs and Performance: Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-technology-landscape-with-expert-advice-from-toms-gear-guide/"><u>Mastering the Technology Landscape with Expert Advice From Tom's Gear Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-a-guide-from-toms-hardware/"><u>Navigating the World of Electronics - A Guide From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-pc-cooling-foolproof-thermal-interface-material-tim-applier-by-x-apply-coming-shortly/"><u>Revolutionize Your PC Cooling: 'Foolproof' Thermal Interface Material (TIM) Applier by X-Apply - Coming Shortly!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/submerged-success-a-breakthrough-3d-printer-operating-within-a-public-swimming-pool/"><u>Submerged Success: A Breakthrough 3D Printer Operating Within a Public Swimming Pool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-potential-inside-look-at-sk1-two-trees-fast-free-software-core-processor-performance/"><u>Unlocking Potential: Inside Look at SK1 Two Trees' Fast, Free Software Core Processor Performance</u></a></li>
+</ul></div>
+

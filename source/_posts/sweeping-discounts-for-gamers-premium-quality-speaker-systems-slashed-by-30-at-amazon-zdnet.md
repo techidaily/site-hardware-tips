@@ -1,7 +1,7 @@
 ---
 title: "Sweeping Discounts for Gamers: Premium Quality Speaker Systems Slashed by 30%% at Amazon | ZDNet"
-date: 2024-10-18T05:34:13.129Z
-updated: 2024-10-20T16:59:23.017Z
+date: 2024-10-22T19:23:35.465Z
+updated: 2024-10-27T01:01:30.471Z
 tags:
   - laptops
 categories:
@@ -75,10 +75,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -90,10 +90,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,22 +130,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-polaroid-camplus-pro-a-complete-action-recorder-review/"><u>[New] Polaroid Cam+ Pro A Complete Action Recorder Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screen-recording-techniques-for-enhanced-creativity/"><u>[Updated] In 2024, Screen Recording Techniques for Enhanced Creativity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-implementing-luts-in-creative-suite/"><u>2024 Approved Advanced Techniques for Implementing LUTs in Creative Suite</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-growth-the-best-online-stock-yts-for-2024/"><u>Charting Growth The Best Online Stock YTs for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-itel-s23-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Itel S23 Data? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-10-smart-strategies-for-novice-photo-editors-in-ps/"><u>In 2024, 10 Smart Strategies for Novice Photo Editors in PS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-90-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 90 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-attempting-to-print-a-gun-at-home-using-3d-technology/"><u>Inside Look: Attempting to Print a Gun at Home Using 3D Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-guide-to-computer-peripherals/"><u>Mastering Gadgets with Tom's Guide to Computer Peripherals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/most-economic-high-quality-mechanical-keyboards/"><u>Most Economic High-Quality Mechanical Keyboards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-labyrinth-tips-from-toms-computer-analysis/"><u>Navigating the Tech Labyrinth: Tips From Tom's Computer Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronics-reviews-for-top-tier-tech-insight/"><u>Navigating Tom's Electronics Reviews for Top-Tier Tech Insight</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728486288502-outlook-5/"><u>Outlook 郵件丟失跑步術：5實用方法簡化解決</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/preventing-delamination-tips-for-impeccable-3d-printed-objects/"><u>Preventing Delamination: Tips for Impeccable 3D Printed Objects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviewing-sovol-sv08-a-tribute-model-celebrating-vorons-legacy/"><u>Reviewing Sovol SV08: A Tribute Model Celebrating Voron's Legacy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-quick-print-method-unveiled-by-mit-with-recycled-metals-and-glass-beads/"><u>Revolutionary Quick-Print Method Unveiled by MIT with Recycled Metals & Glass Beads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-insights-how-to-make-your-videos-a-hit/"><u>[New] In 2024, Instagram Insights How to Make Your Videos a Hit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-secrets-to-the-top-6-free-and-online-shorts-collectors-for-2024/"><u>[Updated] Secrets to the Top 6 Free & Online Shorts Collectors for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-stealthy-stroll-through-facebook-episodes/"><u>[Updated] Stealthy Stroll Through Facebook Episodes</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-how-to-recover-skp-files-in-sketchup-a-step-by-step-guide/"><u>1. How to Recover SKP Files in SketchUp: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964494769-budget-gaming-cpu-alert-intel-core-i5-12600k-now-just-189/"><u>Budget Gaming CPU Alert: Intel Core I5-12600K Now Just $189!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/con-resuleto-su-servidor-de-windows-mantiene-un-unico-respaldo-actualizado/"><u>Con Resuleto, Su Servidor De Windows Mantiene Un Único Respaldo Actualizado</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evga-offers-free-new-nvme-drives-following-mishap-with-returned-psus/"><u>EVGA Offers Free New NVMe Drives Following Mishap with Returned PSUs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-copyright-safe-techniques-for-youtube-to-mp4/"><u>In 2024, Copyright-Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-the-definitive-source-for-pc-gear-insights-and-evaluations/"><u>Inside Tom's Hardware: The Definitive Source for PC Gear Insights and Evaluations</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-memoji-talk-make-memoji-video-on-your-own-for-2024/"><u>New How to Make Memoji Talk-Make Memoji Video On Your Own for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phanteks-revolutionary-revolt-psu-powering-up-without-the-mess-of-extra-cables/"><u>Phanteks Revolutionary Revolt PSU: Powering Up Without the Mess of Extra Cables</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pc-aesthetics-with-lian-lis-strimer-plus-v2-a-comprehensive-review-of-its-dazzling-psu-cable-illumination-upgrade/"><u>Revolutionizing PC Aesthetics with Lian Li's Strimer Plus V2 - A Comprehensive Review of Its Dazzling PSU Cable Illumination Upgrade</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-to-resolve-the-libexec32dll-file-not-foundmissing-error/"><u>Solutions to Resolve the 'libexec32.dll' File Not Found/Missing Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-reviews-and-advice/"><u>Tom's Tech Review: In-Depth Reviews and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on Latest Computer Gear</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-gadget-evaluations-and-comparisons/"><u>Tom's Tech Reviews: In-Depth Gadget Evaluations and Comparisons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-vr-ultimate-guide-connecting-ps-vr-console-with-your-personal-computer/"><u>Wireless VR: Ultimate Guide - Connecting PS VR Console with Your Personal Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008483221-yakuza-like-a-dragon-the-ultimate-steam-gameplay-experience/"><u>Yakuza: Like a Dragon - The Ultimate Steam Gameplay Experience!</u></a></li>
 </ul></div>
 

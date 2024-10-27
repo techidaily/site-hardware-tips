@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Exclusive Deal: Apple Watch Series 10 Pre-Order Now From Just $99 at Best Buy – The Complete Guide | ZDNet"
-date: 2024-09-19 11:14:42
-updated: 2024-09-20 11:42:55
+date: 2024-10-20T23:18:26.910Z
+updated: 2024-10-26T20:53:46.128Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,26 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-elite-selection-of-text-motion-packages/"><u>[New] In 2024, Elite Selection of Text Motion Packages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-innovative-social-media-tag-trackers-facebook-tweet-and-instagram/"><u>2024 Approved Innovative Social Media Tag Trackers Facebook, Tweet & Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cook-with-confidence-how-chatgpt-enhances-your-kitchen-experience/"><u>Cook with Confidence: How ChatGPT Enhances Your Kitchen Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-leading-3d-printing-filaments-to-watch/"><u>Expert Picks: Leading 3D Printing Filaments to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-solutions-with-toms-digital-workshop/"><u>Exploring Hardware Solutions with Tom's Digital Workshop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G 5G (2023) to New Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-story-whats-not-in-public-knowledge/"><u>Instagram Story What's Not in Public Knowledge?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-in-modern-devices-from-toms-hardware-analysis/"><u>Masterclass in Modern Devices From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-budget-in-additive-manufacturing-a-step-by-step-approach/"><u>Mastering Your Budget in Additive Manufacturing: A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation-for-2024/"><u>SDR Upgrade Manual Unveiling the Secrets of HDR Transformation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-low-volume-playback-system-guide-for-2024/"><u>The Art of Low-Volume Playback System Guide for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tired of Misplacing Your Remote Control? Learn About the New Revolutionary Solution for Roku Users by ZDNet
-date: 2024-09-19 16:36:25
-updated: 2024-09-20 11:21:57
+date: 2024-10-23T22:33:45.983Z
+updated: 2024-10-26T16:48:12.081Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -61,6 +68,13 @@ Taylor Clemons/ZDNet
 Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,28 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-methods-streaming-audio-recording-made-easy-online/"><u>[New] Essential Methods Streaming Audio Recording Made Easy Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-maintain-consistency-in-voice-posts-on-instagram/"><u>[Updated] 2024 Approved How to Maintain Consistency in Voice Posts on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-hide-and-seek-with-fb-episodes/"><u>[Updated] Hide-and-Seek with FB Episodes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-mac-gif-tools-to-avoid-losing-quality-for-2024/"><u>[Updated] Top 10 Mac GIF Tools to Avoid Losing Quality for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-cinemas-craftsmanship-the-best-camera-tricks-and-techniques-24-edition/"><u>2024 Approved Cinema's Craftsmanship The Best Camera Tricks & Techniques - '24 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-assessments-with-toms-digital-diagnostics/"><u>Advanced Tech Assessments with Tom's Digital Diagnostics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-versatility-and-compactness-with-acers-aspire-c27-desktop/"><u>Experience Versatility and Compactness with Acer's Aspire C27 Desktop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-markets-finest-pc-companies/"><u>Exploring the Market's Finest PC Companies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-huge-savings-upgrade-to-a-new-price-of-just-80-on-elegoo-neptone-3plus/"><u>Get Huge Savings: Upgrade to a New Price of Just $80 on Elegoo Neptone 3+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-find-x6-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Find X6 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-top-notch-hardware-tips-from-tom/"><u>Navigating the Tech World: Top-Notch Hardware Tips From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-the-ultimate-resource-on-toms-hardware/"><u>Navigating Through Technology: The Ultimate Resource on Tom's Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-56-ultimate-tv-bargains-for-labor-day-weekend-september-2024-expert-picks-from-zdnet/"><u>Top 56 Ultimate TV Bargains for Labor Day Weekend, September 2024: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-value-of-scythes-mugen-series-6-and-6-black-with-quiet-cooling-technology-at-a-fair-price-point/"><u>Unveiling the Value of Scythe's Mugen Series (6 and 6 Black) with Quiet Cooling Technology at a Fair Price Point</u></a></li>
+</ul></div>
+

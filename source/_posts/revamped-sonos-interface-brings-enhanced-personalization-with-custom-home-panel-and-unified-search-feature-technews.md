@@ -1,7 +1,7 @@
 ---
 title: Revamped Sonos Interface Brings Enhanced Personalization with Custom Home Panel & Unified Search Feature | TechNews
-date: 2024-09-18 21:18:48
-updated: 2024-09-20 11:51:57
+date: 2024-10-21T20:54:37.712Z
+updated: 2024-10-26T22:49:00.420Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -68,6 +75,13 @@ Because I don't have any sort of XLR mixing module, I wasn't able to compare how
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ShurePlus Motiv app
 
 As I said, the [ShurePlus Motiv app](https://www.shure.com/en-US/products/software/shure%5Fplus%5Fmotiv%5Fdesktop) isn't strictly necessary to use the MV7 microphone with your computer, but if you want to get the most out of your mic without needing a degree in audio engineering, I highly recommend downloading it; the app is free and simple enough to use, even for beginners. 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,19 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +163,31 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-recording-presentations-using-webcam/"><u>[New] In 2024, Quick Guide to Recording Presentations Using Webcam</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-bring-life-to-your-instagram-posts-with-branded-graphics-and-icons/"><u>2024 Approved Bring Life to Your Instagram Posts with Branded Graphics & Icons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-luminosity-techniques-to-brighten-iphone-vids/"><u>2024 Approved Luminosity Techniques to Brighten iPhone Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-every-detail-on-mac-free/"><u>Capture Every Detail on Mac - Free</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compreehensive-breakdown-clean-installation-for-graphics-drivers/"><u>Compreehensive Breakdown: Clean Installation for Graphics Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-equipment-testing-by-toms-electronic-hub/"><u>Comprehensive Equipment Testing by Tom's Electronic Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-review-network/"><u>Comprehensive Hardware Guides by Tom’s Review Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquering-challenges-with-gpt-3-openai-style/"><u>Conquering Challenges with GPT-3, OpenAI Style</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-cutting-edge-technology-a-deep-dive-with-toms-hardware/"><u>Navigating Cutting Edge Technology: A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-motherboards-and-cpus-with-tom-an-insiders-perspective/"><u>Navigating Through Motherboards and CPUs with Tom - An Insider's Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rooting-the-risc-v-processor-uncovering-the-dangers-of-the-critical-ghostwrite-security-flaw/"><u>Rooting the RISC-V Processor: Uncovering the Dangers of the Critical GhostWrite Security Flaw</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/schedule-your-file-destruction-on-windows-using-stellar-file-eraser-5-standard-edition/"><u>Schedule Your File Destruction on Windows Using Stellar File Eraser 5 Standard Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/staying-cool-on-a-budget-evaluating-upheres-c5c-and-d6sec-air-conditioners-under-20/"><u>Staying Cool on a Budget: Evaluating UpHere's C5C and D6Sec Air Conditioners Under $20</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-evaluations-by-tom/"><u>The Ultimate Resource for Hardware Evaluations by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-ultimate-guide-by-toms-hardware/"><u>Unlocking Technology Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-satisfaction-analysis-of-the-imo-chat-application/"><u>User Satisfaction Analysis of the Imo Chat Application</u></a></li>
+</ul></div>
+

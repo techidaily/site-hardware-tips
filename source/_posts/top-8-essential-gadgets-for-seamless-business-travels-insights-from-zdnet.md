@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Essential Gadgets for Seamless Business Travels: Insights From ZDNet"
-date: 2024-10-20T06:02:17.174Z
-updated: 2024-10-20T20:53:46.575Z
+date: 2024-10-23T22:19:32.792Z
+updated: 2024-10-26T17:56:02.471Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,18 +121,22 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-itunes-guide-mastering-recordings/"><u>[New] In 2024, The Ultimate iTunes Guide Mastering Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-captureit-all-revisiting-recordmax-users/"><u>[Updated] 2024 Approved CaptureIt All! Revisiting 'RecordMax' Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-ways-to-document-your-virtual-sessions-mac-and-pc-edition/"><u>[Updated] In 2024, Innovative Ways to Document Your Virtual Sessions - Mac & PC Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-constant-sandstorm-game-disruptions-and-errors/"><u>Effective Fixes for Constant Sandstorm Game Disruptions and Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-amazon-prime-video-connectivity-problems-quickly/"><u>How to Resolve Amazon Prime Video Connectivity Problems Quickly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-visual-storytelling-exploring-the-world-of-smart-hdr-photography/"><u>In 2024, Innovating Visual Storytelling Exploring the World of Smart HDR Photography</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-for-overcoming-black-display-glitches-on-your-device/"><u>Solution Guide for Overcoming Black Display Glitches on Your Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-qdmtkx-695-a-review-of-the-best-android-smartphones/"><u>Top-Performing QDMTKX# 695: A Review of the Best Android Smartphones</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steam-errors-installed-easy-anti-cheat-now-game-launches-successfully/"><u>Troubleshooting Steam Errors: Installed Easy Anti-Cheat, Now Game Launches Successfully</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-premium-case-selection-for-your-google-pixel-6-device/"><u>Ultimate Guide: Premium Case Selection for Your Google Pixel 6 Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-cost-effective-strategies-for-purchasing-your-next-smartphone/"><u>Uncovering Cost-Effective Strategies for Purchasing Your Next Smartphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-reason-behind-google-pixel-6s-extended-charge-duration/"><u>Understanding the Reason Behind Google Pixel 6'S Extended Charge Duration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-mobility-how-switching-from-pc-to-smartphone-enhances-convenience/"><u>Unleashing the Power of Mobility: How Switching From PC to Smartphone Enhances Convenience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixizs-pathway-from-picture-taking-to-storytelling-through-videos/"><u>[New] Pixiz's Pathway From Picture Taking to Storytelling Through Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-the-gap-between-standard-and-superior-video-quality-techniques/"><u>[Updated] Bridging the Gap Between Standard and Superior Video Quality Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-snapchats-video-reversal-technique/"><u>[Updated] In 2024, Step-by-Step Snapchat's Video Reversal Technique</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-unresponsive-right-click-issue-for-windows-11-touchpads/"><u>Addressing Unresponsive Right Click Issue for Windows 11 Touchpads</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-value-packed-budget-4k-displays-reviews-and-comparisons/"><u>Most Value-Packed Budget 4K Displays - Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-tom-comprehensive-insights-on-cutting-edge-hardware/"><u>Navigating Tech with Tom: Comprehensive Insights on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-hardware-with-toms-expertise/"><u>Navigating the World of PC Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insight-and-analysis-by-team-tom/"><u>Pioneering Hardware Insight and Analysis by Team Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-strategy-implements-3d-printing-to-construct-scalable-silicon-integrated-circuits/"><u>Pioneering Strategy Implements 3D Printing to Construct Scalable Silicon Integrated Circuits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-performance-insights-by-tomtech-reviews/"><u>Precision Performance Insights by TomTech Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-creality-cr-10-slicer-pro-a-stellar-3d-printer-with-size-complications/"><u>Reviewing Creality CR-10 Slicer Pro: A Stellar 3D Printer with Size Complications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-and-analysis-by-toms-hardware-experts/"><u>Tech Insights and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-graphic-gaze-decoding-youtubes-factful-17-narrative/"><u>The Graphic Gaze Decoding YouTube's Factful '17 Narrative</u></a></li>
+<li><a href="https://win-latest.techidaily.com/the-ultimate-guide-to-personalizing-iphone-message-how-do-you-calculate-the-area-of-a-circle-given-only-its-circumference/"><u>The Ultimate Guide to Personalizing iPhone # Message: How Do You Calculate the Area of a Circle Given only Its Circumference?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-overcome-ps4-freezing-issues-with-easy-steps/"><u>Troubleshoot and Overcome PS4 Freezing Issues with Easy Steps</u></a></li>
 </ul></div>
 

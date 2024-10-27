@@ -1,7 +1,7 @@
 ---
 title: 2024'S Finest Featherweight Computers Ranked by Specialists | In-Depth Analysis
-date: 2024-10-15T05:50:12.635Z
-updated: 2024-10-21T05:40:24.059Z
+date: 2024-10-23T16:32:10.472Z
+updated: 2024-10-26T22:33:12.595Z
 tags:
   - laptops
 categories:
@@ -45,21 +45,7 @@ Cons
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -89,13 +75,6 @@ Cons
 * Generic design
 * Loud fans
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Acer Swift Go 14
 
 ### Best lightweight laptop for AI
@@ -123,13 +102,6 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -162,19 +134,26 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -222,6 +201,13 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -234,6 +220,13 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which is the right lightweight laptop for you?
 
 The best lightweight laptop for you depends on what you want to get out of it. Laptops packed with powerful gaming hardware like the Asus Zephyrus G14 are going to weigh a little more, while extreme lightweight machines like the LG Gram Pro 17 will have some design tradeoffs that go along with their compact size.
@@ -245,6 +238,13 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -278,13 +278,6 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How much does a typical laptop weigh?
 
 Laptops are incredibly thin and light these days, with cutting-edge technology pushing the limit even further each year. Just ten years ago, it wasn't uncommon for laptops to weigh six or seven pounds; today, that seems absurd. 
@@ -292,6 +285,13 @@ Laptops are incredibly thin and light these days, with cutting-edge technology p
 Most laptops today weigh between two and a half and five pounds, with a five-pound laptop being considered on the heavy side. Different configurations change the weight of laptops, as well. More memory and storage will increase the weight -- something to keep in mind when buying. 
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What slim laptop backpack do we recommend?
 
@@ -302,10 +302,16 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
@@ -362,14 +368,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/corsair-air-a115-evaluation-is-the-high-price-justified-by-its-quietness-and-durability/"><u>Corsair Air A115 Evaluation: Is the High Price Justified by Its Quietness and Durability?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-tech-mysteries-insightful-articles-from-toms-hardware-blog/"><u>Deciphering Tech Mysteries: Insightful Articles From Tom’s Hardware Blog</u></a></li>
-<li><a href="https://games-able.techidaily.com/ditch-the-online-top-mobile-gaming-hacks/"><u>Ditch the Online - Top Mobile Gaming Hacks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-avoiding-knots-in-your-3d-printing-filaments/"><u>Effective Strategies for Avoiding Knots in Your 3D Printing Filaments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/endless-loads-not-anymore-quick-solutions-for-madden-nfl-eborne-22s-stuck-screen/"><u>Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-profit-from-publishing-shopping-reviews/"><u>In 2024, Profit From Publishing Shopping Reviews?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/streamline-your-way-to-being-a-latin-whiz/"><u>Streamline Your Way to Being a Latin Whiz</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175723533-the-ultimate-guide-to-hardware-by-tom-informed-choices-await/"><u>The Ultimate Guide to Hardware by Tom - Informed Choices Await</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/icks-for-vloggers-8-mirrorless-cameras-leading-the-pack/"><u>Top Picks for Vloggers 8 Mirrorless Cameras Leading the Pack</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-art-of-instagrams-musical-emoji-use/"><u>2024 Approved Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-motorola-exceptional-phone-models-continue-production/"><u>Exploring Motorola: Exceptional Phone Models Continue Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/former-samsung-staff-detained-after-accusations-of-stealing-18b-from-chip-giants-memories-for-chinese-competitor/"><u>Former Samsung Staff Detained After Accusations of Stealing $1.8B From Chip Giant's Memories for Chinese Competitor</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-mix-fold-3-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Mix Fold 3 phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-hot-40-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Hot 40 Lock Screen Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-hexus-in-depth-analysis-of-computing-systems-and-electronics/"><u>Inside Tom's Hexus: In-Depth Analysis of Computing Systems & Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insights-on-pc-gear-from-toms-hardware-experts/"><u>Insights on PC Gear From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-expertise-t17239719448041/"><u>Navigating the World of Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964482600-nextorages-trailblazing-pcie-gen-4-m2-nvme-ssd-for-gaming-unmatched-speeds-of-up-to-7400-mbs/"><u>Nextorage's Trailblazing PCIe Gen 4 M.2 NVMe SSD for Gaming - Unmatched Speeds of Up to 7,400 MB/S!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-5-best-free-sports-streaming-sites-of-2024/"><u>The 5 Best Free Sports Streaming Sites of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-hardware-and-computing-solutions/"><u>Tom's Tech: The Ultimate Guide to Hardware and Computing Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-oneplus-nord-n10-5g-smartphone-evaluation-a-must-see-comparison/"><u>Top Rated OnePlus Nord N10 5G Smartphone Evaluation – A Must-See Comparison</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-windows-with-newly-released-hp-laserjet-1320-printer-drivers/"><u>Update Your Windows with Newly Released HP LaserJet 1320 Printer Drivers</u></a></li>
 </ul></div>
 

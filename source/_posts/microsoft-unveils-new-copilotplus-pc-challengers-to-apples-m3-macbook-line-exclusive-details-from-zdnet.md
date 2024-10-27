@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils New Copilot+ PC Challengers to Apple's M3 MacBook Line: Exclusive Details From ZDNet"
-date: 2024-10-14T19:27:31.888Z
-updated: 2024-10-20T21:37:35.598Z
+date: 2024-10-22T22:19:07.923Z
+updated: 2024-10-27T00:18:30.477Z
 tags:
   - laptops
 categories:
@@ -53,10 +53,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Live Translation comes to Chromebook
@@ -70,10 +70,10 @@ Live Translate currently works in over 100 languages and, when activated, provid
 This gives Chromebook Plus devices a built-in functionality that is accessible with a single click, useful for anyone working with multiple languages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Help me read: One-click summaries
@@ -87,16 +87,10 @@ Another OS-level AI-powered feature coming to Chromebook Plus devices is the abi
 When I tried this feature first-hand, I thought the initial paragraph the tool generated seemed a little sparse, so I asked additional questions during the demo to engage it further. Additional inputs resulted in a more extensive understanding of the text. These features will be improved in upcoming releases as Google fine-tunes the parameters of the tool's capabilities. 
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.The Recorder app ties it all together
@@ -106,16 +100,10 @@ Google
 Working in tandem with the other AI functions, the recorder app allows for streamlined recording of any audio content on the screen to provide transcriptions, identifying and labeling different speakers, and summarizing the recorded content. I can see this being useful for any business call with multiple speakers, as the app lets you go in and label speakers by name. 
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Two new Chromebooks
@@ -170,19 +158,20 @@ The OLED display on this Chromebook, paired with the sleek and premium-feeling k
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-future-of-editing-shines-with-magix-video-pro-x/"><u>[Updated] The Future of Editing Shines with Magix Video Pro X</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-13-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 13 without Security Questions?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>In 2024, From Basics to Best Achieving Superior Sound via Zoom for Podcasting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-y78plus-t1-edition-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo Y78+ (T1) Edition To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/optimized-video-scale-to-mac-aspect-proportion-for-2024/"><u>Optimized Video Scale to Mac Aspect Proportion for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-fix-gpu-functioning/"><u>Tech Fix - GPU Functioning</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-homemade-confections-in-depth-review-and-tips-for-your-3d-printed-chocolate-adventure-with-cocoa-press/"><u>The Future of Homemade Confections: In-Depth Review and Tips for Your 3D Printed Chocolate Adventure with Cocoa Press</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-tech-journey-with-tom-advanced-review-and-troubleshooting-tips/"><u>The Tech Journey with Tom: Advanced Review and Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-cutting-edge-hardware-discoveries-by-toms-tech-team/"><u>The Ultimate Resource for Cutting-Edge Hardware – Discoveries by Tom's Tech Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-at-toms-tech-desk/"><u>The Ultimate Resource for Hardware Enthusiasts at Tom's Tech Desk</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-and-electronics-reviews/"><u>Tom's Tech Insights: Comprehensive Computer and Electronics Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-performance-testing/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Performance Testing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-video-calls-phone-and-pcs-finest-tools/"><u>[New] 2024 Approved Essential Video Calls Phone & PC's Finest Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-setting-up-your-gaming-studio-with-obs/"><u>[New] In 2024, Setting Up Your Gaming Studio with OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems/"><u>[Updated] 2024 Approved Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-channels-to-watch-in-a-post-tiktok-world/"><u>[Updated] Cutting Edge Channels to Watch in a Post-TikTok World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-scenes-exploring-promised-features-in-bambu-labs-firmware-revamp/"><u>Behind the Scenes: Exploring Promised Features in Bambu Lab's Firmware Revamp</u></a></li>
+<li><a href="https://win-top.techidaily.com/best-seo-strategies-and-software-for-boosting-small-business-visibility/"><u>Best SEO Strategies and Software for Boosting Small Business Visibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/close-competition-pumpless-240mm-aio-cooler-trails-by-a-minor-degree-in-benchmarking-against-conventional-pump-units/"><u>Close Competition: Pumpless 240Mm AIO Cooler Trails by a Minor Degree in Benchmarking Against Conventional Pump Units</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphones-auto-brightness-back-to-normal-with-our-top-er-7-advice/"><u>Get Your iPhone's Auto-Brightness Back to Normal with Our Top Er 7 Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-k11x-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo K11x Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-akasa-gecko-blower-ssd-heatsink-evaluation-enhancing-your-solid-state-drives-cooling/"><u>In-Depth Akasa Gecko Blower SSD Heatsink Evaluation - Enhancing Your Solid State Drive's Cooling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-high-performance-computers-with-toms-hardware-insights/"><u>Inside the World of High-Performance Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-art-of-replicating-natural-wood-textures-aromas-and-appearances-with-3d-prints-and-sawdust-innovation/"><u>The Art of Replicating Natural Wood Textures, Aromas, and Appearances with 3D Prints and Sawdust Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-component-guide/"><u>Tom's Tech Reviews: Comprehensive Computer Component Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-gadgets-with-toms-hardware-expertise/"><u>Unraveling Gadgets with Tom's Hardware Expertise</u></a></li>
 </ul></div>
 

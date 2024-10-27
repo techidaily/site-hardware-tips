@@ -1,7 +1,7 @@
 ---
 title: Redefining Efficiency with Lenovo's New Dual-Display Laptop - A Game Changer in Computing | Expert Review
-date: 2024-10-14T01:42:45.666Z
-updated: 2024-10-21T00:53:15.001Z
+date: 2024-10-19T23:11:55.352Z
+updated: 2024-10-26T21:10:02.054Z
 tags:
   - laptops
 categories:
@@ -54,6 +54,19 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Living with a dual-screen laptop
 
 Does it look excessive on the outside? Yes, but having two 13.3-inch screens at your disposal is the most productivity-friendly advantage of buying the Yoga Book 9i. Not only has Lenovo included two beautiful OLED panels, but they're plenty versatile, too.
@@ -75,10 +88,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -102,10 +115,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -129,10 +142,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -144,13 +157,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,24 +196,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[New] Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/arryminatis-income-blueprint-journey-through-2023/"><u>[New] CarryMinati's Income Blueprint Journey Through 2023</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>[New] In 2024, Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-steps-toward-constructing-an-energy-efficient-tech-savvy-abode/"><u>Affordable Steps Toward Constructing an Energy-Efficient, Tech-Savvy Abode</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/are-smart-rings-allowed-in-airports-understanding-security-check-regulations/"><u>Are Smart Rings Allowed in Airports: Understanding Security Check Regulations?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-water-driven-distortions-in-the-bathroom-top-4-strategies-for-optimal-audio-enjoyment/"><u>Avoid Water-Driven Distortions in the Bathroom: Top 4 Strategies for Optimal Audio Enjoyment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-overclocked-gpu-memory-improve-system-speed-and-efficiency-unpacking-the-myths/"><u>Can Overclocked GPU Memory Improve System Speed and Efficiency? Unpacking the Myths.</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturing-life-in-motion-ipad-timelapse-guide-for-2024/"><u>Capturing Life in Motion IPad Timelapse Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-ecoflow-delta-pro-3-battery-test-powering-your-home-with-reliable-energy-storage/"><u>Comprehensive EcoFlow Delta Pro 3 Battery Test: Powering Your Home with Reliable Energy Storage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-usb-categories-and-uses-understanding-every-type/"><u>Comprehensive Guide to USB Categories & Uses: Understanding Every Type</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-brother-wireless-hl-l2/"><u>Comprehensive Review of Brother Wireless HL-L2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-enhanced-artificial-intelligence-capabilities-on-your-new-samsung-galaxy-s22/"><u>Discover Enhanced Artificial Intelligence Capabilities on Your New Samsung Galaxy S22</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-a-comprehensive-review-of-2024s-finest-television-models/"><u>Discovering Excellence: A Comprehensive Review of 2024'S Finest Television Models</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ensuring-data-safety-a-users-manual-for-backing-up-ipads-pro-mini-and-air-to-icloud-services/"><u>Ensuring Data Safety: A User's Manual for Backing Up iPads (Pro, Mini, and Air) to iCloud Services</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-issues-managing-devices-already-running-programs/"><u>Fixing HDMI Issues: Managing Devices Already Running Programs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigating-through-the-best-10-free-video-chat-options-for-business-and-education-sectors/"><u>Navigating Through the Best 10 Free Video Chat Options for Business and Education Sectors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-your-stories-with-lush-soundtracks/"><u>Share Your Stories with Lush Soundtracks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/turning-compressed-files-into-srt-speaking-texts-quickly-for-2024/"><u>Turning Compressed Files Into .Srt Speaking Texts Quickly for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-concept-to-reality-10-best-music-video-making-companies/"><u>Updated 2024 Approved From Concept to Reality 10 Best Music Video Making Companies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-excellent-hdr-cam-choices/"><u>[New] Navigating Through Excellent HDR Cam Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/60-worth-of-excellence-unveiling-the-potential-of-id-coolings-fx360-pro-our-in-depth-review/"><u>$60 Worth of Excellence? Unveiling the Potential of ID-Cooling's FX360 Pro - Our In-Depth Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-your-sidekick-crafting-epic-stories-through-chatgpts-aid/"><u>AI Your Sidekick: Crafting Epic Stories Through ChatGPT's Aid</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessing-the-valkyrie-vind-sl125-aesthetic-appeal-vs-lackluster-performance-metrics/"><u>Assessing the Valkyrie Vind SL125 - Aesthetic Appeal Vs. Lackluster Performance Metrics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bring-your-ideas-to-life-discover-the-magic-of-phrozens-multi-hued-3d-printer/"><u>Bring Your Ideas to Life - Discover the Magic of Phrozen’s Multi-Hued 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-by-toms-gadget-hub-expert-hardware-reviews/"><u>Comprehensive Guide by Tom's Gadget Hub: Expert Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquer-online-battles-choosing-high-speed-champions-amongst-gaming-routers/"><u>Conquer Online Battles: Choosing High-Speed Champions Amongst Gaming Routers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-vivo-y27s-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Vivo Y27s</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audacitys-guide-to-effortless-audio-transitions/"><u>In 2024, Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-note-12-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi Note 12 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overcooked-2-game-breakdown-savoring-the-madness-and-mastery-of-multiplayer-cook-off-chaos/"><u>Overcooked! 2 Game Breakdown: Savoring the Madness and Mastery of Multiplayer Cook-Off Chaos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-anticipated-debut-of-mafia-definitive-edition-now-scheduled-to-arrive/"><u>The Anticipated Debut of Mafia: Definitive Edition Now Scheduled to Arrive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-voice-to-text-applications/"><u>Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-mysteries-of-toms-electronic-marvels-and-components/"><u>Unveiling the Mysteries of Tom's Electronic Marvels and Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/value-vs-power-in-cooling-tech-a-thorough-review-of-the-frozn-series-by-id-cooling/"><u>Value Vs. Power in Cooling Tech: A Thorough Review of the FROZN Series by ID-Cooling</u></a></li>
 </ul></div>
 
