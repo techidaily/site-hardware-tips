@@ -1,7 +1,7 @@
 ---
 title: "Unlock Productivity Perks & Score Big Savings: Exclusive $93 Off Flip-Out Monitor Offer for Prime Day Shoppers!"
-date: 2024-10-24T21:30:31.291Z
-updated: 2024-10-26T17:38:41.257Z
+date: 2024-10-27T17:10:05.187Z
+updated: 2024-11-01T19:17:23.395Z
 tags:
   - laptops
 categories:
@@ -47,16 +47,10 @@ The Duex Plus works on both Windows and Mac laptops and getting a display output
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Usability and performance
@@ -72,10 +66,10 @@ June Wan/ZDNET
 The biggest question I had going into testing was how battery-consuming the additional monitor would be. With the Duex Plus constantly on and its brightness set to the max, I saw a 6%-7% battery drop every hour, which is comparable to the numbers I've gotten with other portable monitors. Keep in mind that this is with the [16-inch M1 Pro MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C03b82a64-5437-489f-96b7-c925628a2a97%7Cdtp&dtb=1), so your numbers may vary.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -112,17 +106,24 @@ Portable monitors come in all shapes and sizes, but the Mobile Pixels Duex Plus'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>[New] 2024 Approved Styling Your Content A Compreran Guide to Insta Photo Watermarks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtubes-profit-maze-for-2024/"><u>[Updated] Navigating YouTube's Profit Maze for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decoding-instagrams-max-video-length-policy/"><u>2024 Approved Decoding Instagram's Max Video Length Policy</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/sparse-simplicity-dive-into-indolent-gaming/"><u>Sparse Simplicity: Dive Into Indolent Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tips-on-how-to-address-stringing-concerns-when-3d-printing-at-home-or-professionally/"><u>Step-by-Step Tips on How to Address Stringing Concerns When 3D Printing at Home or Professionally</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/symbolizing-sound-designing-a-captivating-podcast-image/"><u>Symbolizing Sound Designing a Captivating Podcast Image</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-enthusiast-dream-home-24-million-texas-estate-showcases-integrated-5786-square-foot-data-centre-with-cutting-edge-full-liquid-cooling-system-living-qua10/"><u>Tech Enthusiast Dream Home: $2.4 Million Texas Estate Showcases Integrated 5,786 Square Foot Data Centre with Cutting-Edge Full Liquid Cooling System – Living Quarters Omitted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-elite-rankings-premium-raspberry-pi-cases-to-optimize-performance/"><u>The Elite Rankings: Premium Raspberry Pi Cases to Optimize Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/thermaltake-unveils-enhanced-120mm-and/"><u>Thermaltake Unveils Enhanced 120Mm &</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-desktops-of-2024/"><u>Top-Ranking Gaming Desktops of 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-the-ultimate-gaming-experience-with-a-large-screen-high-fps-and-hdmi-ports-a-review-of-monoprices-crystal-pro-40-for-gamers-on-budget/"><u>Unlock the Ultimate Gaming Experience with a Large Screen, High FPS & HDMI Ports - A Review of Monoprice's Crystal Pro 40 for Gamers on Budget</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-asmr-a-gateway-to-enhanced-self-care/"><u>[New] ASMR A Gateway to Enhanced Self-Care</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-vidvault-prodigies-mastering-the-download-of-tweeted-videos/"><u>[Updated] 2024 Approved VidVault Prodigies Mastering the Download of Tweeted Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-troubleshooting-techniques-for-sudden-facebook-live-freezes/"><u>[Updated] In 2024, Troubleshooting Techniques for Sudden Facebook Live Freezes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-pixel-powerhouse-comparing-leading-8k-tv-innovations/"><u>2024 Approved Pixel Powerhouse Comparing Leading 8K TV Innovations</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-our-java-essentials-premium-coffee-blends-and-accessories/"><u>Discover Our Java Essentials: Premium Coffee Blends & Accessories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eliminate-invisible-anomalies-a-step-by-step-guide-to-fix-ghosts-in-3d-prints/"><u>Eliminate Invisible Anomalies: A Step-by-Step Guide to Fix Ghosts in 3D Prints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-thermal-performance-with-eks-tailored-waterblock-solutions-for-your-amd-ryzen-am5-cpu-upgrades/"><u>Enhanced Thermal Performance with EK's Tailored Waterblock Solutions for Your AMD Ryzen AM5 CPU Upgrades</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-raspberry-pi-pico/"><u>Essential Gadgets for Your Raspberry Pi Pico</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-digital-gadgets-by-toms-electronics-guide/"><u>Expert Analysis of Digital Gadgets by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-toms-comprehensive-guide-on-hardware/"><u>Expert Review: Tom's Comprehensive Guide on Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-gadgetry-top-picks-and-analyses-from-toms-technological-vault/"><u>Explore Advanced Gadgetry: Top Picks and Analyses From Tom's Technological Vault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-devices-through-toms-electronics-lens/"><u>Exploring Cutting-Edge Devices Through Tom's Electronics Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fire-ants-invade-tech-zone-alarming-case-study-of-a-gpu-unit-destroyed-by-unwanted-guests/"><u>Fire Ants Invade Tech Zone: Alarming Case Study of a GPU Unit Destroyed by Unwanted Guests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadgets-and-components-toms-detailed-insights-and-rating-guide/"><u>Gadgets and Components: Tom's Detailed Insights & Rating Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-upgrade-your-hp-printer-driver-fresh-downloads-for-the-laserjet-p1606dn-and-windows-integration-steps/"><u>How to Upgrade Your HP Printer Driver: Fresh Downloads for the LaserJet P1606dn and Windows Integration Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-select-macos-big-sur-11-apps-for-seamless-video-editing/"><u>In 2024, Select MacOS Big Sur 11 Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-11x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme 11X 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stress-reduction-strategies-with-chatgpt-effective-tips-and-tools/"><u>Stress Reduction Strategies with ChatGPT: Effective Tips and Tools</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-6s-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6s without Passcode or Face ID</u></a></li>
 </ul></div>
 

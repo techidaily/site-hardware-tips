@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Cost-Effective Webcams – ZDNet's Ultimate Guide
-date: 2024-10-25T21:23:10.843Z
-updated: 2024-10-26T19:34:33.817Z
+date: 2024-10-26T16:37:32.345Z
+updated: 2024-11-01T21:10:25.528Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,13 @@ Show less
 
 ## Apple iPhone 14 Pro Max
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best smartphone of 2022
 
 **Tech specs: Processor:** Apple A16 | **Display Size:** 6.7 inches | **Storage Options:** 128GB/256GB/512GB/1TB | **Rear Cameras:** 48MP wide, 12MP ultra-wide, and 12MP telephoto | **Front Camera:** 12MP f/1.9 | **Colors:** Silver, Space Black, Gold, Deep Purple | **Weight:** 240g
@@ -45,13 +52,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Nothing](https://www.awin1.com/awclick.php?mid=48011&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fus.nothing.tech%2Fpages%2Fphone-1)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNothing-Phone1-Smartphone-Factory-Unlocked%2Fdp%2FB0B76JMCM9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C952c15c7-9edf-4d77-8496-fb4a4cfd1980%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nothing Phone 1
 
@@ -87,13 +87,6 @@ Water-Resistant  Yes (IPX4 -- Splash-Proof)
 
 ## Bose QuietComfort II Earbuds
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best earbuds of 2022
 
 **Tech specs: Battery life:**6 hours | **Microphones**: 4 in each earbud | **Bluetooth range:** Up to 30 feet **| Voice assistant:**Yes | **Waterproof rating:**IPX4
@@ -115,10 +108,10 @@ Show less
 ## Apple Watch Ultra
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best smartwatch of 2022
@@ -166,13 +159,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B7Y1ZC9L%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C952c15c7-9edf-4d77-8496-fb4a4cfd1980%7Cdtp&dtb=1)
 
 ## Samsung Galaxy Tab S8 Plus
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best tablet of 2022
 
@@ -226,13 +212,6 @@ Graphics tested  Apple M2 8‑core
 
 ## Apple MacBook Air M2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best laptop of 2022
 
 **Tech specs: Display:** 13.6-inch Liquid Retina display | **Processor:** Apple M2 chip with 8-core CPU and 8-core GPU | **Memory:** 8GB | Storage: 256GB | **Camera:** 1080p FaceTime HD camera | **Connections:** MagSafe 3 charging port, 3.5mm headphone jack, 2 Thunderbolt/USB 4 ports | **Colors**: Silver, starlight, space gray, midnight | **Weight:** 2.7lbs | **Battery:** 15-18 hours
@@ -272,6 +251,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F731543167&subId1=zd-__COM_CLICK_ID__-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Kasa Smart Plug Mini
 
@@ -338,19 +324,26 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09Q7SZHKG%2Fref%3Dasc%5Fdf%5FB09Q7SZHKG1728558000000%3Fcreative%3D395261%26creativeASIN%3DB09Q7SZHKG%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C952c15c7-9edf-4d77-8496-fb4a4cfd1980%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
+<span id="1983473">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Drop + EPOS PC38X Gaming Headset
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best gaming headset of 2022
 
@@ -417,10 +410,10 @@ Show less
 ## Roomba j7+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best robot vacuum of 2022
@@ -438,19 +431,6 @@ The Roomba j7+ doesn't have mopping capabilities, but it does pair beautifully w
 **Read the review:** [**Braava Jet m6 review: A must-have robot mop**](https://www.zdnet.com/home-and-office/kitchen-household/braava-jet-m6-review/)
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are some other top tech products of 2022?
 
@@ -470,9 +450,29 @@ While we think the above devices are the best of the best, we do have some honor
 
 We asked ZDNET writers and editors what their favorite products they reviewed/purchased were in 2022 to compile this list. We also considered new and groundbreaking products that gained popularity over the year, as well as technology that is bringing something new to the sector. 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Were all these products released in 2022?
 
 Most of these products were released this year, but some, such as the Kasa Smart Plug Mini and the Drop + EPOS PC38X gaming headset, were previously released. We were just super impressed with them this year. 
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What technology will trend in 2023?
 
@@ -514,20 +514,24 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-skyrocket-your-rankings-top-youtube-seo-gadgets/"><u>[New] 2024 Approved Skyrocket Your Rankings Top YouTube SEO Gadgets</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-duo-ing-melodies-for-virtual-fame-for-2024/"><u>[New] Duo-Ing Melodies for Virtual Fame for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unleashing-the-magic-searching-for-photos-on-pexels/"><u>[Updated] 2024 Approved Unleashing the Magic Searching for Photos on Pexels</u></a></li>
-<li><a href="https://solve-news.techidaily.com/convert-mov-to-mp4-at-no-cost-easy-online-tools-for-mac-and-windows-11-users/"><u>Convert MOV to MP4 at No Cost - Easy Online Tools for Mac and Windows 11 Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-performance-the-highs-and-lows-of-using-the-cooler-master-ion-360-liquid-chiller-for-overclockers/"><u>Evaluating Performance: The Highs and Lows of Using the Cooler Master ION 360 Liquid Chiller for Overclockers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125152512-experience-top-quality-with-our-favorite-the-eleegoo-neptune-4-pro-now-available-for-only-240-on-newegg/"><u>Experience Top Quality with Our Favorite - The Eleegoo Neptune 4 Pro, Now Available for Only $240 on Newegg</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-dream-the-best-4k-144hz-gaming-monitor-options-to-elevate-your-play-latest-models-reviewed/"><u>Gamers' Dream: The Best 4K, 144Hz Gaming Monitor Options to Elevate Your Play (Latest Models Reviewed)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-13-pro-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 13 Pro?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lowest-price-ever-grab-black-pla-filament-for-3d-printing-at-only-16kg/"><u>Lowest Price Ever: Grab Black PLA Filament for 3D Printing at Only $16/Kg!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/memes-galore-download-and-share-joy/"><u>Memes Galore Download & Share Joy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/nvme-ssd-uphere-m201-heatsink-review-exceptional-cooling-performance-at-an-unbeatable-5-price/"><u>NVMe SSD UpHere M201 Heatsink Review - Exceptional Cooling Performance at an Unbeatable $5 Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-3d-printing-learn-how-to-segment-complex-objects-effectively/"><u>Seamless 3D Printing: Learn How to Segment Complex Objects Effectively</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/securesave-professionals-assessment/"><u>SecureSave Professionals' Assessment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-component-analysis/"><u>Tom's Tech Reviews: Comprehensive Computer Component Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-wireless-roaming-agreement-of-unlimited-metro-by-t-mobile/"><u>Understanding the Wireless Roaming Agreement of Unlimited Metro by T-Mobile</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iscover-times-tales-top-10-historical-channels-to-study-with/"><u>[New] Discover Time's Tales Top 10 Historical Channels to Study With</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-empowered-by-numbers-decoding-youtube-analytics-for-2024/"><u>[New] Empowered by Numbers Decoding YouTube Analytics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-master-the-spectrum-advanced-hdr-tips-for-lightroom-pro/"><u>[New] In 2024, Master the Spectrum Advanced HDR Tips for Lightroom Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-empowering-learning-through-educational-videos-on-youtube/"><u>[Updated] In 2024, Empowering Learning Through Educational Videos on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-intense-evaluation-the-detailed-study-of-bublcam-360/"><u>2024 Approved Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-guide-to-segmenting-your-3d-prints-splitting-objects-efficiently/"><u>A Guide to Segmenting Your 3D Prints: Splitting Objects Efficiently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technologies-unveiled-by-toms-computer-chronicles/"><u>Advanced Technologies Unveiled by Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technology-insights-and-ratings-from-toms-hardware-experts/"><u>Advanced Technology Insights and Ratings From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-and-rating-of-bambulabs-top-tier-queen-mattress-variant/"><u>Comprehensive Breakdown and Rating of BambuLab’s Top-Tier Queen Mattress Variant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175674662-cutting-edge-overhead-cooling-system-mo-ra-iv-600-featuring-nine-powerful-200mm-fans-and-a-massive-weight-of-over-35lbs-for-only-600/"><u>Cutting-Edge Overhead Cooling System: MO-RA IV 600 Featuring Nine Powerful 200Mm Fans and a Massive Weight of over 35Lbs for Only $600!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/giggle-guild-undead-humor-bots/"><u>Giggle Guild Undead Humor Bots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-windows-11-computers-microphone-functionality/"><u>How to Restore Your Windows 11 Computer's Microphone Functionality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-htc-u23-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How HTC U23 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125129096-introducing-the-new-king-of-3d-printing-crealitys-flagship-k1c-reveal-all-about-its-launch-price-and-specs/"><u>Introducing the New King of 3D Printing: Creality's Flagship K1C – Reveal All About Its Launch, Price and Specs!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-guide-speech-to-text-feature-in-microsoft-word/"><u>Quick Guide Speech-to-Text Feature in Microsoft Word</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125179294-score-the-best-deal-on-black-polycarbonate-filament-for-your-printer-only-16-per-kilo/"><u>Score the Best Deal on Black Polycarbonate Filament for Your Printer – Only $16 Per Kilo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/voron-inspired-sovol-sv08-examined-top-speed-and-performance-features/"><u>Voron Inspired Sovol SV08 Examined - Top Speed and Performance Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-error-0xc0000098-a-comprehensive-fixing-guide-for-every-user/"><u>Winning Against Windows Error 0Xc0000098 – A Comprehensive Fixing Guide for Every User</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-toms-in-depth-hardware-analysis/"><u>Your Trusted Source for Tom's In-Depth Hardware Analysis</u></a></li>
 </ul></div>
 

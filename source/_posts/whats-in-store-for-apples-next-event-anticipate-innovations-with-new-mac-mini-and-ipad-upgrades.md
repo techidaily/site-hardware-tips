@@ -1,7 +1,7 @@
 ---
 title: What's in Store for Apple’s Next Event? Anticipate Innovations with New Mac Mini and iPad Upgrades
-date: 2024-10-25T23:12:24.424Z
-updated: 2024-10-26T22:25:04.267Z
+date: 2024-10-27T16:10:23.264Z
+updated: 2024-11-01T20:45:16.932Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,16 +123,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-from-script-to-screenplay-expert-video-editing-insights/"><u>[New] 2024 Approved From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta/"><u>[Updated] Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs/"><u>[Updated] In 2024, __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-realme-11-proplus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 11 Pro+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-with-toms-hardware-rundown/"><u>Delving Into Digital Devices with Tom's Hardware Rundown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-affordable-and-cutting-edge-3d-printers/"><u>Discover the Most Affordable and Cutting-Edge 3D Printers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-snip-save-and-share-high-quality-tamil-ringtones-easily-for-2024/"><u>How to Snip, Save and Share High-Quality Tamil Ringtones Easily for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-xr21-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia XR21 for Free? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/thermal-paste-eaten-by-fire-ants-shocking-discovery-reveals-insects-in-gpu-unit/"><u>Thermal Paste Eaten by Fire Ants? Shocking Discovery Reveals Insects in GPU Unit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-gear-and-components-insights/"><u>Tom's Tech Review: Gear & Components Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y78t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y78t Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11-for-2024/"><u>[New] The Ultimate Guide to Screenshot & Record Mastery on Mi 11 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-watching-the-future-on-screen-androids-2023-update-on-vr-for-2024/"><u>[New] Watching the Future on Screen - Android's 2023 Update on VR for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-exclusive-8-video-download-utilities-guide/"><u>[Updated] 2024 Approved Exclusive 8 Video Download Utilities Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-daily-mobile-decor-the-irresistible-habit-of-changing-wallpapers/"><u>1. Daily Mobile Decor: The Irresistible Habit of Changing Wallpapers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-youtube-equipment-for-starting-your-channel-what-do-you-really-need/"><u>2024 Approved Essential YouTube Equipment For Starting Your Channel - What Do You Really Need?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-guide-eliminating-photo-viewer-crashes-on-windows-10/"><u>2024 Approved Quick Guide Eliminating Photo Viewer Crashes on Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncover-the-top-7-android-alternatives-for-ad-free-browsing/"><u>2024 Approved Uncover the Top 7 Android Alternatives for Ad-Free Browsing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-samsungs-galaxy-s22-launch-key-dates-revealed/"><u>Anticipating Samsung's Galaxy S22 Launch: Key Dates Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/before-purchasing-a-flexible-display-device-unveiling-10-crucial-points-for-informed-decision-making/"><u>Before Purchasing a Flexible Display Device: Unveiling 10 Crucial Points for Informed Decision-Making</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-simple-swipes-why-pattern-locks-no-longer-offer-adequate-protection-for-android-phones/"><u>Beyond Simple Swipes: Why Pattern Locks No Longer Offer Adequate Protection for Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-use-5g-on-your-smartphone-learn-to-check-compatibility-now/"><u>Can You Use 5G on Your Smartphone? Learn to Check Compatibility Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-amazon-fire-max-89-inch-tablet-assessment-your-ultimate-entertainment-companion-on-the-go/"><u>Comprehensive Amazon Fire Max 8.9-Inch Tablet Assessment: Your Ultimate Entertainment Companion on the Go</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connecting-peripherals-to-android-a-step-by-step-tutorial-for-mice-keyboards-and-gamepads/"><u>Connecting Peripherals to Android: A Step-by-Step Tutorial for Mice, Keyboards, and Gamepads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-10-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 10 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-20-strategies-for-effective-facebook-video-campaigns-for-2024/"><u>Top 20 Strategies for Effective Facebook Video Campaigns for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-itel-a05s-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel A05s Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

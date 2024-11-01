@@ -1,7 +1,7 @@
 ---
 title: "LG Unveils New Slimline GRAM Laptop Model: A Revolution in Portability"
-date: 2024-10-25T23:14:45.271Z
-updated: 2024-10-26T21:16:59.590Z
+date: 2024-10-30T18:14:16.605Z
+updated: 2024-11-01T17:14:05.448Z
 tags:
   - laptops
 categories:
@@ -69,16 +69,10 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,22 +111,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tailoring-your-video-for-optimal-instagram-impact/"><u>[New] 2024 Approved Tailoring Your Video for Optimal Instagram Impact</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-visual-magic-implementing-filters-on-digital-media/"><u>[Updated] In 2024, Visual Magic Implementing Filters on Digital Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-master-class-the-7-cutting-edge-apps-for-youtube-live-on-iphonesandroid-os/"><u>[Updated] Master Class The 7 Cutting-Edge Apps for YouTube LIVE on iPhones/Android OS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-design-your-closure-the-best-free-youtube-tutorials/"><u>2024 Approved Design Your Closure The Best Free YouTube Tutorials</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-jokes-laughgenix-hub/"><u>2024 Approved Image Jokes LaughGenix Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-elegoo-saturn-4-ultra-revolutionizing-resin-3d-printers/"><u>Comprehensive Evaluation of the Elegoo Saturn 4 Ultra - Revolutionizing Resin 3D Printers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-conversion-rates-with-cookiebots-powerful-ai-technology/"><u>Enhanced Conversion Rates with Cookiebot's Powerful AI Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/examining-the-efficiency-of-screenrecorderelite-for-2024/"><u>Examining the Efficiency of ScreenRecorderElite for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-the-future-of-pc-modding-hytes-latest-innovations-featuring-sleek-cooler-designs-vibrant-lighting-options-and-unparalleled-motherboard-control-in4/"><u>Experience the Future of PC Modding: Hyte's Latest Innovations Featuring Sleek Cooler Designs, Vibrant Lighting Options & Unparalleled Motherboard Control Including USB Header Usage and Fan Adjustability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125142417-get-the-elegoo-neptune-4-pro-for-a-steal-at-only-284/"><u>Get the Elegoo Neptune 4 Pro for a Steal at Only $284</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-y78t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo Y78t Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/join-felicia-days-newest-adventure-in-the-thangs-3d-community-unique-downloadable-model-collection-available-now/"><u>Join Felicia Day's Newest Adventure in the Thangs 3D Community: Unique, Downloadable Model Collection Available Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-landscape-through-toms-expert-analysis/"><u>Navigating the Digital Landscape Through Tom’s Expert Analysis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/steps-to-acquire-fcp-for-zero-dollars-for-2024/"><u>Steps to Acquire FCP for Zero Dollars for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-ranking-of-2024s-best-gaming-notebooks-thoroughly-tested-and-critically-reviewed/"><u>The Definitive Ranking of 2024'S Best Gaming Notebooks - Thoroughly Tested & Critically Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-network-expansion-devices-enhance-connectivity-and-boost-throughput/"><u>Top-Rated Network Expansion Devices: Enhance Connectivity & Boost Throughput</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-computer-tech-a-dive-into-tome-hardware-articles/"><u>Unveiling Cutting-Edge Computer Tech: A Dive Into Tom'e Hardware Articles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-overview-the-spectrum-of-visual-recorders-for-2024/"><u>[New] Overview The Spectrum of Visual Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-economical-embellishments-free-youtube-template-packs-for-2024/"><u>[Updated] Economical Embellishments FREE YouTube Template Packs for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-android-3d-player-showcase/"><u>[Updated] In 2024, Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://techidaily.com/automated-vehicle-parts-supplier-enhances-billing-efficiency-using-abbyy-software/"><u>Automated Vehicle Parts Supplier Enhances Billing Efficiency Using ABBYY Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/becoming-a-pro-in-video-enhancement-vce-22-guide-for-2024/"><u>Becoming a Pro in Video Enhancement - VCE 2.2 Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorate-with-style-customizing-themes-for-an-improved-win11-experience/"><u>Decorate with Style: Customizing Themes for an Improved Win11 Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-computing-tryx-releases-a-groundbreaking-all-in-one-cooler-with-breaththemediatypea-curved-and-vivid-amoled-visual-experience/"><u>Discover the Future of Computing: Tryx Releases a Groundbreaking All-in-One Cooler with Breaththemediatype:A Curved and Vivid AMOLED Visual Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-neo-5-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme GT Neo 5 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-phantom-v-fold-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Phantom V Fold Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-rise-of-the-alternative-top-3-video-sharing-websites/"><u>In 2024, Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insights-into-geometric-future-eskimo-jr-outstanding-style-and-soft-noise-emissions-with-fair-usability/"><u>Insights Into Geometric Future Eskimo Jr.: Outstanding Style & Soft Noise Emissions with Fair Usability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marking-a-decade-of-innovation-creality-brings-colorful-technology-to-the-world-with-new-3d-printer-release/"><u>Marking a Decade of Innovation, Creality Brings Colorful Technology to the World with New 3D Printer Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-with-the-user-friendly-x-apply-thermal-paste-applicator-set-releasing-shortly/"><u>Next-Level Cooling with the User-Friendly X-Apply Thermal Paste Applicator Set Releasing Shortly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-ranking-of-best-in-class-microsd-cards-compatible-with-raspberry-pi-2024-edition/"><u>The Definitive Ranking of Best-in-Class MicroSD Cards Compatible with Raspberry Pi – 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-fastest-3d-printers-unveiled-top-performers-based-on-print-time-analysis/"><u>The Fastest 3D Printers Unveiled – Top Performers Based on Print Time Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-on-latest-hardware-trends/"><u>Tom's Tech Review: In-Depth Guide on Latest Hardware Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-inside-tips-from-toms-hardware-experts/"><u>Unlocking Performance: Inside Tips From Tom’s Hardware Experts</u></a></li>
 </ul></div>
 

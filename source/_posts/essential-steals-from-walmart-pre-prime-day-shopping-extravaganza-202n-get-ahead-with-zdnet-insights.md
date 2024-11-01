@@ -1,7 +1,7 @@
 ---
 title: Essential Steals From Walmart Pre-Prime Day Shopping Extravaganza 202N - Get Ahead with ZDNET Insights
-date: 2024-10-25T17:33:52.020Z
-updated: 2024-10-26T17:49:27.526Z
+date: 2024-10-30T20:31:53.483Z
+updated: 2024-11-01T17:56:02.890Z
 tags:
   - laptops
 categories:
@@ -89,10 +89,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals
@@ -110,10 +110,10 @@ ZDNET
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C00c55e01-892c-49da-b2c2-ae45c780735e%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
@@ -150,13 +150,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day Nintendo deals
 
 Nintendo/ZDNET
@@ -181,13 +174,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $45 (save $15)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -216,6 +202,13 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -240,10 +233,10 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -251,6 +244,13 @@ Samsung/ZDNET
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -290,20 +290,19 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-a-comparison-of-best-linux-screenshare-utilities/"><u>[New] In 2024, A Comparison of Best Linux Screenshare Utilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-adaptive-speaking-methods-in-free-fire/"><u>[Updated] Adaptive Speaking Methods in Free Fire</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-dji-spark-review-best-mini-drone-with-gesture-control-for-taking-selfie/"><u>2024 Approved DJI Spark Review Best Mini Drone with Gesture Control for Taking Selfie</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-gaming-laptop-deals-options-stronger-than-ever-under-150curosn/"><u>Best Gaming Laptop Deals: Options Stronger Than Ever Under $1,50Curosn</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-discover-the-endurance-of-hps-omnibook-x-with-snapdragon-chip-power/"><u>Comprehensive Assessment: Discover the Endurance of HP's OmniBook X with Snapdragon Chip Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-breakdown-of-gigabytes-g6x-for-gamers-solid-execution-lackluster-uniqueness/"><u>Comprehensive Breakdown of Gigabyte's G6X for Gamers: Solid Execution, Lackluster Uniqueness</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-superior-efficiency-ubuntu-triumphs-over-windows-11-for-the-latest-amd-equipped-laptops/"><u>Discover Superior Efficiency: Ubuntu Triumphs Over Windows 11 for the Latest AMD-Equipped Laptops</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-play-the-zephyrus-g14-by-asus-redefines-laptop-aesthetics-with-a-colorful-adaptive-e-paper-screen/"><u>Elevate Your Play: The Zephyrus G1^4 by Asus Redefines Laptop Aesthetics With a Colorful, Adaptive E-Paper Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-toms-tech-articles-and-reviews/"><u>Expert Insights Into Tom's Tech Articles & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-malfunctioning-lenovo-to-ultimate-gaming-rig-enthusiasts-guide-to-keyboard-replacement-and-advanced-upgrades/"><u>From Malfunctioning Lenovo to Ultimate Gaming Rig: Enthusiast's Guide to Keyboard Replacement and Advanced Upgrades</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y55s-5g-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y55s 5G (2023) Phone Screen?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-s24-ultra-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy S24 Ultra To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-rid-of-tiktok-watermarks-best-free-online-removers/"><u>New In 2024, Get Rid of TikTok Watermarks Best Free Online Removers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/supreme-narrative-designers-den-for-2024/"><u>Supreme Narrative Designer's Den for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>[Updated] In 2024, Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easy-recording-studio-for-win10-desktops/"><u>[Updated] In 2024, Easy Recording Studio for Win10 Desktops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-amds-leap-forward-with-zen-n-chip-tech-compact-core-design-shaves-off-25-plus-a-groundbreaking-soc-integration-boasting-dual-ccx-configurations/"><u>Explore AMD's Leap Forward with Zen N Chip Tech - Compact Core Design Shaves Off 25%, Plus a Groundbreaking SoC Integration Boasting Dual CCX Configurations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-mini-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 mini from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-0xc19amoeba-storm-in-windows-10-updates/"><u>How To Successfully Overcome the 0xC19amoeba Storm in Windows 10 Updates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture-for-2024/"><u>Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-magic5-ultimate-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Magic5 Ultimate Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-cutting-edge-technology-toms-equipment-hub/"><u>Inside Look at Cutting-Edge Technology - Tom's Equipment Hub</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterclass-in-timelapse-capture-via-gopro-studio-for-2024/"><u>Masterclass in Timelapse Capture via GoPro Studio for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-top-notch-computing-devices-at-toms-tech-blog/"><u>Navigating Through Top-Notch Computing Devices at Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steps-to-rectify-problems-caused-by-grinding-of-3d-printing-material/"><u>Steps to Rectify Problems Caused by Grinding of 3D Printing Material</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review: In-Depth Analysis & Reviews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-edits-bottom-line-pro-guide-to-tiktok-creativity/"><u>Top Edits, Bottom Line Pro Guide to TikTok Creativity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ps5-solid-state-drives-optimal-nvme-options-enhancing-console-performance/"><u>Top PS5 Solid State Drives: Optimal NVMe Options Enhancing Console Performance</u></a></li>
 </ul></div>
 

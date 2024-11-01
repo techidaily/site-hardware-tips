@@ -1,7 +1,7 @@
 ---
 title: Top 98 Cyber Monday Sales & Discounts of 2022 - Exclusive Picks by ZDNet
-date: 2024-10-23T21:03:09.703Z
-updated: 2024-10-27T00:30:35.610Z
+date: 2024-10-31T19:39:47.830Z
+updated: 2024-11-01T20:45:26.665Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ LG
 * [Toshiba 65-inch smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-65-class-c350-series-led-4k-uhd-smart-fire-tv%2F6458646.p%3FskuId%3D6458646&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $170) at Best Buy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday laptop deals**
@@ -116,10 +116,10 @@ Image: ZDNET
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $240 (save $26) at Amazon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
@@ -175,13 +175,6 @@ Sherin Shibu
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday headphone deals**
 
 If your holidays could be happier with a pair of headphones to either blast or block out cheesy Christmas songs, look no further. While headphones and earbuds are essential accessories, their pricing can be more than practical. With Cyber Monday finally here, we compiled a list of the best headphone deals so you can beat the holiday rush while wearing buds. 
@@ -216,10 +209,10 @@ Samsung
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $360 (save $89) at Amazon
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
@@ -237,6 +230,13 @@ Apple
 * [Restored Apple Watch Series 3- 42 mm](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-Series-3-42mm-Space-Gray-Aluminum-Case-Gray-Sport-Band-Refurbished%2F346346528&subId1=zd-__COM_CLICK_ID__-dtp) for $79 (save $40) at Walmart
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $399 (save $49) at Amazon
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday speaker deals**
 
@@ -259,10 +259,10 @@ Target
 * [JBL PartyBox 100 High Power Portable Wireless Bluetooth Speaker](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FJBL-PartyBox-100-High-Power-Portable-Wireless-Bluetooth-Speaker-Black%2F691892469%3F&subId1=zd-__COM_CLICK_ID__-dtp) for $199 (save $100) at Walmart
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **More Cyber Monday tech deals**
@@ -288,6 +288,13 @@ June Wan
 * [Ergonomic laptop stand](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FErgonomic-Adjustable-computer-Portable-MacBook%2Fdp%2FB08G3YGDJ1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $70 (save $35) at Amazon
 * [Blink Outdoor weather-resistant camera kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086DKGCFP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0182261c-caf8-467d-8798-c4a5071b0103%7Cdtp&dtb=1) for $190 (save $190) at Amazon
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -327,10 +334,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by brand**
@@ -339,13 +346,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 Samsung deals](https://www.zdnet.com/article/samsung-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 Dell deals](http://zdnet.com/article/dell-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
 
@@ -419,18 +419,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-the-top-7-voice-customization-applications-for-2024/"><u>[New] Exploring the Top 7 Voice Customization Applications for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2022-beijing-games-a-chilly-snapshot/"><u>[Updated] 2022 Beijing Games A Chilly Snapshot</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>[Updated] Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-inexpensive-sky-explorers-the-least-expensive-drones/"><u>2024 Approved Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-splash-of-color-creality-unveils-new-3d-printer-on-their-10th-milestone-year/"><u>A Splash of Color: Creality Unveils New 3D Printer on Their 10Th Milestone Year</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125219382-explore-the-best-raspberry-pi-expansion-boards-enhance-your-projects-with-our-curated-hat-list/"><u>Explore the Best Raspberry Pi Expansion Boards : Enhance Your Projects with Our Curated HAT List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-innovations-a-guide-by-toms-digital-chronicles/"><u>Exploring Innovations: A Guide by Tom's Digital Chronicles</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a78-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A78 to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-hyperlapse-photography-magic/"><u>In 2024, Steps for Hyperlapse Photography Magic</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-testing-top-120mm-aio-cpu-coolers-from-be-quiet-corsair-cooler-master-and-enermax-compared/"><u>In-Depth Testing: Top 120MM AIO CPU Coolers From Be Quiet, Corsair, Cooler Master, and Enermax Compared</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-x-apply-stencils-making-idiot-proof-temperature-improvement-easier-than-ever-coming-soon/"><u>Introducing X-Apply Stencils: Making 'Idiot-Proof' Temperature Improvement Easier than Ever - Coming Soon!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-instructions-for-live-syncing-folders-on-various-windows-platforms-781011/"><u>Step-by-Step Instructions for Live Syncing Folders on Various Windows Platforms (7/8/10/11)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-create-captivating-cover-cinematics/"><u>[New] 2024 Approved Create Captivating Cover Cinematics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>[Updated] Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-visual-markers-guide-customizing-instagram-photo-watermarks/"><u>[Updated] The Visual Marker's Guide Customizing Instagram Photo Watermarks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-soldering-solutions-leading-models-to-watch/"><u>Advanced Soldering Solutions: Leading Models to Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-from-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Advanced Tech Insights From Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ct-more-viewers-crafting-impressive-youtube-description-with-custom-templates-for-2024/"><u>Attract More Viewers Crafting Impressive Youtube Description with Custom Templates for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-liquid-and-air-coolers-for-your-pc-expert-picks/"><u>Best Liquid and Air Coolers for Your PC : Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clarification-what-bamboo-lab-really-offers-in-their-updated-printer-software/"><u>Clarification: What Bamboo Lab Really Offers in Their Updated Printer Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-code-0x800f0831/"><u>Decoding Windows Error Code 0X800F0831</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-top-pc-gear-with-toms-hardware-experts/"><u>Discovering Top PC Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unleash-creativity-top-8-sites-offering-free-green-screen-footage-and-backgrounds/"><u>In 2024, Unleash Creativity Top 8 Sites Offering Free Green Screen Footage & Backgrounds</u></a></li>
 </ul></div>
 

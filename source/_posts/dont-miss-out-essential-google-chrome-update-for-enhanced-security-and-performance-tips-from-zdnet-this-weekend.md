@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Essential Google Chrome Update for Enhanced Security and Performance - Tips From ZDNet This Weekend!"
-date: 2024-10-20T22:24:42.114Z
-updated: 2024-10-26T19:16:02.335Z
+date: 2024-10-30T20:04:06.010Z
+updated: 2024-11-01T19:31:40.206Z
 tags:
   - laptops
 categories:
@@ -35,21 +35,22 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -57,10 +58,10 @@ It's currently an experimental feature that's not enabled by default, so you'll 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -72,13 +73,6 @@ _chrome://settings/help_
 If you are not yet running version 108 or higher, you need to update.
 
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
 
@@ -105,10 +99,10 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -167,24 +161,16 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-tools-for-youtube-channel-starters/"><u>[New] In 2024, Free Online Tools for YouTube Channel Starters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pro-audio-recording-the-ultimate-audacity-course-for-2024/"><u>[New] Pro Audio Recording The Ultimate Audacity Course for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-eyedome-recorder-chromeos-screen-snapshots/"><u>[Updated] 2024 Approved EyeDome Recorder ChromeOS Screen Snapshots</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-inside-ustream-review-alternatives-on-hand/"><u>[Updated] 2024 Approved Inside Ustream Review, Alternatives on Hand</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hitting-a-pixel-snag-a6400s-video-problems/"><u>[Updated] Hitting a Pixel Snag A6400's Video Problems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bypassing-youtube-previews-the-invisible-button-hack/"><u>2024 Approved Bypassing YouTube Previews The Invisible Button Hack</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-luxury-unveiling-the-new-amazon-kindle-2019-for-savvy-readers/"><u>Affordable Luxury: Unveiling the New Amazon Kindle (2019) for Savvy Readers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creativity-unleashed-discover-the-power-of-crealitys-new-k1c-and-upgraded-ender-3-pro-version/"><u>Creativity Unleashed: Discover the Power of Creality’s New K1C and Upgraded Ender 3 Pro Version</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-airpods-microphone-issues-with-windows-11-a-step-by-step-guide/"><u>How to Fix Your AirPods' Microphone Issues with Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-cross-social-video-broadcasting-from-twitter-to-snapchat/"><u>In 2024, Cross-Social Video Broadcasting From Twitter, To Snapchat</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-tech-advice/"><u>Mastering Gadgets with Tom's Tech Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-landscapes-with-tomebrarys-hardware-focus/"><u>Navigating Tech Landscapes with Tom'ebrary’s Hardware Focus</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-technology-tips-from-toms-hardware-hub/"><u>Navigating Technology: Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-designs-with-our-picked-choice-the-acclaimed-eleegoo-neptune-4-pro-now-just-240-on-newegg/"><u>Revolutionize Your Designs with Our Picked Choice - The Acclaimed Eleegoo Neptune 4 Pro, Now Just $240 on Newegg</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-prints-the-ultimate-guide-to-cura-enhancements/"><u>Revolutionize Your Prints: The Ultimate Guide to Cura Enhancements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-on-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Insights on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-value-packed-gaming-laptops-below-1000/"><u>Top Value-Packed Gaming Laptops Below $1,000</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ultimate-guide-to-restoring-defaults-on-hp-all-in-one-computers-running-windows/"><u>Ultimate Guide to Restoring Defaults on HP All-in-One Computers Running Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-a-look-inside-toms-hardware-insights/"><u>Unlocking Performance Secrets: A Look Inside Tom's Hardware Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-igniting-the-fires-of-engagement-with-viral-instagram-videos/"><u>[New] 2024 Approved Igniting the Fires of Engagement with Viral Instagram Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-framed-facets-guide-to-the-best-apps-and-websites-for-image-framing-for-2024/"><u>[New] Framed Facets Guide to the Best Apps and Websites for Image Framing for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-no-cost-top-tunes-in-your-library-today-for-2024/"><u>[New] No Cost Top Tunes in Your Library Today for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-improve-browser-performance-fb-vids-chrome/"><u>2024 Approved Improve Browser Performance FB Vids, Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-strategies-for-placing-program-shortcuts-on-desktop/"><u>Efficient Strategies for Placing Program Shortcuts on Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-choices-in-routers-for-competitive-gaming-setups/"><u>Elite Choices in Routers for Competitive Gaming Setups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-game-performance-with-the-fastest-ps5-solid-state-drives-available/"><u>Enhance Game Performance with the Fastest PS5 Solid State Drives Available</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-roundup-and-testing-of-high-end-120mm-aio-coolers-by-be-quiet-corsair-and-more/"><u>Expert Roundup and Testing of High-End 120Mm AIO Coolers by Be Quiet, Corsair, and More</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-pc-building-with-toms-hardware-insights/"><u>Exploring the World of PC Building with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-pc-with-top-cpu-cooler-picks-aio-and-air-technologies-explored/"><u>Futureproof Your PC with Top CPU Cooler Picks - AIO and Air Technologies Explored</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 </ul></div>
 

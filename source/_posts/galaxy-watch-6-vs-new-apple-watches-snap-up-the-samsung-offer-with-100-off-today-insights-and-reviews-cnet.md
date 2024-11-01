@@ -1,7 +1,7 @@
 ---
 title: "Galaxy Watch 6 vs New Apple Watches: Snap Up the Samsung Offer With $100 Off Today! Insights & Reviews | CNET"
-date: 2024-09-19 22:40:54
-updated: 2024-09-20 11:56:22
+date: 2024-10-27T20:40:39.471Z
+updated: 2024-11-01T19:04:23.318Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-free-tools-for-marketing-mavens-the-best-fb-video-creators-reviewed/"><u>[New] 2024 Approved Free Tools for Marketing Mavens The Best FB Video Creators Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[Updated] From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-art-of-audio-alteration-for-stories-and-reels-on-ig/"><u>[Updated] In 2024, The Art of Audio Alteration For Stories and Reels on IG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-latest-iteration-a-closer-look-at-sonys-s6500-bdp/"><u>[Updated] Latest Iteration A Closer Look at Sony's S6500 BDP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862797045-catch-your-favorite-dell-s32gaming-monitor-at-an-unbeatable-price-just-229-top-ranked-quality-guaranteed/"><u>Catch Your Favorite Dell S32^Gaming Monitor at an Unbeatable Price: Just $229 – Top-Ranked Quality Guaranteed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862828622-discover-cutting-edge-visuals-on-aocs-agon-pro-ag456uczd-a-45-uhd-oled-monitor-with-lightning-fast-response-time-and-ultimate-gaming-comfort/"><u>Discover Cutting-Edge Visuals on AOC's Agon Pro AG456UCZD, a 45 UHD OLED Monitor with Lightning-Fast Response Time and Ultimate Gaming Comfort!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-strategies-for-enhancing-complexity-on-your-apple-watch-tips-from-zdnet/"><u>Effortless Strategies for Enhancing Complexity on Your Apple Watch - Tips From ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-android-enables-seamless-screen-capturing/"><u>How Android Enables Seamless Screen Capturing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-note-30i-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Note 30i</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862830203-maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862793670-next-level-bargain-gaming-immerse-in-the-action-with-an-affordable-39-lg-wqhd-curve-on-amazon-for-just-999/"><u>Next-Level Bargain Gaming: Immerse in the Action with an Affordable 39 LG WQHD Curve on Amazon for Just $999</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862778024-ready-to-game-in-style-score-an-unbelievable-deal-on-the-24-inch-curved-acer-nitro-monitor-for-only-81/"><u>Ready to Game in Style? Score an Unbelievable Deal on the 24-Inch Curved Acer Nitro Monitor for Only $81</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-network-card-issues-in-windows-os-a-fix-guide-for-windows-11-10-and-7-users/"><u>Realtek Network Card Issues in Windows OS: A Fix Guide for Windows 11, 10, & 7 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862771166-score-the-best-deal-with-a-dell-1920x1080-qhd-ips-gaming-monitor-for-199/"><u>Score the Best Deal with a Dell 1920X1080 QHD IPS Gaming Monitor for $199</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862819212-unbeatable-deal-grab-the-gigabyte-gs32q-quad-hd-32-gaming-display-with-170hz-for-just-199/"><u>Unbeatable Deal: Grab the Gigabyte GS32Q - Quad HD, 32 Gaming Display with 170Hz for Just $199!</u></a></li>
+</ul></div>
+

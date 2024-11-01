@@ -1,7 +1,7 @@
 ---
 title: "Affordably Robust: Discover the Low-Cost Smartwatch That Impressed Testers at ZDNet"
-date: 2024-09-18 13:26:41
-updated: 2024-09-20 12:28:20
+date: 2024-10-29T18:19:38.390Z
+updated: 2024-11-01T18:31:33.519Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,19 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/treamlined-strategies-for-joining-your-youtube-videos/"><u>[New] Streamlined Strategies for Joining Your YouTube Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-upcoming-home-robot-revealed-potential-launch-date-cost-estimates-detailed-features-and-latest-gossip/"><u>Apple's Upcoming Home Robot Revealed: Potential Launch Date, Cost Estimates, Detailed Features & Latest Gossip</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-continuous-freezes-in-the-king-of-fighters-xv-a-comprehensive-guide-for-gamers/"><u>Diagnosing and Repairing Continuous Freezes in The King of Fighters XV - A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-and-tech-advice-with-toms-hardware-analysis/"><u>Discover Top Hardware Picks and Tech Advice with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-of-computer-hardware-from-tomtech-central/"><u>Expert Reviews of Computer Hardware From TomTech Central</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar/"><u>Explore the Potential of Color Grading Through LUTs and AR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17238628801376/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-inside-scoop-on-tech-trends-with-toms-hardware-expertise/"><u>Get the Inside Scoop on Tech Trends with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-distortions-in-windows-10-and-11-step-by-step-guide/"><u>How to Fix Audio Glitches & Distortions in Windows 10 and 11 (Step-by-Step Guide)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-titans-180hz-p27a2r-monitor-value-meets-performance-in-the-gaming-world/"><u>In-Depth Review of the Titan's 180Hz P27A2R Monitor: Value Meets Performance in the Gaming World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-lightest-portable-display-vaios-visionplus-14-screen-a-featherlight-072-pounds/"><u>Introducing the Lightest Portable Display: Vaio’s Vision+ ([14” Screen - a Featherlight 0.72 Pounds)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smartwatch-reviews-a-balanced-look-at-the-cost-effective-fitbit-versa/"><u>Smartwatch Reviews - A Balanced Look at the Cost-Effective Fitbit Versa</u></a></li>
+<li><a href="https://android-location.techidaily.com/the-huawei-p20-pro-revealed-stellar-photography-performance-on-a-noteworthy-mobile-device/"><u>The Huawei P20 Pro Revealed: Stellar Photography Performance on a Noteworthy Mobile Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-worlds-for-corporate-growth-and-innovation/"><u>Virtual Worlds for Corporate Growth and Innovation</u></a></li>
+</ul></div>
+

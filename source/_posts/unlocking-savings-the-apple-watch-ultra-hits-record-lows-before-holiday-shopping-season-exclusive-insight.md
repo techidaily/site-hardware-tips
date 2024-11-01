@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Savings: The Apple Watch Ultra Hits Record Lows Before Holiday Shopping Season - Exclusive Insight"
-date: 2024-09-19 21:41:19
-updated: 2024-09-20 11:46:49
+date: 2024-10-30T17:52:02.697Z
+updated: 2024-11-01T18:48:01.189Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-complete-body-movement-report-2023-for-2024/"><u>[Updated] Complete Body Movement Report 2023 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-vlc-player-from-live-viewing-to-recording/"><u>[Updated] In 2024, VLC Player From Live Viewing to Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/13-napja-legjobb-a-youtube-videokra-mp3-val-konvertalas-orakig/"><u>13 Napja Legjobb - A YouTube Videókra MP3-Val Konvertálás Órákig</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>2024 Approved How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862792461-ace-the-market-highly-rated-dell-s3222dgm-monitor-drops-in-price-to-just-229-dont-miss-out/"><u>Ace the Market: Highly Rated Dell S3222DGM Monitor Drops in Price to Just $229 – Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862762693-affordable-luxury-buy-a-new-samsung-odyssey-g50a-monitor-27-inch-qhd-ips-at-amazing-price-255/"><u>Affordable Luxury! Buy a New Samsung Odyssey G50A Monitor, 27-Inch QHD IPS at Amazing Price: $255</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/assessment-of-various-camera-types-for-videos/"><u>Assessment of Various Camera Types for Videos</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/free-guide-on-retrieving-items-from-the-recycle-bin-in-windows-7-no-loss-of-data/"><u>Free Guide on Retrieving Items From the Recycle Bin in Windows 7 - No Loss of Data!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862837737-gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862825765-in-depth-evaluation-of-alienwares-latest-masterpiece-the-aw2725df-360hz-oled-display-ultimate-choice-for-serious-gamers/"><u>In-Depth Evaluation of Alienware's Latest Masterpiece: The AW2725DF 360Hz OLED Display - Ultimate Choice for Serious Gamers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862757242-score-big-win-on-tech-top-choice-dell-s3222dgm-gaming-screen-hits-record-low-only-229/"><u>Score Big Win on Tech: Top Choice Dell S3222DGM Gaming Screen Hits Record Low - Only $229</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862816577-score-the-game-changing-34-alienware-curved-oled-screen-limited-time-offer-at-749-from-best-buy/"><u>Score the Game-Changing 34” Alienware Curved OLED Screen - Limited Time Offer at $749 From Best Buy!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-your-own-free-150-apple-store-voucher-when-purchasing-macipad-for-education-the-complete-guide/"><u>Score Your Own Free $150 Apple Store Voucher When Purchasing Mac/iPad for Education - The Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/supercharge-your-experience-9-excellent-chatgpt-plugin-choices-at-hand/"><u>Supercharge Your Experience: 9 Excellent ChatGPT Plugin Choices at Hand</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-comparison-how-the-samsung-galaxy-s23-ultra-stacks-up-against-the-s21-ultra/"><u>Ultimate Comparison: How the Samsung Galaxy S23 Ultra Stacks Up Against the S21 Ultra</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862833460-unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience</u></a></li>
+</ul></div>
+

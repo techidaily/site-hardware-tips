@@ -1,7 +1,7 @@
 ---
 title: Secure Your Samsung Galaxy Watch Now for Under $100 | Unbeatable Discount Alert on ZDNET.
-date: 2024-09-19 14:28:41
-updated: 2024-09-20 11:12:36
+date: 2024-10-25T18:37:19.719Z
+updated: 2024-11-01T20:47:33.725Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-paving-the-way-to-success-with-professional-insights-into-youtube-banners/"><u>[Updated] In 2024, Paving the Way to Success with Professional Insights Into YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-real-time-streaming-methods-for-facebook-video-uploads-for-2024/"><u>[Updated] Real-Time Streaming Methods for Facebook Video Uploads for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/849-portable-e-ink-color-monitor-with-12-inches-of-quality-display-introducing-the-us-market-dasung-paperlike/"><u>$849, Portable E-Ink Color Monitor with 12 Inches of Quality Display - Introducing the U.S.-Market Dasung Paperlike</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-exploration-by-tom-top-picks-and-advice/"><u>Advanced Hardware Exploration by Tom - Top Picks and Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-toms-equipment-experts/"><u>Advanced PC Insights From Tom's Equipment Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862831977-experience-enhanced-visuals-with-the-affordable-lg-34499-curved-ultragear-monitor-upgrade/"><u>Experience Enhanced Visuals with the Affordable LG 34$499 Curved UltraGear Monitor Upgrade</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-reno-11-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Reno 11 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-corsair-hs60-mic-issues-with-these-easy-steps/"><u>Fix Your Corsair HS60 Mic Issues with These Easy Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862833309-gamers-beware-this-is-how-the-monoprice-crystal-pro-40-inch-144hz-screen-offers-big-savings-without-sacrificing-quality/"><u>Gamers Beware! This Is How the Monoprice Crystal Pro 40-Inch 144Hz Screen Offers Big Savings without Sacrificing Quality!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-beneath-the-surface-assessing-huawei-p10-writability-features/"><u>In 2024, Beneath the Surface Assessing Huawei P10' Writability Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-p55-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel P55 to Another | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-a2plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi A2+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862805925-limited-offer-on-the-crystal-clear-lg-ultragear-qhd-monitor-w-g-sync-just-549-from-amazon/"><u>Limited Offer on the Crystal Clear LG Ultragear QHD Monitor W/ G-Sync - Just $549 From Amazon</u></a></li>
+<li><a href="https://win11.techidaily.com/manipulating-windows-defense-display-settings/"><u>Manipulating Windows Defense Display Settings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862794849-score-a-bargain-asuss-tuf-gaming-monitor-24-ips-165-hz-now-just-99-on-newegg/"><u>Score a Bargain! Asus's TUF Gaming Monitor, 24 IPS, 165 Hz - Now Just $99 on Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862834483-unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less!</u></a></li>
+</ul></div>
+

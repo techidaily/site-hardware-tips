@@ -1,7 +1,7 @@
 ---
 title: Disappointing Experience at the Local Apple Retail Outlet - A ZDNet Review
-date: 2024-10-23T21:37:27.066Z
-updated: 2024-10-26T23:01:20.964Z
+date: 2024-10-28T20:35:16.291Z
+updated: 2024-11-01T16:12:48.362Z
 tags:
   - laptops
 categories:
@@ -75,10 +75,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -90,10 +90,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,20 +130,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-futures-filmmaking-favourites-top-10-camcorders-2024-edition/"><u>[New] Future's Filmmaking Favourites Top 10 Camcorders, 2024 Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-must-watch-asmr-video-gems-online/"><u>[Updated] Must-Watch ASMR Video Gems Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-valhalla-vanguard-gods-clash-in-ragnarok/"><u>[Updated] Valhalla Vanguard Gods Clash in Ragnarok</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175648192-affordable-pc-temperature-control-with-deepcools-as500-plus-at-just-under-45-on-amazon/"><u>Affordable PC Temperature Control with DeepCool's AS500 Plus at Just Under $45 on Amazon!</u></a></li>
-<li><a href="https://win11.techidaily.com/disguising-windows-11-taskbars-task-view-control/"><u>Disguising Windows 11 TaskBar's Task View Control</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-animated-wireless-charger-in-the-shape-of-a-3d-printer-save-over-50-with-bambu-labs/"><u>DIY Animated Wireless Charger in the Shape of a 3D Printer: Save Over $50 with Bambu Labs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ethical-relaxation-soundscapes/"><u>Ethical Relaxation Soundscapes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-creality-cr10s-impressive-specs-marred-by-dimensional-issues/"><u>Evaluating the Creality CR10s - Impressive Specs Marred by Dimensional Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-roundup-performance-analysis-of-120mm-all-in-one-coolers-by-be-quiet-corsair-cooler-master-and-enermax/"><u>Expert Roundup: Performance Analysis of 120Mm All-in-One Coolers by Be Quiet, Corsair, Cooler Master & Enermax</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-windows-10-cameras-unveiled-for-2024/"><u>Innovative Windows 10 Cameras Unveiled for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-with-toms-hardware-guide/"><u>Inside the World of Technology with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-computer-specs-and-gadgets-on-toms-hardware/"><u>Navigating Computer Specs and Gadgets on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-wisdom-insights-from-toms-expert-hardware-reviews/"><u>Navigating Electronics Wisdom: Insights From Tom's Expert Hardware Reviews</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-to-eradicate-the-drivercorruptedexpool-error-on-windows-solved-driver-corrupted-expool-error/"><u>Step-by-Step Tutorial to Eradicate the 'DRIVER_CORRUPTED_EXPOOL' Error on Windows ([Solved] DRIVER CORRUPTED EXPOOL Error)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/visionary-4k-desktop-solutions-full-control/"><u>Visionary 4K Desktop Solutions Full Control</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-explore-and-learn-about-discord-stickers/"><u>[Updated] Explore & Learn About Discord Stickers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-reactive-content-unveiled/"><u>[Updated] Twitter's Reactive Content Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/all-about-high-tech-equipment-reliable-reviews-and-essential-information-from-tomve-hardware-the-ultimate-resource-for-enthusiasts/"><u>All About High-Tech Equipment: Reliable Reviews and Essential Information From Tom've Hardware - The Ultimate Resource for Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-announces-free-reparations-for-a1-model-3d-printer-urgent-halt-of-operations-advised/"><u>Bambu Lab Announces Free Reparations for A1 Model 3D Printer - Urgent Halt of Operations Advised</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/banishing-unwanted-shadows-from-your-3d-prints-effective-strategies-and-techniques/"><u>Banishing Unwanted Shadows From Your 3D Prints: Effective Strategies & Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-3d-printers-of-2-2024-premium-performance-at-wallet-friendly-prices/"><u>Best Value 3D Printers of 2지갈리 2024: Premium Performance at Wallet-Friendly Prices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/can-shifting-to-arm-processors-revolutionize-microsoft-groaming-consoles/"><u>Can Shifting to ARM Processors Revolutionize Microsoft' Groaming Consoles?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-realms-with-toms-pc-specs-and-insights/"><u>Delving Into Digital Realms with Tom's PC Specs & Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diagnosing-and-repairing-unresponsive-3d-printer-beds-expert-tips-for-restoring-heat-functionality/"><u>Diagnosing and Repairing Unresponsive 3D Printer Beds - Expert Tips for Restoring Heat Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-hardware-at-toms-tech-hub/"><u>Discover Cutting-Edge Hardware at Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-a-cool-experience-discover-the-revolutionary-sporty-active-chillers-by-frore-the-innovative-underwater-friendly-fanless-airjet-mini/"><u>Dive Into a Cool Experience - Discover the Revolutionary Sporty Active Chillers by Frore: The Innovative Underwater Friendly, Fanless AirJet Mini</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-sony-xperia-1-v-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-list-ps3-mimicry-software-on-pcs-ranked-1-5/"><u>In 2024, A-List PS3 Mimicry Software on PCs, Ranked #1-5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-telegram-promotion-techniques-for-marketing-beginners/"><u>In 2024, Telegram Promotion Techniques For Marketing Beginners</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-amd-video-drivers-downloadupdate-steps/"><u>Quick Guide to AMD Video Drivers: Download/Update Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enabling Apple Watch's Fall Detection Feature: Benefits & Steps - Tech Insights on ZDNet"
-date: 2024-09-18 21:24:10
-updated: 2024-09-20 11:29:57
+date: 2024-10-30T20:49:15.249Z
+updated: 2024-11-01T20:53:05.843Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-critical-review-of-best-screen-capture-tools-in-linux/"><u>[Updated] 2024 Approved Critical Review of Best Screen Capture Tools in Linux</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-the-chuckles-home-creating-memes-on-demand/"><u>[Updated] Bring the Chuckles Home Creating Memes on Demand</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-transferring-virtual-reality-films-a-step-by-step-guide-on-uploading-from-pc-to-iphone/"><u>1. 'Transferring Virtual Reality Films: A Step-by-Step Guide on Uploading From PC to iPhone'</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-free-and-paid-drawing-tools-for-windows-enthusiasts/"><u>2024 Approved Free and Paid Drawing Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473180063-experiencing-iphone-auto-brightness-problems-try-these-7-simple-repairs/"><u>Experiencing iPhone Auto-Brightness Problems? Try These 7 Simple Repairs!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-90-gt-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor 90 GT Quickly | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New In 2024, The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/star-wars-movie-marathon-order-a-step-by-step-guide-for-disney-plus-subscribers/"><u>Star Wars Movie Marathon Order: A Step-by-Step Guide for Disney Plus Subscribers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-inputoutput-device-issues/"><u>Step-by-Step Guide: Troubleshooting Input/Output Device Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Insights: In-Depth Analysis of Latest Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-asus-rog-swift-oled-pg32ucdp-assessment-a-glimpse-into-near-perfect-tech/"><u>Ultimate Asus ROG Swift OLED (PG32UCDP) Assessment - A Glimpse Into Near-Perfect Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-rog-strix-xg27acs-in-depth-review-of-an-accurate-flexible-180hz-gaming-display/"><u>Unboxing the ROG Strix XG27ACS: In-Depth Review of an Accurate, Flexible 180Hz Gaming Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-computer-components-through-toms-expert-reviews/"><u>Unveiling Cutting-Edge Computer Components Through Tom's Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-excellence-in-gaming-displays-the-pixio-px277-oled-monitor-showcase/"><u>Unveiling Excellence in Gaming Displays: The Pixio PX277 OLED Monitor Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-at-toms-hardware/"><u>Unveiling the Latest in Technology at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-hardware-guides/"><u>Unveiling the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-setup-msis-revolutionary-240hz-qd-oled-gaming-monitors-a-dynamic-duo-of-34-and-27-inch-displays-with-crisp-1440p-resolution-and-modern-usb-c-co53/"><u>Upgrade Your Setup: MSI's Revolutionary 240Hz QD-OLED Gaming Monitors – A Dynamic Duo of 34 and 27 Inch Displays with Crisp 1440P Resolution & Modern USB-C Connectivity Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/vaio-unveils-ultra-lightweight-visionplus-14-worlds-lighter-portable-monitor-at-just-072lbs/"><u>Vaio Unveils Ultra-Lightweight Vision+ 14: World's Lighter Portable Monitor at Just 0.72Lbs</u></a></li>
+</ul></div>
+

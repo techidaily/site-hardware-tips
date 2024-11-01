@@ -1,7 +1,7 @@
 ---
 title: Is the Moto Watch 100 a Wise Investment? Uncovering Disappointments Beneath the Surface | Insights From ZDNET
-date: 2024-09-18 16:55:31
-updated: 2024-09-20 10:20:53
+date: 2024-10-29T18:45:21.325Z
+updated: 2024-11-01T19:12:23.971Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-celestial-warriors-unite-release-date-for-2024/"><u>[New] Celestial Warriors Unite! Release Date for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smoothly-blend-images-and-movies-a-guide-to-windows-photos-and-storyremix/"><u>[New] Smoothly Blend Images & Movies A Guide to Windows Photos and StoryRemix</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-strategic-use-of-twitters-wayback-machine-features/"><u>[Updated] 2024 Approved Strategic Use of Twitter's Wayback Machine Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-gestural-recognition-technologies-for-2024/"><u>[Updated] The Ultimate Guide to Gestural Recognition Technologies for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>2024 Approved How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/complete-guide-to-the-fitbit-inspire-hr-smartwatch-your-ultimate-247-health-companion/"><u>Complete Guide to the Fitbit Inspire HR Smartwatch - Your Ultimate 24/7 Health Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-computer-components-by-toms-engineering-experts/"><u>Expert Insights Into Computer Components by Tom's Engineering Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gear-experts-in-depth-insights-into-computer-hardware/"><u>Exploring Tom's Gear Experts: In-Depth Insights Into Computer Hardware</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-15-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 15</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-realm-with-toms-gear-insights-unveiling-top-tier-electronics-and-systems/"><u>Mastering the Digital Realm with Tom's Gear Insights - Unveiling Top-Tier Electronics and Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-your-workflow-with-chatgpt-essential-tips-and-techniques-for-modern-companies/"><u>Revolutionizing Your Workflow with ChatGPT: Essential Tips and Techniques for Modern Companies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components-t17239718706108/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncovering-the-mystery-techniques-to-determine-if-someone-is-using-an-airtag-on-you-insights-from-zdnet/"><u>Uncovering the Mystery: Techniques to Determine If Someone Is Using an AirTag on You - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-power-achieving-new-records-with-a-258-ghz-overclock-on-the-nvidia-geforce-rtx/"><u>Unleashing Power: Achieving New Records with a 2.58 GHz Overclock on the NVIDIA GeForce RTX 지오</u></a></li>
+</ul></div>
+

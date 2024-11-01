@@ -1,7 +1,7 @@
 ---
 title: "Top Budget-Friendly Laptops : Including Models From Lenovo, HP, Asus & Others - Featured on ZDNet"
-date: 2024-10-22T23:45:17.962Z
-updated: 2024-10-27T00:23:13.541Z
+date: 2024-10-26T16:29:41.165Z
+updated: 2024-11-01T18:05:09.033Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,13 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -35,13 +42,6 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -67,21 +67,7 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -95,22 +81,16 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -125,19 +105,33 @@ Michael Gariffo/ZDNET
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -178,14 +172,22 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-fight-to-the-end-nintendos-top-10-fighters/"><u>[Updated] 2024 Approved Fight to the End Nintendo's Top 10 Fighters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-guide-to-vsco-camera-app/"><u>2024 Approved Comprehensive Guide to VSCO Camera App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-selection-of-cost-effective-4k-projection-screens/"><u>2024 Approved Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-in-gear-with-toms-hardware-analysis/"><u>Discover the Best in Gear with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-technology-comprehensive-insights-from-our-tech-hub-post-toms-hardware/"><u>Dive Into Technology: Comprehensive Insights From Our Tech Hub, Post-Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/game-changing-savings-alert-snag-the-asus-tuf-gaming-laptop-with-a15-cpu-at-just-658-this-memorial-day/"><u>Game-Changing Savings Alert: Snag the ASUS TUF Gaming Laptop With A15 CPU at Just $658 This Memorial Day!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-choice-awards-the-top-tier-gaming-mouses-of-2024-unveiled/"><u>Gamers' Choice Awards: The Top-Tier Gaming Mouses of 2024 Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-charging-build-an-inexpensive-animated-3d-printer-modeled-wireless-station-for-50-or-less-with-bambu-labs-innovation/"><u>Revolutionize Charging: Build an Inexpensive Animated, 3D-Printer Modeled Wireless Station for $50 or Less with Bambu Labs' Innovation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-honor-100-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor 100 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prime-video-plus-comprehensive-live-channel-access/"><u>[New] 2024 Approved Prime Video Plus Comprehensive Live Channel Access</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-virtual-realm-revelations-the-most-anticipated-ps-vr-games/"><u>[New] 2024 Approved Virtual Realm Revelations The Most Anticipated PS VR Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamlined-audiovisual-sequencing-in-audacity/"><u>[New] In 2024, Streamlined Audiovisual Sequencing in Audacity</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utube-havens-for-entrepreneurs-and-business-gurus-for-2024/"><u>10 YouTube Havens for Entrepreneurs & Business Gurus for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-a-robust-online-community-with-ripl-techniques/"><u>Building a Robust Online Community with Ripl Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-apples-2019-ipad-air-the-ultimate-media-device/"><u>Comprehensive Analysis of Apple's 2019 iPad Air: The Ultimate Media Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnosing-dark-display-distress-on-tablets/"><u>Diagnosing Dark Display Distress on Tablets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expediting-educational-video-content/"><u>Expediting Educational Video Content</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pop-7-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 7 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-computer-gear-reviews/"><u>Tom's Tech Insights: Comprehensive Computer Gear Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide/"><u>Tom's Tech Review: Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-cura-add-ons-enhance-your-3d-print-projects/"><u>Top Cura Add-Ons: Enhance Your 3D Print Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-raspberry-pi-gear-for-tech-enthusiasts/"><u>Top-Rated Raspberry Pi Gear for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-xpg-hybrid-dual-fan-cooler-with-full-liquid-loop-system-handles-up-to-280w-cpus/"><u>Transform Your Gaming Rig: XPG Hybrid Dual-Fan Cooler with Full Liquid Loop System Handles Up to 280W CPUs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-pc-components-wisdom-by-tom/"><u>Unlocking Performance Secrets for PC Components - Wisdom by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-devices-insights-from-toms-hardware-experts/"><u>Unveiling New Devices - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-misjudgement-der8auer-talks-about-shortcomings-in-thermal-grizzly-heatspreaders-and-die-cooler-range/"><u>Unveiling the Misjudgement - Der8auer Talks About Shortcomings in Thermal Grizzly Heatspreaders & Die Cooler Range</u></a></li>
 </ul></div>
 

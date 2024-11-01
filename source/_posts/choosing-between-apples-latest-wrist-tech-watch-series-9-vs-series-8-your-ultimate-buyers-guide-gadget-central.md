@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between Apple's Latest Wrist Tech: Watch Series 9 vs Series 8 - Your Ultimate Buyer's Guide | Gadget Central"
-date: 2024-09-17 22:14:54
-updated: 2024-09-20 10:46:46
+date: 2024-10-31T16:53:52.238Z
+updated: 2024-11-01T19:54:08.941Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,28 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>[New] Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-nature-backdrop-sketches-essential-downloads-for-videographers/"><u>[New] Nature Backdrop Sketches Essential Downloads for Videographers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/haring-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>[New] Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-mac-apps-for-high-quality-gif-saving-for-2024/"><u>[Updated] Best Mac Apps for High-Quality GIF Saving for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-rtx-4070-and-amd-cpu-powered-gaming-notebook-at-unbeatable-price-1129/"><u>Acer RTX 4070 & AMD CPU Powered Gaming Notebook at Unbeatable Price: $1,129</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862701777-affordable-core-i5-12450h-powered-laptop-featuring-two-big-screens-for-710-on-aliexpress-say-goodbye-to-physical-keyboards/"><u>Affordable Core I5-12450H Powered Laptop Featuring Two Big Screens for $710 on AliExpress - Say Goodbye to Physical Keyboards!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862730299-dual-screen-intel-laptop-from-acemagic-start-for-just-899/"><u>Dual-Screen Intel Laptop From Acemagic: Start for Just $899!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/effortless-storytelling-using-pixiz-for-photo-videos/"><u>Effortless Storytelling Using Pixiz for Photo Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-thinkpad-x260-drivers-and-firmware-updates-for-windows-11/"><u>Latest Lenovo ThinkPad X260 Drivers and Firmware Updates for Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862683139-msi-bravo-gaming-laptop-packed-with-rtx-nvidias-4060-save-over-1k/"><u>MSI Bravo Gaming Laptop Packed with RTX Nvidia's 4060 - Save Over $1K</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/must-know-factors-preparing-yourself-before-buying-a-dash-cam/"><u>Must-Know Factors: Preparing Yourself Before Buying a Dash Cam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-black-ops-cold-war-error-code-ae8870005/"><u>Resolving Black Ops Cold War Error Code AE8870005</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862734532-unleash-ultimate-gaming-potential-with-the-budget-friendly-16-inch-dell-g16-just-949-awaits-you/"><u>Unleash Ultimate Gaming Potential with the Budget-Friendly 16-Inch Dell G16 - Just $949 Awaits You!</u></a></li>
+</ul></div>
+

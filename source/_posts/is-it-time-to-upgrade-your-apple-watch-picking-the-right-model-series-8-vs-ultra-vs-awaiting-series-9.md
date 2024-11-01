@@ -1,7 +1,7 @@
 ---
 title: "Is It Time to Upgrade Your Apple Watch? Picking the Right Model: Series 8 vs Ultra vs Awaiting Series 9"
-date: 2024-09-18 21:41:35
-updated: 2024-09-20 10:47:47
+date: 2024-10-28T19:39:41.654Z
+updated: 2024-11-01T19:04:22.721Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-profit-maximizers-playlist-8-tools-and-products-to-elevate-your-business-game/"><u>[New] In 2024, Profit Maximizers Playlist 8 Tools & Products to Elevate Your Business Game</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-safe-toy-drones/"><u>[New] The Ultimate List of Safe Toy Drones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-ultimate-online-destinations-for-enigmatic-boxes/"><u>[Updated] 10 Ultimate Online Destinations for Enigmatic Boxes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discovering-tiktoks-favorites-top-7-charms-plus-hidden-symbol-treasures/"><u>[Updated] In 2024, Discovering TikTok's Favorites – Top 7 Charms + Hidden Symbol Treasures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-closer-look-discover-how-gigabyte-dominates-with-their-revolutionary-aorus-xtreme-and-xtreme-ice-mobos-gpus-showcased-at-computex/"><u>A Closer Look: Discover How Gigabyte Dominates with Their Revolutionary Aorus Xtreme and Xtreme Ice Mobos, GPUs Showcased at Computex</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asrock-unveils-innovative-amd-ryzen-9000-series-mothboards/"><u>ASRock Unveils Innovative AMD Ryzen 9000 Series Mothboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-unveils-new-affordable-overclocking-chipset-z790-ayw-wifi-now-with-enhanced-ddr5-8000plus-speeds/"><u>Asus Unveils New Affordable Overclocking Chipset - Z790-AYW WiFi: Now With Enhanced DDR5-8000+ Speeds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/drm-free-conversion-methods-for-ebook-pages-up-to-chapter-16/"><u>DRM-Free Conversion Methods for EBook Pages Up to Chapter 16</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-the-gallery-in-file-explorer-in-windows-11/"><u>How to Enable the Gallery in File Explorer in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-youtube-interaction-with-emojis/"><u>In 2024, Boosting YouTube Interaction with Emojis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-challenge-of-a-forgotten-passcode-on-your-ipad-with-simple-tricks/"><u>Overcoming the Challenge of a Forgotten Passcode on Your iPad with Simple Tricks.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-peak-post-times-on-instagram-for-2024/"><u>The Ultimate Guide to Peak Post Times on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-on-toms-tech-review/"><u>Top Picks on Tom's Tech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-with-the-asus-rog-maximus-z790-formula-high-end-build-components-meet-hybrid-cooling-excellence/"><u>Unleashing Potential with the Asus ROG Maximus Z790 Formula - High-End Build Components Meet Hybrid Cooling Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-innovations-with-toms-electronic-advice/"><u>Unveiling Gadgets & Innovations with Tom’s Electronic Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-value-of-the-asrock-b7n60m-pro-rs-motherboard-great-affordability-and-extensive-mc2-support/"><u>Unveiling the Value of the ASRock B7n60M Pro RS Motherboard: Great Affordability and Extensive M.C.2 Support</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-customers-rejoice-premium-loongson-processor-integrated-boards-and-pc-units-start-as-low-as-3er-thousand-starting-your-tech-upgrade-effortlessly/"><u>US Customers Rejoice: Premium Loongson Processor-Integrated Boards and PC Units Start As Low as $3Er Thousand, Starting Your Tech Upgrade Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-cutting-edge-computer-gear-toms-hardware-haven/"><u>Your Trusted Source for Cutting-Edge Computer Gear - Tom's Hardware Haven</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: A Week with an Ergonomic Split Keyboard – How It Transformed My PC Setup | TechRadar
-date: 2024-10-21T20:03:25.500Z
-updated: 2024-10-26T22:25:54.171Z
+date: 2024-10-25T18:58:24.139Z
+updated: 2024-11-01T17:05:11.318Z
 tags:
   - laptops
 categories:
@@ -107,10 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,22 +149,21 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-platforms-enhancing-online-collaboration/"><u>[New] 2024 Approved Leading Platforms Enhancing Online Collaboration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-premier-speaker-showcase-designer/"><u>[New] 2024 Approved Premier Speaker Showcase Designer</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[New] Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-complete-youtube-video-editor-reference-manual/"><u>[Updated] 2024 Approved The Complete YouTube Video Editor Reference Manual</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-step-by-step-screen-record-your-win10-game-log/"><u>[Updated] In 2024, Step-by-Step Screen Record Your Win10 Game Log</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>[Updated] In 2024, The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/analyzing-the-flsun-s1s-eccentric-delta-design-and-lightning-quick-functionality-a-comprehensive-review/"><u>Analyzing the FLSun S1's Eccentric Delta Design & Lightning-Quick Functionality – A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcool-assassin-4s-cooler-evaluation-silent-and-powerful-performance/"><u>DeepCool Assassin 4S Cooler Evaluation: Silent and Powerful Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-curated-by-tomn-tech-wisdom/"><u>Discover Top Hardware Picks Curated by Tom'n Tech Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-new-gadgets-with-toms-computing-hub/"><u>Discovering New Gadgets with Tom's Computing Hub</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/effortless-media-capture-made-simple-beyond-traditional-youtube-grabby-tools/"><u>Effortless Media Capture Made Simple: Beyond Traditional Youtube Grabby Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-motorola-g24-power-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola G24 Power Phone?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware/"><u>Navigate the Tech World: In-Depth Analysis by Tom’s Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-insights-from-toms-hardware-exploring-the-latest-in-computing/"><u>Tech Insights From Tom's Hardware - Exploring the Latest in Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-electronics-hardware-deep-dives/"><u>Tom's Guide to Cutting-Edge Electronics: Hardware Deep Dives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guide/"><u>Tom's Tech Reviews: In-Depth Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-igtv-hash-tagging-boosting-your-fan-base/"><u>[New] Mastering IGTV Hash Tagging Boosting Your Fan Base</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-step-by-step-process-to-embed-timestamps-on-youtube-links-for-2024/"><u>[Updated] The Step-by-Step Process to Embed Timestamps on YouTube Links for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-vintage-virtual-battles-our-best-of-classic-adventure-titles/"><u>[Updated] Vintage Virtual Battles Our Best of Classic Adventure Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-release-google-unveils-pixel-9-pro-surprisingly-sooner-than-expected/"><u>Early Release: Google Unveils Pixel 9 Pro Surprisingly Sooner than Expected</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-health-monitoring-with-samsungs-latest-galaxy-ring-innovation/"><u>Effortless Health Monitoring with Samsung's Latest Galaxy Ring Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-homekit-integration-with-the-kasa-ks240-smart-fan-controller-user-reviews/"><u>Effortless HomeKit Integration with the Kasa KS240 Smart Fan Controller - User Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-the-pixel-eighta-now-and-skip-the-long-wait-for-pixel-9-launch/"><u>Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-dimension-verification-the-first-step-in-assembling-your-custom-pc/"><u>Essential Dimension Verification: The First Step in Assembling Your Custom PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-savings-alert-score-your-new-samsung-gaming-display-limited-edition-pixel-watch-gen-2-pre-owned-macbook-air-units-plus-top-tech-specials/"><u>Exclusive Savings Alert! Score Your New Samsung Gaming Display, Limited Edition Pixel Watch Gen 2, Pre-Owned MacBook Air Units, Plus Top Tech Specials!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-trends-what-causes-the-diminishing-demand-for-high-performance-sd-cards-despite-their-advantages/"><u>Exploring Trends: What Causes the Diminishing Demand for High-Performance SD Cards Despite Their Advantages?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-the-troubled-journey-of-googles-pixel-slate-and-chromeos-experience/"><u>In-Depth Evaluation: The Troubled Journey of Google's Pixel Slate and ChromeOS Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a05s-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A05s Phone? Unlock It Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nikon-z7-unveiled-a-mirrorless-marvel-of-photographic-prowess/"><u>Nikon Z7 Unveiled: A Mirrorless Marvel of Photographic Prowess</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-preview-failures-in-microsoft-mail/"><u>Tackling the Challenge of Preview Failures in Microsoft Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-to-run-this-install-net-error-in-windows/"><u>Troubleshooting To Run This, Install .NET Error in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-hidden-gem-how-lenovo-tab-extreme-poses-a-strong-challenge-to-apples-ipad-pro/"><u>Unveiling the Hidden Gem: How Lenovo Tab Extreme Poses a Strong Challenge to Apple's iPad Pro</u></a></li>
 </ul></div>
 

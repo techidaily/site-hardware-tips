@@ -1,7 +1,7 @@
 ---
 title: "Tangle Troubles No More: The Revolutionary USB-C Cord that Transformed My Backpack Adventures | ZDNet Insights"
-date: 2024-10-25T21:38:01.841Z
-updated: 2024-10-26T23:49:03.578Z
+date: 2024-10-30T18:27:26.003Z
+updated: 2024-11-01T19:10:11.775Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,24 +150,24 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices/"><u>[New] The Ultimate Guide to Recording Hulu Episodes on Multiple Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-crafting-premium-soundtracks-with-zooms-record-feature/"><u>[Updated] Crafting Premium Soundtracks with Zoom's Record Feature</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-full-screen-recorders-uncovered-a-compreayers-picks/"><u>2024 Approved Top Full-Screen Recorders Uncovered A Compreayer's Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-top-choices-for-high-performance-wireless-keyboards/"><u>2024'S Top Choices for High-Performance Wireless Keyboards</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-computer-gadgets-with-toms-hardware-guide/"><u>Delving Into Computer Gadgets with Tom's Hardware Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-14-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 14 Plus Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-computing-at-toms-hardware-store/"><u>Exploring Cutting-Edge Computing at Tom's Hardware Store</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-tech-with-toms-computing-innovations/"><u>Exploring Cutting-Edge Tech with Tom's Computing Innovations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-applications-streamlining-video-conferencing/"><u>In 2024, Optimal Applications Streamlining Video Conferencing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-3d-qr-code-printing-techniques-for-high-definition-results/"><u>Master the Art of 3D QR Code Printing: Techniques for High Definition Results</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-assessment-navigating-the-allure-of-design-and-the-underwhelming-ai-capabilities/"><u>Microsoft Surface Pro Assessment: Navigating the Allure of Design and the Underwhelming AI Capabilities</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mountpoint-integration-with-amazon-s3-a-comprehensive-tutorial-on-secure-installation-and-usage/"><u>Mountpoint Integration with Amazon S3: A Comprehensive Tutorial on Secure Installation and Usage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-and-tech-news-the-comprehensive-guide-by-toms-hardware/"><u>Pioneering PC & Tech News: The Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/playlist-perfection-updated-devices-for-2024/"><u>Playlist Perfection Updated Devices for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scorching-summer-no-more-invest-in-high-value-air-cooling-for-less-the-thermalight-spirit-phantom-120-se-at-a-sensational-35/"><u>Scorching Summer No More: Invest in High-Value Air Cooling for Less! The Thermalight Spirit Phantom 120 SE at a Sensational $35!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-pick-for-gamers-2024s-top-screens-with-advanced-tech-and-competitive-pricing/"><u>The Best Pick for Gamers: 2024'S Top Screens with Advanced Tech & Competitive Pricing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-complete-process-of-scheduling-google-meets/"><u>The Complete Process of Scheduling Google Meets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-the-msvcr80dll-error-detailed-repair-instructions-for-windows-users/"><u>Troubleshoot the msvcr80.dll Error - Detailed Repair Instructions for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-high-performance-computers-top-picks-by-toms-hardware/"><u>Unveiling High-Performance Computers - Top Picks by Tom's Hardware</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-social-media-presence-syncing-srt-uploads-with-platforms/"><u>[Updated] Elevate Your Social Media Presence Syncing SRT Uploads with Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-video-sharing-showdown-comparing-streamers-strengths-vimeo-youtube-and-dailymotion-for-2024/"><u>[Updated] Video Sharing Showdown Comparing Streamers' Strengths Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-by-tom-in-depth-system-analysis/"><u>Advanced Computing by Tom: In-Depth System Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-laptops-high-performance-and-costing-less-than-1500/"><u>Best Value Gaming Laptops - High Performance and Costing Less Than $1,500</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-walkthrough-revamping-your-motherboards-software-on-windows-pcs/"><u>Comprehensive Walkthrough: Revamping Your Motherboard's Software on Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-budget-friendly-amd-b550-motherboards-with-advanced-pci-express-40-performance/"><u>Discover the Best Budget-Friendly AMD B550 Motherboards with Advanced PCI Express 4.0 Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/economical-yet-high-performance-keyboards-for-gamers/"><u>Economical Yet High-Performance Keyboards for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoo-neptune-4-max-unveiling-its-impressive-speed-and-size-while-navigating-through-the-glitches/"><u>Elegoo Neptune 4 Max: Unveiling Its Impressive Speed & Size While Navigating Through the Glitches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-on-cutting-edge-3d-printer-technology-for-savvy-shoppers/"><u>Exclusive Deals on Cutting-Edge 3D Printer Technology for Savvy Shoppers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-facile-pour-gerer-et-reparer-la-compatibilite-hevc-sous-les-systemes-dexploitation-windows-varies/"><u>Guide Facile Pour Gérer Et Réparer La Compatibilité HEVC Sous Les Systèmes D'Exploitation Windows Variés</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-add-an-insignia-adapter-from-usb-to-vga-guide-for-drivers-and-setup/"><u>How to Add an Insignia Adapter From USB to VGA: Guide for Drivers and Setup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-13-mini-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 13 mini Display? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-game-music-websites-a-comprehensive-guide/"><u>In 2024, Free Game Music Websites – A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-logitech-cam-enhancement-techniques-for-detailed-edits/"><u>In 2024, Logitech Cam Enhancement - Techniques for Detailed Edits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-m14-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy M14 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125179270-swift-and-smooth-printing-awaits-you-save-75-on-the-highly-recommended-elegoo-neptune-4-pro-by-our-editors/"><u>Swift and Smooth Printing Awaits You - Save $75 on the Highly Recommended Elegoo Neptune 4 Pro by Our Editors!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175688723-thermal-paste-eaten-by-fire-ants-shocking-discovery-reveals-insects-in-gpu-unit/"><u>Thermal Paste Eaten by Fire Ants? Shocking Discovery Reveals Insects in GPU Unit!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-outsourcing-data-with-an-external-hard-drive-still-matters-beyond-cloud-solutions/"><u>Why Outsourcing Data with an External Hard Drive Still Matters: Beyond Cloud Solutions</u></a></li>
 </ul></div>
 

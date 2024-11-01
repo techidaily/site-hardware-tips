@@ -1,7 +1,7 @@
 ---
 title: Apple Leads in Customer Happiness Rankings, as Samsung Closes Distance – Insights From ZDNet
-date: 2024-10-23T22:08:02.930Z
-updated: 2024-10-26T20:15:31.777Z
+date: 2024-10-31T17:32:00.559Z
+updated: 2024-11-01T18:32:53.270Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,16 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +66,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +83,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,14 +129,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-batch-save-presentations-in-video-format/"><u>[New] Batch Save Presentations in Video Format</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-strategies-for-successful-mukbang-production-for-2024/"><u>[Updated] Essential Strategies for Successful Mukbang Production for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-capture-youtubes-iconic-icons-online-tools-desktop-software-and-commands/"><u>[Updated] In 2024, Capture YouTube's Iconic Icons Online Tools, Desktop Software & Commands</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comment-eliminer-la-sauvegarde-automatique-avec-wbadmin-sur-windows-serveur-guide-detaille/"><u>Comment Éliminer La Sauvegarde Automatique Avec Wbadmin Sur Windows Serveur : Guide Détaillé</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-a-hardware-deep-dive/"><u>Exploring Technology with Tom: A Hardware Deep Dive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-toms-hardware-review-insights-on-the-latest-tech-gear/"><u>The Tom's Hardware Review: Insights on the Latest Tech Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-expert-insights-and-reviews/"><u>Tom's Computer Components: Expert Insights and Reviews</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/uberwindung-von-winload-fehlern-und-das-fehlen-der-efi-firmware-in-windows-11-strategien-zum-erfolg-im-jahr-2024/"><u>Überwindung Von Winload-Fehlern Und Das Fehlen Der Efi-Firmware in Windows 11: Strategien Zum Erfolg Im Jahr 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unexpected-invaders-attack-pc-a-gamers-battle-against-fire-ant-infestation-eating-thermal-pads/"><u>Unexpected Invaders Attack PC: A Gamer's Battle Against Fire Ant Infestation Eating Thermal Pads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-fidelity-game-recording-tools-for-2024/"><u>[New] High Fidelity Game Recording Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-fb-to-mp4-conversion-high-definition-options-now/"><u>[New] Seamless FB to MP4 Conversion, High Definition Options Now</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-digging-into-the-data-top-10-twitvideos/"><u>[Updated] In 2024, Digging Into the Data Top 10 TwitVideos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>2024 Approved Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/comment-convertir-et-deplacer-des-films-vhs-sur-dvd-via-un-ordinateur-portable/"><u>Comment Convertir Et Déplacer Des Films VHS Sur DVD Via Un Ordinateur Portable ?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862716274-power-play-at-a-bargain-snag-alienwares-massive-rtx-4090-m18-r2-gaming-laptop-with-huge-savings-of-700/"><u>Power-Play at a Bargain: Snag Alienware’s Massive RTX 4090 M18 R2 Gaming Laptop with Huge Savings of $700</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-these-simple-solutions-to-common-apple-pay-problems-in-minutes/"><u>Solve These Simple Solutions to Common Apple Pay Problems in Minutes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-underdog-victory-from-crowdfunding-success-to-corporate-integration-story/"><u>The Underdog Victory: From Crowdfunding Success to Corporate Integration Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thermalright-phantom-spirit-120-evo-assessment-a-domination-not-just-a-contest/"><u>Thermalright Phantom Spirit 120 EVO Assessment: A Domination, Not Just a Contest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-unveiling-the-latest-hardware-innovations/"><u>Tom's Computer Gear: Unveiling the Latest Hardware Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-computer-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Computer Reviews and News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-best-value-3d-printing-offers-of-2024/"><u>Top 5 Best Value 3D Printing Offers of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-hard-drives-of-2024-ultimate-guide-for-desktops-and-nas-solutions/"><u>Top Pick Hard Drives of 2024: Ultimate Guide for Desktops & NAS Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/veiled-viewing-of-facebook-flashbacks-for-2024/"><u>Veiled Viewing of Facebook Flashbacks for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
 

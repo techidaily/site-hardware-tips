@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed Experts"
-date: 2024-10-23T22:05:24.712Z
-updated: 2024-10-26T23:20:17.400Z
+date: 2024-10-30T17:49:57.499Z
+updated: 2024-11-01T20:44:08.166Z
 tags:
   - laptops
 categories:
@@ -47,16 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -72,16 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -97,10 +85,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C88688729-0a22-42fb-9c25-1fc3c85c51a1%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -142,17 +130,16 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-hdr-power-play-is-sns-the-best-option-for-2024/"><u>[New] HDR Power Play Is SNS the Best Option for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-6-best-video-translators-to-translate-a-video/"><u>[Updated] 2024 Approved 6 Best Video Translators to Translate a Video</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastery-in-one-bite-io-screen-capture-guidebook/"><u>2024 Approved Mastery in One Bite IO Screen Capture Guidebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-tv-plus-casting-tricks-watch-your-favorites-on-chromecast/"><u>Apple TV Plus Casting Tricks: Watch Your Favorites on Chromecast</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-pc-gear-with-toms-hardware-reviews/"><u>Discover Top-Notch PC Gear with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-your-hands-on-our-top-pick-of-iphone-cases-bogo-offer-shop-now-at-zdnet/"><u>Get Your Hands on Our Top Pick of iPhone Cases: BOGO Offer - Shop Now at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-electronics-with-toms-hardware/"><u>Inside the World of Electronics with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-your-tech-choices-with-confidence-using-toms-hardware-analysis/"><u>Navigate Your Tech Choices with Confidence Using Tom's Hardware Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-your-images-with-cleared-backdrops/"><u>Perfecting Your Images with Cleared Backdrops</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-huge-printing-capabilities-at-a-lower-price-save-80-on-elegoo-neptune-3-plus/"><u>Score Huge Printing Capabilities at a Lower Price – Save $80 on Elegoo Neptune 3 Plus</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/bupifovobmp4/"><u>シンプルなステップ：初心者向けのBUP、IFO、VOBからMP4への完全変換ガイド</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximize-impact-with-professional-360-video-uploads-for-youtube-for-2024/"><u>[New] Maximize Impact with Professional 360° Video Uploads for YouTube for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-10-must-haves-to-optimize-and-enrich-your-discord-experience/"><u>[Updated] 10 Must-Haves to Optimize and Enrich Your Discord Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swiftly-tweak-your-stories-frame-rates-on-instagram/"><u>[Updated] Swiftly Tweak Your Stories' Frame Rates on Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a18-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A18 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/spark-change-with-these-10-inspirational-classics-for-2024/"><u>Spark Change with These 10 Inspirational Classics for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-computer-hardware-insights/"><u>Tom's Tech Review: Comprehensive Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-into-modern-hardware/"><u>Tom's Tech Review: Comprehensive Insights Into Modern Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-unbeatable-savings-thrifty-beginners-4k-resin-3d-printer-now-at-44-off-on-black-friday/"><u>Unlock Unbeatable Savings: 'Thrifty Beginner's 4K Resin 3D Printer Now at 44% Off on Black Friday</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-and-motherboards-at-toms-equipment-corner/"><u>Unveiling the Latest in Gadgets and Motherboards at Tom's Equipment Corner</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-toms-computer-review-platform/"><u>Unveiling the Secrets of Tom's Computer Review Platform</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728464865499-windows-10/"><u>Windows 10 再インストール後に失われたファイルの回復方法</u></a></li>
 </ul></div>
 

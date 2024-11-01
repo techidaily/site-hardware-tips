@@ -1,7 +1,7 @@
 ---
 title: Budget Laptop Rekindles Forgotten Term From Heyday of Technology Chats | CNET
-date: 2024-10-25T00:27:16.639Z
-updated: 2024-10-26T19:28:37.784Z
+date: 2024-10-25T21:01:38.086Z
+updated: 2024-11-01T18:14:06.274Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ This product is still on Kickstarter. I don't usually review products on Kicksta
 [ZDNET RECOMMENDS CrowView Note If you've always wanted to use your phone with a larger screen, a full keyboard, and a trackpad, the CrowView Note simplifies this task. View at Kickstarter](https://www.kickstarter.com/projects/elecrow/crowview-note-empowering-your-device-as-a-laptop/pledge/new?clicked%5Freward=false)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The specs
@@ -71,10 +71,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My experience
@@ -119,10 +119,16 @@ The best thing about using the CrowView Note is that I don't have to worry about
 Is the CrowView Note for everyone? No. If, however, you regularly make use of single-board computers (such as the Raspberry Pi), have a mini PC that's not in use, or a phone/table that supports full-featured USB-C, this handy device is a real gem. At $140, it's certainly a lot cheaper than purchasing a monitor, a keyboard, and a mouse just for those devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,21 +167,24 @@ This could be $140 well spent if you're looking to make using certain devices co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar/"><u>[New] In 2024, Filmora Simplified Guide to an Engaging YouTube Anime Subscriber Bar</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-memories-storing-digitalized-vintage-photographs/"><u>[New] Maximizing Memories Storing Digitalized Vintage Photographs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-the-lens-innovative-ideas-for-youtube-video-creation-for-2024/"><u>[Updated] Beyond the Lens Innovative Ideas for YouTube Video Creation for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-convenient-approach-to-downloading-the-funniest-tweets-gifs-on-pc/"><u>2024 Approved Convenient Approach to Downloading the Funniest Tweets (GIFs) on PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affinity-photo-demystified-for-2024/"><u>Affinity Photo Demystified for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-curve-enhanced-monitoring-systems-for-gamers-in-24/"><u>Best Curve-Enhanced Monitoring Systems for Gamers in 2#4</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-phrozen-sonic-mega-8ks-synth-resin-evaluation-ideal-for-printing-enthusiasts/"><u>Comprehensive Phrozen Sonic Mega 8Ks Synth Resin Evaluation - Ideal for Printing Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embrace-efficiency-enhance-performance-with-arctics-new-36x36-freezer-for-the-incoming-intel-cpu-lineup/"><u>Embrace Efficiency: Enhance Performance with Arctic's New 36X36 Freezer for the Incoming Intel CPU Lineup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-the-epic-tale-in-fps-mode-god-of-war-arrives-on-pc-platforms/"><u>Experience the Epic Tale in FPS Mode: God of War Arrives on PC Platforms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/fast-footsteps-simple-recording-for-dell-pcs-for-2024/"><u>Fast Footsteps Simple Recording for Dell PCs for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-plus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Plus Phone without Any Data Loss</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impressively-sizable-elegoo-3d-printers-can-they-handle-printing-a-toddlers-model/"><u>Impressively Sizable Elegoo 3D Printers – Can They Handle Printing a Toddler's Model?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-data-encoding-leveraging-common-plastics-for-ultra-efficient-3d-hologram-storage-capable-of-holding-up-to-amoeba-bits/"><u>Innovative Data Encoding: Leveraging Common Plastics for Ultra-Efficient 3D-Hologram Storage Capable of Holding Up to Amoeba Bits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-confirms-upcoming-launch-of-the-arrow-lake-s-processor-range-december-announcement-expected/"><u>Intel Confirms Upcoming Launch of the Arrow Lake-S Processor Range - December Announcement Expected</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rumored-december-release-intels-upcoming-arrow-lake-s-processor/"><u>Rumored December Release: Intel's Upcoming Arrow Lake-S Processor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unveiling-the-full-potential-complete-review-of-powerdirector-pro-suite/"><u>Unveiling the Full Potential Complete Review of PowerDirector Pro Suite</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-3-creative-strategies-for-enhanced-heads-on-tiktok-videos/"><u>[New] In 2024, 3 Creative Strategies for Enhanced Heads on TikTok Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-comprehensive-review-of-syma-x8c/"><u>[New] In 2024, Comprehensive Review of Syma X8C</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ick-the-best-days-to-post-on-youtube/"><u>[New] Pick the Best Days to Post on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-prime-6-economical-choices-for-ultra-hd-viewing/"><u>[New] Prime 6 Economical Choices for Ultra HD Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-transform-scripted-text-into-storytelling-magic/"><u>[Updated] 2024 Approved Transform Scripted Text Into Storytelling Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-microsofts-new-focus-on-ai-may-impact-the-future-of-handheld-computing-and-gaming-systems/"><u>How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-my-gadgets-from-headphones-to-activity-bands-empower-me-to-achieve-100plus-running-miles-monthly/"><u>How My Gadgets From Headphones to Activity Bands Empower Me to Achieve 100+ Running Miles Monthly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-compatible-features-in-apples-upcoming-macos-sequoia/"><u>Intel-Compatible Features in Apple's Upcoming macOS Sequoia</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kids-can-stay-connected-safely-with-t-mobiles-budget-friendly-monthly-12-child-sized-smartwatch/"><u>Kids Can Stay Connected Safely with T-Mobile’s Budget-Friendly Monthly $12 Child-Sized Smartwatch!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-legion-pro-7i-game-rig-evaluation-the-ultimate-16gb-ram-intel-i7-powerhouse/"><u>Lenovo Legion Pro 7I Game Rig Evaluation - The Ultimate 16GB RAM, Intel I7 Powerhouse</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-during-amazons-prime-day-include-essential-surge-protectors-in-your-purchase/"><u>Maximize Savings During Amazon's Prime Day: Include Essential Surge Protectors in Your Purchase</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-remove-tiktok-logos-with-ease-best-online-watermark-removers/"><u>New In 2024, Remove TikTok Logos with Ease Best Online Watermark Removers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-launched-satechi-charger-stands-compatible-with-qi2-and-apples-magsafe/"><u>Newly Launched Satechi Charger Stands Compatible with Qi2 & Apple's MagSafe</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/personalize-your-reset-this-pc-experience-with-custom-reboot-images-in-windows-10/"><u>Personalize Your 'Reset This PC' Experience with Custom Reboot Images in Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-powered-intelligent-living-space-setup-explained-in-detail/"><u>Raspberry Pi Powered Intelligent Living Space Setup Explained in Detail</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/regain-control-how-to-combat-cellphone-disruption-in-four-easy-steps/"><u>Regain Control: How to Combat Cellphone Disruption in Four Easy Steps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-15-most-influential-books-spotted-by-booktok-followers/"><u>The 15 Most Influential Books Spotted by BookTok Followers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-for-starting-a-live-feed-for-2024/"><u>The Ultimate Checklist for Starting a Live Feed for 2024</u></a></li>
 </ul></div>
 

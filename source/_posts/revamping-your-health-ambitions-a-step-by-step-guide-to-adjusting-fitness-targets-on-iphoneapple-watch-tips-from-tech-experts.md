@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your Health Ambitions: A Step-by-Step Guide to Adjusting Fitness Targets on iPhone/Apple Watch - Tips From Tech Experts"
-date: 2024-09-17 16:10:17
-updated: 2024-09-20 10:48:13
+date: 2024-10-31T20:17:11.361Z
+updated: 2024-11-01T20:06:21.767Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/fixing-ralink-driver-issues-in-windows-downloading-and-updating-made-simple/"><u>Fixing Ralink Driver Issues in Windows: Downloading and Updating Made Simple</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-superior-group-multimedia-platforms/"><u>In 2024, Superior Group Multimedia Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tips-to-perfectly-integrate-jump-cuts-into-videos/"><u>In 2024, Tips to Perfectly Integrate Jump Cuts Into Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-features-unveiled-in-our-lenovo-thinkpad-x1-carbon-gen-12-analysis-where-lightweight-meets-intelligent-computing/"><u>Innovative Features Unveiled in Our Lenovo ThinkPad X1 Carbon Gen 12 Analysis: Where Lightweight Meets Intelligent Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-pcs-and-peripherals-by-tom-your-trusted-source/"><u>Inside the World of PCs and Peripherals by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ultrabook-models-and-luxury-laptop-reviews/"><u>Leading Ultrabook Models & Luxury Laptop Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-shakes-up-computing-industry-thinkpad-p1-gen-7-revolutionizes-portability-efficiency-and-power-with-groundbreaking-lpcamm2-memory/"><u>Lenovo Shakes Up Computing Industry: ThinkPad P1 Gen 7 Revolutionizes Portability, Efficiency & Power with Groundbreaking LPCAMM2 Memory</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-grab-the-amazing-2024-asus-tuf-gaming-a15-laptop-for-just-658/"><u>Memorial Day Deal: Grab the Amazing 2024 Asus TUF Gaming A15 Laptop for Just $658!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-unveils-revolutionary-aiplus-gaming-and-creative-workstations-delivering-exceptional-performance-from-100-542-tops/"><u>MSI Unveils Revolutionary AI+ Gaming & Creative Workstations: Delivering Exceptional Performance From 100-542 TOPS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/preventing-total-loss-of-image-in-streaming-videos-on-youtube-for-2024/"><u>Preventing Total Loss of Image in Streaming Videos on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/roblox-launch-problems-resolved-how-to-get-past-the-endless-loader-screen/"><u>Roblox Launch Problems Resolved: How to Get Past the Endless Loader Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-green-screen-editing-on-a-mac-software-comparison-and-recommendations/"><u>Updated 2024 Approved Green Screen Editing on a Mac Software Comparison and Recommendations</u></a></li>
+</ul></div>
+

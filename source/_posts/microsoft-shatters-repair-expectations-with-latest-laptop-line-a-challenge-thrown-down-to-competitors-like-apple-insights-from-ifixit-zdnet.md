@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Shatters Repair Expectations with Latest Laptop Line: A Challenge Thrown Down to Competitors Like Apple - Insights From iFixit | ZDNet"
-date: 2024-10-23T16:43:07.407Z
-updated: 2024-10-26T19:45:28.556Z
+date: 2024-10-27T18:21:46.235Z
+updated: 2024-11-01T19:42:27.857Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,10 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +75,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,16 +92,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -146,18 +140,24 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-binge-worthy-music-reaction-videos-on-youtube-for-2024/"><u>[New] How to Binge-Worthy Music Reaction Videos on YouTube for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-manipulating-netflix-stream-velocity/"><u>[New] Mastering the Art of Manipulating Netflix Stream Velocity</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-the-art-of-social-media-video-magic-on-fb/"><u>[Updated] In 2024, Unveiling the Art of Social Media Video Magic on FB</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-timeline-capture-securing-your-social-media-videos/"><u>[Updated] Tweeted Timeline Capture Securing Your Social Media Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-raw-to-ready-a-compreenass-guide-to-video-crop-on-instagram/"><u>2024 Approved From Raw to Ready A Compreenas's Guide to Video Crop on Instagram</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1724765879269-dvd/"><u>無料対策説明：パソコンレスでコピープロテクト付きDVDをスマートフォンに取り込む方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-gear-with-toms-hardware-exploration/"><u>Discover Top Gear with Tom's Hardware Exploration</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easy-avi-file-splitting-and-trimming-a-comprehensive-guide/"><u>Easy AVI File Splitting and Trimming A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-precision-with-the-xtool-s1-top-reviews-and-insights-into-diode-laser-technology-for-hobbies/"><u>Mastering Precision with the XTool S1 – Top Reviews & Insights Into Diode Laser Technology for Hobbies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-cura-fuzzy-skin-functionality-a-step-by-step-guide-for-enhancing-your-3d-prints-with-texture/"><u>Mastering the Cura Fuzzy Skin Functionality: A Step-by-Step Guide for Enhancing Your 3D Prints with Texture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-with-tom-expert-hardware-analysis/"><u>Navigating Electronics with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-tips-addressing-thread-exception-not-handled-errors-effortlessly/"><u>Quick Tips: Addressing 'Thread Exception Not Handled' Errors Effortlessly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-twelve-souths-bookbook-v2-for-macbook-ingenious-protective-gear/"><u>Review of Twelve South's BookBook V2 for MacBook - Ingenious Protective Gear</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-crack-the-code-of-content-top-6-youtuber-personality-tests-revealed/"><u>[New] 2024 Approved Crack the Code of Content Top 6 YouTuber Personality Tests Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-cutting-edge-online-streaming-via-vlc-media-player/"><u>[New] Expert Guide to Cutting-Edge Online Streaming via VLC Media Player</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-accelerating-streamed-instagram-content-mobile-hacks/"><u>[New] In 2024, Accelerating Streamed Instagram Content Mobile Hacks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-steps-for-crafting-visually-stimulating-fb-ad-content-for-2024/"><u>[Updated] Steps for Crafting Visually Stimulating FB Ad Content for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-master-the-art-of-tiktok-video-making-with-ease-and-flair/"><u>2024 Approved Master the Art of TikTok Video Making with Ease & Flair</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-screen-recorder-no-ads-for-android-for-2024/"><u>Best Screen Recorder No Ads for Android for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-immersion-in-gaming-with-the-transition-to-curved-ultrawide-screen-technology/"><u>Enhanced Immersion in Gaming with the Transition to Curved Ultrawide Screen Technology</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210559270-9781590792483-evolutions-purpose/"><u>Evolution's Purpose | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-smart-innovations-with-the-latest-ai-upgrades-for-samsung-galaxy-s22-users/"><u>Experience Next-Level Smart Innovations with the Latest AI Upgrades for Samsung Galaxy S22 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-compact-power-asus-launches-miniature-nuc-devices-with-next-gen-rtx-4000-series-graphics/"><u>Explore the Compact Power: ASUS Launches Miniature NUC Devices with Next-Gen RTX 4000 Series Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-fresh-release-of-amazonn-echo-spot-the-innovative-home-device/"><u>Explore the Fresh Release of Amazon'n Echo Spot - The Innovative Home Device!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fairphones-innovative-fairbuds-tested-user-friendly-replacement-earphones-with-sound-performance-review/"><u>Fairphone's Innovative Fairbuds Tested: User-Friendly Replacement Earphones with Sound Performance Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/galaxies-and-gadgets-collide-the-tale-of-how-samsung-put-the-damper-on-my-celestial-ring-aspirations/"><u>Galaxies and Gadgets Collide: The Tale of How Samsung Put the Damper on My Celestial Ring Aspirations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-a15-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy A15 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-g310-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia G310 FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-a79-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo A79 5G online without jailbreak</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/incredible-tech-savings-grab-the-anker-nano-portable-charger-pixel-wear-smartwatch-and-blink-security-camera-bundle/"><u>Incredible Tech Savings: Grab the Anker Nano Portable Charger, Pixel Wear Smartwatch, and Blink Security Camera Bundle!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/jabra-finalizes-production-of-premium-elite-and-talk-enabled-wireless-headphones/"><u>Jabra Finalizes Production of Premium Elite and Talk-Enabled Wireless Headphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/key-factors-to-consider-while-selecting-the-ideal-power-plant/"><u>Key Factors to Consider While Selecting the Ideal Power Plant</u></a></li>
 </ul></div>
 

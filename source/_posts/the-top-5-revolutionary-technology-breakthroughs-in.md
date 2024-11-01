@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Revolutionary Technology Breakthroughs In
-date: 2024-10-20T21:12:33.026Z
-updated: 2024-10-27T00:54:50.054Z
+date: 2024-10-25T18:28:12.665Z
+updated: 2024-11-01T20:20:12.473Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,16 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -89,16 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -114,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -162,18 +150,20 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-essential-online-sources-for-high-quality-tones/"><u>[New] Essential Online Sources for High-Quality Tones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ace-the-art-of-digital-photography-with-lunapic/"><u>[Updated] Ace the Art of Digital Photography with LunaPic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[Updated] In 2024, WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-innovative-qualities-of-the-creality-k1-c-carbon-sla-machine/"><u>Evaluating the Innovative Qualities of the Creality K1 C Carbon SLA Machine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-on-high-quality-black-tpu-filament-save-big-at-just-16-per-kilo/"><u>Exclusive Deal on High-Quality Black TPU Filament – Save Big at Just $16 Per Kilo!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-gaming-with-lamptrons-newest-innovation-a-powerful-st060-cpu-cooler-that-doubles-as-a-high-resolution-second-monitor-similar-to-the-ipho17/"><u>Experience Enhanced Gaming with Lamptron's Newest Innovation - A Powerful ST060 CPU Cooler that Doubles as a High-Resolution Second Monitor, Similar to the iPhone Cued 15 Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-adatas-hybrid-cooling-revolution-presented-at-computex-get-ready-for-upcoming-powerful-psus-and-cutting-edge-pcie-ssd-technology/"><u>Exploring Adata's Hybrid Cooling Revolution Presented at Computex: Get Ready for Upcoming Powerful PSUs and Cutting-Edge PCIe SSD Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-at-toms-hardware-storehouse/"><u>Exploring Cutting-Edge Gadgets at Tom's Hardware Storehouse</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/framework-os-exposes-pc-industrys-misguided-emphasis-on-ai/"><u>Framework OS Exposes PC Industry's Misguided Emphasis on 'AI'</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oneplus-12-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On OnePlus 12 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/igtv-content-size-requirements-for-2024/"><u>IGTV Content Size Requirements for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-huawei-nova-y71-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Huawei Nova Y71 to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-infinix-smart-8-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Infinix Smart 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-techniques-to-ensure-uninterrupted-video-capturing/"><u>[New] Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-blueprint-for-building-an-iconic-online-identity-on-youtube/"><u>[New] The Blueprint for Building an Iconic Online Identity on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-strategies-for-flawless-screens-in-adobe-captivity/"><u>[Updated] Innovative Strategies for Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-usenet-video-player-direct-streaming-access/"><u>[Updated] Usenet Video Player Direct Streaming Access</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>2024 Approved In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-speak-and-record-iphone-voice-memo-basics/"><u>2024 Approved Speak and Record IPhone Voice Memo Basics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-90-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor 90 Easily?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-screen-captures-no-cost-pubg-sets-for-2024/"><u>Premier Screen Captures No-Cost PUBG Sets for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-cpu-coolers-liquid-and-airflow-varieties/"><u>The Ultimate Guide to Selecting the Best CPU Coolers - Liquid and Airflow Varieties</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-expert-analysis/"><u>Tom's Computer Insights & Expert Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-discounts-on-3d-printing-equipment/"><u>Top Discounts on 3D Printing Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-nas-solutions-ultimate-guide-to-storing-and-protecting-your-data-with-network-attached-servers/"><u>Top NAS Solutions: Ultimate Guide to Storing & Protecting Your Data with Network-Attached Servers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-quality-webcams-the-ultimate-guide/"><u>Top Quality Webcams: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-the-inside-scoop-from-toms-hardware/"><u>Unlocking Performance Secrets - The Inside Scoop From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-toms-comprehensive-hardware-analysis/"><u>Unlocking Performance Secrets: Tom's Comprehensive Hardware Analysis</u></a></li>
 </ul></div>
 

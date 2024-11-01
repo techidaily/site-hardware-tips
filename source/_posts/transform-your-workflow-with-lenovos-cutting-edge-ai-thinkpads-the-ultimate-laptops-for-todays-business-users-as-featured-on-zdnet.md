@@ -1,7 +1,7 @@
 ---
 title: Transform Your Workflow with Lenovo's Cutting-Edge AI ThinkPads – The Ultimate Laptops for Today’s Business Users, as Featured on ZDNet
-date: 2024-10-24T18:56:41.604Z
-updated: 2024-10-26T16:19:15.426Z
+date: 2024-10-30T18:54:15.533Z
+updated: 2024-11-01T19:38:38.649Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,16 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,6 +66,13 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc08720ce-1e8e-49e1-91a2-65be0e5c098b%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -80,13 +93,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -109,16 +115,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -141,6 +141,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -150,13 +157,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,24 +196,19 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-imagesegment-scrutiny-review-for-2024/"><u>[Updated] ImageSegment Scrutiny Review for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-effortless-image-editing-mastering-background-removal-techniques/"><u>2024 Approved Effortless Image Editing Mastering Background Removal Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/demystifying-and-decollecting-gopros-fish-eye-photos-for-2024/"><u>Demystifying & Decollecting GoPro's Fish Eye Photos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-modern-electronics-by-toms-digital-world/"><u>Expert Insights Into Modern Electronics by Tom's Digital World</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-high-performance-3d-printing-filaments/"><u>Expert Picks for High-Performance 3D Printing Filaments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-inception-to-innovation-unpacking-the-history-and-development-of-ios-versions-10-180/"><u>From Inception to Innovation: Unpacking the History and Development of iOS Versions 1.0-18.0</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-smart-7-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Smart 7 Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-analysis-by-toms-electronics-hub/"><u>In-Depth Computer Analysis by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/key-client-retractions-prompt-asetek-to-end-revenue-guidance-publication/"><u>Key Client Retractions Prompt Asetek to End Revenue Guidance Publication</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-mastery-with-toms-in-depth-guides/"><u>Navigating Electronics Mastery with Tom's In-Depth Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-next-gen-technology-at-toms-hardware-hub/"><u>Navigating Next-Gen Technology at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-through-toms-hardware-wisdom/"><u>Navigating the World of Tech Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-nokia-c210-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Nokia C210 Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-cpu-breakthrough-amds-zen-5-chip-combines-115w-desktop-performance-and-mobility-the-revolutionary-ryzen-strix-halo-featuring-a-16-core-powerhouse-w23/"><u>Next-Gen CPU Breakthrough: AMD's Zen 5 Chip Combines 115W Desktop Performance and Mobility – The Revolutionary Ryzen Strix Halo Featuring a 16 Core Powerhouse with RDNA Graphics Upgrade</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-secure-guide-to-downloading-the-canon-mg3620-printing-driver/"><u>Quick & Secure Guide to Downloading the Canon MG3620 Printing Driver</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/secure-and-efficient-lecture-recording-with-apple-devices-for-2024/"><u>Secure & Efficient Lecture Recording with Apple Devices for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-advanced-technology-uncover-the-best-in-computer-hardware/"><u>Tom's Guide to Advanced Technology: Uncover the Best in Computer Hardware</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs/"><u>[New] 2024 Approved Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-your-stream-5-key-techniques-for-gamers-for-2024/"><u>[New] Enhancing Your Stream 5 Key Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-get-help-app-not-working-on-windows-11/"><u>How to Fix the Get Help App Not Working on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>In 2024, Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125163883-introducing-crealitys-latest-innovation-the-mighty-k1c-3d-printer-launch-date-and-price-unveiled/"><u>Introducing Creality's Latest Innovation: The Mighty K1C 3D Printer - Launch Date and Price Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/loongsons-cutting-edge-chip-a-competitive-match-to-intels-16-core-ice-lake-processor/"><u>Loongson's Cutting-Edge Chip: A Competitive Match to Intel’s 16-Core Ice Lake Processor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-pulse-on-processors-memory-and-more-in-depth-hardware-reviews-by-tom/"><u>The Pulse on Processors, Memory & More: In-Depth Hardware Reviews by Tom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-verdict-on-the-cooler-master-ion-3n-revolutionary-or-regressive-for-liquid-cpu-coolers/"><u>The Verdict on the Cooler Master ION 3N: Revolutionary or Regressive for Liquid CPU Coolers?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-for-failed-icloud-backups/"><u>Troubleshooting WhatsApp: Solutions for Failed iCloud Backups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-enthusiasts-insights-by-toms-hardware/"><u>Unlocking Performance Secrets for Enthusiasts - Insights by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-tom/"><u>Unveiling the Latest in Technology with Tom</u></a></li>
 </ul></div>
 

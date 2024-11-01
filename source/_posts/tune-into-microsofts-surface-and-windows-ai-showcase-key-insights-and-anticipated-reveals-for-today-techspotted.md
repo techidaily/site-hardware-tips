@@ -1,7 +1,7 @@
 ---
 title: "Tune Into Microsoft's Surface & Windows AI Showcase: Key Insights & Anticipated Reveals for Today | TechSpotted"
-date: 2024-10-23T01:47:59.181Z
-updated: 2024-10-27T01:20:00.952Z
+date: 2024-10-30T18:09:06.799Z
+updated: 2024-11-01T19:54:36.735Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 ## What's new with software and AI?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Copilot
@@ -56,6 +56,19 @@ Copilot will be available on Windows 11 devices, across Microsoft 365 services i
 On September 26, Copilot will begin rollout as part of a new Windows 11 release, the most ambitious update to Windows 11 since it was first released, according to Yusuf Mehdi, Corporate Vice President of Microsoft. 
 
 This is Microsoft's answer to [Google's Duet AI](https://www.zdnet.com/article/google-workspaces-ai-facelift-is-finally-here-meet-duet-ai-for-workspace/), which is another generative AI assistant that works across the Google Workspace.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Windows 11 AI integration
 
@@ -105,13 +118,6 @@ The Microsoft Shopping Experience will be a standalone site that can be accessed
 
 There is also a suite of new tools coming to Bing Chat Enterprise including the incorporation with mobile. Bing Chat Enterprise also supports images within the enterprise with multimodal search powered by [GPT-4](https://www.zdnet.com/article/what-is-gpt-4-heres-everything-you-need-to-know/) and Bing Image Generator. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft 365 Copilot and Microsoft 365 Chat
 
 June Wan/ZDNET
@@ -134,14 +140,14 @@ Microsoft Designer will also be integrated into Microsoft 365 Copilot to help ge
 
 Microsoft 365 Copilot is currently in preview with a select number of users and small businesses. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new with hardware?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Surface Laptop Go 3
 
@@ -158,10 +164,10 @@ As far as hardware and design go, the Surface Laptop Go 3 looks just about, if n
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
@@ -232,22 +238,18 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-approaches-for-preserving-facetime-calls/"><u>[Updated] Expert Approaches for Preserving FaceTime Calls</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-tackling-windows-files-swiftly-and-smartly-for-2024/"><u>[Updated] Tackling Windows Files Swiftly and Smartly for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-iphoneipad-premium-podcast-recording-tips/"><u>2024 Approved Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-11-proplus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme 11 Pro+ Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehamos-journey-the-perfect-sequence-to-experience-all-superman-movies/"><u>A Comprehamo's Journey: The Perfect Sequence to Experience All Superman Movies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-most-economical-pcie-40-solutions-ranking-the-top-b550-motherboard-selections-today/"><u>AMD's Most Economical PCIe 4.0 Solutions: Ranking the Top B550 Motherboard Selections Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choose-wisely-comparing-top-performing-2024-cpu-coolers-aios-versus-traditional-fans/"><u>Choose Wisely: Comparing Top-Performing 2024 CPU Coolers - AIOs Versus Traditional Fans</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/comment-resoudre-lerreur-impossible-de-formater-un-disque-dur-raw/"><u>Comment Résoudre L'Erreur 'Impossible De Formater Un Disque Dur RAW'</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-noctuas-new-addition-to-the-home-series-meet-the-nv-fs1-desk-fan-for-a-steal-at-100/"><u>Discovering Noctua's New Addition to the Home Series - Meet the NV-FS1 Desk Fan for a Steal at $100!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhance-playstation-2-experience-top-5-android-emulators-for-2024/"><u>Enhance PlayStation 2 Experience Top 5 Android Emulators for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-with-toms-technology-hub/"><u>Expert Hardware Analysis with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-hub/"><u>Exploring Computer Gadgets with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-a-head-start-on-your-build-with-hytes-innovative-nexus-link-large-screen-cooling-system-and-easy-to-install-components/"><u>Get a Head Start on Your Build With Hyte’s Innovative Nexus Link - Large-Screen Cooling System & Easy-to-Install Components</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-6-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-photos-into-a-breathtaking-video-with-final-cut-pro-for-2024/"><u>New Transform Your Photos Into a Breathtaking Video with Final Cut Pro for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-analysis-a-journey-through-toms-hardware-explorations/"><u>Pioneering Tech Analysis: A Journey Through Tom's Hardware Explorations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sk1-two-trees-supercomputer-an-exploration-of-speed-and-open-source-software/"><u>SK1 - Two Trees Supercomputer: An Exploration of Speed & Open-Source Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-echoes-of-harmony-in-a-social-sphere/"><u>[New] In 2024, Echoes of Harmony in a Social Sphere</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-winning-at-movie-watching-leading-windows-phone-apps/"><u>[Updated] 2024 Approved Winning at Movie Watching Leading Windows Phone Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-insights-into-usb-20-speed-cable-options-and-interface-connectors/"><u>Comprehensive Insights Into USB 2.0 Speed, Cable Options, and Interface Connectors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/frame-by-frame-screen-capturer/"><u>Frame-by-Frame Screen Capturer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-11-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 11 Pro Safe and Legal</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-2024s-best-gaming-displays-cost-effective-curved-panels-and-adaptive-sync-technology/"><u>Navigate Through 2024'S Best Gaming Displays: Cost-Effective, Curved Panels and Adaptive Sync Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-devices-with-toms-guide-to-hardware/"><u>Navigating New Devices with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-tips-and-tricks-from-toms-world-of-hardware/"><u>Navigating New Technology: Tips and Tricks From Tom's World of Hardware</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-like-a-pro-top-8-video-editing-apps-for-4k-proxy/"><u>New In 2024, Edit Like a Pro Top 8 Video Editing Apps for 4K Proxy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/performance-evaluation-how-effective-is-the-lian-li-galahad-ii-aio-cooling-system-on-an-intel-core-i7-14900k/"><u>Performance Evaluation: How Effective Is the Lian Li Galahad II AIO Cooling System on an Intel Core I7 14900K?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-hardware-analysis-by-tom-inside-look-and-expert-advice/"><u>Pioneering Hardware Analysis by Tom - Inside Look & Expert Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-computing-tips-from-tom-decoding-hardware-specs/"><u>Precision Computing Tips From Tom: Decoding Hardware Specs</u></a></li>
 </ul></div>
 

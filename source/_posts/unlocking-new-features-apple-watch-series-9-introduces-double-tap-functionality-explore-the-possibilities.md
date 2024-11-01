@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Features: Apple Watch Series 9 Introduces Double-Tap Functionality - Explore the Possibilities!"
-date: 2024-09-17 17:49:25
-updated: 2024-09-20 12:14:52
+date: 2024-10-31T18:16:31.634Z
+updated: 2024-11-01T20:30:36.259Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-easily-create-compelling-fb-video-ads-with-no-cost-kit/"><u>[Updated] 2024 Approved Easily Create Compelling FB Video Ads with No-Cost Kit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>[Updated] 2024 Approved How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>[Updated] Essential List 7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-process-of-clearing-up-browsers-watched-videos/"><u>2024 Approved Navigating the Process of Clearing Up Browser's Watched Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-the-desk-of-tom-at-techvanguard/"><u>Advanced PC Insights From the Desk of Tom at TechVanguard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-4k-visuals-top-picks/"><u>Budget-Friendly Premium 4K Visuals: Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-these-awesome-monitor-deals-of-2024-4k-brilliance-meets-gamers-needs/"><u>Catch These Awesome Monitor Deals of 2024: 4K Brilliance Meets Gamers’ Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-technology-hub/"><u>Comprehensive Hardware Guides by Tom's Technology Hub</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-zte-axon-40-lite-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your ZTE Axon 40 Lite in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-facebooks-hidden-activity-knowledge-is-power-for-2024/"><u>Examining Facebook’s Hidden Activity Knowledge Is Power for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-program-linkage-issue-on-windows-os/"><u>Fixing Missing Program Linkage Issue on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-solving-a-driverirqlnotlessorequal-error/"><u>Mastering the Art of Solving 'A DRIVER_IRQL_NOT_LESS_OR_EQUAL' Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862818642-revolutionize-your-visual-experience-with-the-incredible-deal-lgs-34-curved-monitor-for-only-499-upgrade-now/"><u>Revolutionize Your Visual Experience with the Incredible Deal: LG's 34 Curved Monitor for Only $499 - Upgrade Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-top-5-solutions-for-the-audacity-sound-device-glitch/"><u>Troubleshooting Audio: Top 5 Solutions for the Audacity Sound Device Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862817578-unbeatable-deal-alert-dell-s3222dgm-top-ranked-monitor-now-at-an-all-time-price-drop-to-229/"><u>Unbeatable Deal Alert! Dell S3222DGM: Top-Ranked Monitor Now at an All-Time Price Drop to $229!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862829204-unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/vaio-shatters-weight-barrier-the-incredible-visionplus-14-a-record-breakingly-lightweight-monitor-at-072-pounds/"><u>Vaio Shatters Weight Barrier - The Incredible Vision+ 14, a Record-Breakingly Lightweight Monitor at 0.72 Pounds</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: HP's Secret to Remote Work Success? The Copilot+ Laptop! My One-Month Testing Journey | Insights & Findings From ZDNET
-date: 2024-10-23T16:09:43.115Z
-updated: 2024-10-26T17:46:18.825Z
+date: 2024-10-31T20:53:15.073Z
+updated: 2024-11-01T18:17:40.742Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,10 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +75,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +92,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,24 +140,20 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-eliminating-robotic-ratings-to-grow-views-for-2024/"><u>[New] Eliminating Robotic Ratings to Grow Views for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mi-drone-4k-flight-insights-and-features/"><u>[New] In 2024, Mi Drone 4K Flight Insights & Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-inshot-editors-guide-to-fluid-cut-techniques/"><u>[New] Inshot Editor's Guide to Fluid Cut Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elite-10-sound-enhancers-across-os-platforms/"><u>[Updated] 2024 Approved Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-brilliant-filters-to-illuminate-videography/"><u>[Updated] Brilliant Filters to Illuminate Videography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-masterpiece-episodes-for-airwaves/"><u>[Updated] Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-twitter-to-mp3-how-to-convert-videos-on-social-media/"><u>2024 Approved Twitter to MP3 How to Convert Videos on Social Media</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-elite-selection-of-ergonomic-chairs-for-serious-gamers/"><u>2024'S Elite Selection of Ergonomic Chairs for Serious Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computer-components-decoded-by-toms-hardware-experts/"><u>Advanced Computer Components Decoded by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-solutions-for-improving-surface-smoothness-in-3d-printing-projects/"><u>Comprehensive Solutions for Improving Surface Smoothness in 3D Printing Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/demystifying-bamboo-labs-new-firmware-enhancements-for-print-devices/"><u>Demystifying Bamboo Lab's New Firmware Enhancements for Print Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-cutting-edge-tech-with-toms-hardware-review-hub/"><u>Explore Cutting-Edge Tech with Tom's Hardware Review Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-tom-comprehensive-guide-and-reviews/"><u>Exploring the Latest Gadgets with Tom - Comprehensive Guide and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125187744-how-the-largest-advance-in-additive-manufacturing-shrinks-to-coin-size-revolutionizing-tech-with-no-movable-parts/"><u>How the Largest Advance in Additive Manufacturing Shrinks to Coin Size, Revolutionizing Tech With No Movable Parts!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-follow-me-back-home-top-trail-tracking-drones/"><u>In 2024, Follow Me Back Home - Top Trail-Tracking Drones</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/stimmts-oder-nicht-wiederholung-von-adobe-illustrator-dateien-losungen-fur-sie/"><u>Stimmt's Oder Nicht: Wiederholung Von Adobe Illustrator Dateien – Lösungen Für Sie</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/unveiling-the-best-chromebook-voice-alteration-tools-a-top-6-list-for-auditory-playfulness-visualeditpro/"><u>Unveiling the Best Chromebook Voice Alteration Tools A Top 6 List for Auditory Playfulness - VisualEditPro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-in-rapid-printing-elegoos-neptune-ebeam-reviewed-for-quality-and-price/"><u>Unveiling the Best Value in Rapid Printing: Elegoo's Neptune Ebeam Reviewed for Quality and Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-to-the-future-of-pc-components-introducing-deepcools-advanced-coolers-psus-and-fans-with-customizable-pixel-silicone-decorations/"><u>Upgrade to the Future of PC Components - Introducing DeepCool's Advanced Coolers, PSUs & Fans with Customizable Pixel Silicone Decorations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-cross-dimensional-analysis-understanding-the-metaverse-vs-omniverse-for-2024/"><u>[New] Cross-Dimensional Analysis Understanding the Metaverse Vs. Omniverse for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[New] In 2024, Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-k70-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi K70 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive-for-2024/"><u>Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-innovative-features-and-performance-of-3dmakerpros-mole-the-next-gen-handheld-3d-scanner-reviewed/"><u>Exploring the Innovative Features and Performance of 3DMakerPro's Mole: The Next-Gen Handheld 3D Scanner Reviewed.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-peculiarities-an-insightful-flsun-s1-review-of-its-unique-delta-configuration-and-swift-execution/"><u>Exploring the Peculiarities: An Insightful FLSun S1 Review of Its Unique Delta Configuration and Swift Execution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-bargain-limited-offer-for-elegoo-neptune-4-pro-at-just-284/"><u>Grab the Bargain: Limited Offer for Elegoo Neptune 4 Pro at Just $284</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-gaming-laptops-under-a-grand-reviews-and-comparison/"><u>High-Performance Gaming Laptops Under a Grand: Reviews & Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-non-pump-aio-cooler-holds-its-own-trailing-only-8c-from-traditional-pump-rival-in-testing/"><u>How the Non-Pump AIO Cooler Holds Its Own, Trailing Only 8°C From Traditional Pump Rival in Testing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-4-choices-unhackable-video-meetings-for-small-firms/"><u>In 2024, Best 4 Choices Unhackable Video Meetings for Small Firms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boost-views-with-smart-youtube-backlink-tactics/"><u>In 2024, Boost Views with Smart YouTube Backlink Tactics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-x9b-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor X9b? Try These Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-sleek-and-powerful-valkyrie-al125-cpu-cooling-solution-crisp-ips-display-dazzling-rgb-light-effects-all-for-less-than-twenty-bucks/"><u>Introducing the Sleek and Powerful Valkyrie AL125 CPU Cooling Solution: Crisp IPS Display, Dazzling RGB Light Effects, All for Less than Twenty Bucks!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-choices-in-3d-printing-materials-2024-edition/"><u>Leading Choices in 3D Printing Materials - 2024 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-process-of-rotating-a-video-is-rather-simple-and-you-dont-need-access-to-a-professional-video-editing-app-like-adobe-premiere-pro-to-perform-this-ta/"><u>New The Process of Rotating a Video Is Rather Simple, and You Dont Need Access to a Professional Video Editing App Like Adobe Premiere Pro to Perform This Task, because There Are Quite a Few Online Platf</u></a></li>
 </ul></div>
 

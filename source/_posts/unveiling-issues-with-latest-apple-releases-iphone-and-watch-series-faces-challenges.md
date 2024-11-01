@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Issues with Latest Apple Releases: IPhone & Watch Series Faces Challenges"
-date: 2024-09-19 23:11:55
-updated: 2024-09-20 11:46:59
+date: 2024-10-30T19:14:25.383Z
+updated: 2024-11-01T17:20:02.038Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[New] How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>[New] In 2024, Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS in Lost Mode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-chatgpt-unleashing-the-power-of-ai-generation/"><u>Deciphering ChatGPT: Unleashing the Power of AI Generation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-gaming-monitors-of-2024-from-cost-effective-choices-to-advanced-curvature-and-sync-technologies/"><u>Discover the Finest Gaming Monitors of 2024: From Cost-Effective Choices to Advanced Curvature & Sync Technologies</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effiziente-methoden-zur-reparatur-einer-defekten-datentrageroberflache/"><u>Effiziente Methoden Zur Reparatur Einer Defekten Datenträgeroberfläche</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-choices-in-ultrawide-gaming-technology-what-to-buy-in/"><u>Elite Choices in Ultrawide Gaming Technology - What to Buy In</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-next-level-gaming-on-the-new-cooler-master-super-wide-4k-dual-mini-led-monitor-57-inches-of-immersion/"><u>Experience Next-Level Gaming on the New Cooler Master Super Wide, 4K Dual Mini LED Monitor - 57 Inches of Immersion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-clarity-on-asrocks-premium-32-inch-480-hz-oled-screen-optimized-for-your-internet-setup/"><u>Experience Unparalleled Clarity on ASROCK's Premium 32-Inch 480 Hz OLED Screen - Optimized for Your Internet Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-gadgets-and-pc-hardware-from-toms-forum/"><u>Expert Advice on Gadgets and PC Hardware From Tom's Forum</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-configure-time-triggered-file-syncs-in-aomei-backupper/"><u>How to Configure Time-Triggered File Syncs in AOMEI Backupper</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-6-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 6 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-itel-a60s-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Itel A60s? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Phone Hassle-Free</u></a></li>
+</ul></div>
+

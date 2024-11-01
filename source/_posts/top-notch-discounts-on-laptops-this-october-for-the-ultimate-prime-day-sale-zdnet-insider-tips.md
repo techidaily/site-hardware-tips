@@ -1,7 +1,7 @@
 ---
 title: Top-Notch Discounts on Laptops This October for the Ultimate Prime Day Sale | ZDNet Insider Tips
-date: 2024-10-23T20:23:46.426Z
-updated: 2024-10-26T17:03:52.189Z
+date: 2024-10-31T16:36:07.360Z
+updated: 2024-11-01T16:35:04.537Z
 tags:
   - laptops
 categories:
@@ -118,25 +118,11 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $545 ($204 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $1,679 ($20 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $1,399 ($200 off): This Copilot+ certified laptop features the more competent Snapdragon X Elite chip and 1TB of storage.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
 
@@ -147,13 +133,6 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -167,18 +146,38 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $270): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -195,6 +194,13 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -262,22 +268,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-crown-jewels-of-online-watching-youtubes-treasures/"><u>[New] 2024 Approved Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-sophisticated-style-advanced-tiktok-filters-for-2024/"><u>[New] Sophisticated Style Advanced TikTok Filters for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-fbs-buzz-essential-strategies-revealed/"><u>[Updated] 2024 Approved Mastering FB's Buzz Essential Strategies Revealed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-effective-strategies-for-archiving-vimeo-footage/"><u>[Updated] Effective Strategies for Archiving Vimeo Footage</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-15-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensuring-precision-in-your-3d-models-solutions-to-prevent-shifting/"><u>Ensuring Precision in Your 3D Models: Solutions to Prevent Shifting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125167810-explore-the-potential-of-3d-imaging-with-3dmakerpros-mole-a-detailed-assessment-for-tech-enthusiasts/"><u>Explore the Potential of 3D Imaging with 3DMakerPro's Mole - A Detailed Assessment for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125247821-gamers-choice-best-pc-configurations-and-models-of-2aturdays-2023/"><u>Gamers' Choice: Best PC Configurations and Models of 2Aturdays, 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A05 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ideal-frequency-of-smartphone-upgrades-a-users-guide/"><u>Ideal Frequency of Smartphone Upgrades: A User's Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-processors-and-pc-parts-with-toms-guidance/"><u>Navigating the World of Processors and PC Parts with Tom's Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-toms-comprehensive-hardware-reviews/"><u>Navigating Through Tom's Comprehensive Hardware Reviews</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-15-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-innovative-solutions-from-toms-hardware-universe/"><u>Tom's Tech Insights: Innovative Solutions From Tom's Hardware Universe</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-save-75-on-the-lightning-fast-elegoo-neptune-4-pro-editors-pick/"><u>Unbeatable Deal: Save $75 on the Lightning-Fast Elegoo Neptune 4 Pro - Editors Pick!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125163188-unleash-ultimate-printing-power-with-a-discount-grab-elegoo-neptune-4-pro-at-75-off/"><u>Unleash Ultimate Printing Power with a Discount - Grab Elegoo Neptune 4 Pro at $75 Off</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-moto-g-stylus-outstanding-execution-and-acceptably-long-lasting-power-reserve/"><u>Unveiling the Moto G Stylus: Outstanding Execution & Acceptably Long-Lasting Power Reserve</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagram-unfollow-detection/"><u>[New] In 2024, Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-lighten-your-load-with-laughs-fb-detainment-chuckle-highlighters/"><u>[Updated] In 2024, Lighten Your Load with Laughs FB Detainment Chuckle Highlighters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mastering-the-art-of-channel-creation-on-youtube/"><u>2024 Approved Mastering the Art of Channel Creation on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-htc-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on HTC U23 Pro?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-cam-showdown-spectacle-ultimate-legendary-sj6-meets-yis-visionary-4k/"><u>In 2024, Cam Showdown Spectacle Ultimate Legendary SJ6 Meets Yi's Visionary 4K</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-chill-the-ultimate-id-cooling-frozn-a720-and-a620-air-cooler-reviews/"><u>Innovative Chill: The Ultimate ID-Cooling FROZN A720 & A620 Air Cooler Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-freezes-new-underwater-cooling-gadget-the-fanless-solid-state-waterproof-airjet-mini-sport-with-advanced-active-cooling-technology/"><u>Introducing Freeze's New Underwater Cooling Gadget: The Fanless, Solid-State Waterproof AirJet Mini Sport with Advanced Active Cooling Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-wireless-keyboard-innovations-unveiled-in-ndark-mode-enhance-productivity-and-style-with-a-theme-that-fits-every-mood-)(meta-nametwittercard-content3/"><u>Leading Wireless Keyboard Innovations Unveiled in nDark Mode: Enhance Productivity and Style with a Theme That Fits Every Mood /><Meta Name=twitter:card Content=summary_large_image></u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-gadgets-insightful-hardware-tips-from-toms-experience/"><u>Master Your Gadgets: Insightful Hardware Tips From Tom’s Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-affordable-3d-printer-offers-available-this-year/"><u>Most Affordable 3D Printer Offers Available This Year</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-constant-freezes-and-crashes-in-tower-of-fantasy-pc-edition/"><u>Troubleshooting Constant Freezes and Crashes in Tower of Fantasy PC Edition</u></a></li>
 </ul></div>
 

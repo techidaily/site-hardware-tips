@@ -1,7 +1,7 @@
 ---
 title: "Analyzing ASUS ExpertBook B3's Shortcomings: When Innovative Design Overlooks User Needs, According to ZDNet Experts"
-date: 2024-10-25T02:09:44.139Z
-updated: 2024-10-26T16:14:29.721Z
+date: 2024-10-25T18:38:12.963Z
+updated: 2024-11-01T17:36:19.715Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,16 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,17 +117,24 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-best-youtube-title-generators/"><u>[Updated] 2024 Approved Best YouTube Title Generators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-three-easy-iphone-methods-for-integrating-songs-into-videos-for-2024/"><u>[Updated] Three Easy iPhone Methods for Integrating Songs Into Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-vr-headset-picks-for-an-immersive-gaming-experience-on-your-computer/"><u>Best VR Headset Picks for an Immersive Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-with-toms-technology-hub/"><u>Delve Into Hardware with Tom's Technology Hub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-hidden-smart-home-mode-on-your-mac-and-ipad-do-you-need-to-know-about-this/"><u>Discover the Hidden 'Smart Home Mode' On Your Mac & iPad: Do You Need to Know About This?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-tech-reviews-for-gamers-and-enthusiasts-dive-into-toms-hardware-world/"><u>Discover Top-Notch Tech Reviews for Gamers & Enthusiasts - Dive Into Tom's Hardware World</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-an-aural-experience-for-previews/"><u>In 2024, Crafting an Aural Experience for Previews</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>In 2024, Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-powerful-airflow-meet-the-new-standard-of-thermaltakes-flippable-br)/"><u>Stay Chill with Powerful Airflow: Meet the New Standard of Thermaltake's Flippable ^Br></u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/study-reveals-only-half-of-promoted-high-quality-pc-cooling-systems-are-made-with-real-copper/"><u>Study Reveals Only Half of Promoted High-Quality PC Cooling Systems Are Made With Real Copper</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-advantages-vintage-portable-game-purchases/"><u>Top 5 Advantages: Vintage Portable Game Purchases</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-follower-fallout-on-instagram-how-to-spot-it/"><u>[New] 2024 Approved Follower Fallout on Instagram How to Spot It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conquer-the-crowd-initiating-your-top-ranked-gaming-channel/"><u>[Updated] 2024 Approved Conquer the Crowd Initiating Your Top-Ranked Gaming Channel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-lone-audio-device-repair-manual/"><u>[Updated] 2024 Approved Lone Audio Device Repair Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-ultimate-high-res-4k-mirrorless-cams/"><u>2024 Approved 10 Ultimate High-Res 4K Mirrorless Cams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-selection-of-high-tech-glasses-reviewed/"><u>2024'S Elite Selection of High-Tech Glasses Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-a38-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo A38 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-effortlessly-downsize-any-video-content-to-optimal-360p-format-for-streaming/"><u>How to Effortlessly Downsize Any Video Content to Optimal 360P Format for Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-iphones-nighttime-photo-secrets-revealed-for-2024/"><u>Illuminating iPhones Nighttime Photo Secrets Revealed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-color-palette-with-luts-a-guide-to-premiere/"><u>In 2024, Optimizing Color Palette with LUTs A Guide to Premiere</u></a></li>
+<li><a href="https://driver-download.techidaily.com/social-responsibility-efforts-community-engagement-fair-trade-practices-and-employee-welfamopportunities/"><u>Social Responsibility Efforts: Community Engagement, Fair Trade Practices, and Employee Welfamopportunities.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-manufacturing-turn-your-old-plastics-into-top-tier-3d-printing-materials/"><u>Sustainable Manufacturing: Turn Your Old Plastics Into Top-Tier 3D Printing Materials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-a-z-of-modern-hardware-features-by-toms-technology-spotlight/"><u>The A-Z of Modern Hardware Features by Tom's Technology Spotlight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-top-pick-of-gaming-keyboards-featuring-full-half-and-mini-sizes/"><u>The Ultimate Guide to the Top Pick of Gaming Keyboards : Featuring Full, Half & Mini Sizes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-microsd-memory-cards-for-optimal-raspberry-pi-performance/"><u>Top MicroSD Memory Cards for Optimal Raspberry Pi Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-materials-of-2024/"><u>Top Recommended 3D Printing Materials of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-quality-gaming-microphones-reviewed-and-compared/"><u>Ultimate List of Quality Gaming Microphones Reviewed and Compared</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Horizons Explored: Insights on Future Gadgets with Samsung's Latest Offerings, Galaxy S23 and Flip 3 Pro | Analysis by ZDNet"
-date: 2024-10-23T01:09:23.095Z
-updated: 2024-10-26T16:13:45.543Z
+date: 2024-10-25T18:28:30.418Z
+updated: 2024-11-01T20:26:28.557Z
 tags:
   - laptops
 categories:
@@ -63,6 +63,13 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Textbook design, period.
 
 The design of the Galaxy Book 3 Ultra doesn't move the needle; hide the Samsung logo on the cover and it can easily pass as just another large-screen laptop that's stacked up during Black Friday. Fortunately, the sturdy aluminum build of the Galaxy Book feels much more premium than that of a discount laptop, and thanks to subtle wedges and seamless curves throughout the chassis, the 16-inch size gives off a better impression of portability than a MacBook Pro of similar size. If I had to lug around a laptop throughout a workday, I'd pick the Samsung without hesitation.
@@ -92,16 +99,10 @@ The thin bezels make the 16-inch display a little more manageable.
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best use of space?
@@ -118,13 +119,6 @@ June Wan/ZDNET
 
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A dedicated graphics card matters
 
 The day-to-day performance of the Galaxy Book 3 Ultra has been admirable. My typical workflow revolves around three desktops – one with Slack, Microsoft Outlook, and some form of media playback, another consisting of a content management system and all the tabs I need for research, and the last being either Adobe Photoshop or Premiere Pro for editing. Then, there's the occasional video call.
@@ -140,6 +134,13 @@ With a discrete GPU, the Galaxy Book absolutely breezes through my usual photo a
 **Also: [The 12 best laptops for every budget](https://www.zdnet.com/article/best-laptop/)**
 
 On a standard workday, I averaged about six and a half hours of usage per charge, which is not bad but not great either. On days that involved more video editing, downloading files, and a bit of gaming (because that's what you do when you have a dedicated GPU in a laptop), I watched as the battery percentage dropped 20% every hour.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The benchmark results are in...
 
@@ -163,29 +164,22 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 
 [Buy the Samsung Galaxy Book 3 Ultra $2,200 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Should I buy one?
 
 For content creators and professional users, especially if you already own a [Samsung smartphone](https://www.zdnet.com/article/best-samsung-phone/) or tablet, I could see the Ultra laptop being worth the splurge. It's also one of the few non-gaming laptops that I'd genuinely recommend for those who play.
 
 But at a starting price of $2,200, there are plenty of other, more affordable yet just as powerful laptops that you should be considering, including the [last-gen MacBook Pro (M1 Pro)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1). I'd also look elsewhere if you rely heavily on an SD card for file transferring. In my case, I'm always taking pictures and videos with a mirrorless camera, and being able to move my files locally, with no fear of wonky wireless connections getting in the way, is a must.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -233,19 +227,18 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-8-discreet-2023-video-downloader-apps/"><u>2024 Approved Top 8 Discreet 2023 Video Downloader Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-gratis-vector-design-and-illustration-sites-online/"><u>2024 Approved Top Gratis Vector Design & Illustration Sites Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-screen-capture-tools-manycam-obs-studio-and-more/"><u>Best Free and Premium Screen Capture Tools: ManyCam, OBS Studio & More</u></a></li>
-<li><a href="https://article-tips.techidaily.com/choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd2024-pc/"><u>DVDコピー完全ガイド：2024年保存版！ PC上ですべてのディスクをセットアップする安全な手順</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gadgets-and-pc-hardware-insights/"><u>Exploring Tom's Gadgets and PC Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-choose-the-perfect-microsd-card-for-your-raspberry-pi-2024-buyers-guide/"><u>How to Choose the Perfect MicroSD Card for Your Raspberry Pi: 2024 Buyer’s Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-live-streaming-services-ranked-your-in-depth-comparison/"><u>In 2024, Best Live Streaming Services Ranked Your In-Depth Comparison</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-digital-world-with-toms-hardware-wisdom/"><u>Inside the Digital World with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instantaneous-itinerary-designer-pick-from-these-7-affordable-chatgpt-tools/"><u>Instantaneous Itinerary Designer: Pick From These 7 Affordable ChatGPT Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-alert-ensure-you-have-a-d3d11-compliant-graphics-card-for-optimal-performance/"><u>Solution Alert: Ensure You Have a D3D11 Compliant Graphics Card for Optimal Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-selection-of-optimal-mining-gpus-by-toms-hardware-professionals/"><u>The Definitive Selection of Optimal Mining GPUs by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-usb-hubs-with-charging-capabilities-and-enhanced-mobility/"><u>Top Rated USB Hubs with Charging Capabilities & Enhanced Mobility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-huawei-p10-a-deep-dive-into-its-artificial-intelligence-capabilities/"><u>[New] 2024 Approved The Huawei P10 A Deep Dive Into Its Artificial Intelligence Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[New] In 2024, A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-design-dynamics-font-application-in-adobe-after-effects/"><u>[Updated] 2024 Approved Design Dynamics Font Application in Adobe After Effects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>[Updated] Beam Brighter Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-7-online-auto-subtitle-translators-for-content-creators/"><u>2024 Approved Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-engaging-dialogue-in-screenplays-for-2024/"><u>Crafting Engaging Dialogue in Screenplays for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ce-engagement-select-best-fonts-for-your-thumbnails-for-2024/"><u>Enhance Engagement Select Best Fonts for Your Thumbnails for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/headphoanagate-lost-my-trusty-tunes-right-when-prime-discounts-hit-peak-season/"><u>Headphoanagate - Lost My Trusty Tunes Right When Prime Discounts Hit Peak Season</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-ai-revolutionizes-hardware-the-future-of-enhanced-pc-specifications/"><u>How AI Revolutionizes Hardware: The Future of Enhanced PC Specifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-i-successfully-silenced-unwanted-white-hissing-sound-from-my-audio-system/"><u>How I Successfully Silenced Unwanted White Hissing Sound From My Audio System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-non-programmers-can-harness-the-power-of-keyboard-macros-in-their-routine/"><u>How Non-Programmers Can Harness the Power of Keyboard Macros in Their Routine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-intel-reasons-behind-the-recent-spike-in-desktop-processor-malfunctions/"><u>Inside Intel: Reasons Behind the Recent Spike in Desktop Processor Malfunctions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/modern-perspectives-the-case-against-upscaling-traditional-desktops-loses-ground/"><u>Modern Perspectives: The Case Against Upscaling Traditional Desktops Loses Ground</u></a></li>
 </ul></div>
 

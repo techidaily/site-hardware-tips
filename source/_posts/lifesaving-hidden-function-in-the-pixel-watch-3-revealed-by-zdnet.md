@@ -1,7 +1,7 @@
 ---
 title: Lifesaving Hidden Function in the Pixel Watch 3 Revealed by ZDNet
-date: 2024-09-18 23:42:45
-updated: 2024-09-20 10:51:36
+date: 2024-10-28T19:36:35.833Z
+updated: 2024-11-01T20:06:07.467Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-balancing-creativity-and-monetization-in-youtube-shorts/"><u>[New] 2024 Approved Balancing Creativity and Monetization in YouTube Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-stream-control-showdown-is-obs-best-over-twitch-studio-in-2024/"><u>[Updated] Stream Control Showdown Is OBS Best over Twitch Studio, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-missing-d3dx939dll-error-fixes/"><u>Effective Solutions for Missing D3dx9_39.dll Error Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-instant-upload-share-pics-directly-from-your-camera-roll/"><u>In 2024, Instant Upload Share Pics Directly From Your Camera Roll</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-ace-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus Ace 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-13t-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi 13T Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-toms-hardware-in-depth-analysis-and-advice/"><u>Navigating Technology with Tom's Hardware: In-Depth Analysis & Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-pc-components-with-toms-expert-insights/"><u>Navigating the World of PC Components with Tom’s Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-ssd-evolution-by-samsung-unveiling-the-power-of-290-and-potential-430-layer-v-nand/"><u>Next-Gen SSD Evolution by Samsung: Unveiling the Power of 290 and Potential 430 Layer V-NAND</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/patriot-viper-vp4300-lite-solid-state-drive-in-depth-4tb-storage-analysis/"><u>Patriot Viper VP4300 Lite Solid State Drive - In-Depth 4TB Storage Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/patriots-viper-vp4300-lite-a-cost-effective-dive-into-its-4tb-performance/"><u>Patriot's Viper VP4300 Lite: A Cost-Effective Dive Into Its 4TB Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pre-order-now-sabrents-high-performance-rocket-5-ssds-from-just-190/"><u>Pre-Order Now: Sabrent's High-Performance Rocket 5 SSDs From Just $190</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/dure-for-removing-stashed-videos-from-watch-later-for-2024/"><u>Procedure for Removing Stashed Videos From Watch Later for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rapidly-increase-your-instagram-following-with-these-proven-strategies/"><u>Rapidly Increase Your Instagram Following with These Proven Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-and-performance-insights-for-the-portable-sk-hynix-tube-t31-equipped-with-m2-technology-via-usb-stick/"><u>Review & Performance Insights for the Portable SK Hynix Tube T31, Equipped with M.2 Technology via USB Stick</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights From Apple's Fall Showcase: New M4 Mac Mini & Advanced iPad Models - Insights"
-date: 2024-10-24T21:45:11.545Z
-updated: 2024-10-26T20:48:24.319Z
+date: 2024-10-27T18:25:16.842Z
+updated: 2024-11-01T18:39:47.400Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,20 +123,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-your-marketing-game-making-impactful-fb-videos/"><u>[Updated] 2024 Approved Elevating Your Marketing Game Making Impactful FB Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>[Updated] Unlocking SRT Secrets Comprehensive Knowledge Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-next-pc-build-with-our-top-picked-computer-cases-of-2024-detailed-reviews-and-choices-for-gamers-and-pros-alike/"><u>Ace Your Next PC Build with Our Top-Picked Computer Cases of 2024: Detailed Reviews and Choices for Gamers and Pros Alike</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-reviews-unveiling-secrets-of-toms-hardware/"><u>Advanced Tech Reviews: Unveiling Secrets of Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/aseteks-groundbreaking-ai-optimized-ecam-cold-plate-created-through-cutting-edge-3d-metal-printing-in-partnership-with-fabric8labs/"><u>Asetek's Groundbreaking AI-Optimized ECAM Cold Plate, Created Through Cutting-Edge 3D Metal Printing in Partnership with Fabric8Labs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-an-artificial-intelligence-companion-ensure-safety-in-natures-playgrounds/"><u>Can an Artificial Intelligence Companion Ensure Safety in Nature's Playgrounds?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-safety-alert-for-bambu-lab-users-a1-series-recalled-full-reimbursements-offered-and-use-temporarily-halted/"><u>Critical Safety Alert for Bambu Lab Users: A1 Series Recalled, Full Reimbursements Offered and Use Temporarily Halted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/customizable-wireless-charging-pad-mimicking-a-3d-printer-affordable-diy-solution-by-bambu-labs-under-50/"><u>Customizable Wireless Charging Pad Mimicking a 3D Printer - Affordable DIY Solution by Bambu Labs Under $50</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-quieter-powerful-home-cooling-with-iceberg-thermal-icefloe-series-in-depth-review-of-budget-models-240-and-360/"><u>Discover Quieter, Powerful Home Cooling with Iceberg Thermal IceFLOE Series - In-Depth Review of Budget Models 240 & 360</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-unfriending-several-contacts-in-snapchat-at-once/"><u>Efficiently Unfriending Several Contacts in Snapchat at Once</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-mail-apps-0x800713f-error-in-windows-11-and-11/"><u>How to Fix the Mail App’s 0X800713f Error in Windows 11 & 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-score-an-amazing-free-macbook-air-m3-from-best-buy-with-this-clever-hack-zdnet/"><u>How to Score an Amazing Free MacBook Air M3 From Best Buy with This Clever Hack | ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-p40-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel P40 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revolutionary-amazon-echo-show-10-gen-3-review-the-smart-assistant-that-follows-you-everywhere/"><u>Revolutionary Amazon Echo Show 10 (Gen 3) Review: The Smart Assistant That Follows You Everywhere</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-understanding-the-impact-of-igtv-videos-through-analysis-for-2024/"><u>[New] Understanding the Impact of IGTV Videos Through Analysis for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-3d-printing-method-for-crafting-high-tech-three-dimensional-chip-designs/"><u>Advanced 3D Printing Method for Crafting High-Tech Three-Dimensional Chip Designs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125186683-elevate-your-3d-prints-say-goodbye-to-blobs-and-zits-forever/"><u>Elevate Your 3D Prints - Say Goodbye to Blobs and Zits Forever!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 6s</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mcb-template-pack-download-now-for-2024/"><u>MCB Template Pack Download Now for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mlb-the-show-19-when-baseball-meets-rpgs-beauty-and-intrigue-abound/"><u>MLB The Show 19: When Baseball Meets RPGs, Beauty & Intrigue Abound</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rebooted-pixel-shader-failure/"><u>Rebooted Pixel Shader Failure</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/uberwindung-von-updatefehlern-error-4000-auf-ihrem-iphone-mit-tipps-fur-ios-7/"><u>Überwindung Von Updatefehlern (Error 4000) Auf Ihrem iPhone Mit Tipps Für iOS 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-future-of-diy-printing-with-crealitys-new-k1c-and-upgraded-ender-3-v3/"><u>Unlocking the Future of DIY Printing with Creality's New K1C and Upgraded Ender 3 V3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-tech-mysteries-with-tom-your-source-for-all-things-hardware/"><u>Unraveling Tech Mysteries with Tom - Your Source for All Things Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-world-of-tech-inside-toms-hardware/"><u>Unveiling the World of Tech: Inside Tom's Hardware</u></a></li>
 </ul></div>
 

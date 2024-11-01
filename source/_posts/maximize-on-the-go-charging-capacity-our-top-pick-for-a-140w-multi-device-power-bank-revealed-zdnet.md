@@ -1,7 +1,7 @@
 ---
 title: Maximize On-The-Go Charging Capacity! Our Top Pick for a 140W Multi-Device Power Bank Revealed | ZDNET
-date: 2024-10-20T19:38:20.590Z
-updated: 2024-10-26T20:18:12.084Z
+date: 2024-10-28T17:11:59.078Z
+updated: 2024-11-01T17:43:43.525Z
 tags:
   - laptops
 categories:
@@ -67,16 +67,16 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,16 +115,24 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-utilizing-snapchats-prominent-personalities-highlight-for-2024/"><u>[New] Utilizing Snapchat's Prominent Personalities Highlight for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-seamless-guide-projecting-your-android-devices-display-onto-a-mac/"><u>1. Seamless Guide: Projecting Your Android Device's Display Onto a Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-electronics-from-toms-technology-review/"><u>Expert Advice on Electronics From Tom's Technology Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-7-fantastic-virtual-playgrounds-made-for-kids/"><u>Explore These 7 Fantastic Virtual Playgrounds Made for Kids</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-drone-innovations-today-and-their-imminent-breakthroughs/"><u>In 2024, Drone Innovations Today and Their Imminent Breakthroughs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>In 2024, Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-expert-advice-from-toms-hardware/"><u>Navigating the Tech World: Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixes-and-tips-for-hyperx-cloud-alpha-s-headset-microphone-issues/"><u>Solved: Fixes and Tips for HyperX Cloud Alpha S Headset Microphone Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-creating-your-own-3d-qr-code-printer/"><u>Step-by-Step Guide: Creating Your Own 3D QR Code Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125165974-the-thrifty-beginner-4k-resin-revolution-unleash-your-creativity-with-a-staggering-44-off-this-black-friday/"><u>The 'Thrifty Beginner 4K Resin' Revolution: Unleash Your Creativity with a Staggering 44% Off This Black Friday</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streamline-your-film-production-process-using-studio-editor/"><u>[Updated] 2024 Approved Streamline Your Film Production Process Using Studio Editor</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a79-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A79 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/all-you-need-to-know-about-accessing-and-viewing-classical-cinema-in-the-public-domain/"><u>All You Need to Know About Accessing & Viewing Classical Cinema in the Public Domain</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-crash-solutions-diagnosing-and-correcting-common-technical-glitches-in-the-game/"><u>Dota 2 Crash Solutions: Diagnosing & Correcting Common Technical Glitches in the Game</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-how-to-transform-sketches-into-beautiful-lithophanes-using-a-3d-printer/"><u>Expert Advice: How to Transform Sketches Into Beautiful Lithophanes Using a 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-by-tom-on-cutting-edge-devices/"><u>Expert Analysis by Tom on Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-horizons-innovative-findings-from-the-toms-technology-review-platform/"><u>Expert Hardware Horizons: Innovative Findings From The Tom's Technology Review Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-comprehensive-hardware-guides-with-toms-hardware/"><u>Explore Comprehensive Hardware Guides with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-insights/"><u>Exploring Advanced Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fire-ant-infestation-found-inside-gaming-pc-a-look-at-creepy-video-evidence/"><u>Fire Ant Infestation Found Inside Gaming PC: A Look at Creepy Video Evidence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-your-gameplay-the-top-rated-wireless-gaming-headsets-for-enhanced-audio-and-convenience/"><u>Future-Proof Your Gameplay: The Top Rated Wireless Gaming Headsets for Enhanced Audio & Convenience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-k1c-creality-shares-exciting-launch-date-price-tag-and-full-technical-specifications/"><u>Get Ready for the K1C: Creality Shares Exciting Launch Date, Price Tag & Full Technical Specifications!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-fix-the-wininetdll-not-detected-error-on-your-computer/"><u>Guide: Fix the Wininet.dll Not Detected Error on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Phone without PIN</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-8-plus-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 8 Plus SIM Lock?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-minds-clash-comparing-llama-3-and-gpt-4-for-superiority/"><u>Innovative Minds Clash: Comparing Llama 3 and GPT-4 for Superiority</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-infinix-smart-8-hd-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/first-step-to-a-profitable-youtube-experience-for-2024/"><u>Your First Step to a Profitable Youtube Experience for 2024</u></a></li>
 </ul></div>
 

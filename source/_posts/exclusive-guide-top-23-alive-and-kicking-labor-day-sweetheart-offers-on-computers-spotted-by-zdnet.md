@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Guide: Top 23 Alive-and-Kicking Labor Day Sweetheart Offers on Computers - Spotted by ZDNet"
-date: 2024-10-22T01:04:28.131Z
-updated: 2024-10-26T16:27:26.118Z
+date: 2024-10-26T17:36:35.176Z
+updated: 2024-11-01T18:45:07.230Z
 tags:
   - laptops
 categories:
@@ -36,6 +36,13 @@ Kerry Wan/ZDNET
 * [Lenovo ThinkPad X1 Carbon Gen 11](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21HM002DUS-i7-1355U-1920x1200%2Fdp%2FB0CCKS8FVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb020a9e2-b5dd-42f9-924b-9779024bb819%7Cdtp&dtb=1) for $1,096 (Save $303): We went [hands-on with the latest generation](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/) of Lenovo's ThinkPad X1 Carbon line earlier this year and were impressed with its smart design and high performance. Last year's version is still a solid choice, however, especially at $300 off.
 * [HP Newest 14" Ultra Light Laptop for Students](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Students-Business-Quad-Core-Storage%2Fdp%2FB0B2D77YB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb020a9e2-b5dd-42f9-924b-9779024bb819%7Cdtp&dtb=1) for $249: If you're looking for a portable, inexpensive laptop to bring to school or the office, it doesn't get much more affordable than this.
 * [MSI Prestige 13](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-a1mg-002us-13-3-intel-core-ultra-5-125h-16gb-intel-arc-graphics-512-gb-pcie%252Fp%252FN82E16834156582) for $720 (Save $330): [We tested MSI's Prestige 13](https://www.zdnet.com/article/forget-macbook-air-this-windows-alternative-is-just-as-lightweight-and-full-of-features/) earlier this year and couldn't help but compare it to the MacBook for its sleek, ultraportable form factor. Creators will love the performance and, at this price, could act as a secondary or travel machine that's more than ready to tackle visual workflows.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best gaming laptop deals for Labor Day 2024
 
@@ -91,13 +98,6 @@ The first thing you notice about Samsung's Galaxy Book 4 Ultra is the gorgeous d
 
 ##   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Labor Day HP deals
 
 Kyle Kucharski/ZDNET
@@ -107,6 +107,13 @@ Kyle Kucharski/ZDNET
 * [HP Omen](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-1-165hz-full-hd-gaming-laptop-intel-core-i9-16gb-ddr5-memory-nvidia-geforce-rtx-4060-1tb-ssd-shadow-black%2F6589390.p%3FskuId%3D6589390&publisher_slug=itechdaily19598&exclusive=1) for $999 (save $400)
 * [HP Envy 16" Ultra XGA Touchscreen Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-16-wide-ultra-xga-touch-screen-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-4060-1tb-ssd-natural-silver%2F6572058.p&publisher_slug=itechdaily19598&exclusive=1) for $1,100 (save $400)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Labor Day Chromebook deals
 
 Kyle Kucharski/ZDNET
@@ -115,13 +122,6 @@ Kyle Kucharski/ZDNET
 * [Lenovo IdeaPad 3i 15" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-ideapad-3i-chromebook-laptop-15-fhd-touch-screen-pentium-silver-n6000-8gb-memory-128gb-ssd-arctic-grey%2F6567669.p%3FskuId%3D6567669&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $150)
 * [HP 14" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-14-chromebook-laptop-intel-celeron-4gb-memory-64gb-emmc-modern-gray%2F6513217.p%3FskuId%3D6513217&publisher_slug=itechdaily19598&exclusive=1) for $149 (save $150)
 * [Acer Chromebook Plus 515 Laptop with Google AI 15.6"](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-plus-515-laptop-with-google-ai-15-6-fhd-display-intel-i3-1215u-8gb-lpddr5x-128gb-ufs-wi-fi-6e-steel-gray%2F6551627.p%3FskuId%3D6551627&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $120)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Labor Day MacBook deals
 
@@ -144,26 +144,26 @@ Lenovo
 
 Labor Day is Monday, September 2nd, 2024, but many products will go on sale before that date. However, we can't guarantee that these laptops will stay at their sales prices after the holiday has passed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are laptops really cheaper during Labor Day sales?
 
 Absolutely. Some of the markdowns on these laptops are the lowest we've ever seen. Labor Day holds a unique position in the calendar year because it's after all the product launches of the first half of the year, yet before the huge ramp-up in sales for the holidays. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is the cheapest time of year to buy a laptop?
 
 Labor Day and back-to-school season are typically some of the best times a year to find laptop deals, so if you see a good one, we'd recommend jumping on it. However, if you can wait another few months, Black Friday is sure to see some of the best laptop deals of the year as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the best 2-in-1 laptop for Labor Day?
@@ -177,10 +177,16 @@ ZDNET only writes about laptops that we actually think are good deals. We've gon
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -217,22 +223,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-editors-edge-advanced-strategies-to-master-in-vimeo-trimming/"><u>[New] 2024 Approved The Editor's Edge Advanced Strategies to Master in Vimeo Trimming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-masterclass-top-10-recorder-options-on-spotify/"><u>[New] In 2024, Masterclass Top 10 Recorder Options on Spotify</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-serendipity-in-a-snapshot-top-10-chill-playtime/"><u>[New] Serendipity in a Snapshot Top 10 Chill Playtime</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mov-mastery-on-windows-11-discover-the-best-recording-methods-from-our-six-step-guide-for-2024/"><u>[Updated] .MOV Mastery on Windows 11 - Discover the Best Recording Methods From Our Six-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-colorful-leap-forward-for-creality-launching-a-revolutionary-3d-printer-on-their-10th-anniversary/"><u>A Colorful Leap Forward for Creality - Launching a Revolutionary 3D Printer on Their 10Th Anniversary</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581197529-be-a-polyglot-in-minutes-enjoy-a-staggering-95-savings/"><u>Be a Polyglot in Minutes - Enjoy a Staggering 95% Savings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-new-enhancements-top-attractions-of-apples-latest-watchos-update-revealed-by-zdnet/"><u>Discover the New Enhancements: Top Attractions of Apple's Latest WatchOS Update Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-gadget-analysis-by-toms-hardware-unveiling-top-tier-pc-equipment/"><u>Expert Gadget Analysis by Tom's Hardware: Unveiling Top-Tier PC Equipment</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-civi-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Civi 3 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-choices-through-toms-analyses/"><u>Mastering Hardware Choices Through Tom's Analyses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimizing-3d-prints-with-high-performance-cura-add-ons/"><u>Optimizing 3D Prints with High-Performance Cura Add-Ons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262269090-preorder-now-ryzen-5-9600x-available-in-canada-on-amazon-dont-miss-out-at-just-472/"><u>Preorder Now: Ryzen 5 9600X Available in Canada on Amazon – Don't Miss Out at Just $472!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-audio-technica-speaker-systems-drivers/"><u>Step-by-Step Guide: Updating Your Audio Technica Speaker System's Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-nostalgia-unleashed-windows-11-to-the-past/"><u>Tech Nostalgia Unleashed: Windows 11 to the Past</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guides-on-electronics/"><u>Tom's Tech Insights: Comprehensive Guides on Electronics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-processor-performances-of-2024-comprehensive-cpu-ranking-guide/"><u>Top Processor Performances of 2024: Comprehensive CPU Ranking Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-pc-gear-ratings-toms-equipment-evaluation/"><u>Your Trusted Source for PC Gear Ratings - Tom's Equipment Evaluation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-building-better-teams-ergonomics-and-effective-office-layouts/"><u>[New] 2024 Approved Building Better Teams Ergonomics and Effective Office Layouts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>[New] 2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>[New] 2024 Approved Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-lenovo-screen-capture-tips-for-2024/"><u>[New] Quick Lenovo Screen Capture Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-smooth-gliding-visually-appealing-mouse-pads-of-2024/"><u>Discover the Finest Smooth-Gliding, Visually Appealing Mouse Pads of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-underwater-3d-printing-marvels-crafted-by-makers-for-aquariums-and-pools/"><u>DIY Underwater 3D Printing Marvels Crafted by Makers for Aquariums and Pools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-screen-sharing-techniques-for-lg-branded-4k-televisions/"><u>Effortless Screen Sharing Techniques for LG Branded 4K Televisions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/explore-over-144-advanced-creative-tim-template-packs-unleash-your-design-potential/"><u>Explore Over 144 Advanced Creative Tim Template Packs – Unleash Your Design Potential!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-reveals-fix-for-persistent-cpu-stability-issues-overvolting-identified-as-primary-fault/"><u>Intel Reveals Fix for Persistent CPU Stability Issues: Overvolting Identified as Primary Fault</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-a-deep-dive-by-toms-team/"><u>Mastering Gadgets and Components: A Deep Dive by Tom's Team</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-modern-technology-with-toms-hardware-wisdom/"><u>Navigating Through Modern Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-buying-guide-by-tom-for-your-pc-needs/"><u>The Complete Buying Guide by Tom for Your PC Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-resolving-frozen-window-updates-on-legacy-oss-like-win7-latest-recommendations-for-better-user-experience-in-year-of-our-lord-two-thou110/"><u>The Ultimate Guide To Resolving Frozen Window Updates On Legacy OSs Like Win7 - Latest Recommendations For Better User Experience In Year Of Our Lord Two Thousand And Twenty-Four (Helpful Tips, Troubleshooting Steps & Solutions)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-home-french-education-playbook/"><u>The Ultimate Home French Education Playbook</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-high-performance-pcs-with-toms-hardware-insights/"><u>Unlocking High-Performance PCs with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-components-with-tom-your-guide-to-the-latest-in-technology/"><u>Unveiling Gadgets & Components with Tom - Your Guide to the Latest in Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection: ZDNet's Best Gaming Mechanical Keyboards of 2023"
-date: 2024-10-20T17:34:11.080Z
-updated: 2024-10-26T16:49:04.076Z
+date: 2024-10-30T20:14:41.281Z
+updated: 2024-11-01T19:58:55.404Z
 tags:
   - laptops
 categories:
@@ -94,6 +94,13 @@ ZDNET
 * [Victrix Pro FS-12 fight stick for $320 (save $70)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FVictrix-FS-12-Arcade-Fight-PlayStation-5%2Fdp%2FB0B3VP2M12%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): A pro-level arcade stick for serious fighting game enthusiasts and eSports professionals.
 * [Corsair Void RGB Elite wireless headset for $70 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07XF2TGGK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): This gaming headset features 7.1CH surround sound and an integrated mic certified for use with Discord voice chat.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day Xbox Series X|S deals still available
 
 * [Redfall standard edition for $20 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRedfall-Standard-Xbox-X%2Fdp%2FB0BT3DSGSQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): You can use an arsenal of weapons, traps, and gadgets to hunt the hordes of vampires that have taken over Boston.
@@ -124,13 +131,6 @@ Best Buy
 * [HyperX SoloCast USB mic for $33 (save $27 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-SoloCast-Microphone-Tap-Mute%2Fdp%2FB08KFL3SFV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): The SoloCast is a great USB mic for creators and gamers looking for quality voice chat and recording.
 * [Razer Kiyo Pro for $102 (save $88 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kiyo-Streaming-Webcam-High-Performance%2Fdp%2FB08T1MWX6J%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): The Razer Kiyo Pro can record in 1080p at 60fps and is compatible with OBS, Twitch, YouTube, and Zoom.
 * [Asus ROG Spatha X wireless gaming mouse for $100 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-Wireless-Magnetic-Programmable%2Fdp%2FB09726KT4R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): The Asus ROG Spatha X has 12 programmable buttons and ROG micro switches rated for a lifetime of 70 million clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Prime Day gaming deals still available
 
@@ -165,13 +165,20 @@ Taylor Clemons/Arcade1Up/Midway/ZDNET
 * [Lenovo Legion 16 gaming laptop for $1,100 (save $1,120 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Legion-16-Gaming-Laptop-AMD-Ryzen-7-6800H-NVIDIA-GeForce-RTX-3070-8-GB-1TB-SSD-Windows-11-Home-82RG0046US%2F1917115835&subId1=zd-__COM_CLICK_ID__-dtp): This gaming laptop from Lenovo features a 16-inch, 2560 x 1600 resolution display as well as a 14-hour battery life and an Nvidia GeForce RTX 3070 graphics card.
 * [LG UltraGear 39-inch OLED curved monitor for $900 (save $600 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-39-oled-curved-wqhd-240hz-0-03ms-freesync-and-nvidia-g-sync-compatible-gaming-monitor-with-hdr400-black%2F6575398.p%3FskuId%3D6575398&publisher%5Fslug=zdnet&article%5Fname=the%2070%20best%20prime%20day%202024%20gaming%20deals%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-amazon-prime-day-gaming-deals-still-available%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This gaming monitor features a refresh rate of 240Hz, a 0.03ms response time, and support for both Nvidia G-Sync and AMD FreeSync VRR.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
@@ -179,10 +186,10 @@ Taylor Clemons/Arcade1Up/Midway/ZDNET
 Amazon's biggest sales event of the year, Prime Day 2024 -- which ended yesterday - -delivered major discounts across various product categories, including phones, laptops, TVs, audio, and more. While the best deals were available for Prime members only, sellers often mark down products for non-Prime members to take advantage of. The event officiallytook place on July 16 and July 17.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Are gaming devices and accessories really cheaper on Prime Day?
@@ -196,13 +203,6 @@ Used hardware can be a great value, as long as you practice due diligence and re
 ###  How did we choose these Prime Day deals?
 
 Discounts and sales on gaming consoles, computers, and accessories can feel like they're very few and far between, and sometimes when you do find a discount, it's not much better than paying full price. I only chose items that offered a significant (15 percent or more) discount or items that rarely go on sale, such as Nintendo games and consoles. I also chose accessories and peripherals from trusted, reputable brands with verified customer support and warranties.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is Amazon Prime Day?
 
@@ -238,20 +238,20 @@ Prime Day is Amazon's most popular flagship seasonal savings event, typically in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-sound-showdown-the-top-5-headset-list/"><u>[New] In 2024, Gamers' Sound Showdown The Top 5 Headset List</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-server-stumbled-glitches-win-1111-store-correction-guide/"><u>Bypassing 'Server Stumbled' Glitches: Win 11/11 Store Correction Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-clearstream-2v-dual-function-hd-tv-antenna-stellar-quality-despite-bland-design/"><u>Expert Analysis of ClearStream 2V Dual-Function HD TV Antenna - Stellar Quality Despite Bland Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-io-2023-reveals-an-array-of-amazing-upgrades-to-bard-ai-learn-about-the-top-7-new-features/"><u>Google I/O 2023 Reveals an Array of Amazing Upgrades to BARD AI - Learn About the Top 7 New Features!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-insiders-look-at-vlc-functionality-on-macbooks/"><u>In 2024, Insider's Look at VLC Functionality on MacBooks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-innovations-and-specs-wisdom-directed-by-toms-digital-hub/"><u>Mastering PC Innovations and Specs – Wisdom Directed by Tom's Digital Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-electronic-insights/"><u>Mastering Technology with Tom's Electronic Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-cutting-edge-tech-your-one-stop-hub-for-tomamoors-gear-analysis/"><u>Navigate Through Cutting-Edge Tech: Your One-Stop Hub for Tom'amoors Gear Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-toms-digital-forge-a-buyers-guide/"><u>Navigating Hardware with Tom's Digital Forge: A Buyer’s Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-tackles-customer-feedback-on-unusual-noise-from-its-latest-nh-d15-g2-cooler-unit/"><u>Noctua Tackles Customer Feedback on Unusual Noise From Its Latest NH-D15 G2 Cooler Unit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-older-methods-with-newly-released-pink-caulking-gel-the-optimal-solution-for-filling-components-voids-and-replacing-thermal-pads/"><u>Say Goodbye to Older Methods with Newly Released Pink Caulking Gel - The Optimal Solution for Filling Components Voids and Replacing Thermal Pads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strawberry-scented-pink-thermal-compound-a-match-with-extrememugurisu-4g-for-top-notch-cooling/"><u>Strawberry Scented Pink Thermal Compound: A Match with ExtremeMUGURISU 4G for Top-Notch Cooling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-your-ultimate-guide-to-hardware-excellence/"><u>Tom's Tech Hub: Your Ultimate Guide to Hardware Excellence</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-world-communication-with-a-95-discount-on-language-learning/"><u>Unlock World Communication with a 95% Discount on Language Learning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>[Updated] Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
+<li><a href="https://common-error.techidaily.com/access-denied-on-your-computer-install-the-necessary-printer-drivers-first/"><u>Access Denied on Your Computer? Install the Necessary Printer Drivers First</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-steps-for-transforming-mts-videos-into-high-quality-avi-playbacks/"><u>Efficient Steps for Transforming MTS Videos Into High-Quality AVI Playbacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-group-interaction-in-virtual-setups-via-gpt/"><u>Enhancing Group Interaction in Virtual Setups via GPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Lava Blaze 2 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review - In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-insights/"><u>Tom's Tech Reviews - Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-2-methods-for-exporting-your-outlook-365-inboxes-as-files-onto-your-pc-or-mac/"><u>Top 2 Methods for Exporting Your Outlook 365 Inboxes as Files Onto Your PC or Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-30-beneath-the-surface-tips-for-optimized-windows-11-for-2024/"><u>Top 30 Beneath-the-Surface Tips for Optimized Windows 11 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-preventing-stringing-when-3d-printing-at-home/"><u>Top Strategies for Preventing Stringing When 3D Printing at Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-toms-hardware-reviews-and-in-depth-guides/"><u>Top Tom's Hardware Reviews and In-Depth Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-leading-resin-3d-printers/"><u>Ultimate List: Leading Resin 3D Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-pc-potential-lessons-from-toms-hardware-reviews/"><u>Unlocking PC Potential: Lessons From Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

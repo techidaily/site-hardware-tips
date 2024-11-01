@@ -1,7 +1,7 @@
 ---
 title: "Bargain Bin Alert: Grab a Refurbished Microsoft Surface Pro Ebox for Only $300 - Exclusive Offer Inside ZDNET!"
-date: 2024-10-21T22:10:14.689Z
-updated: 2024-10-26T18:52:59.997Z
+date: 2024-10-27T18:42:02.364Z
+updated: 2024-11-01T18:40:56.507Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,10 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -62,13 +62,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -87,10 +80,10 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -130,10 +123,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -155,6 +148,13 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -200,21 +200,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-elite-circuit-experiences-best-five-titles-for-2024/"><u>[New] Elite Circuit Experiences Best Five Titles for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/riority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>[New] Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[Updated] In 2024, Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-fix-in-digital-dimensions/"><u>[Updated] Pinnacle Fix in Digital Dimensions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-chapter-how-to-add-chapters-to-vimeo-video-in-2024/"><u>[Updated] Vimeo Chapter How to Add Chapters to Vimeo Video, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-htc-vive-the-pinnacle-of-immersive-3d-playing-experiences/"><u>2024 Approved HTC Vive The Pinnacle of Immersive 3D Playing Experiences</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-computer-components-wisdom-from-toms-hardware-experts/"><u>Decoding Computer Components: Wisdom From Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exposing-security-flaws-how-anycubics-3d-printers-were-compromised/"><u>Exposing Security Flaws: How Anycubic's 3D Printers Were Compromised</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-faces-widespread-processor-failures-mainstream-65w-and-above-suffer-irreparable-damage-amid-recall-absence/"><u>Intel Faces Widespread Processor Failures: Mainstream 65W and Above Suffer Irreparable Damage Amid Recall Absence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-hardware-the-toms-guide/"><u>Mastering Gadgets and Hardware - The Tom's Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rings-surprising-gem-the-spotlight-cam-pro-shines-brightly-in-an-unforeseen-revelation-insights-from-zdnet/"><u>Ring's Surprising Gem: The Spotlight Cam Pro Shines Brightly in an Unforeseen Revelation | Insights From ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-next-step-after-vlc-top-media-players-reviewed/"><u>The Next Step After VLC - Top Media Players Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tips-and-tricks-keeping-your-3d-printer-filament-untangled/"><u>Tips and Tricks: Keeping Your 3D Printer Filament Untangled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262417424-unleash-top-performance-and-durability-with-the-cybertruck-styled-amd-ryzen-7-powered-xyber-xpc-mini-pc-no-need-to-clean-off-pests-or-debris/"><u>Unleash Top Performance and Durability with The Cybertruck Styled AMD Ryzen 7 Powered Xyber XPC Mini PC - No Need to Clean Off Pests or Debris!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-with-toms-hardware-experts/"><u>Unlocking Performance Secrets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-comparing-the-most-popular-linux-snapshots-tools/"><u>[New] 2024 Approved Comparing the Most Popular Linux Snapshots Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-download-youtube-videos-directly/"><u>[New] In 2024, Download YouTube Videos Directly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/breathing-life-into-dormant-data-with-totans-stellar-know-how/"><u>Breathing Life Into Dormant Data with Totan’s Stellar Know-How</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a38-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo A38 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-issues-in-print-device-installation/"><u>No Issues in Print Device Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/officejet-pro-printer-drivers-download/"><u>Officejet Pro Printer Drivers Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-brightness-managers-for-windows-multiscreen-professionals/"><u>The Ultimate List of Brightness Managers For Windows Multiscreen Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-savings-in-tech-gadgets-snag-discounted-qled-tv-sets-high-quality-beats-headphones-affordable-mac-minis-and-more-deals-today/"><u>Top Savings in Tech Gadgets - Snag Discounted QLED TV Sets, High-Quality Beats Headphones, Affordable Mac Minis, and More Deals Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-network-attached-storage-nas-units/"><u>Top-Ranked Network Attached Storage (NAS) Units</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-lifestyle-with-these-clever-smart-home-upgrades-for-enhanced-convenience/"><u>Transform Your Lifestyle with These Clever Smart Home Upgrades for Enhanced Convenience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-from-rivalry-to-necessity-my-journey-with-indispensable-phone-ring-holders/"><u>Transforming From Rivalry to Necessity: My Journey with Indispensable Phone Ring Holders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargains-on-gadgets-spotlights-on-ecoflow-power-station-and-more-essential-tech/"><u>Unbeatable Bargains on Gadgets: Spotlights on EcoFlow Power Station & More Essential Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-the-hidden-purpose-of-this-innovative-logitech-pen/"><u>Uncover the Hidden Purpose of This Innovative Logitech Pen!</u></a></li>
 </ul></div>
 

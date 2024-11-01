@@ -1,7 +1,7 @@
 ---
 title: 8 While Others Chase the Apple Watch Series 10 – A ZDNet Insight
-date: 2024-09-18 16:41:51
-updated: 2024-09-20 11:45:13
+date: 2024-10-27T19:24:59.345Z
+updated: 2024-11-01T17:33:43.628Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>[New] In 2024, Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transforming-social-media-traffic-into-revenue/"><u>[Updated] In 2024, Transforming Social Media Traffic Into Revenue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unearthing-the-potential-in-magixs-image-sorter/"><u>2024 Approved Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-12-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-tips-and-reviews-navigating-the-market-with-toms-hardware/"><u>Inside Tips and Reviews - Navigating the Market with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-maxsuns-innovative-itx-motherboard-with-reverse-gpu-slots-for-optimal-cooling/"><u>Introducing MaxSun's Innovative ITX Motherboard with Reverse GPU Slots for Optimal Cooling</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/keep-ahead-in-games-with-effective-overheating-prevention-the-havit-5-fan-laptop-cooler-unveiled/"><u>Keep Ahead in Games with Effective Overheating Prevention - The HAVIT 5-Fan Laptop Cooler Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-hardware-wisdom-from-toms-hardware/"><u>Mastering Gadgets & Hardware: Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-tips-from-toms-hardware-hub/"><u>Mastering Technology Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-takes-responsibility-for-heatsink-issue-on-z7/"><u>MSI Takes Responsibility for Heatsink Issue on Z7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/msvcr80dll-error-fixes-what-you-need-to-know-and-do/"><u>MSVCR80.DLL Error Fixes - What You Need to Know and Do</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-tech-landscapes-essential-guides-by-toms-hardware-gurus/"><u>Navigate Tech Landscapes: Essential Guides by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-gigabyte-b650-aorus-elite-ax-ice-motherboard-costly-but-cool-with-extensive-usb-support/"><u>Review of the Gigabyte B650 Aorus Elite AX Ice Motherboard - Costly but Cool with Extensive USB Support</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-it-innovations-with-toms-hardware-analysis/"><u>Stay Ahead in IT Innovations with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-strategic-use-of-instagram-story-sections-for-brands-for-2024/"><u>The Strategic Use of Instagram Story Sections for Brands for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/iuodhuodroodkplusobppluss9vplusobhummsueuuplusodjplusodvoodieodhplusocoplusocueocrplusobrumvtplusamgeoboeawutoi/"><u>テレビで使う録画ハードディスクの長持ち方:</u></a></li>
+</ul></div>
+

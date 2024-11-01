@@ -1,7 +1,7 @@
 ---
 title: "Surprising Performance Showdown: When Microsoft's New Surface Laptop Copilot+ PC Triumphs Over a MacBook Air in Multiple Areas"
-date: 2024-10-26T00:00:43.465Z
-updated: 2024-10-26T16:51:56.912Z
+date: 2024-10-28T16:59:02.283Z
+updated: 2024-11-01T20:40:34.445Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,10 +66,16 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -85,10 +91,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -130,24 +136,19 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-do-youtube-clips-pay-per-view-for-2024/"><u>[Updated] How Much Do YouTube Clips Pay Per View for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-solutions-to-youtube-short-pitfalls/"><u>[Updated] Unveiling Solutions to YouTube Short Pitfalls</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/5yid5bplusd6icf44gu44gf44kb44gu5yuv55s75a2x5bmv5oyv44kk5luy44gric0g5a6m5ywo44gq54sh5paz44ks44kk44oj/"><u>初心者のための動画字幕振り付け - 完全な無料ガイド</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-15-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 15 Pro? How to Fix it?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-hardware-mysteries-tips-from-toms-desk/"><u>Decoding Hardware Mysteries: Tips From Tom's Desk</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-recovery-achieved-nvidia-display-stable/"><u>Driver Recovery Achieved - Nvidia Display Stable</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-accessories-every-raspberry-pi-user-needs/"><u>Essential Accessories Every Raspberry Pi User Needs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-qidi-tech-q1-pro-a-detailed-analysis/"><u>Experience Enhanced Productivity with QIDI Tech Q1 Pro - A Detailed Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-computer-and-component-analysis/"><u>Expert Advice From Tom's Computer & Component Analysis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/harmonic-transition-a-playlist-migration-masterclass/"><u>Harmonic Transition A Playlist Migration Masterclass</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-x-fold-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/levelplays-combat-air-ca4-cpu-cooler-unrivaled-performance-meets-near-silent-functionality/"><u>Levelplay's Combat Air CA4 CPU Cooler: Unrivaled Performance Meets Near-Silent Functionality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>New In 2024, Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/replacement-techniques-for-faulty-laptop-keycaps/"><u>Replacement Techniques for Faulty Laptop Keycaps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-premium-4k-monitor-with-144hz-for-gamers/"><u>The Ultimate Guide to Choosing a Premium 4K Monitor with 144Hz for Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unraveling the Latest in Computer Components</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-audio-experiences-on-iphones/"><u>Top 5 Audio Experiences on iPhones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printer-filaments-of-2024/"><u>Top Recommended 3D Printer Filaments of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-innovative-zen/"><u>Unveiling AMD's Innovative Zen</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-boost-your-tiktok-impact-2023s-leading-font-generators/"><u>[New] In 2024, Boost Your TikTok Impact 2023'S Leading Font Generators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-methods-to-retrieve-deleted-android-contacts/"><u>Effective Methods to Retrieve Deleted Android Contacts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-innovation-in-smartphones-the-latest-galaxy-z-fold-5-by-samsung-boasts-a-refined-hinge-mechanism-and-enhanced-brightness-for-unmatched-viewing-pl2/"><u>Experience Innovation in Smartphones: The Latest Galaxy Z Fold 지빌드 5 by Samsung Boasts a Refined Hinge Mechanism and Enhanced Brightness for Unmatched Viewing Pleasure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-insights-and-predictions-for-googles-2024-creation-post-pixel-9-era/"><u>Exploring the Future: Insights and Predictions for Google's 2024 Creation - Post-Pixel 9 Era</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-new-foldable-pixel-expectations-for-potential-adjustments-to-camera-specifications/"><u>Google's New Foldable Pixel: Expectations for Potential Adjustments to Camera Specifications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-technology-and-gadgets-the-role-of-google-in-promoting-prolonged-device-usage-for-environmental-conservation/"><u>Green Technology and Gadgets: The Role of Google in Promoting Prolonged Device Usage for Environmental Conservation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448901924-home-button-troubles-on-your-iphone-here-are-5-fast-solutions/"><u>Home Button Troubles on Your iPhone? Here Are 5 Fast Solutions!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-does-the-performance-of-motorolas-edge-plus-stack-up-against-the-samsung-galaxy-s22-ultra/"><u>How Does the Performance of Motorola's Edge Plus Stack Up Against the Samsung Galaxy S22 Ultra?</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-successfully-get-the-av1-codec-enhancement-for-your-windows-11-pc-the-top-three-approaches/"><u>How to Successfully Get the AV1 Codec Enhancement for Your Windows 11 PC – The Top Three Approaches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/podcast-prelude-platter-crafting-the-perfect-opening-tune/"><u>Podcast Prelude Platter Crafting the Perfect Opening Tune</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-business-through-chatgpt-and-whisper-apis-release/"><u>Reimagining Business Through ChatGPT & Whisper APIs' Release</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nubia-red-magic-9-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nubia Red Magic 9 Pro+ FRP Bypass</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-virtualdub-replacements-for-video-editing-for-2024/"><u>Updated The Best Virtualdub Replacements for Video Editing for 2024</u></a></li>
 </ul></div>
 

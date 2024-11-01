@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Lenovo’s Revolutionary ThinkPad X1 Fold: A Unique Blend of Whimsy & Luxury"
-date: 2024-10-22T21:24:56.620Z
-updated: 2024-10-26T18:31:49.151Z
+date: 2024-10-30T18:13:20.466Z
+updated: 2024-11-01T16:17:11.274Z
 tags:
   - laptops
 categories:
@@ -53,23 +53,9 @@ Before you rush out and buy one today, let's take a closer look at my experience
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What's new with this model
 
 The Yoga Book 9i has a lot of good things going for it, starting with its design and overall performance. Oh, and I forgot to mention that it comes bundled with accessories you'll surely want to use while you get used to a completely touchscreen laptop.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  1\. It's all screen, baby
 
@@ -112,10 +98,10 @@ I thoroughly enjoy the design of the Yoga Book 9i. Its looks and feels like a la
 For comparison, the [Dell XPS 13](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fcty%2Fpdp%2Fspd%2Fxps-13-9315-laptop%2Fxn9315fyvnh%3F) weighs 2.59 pounds, and the [13-inch MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) weighs in at 2.7 pounds. So it's not terribly far off, but it does feel bulkier. Perhaps the fact that you need to carry around the Folio Stand which bundles in the keyboard and stylus, along with a mouse, has left me feeling like it's a lot to manage. Because it is. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. The folio stand is fantastic
@@ -148,14 +134,14 @@ I spent most of my time on the Yoga Book 9i doing typical computing tasks; brows
 
 With a price tag of [$2,000 for the base configuration](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1), you're paying a premium when compared to other laptops from the likes of Dell or Acer, but you're also getting a second screen and all of the accessories in the box. 
 
-##  What I'd like to see in the next model
-
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+##  What I'd like to see in the next model
 
 ##  1\. More confidence in select use cases
 
@@ -191,6 +177,13 @@ What's more is that as you near the end of the trial -- that you never even opte
 
 [Buy the Lenovo Yoga Book 9i $1,999 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line
 
 The [$2,000 Yoga Book 9i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1) is available to preorder right now. Overall, it's a solid laptop, but one that you'll likely find yourself having to do a lot of mental gymnastics in order to use it without any of the traditional input methods. 
@@ -200,6 +193,19 @@ Lenovo took a chance with the Yoga Book 9i by not only building something that g
 ###  Should I buy one?
 
 If you're someone who loves using new tech that's not fully baked, and you're in the market for a new laptop, then the Yoga Book 9i is worth considering. Otherwise, I'd wait a few generations for Lenovo, or another company for that matter, to work out the kinks of a dual-screen -- and only-screen -- laptop. 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -235,14 +241,24 @@ If you're someone who loves using new tech that's not fully baked, and you're in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-leap-into-the-future-adopting-macos-11-big-sur-for-2024/"><u>[New] Leap Into the Future Adopting macOS 11 Big Sur for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-content-with-confidence-free-youtube-training/"><u>[Updated] 2024 Approved Creating Content with Confidence Free YouTube Training</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/addressing-the-issue-head-on-ekwbs-public-mea-culpa-on-payment-delays-to-staff-and-suppliers/"><u>Addressing the Issue Head-On: EKWB's Public Mea Culpa on Payment Delays to Staff and Suppliers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-precision-with-the-creality-ender-3-v3-ke-a-revolutionary-open-source-printer-reviewed/"><u>Affordable Precision with the Creality Ender 3 V3 KE: A Revolutionary Open Source Printer Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-techniques-for-efficient-iphone-7-recording-for-2024/"><u>Essential Techniques for Efficient iPhone 7 Recording for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-tech-envy-with-budget-friendly-xr-glasses-my-journey-from-vision-pro-to-freedom-from-fomo-insights-by-zdnet/"><u>Overcoming Tech Envy with Budget-Friendly XR Glasses: My Journey From Vision Pro to Freedom From FOMO | Insights by ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-nord-n30-se-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus Nord N30 SE Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-the-ultimate-tech-resource/"><u>Tom's Computer Components: The Ultimate Tech Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125129799-toms-tech-insights-expert-guides-and-reviews/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>[New] 2024 Approved CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-engagement-with-facebook-posting-360-degree-photos-on-mobile/"><u>[New] 2024 Approved Maximize Engagement with Facebook Posting 360-Degree Photos on Mobile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-free-thumbnails-collection-pubg-edition/"><u>[New] Excellent Free Thumbnails Collection PUBG Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-techniques-for-saving-vimeo-videos-as-high-quality-mp4s/"><u>[New] Expert Techniques for Saving Vimeo Videos as High-Quality MP4s</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-android-streaming-virtual-reality-content/"><u>[Updated] Mastering Android Streaming Virtual Reality Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-hobbyist-to-pro-the-full-potential-of-sj-cam-s6/"><u>2024 Approved From Hobbyist to Pro The Full Potential of SJ-CAM S6</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-conversations-7-key-approaches-for-better-chatgpt-replies/"><u>Elevate Your Conversations: 7 Key Approaches for Better ChatGPT Replies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-the-first-onboard-metal-3d-printer-in-space-by-airbus-and-esa/"><u>Exploring the Future: The First Onboard Metal 3D Printer in Space by Airbus and ESA</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-nexus-link-the-ultimate-aio-cooler-for-pc-builders-seeking-a-bigger-display-and-magnetic-snap-together-parts/"><u>Hyte's Nexus Link: The Ultimate AIO Cooler for PC Builders Seeking a Bigger Display and Magnetic Snap-Together Parts!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-laughlounge-beginner-friendly-content-creation/"><u>In 2024, LaughLounge Beginner-Friendly Content Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-insights-by-toms-engineering-reviews/"><u>In-Depth Computer Insights by Tom's Engineering Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-pc-cooling-solution-debuts-from-chinas-top-manufacturer-tryx-featuring-an-unparalleled-curved-amoled-display/"><u>Innovative PC Cooling Solution Debuts From China's Top Manufacturer, Tryx – Featuring an Unparalleled Curved AMOLED Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insightful-analysis-on-valkyrie-syn-240-all-in-one-cooler-superior-heat-dissipation-meets-frustrating-user-experience/"><u>Insightful Analysis on Valkyrie Syn 240 All-in-One Cooler: Superior Heat Dissipation Meets Frustrating User Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-devices-with-tips-from-toms-hardware-experts/"><u>Mastering Modern Devices with Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-insights-from-toms-hardware-review/"><u>Mastering Tech Essentials: Insights From Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-electronics-with-toms-comprehensive-reviews/"><u>Navigate the World of Electronics with Tom's Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-innovation-with-guidance-from-toms-hardware-experts/"><u>Navigating Computer Innovation with Guidance From Tom's Hardware Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategie-per-duplicare-i-dvd-codificati-sulla-tua-macchina-apple/"><u>Strategie per Duplicare I DVD Codificati Sulla Tua Macchina Apple</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unlocking-your-device-a-guide-to-bypassing-iphone-passwords-without-apple-id/"><u>Unlocking Your Device: A Guide to Bypassing iPhone Passwords without Apple ID</u></a></li>
 </ul></div>
 

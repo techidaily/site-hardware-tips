@@ -1,7 +1,7 @@
 ---
 title: "DIY Laptop Enhancement: The Ultimate Guide to Installing More RAM"
-date: 2024-10-22T19:10:40.018Z
-updated: 2024-10-26T18:08:42.127Z
+date: 2024-10-25T19:37:53.053Z
+updated: 2024-11-01T17:32:53.053Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,13 @@ Razer/ZDNET
 * [Gigabyte Aero 16 AMOLED 4K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233528R): $1400 (save $2600 at Neweeg, **open box**)
 * [Gigabyte Aorus 17 XE4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834725189R): $1200 (save $1250, **open box**)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday gaming laptop deals at Amazon
 
 ASUS/ZDNET
@@ -46,6 +53,13 @@ ASUS/ZDNET
 * [Asus TUF A17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Windows-FA707NV-ES74%2Fdp%2FB0C56T56WQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $1198 (save $300)
 * [Asus ROG Strix G16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV7XQ9V9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $1700 (save $300)
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $1450 (save $600)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Best Buy
 
@@ -62,6 +76,19 @@ MSI/ZDNET
 * [Asus ROG 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-16-wqxga-165hz-gaming-laptop-intel-core-i9-32gb-ddr5-memory-nvidia-geforce-rtx-3080-ti-2tb-ssd-off-black%2F6508217.p%3FskuId%3D6508217&publisher_slug=itechdaily19598&exclusive=1): $2600 (save $600)
 * [HP Omen 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-165hz-full-hd-gaming-laptop-amd-ryzen-9-7940hs-16gb-memory-nvidia-geforce-rtx-4070-512gb-ssd-shadow-black%2F6536973.p%3FskuId%3D6536973&publisher_slug=itechdaily19598&exclusive=1): $1250 (save $600)
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at B&H Photo
 
@@ -98,13 +125,6 @@ Lenovo/ZDNET
 * [PNY Revel Epic-X GeForce RTX 3070 XLR8](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1664982-REG%2Fpny%5Ftechnologies%5Fvcg30708ltfxppb%5Fgeforce%5Frtx%5F3070%5F8gb.html): $500 (save $220 at B&H Photo)
 * [Zotac GeForce RTX 4070 Twin Edge](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FZOTAC-GAMING-GeForce-RTX-4070-Twin-Edge-DLSS-3-12GB-GDDR6X-192-bit-21-Gbps-PCIE-4-0-Compact-Gaming-Graphics-Card-IceStorm-2-0-Advanced-Cooling-SPECTR%2F3228525314%3Fathbdg%3DL1600&subId1=zd-__COM_CLICK_ID__-dtp): $550 (save $95 at Walmart)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday gaming headset deals
 
 * [Razer Nari](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-nari-ultimate-wireless-gaming-headset-for-pc-ps5-and-ps4-gunmetal%2F6298660.p%3FskuId%3D6298660&publisher_slug=itechdaily19598&exclusive=1): $100 (save $100 at Best Buy)
@@ -123,13 +143,6 @@ Lenovo/ZDNET
 * [ViewSonic Elite XG 32-inch 4K LED](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fviewsonic-elite-xg320u-32-ips-led-4k-uhd-freesync-gaming-monitor-displayport-hdmi-usb-black%2F6487590.p%3FskuId%3D6487590&publisher_slug=itechdaily19598&exclusive=1): $600 (save $300 at Best Buy)
 * [LG 34-inch curved 1440p](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLG-34-144-Hz-OC-180-Hz-Nano-IPS-UWQHD-Gaming-Monitor-NVIDIA-G-SYNC-ULTIMATE-3440-x-1440-2K-DCI-P3-98-CIE1976-HDMI-DisplayPort-USB-UltraGear-34GP950G%2F388961716&subId1=zd-__COM_CLICK_ID__-dtp): $699 (save $598 at Walmart)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday digital PC game deals
 
 * [Doom Eternal Deluxe Edition](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24348&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fproducts%2Fdoom-eternal-deluxe-edition---pc%2F202348.html): $0.98 (save $1 at GameStop)
@@ -146,10 +159,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
@@ -161,22 +174,15 @@ ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gam
 I chose the Asus TUF A15 (which happens to be on sale at several retailers) as the [best budget gaming laptop](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/) for its wallet-friendly price as well as its 144Hz refresh rate to help provide smoother action during fast-paced gameplay or action-heavy cutscenes. The TUF A15 chassis is tested against MIL-STD-810G guidelines for water, dust, shock, and drop resistance, so you can take this laptop just about anywhere and not have to worry about spills or getting jostled on the subway.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much should a gaming laptop cost?
 
 A gaming laptop is one of those things where you can spend as little or as much as you want; it all depends on what you want to get out of it. If you're looking for your kids, or are an adult just starting to get into PC gaming, it's best to go with a laptop that's under $1000\. You'll still get a great build that's capable of handling most triple-A and indie titles, but you won't have broken the bank getting into a new hobby. However, if you're a content creator or PC gaming veteran, about $1500 will get you a solid gaming laptop that can handle just about anything in your library or wishlist.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday tech deals right now?
 
@@ -243,16 +249,19 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-effortless-video-preservation-android-and-ios-solutions/"><u>[New] Effortless Video Preservation Android & iOS Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-freezeframe-stop-and-screen-retain-guide/"><u>[Updated] In 2024, FreezeFrame Stop & Screen Retain Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-top-quality-video-uplift-immaculate-resolution/"><u>[Updated] Top Quality Video Uplift Immaculate Resolution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-tech-essential-advice-on-hardware-and-software-by-tom/"><u>Decoding Tech: Essential Advice on Hardware & Software by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-technology-with-tom-a-hardware-journey/"><u>Exploring the World of Technology with Tom - A Hardware Journey</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hitman-3-connection-woes-discover-quick-remedies-today/"><u>Hitman 3 Connection Woes? Discover Quick Remedies Today</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-x9a-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor X9a FRP Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-with-toms-hardware-insights/"><u>Mastering PC Components with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-external-hdds-and-ssds/"><u>The Ultimate Selection of Premium External HDDs and SSDs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-top-gear-guides-and-tips/"><u>Tom's Computing Insights: Top Gear Guides & Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>2024 Approved Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rean-elites-top-food-vloggers-you-cant-miss-for-2024/"><u>Epicurean Elites Top Food Vloggers You Can't Miss for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nubia-z50-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nubia Z50 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-12-mini-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 12 mini to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-note-50-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme Note 50 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-12-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 12 Display? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ricupera-i-tuoi-file-come-ripristinare-i-dati-da-una-chiave-usb-usando-il-prompt-dei-comandi-in-3-modalita-distinte/"><u>Ricupera I Tuoi File: Come Ripristinare I Dati Da Una Chiave USB Usando Il Prompt Dei Comandi in 3 Modalità Distinte</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-the-common-haldll-error-in-windows-versions/"><u>Step-by-Step Fixes for the Common hal.dll Error in Windows Versions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-luxurious-design-of-the-google-pixel-fold-a-premium-foldable-smartphone/"><u>Unveiling the Luxurious Design of the Google Pixel Fold: A Premium Foldable Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-new-horizon-the-launch-of-samsungs-galaxy-s23-awaits-this-february/"><u>Unveiling the New Horizon: The Launch of Samsung's Galaxy S23 Awaits This February</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-why-google-defends-the-lagging-performance-of-pixel-6s-fingerprint-recognition-system/"><u>Unveiling Why Google Defends the Lagging Performance of Pixel 6'S Fingerprint Recognition System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/whats-next-after-pixel-9-a-sneak-peek-into-the-upcoming-made-by-google-2024/"><u>What's Next After Pixel 9? A Sneak Peek Into the Upcoming Made by Google 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-is-it-time-for-a-replacement-identifying-overuse-symptoms-in-4-year-old-android-phones/"><u>When Is It Time for a Replacement? Identifying Overuse Symptoms in 4-Year-Old Android Phones</u></a></li>
 </ul></div>
 

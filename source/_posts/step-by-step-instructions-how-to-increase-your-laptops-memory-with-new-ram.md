@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: How To Increase Your Laptop's Memory with New RAM"
-date: 2024-10-25T16:49:47.739Z
-updated: 2024-10-26T20:54:46.123Z
+date: 2024-10-28T20:22:44.210Z
+updated: 2024-11-01T17:28:40.959Z
 tags:
   - laptops
 categories:
@@ -33,15 +33,22 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -54,13 +61,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -75,19 +75,20 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -106,10 +107,10 @@ Michael Gariffo/ZDNET
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
@@ -121,19 +122,6 @@ MacOS also has its own way to capture a portion of the display. Simply press Shi
 These are the three keys you'll need to press at once on a mac to take a standard screenshot.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -184,22 +172,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-evaluating-the-superiority-of-splitcams-recording-for-2024/"><u>[New] Evaluating the Superiority of SplitCam's Recording for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-assessing-streaming-quality-vlc-versus-mx/"><u>[Updated] Assessing Streaming Quality VLC versus MX</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-combining-images-seamlessly-pc-edition/"><u>2024 Approved Combining Images Seamlessly PC Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12r-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12R Fingerprint Lock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-power-of-netgears-nighthawk-x1-grower-a-deep-dive-into-extreme-wi-fi-velocity/"><u>Breaking Down the Power of Netgear's Nighthawk X1 Grower: A Deep Dive Into Extreme Wi-Fi Velocity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-initial-display-of-task-manager-in-windows-11/"><u>Customizing Initial Display of Task Manager in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-gadget-insights-from-toms-hardware-hub/"><u>Expert Gadget Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-8-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 8? Find the Best Solution Here</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175665967-innovate-and-upgrade-with-tom-the-ultimate-guide-to-high-performance-hardware/"><u>Innovate & Upgrade with Tom - The Ultimate Guide to High-Performance Hardware!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-hit-by-a-steep-drop-shares-fall-30-overnight-market-cap-slides-39b/"><u>Intel Hit by a Steep Drop: Shares Fall 30% Overnight, Market Cap Slides $39B</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-nuances-of-networked-notebooks-with-toms-hardware-guidance/"><u>Navigating the Nuances of Networked Notebooks with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-tech-territories-with-toms-hardware-guide/"><u>Navigating Through Tech Territories with Tom's Hardware Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/six-exceptional-mobile-apps-perfect-for-keeping-a-digital-diary/"><u>Six Exceptional Mobile Apps Perfect for Keeping a Digital Diary</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-uncovered-in-depth-comparisons-and-buying-tips/"><u>Tom's Hardware Uncovered: In-Depth Comparisons & Buying Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights on Computer Components and Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125191165-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-through-vivas-video-content-for-2024/"><u>[New] Navigating Through Viva's Video Content for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-tools-to-screen-capture-discord-online-interactions/"><u>[Updated] 2024 Approved Top Tools to Screen-Capture Discord Online Interactions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-live-streaming-and-screen-capture-a-comprehensive-obs-analysis/"><u>2024 Approved Live Streaming & Screen Capture A Comprehensive OBS Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-tvs-to-accompany-your-highest-rated-consoles-for-2024/"><u>Best TVs to Accompany Your Highest Rated Consoles for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210375475-9781940837635-everyday-grace/"><u>Everyday Grace | Free Book</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-8-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 8 Without a Home Button</u></a></li>
+<li><a href="https://solve-news.techidaily.com/how-to-resolve-dvd-shrink-compatibility-issues-in-windows-10-and-11/"><u>How to Resolve DVD Shrink Compatibility Issues in Windows 10 and 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-full-sphere-photos-and-video-on-apple-devices/"><u>In 2024, Full-Sphere Photos and Video on Apple Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-call-alert-easy-steps-to-master-lg-smartphone-lockout-solutions/"><u>Last Call Alert: Easy Steps to Master LG Smartphone Lockout Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/late-march-brings-exciting-new-upgrade-samsung-unveils-one-ui-61-update-details/"><u>Late March Brings Exciting New Upgrade: Samsung Unveils One UI 6.1 Update Details</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-os-version-whats-the-most-recent-upgrade/"><u>Latest Android OS Version - What's the Most Recent Upgrade?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-long-lasting-mobile-use-with-constant-battery-saver-activation/"><u>Mastering Long-Lasting Mobile Use with Constant Battery Saver Activation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-ultimate-minimalist-how-the-light-phone-3-stands-out-for-tech-enthusiasts/"><u>Meet the Ultimate Minimalist: How the Light Phone 3 Stands Out for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-next-after-gpt-4-speculations-surrounding-the-upcoming-gpt-5-release/"><u>What's Next After GPT-4? Speculations Surrounding the Upcoming GPT-5 Release</u></a></li>
 </ul></div>
 

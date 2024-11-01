@@ -1,7 +1,7 @@
 ---
 title: "Unparalleled Durability Meets Ultimate Personalization: Discover How This Non-Getac Laptop Outshines All in My Tests - Insights"
-date: 2024-10-20T16:54:25.142Z
-updated: 2024-10-27T01:48:09.099Z
+date: 2024-10-28T18:26:28.596Z
+updated: 2024-11-01T21:07:10.582Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +133,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-making-your-mark-strategies-for-monthly-growth-on-instagram/"><u>[New] 2024 Approved Making Your Mark Strategies for Monthly Growth on Instagram</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-compre-written-by-daniel-kelley/"><u>[Updated] 2024 Approved A Compre Written by Daniel Kelley</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhance-image-edges-with-circular-smear-technique-ps/"><u>[Updated] Enhance Image Edges with Circular Smear Technique PS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-twitreact-guidebook/"><u>[Updated] The Ultimate TwitReact Guidebook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-add-link-to-facebook-story-for-free/"><u>2024 Approved How to Add Link to Facebook Story for Free?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-side-by-side-display-logging/"><u>2024 Approved Side-by-Side Display Logging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-chosen-list-of-best-industrial-lasers-and-engravers-2n4-edition/"><u>Expertly Chosen List of Best Industrial Lasers & Engravers – 2N4 Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y27s Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inshot-vs-other-editors-a-comprehensive-analysis/"><u>In 2024, InShot vs Other Editors A Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pc-components-with-toms-advice/"><u>Mastering Gadgets and PC Components with Tom's Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-computer-gear-with-toms-hardware-wisdom/"><u>Navigate Through Computer Gear with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-hardware-landscape-with-tom-in-depth-comparisons-and-tips/"><u>Navigating the Hardware Landscape with Tom - In-Depth Comparisons & Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-compact-display-tech-the-top-portable-monitors-for-gaming-and-laptop-tasks/"><u>Navigating the World of Compact Display Tech: The Top Portable Monitors for Gaming & Laptop Tasks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviewing-the-corsair-air-a11e-pc-fanless-cooler-robust-whisper-quiet-and-premium-priced/"><u>Reviewing the Corsair Air A11e PC Fanless Cooler: Robust, Whisper Quiet and Premium Priced</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-meizu-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Meizu Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-budget-conscious-3d-printer-picks-featuring-sla-fdm-and-sub-250-models/"><u>Top Budget-Conscious 3D Printer Picks : Featuring SLA, FDM & Sub-$250 Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-ideas-into-physical-form-with-this-guide-to-3d-printed-qr-encoding/"><u>Transform Your Ideas Into Physical Form with This Guide to 3D Printed QR Encoding</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262306642-two-p-core-powerhouse-emerges-with-intels-dual-core-cpu-310-see-why-its-not-dead-yet/"><u>Two P-Core Powerhouse Emerges with Intel's Dual-Core CPU 310 - See Why It's Not Dead Yet!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-mysteries-of-nyt-connections-on-may-22nd-346-puzzle-pieces-to-completion/"><u>Unlock the Mysteries of NYT Connections on May 22Nd (#346) – Puzzle Pieces to Completion!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-dive-into-the-premium-list-of-top-10-budget-friendly-youtube-designers/"><u>[New] A Dive Into the Premium List of Top 10 Budget-Friendly YouTube Designers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-note-taking-secrets-revealed-mastering-the-art-of-chatgpt/"><u>Advanced Note-Taking Secrets Revealed: Mastering the Art of ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bright-ideas-effective-remedies-for-correcting-windows-11-black-screen-troubles/"><u>Bright Ideas: Effective Remedies for Correcting Windows 11 Black Screen Troubles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/celestial-warriors-unite-release-date-for-2024/"><u>Celestial Warriors Unite! Release Date for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensure-your-new-graphics-card-features-over-8gb-ram/"><u>Ensure Your New Graphics Card Features Over 8GB RAM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-gaming-evolution-with-razers-deathadder-v3-tailor-your-controllers-speed-like-never-before/"><u>Experience Gaming Evolution with Razer's DeathAdder V3 – Tailor Your Controller’s Speed Like Never Before!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-and-benefits-of-onyx-boox-note-air3-a-comprehensive-color-e-reader-review/"><u>Exploring the Features & Benefits of Onyx Boox Note Air3: A Comprehensive Color E-Reader Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-focus-how-a-chromebook-can-provide-the-uninterrupted-experience-you-need/"><u>Find Your Focus: How a Chromebook Can Provide the Uninterrupted Experience You Need</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fix-game-screen-flickering-with-vrr-technology-the-ultimate-guide/"><u>Fix Game Screen Flickering with VRR Technology: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/going-beyond-portable-computers-how-frameworks-modular-concept-is-revolutionizing-usage-across-devices/"><u>Going Beyond Portable Computers: How Framework's Modular Concept Is Revolutionizing Usage Across Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-boosting-performance-on-your-nvidia-gpu-while-preserving-its-warranty-coverage/"><u>Guide: Boosting Performance on Your NVIDIA GPU While Preserving Its Warranty Coverage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-i-attain-verification-on-x-step-by-step-instructions-inside/"><u>How Can I Attain Verification on X? Step-by-Step Instructions Inside!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ipados-paint-the-creme-de-la-creation-apps/"><u>IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
 </ul></div>
 

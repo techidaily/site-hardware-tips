@@ -1,7 +1,7 @@
 ---
 title: Inside Microsoft' Gro Artificial Intelligence Processor War with the MacBook | Insights From ZDNet
-date: 2024-10-22T01:07:52.751Z
-updated: 2024-10-26T16:48:22.147Z
+date: 2024-10-25T21:11:04.392Z
+updated: 2024-11-01T19:45:29.304Z
 tags:
   - laptops
 categories:
@@ -53,16 +53,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Live Translation comes to Chromebook
@@ -76,10 +70,10 @@ Live Translate currently works in over 100 languages and, when activated, provid
 This gives Chromebook Plus devices a built-in functionality that is accessible with a single click, useful for anyone working with multiple languages.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Help me read: One-click summaries
@@ -93,16 +87,10 @@ Another OS-level AI-powered feature coming to Chromebook Plus devices is the abi
 When I tried this feature first-hand, I thought the initial paragraph the tool generated seemed a little sparse, so I asked additional questions during the demo to engage it further. Additional inputs resulted in a more extensive understanding of the text. These features will be improved in upcoming releases as Google fine-tunes the parameters of the tool's capabilities. 
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.The Recorder app ties it all together
@@ -112,10 +100,10 @@ Google
 Working in tandem with the other AI functions, the recorder app allows for streamlined recording of any audio content on the screen to provide transcriptions, identifying and labeling different speakers, and summarizing the recorded content. I can see this being useful for any business call with multiple speakers, as the app lets you go in and label speakers by name. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Two new Chromebooks
@@ -170,21 +158,17 @@ The OLED display on this Chromebook, paired with the sleek and premium-feeling k
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-make-your-own-meme-now/"><u>[New] In 2024, Make Your Own Meme Now</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-impassioned-orator-review-revision-hexadecimal-eight-for-2024/"><u>[Updated] Impassioned Orator Review - Revision Hexadecimal Eight for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-laugh-ledger-unveiling-the-best-text-generation-apps/"><u>2024 Approved Laugh Ledger Unveiling the Best Text Generation Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ning-the-video-odyssey-how-to-create-an-engaging-youtube-channel/"><u>Beginning the Video Odyssey How to Create an Engaging YouTube Channel</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooler-master-sets-record-straight-on-cryofuze-5-no-artificial-intelligence-just-advanced-thermal-tech/"><u>Cooler Master Sets Record Straight on CryoFuze 5 - No Artificial Intelligence, Just Advanced Thermal Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-in-sound-quality-leading-bluetooth-gaming-headsets-for-gamers-on-a-budget-202/"><u>Discover the Finest in Sound Quality: Leading Bluetooth Gaming Headsets for Gamers on a Budget (202#)</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/entdecken-sie-die-neueste-ki-innovationen-von-abbyy-in-den-m-files/"><u>Entdecken Sie Die Neueste KI-Innovationen Von ABBYY in Den M-Files</u></a></li>
-<li><a href="https://win11.techidaily.com/establishing-enduring-trash-settings-in-the-windows-environment/"><u>Establishing Enduring Trash Settings in the Windows Environment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-the-ultimate-budget-gamer-laptop-for-up-to-950/"><u>Find the Ultimate Budget Gamer Laptop for Up to $950</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-20-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark 20 Activity | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-search-people-on-facebook-quickly-2-ways-included/"><u>In 2024, How to Search People on Facebook Quickly (2 Ways Included)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/selective-slow-speed-video-capture-apps-androidiphone-for-2024/"><u>Selective Slow-Speed Video Capture Apps Android/iPhone for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/significant-layoffs-commencing-at-intel-with-upwards-of-15-cuts-impacting-1500nplus-employees-meteor-lake-issues-lead-to-temporary-halting-of-stockholder-pa13/"><u>Significant Layoffs Commencing at Intel with Upwards of 15% Cuts Impacting 15,00N+ Employees; Meteor Lake Issues Lead to Temporary Halting of Stockholder Payouts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-optimal-cpu-thermal-management-with-aio-units-2024-edition/"><u>The Definitive Guide to Optimal CPU Thermal Management with AIO Units - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-aluminum-intercooler-units-of-2024-the-ultimate-selection/"><u>Top-Rated Aluminum Intercooler Units of 2024: The Ultimate Selection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-ultrathin-and-powerful-laptops-of-2024-the-definitive-guide/"><u>Top-Rated Ultrathin & Powerful Laptops of 2024: The Definitive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-createwinfx-movies/"><u>[New] CreateWinFX Movies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-virtual-meetings-best-practices-for-teams/"><u>[Updated] 2024 Approved Streamlining Virtual Meetings Best Practices for Teams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] In 2024, Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-leveraging-hdtv-for-fb-videos-playback/"><u>2024 Approved Leveraging HDTV for FB Videos Playback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-usb-categories-and-uses-understanding-every-type/"><u>Comprehensive Guide to USB Categories & Uses: Understanding Every Type</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-brother-wireless-hl-l2/"><u>Comprehensive Review of Brother Wireless HL-L2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-enhanced-artificial-intelligence-capabilities-on-your-new-samsung-galaxy-s22/"><u>Discover Enhanced Artificial Intelligence Capabilities on Your New Samsung Galaxy S22</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-a-comprehensive-review-of-2024s-finest-television-models/"><u>Discovering Excellence: A Comprehensive Review of 2024'S Finest Television Models</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-earbuds-update-made-simple/"><u>Logitech Earbuds: Update Made Simple!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
 

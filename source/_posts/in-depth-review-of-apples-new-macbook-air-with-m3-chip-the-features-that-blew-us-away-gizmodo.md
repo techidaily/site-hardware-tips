@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review of Apple's New MacBook Air with M3 Chip: The Features That Blew Us Away | Gizmodo"
-date: 2024-10-19T22:56:22.181Z
-updated: 2024-10-27T00:11:54.883Z
+date: 2024-10-26T18:49:08.643Z
+updated: 2024-11-01T18:12:59.407Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -68,10 +75,10 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -136,13 +143,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -158,10 +158,10 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -180,6 +180,13 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -189,13 +196,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,22 +243,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-method-for-capturing-internet-radio-frequencies/"><u>[Updated] Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-without-breaking-the-bank-secure-your-pcs-temperature-below-45-using-deepcools-as500-plus-at-amazon/"><u>Beat the Heat without Breaking the Bank: Secure Your PC's Temperature Below $45 Using DeepCool's AS500 Plus at Amazon</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/benchmarking-the-beast-a-closer-look-at-the-powerful-linksys-ea9500-smart-router/"><u>Benchmarking the Beast – A Closer Look at the Powerful Linksys EA9500 Smart Router</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175706517-dive-into-a-cool-experience-discover-the-revolutionary-sporty-active-chillers-by-frore-the-innovative-underwater-friendly-fanless-airjet-mini/"><u>Dive Into a Cool Experience - Discover the Revolutionary Sporty Active Chillers by Frore: The Innovative Underwater Friendly, Fanless AirJet Mini!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-fast-world-of-sovol-sv08-the-new-voron-homage-racer/"><u>Exploring the Fast World of Sovol SV08: The New Voron Homage Racer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harness-the-power-of-dual-screen-on-apple-devices-via-safari/"><u>Harness the Power of Dual Screen on Apple Devices via Safari</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-computer-systems-by-toms-team/"><u>Inside Look at Top-Tier Computer Systems by Tom’s Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125125687-modded-marvels-astonishingly-swift-completion-of-speed-benchy-by-an-enhanced-3d-printer-in-merely-2-minutes/"><u>Modded Marvels: Astonishingly Swift Completion of ‘Speed Benchy’ by an Enhanced 3D Printer in Merely 2 Minutes!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pioneering-techniques-in-documentary-scripting-for-2024/"><u>Pioneering Techniques in Documentary Scripting for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews & Buying Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-imagination-the-massive-potential-of-the-elegoo-kids-size-3d-printer/"><u>Unleash Your Imagination: The Massive Potential of the Elegoo Kids-Size 3D Printer</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlock-the-potential-of-your-profile-picture-on-discord-for-2024/"><u>Unlock the Potential of Your Profile Picture on Discord for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unravel-the-secrets-of-online-finnish-proficiency/"><u>Unravel The Secrets of Online Finnish Proficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-technology-with-toms-gear-guides/"><u>Unraveling the World of Technology with Tom's Gear Guides</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y27-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-discontinues-premium-finewoven-case-collection-introduces-new-beats-branded-alternatives-insights-from-zdnet/"><u>Apple Discontinues Premium FineWoven Case Collection, Introduces New Beats-Branded Alternatives - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-fix-blue-screen-problems-a-step-by-step-guide-for-helldivers-2-users/"><u>Diagnose and Fix Blue Screen Problems: A Step-by-Step Guide for HellDivers 2 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-selector-101-finding-your-next-apple-arcade-hit/"><u>Game Selector 101: Finding Your Next Apple Arcade Hit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-after-chatgpt-predicting-new-frontiers-in-smart-conversational-technology/"><u>Generative AI After ChatGPT - Predicting New Frontiers in Smart Conversational Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .dotx file</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-asus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Asus Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-chatgpt-your-android-conversation-hub/"><u>Introducing ChatGPT: Your Android Conversation Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-trends-through-toms-hardware-guidance/"><u>Mastering Technology Trends Through Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-a-deep-dive-into-toms-hardware-resources/"><u>Mastering Technology: A Deep Dive Into Tom's Hardware Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-components-with-toms-hardware-insights/"><u>Navigating the World of Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-guidance-from-toms-hardware-experts/"><u>Navigating the World of Gadgets: Guidance From Tom's Hardware Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-through-telegram-web-easily-and-quickly/"><u>Navigating Through Telegram Web Easily and Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimize-your-desk-setup-with-the-best-wireless-mice-of-2024-efficiency-meets-comfort/"><u>Optimize Your Desk Setup with the Best Wireless Mice of 2024: Efficiency Meets Comfort</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scan-and-savor-innovative-edible-qr-codes-made-with-3d-printing/"><u>Scan & Savor: Innovative Edible QR Codes Made with 3D Printing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-cutting-edge-computing-tools-by-tom/"><u>The Ultimate Guide to Cutting-Edge Computing Tools by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-your-next-computer-tips-from-toms-hardware/"><u>The Ultimate Guide to Selecting Your Next Computer: Tips From Tom's Hardware</u></a></li>
 </ul></div>
 

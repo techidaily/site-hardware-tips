@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Work: Lenovo Introduces Cutting-Edge AI Features in Their Latest ThinkPad Line for Professional Use - Insights From ZDNet"
-date: 2024-10-25T20:12:37.063Z
-updated: 2024-10-26T23:09:08.820Z
+date: 2024-10-29T19:39:43.249Z
+updated: 2024-11-01T16:46:43.847Z
 tags:
   - laptops
 categories:
@@ -69,16 +69,10 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,24 +111,19 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-gaming-on-tv-obs-guide/"><u>[Updated] In 2024, Elevate Gaming on TV - OBS Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/"><u>2024 Approved Easy Guide to Start Product Review Channel</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c02-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C02 Phone When You Forget the Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-hype-around-tesla-robotics-insights-into-cost-estimates-launch-dates-and-features/"><u>Decoding the Hype Around Tesla Robotics: Insights Into Cost Estimates, Launch Dates & Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-using-manycams-advanced-virtual-webcam-features-for-seamless-livestreaming/"><u>Enhance Your Online Presence Using ManyCam's Advanced Virtual Webcam Features for Seamless Livestreaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-hardware-by-tom-your-go-to-resource/"><u>Expert Analysis of Hardware by Tom - Your Go-To Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-cutting-edge-tech-hardware-by-tom/"><u>Expert Analysis on Cutting-Edge Tech Hardware by Tom</u></a></li>
-<li><a href="https://win-superb.techidaily.com/expert-secrets-unveiled-the-art-of-making-usbs-vanish-with-savvy-storage-solutions/"><u>Expert Secrets Unveiled: The Art of Making USBs Vanish with Savvy Storage Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-with-toms-hardware-expertise/"><u>Exploring Advanced Computing with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-your-essential-guide-to-pc-gear/"><u>Exploring Hardware with Tom: Your Essential Guide to PC Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-tom-comprehensive-hardware-insights/"><u>Exploring Tech with Tom: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-hardware-reviews/"><u>Exploring Technology with Tom’s Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/high-end-spec-showdown-unveiling-the-true-potential-of-the-asus-rog-zephyrus-g16-for-gamers/"><u>High-End Spec Showdown: Unveiling the True Potential of the Asus ROG Zephyrus G16 for Gamers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-a78-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo A78</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-computex-2024s-early-leaks-asus-rog-ally-and-snapdragon-x-laptops-announced-no-mention-of-upcoming-gpu-innovations/"><u>Inside Computex 2024'S Early Leaks: Asus ROG Ally & Snapdragon X Laptops Announced, No Mention of Upcoming GPU Innovations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/nostalgia-revue-old-school-review-of-the-goofys-for-2024/"><u>Nostalgia Revue Old-School Review of The Goofys for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sabrents-perfect-blend-for-mobile-workers-a-cable-and-precision-powerhouse-mouse/"><u>Sabrent's Perfect Blend for Mobile Workers - A Cable and Precision Powerhouse Mouse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-tutorial-how-to-create-facebook-account/"><u>[New] Facebook Tutorial How to Create Facebook Account</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-universe-explorer-top-ranking-of-best-free-mmorpg-games-for-2024/"><u>[New] Universe Explorer Top Ranking of Best Free MMORPG Games for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leading-picture-holding-portals/"><u>[Updated] 2024 Approved Leading Picture Holding Portals</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-delving-into-how-t-series-earnings-work-on-youtube/"><u>2024 Approved Delving Into How T-Series Earnings Work on Youtube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambus-a1-printer-refund-surprise-faultless-units-shipped-out-by-error-via-tiktok-to-unwitting-customers/"><u>Bambu's A1 Printer Refund Surprise: Faultless Units Shipped Out by Error via TikTok to Unwitting Customers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-online-no-download-gif-conversion-services-reviewed-for-2024/"><u>Best Online No-Download GIF Conversion Services Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-quality-password-managers-exploring-free-versions-and-payment-based-alternatives/"><u>Discover Top Quality Password Managers: Exploring Free Versions and Payment-Based Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-visibility-mastering-youtube-success-tracks/"><u>Elevate Visibility Mastering YouTube Success Tracks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mf4500-printer-drivers-for-seamless-printing/"><u>Get the Latest Canon MF4500 Printer Drivers for Seamless Printing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-much-money-can-a-podcaster-make/"><u>In 2024, How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-guides-from-toms-digital-workshop/"><u>In-Depth Hardware Guides From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-with-toms-detailed-hardware-explorations/"><u>Mastering Electronics with Tom's Detailed Hardware Explorations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-your-builds-with-corsairs-icue-link-h1-h150i-rgb-a-comprehensive-review/"><u>Maximizing Your Builds with Corsair's iCUE Link H1 🖤H150i RGB - A Comprehensive Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Find N3 | Dr.fone</u></a></li>
 </ul></div>
 

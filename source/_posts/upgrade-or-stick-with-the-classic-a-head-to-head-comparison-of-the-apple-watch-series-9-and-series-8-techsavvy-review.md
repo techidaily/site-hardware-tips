@@ -1,7 +1,7 @@
 ---
 title: Upgrade or Stick with the Classic? A Head-to-Head Comparison of the Apple Watch Series 9 and Series 8 | TechSavvy Review
-date: 2024-09-19 14:32:55
-updated: 2024-09-20 10:28:17
+date: 2024-10-31T18:37:20.459Z
+updated: 2024-11-01T18:53:39.535Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximize-engagement-the-ultimate-list-of-youtube-growth-tactics/"><u>[New] In 2024, Maximize Engagement The Ultimate List of YouTube Growth Tactics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-frames-5-effective-charge-free-youtube-techniques/"><u>[Updated] 2024 Approved Unveiling Frames 5 Effective, Charge-Free YouTube Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagrams-new-trends-reels-and-stories-for-2024/"><u>[Updated] Mastering Instagram’s New Trends Reels and Stories for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-leveraging-likes-a-guide-to-profitable-vimeo-marketing/"><u>2024 Approved Leveraging Likes A Guide to Profitable Vimeo Marketing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comment-resolvez-vous-les-problemes-de-demarrage-sous-windows-10-avec-notre-guide-expert/"><u>Comment Résolvez-Vous Les Problèmes De Démarrage Sous Windows 10 Avec Notre Guide Expert</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/level-up-with-the-lenovo-legion-slim-5-a-gamers-dream-laptop-under-a-grand-at-newegg/"><u>Level Up with the Lenovo Legion Slim 5 - A Gamer's Dream Laptop Under a Grand at Newegg</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-apples-holistic-approach-a-new-era-of-enhanced-mac-gaming-experience/"><u>Leveraging Apple’s Holistic Approach: A New Era of Enhanced Mac Gaming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-unveils-upgrades-for-copilotplus-pcs-next-gen-graphics-optimized-performance-and-robust-anti-cheat-features-await-gamers/"><u>Microsoft Unveils Upgrades for Copilot+ PCs: Next-Gen Graphics, Optimized Performance, and Robust Anti-Cheat Features Await Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-choices-with-toms-hardware-wisdom/"><u>Navigating High-Tech Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-computer-hardware-with-toms-resourceful-review/"><u>Navigating the Latest in Computer Hardware with Tom's Resourceful Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-tips-and-tricks-from-toms-hardware-gurus/"><u>Navigating the Tech Landscape: Tips & Tricks From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-components-tips-from-toms-expertise/"><u>Navigating the World of Computer Components: Tips From Tom's Expertise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-steam-login-issues-a-step-by-step-guide/"><u>Resolved: Fixing Steam Login Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-choosing-top-8-free-srt-services-for-2024/"><u>The Ultimate Guide to Choosing Top 8 Free SRT Services for 2024</u></a></li>
+</ul></div>
+

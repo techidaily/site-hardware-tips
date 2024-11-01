@@ -1,7 +1,7 @@
 ---
 title: "Future of Workplace Tech: Adapting Devices for the Age of Artificial Intelligence with ZDNet's Analysis"
-date: 2024-10-23T17:04:15.580Z
-updated: 2024-10-26T22:44:43.042Z
+date: 2024-10-30T19:03:32.440Z
+updated: 2024-11-01T20:08:21.669Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,21 +136,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-examining-video-comments-on-youtube/"><u>[New] In 2024, Examining Video Comments on YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-9gag-pathway-to-piling-up-popular-memes-for-2024/"><u>[New] The 9GAG Pathway to Piling Up Popular Memes for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>[Updated] 2024 Approved Retro Social Media Revelations Mastering Outdated FB Functionality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-embed-youtube-in-google-slides-presentations/"><u>[Updated] In 2024, How to Embed YouTube in Google Slides Presentations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-poco-x5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Poco X5 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ck-guide-to-chroma-key-background/"><u>A Quick Guide to Chroma Key Background</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computer-components-breakdown-with-tomtechreview/"><u>Advanced Computer Components Breakdown with TomTechReview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-technology-from-toms-gear-hub/"><u>Expert Insights on Technology From Tom's Gear Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-top-tier-hardware-solutions-a-spotlight-on-toms-equipment-reviews/"><u>Exploring Top-Tier Hardware Solutions - A Spotlight on Tom's Equipment Reviews</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m54-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M54 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computers-with-toms-hardware-insights/"><u>Mastering the World of Computers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-the-latest-windows-11-updates/"><u>Step-by-Step Guide: Removing the Latest Windows 11 Updates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Gadget Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-network-attached-storage-nas-devices-for-efficient-data-backup-and-entertainment/"><u>Top Network Attached Storage (NAS) Devices for Efficient Data Backup & Entertainment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-reviews-and-advice-on-hardware-purchases/"><u>Unveiling New Tech Secrets: Tom's Authoritative Reviews and Advice on Hardware Purchases</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-acethinker-screen-recorder-review/"><u>[New] 2024 Approved AceThinker Screen Recorder Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-bringing-life-to-slides-adding-audio-effectively-powerpoint/"><u>[New] 2024 Approved Bringing Life to Slides Adding Audio Effectively (PowerPoint)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-step-by-step-for-youtube-fb-sharing-for-2024/"><u>[Updated] The Complete Step-by-Step for YouTube FB Sharing for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-poco-f5-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Poco F5 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/complete-guide-to-ios-device-data-restoration/"><u>Complete Guide to IOS Device Data Restoration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-poi-delights-in-instant-from-coffee-shops-to-concert-venues/"><u>In 2024, Discover POI Delights in Instant, From Coffee Shops to Concert Venues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-c51-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme C51 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-screen-industry-the-superiority-of-qdel-over-oled-in-tomorrows-devices/"><u>Revolutionizing the Screen Industry: The Superiority of QDEL over OLED in Tomorrow's Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securing-your-smart-television-steps-to-block-spying-by-top-manufacturers-lg-samsung-sony-and-vizio/"><u>Securing Your Smart Television: Steps to Block Spying by Top Manufacturers LG, Samsung, Sony, and Vizio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sonos-unveils-new-bluetooth-ace-headphones-an-in-depth-review-by-an-expert-user/"><u>Sonos Unveils New Bluetooth ACE Headphones - An In-Depth Review by an Expert User</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-assessing-the-condition-of-your-macbook-proair-battery/"><u>Step-by-Step Guide: Assessing the Condition of Your MacBook Pro/Air Battery</u></a></li>
 </ul></div>
 

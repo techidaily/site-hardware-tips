@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Update: Samsung Phone & Smartwatch Owners Will Enjoy These Latest Updates From Google!"
-date: 2024-09-18 12:42:33
-updated: 2024-09-20 12:34:58
+date: 2024-10-25T16:07:01.977Z
+updated: 2024-11-01T19:08:35.514Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-drive-engagement-with-free-tools-crafting-powerful-fb-ad-videos/"><u>[New] 2024 Approved Drive Engagement with FREE Tools Crafting Powerful FB Ad Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-upload-without-rt-video-tweets/"><u>[New] In 2024, How to Upload Without RT Video Tweets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-your-understanding-of-copyright-on-instagram/"><u>[New] Unlocking Your Understanding of Copyright on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-x-mix-master-pro-for-computer-users-for-2024/"><u>[New] X-Mix Master Pro for Computer Users for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-july-sales-for-apple-products-including-iphones-watches-and-tablets-exclusive-deals-await-you-gadgetguru/"><u>Discover the Ultimate July Sales for Apple Products Including IPhones, Watches & Tablets - Exclusive Deals Await You | GadgetGuru</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-transforming-vob-files-into-xvid-format-instantly/"><u>Effortless Conversion: Transforming VOB Files Into XviD Format Instantly</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-solution-for-unresponsive-ethernet-networks-on-windows-117-devices/"><u>Step-by-Step Solution for Unresponsive Ethernet Networks on Windows 11/7 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-desk-mats-of-2024/"><u>The Best Desk Mats of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-discounted-ssds-and-hdds-of-2024-best-offers/"><u>Top Discounted SSDs & HDDs of 2024 - Best Offers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-lexar-ssd-showdown-a-comprehensive-test-of-the-1tb-m2-nvme-2280-gaming-drive/"><u>Ultimate Lexar SSD Showdown: A Comprehensive Test of the 1TB M.2 NVMe 2280 Gaming Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-power-of-a-4tb-solid-state-drive-with-patriots-viper-vp4300-lite-a-comprehvew/"><u>Unlocking the Power of a 4TB Solid State Drive with Patriot's Viper VP4300 Lite: A Comprehvew</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-trusted-review-source/"><u>Unveiling the Latest in Computer Hardware with Tom - Trusted Review Source</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-electronic-review/"><u>Unveiling the Latest in Gadgets with Tom's Electronic Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-toms-electronic-innovations/"><u>Unveiling the Latest in Tom's Electronic Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gaming-experience-with-nextorages-new-8tb-ssd-fast-speeds-and-abundant-space-only-849-perfect-for-pc-and-ps5-gamers/"><u>Upgrade Your Gaming Experience with Nextorage's New 8TB SSD - Fast Speeds & Abundant Space! Only $849 – Perfect for PC and PS5 Gamers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review and Key Insights From My Month-Long Experience with the New $649 Samsung Galaxy Watch Active2 - A Tech Blogger's Perspective | ZDNet
-date: 2024-09-17 16:44:46
-updated: 2024-09-20 11:51:38
+date: 2024-10-27T18:36:04.369Z
+updated: 2024-11-01T20:08:36.813Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-deciphering-highlighted-discussion-threads/"><u>[Updated] 2024 Approved Deciphering Highlighted Discussion Threads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screenflow-extensive-review-unveiling-the-mac-experience-for-2024/"><u>[Updated] ScreenFlow Extensive Review Unveiling the Mac Experience for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stepwise-process-turning-video-clocks-backward-on-snap/"><u>2024 Approved Stepwise Process Turning Video Clocks Backward on Snap</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-updated-epson-wf-2540-driver-software-for-pcs-running-windows-78110/"><u>Easy Install: Updated Epson WF 2540 Driver Software for PCs Running Windows 7/8.1/10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-components-the-toms-hardware-guide/"><u>Expert Insights on Gadgets and Components - The Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-review-in-depth-analysis-and-comparisons/"><u>Exploring Tom's Tech Review: In-Depth Analysis & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-create-your-own-high-flying-aviation-experience-with-a-custom-built-flight-simulator-desktop-computer/"><u>How to Create Your Own High-Flying Aviation Experience with a Custom Built Flight Simulator Desktop Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>In 2024, Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ragnors-rebirth-warriors-alliance/"><u>In 2024, Ragnor's Rebirth Warriors Alliance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-latest-news-from-toms-tech-hub/"><u>In-Depth Reviews & Latest News From Tom's Tech Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/local-security-guardrails-reactivated-safeguarding-your-system-effectively-against-unauthorized-access/"><u>Local Security Guardrails Reactivated - Safeguarding Your System Effectively Against Unauthorized Access</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/making-your-channels-subscribe-button-pop/"><u>Making Your Channel's Subscribe Button Pop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/q1-201am-evaluation-meet-at-the-system-builders-marathon-comparative-valuations-unveiled/"><u>Q1 201Am Evaluation Meet at the System Builders Marathon: Comparative Valuations Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/start-your-custom-gaming-pc-journey-with-neweggs-affordable-amd-bundle-at-just-333/"><u>Start Your Custom Gaming PC Journey with Newegg's Affordable AMD Bundle at Just $333!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gear-analysis-your-ultimate-guide-to-tech-equipment/"><u>Tom's Gear Analysis - Your Ultimate Guide To Tech Equipment</u></a></li>
+</ul></div>
+

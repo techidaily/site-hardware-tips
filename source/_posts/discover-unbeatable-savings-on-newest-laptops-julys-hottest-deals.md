@@ -1,7 +1,7 @@
 ---
 title: Discover Unbeatable Savings on Newest Laptops - July's Hottest Deals !
-date: 2024-10-20T18:28:23.643Z
-updated: 2024-10-26T16:26:04.968Z
+date: 2024-10-30T19:23:31.400Z
+updated: 2024-11-01T17:39:35.962Z
 tags:
   - laptops
 categories:
@@ -95,6 +95,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3f8deda-92c1-4f5e-b0dd-6efc6929ebe1%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -112,10 +119,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3f8deda-92c1-4f5e-b0dd-6efc6929ebe1%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Walmart laptop deals
@@ -129,13 +136,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook, 11.6-inch, 4GB RAM, 32GB deal for $100 (save $118) $100 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-Laptop-Computer%2F592161882&subId1=zd-__COM_CLICK_ID__-dtp)
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best Buy laptop deals
 
@@ -171,6 +171,13 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -181,10 +188,10 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
@@ -200,13 +207,6 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -265,16 +265,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-bridge-the-gap-transferring-files-from-pc-to-ios-for-2024/"><u>[New] Bridge the Gap Transferring Files From PC to iOS for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-harvest-heartbeats-top-farming-games-for-togetherness/"><u>[Updated] 2024 Approved Harvest Heartbeats Top Farming Games for Togetherness</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-key-steps-to-enhance-real-time-sports-viewership/"><u>[Updated] In 2024, Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chinas-telecom-industry-favors-home-grown-chip-technology-as-hundreds-of-thousands-of-servers-make-the-switch/"><u>China's Telecom Industry Favors Home-Grown Chip Technology as Hundreds of Thousands of Servers Make the Switch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cpu-face-off-determining-the-superiority-between-amd-and-intel-chips/"><u>CPU Face-Off: Determining the Superiority Between AMD and Intel Chips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-screenplay-basics-penning-dynamic-characters-speeches/"><u>In 2024, Screenplay Basics Penning Dynamic Characters' Speeches</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-xbox-series-xands-gameplay-with-quick-resume/"><u>Maximizing Xbox Series X&S Gameplay with Quick Résumé</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-unmatched-reviews-and-advice/"><u>Tom's Tech Gear: Unmatched Reviews & Advice</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-contacting-snapchat-assistance-for-users/"><u>Ultimate Guide to Contacting Snapchat Assistance for Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-latest-in-tech-insights-from-toms-gear-analysis/"><u>Unraveling the Latest in Tech: Insights From Tom's Gear Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[New] 2024 Approved 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-new-take-on-favorite-movies-7-alternatives/"><u>[New] A New Take on Favorite Movies - #7 Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-spotify-advertising-a-playbook-guide/"><u>[New] Expertise in Spotify Advertising A Playbook Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-essential-sites-for-free-snapchat-tones/"><u>[New] In 2024, Essential Sites for Free Snapchat Tones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-omega-series-high-definition-full-touch-workstations/"><u>[New] In 2024, Omega Series High Definition Full Touch Workstations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3x-bluetooth-speaker-enthusiasm-experience-top-audio-quality/"><u>3X Bluetooth Speaker Enthusiasm: Experience Top Audio Quality!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/whats-new-with-macos-sequoia-for-users-of-intel-based-mac-computers/"><u>What's New with macOS Sequoia for Users of Intel-Based Mac Computers?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-my-samsung-frame-tv-may-not-impress-everyone-but-it-still-captures-my-heart/"><u>Why My Samsung Frame TV May Not Impress Everyone but It Still Captures My Heart</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-tiny-hands-might-struggle-with-the-cutting-edge-design-of-google-pixel-9-pro-foldable-phone/"><u>Why Tiny Hands Might Struggle with the Cutting-Edge Design of Google Pixel 9 Pro Foldable Phone</u></a></li>
 </ul></div>
 

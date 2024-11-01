@@ -1,7 +1,7 @@
 ---
 title: Samsung's New Copilot+ PC Shines as a Must-Have Deal for Windows Users – In-Depth Analysis | ZDNet
-date: 2024-10-24T20:47:24.665Z
-updated: 2024-10-26T20:59:31.710Z
+date: 2024-10-30T18:18:18.200Z
+updated: 2024-11-01T19:47:01.381Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -118,16 +118,10 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,10 +131,10 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -177,18 +171,14 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-setting-up-a-facebook-donation-challenge/"><u>[Updated] Setting Up a Facebook Donation Challenge</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-is-online-video-streaming-worth-extra-costs-see-how-youtube-plans-fit-in/"><u>2024 Approved Is Online Video Streaming Worth Extra Costs? See How YouTube Plans Fit In</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itel-a60swithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itel A60swith/without a PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-list-saving-your-favorite-ringtone-files/"><u>In 2024, Master List Saving Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-6-low-cost-superior-4k-tv-projectors-for-2024/"><u>Leading 6 Low-Cost, Superior 4K TV Projectors for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-with-toms-hardware-guides/"><u>Navigating the Tech Landscape with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-insights-t17238628798428/"><u>Navigating the World of Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/razer-blade-15-up-to-67-off-best-price-ever/"><u>Razer Blade 15 Up to 67% Off - Best Price Ever</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-alluring-mix-of-elegance-power-and-personality-an-in-depth-comparison-of-the-newly-launched-dell-xps-16-9640-and-xps-14-944/"><u>The Alluring Mix of Elegance, Power & Personality: An In-Depth Comparison of the Newly Launched Dell XPS 16 (9640) and XPS 14 (944</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-resource-for-tech-enthusiasts-tips-and-reviews-by-toms-hardware/"><u>The Definitive Resource for Tech Enthusiasts - Tips & Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essential-guide-to-the-asus-tuf-gaming-a14s-enduring-legacy-in-performance-computing/"><u>The Essential Guide to the ASUS TUF Gaming A14's Enduring Legacy in Performance Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-downloading-your-favorite-tracks-from-rdio/"><u>Ultimate Guide: Downloading Your Favorite Tracks From Rdio</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/assessment-of-the-anime-inspired-valkyrie-vind-sl125-is-it-just-a-pretty-face/"><u>Assessment of the Anime-Inspired Valkyrie Vind SL125 - Is It Just a Pretty Face?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-best-mobile-companion-iphone-or-android/"><u>Choosing Your Best Mobile Companion: IPhone or Android?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-technology-with-toms-hardware/"><u>Expert Insights Into Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-technology-with-toms-hardware-experts/"><u>Exploring Computer Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-hp-scanjet-printer-drivers-now-available-for-multiple-windows-versions/"><u>Freshly Updated HP Scanjet Printer Drivers Now Available for Multiple Windows Versions!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guide-detaille-pour-faire-une-copie-de-sauvegarde-totale-du-bios-au-boot-sector-a-laide-dun-disque-externe-dans-windows/"><u>Guide Détaillé Pour Faire Une Copie De Sauvegarde Totale Du BIOS Au Boot Sector À L'aide D'un Disque Externe Dans Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pro-techniques-recording-your-twitch-showcase/"><u>Pro Techniques Recording Your Twitch Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262305886-toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide To Computer Components</u></a></li>
 </ul></div>
 

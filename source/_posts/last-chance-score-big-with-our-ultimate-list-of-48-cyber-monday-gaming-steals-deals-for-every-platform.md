@@ -1,7 +1,7 @@
 ---
 title: "Last Chance: Score Big with Our Ultimate List of 48 Cyber Monday Gaming Steals - Deals for Every Platform!"
-date: 2024-10-24T23:17:41.122Z
-updated: 2024-10-27T02:04:41.025Z
+date: 2024-10-29T18:04:01.571Z
+updated: 2024-11-01T20:12:08.072Z
 tags:
   - laptops
 categories:
@@ -24,29 +24,9 @@ Got a gamer in your life and don't know what to get them for the holidays? Many 
 
 To help you find the best sales and deals, we've rounded up the best Cyber Monday gaming deals still available below. You can keep reading to save big on gaming laptops, components, and accessories. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Latest Cyber Monday gaming deals**
 
 The last time this page received an update, these were the latest Cyber Monday gaming deals worth checking out: 
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Gaming accessories**
 
@@ -68,6 +48,13 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [Persona 5 Strikers Digital Deluxe Edition for PC for $58 (save $12) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fsega-persona-5-strikers-digital-deluxe-edition-pc%2Fp%2FN82E16832203422%3FItem%3DN82E16832203422)
 * [DOOM Eternal for PC for $10 (save $30) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fbethesda-doom-eternal-pc%2Fp%2FN82E16832136374%3FItem%3DN82E16832136374)
 * [Ace Combat 7: Skies Unknown for PC for $7 (save $52) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fbandai-namco-ace-combat-7-skies-unknown-pc%2Fp%2FN82E16832242303%3FItem%3DN82E16832242303)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Gaming laptops and PCs**
 
@@ -91,10 +78,10 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [LG UltraGear 47.5-inch 4K monitor for $929 (save $600) at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1692618-REG%2Flg%5F48gq900%5Fb%5Faus%5F48%5Fuhd%5F4k%5F3840x2160.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Gaming consoles**
@@ -104,13 +91,6 @@ The last time this page received an update, these were the latest Cyber Monday g
 ### **VR headsets for gaming**
 
 * [Meta Quest 2 with Resident Evil 4 and Beat Saber for $350 (Save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta-quest-2-resident-evil-4-bundle-with-beat-saber-128gb%2F6522220.p%3FskuId%3D6522220&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
 
@@ -139,10 +119,10 @@ Whether you're a content creator who needs storage for raw, high-res photos and 
 [View now at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fseagate-st18000ne000-18tb%252Fp%252FN82E16822184872%253FItem%253DN82E16822184872) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at Amazon**
@@ -158,10 +138,10 @@ Here are some other gaming Cyber Monday deals happening right now at Amazon:
 [Razer DeathAdder V2 Pro Wireless for $58 (save $72) $58 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-DeathAdder-Wireless-Gaming-Mouse%2Fdp%2FB08FQMBKQG%3Fref%5F%3DOct%5FDLandingS%5FD%5F9309fac0%5F63%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f14a1a4-a7e1-4bf4-aa18-b10281e8a517%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at Walmart**
@@ -190,6 +170,13 @@ Here are some other gaming Cyber Monday deals happening right now at Best Buy:
 
 [Arcade1Up Marvel Vs Capcom $400 (save $300) $400 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Farcade1up-marvel-vs-capcom-gaming-table%2F6482610.p%3FskuId%3D6482610&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Cyber Monday gaming deals at B&H**
 
 Here are some other gaming Cyber Monday deals happening right now at B&H:
@@ -203,10 +190,10 @@ Here are some other gaming Cyber Monday deals happening right now at B&H:
 [Seagate FireCuda 530 4TB M.2 SSD $560 (save $400) $560 at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1657984-REG%2Fseagate%5Fzp4000gm3a023%5F4tb%5Ffirecuda%5F530%5Fssd.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday gaming deals?
@@ -216,6 +203,13 @@ I did my best to choose deals that had at least a 20% discount since gaming lapt
 ## When is Black Friday 2022?
 
 This year, Black Friday is on Nov. 25\. And while this is a traditional day for sales and deals at many brick-and-mortar retailers like Walmart and Target, you can find excellent deals online all month long to get a jump on your Christmas list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When is Cyber Monday 2022?
 
@@ -317,18 +311,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nparalleled-asmr-channel-selection/"><u>[New] Unparalleled ASMR Channel Selection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-windows-11-video-production-from-start-to-finish-for-2024/"><u>[New] Windows 11 Video Production From Start to Finish for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/9-epic-live-gaming-stations-unlocked-for-2024/"><u>9 Epic Live Gaming Stations Unlocked for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-not-recognized-in-windows-10-resolved-quickly/"><u>Audio Device Not Recognized in Windows 10 - Resolved Quickly</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lightroom-guide-blending-high-dynamic-range-magic/"><u>In 2024, Lightroom Guide Blending High Dynamic Range Magic</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-advanced-cpu-cooling-solutions-all-in-one-and-air-options/"><u>Top Picks for Advanced CPU Cooling Solutions : All-in-One & Air Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-expert-opinions-from-toms-hardware-source/"><u>Top Tech Picks & Expert Opinions From Tom's Hardware Source</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-toms-hardware-reviews-expert-insights-and-buying-guides/"><u>Top Tom's Hardware Reviews: Expert Insights & Buying Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-picking-the-best-psus-for-blockchain-mining-optimal-gear-for-eth-and-coins/"><u>Ultimate Guide to Picking the Best PSUs for Blockchain Mining: Optimal Gear for Eth & Coins</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-on-high-performance-live-streaming-cams/"><u>Unbeatable Deals on High-Performance Live Streaming Cams</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-potential-of-your-tech-trustworthy-tips-and-reviews-at-toms-hardware/"><u>Unlock the Potential of Your Tech: Trustworthy Tips and Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/unrestricted-conversion-guide-transforming-arf-files-into-popular-formats-like-mp4-and-mp3/"><u>Unrestricted Conversion Guide: Transforming ARF Files Into Popular Formats Like MP4 and MP3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-igtv-backgrounds-with-style/"><u>[New] In 2024, Transform Your IGTV Backgrounds with Style</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-lenovo-thinkphone-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-insight-into-high-end-hdr-cameras/"><u>In 2024, Comprehensive Insight Into High-End HDR Cameras</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-v27e-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V27e Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/real-world-perceptions-of-vllo-for-2024/"><u>Real-World Perceptions of VLLO for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screenstreamer-breaking-down-the-newest-recorder-for-2024/"><u>ScreenStreamer Breaking Down the Newest Recorder for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-effective-aluminum-oil-cooler-models-to-upgrade-your-ride-in-asterisk/"><u>The Most Effective Aluminum Oil Cooler Models to Upgrade Your Ride in Asterisk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-gadget-reviews-and-insights/"><u>Tom's Tech Hub: In-Depth Gadget Reviews and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guides-on-pc-components-and-gadgets/"><u>Tom's Tech Insights: Expert Guides on PC Components and Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-3d-printer-unveiled-discover-the-speed-and-quality-of-elegoos-neptune-grope/"><u>Top Rated 3D Printer Unveiled! Discover the Speed and Quality of Elegoo's Neptune Grope</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-ssds-of-2024-speed-and-capacity-combined/"><u>Top Rated Portable SSDs of 2024: Speed and Capacity Combined</u></a></li>
 </ul></div>
 

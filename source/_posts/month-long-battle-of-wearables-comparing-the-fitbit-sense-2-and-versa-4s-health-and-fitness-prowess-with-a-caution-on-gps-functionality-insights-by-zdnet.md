@@ -1,7 +1,7 @@
 ---
 title: "Month-Long Battle of Wearables: Comparing the Fitbit Sense 2 and Versa 4'S Health & Fitness Prowess with a Caution on GPS Functionality - Insights by ZDNet"
-date: 2024-09-17 10:39:46
-updated: 2024-09-20 10:30:46
+date: 2024-10-27T17:18:13.917Z
+updated: 2024-11-01T17:50:29.825Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-expert-guide-to-crafting-immersive-experiences-through-instagram-vids/"><u>[New] Expert Guide to Crafting Immersive Experiences Through Instagram Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-11-list-streaming-audio-recorders-uncovered/"><u>[New] Ultimate #11 List Streaming Audio Recorders Uncovered</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>2024 Approved A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-5-android-video-capture-apps-for-screen-recording-for-2024/"><u>Best 5 Android Video Capture Apps for Screen Recording for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved</u></a></li>
+<li><a href="https://games-able.techidaily.com/ghosting-your-digital-presence/"><u>Ghosting Your Digital Presence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-walkthrough-enabling-and-customizing-pip-viewing-on-your-android-device/"><u>In-Depth Walkthrough: Enabling and Customizing PiP Viewing on Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-camm2-the-next-generation-of-swift-and-compact-upgradable-memory/"><u>Introducing CAMM2: The Next Generation of Swift and Compact Upgradable Memory</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-informed-buying-decisions-with-toms-hardware/"><u>Mastering Tech Choices - Informed Buying Decisions with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-insightful-reviews-on-hardware-from-toms-perspective/"><u>Mastering Tech: Insightful Reviews on Hardware From Tom's Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-device-choices-with-tips-from-toms-hardware/"><u>Mastering Your Device Choices with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-asus-bios-enhancement-seamless-integration-of-microsofts-light-control-technology/"><u>Navigating the Asus BIOS Enhancement: Seamless Integration of Microsoft's Light Control Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-for-cooler-computing-how-pcie-60-outdoes-pcie-50-with-advanced-heat-management/"><u>Prepare For Cooler Computing: How PCIe 6.0 Outdoes PCIe 5.0 With Advanced Heat Management</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-how-to-repair-your-google-hangouts-microphone-glitch/"><u>Quick Solution: How to Repair Your Google Hangouts Microphone Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-change-intels-latest-cpu-socket-boosts-cooling-efficiency-without-custom-contact-frames/"><u>Revolutionary Change: Intel's Latest CPU Socket Boosts Cooling Efficiency Without Custom Contact Frames</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/splave-shatters-overclocking-milestones-with-newly-released-asrocks-z790i-motherboard/"><u>Splave Shatters Overclocking Milestones with Newly Released ASRock's Z790I Motherboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029213837-tiktok/"><u>TikTok 動画直接下載及錄音的最基本方法 - 超簡単！</u></a></li>
+</ul></div>
+

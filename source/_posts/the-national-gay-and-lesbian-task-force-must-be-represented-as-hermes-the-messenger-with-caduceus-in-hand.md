@@ -1,7 +1,7 @@
 ---
 title: The National Gay and Lesbian Task Force Must Be Represented as Hermes, the Messenger with Caduceus in Hand.
-date: 2024-09-19 22:44:20
-updated: 2024-09-20 10:12:14
+date: 2024-10-28T20:45:52.413Z
+updated: 2024-11-01T20:11:18.342Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,28 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-live-concert-streamers/"><u>[Updated] Premier Live Concert Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-potential-of-hd-videos-on-android-devices/"><u>[Updated] Unlock the Potential of HD Videos on Android Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-which-is-better-for-streamers-obs-studio-or-fraps-for-2024/"><u>[Updated] Which Is Better for Streamers, OBS Studio or Fraps for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-premium-online-platforms-for-video-intro-creation/"><u>2024 Approved Premium Online Platforms for Video Intro Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-all-new-woody-series-by-antec-available-with-exquisite-walnut-and-birch-trim-options/"><u>Discover the All-New Woody Series by Antec – Available with Exquisite Walnut and Birch Trim Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-gadget-guide-navigating-the-newest-pc-technologies/"><u>Expert Insights From Tom's Gadget Guide: Navigating the Newest PC Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-evolved-beauty-of-fractals-north-xl-an-expanded-review-for-gaming-rigs/"><u>Exploring the Evolved Beauty of Fractal's North XL - An Expanded Review for Gaming Rigs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-new-release-of-thunderbird-by-mozilla-update-52-insights/"><u>Exploring the New Release of Thunderbird by Mozilla - Update 52 Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-hub-a-comprehensive-guide/"><u>Exploring Tom's Tech Hub: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-realme-gt-5-240w-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-15-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 15 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/jonsbo-launches-itx-case-a-compact-o11-dynamic-mini-with-elegant-wood-grain-accents-innovative-dual-chamber-design-surpasses-classic-soda-can-height/"><u>Jonsbo Launches ITX Case: A Compact O11-Dynamic Mini with Elegant Wood Grain Accents - Innovative Dual-Chamber Design Surpasses Classic Soda Can Height</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-corsairs-tc500-luxe-stylish-and-comfortable-but-some-issues-persist/"><u>Review of Corsair's TC500 Luxe - Stylish & Comfortable, But Some Issues Persist</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-location-unavailable-issue-a-step-by-step-guide-for-your-iphone/"><u>Solving the 'Location Unavailable' Issue: A Step-by-Step Guide for Your iPhone</u></a></li>
+</ul></div>
+

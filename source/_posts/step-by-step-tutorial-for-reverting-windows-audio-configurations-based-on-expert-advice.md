@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Reverting Windows Audio Configurations, Based on Expert Advice
-date: 2024-10-22T16:17:41.754Z
-updated: 2024-10-27T01:13:27.572Z
+date: 2024-10-31T21:00:46.849Z
+updated: 2024-11-01T20:46:13.558Z
 tags:
   - laptops
 categories:
@@ -66,28 +66,15 @@ Check the audio sources.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check external speakers
 
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
@@ -128,13 +115,6 @@ Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. In the sound settings screen, check the Volume mixer
 
 In Windows 10, right-click the System Tray Audio icon and select **Open sound settings**. Scroll to the bottom of the sound settings screen and click the setting for **App volume and device preferences**.
@@ -149,6 +129,13 @@ Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Click the Reset button
 
 Both versions of Windows show you the volume levels for different devices and applications. Review each level to make sure it's set properly. If all looks good and you're still unable to hear any sound, click the **Reset** button at the bottom. That will reset all the devices and apps to their recommended Microsoft defaults.
@@ -158,10 +145,10 @@ Reset the devices and apps.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
@@ -176,6 +163,13 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -183,13 +177,6 @@ At the Properties window, click the **Advanced** tab and uncheck the box for **E
 Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Find the audio driver in Device Manager
 
@@ -206,6 +193,13 @@ First, try updating the driver. Click the **Update driver** button. Permit it to
 Update the driver.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. If this doesn't work, try uninstalling the driver
 
@@ -276,22 +270,20 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-key-online-archives-of-free-motion-graphics/"><u>[Updated] 2024 Approved Key Online Archives of Free Motion Graphics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-secrets-to-effective-video-tagging-revealed-here/"><u>[Updated] In 2024, Secrets to Effective Video Tagging Revealed Here</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[Updated] In 2024, Unveiling the Secrets of Video Editing on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movaviflvmjpeg/"><u>移動式影片格式轉換器 - 使用Movavi還原FLV成MJPEG</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delicious-tech-meets-practicality-scannable-eatable-qr-codes-made-with-3d-printing/"><u>Delicious Tech Meets Practicality: Scannable, Eatable QR Codes Made with 3D Printing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-m4a-to-ogg-converter-by-movavi/"><u>Free Online M4A to OGG Converter by Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-unique-logos-using-complimentary-stock-graphics/"><u>In 2024, Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g13withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G13with/without a PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>New In 2024, Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-presentation-maker-in-2024/"><u>New What Is an AI Presentation Maker, In 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-mini-3d-printer-the-worlds-tiny-chip-powered-device-without-any-moving-parts/"><u>Revolutionary Mini 3D Printer: The World's Tiny, Chip-Powered Device Without Any Moving Parts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-eco-friendly-artifacts-authentically-textured-and-smelling-wood-objects-created-with-3d-printers-and-sawdust-ink/"><u>The Future of Eco-Friendly Artifacts: Authentically Textured and Smelling Wood Objects Created with 3D Printers and Sawdust Ink</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guides-on-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Guides on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-keyboards-of-2024-compare-full-size-tkl-and-mini/"><u>Top Rated Gaming Keyboards of 2024 - Compare Full-Size, TKL & Mini</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-industrial-laser-engraving-machines-of-2024/"><u>Top-Rated Industrial Laser Engraving Machines of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-3d-printing-the-tiny-chip-based-printer-thats-bigger-than-its-size-now-smaller-than-a-penny-with-unparalleled-reliability/"><u>Transforming 3D Printing: The Tiny Chip-Based Printer That's Bigger Than Its Size - Now Smaller than a Penny with Unparalleled Reliability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultra-compact-chip-based-3d-printer-smaller-than-a-coin-and-no-mechanical-components/"><u>Unveiling the Ultra-Compact Chip-Based 3D Printer – Smaller than a Coin & No Mechanical Components</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-broadcast-your-games-with-professional-skill/"><u>[New] In 2024, Broadcast Your Games with Professional Skill</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-low-cost-pc-performance-monitoring-programs/"><u>[New] Low-Cost PC Performance Monitoring Programs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfected-approaches-to-capturing-remote-training-sessions-for-2024/"><u>[New] Perfected Approaches to Capturing Remote Training Sessions for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-refine-and-reveal-editing-fbs-recollected-moments/"><u>[New] Refine and Reveal Editing FB's Recollected Moments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-setup-moving-media-from-pc-to-your-iphone/"><u>[Updated] Fast Setup Moving Media From PC To Your iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-instant-designing-techniques-for-fortnite-images/"><u>[Updated] In 2024, Instant Designing Techniques for Fortnite Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-steps-to-document-lol-encounters/"><u>[Updated] Ultimate Steps to Document LOL Encounters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-insights-in-depth-reviews-and-gadget-analysis/"><u>Exploring Tom's Tech Insights: In-Depth Reviews and Gadget Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-idea-to-indulgence-exploring-the-world-of-diy-chocolate-designs-with-the-cocoa-press-printer/"><u>From Idea to Indulgence: Exploring the World of DIY Chocolate Designs with the Cocoa Press Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gadget-guide-toms-detailed-evaluations/"><u>Gadget Guide - Tom's Detailed Evaluations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/go-underwater-without-compromise-discover-the-unveiling-of-frores-waterproof-fanless-sport-cooling-device-with-advanced-active-technology/"><u>Go Underwater Without Compromise: Discover the Unveiling of Frore’s Waterproof, Fanless Sport Cooling Device with Advanced Active Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-and-functional-raspberry-pi-cases-of-2hren2024/"><u>Innovative and Functional Raspberry Pi Cases of 2Hren2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-heat-dissipation-pink-aroma-and-berry-fragrance-elevate-extreme-mugurisus-4g-strawberry-edition-beyond-thermal-grizzly/"><u>Innovative Heat Dissipation: Pink Aroma and Berry Fragrance Elevate Extreme Mugurisu's 4G Strawberry Edition Beyond Thermal Grizzly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-new-electronics-tips-reviews-and-tech-news-from-tom/"><u>Inside Look at New Electronics: Tips, Reviews & Tech News From Tom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-indicators-why-switching-to-non-windows-systems-might-be-your-best-bet/"><u>Unveiling the Top 5 Indicators: Why Switching to Non-Windows Systems Might Be Your Best Bet</u></a></li>
 </ul></div>
 

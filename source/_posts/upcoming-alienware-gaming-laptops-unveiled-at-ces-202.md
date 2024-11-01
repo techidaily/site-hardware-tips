@@ -1,7 +1,7 @@
 ---
 title: Upcoming Alienware Gaming Laptops Unveiled at CES 202
-date: 2024-10-19T16:10:54.264Z
-updated: 2024-10-26T18:18:27.354Z
+date: 2024-10-29T16:32:06.895Z
+updated: 2024-11-01T20:21:53.907Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -67,13 +67,6 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Connectivity          | Wi-Fi 6E, 2.5G Ethernet, Bluetooth 5.2                                                                                           |
 | Ports                 | 2 x USB-C 3.2 Gen 2 (supporting DisplayPort over USB-C), 1 x USB-A 3.2 Gen 2, 1 x HDMI, 1 x Ethernet, 1 x 3.5mm combo audio port |
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Build and ports
 
@@ -106,6 +99,13 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -152,10 +152,16 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -171,10 +177,16 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -221,22 +233,22 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-supercharge-videos-with-dynamic-titles/"><u>[New] Supercharge Videos with Dynamic Titles</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-best-of-the-best-top-facebook-memes-to-find/"><u>[Updated] 2024 Approved The Best of the Best – Top Facebook Memes to Find</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-buy-youtube-likes-does-it-really-help-boost-your-channel/"><u>[Updated] Buy YouTube Likes? Does It Really Help Boost Your Channel?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-6s-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 6s Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-computer-insights-provided-by-toms-tech-reviewers/"><u>Cutting-Edge Computer Insights Provided by Tom's Tech Reviewers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-selecting-superior-pc-components-from-toms-hardware-hub/"><u>Expert Advice on Selecting Superior PC Components From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fundamental-3d-printing-techniques-a-guide-to-five-critical-guidelines/"><u>Fundamental 3D Printing Techniques: A Guide to Five Critical Guidelines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fundamentals-of-online-tale-creation-methods/"><u>Fundamentals of Online Tale Creation Methods</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hardware-breakdown-with-tom-premium-tech-evaluations-and-tips/"><u>Hardware Breakdown with Tom: Premium Tech Evaluations & Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-play-8t-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor Play 8T Phones</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/klons-de-hardvaste-platte-van-windows-server-2012-r2-2-goede-methoden/"><u>Klons De Hardvaste Platte Van Windows Server 2012 R2 - 2 Goede Methoden</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-components-analysis/"><u>Tom's Tech Review: In-Depth Computer Components Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performer-in-the-market-id-coolings-advanced-frozn-a620-pro-se-air-cooler-review-exceptional-quality-and-price-point-combination/"><u>Top Performer in the Market: ID-Cooling's Advanced Frozn A620 Pro SE Air Cooler Review - Exceptional Quality and Price Point Combination</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlock-hidden-hd-8-effective-fixes-for-apple-devices/"><u>Unlock Hidden HD: 8 Effective Fixes for Apple Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-age-computing-a-dive-into-toms-hardware-selection/"><u>Unveiling New-Age Computing: A Dive Into Tom's Hardware Selection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/when-crowdfunding-meets-corporate-buyouts-the-remarkable-journey-from-kickstarter-to-acquisition/"><u>When Crowdfunding Meets Corporate Buyouts: The Remarkable Journey From Kickstarter to Acquisition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-become-a-viral-sensation-best-tiktok-sayings-compilation/"><u>[Updated] Become a Viral Sensation Best TikTok Sayings Compilation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pro-timer-swiftest-time-lapse-device/"><u>[Updated] In 2024, Pro Timer Swiftest Time-Lapse Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-urban-to-agrarian-journey-stardew-titles-traced-for-2024/"><u>[Updated] Urban to Agrarian Journey Stardew Titles Traced for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722858612662-can-you-send-and-receive-imessages-from-android-find-out-here/"><u>Can You Send and Receive iMessages From Android? Find Out Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-game-changer-for-future-medical-advancements/"><u>ChatGPT: The Game Changer for Future Medical Advancements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-magicard-rio-pro-driver-compatible-with-windows-11-81-and-7-get-the-new-version/"><u>Download Magicard Rio Pro Driver: Compatible with Windows 11, 8.1 & 7 – Get the New Version!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-issue-panes-in-project-management-a-comprehensive-guide/"><u>Solving 'Issue Panes' In Project Management: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-105-classic-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia 105 Classic Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-mesh-wi-fi-networks-a-comprehensive-guide/"><u>Understanding Mesh Wi-Fi Networks: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-and-improving-content-through-chatgpt-integration/"><u>Unleashing Creativity and Improving Content Through ChatGPT Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-impulse-buys-from-the-2024-amazon-prime-day-sale-extravaganza/"><u>Unmissable Impulse Buys From the 2024 Amazon Prime Day Sale Extravaganza!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-advanced-artificial-intelligence-chip-in-new-asus-rog-zephyrus-g16-laptop/"><u>Unveiling AMD's Advanced Artificial Intelligence Chip in New ASUS ROG Zephyrus G16 Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-functionality-of-mesh-wireless-technology-explained-simply/"><u>Unveiling the Functionality of Mesh Wireless Technology Explained Simply</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-jbl-quantum-stream-the-ultimate-usb-mic-for-aspiring-podcasters/"><u>Unveiling the JBL Quantum Stream: The Ultimate USB Mic for Aspiring Podcasters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-how-every-printed-document-carries-hidden-identifiers/"><u>Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-speednova-experience-in-true-wireless-cetra-gaming-earphones-by-rog-sound-quality-and-latency-tested/"><u>Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-adding-a-docking-station-to-your-laptop-the-ultimate-guide/"><u>Why You Should Consider Adding a Docking Station to Your Laptop: The Ultimate Guide</u></a></li>
 </ul></div>
 

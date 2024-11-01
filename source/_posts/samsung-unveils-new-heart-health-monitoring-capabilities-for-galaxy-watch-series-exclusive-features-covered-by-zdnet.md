@@ -1,7 +1,7 @@
 ---
 title: Samsung Unveils New Heart Health Monitoring Capabilities for Galaxy Watch Series | Exclusive Features Covered by ZDNet
-date: 2024-09-17 17:56:44
-updated: 2024-09-20 11:52:11
+date: 2024-10-28T20:49:04.887Z
+updated: 2024-11-01T19:50:26.968Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-puzzled-by-my-videos-rotating-appearance-on-instagram/"><u>[New] Puzzled by My Video’s Rotating Appearance on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-compelling-podcast-cliffhangers-for-2024/"><u>[Updated] Crafting Compelling Podcast Cliffhangers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-prime-strategies-for-crafting-virtual-mc-homes/"><u>2024 Approved Prime Strategies for Crafting Virtual MC Homes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-premium-240hz-gaming-monitor-acer-nitro-for-just-159/"><u>Get Your Hands on a Premium 240Hz Gaming Monitor – Acer Nitro, for Just $159</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hunt-for-the-best-screen-bargains-in-202-enjoy-4k-quality-and-game-ready-models/"><u>Hunt for the Best Screen Bargains in 202#: Enjoy 4K Quality & Game-Ready Models</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-comprehensive-kinetics-overview-2023/"><u>In 2024, Comprehensive Kinetics Overview 2023</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computer-hardware-by-tom/"><u>In-Depth Analysis of Computer Hardware by Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-philips-evonias-gaming-monitor-model-49m2c8900-breatht/"><u>In-Depth Review of Philips Evonia's Gaming Monitor, Model 49M2C8900: Breatht</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-top-notch-computer-components-featured-on-tomgeartech/"><u>Inside Look: Top-Notch Computer Components Featured on TomGearTech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-acers-new-lineup-trio-of-oled-gaming-displays-featuring-the-27-480hz-predator-x27u-f3-monitor/"><u>Introducing Acer's New Lineup: Trio of OLED Gaming Displays Featuring the 27 480Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computer-systems-with-toms-hardware-expertise/"><u>Mastering Modern Computer Systems with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-game-changer-in-budget-gaming-minisforums-innovative-affordable-156-144-hz-1440p-portable-monitor-for-just-189/"><u>Meet the Game-Changer in Budget Gaming - Minisforum’s Innovative, Affordable 15.6” 144 Hz 1440P Portable Monitor for Just $189</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/melodic-methodology-accelerating-language-skills-with-songs/"><u>Melodic Methodology: Accelerating Language Skills with Songs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-domestic-speakers-and-sound-beginner-edition/"><u>Navigating the World of Domestic Speakers and Sound - Beginner Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-verification-a-new-look-at-app-quality/"><u>Virtual Verification A New Look at App Quality</u></a></li>
+</ul></div>
+

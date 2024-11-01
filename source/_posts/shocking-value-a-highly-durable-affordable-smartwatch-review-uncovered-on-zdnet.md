@@ -1,7 +1,7 @@
 ---
 title: "Shocking Value: A Highly Durable, Affordable Smartwatch Review Uncovered on ZDNet"
-date: 2024-09-19 20:13:59
-updated: 2024-09-20 10:50:41
+date: 2024-10-31T17:27:57.765Z
+updated: 2024-11-01T16:32:35.628Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +96,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/astering-the-art-of-using-cc-copyrights-wisely-for-2024/"><u>[New] Mastering the Art of Using CC Copyrights Wisely for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-top-12-tycoons-your-gateway-to-game-dominance-for-2024/"><u>[New] The Ultimate Top 12 Tycoons - Your Gateway to Game Dominance for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-transforming-facebook-streams-into-flawless-records/"><u>[Updated] 2024 Approved Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-embed-a-youtube-video-in-powerpoint/"><u>[Updated] In 2024, How to Embed a YouTube Video in PowerPoint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-it-when-outlook-spell-check-is-not-working/"><u>How to Fix It When Outlook Spell Check Is Not Working</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-crafting-unique-composition-through-montages/"><u>In 2024, Crafting Unique Composition Through Montages</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-and-recording-app/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera & Recording App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210861641-9781950756124-the-mystic-womans-compass/"><u>The Mystic Woman's Compass | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadgets-review-hub-comprehensive-electronics-analysis/"><u>Tom's Gadgets Review Hub: Comprehensive Electronics Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis/"><u>Tom's Tech Insights: In-Depth Reviews & Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-electronics/"><u>Tom's Tech Review: Comprehensive Insights on Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-performance-with-toms-computing-world/"><u>Unleashing Performance with Tom's Computing World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-technology-on-toms-hardware-blog/"><u>Unveiling Cutting-Edge Technology on Tom's Hardware Blog</u></a></li>
+</ul></div>
+

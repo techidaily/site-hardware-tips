@@ -1,7 +1,7 @@
 ---
 title: "Futureproof Your Fitness Routine with 2024'S Elite Waterproof Smartwatches: In-Depth Reviews & Comparisons | Engadget"
-date: 2024-09-18 11:56:12
-updated: 2024-09-20 10:55:11
+date: 2024-10-30T19:16:08.945Z
+updated: 2024-11-01T16:27:07.374Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamlining-your-youtube-music-journey/"><u>[Updated] 2024 Approved Streamlining Your YouTube Music Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-a-sports-channel-via-macos-step-by-step-guide/"><u>[Updated] In 2024, Building a Sports Channel via macOS Step by Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-transforming-vimeo-streams-into-reusable-mp3-audio/"><u>[Updated] Transforming Vimeo Streams Into Reusable MP3 Audio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/200-price-drop-snag-the-acer-nitro-34-curved-wqhd-monitor-on-newegg-today/"><u>$200 Price Drop! Snag the Acer Nitro 34'' Curved WQHD Monitor on Newegg Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862839542-affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-releases-stunning-new-27-oled-gaming-display-featuring-zero-flicker-and-adaptive-sync-technology/"><u>Asus Releases Stunning New 27 OLED Gaming Display Featuring Zero Flicker & Adaptive Sync Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Tecno</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862841745-discounted-24-freesync-dell-screen-at-an-unbeatable-price-of-just-99/"><u>Discounted 24 FreeSync Dell Screen at an Unbeatable Price of Just $99!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discounted-deal-steal-a-mighty-thor-darth-vader-inspired-24-inch-monitor-for-just-139-from-chinese-seller/"><u>Discounted Deal: Steal a Mighty 'Thor Darth Vader' Inspired 24-Inch Monitor for Just $139 From Chinese Seller</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-crystal-clear-imagery-with-asrocks-innovative-32-oled-monitor-boosted-by-480hz-and-optimal-router-compatibility/"><u>Dive Into Crystal Clear Imagery with ASROCK’s Innovative 32” OLED Monitor – Boosted by 480Hz and Optimal Router Compatibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-gear-up-with-the-latest-technology-at-a-steal-get-60amoff-on-a-superb-49-samsung-oled-monitor-today/"><u>Don't Miss Out: Gear Up With the Latest Technology at a Steal - Get $60Amoff on a Superb 49 Samsung OLED Monitor Today</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elite-database-restoration-techniques-explored-by-sysadmin-augusto/"><u>Elite Database Restoration Techniques Explored by SysAdmin Augusto</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862826335-get-your-hands-on-the-cutting-edge-display-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-a-steal-for-199/"><u>Get Your Hands on the Cutting-Edge Display: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at a Steal for $199!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-intel-graphics-driver-to-the-latest-version-iris-plus-gvt-amo-655/"><u>How to Update Your Intel Graphics Driver to the Latest Version (Iris Plus GVT Amo 655)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-diy-youtube-thumbnails-on-smartphones/"><u>In 2024, DIY YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-to-log-gaming-sessions-for-2024/"><u>Innovative Methods to Log Gaming Sessions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-path-to-photo-wizardry-the-complete-guide-to-using-the-background-erase-in-photoshop/"><u>Your Path to Photo Wizardry The Complete Guide to Using the Background Erase in Photoshop</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "LG Gram Pro Triumphs Over MacBook Air on Performance, Portability & Battery Life: A Detailed Comparison by ZDNet"
-date: 2024-10-20T23:05:09.442Z
-updated: 2024-10-26T23:45:47.332Z
+date: 2024-10-27T18:01:35.553Z
+updated: 2024-11-01T19:35:23.954Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,16 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,16 +66,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -83,10 +83,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -125,19 +125,21 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beyond-the-box-a-list-of-non-gamebar-screen-recorders/"><u>[Updated] 2024 Approved Beyond the Box A List of Non-GameBar Screen Recorders</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-audio-2-fade-infade-out-methods-in-fcp-for-2024/"><u>Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-s23-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy S23 for Parents | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-how-3dmakerpros-mole-transforms-3d-scanning-in-your-hand/"><u>In-Depth Analysis: How 3DMakerPro's Mole Transforms 3D Scanning in Your Hand</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-and-technology-assessments-toms-hardware/"><u>In-Depth Computer & Technology Assessments - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-breakdowns-by-toms-electronic-experts/"><u>In-Depth Computer Breakdowns by Tom's Electronic Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-approach-creating-complex-chip-circuits-with-3d-printing/"><u>Innovative Approach: Creating Complex Chip Circuits with 3D Printing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insider-look-at-id-coolings-budget-friendly-frozn-a410-and-a610-models-value-meets-functionality/"><u>Insider Look at ID-Cooling's Budget Friendly FROZN A410 and A610 Models: Value Meets Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-upgrades-trust-in-toms-hardware-expertise/"><u>Mastering Your PC Upgrades: Trust in Tom's Hardware Expertise</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-hauls-into-visual-stories-for-2024/"><u>Transform Your Hauls Into Visual Stories for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/vollstandiges-ios-reset-fur-iphone-modelle-14-13-12-und-11-befreien-sie-ihr-gerat-mit-diesen-drei-losungen/"><u>Vollständiges iOS Reset Für iPhone-Modelle: 14, 13, 12 Und 11 – Befreien Sie Ihr Gerät Mit Diesen Drei Lösungen</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-diverse-video-editing-apps-for-pc-users/"><u>[New] In 2024, Diverse Video Editing Apps for PC Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-get-and-set-up-microsofts-xp-video-editor-installer-for-2024/"><u>[Updated] Get & Set Up Microsoft's XP Video Editor Installer for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>[Updated] In 2024, Seamless GoPro Broadcasts Tips for Facebook & Periscope Channeling</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>[Updated] In 2024, Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-hytes-innovative-accessories-chic-cooling-systems-dynamic-lighting-solutions-with-usb-controlled-rgb-effects-and-fan-management-for-motherboards/"><u>Discover Hyte's Innovative Accessories: Chic Cooling Systems, Dynamic Lighting Solutions with USB-Controlled RGB Effects & Fan Management for Motherboards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enjoy-a-touch-of-heaven-fresh-and-floral-essence-in-modern-thermal-paste/"><u>Enjoy a Touch of Heaven: Fresh and Floral Essence in Modern Thermal Paste</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-a-breath-of-fresh-air-in-your-pc-the-alluring-floral-note-of-new-thermal-gel/"><u>Experience a Breath of Fresh Air in Your PC: The Alluring Floral Note of New Thermal Gel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-from-toms-technology-hub/"><u>Expert Hardware Insights From Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-computer-hardware-with-toms-guidance/"><u>Expert Insights Into Computer Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-advanced-gadgets-from-toms-digital-marketplace/"><u>Expert Insights on Advanced Gadgets From Tom's Digital Marketplace</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-on-hytechs-thicc-q60-240mm-aio-the-pinnacle-of-powerful-whisper-quiet-cooling-solutions/"><u>Expert Review on Hytech's THICC Q60 240MM AIO: The Pinnacle of Powerful, Whisper-Quiet Cooling Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-influential-social-media-sites-an-overview-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Influential Social Media Sites: An Overview of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unseen-streamers-handbook-going-incognito-on-ig-live/"><u>In 2024, Unseen Streamer's Handbook Going Incognito on IG Live</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolving-active-partition-missing-errors-on-windows-10-proven-strategies-guaranteed/"><u>Resolving 'Active Partition Missing' Errors on Windows 10: Proven Strategies (Guaranteed)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/streamlining-meetings-with-snap-camera-on-teams/"><u>Streamlining Meetings with Snap Camera on Teams</u></a></li>
 </ul></div>
 
