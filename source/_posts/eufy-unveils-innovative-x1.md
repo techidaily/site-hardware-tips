@@ -1,7 +1,7 @@
 ---
 title: Eufy Unveils Innovative X1
-date: 2024-09-18 16:36:53
-updated: 2024-09-20 11:22:10
+date: 2024-11-02T16:06:59.705Z
+updated: 2024-11-07T16:05:38.879Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-prime-audio-alteration-tech-for-influencer-marketers/"><u>[New] 2024 Approved Prime Audio Alteration Tech for Influencer Marketers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ultimate-instagram-story-tips-and-tricks/"><u>[New] Ultimate Instagram Story Tips & Tricks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-path-to-wealthy-creatorland-for-ajey-nagar/"><u>2024 Approved The Path to Wealthy Creatorland for Ajey Nagar</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/id-and-ios-prime-asmr-software-options/"><u>Android & iOS Prime ASMR Software Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrate-labor-day-with-a-bright-idea-customizable-govee-lights-now-at-a-sizzling-discount-zdnets-inside-look/"><u>Celebrate Labor Day with a Bright Idea: Customizable Govee Lights Now at a Sizzling Discount! ZDNET’s Inside Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/durable-365-day-led-string-lights-at-unbeatable-prices-beat-rivals/"><u>Durable 365-Day LED String Lights at Unbeatable Prices - Beat Rivals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-exterior-with-govee-discover-the-art-of-smart-lighting-in-spectacular-colors-techradar/"><u>Illuminate Your Exterior with Govee: Discover the Art of Smart Lighting in Spectacular Colors | TechRadar</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-ordinary-to-extraordinary-profile-videos/"><u>In 2024, From Ordinary to Extraordinary Profile Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-innovations-govees-advanced-ai-enabled-gaming-sync-box-and-vibrant-neon-rope-light-explore-on-zdnet/"><u>Introducing the Latest Innovations: Govee's Advanced AI-Enabled Gaming Sync Box & Vibrant Neon Rope Light - Explore on ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios-for-2024/"><u>The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS) for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-choices-for-video-streaming-success-a-professional-review-by-zdnet/"><u>Top Lighting Choices for Video Streaming Success: A Professional Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-setups-for-video-broadcasts-professional-reviewed-by-zdnet/"><u>Top Lighting Setups for Video Broadcasts: Professional-Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-dawn-awakening-devices-insiders-guide-techradar/"><u>Top Rated Dawn Awakening Devices : Insider's Guide - TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-most-effective-outdoor-lighting-security-systems-industry-leaders-weigh-in/"><u>Ultimate Guide to Choosing the Most Effective Outdoor Lighting Security Systems – Industry Leaders Weigh In</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-resource-installing-hp-laserjet-5200-drivers-on-windows-11-10-or-8-step-by-step-tutorial/"><u>Ultimate Resource: Installing HP LaserJet 5200 Drivers on Windows 11, 10 or 8 - Step by Step Tutorial</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728505735520-windows-11/"><u>Windows 11 开机修复指令提示符使用手册 - 步骤指南</u></a></li>
+</ul></div>
+

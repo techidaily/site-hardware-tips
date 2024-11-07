@@ -1,7 +1,7 @@
 ---
 title: "Zdnet's In-Depth Analysis: The Roomba Combo J7+ - A Near Perfect Dual-Function Cleaning Bot Revealed"
-date: 2024-09-19 14:17:44
-updated: 2024-09-20 11:31:41
+date: 2024-10-31T16:02:01.954Z
+updated: 2024-11-07T16:04:14.665Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-behind-the-scenes-insider-knowledge-for-youtube-video-production/"><u>[New] 2024 Approved Behind the Scenes Insider Knowledge for YouTube Video Production</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-best-in-class-music-video-platforms/"><u>[New] In 2024, Best-in-Class Music Video Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>[New] In 2024, Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-creativity-a-guide-to-instagram-story-archiving-for-2024/"><u>[New] Unlocking Creativity A Guide to Instagram Story Archiving for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-premier-philips-hue-lights-reviewed-and-compared-by-professionals-zdnet/"><u>2023'S Premier Philips Hue Lights Reviewed & Compared by Professionals | ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-visual-clarity-on-kinemaster-projects/"><u>2024 Approved Maximizing Visual Clarity on Kinemaster Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-magic-in-home-lighting-a-budget-friendly-alternative-to-philips-hue/"><u>Affordable Magic in Home Lighting - A Budget-Friendly Alternative to Philips Hue</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-gaming-platforms-top-10-sites-for-pc-and-android-downloads/"><u>Best Free Gaming Platforms Top 10 Sites for PC and Android Downloads</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effortless-guide-how-to-implement-black-margins-in-videos-using-your-computer/"><u>Effortless Guide: How to Implement Black Margins in Videos Using Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-media-experience-the-nanoleaf-4d-exclusive-80-cyber-monday-offer/"><u>Elevate Your Media Experience: The Nanoleaf 4D - Exclusive $80 Cyber Monday Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-guide-to-2023s-best-smart-plug-gadgets-featured-on-zdnet/"><u>Explore the Ultimate Guide to 2023'S Best Smart Plug Gadgets, Featured on ZDNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gpu-narrative-radeons-recent-revolution-for-2024/"><u>GPU Narrative Radeon's Recent Revolution for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-viewing-experience-enjoy-philips-hue-integration-with-your-samsung-tv-for-just-3month-exclusive-guide-on-zdnet/"><u>Illuminate Your Viewing Experience: Enjoy Philips Hue Integration with Your Samsung TV for Just $3/Month - Exclusive Guide on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovative-approaches-5-techniques-for-recording-sounds-on-windows-11-for-2024/"><u>Innovative Approaches 5 Techniques for Recording Sounds on Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-here-are-10-tips-for-a-successful-setup/"><u>IPhone App Download Issues? Here Are 10 Tips for a Successful Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-lighting-deal-alert-get-stunning-personalized-govee-neon-lights-at-a-whopping-30-off-full-guide-and-reviews-cnet/"><u>Labor Day Lighting Deal Alert: Get Stunning, Personalized Govee Neon Lights at a Whopping 30% Off! Full Guide and Reviews | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-exclusive-guide-to-personalized-govee-neon-light-discounts-save-big/"><u>Labor Day Sale: Exclusive Guide to Personalized Govee Neon Light Discounts – Save Big!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-plug-devices-you-cant-miss-a-comprehensive-review/"><u>Top 5 Smart Plug Devices You Can't Miss : A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-enchantment-with-economy-smart-light-strips-vs-philips-hue-luxury/"><u>Unleash Enchantment with Economy Smart Light Strips Vs. Philips Hue Luxury</u></a></li>
+</ul></div>
+

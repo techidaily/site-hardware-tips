@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Laptop Face-Off: How the Newest Samsung Galaxy Book Stands Up Against the MacBook Pro | Insights From ZDNET"
-date: 2024-10-28T17:31:16.781Z
-updated: 2024-11-01T20:17:57.587Z
+date: 2024-11-03T16:16:52.417Z
+updated: 2024-11-07T16:03:44.645Z
 tags:
   - laptops
 categories:
@@ -63,13 +63,6 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Textbook design, period.
 
 The design of the Galaxy Book 3 Ultra doesn't move the needle; hide the Samsung logo on the cover and it can easily pass as just another large-screen laptop that's stacked up during Black Friday. Fortunately, the sturdy aluminum build of the Galaxy Book feels much more premium than that of a discount laptop, and thanks to subtle wedges and seamless curves throughout the chassis, the 16-inch size gives off a better impression of portability than a MacBook Pro of similar size. If I had to lug around a laptop throughout a workday, I'd pick the Samsung without hesitation.
@@ -85,6 +78,19 @@ June Wan/ZDNET
 Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and glossy finish of the display. While the screen is absolutely gorgeous to look at (more on that later), it has a tendency to wobble when I'm typing from my lap or any surface with the slightest tilt. The shaking is only emphasized when the glossy display starts to reflect every ray of light in a room or, worse yet, the outdoors.
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Live by the display…
 
@@ -113,10 +119,16 @@ June Wan/ZDNET
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
@@ -146,10 +158,10 @@ By the numbers, the Galaxy Book 3 Ultra is neck and neck with Apple's older [M1 
 While your Twitter feed isn't going to load any faster because one laptop scored higher than the other, we're looking at seconds (or even minutes) of faster speeds when it comes to graphics-intensive applications like exporting 4K videos and loading AAA games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An ecosystem of its own
@@ -164,16 +176,16 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 
 [Buy the Samsung Galaxy Book 3 Ultra $2,200 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -227,21 +239,22 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-swift-moments-visual-and-auditory-sniped/"><u>[Updated] 2024 Approved Swift Moments Visual & Auditory Sniped</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-transcription-made-simple-at-no-cost/"><u>2024 Approved Transcription Made Simple At No Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-your-perfect-graphics-processing-unit-gpu-an-in-depth-purchase-guide/"><u>Choosing Your Perfect Graphics Processing Unit (GPU): An In-Depth Purchase Guide</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/critical-vulnerability-discovered-in-amd-chips-potentially-impacting-millions-sinkclose-bug-exploited-for-unauthorized-access-patch-rollout-initiated-and-fu3/"><u>Critical Vulnerability Discovered in AMD Chips, Potentially Impacting Millions: 'Sinkclose' Bug Exploited for Unauthorized Access – Patch Rollout Initiated & Future Protections Promised</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-grab-your-amd-gaming-package-with-ryzen-7000-cpu-and-radeon-rx-7000-gpu-includes-up-to-two-free-games-but-excludes-future-ryzen-9000-models.m9/"><u>Exclusive Deal: Grab Your AMD Gaming Package with Ryzen 7000 CPU and Radeon RX 7000 GPU - Includes Up to Two Free Games, But Excludes Future Ryzen 9000 Models</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/identifying-the-top-10-hidden-story-admirers/"><u>Identifying the Top 10 Hidden Story Admirers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-motorola-razr-40-ultra-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Motorola Razr 40 Ultra to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-90-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor 90 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-simple-screen-recorder-for-windows-10-download/"><u>In 2024, Simple Screen Recorder for Windows 10 Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-scoop-on-nvidia-blackwell-and-rtx-50-series-gpus-unveiling-detailed-insights-into-features-release-windows-price-points-and-all-current-developments.2/"><u>Inside Scoop on Nvidia Blackwell & RTX 50-Series GPUs Unveiling: Detailed Insights Into Features, Release Windows, Price Points, and All Current Developments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-equipment-choices-with-toms-hardware-expertise/"><u>Mastering Equipment Choices with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-unleashed-with-sifives-innovative-p870-d-core-and-its-256-core-risc-v-architecture/"><u>The Future of Computing Unleashed with SiFive’s Innovative P870-D Core and Its 256-Core RISC-V Architecture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-with-toms-technology-insights/"><u>Unveiling Gadgets and Gizmos with Tom's Technology Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>[New] In 2024, From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>[New] In 2024, The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1728490101174-bitlockerhdd/"><u>安全なデータ保管:BitLocker搭載HDDクローニングガイド【初心者向け】</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-why-the-499-lenovo-chromebook-plus-is-a-worthy-contender-against-costly-laptops-expert-review/"><u>Discover Why the $499 Lenovo Chromebook Plus Is a Worthy Contender Against Costly Laptops | Expert Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-audio-tools-free-superior-dj-templates-online/"><u>Essential Audio Tools Free, Superior DJ Templates Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-perfect-hp-bargains-for-holidays-expert-roundup-of-16-picks/"><u>Find the Perfect HP Bargains for Holidays Expert Roundup of 16 Picks!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-leap-apples-upcoming-airpods-equipped-with-cameras-set-to-hit-the-market-in-2026-reports-zdnet/"><u>Innovative Leap: Apple's Upcoming AirPods Equipped with Cameras Set to Hit the Market in 2026, Reports ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/introducing-microsoft-edges-innovative-feature-real-time-ai-translation-of-youtube-content-in-your-browser-now-available/"><u>Introducing Microsoft Edge's Innovative Feature: Real-Time AI Translation of YouTube Content in Your Browser, Now Available!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-compact-screens-evaluating-the-true-benefits-of-portable-monitors-zdnet/"><u>Navigating the World of Compact Screens: Evaluating the True Benefits of Portable Monitors | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-system-performance-to-reduce-high-cpu-usage-while-playing-god-of-war/"><u>Optimizing System Performance to Reduce High CPU Usage While Playing God of War</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205841172-overcoming-voice-communication-problems-in-overwatch-simple-solutions/"><u>Overcoming Voice Communication Problems in Overwatch - Simple Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-integration-of-artificial-intelligence-ai-with-big-data-to-automate-and-enhance-customer-interactions/"><u>The Integration of Artificial Intelligence (AI) with Big Data to Automate and Enhance Customer Interactions.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-of-the-year-the-ultraportable-laptop-with-exceptional-all-day-battery-performance-reviews/"><u>Top Pick of the Year: The Ultraportable Laptop with Exceptional All-Day Battery Performance Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-leading-windows-portables-of-2024-in-depth-analysis-and-ratings-pcmag/"><u>Ultimate Guide to the Leading Windows Portables of 2024: In-Depth Analysis and Ratings | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-impact-of-apples-recent-decision-to-deem-9-mac-models-obsolete-insights/"><u>Understanding the Impact of Apple's Recent Decision to Deem 9 Mac Models 'Obsolete': Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-windows-laptop-a-deep-dive-into-lenovos-newly-announced-749-thinkbook-gadgetexplorer/"><u>Unveiling the Best-Value Windows Laptop : A Deep Dive Into Lenovo's Newly Announced $749 ThinkBook | GadgetExplorer</u></a></li>
 </ul></div>
 

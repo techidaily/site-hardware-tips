@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Choice of Digital Journals: Thoroughly Vetted Products for Your Consideration | ZDNET's Analyst Review"
-date: 2024-10-25T20:03:04.248Z
-updated: 2024-11-01T17:01:00.795Z
+date: 2024-10-31T16:15:42.277Z
+updated: 2024-11-07T16:16:49.106Z
 tags:
   - laptops
 categories:
@@ -41,20 +41,13 @@ Cons
 * Screen can lag when browsing web or watching videos
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smart notebook overall
 
@@ -114,6 +107,13 @@ Cons
 * Does not support note-taking on magazines or newspapers
 
 ## Kindle Scribe
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart notebook for reading
 
@@ -176,13 +176,26 @@ Cons
 * Have to buy the marker separately
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## reMarkable 2
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart notebook splurge
 
@@ -197,13 +210,6 @@ The reMarkable 2 comes with the option of either the Marker or Marker Plus pen t
 **reMarkable 2 features: Color options:** Black, blue, red, gray, and white | **Storage:** 8GB internal storage | **Pages:** Stores about 100,000 pages | **Resolution:** 1872 x 1404 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Digital notebooks, compared
 
@@ -229,6 +235,13 @@ The sole purpose of a smart notebook is exactly that, to digitize a normal noteb
 A tablet, usually runs on a mobile operating system and offers a wider range of functions such as browsing the web, multimedia, gaming, and other tasks. A digital notebook is more niche and designed specifically for note-taking and digital writing tasks.
 3. **Is a digital notebook worth it?**  
 You can find a digital notebook for well under $20, making it a pretty budget-friendly option for students or anyone looking to organize their notes without breaking the bank. But, if you like for all your devices to be consistent in terms of software, then you might be better off spending a little more for a tablet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which smart notebook is right for you?
 
@@ -262,19 +275,19 @@ A lot of these digital notebooks can also be categorized as tablets. When we tes
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Frequently Asked Questions:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best smart pen for my electronic notebook?
@@ -284,13 +297,6 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 [Apple Pencil $89 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLG69QR%2Fref%3Dasc%5Fdf%5FB0BJLG69QR1727866800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLG69QR%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca7e71074-95f3-4c41-b3ce-c8b4ca385a5c%7Cdtp&dtb=1)
 
 [Wacom Bamboo Ink $41.6 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB081LKC91V%2Fref%3Dasc%5Fdf%5FB081LKC91V1727780400000%3Fcreative%3D395261%26creativeASIN%3DB081LKC91V%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca7e71074-95f3-4c41-b3ce-c8b4ca385a5c%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do they come with a smart pen or are those sold separate?
 
@@ -306,16 +312,16 @@ Keeping your notes and reminders organized on a single device for school is the 
 
 That depends on the specific product. For example, Rocketbook's lineup of smart notebooks are made with real paper, as is the Moleskine smart notebook. However, other options like the Kindle Scribe and the ReMarkable 2 have low-latency, e-ink screens that feel paper-like, but you can still definitely tell they are more of a tablet than an actual notebook with paper. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use an iPad as a smart notebook?
 
 While you won't get the "feel" of real paper with an iPad, you can use an iPad as a way to take notes digitally, especially if you have a quality stylus like the Apple Pencil. iOS apps like Noteflow allow you to take notes, annotate PDFs, sketch and doodle, and more while syncing to the cloud.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative smart notebooks to consider?
 
@@ -363,19 +369,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exquisite-selection-idle-games-with-infinite-play/"><u>[Updated] 2024 Approved Exquisite Selection Idle Games with Infinite Play</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/instagram/"><u>【秘伝】Instagram動画が見られない/再生できない問題を解消するヒント</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-language-barriers-with-these-top-20-video-translators/"><u>2024 Approved Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>2024 Approved From Zero to Hero Solo Podcast Trendsetters' Secrets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-magix-vst-transform-your-home-studio-setup/"><u>2024 Approved Magix VST Transform Your Home Studio Setup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oneplus-11r-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-speed-storage-unveiled-a-thorough-review-of-the-inland-tn470-ssd/"><u>Affordable High-Speed Storage Unveiled: A Thorough Review of the Inland TN470 SSD</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bargain-hunting-in-tech-top-rated-solid-state-and-hard-drive-specials-of-2024/"><u>Bargain Hunting in Tech: Top Rated Solid State & Hard Drive Specials of 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210926302-9781903353622-charts-are-like-passports/"><u>Charts are Like Passports | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-toms-computer-gadgets/"><u>Comprehensive Analysis of Tom's Computer Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-more-than-just-storage-experts-review-patriot-viper-vp4300-lite-for-ultimate-ssd-capacity-at-cost-efficient-prices/"><u>Get More Than Just Storage: Experts Review Patriot Viper VP4300 Lite for Ultimate SSD Capacity at Cost-Efficient Prices</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-youtube-videos-as-mp4movwmv-formats-from-pc-or-mac/"><u>Guide: Downloading YouTube Videos as MP4/MOV/WMV Formats From PC or Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723864252424-prime-day-storage-deals-get-4tb-ssds-at-just-4-cents-per-gigabyte-huge-discounts-available/"><u>Prime Day Storage Deals: Get 4TB SSDs at Just 4 Cents Per Gigabyte - Huge Discounts Available!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-engagement-top-10-video-response-insights/"><u>[Updated] Elevate Your Engagement Top 10 Video Response Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-transform-your-tech-budget-experience-the-power-of-the-new-499-lenovo-chromebook-plus-a-game-changer-compared-to-expensive-laptops/"><u>1. Transform Your Tech Budget: Experience the Power of the New $499 Lenovo Chromebook Plus - A Game-Changer Compared to Expensive Laptops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-into-design-your-strategy-for-career-success/"><u>2024 Approved Breaking Into Design Your Strategy for Career Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-thinkpads-and-macbooks-the-prime-choice-for-efficiency-at-300-less-expert-review-on-the-hidden-gem-for-productivity-laptops/"><u>Beyond ThinkPads and Macbooks: The Prime Choice for Efficiency at $300 Less | Expert Review on the Hidden Gem for Productivity Laptops</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-reduire-la-taille-dun-image-system-sur-un-support-de-stockage-moins-vaste/"><u>Comment Réduire La Taille D’un Image System Sur Un Support De Stockage Moins Vaste?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-lenovo-thinkpad-x1-carbon-gen-10-assessment-is-it-the-top-choice-for-professionals-insights/"><u>Comprehensive Lenovo ThinkPad X1 Carbon Gen 10 Assessment: Is It the Top Choice for Professionals? Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-superior-features-of-the-asus-laptop-the-ideal-alternative-to-macbook-unveiled-on-zdnet/"><u>Exploring the Superior Features of the Asus Laptop - The Ideal Alternative to MacBook Unveiled on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-sound-quality-top-5-free-windows-tools/"><u>Improve Sound Quality: Top 5 Free Windows Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quarters/"><u>Quarters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-early-october-2024-prime-day-blowout-sales-on-laptops-exclusive-picks-and-tips-zdnet/"><u>Top Early October 2024 Prime Day Blowout Sales on Laptops: Exclusive Picks & Tips | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-crafting-your-perfect-gaming-environment-with-top-tips-from-tech-experts-zdnet/"><u>Ultimate Guide: Crafting Your Perfect Gaming Environment with Top Tips From Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-apples-m3-macbook-air-top-3-impressive-features-explored/"><u>Unboxing Apple's M3 MacBook Air: Top 3 Impressive Features Explored</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-flip-it-how-to-reverse-video-clips-in-final-cut-pro-like-a-pro/"><u>Updated Flip It! How to Reverse Video Clips in Final Cut Pro Like a Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/visual-storytelling-made-easy-a-guide-to-blending-photo-and-video-in-pixiz-for-2024/"><u>Visual Storytelling Made Easy A Guide to Blending Photo and Video in Pixiz for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 

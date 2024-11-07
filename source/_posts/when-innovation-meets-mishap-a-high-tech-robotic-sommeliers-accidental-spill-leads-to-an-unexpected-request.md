@@ -1,7 +1,7 @@
 ---
 title: "When Innovation Meets Mishap: A High-Tech Robotic Sommelier's Accidental Spill Leads to an Unexpected Request"
-date: 2024-09-17 13:14:37
-updated: 2024-09-20 11:15:41
+date: 2024-10-31T16:00:20.011Z
+updated: 2024-11-07T16:04:17.053Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-fixed-frames-to-dynamic-circles-in-videos/"><u>[Updated] 2024 Approved From Fixed Frames to Dynamic Circles in Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comprehensive-review-of-powerdirector-pro-suite-for-2024/"><u>[Updated] Comprehensive Review of PowerDirector Pro Suite for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-comprehensive-guide-to-crafting-great-documentary-narratives-for-2024/"><u>[Updated] The Comprehensive Guide to Crafting Great Documentary Narratives for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-instagram-content-with-effective-captioning/"><u>2024 Approved Enhance Your Instagram Content with Effective Captioning</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-highlights-from-the-first-day-top-innovations-revealed/"><u>CES 2023 Highlights From the First Day: Top Innovations Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ering-low-light-challenges-in-filming/"><u>Conquering Low-Light Challenges in Filming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/day-one-highlights-at-ces-202-top-tech-reveals-from-the-first-day-insights-and-analysis/"><u>Day One Highlights at CES 202#: Top Tech Reveals From the First DAY - Insights & Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-2023s-premier-smart-plugs-for-home-automation-enthusiasts/"><u>Discover the Ultimate Guide to 2023'S Premier Smart Plugs for Home Automation Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-eco-friendly-festivities-with-nanoleafs-new-matte-certified-seasonal-illumination/"><u>Experience Enhanced Eco-Friendly Festivities with Nanoleaf's New Matte Certified Seasonal Illumination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-pick-the-most-adaptable-illuminating-lights-available-now-at-30-off-insights-from-zdnet/"><u>Experts Pick the Most Adaptable Illuminating Lights, Available Now at 30% Off | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-enthusiasts-rejoice-secure-a-whopping-100-discount-on-govees-luxurious-light-strip-collection-exclusive-deal-via-zdnet/"><u>Game Enthusiasts Rejoice! Secure a Whopping $100 Discount on Govee's Luxurious Light Strip Collection, Exclusive Deal via ZDNET.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-harmonizing-visuals-and-audio-in-unboxing-videos/"><u>In 2024, Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/monetary-milestones-pewdiepies-income-summary/"><u>Monetary Milestones PewDiePie’s Income Summary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/protect-your-live-streams-the-periscope-video-howto/"><u>Protect Your Live Streams The Periscope Video HowTo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accessing-instagram-content-as-a-non-user/"><u>Step-by-Step Guide: Accessing Instagram Content as a Non-User</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-smart-home-gadgets-in-depth-review-by-zdnet/"><u>Top Affordable Smart Home Gadgets: In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-dim-space-the-ultimate-guide-to-smart-govee-cube-wall-sconces-illuminate-and-control-with-ease-zdnet/"><u>Transform Your Dim Space: The Ultimate Guide to Smart Govee Cube Wall Sconces - Illuminate & Control with Ease [ZDNET]</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discover the Concealed Secrets of This Lightweight Lenovo Notebook's TrackPoint & More | TechInsights
-date: 2024-10-27T17:40:18.981Z
-updated: 2024-11-01T16:48:44.197Z
+date: 2024-11-03T16:08:11.896Z
+updated: 2024-11-07T16:14:12.658Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,16 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,20 +121,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>[New] Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/assembling-an-impressive-robust-desktop-a-fusion-of-disco-pixel-pc-and-inwins-compact-309-chassis/"><u>Assembling an Impressive, Robust Desktop: A Fusion of Disco Pixel PC and InWin’s Compact 309 Chassis</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-fixing-pc-instability-in-the-witcher-3-on-windows/"><u>Resolved: Fixing PC Instability in 'The Witcher 3' On Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/struggling-to-share-your-videos-on-fb-try-out-our-top-10-rapid-remedies-for-easy-uploads/"><u>Struggling to Share Your Videos on FB? Try Out Our Top 10 Rapid Remedies for Easy Uploads!</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-endless-scroll-problems-with-excel-on-windows/"><u>Tackle Endless Scroll Problems with Excel on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-expert-guide-to-pc-components-by-toms-technology-insights/"><u>The Expert Guide to PC Components by Tom's Technology Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-analysis-in-depth-tutorials-and-testing/"><u>Tom's Computer Components Analysis: In-Depth Tutorials & Testing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-guides-on-computers-and-gadgets/"><u>Tom's Tech Hub: Expert Guides on Computers and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews-on-the-latest-hardware/"><u>Tom's Tech Insights: Comprehensive Guides and Reviews on the Latest Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-unlocking-the-power-of-hardware-t17239718710133/"><u>Tom's Tech Insights: Unlocking the Power of Hardware</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-a56s-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo A56s 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-gamer-pc-setups-of-2024-choices-between-500-4000plus/"><u>Ultimate Gamer PC Setups of 2024 - Choices Between $500-$4,000+</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-thriving-in-the-world-of-youtube-broadcasting-master-class/"><u>[New] 2024 Approved Thriving in the World of YouTube Broadcasting Master Class</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-indoor-adventures-select-escapade-venues/"><u>[Updated] 2024 Approved Ultimate Indoor Adventures Select Escapade Venues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>[Updated] In 2024, Unveiling the Illusion How Genuine Growth Is Stifled by Shams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>[Updated] The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explosive-savings-alert-samsung-t5-ssd-4tb-capacity-goes-half-price-at-amazon-insider-report-by-zdnet/"><u>Explosive Savings Alert: Samsung T5 SSD, 4TB Capacity Goes Half-Price at Amazon - Insider Report by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-traditional-to-ergo-friendly-one-week-on-a-split-keyboard-changed-it-all-gadgetflow/"><u>From Traditional to Ergo-Friendly: One Week on a Split Keyboard Changed It All | GadgetFlow</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-new-mac-studio-alternative-for-windows-enthusiasts-could-it-surpass-apple/"><u>Introducing Lenovo's New Mac Studio Alternative for Windows Enthusiasts: Could It Surpass Apple?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-at-an-unbeatable-price-just-280-on-amazon-learn-more/"><u>MacBook Air at an Unbeatable Price: Just $280 on Amazon! [Learn More]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dragon-ball-fighterz-connectivity-issues-a-fix-for-the-network-failure-warning/"><u>Overcoming Dragon Ball FighterZ Connectivity Issues: A Fix for the Network Failure Warning</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/perfect-zoom-optimizing-kinemasters-viewer-engagement/"><u>Perfect Zoom Optimizing Kinemaster's Viewer Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-amazon-prime-day-bargains-of-october-2024-top-discounts-you-cant-missbuyers-guide/"><u>Unbeatable Amazon Prime Day Bargains of October 2024 – Top Discounts You Can't Miss![Buyer’s Guide]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-sound-quality-awaits-discover-the-highest-ranking-200-off-speaker-system-at-best-buy-exclusive-insights/"><u>Unbeatable Sound Quality Awaits: Discover the Highest-Ranking $200 Off Speaker System at Best Buy Exclusive Insights</u></a></li>
 </ul></div>
 

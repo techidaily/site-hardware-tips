@@ -1,7 +1,7 @@
 ---
 title: McDonald's Automated Drive-Through Bot Causes Chaos, Hilariously Goes Viral
-date: 2024-09-18 14:59:20
-updated: 2024-09-20 11:25:22
+date: 2024-11-05T16:02:10.334Z
+updated: 2024-11-07T16:02:55.220Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-digital-content-upgrade-changing-numbers-on-tiktok-quickly/"><u>[Updated] 2024 Approved Digital Content Upgrade Changing Numbers on TikTok Quickly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>[Updated] In 2024, Beam Your Content Upward Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>2024 Approved Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-s18-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-unveils-new-pride-edition-wristwear-on-may-23rd-exclusive-coverage-by-zdnet/"><u>Apple Unveils New 'Pride Edition' Wristwear on May 23Rd - Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/erfahren-sie-wie-sie-mit-dieser-anleitung-windows-11-computer-zu-einem-einfachen-dlna-streaming-server-machen-konnen/"><u>Erfahren Sie Wie Sie Mit Dieser Anleitung Windows 11 Computer Zu Einem Einfachen DLNA Streaming Server Machen Können</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-ultimate-sports-timepiece-enduro-is-set-to-outshine-apple-in-the-ultra-endurance-race-zdnet/"><u>Garmin's Ultimate Sports Timepiece: Enduro 지니어 Is Set to Outshine Apple in the Ultra-Endurance Race | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-tech-alert-can-your-apple-watch-series-become-carbon-neutral-the-role-of-compatible-bands-revealed-by-zdnet/"><u>Green Tech Alert: Can Your Apple Watch Series ˈbecome Carbon-Neutral? The Role of Compatible Bands Revealed by ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impulsive-decision-or-smart-move-my-unexpected-journey-towards-acquiring-an-apple-watch-via-amazon-zdnets-take/"><u>Impulsive Decision or Smart Move? My Unexpected Journey Towards Acquiring an Apple Watch via Amazon | ZDNet's Take</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-spark-20c-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Spark 20C</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kid-friendly-fitbit-ace-lte-the-fun-educational-gadget-transforming-workouts-into-games-a-pixel-watch-2-alternative-reviewed-by-zdnet/"><u>Kid-Friendly Fitbit Ace LTE: The Fun, Educational Gadget Transforming Workouts Into Games - A Pixel Watch 2 Alternative Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sales-of-apples-latest-series-watch-9-and-ultra-continue-amidst-legal-hold-on-prohibition-insights-from-zdnet/"><u>Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-on-newly-launched-galaxy-phones-save-1200-today-discover-the-secret-to-snagging-your-dream-samsung-z-fold-6-or-z-flip-n6-for-less-full-tips-ins198/"><u>Slash Prices on Newly Launched Galaxy Phones: Save $1,200 Today! Discover the Secret to Snagging Your Dream Samsung Z Fold 6 or Z Flip N6 for Less - Full Tips Inside</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-handbook-of-xbox-one-zoom-communication-for-2024/"><u>The Complete Handbook of Xbox One Zoom Communication for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uags-robust-mobile-accessories-collection-sturdy-apple-watch-bands-and-z-fold/"><u>UAG's Robust Mobile Accessories Collection: Sturdy Apple Watch Bands & Z Fold</u></a></li>
+</ul></div>
+

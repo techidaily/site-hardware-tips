@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Roborock Vacuum Models - Comprehensive Testing & Reviews by Tech Experts at ZDNet
-date: 2024-09-18 14:20:55
-updated: 2024-09-20 11:21:25
+date: 2024-11-04T16:08:05.986Z
+updated: 2024-11-07T16:01:43.736Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-revisiting-sonys-s6700-blu-ray/"><u>[New] Revisiting Sony's S6700 Blu-Ray</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/delving-into-the-nuances-of-touch-based-navigation-for-2024/"><u>Delving Into the Nuances of Touch-Based Navigation for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-impact-of-smartphones-assessing-harm-and-eco-friendly-solutions-insights-from-zdnet/"><u>Eco-Impact of Smartphones: Assessing Harm & Eco-Friendly Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-install-essential-printerscanner-drivers-for-windows-11-os/"><u>Ensure Compatibility: Install Essential Printer/Scanner Drivers for Windows 11 OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-smartphones-environmental-impact-understanding-and-mitigation-tips/"><u>Evaluating Smartphone's Environmental Impact: Understanding & Mitigation Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-amazing-bbqs-with-webers-elite-electric-grills-save-50-today-on-premier-models-exclusive-deal/"><u>Experience Amazing BBQs with Weber's Elite Electric Grills: Save $50 Today on Premier Models - Exclusive Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-energy-from-fungi-how-mycelium-chips-can-charge-gadgets-and-preserve-earth-insights-on-zdnet/"><u>Green Energy From Fungi: How Mycelium Chips Can Charge Gadgets & Preserve Earth - Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-tech-innovations-the-journey-of-corporates-towards-sustainable-practices-insights-from-zdnet/"><u>Green Tech Innovations: The Journey of Corporates Towards Sustainable Practices - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-belkin-is-leading-sustainable-innovation-in-tech-introducing-a-new-recycled-plastic-program-at-ces-2023-covered-by-zdnet/"><u>How Belkin Is Leading Sustainable Innovation in Tech: Introducing a New Recycled Plastic Program at CES 2023, Covered by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-effective-cumulus-vault-for-colossal-archives/"><u>In 2024, Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-essential-steps-for-unshakable-tiktok-account-shutdown/"><u>In 2024, Essential Steps for Unshakable TikTok Account Shutdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>In 2024, The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/minimize-time-maximize-results-with-this-srt-to-txt-hack-for-2024/"><u>Minimize Time, Maximize Results with This SRT to TXT Hack for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ranked-list-of-pristine-cost-free-websites-for-designers-delight/"><u>Ranked List of Pristine, Cost-Free Websites for Designers' Delight</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-methods-for-successfully-recording-google-hangouts-a-guide-for-pc-and-mac-users/"><u>Top Methods for Successfully Recording Google Hangouts: A Guide for PC and Mac Users</u></a></li>
+</ul></div>
+

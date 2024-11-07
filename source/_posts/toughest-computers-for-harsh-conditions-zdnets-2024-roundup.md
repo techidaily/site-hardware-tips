@@ -1,7 +1,7 @@
 ---
 title: "Toughest Computers for Harsh Conditions: ZDNet's 2024 Roundup"
-date: 2024-10-26T17:18:02.817Z
-updated: 2024-11-01T17:10:14.138Z
+date: 2024-11-05T16:04:45.647Z
+updated: 2024-11-07T16:13:09.057Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,10 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4728166-144d-4f95-9333-0388361d62e0%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -106,6 +106,13 @@ Asus/ZDNET
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4728166-144d-4f95-9333-0388361d62e0%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4728166-144d-4f95-9333-0388361d62e0%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4728166-144d-4f95-9333-0388361d62e0%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
 
@@ -129,29 +136,35 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -164,13 +177,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,21 +244,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-filmmaking-selecting-high-resolution-lenses/"><u>[New] Premium Filmmaking Selecting High-Resolution Lenses</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-shooter-synergy-crafting-a-list-of-top-7-game-battles/"><u>[New] Shooter Synergy Crafting a List of Top 7 Game Battles</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1-can-you-trust-the-security-of-vlc-media-player/"><u>1. Can You Trust the Security of VLC Media Player?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9000-arrives-with-attractive-discounts-at-best-buy-outshining-original-ryzen-n7000-pricing/"><u>AMD Ryzen 9000 Arrives with Attractive Discounts at Best Buy - Outshining Original Ryzen N7000 Pricing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuit-en-ligne-de-fichiers-mp4-vers-mpeg-avec-movavi-guide-simple-et-rapide/"><u>Conversion Gratuit en Ligne De Fichiers MP4 Vers MPEG Avec Movavi - Guide Simple Et Rapide</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-content-upgrade-to-game-pass-ultimate-now/"><u>Exclusive Content: Upgrade to Game Pass Ultimate Now</u></a></li>
-<li><a href="https://fox-within.techidaily.com/finde-ich-meine-alten-bilder-wieder-losungen-fur-verlorene-fotodateien/"><u>Finde Ich Meine Alten Bilder Wieder: Lösungen Für Verlorene Fotodateien</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-new-apple-vision-pro-faster-shipping-awaits/"><u>Get Your Hands on the New Apple Vision Pro: Faster Shipping Awaits!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Phone without Any Data Loss</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mingda-magician-pro2-assessment-enormous-and-silent-print-output/"><u>Mingda Magician Pro2 Assessment: Enormous and Silent Print Output</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175691181-noctuas-premium-next-gen-flagship-cooler-launches-experience-the-power-of-the-nh-d15-g2-for-150/"><u>Noctua's Premium Next-Gen Flagship Cooler Launches - Experience the Power of the NH-D15 G2 for $150</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/recovering-accidentally-erased-images-from-your-iphone-via-icloud-a-comprehensive-guide/"><u>Recovering Accidentally Erased Images From Your iPhone via iCloud: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/speed-and-affordability-meet-quality-in-our-comprehensive-review-of-the-creality-ender-3-v3-ke-printer/"><u>Speed and Affordability Meet Quality in Our Comprehensive Review of the Creality Ender 3 v3 KE Printer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-gadget-enthusiasts-by-toms-hardware/"><u>The Ultimate Resource for Gadget Enthusiasts by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-on-toms-computing-and-gadgets/"><u>The Ultimate Resource on Tom's Computing and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/undersea-creations-the-innovative-3d-printer-running-in-a-water-tank/"><u>Undersea Creations: The Innovative 3D Printer Running in a Water Tank</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ave-goodbye-to-high-costs-enjoy-over-50-free-online-ad-options-today/"><u>[New] Wave Goodbye To High Costs – Enjoy Over 50 Free Online Ad Options Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-groundbreaking-webinar-name-builder/"><u>[Updated] In 2024, Groundbreaking Webinar Name Builder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-display-technology-oled-vs-qled-televisions-a-comprehensive-guide/"><u>Choosing the Right Display Technology: OLED Vs. QLED Televisions – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-dazzling-display-of-samsung-qn90a-series-at-a-stunning-1500-discount-your-next-oled-tv/"><u>Discover the Dazzling Display of Samsung QN90A Series at a Stunning 1,500% Discount - Your Next OLED TV?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-smart-tv-models-for-2e24-based-on-latest-zdnet-rankings/"><u>Discover the Leading Smart TV Models for 2E24 Based on Latest ZDNet Rankings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-value-packed-tvs-according-to-zdnet-reviews/"><u>Discover the Most Value-Packed TVs , According to ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-tv-stands-of-202-expert-analysis-by-zdnet/"><u>Discover the Ultimate TV Stands of 202#: Expert Analysis by ZDnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-unrivaled-choices-ranking-the-5-superior-8k-tvs-available-this-year-zdnet-insights/"><u>Discover the Unrivaled Choices: Ranking the 5 Superior 8K TVs Available This Year (ZDNet Insights)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-ultimate-surround-sound-experience-a-top-soundbar-review-beyond-vizio-and-jbl-zdnet/"><u>Discovering the Ultimate Surround-Sound Experience: A Top Soundbar Review Beyond Vizio and JBL | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-labor-day-offer-alert-discover-the-highly-recommended-samsung-tv-now-just-43-off-full-evaluation-available-on-zdnet/"><u>Exclusive Labor Day Offer Alert: Discover the Highly Recommended Samsung TV Now Just 43% Off - Full Evaluation Available on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-upcoming-nothing-phone-3-foretelling-price-points-release-schedule-and-preliminary-details/"><u>Exploring the Upcoming Nothing Phone 3: Foretelling Price Points, Release Schedule & Preliminary Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-code-to-compassion-ai-in-windows-tomorrow/"><u>From Code to Compassion: AI in Windows Tomorrow</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-bluetooth-keyboard-when-attempting-to-pair-with-your-desktoplaptop/"><u>How to Fix a Non-Responsive Bluetooth Keyboard When Attempting to Pair with Your Desktop/Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-oleaut32dll-is-missing-or-not-found-errors/"><u>How to Fix Oleaut32.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-among-us-voice-communication-problems-on-windows-computers/"><u>Resolve Your 'Among Us' Voice Communication Problems on Windows Computers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/supercharge-your-acer-aspire-with-a-speedy-solid-state-drive-enhancement/"><u>Supercharge Your Acer Aspire 지상단 With a Speedy Solid State Drive Enhancement</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
 

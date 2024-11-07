@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Split Design: An Enlightening Week of Typing on a Dedicated Ergonomic Keyboard | ZDNet"
-date: 2024-10-29T20:56:27.294Z
-updated: 2024-11-01T18:09:39.095Z
+date: 2024-11-06T16:00:54.790Z
+updated: 2024-11-07T16:06:49.046Z
 tags:
   - laptops
 categories:
@@ -107,10 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,18 +149,18 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-beginners-guide-to-seo-skyrocket-your-view-count/"><u>[Updated] 2024 Approved A Beginner’s Guide to SEO Skyrocket Your View Count</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-streamline-your-watch-party-multi-video-views-made-easy/"><u>2024 Approved Streamline Your Watch Party Multi-Video Views Made Easy</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-revolutionizes-fda-document-management-with-its-advanced-intelligent-automation-technology/"><u>ABBYY Revolutionizes FDA Document Management with Its Advanced Intelligent Automation Technology</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-silence-in-gaming-building-a-stealthy-rgb-free-desktop-pc-unveiled-by-toms-hardware/"><u>Crafting Silence in Gaming: Building a Stealthy RGB-Free Desktop PC Unveiled by Tom's Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cybersecurity-analysis-why-has-chatgpt-became-the-latest-focus-for-online-intruders/"><u>Cybersecurity Analysis: Why Has ChatGPT Became the Latest Focus for Online Intruders?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-hidden-gems-with-toms-computer-components-guide/"><u>Discover Hidden Gems with Tom's Computer Components Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-advances-in-computing-with-toms-technology-reviews/"><u>Discover the Latest Advances in Computing with Tom's Technology Reviews</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-12-pro-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 12 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/itop-insider-review-top-notch-screencast-software-compared-for-2024/"><u>ITop Insider Review Top-Notch Screencast Software Compared for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-poco-m6-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Poco M6 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-hardware-evaluations-by-toms-technology-experts/"><u>Professional Hardware Evaluations by Tom’s Technology Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-digital-innovations-with-toms-electronics-review/"><u>Unveiling the Latest in Digital Innovations with Tom's Electronics Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-tips-to-blend-spin-and-align-your-android-videos/"><u>[New] Advanced Tips to Blend, Spin & Align Your Android Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-to-no-ad-android-video-tools-for-2024/"><u>[New] Ultimate Guide to No-Ad Android Video Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-editing-apps-revolutionize-your-photo-backgrounds/"><u>[Updated] Top Editing Apps Revolutionize Your Photo Backgrounds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-pc-reset-restore-your-windows-pro-version-with-these-easy-fixes/"><u>Accidental PC Reset? Restore Your Windows Pro Version with These Easy Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expand-your-workspace-enable-dual-monitor-setup-on-your-m3-macbook-pro-now-comparable-to-the-capabilities-of-the-m3-macbook-air-insights/"><u>Expand Your Workspace: Enable Dual Monitor Setup on Your M3 MacBook Pro, Now Comparable to the Capabilities of the M3 MacBook Air | Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-building-brands-on-instagram-a-playbook-for-sponsorship-success/"><u>In 2024, Building Brands on Instagram A Playbook for Sponsorship Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-get-1k-followers-every-month-on-instagram/"><u>In 2024, How to Get 1K Followers Every Month on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-moves-in-sw-quick-fixed-for-windows-mouse-lag-woes/"><u>Master Moves in SW: Quick Fixed for Windows Mouse Lag Woes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-unveils-new-copilotplus-pc-challengers-to-apples-m3-macbook-line-exclusive-details-from-zdnet/"><u>Microsoft Unveils New Copilot+ PC Challengers to Apple's M3 MacBook Line: Exclusive Details From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-tech-premium-hp-laptop-compatible-wireless-mouse-and-exclusive-microsoft-suite-for-400-grab-your-bundle-now-before-its-gone/"><u>Save Big on Tech: Premium HP Laptop, Compatible Wireless Mouse, and Exclusive Microsoft Suite for $400 – Grab Your Bundle Now Before It's Gone!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-lava-agni-2-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Lava Agni 2 5G Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-budget-laptops-under-1000-comprehensive-reviews-and-tests-by-tech-experts/"><u>Top-Ranking Budget Laptops (Under $1,000) - Comprehensive Reviews & Tests by Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
 

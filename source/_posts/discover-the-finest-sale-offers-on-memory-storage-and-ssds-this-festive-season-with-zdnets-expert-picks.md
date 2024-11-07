@@ -1,7 +1,7 @@
 ---
 title: Discover the Finest Sale Offers on Memory Storage & SSDs This Festive Season with ZDNet's Expert Picks!
-date: 2024-10-25T19:38:40.800Z
-updated: 2024-11-01T20:52:20.861Z
+date: 2024-11-03T16:06:20.838Z
+updated: 2024-11-07T16:03:07.859Z
 tags:
   - laptops
 categories:
@@ -75,6 +75,13 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727780400000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C187458e8-2200-4552-83e4-ed5a6e578fbf%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -84,10 +91,10 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C187458e8-2200-4552-83e4-ed5a6e578fbf%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -99,10 +106,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C187458e8-2200-4552-83e4-ed5a6e578fbf%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -129,13 +136,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -155,28 +155,28 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C187458e8-2200-4552-83e4-ed5a6e578fbf%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -245,20 +245,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[New] Earn Big on YouTube Shorts Tips for Profitable Content Creation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-windows-11-essential-upgrades/"><u>[New] In 2024, Exploring Windows 11 Essential Upgrades</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unboxing-viva-a-user-guide-to-its-videos/"><u>[Updated] In 2024, Unboxing Viva A User Guide to Its Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-cover-art-crafting-for-fighting-games/"><u>[Updated] Quick Cover Art Crafting for Fighting Games</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-techniques-for-updating-ios-font-library-on-your-mobile-device/"><u>Innovative Techniques for Updating iOS Font Library on Your Mobile Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-downloading-youtube-content-on-ios-and-android-devices/"><u>Step-by-Step Guide: Downloading YouTube Content on iOS and Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-obtaining-your-android-devices-user-manual/"><u>Step-by-Step Guide: Obtaining Your Android Device's User Manual</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-restoring-lost-android-phone-numbers/"><u>Step-by-Step Guide: Restoring Lost Android Phone Numbers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-your-default-browser-app-on-android-devices/"><u>Step-by-Step Guide: Switching Your Default Browser App on Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-rebranding-of-nokia-introducing-the-latest-evolution-in-its-visual-identity/"><u>The Rebranding of Nokia: Introducing the Latest Evolution in Its Visual Identity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/to-case-or-not-to-case-do-ios-and-android-devices-really-benefit-from-an-extra-shell/"><u>To Case or Not to Case: Do iOS & Android Devices Really Benefit From an Extra Shell?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-smartphones-equipped-with-audio-jacks-a-comprehensive-guide/"><u>Top-Ranked Smartphones Equipped with Audio Jacks: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies-for-2024/"><u>Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-action-capture-duel-2022-gopro-hero5-versus-garmin-virb/"><u>[New] 2024 Approved Action Capture Duel 2022 GoPro Hero5 Versus Garmin VIRB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-final-fact-finding-flourishes/"><u>[New] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pro-video-essentials-selecting-superior-camera-lenses/"><u>[Updated] 2024 Approved Pro Video Essentials Selecting Superior Camera Lenses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-essential-cheatsheet-for-beautiful-collage-creations/"><u>[Updated] Beginner's Essential Cheatsheet for Beautiful Collage Creations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-integrating-social-networks-sharing-fb-videos-on-whatsapp/"><u>2024 Approved Integrating Social Networks Sharing FB Videos on WhatsApp</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-price-tag-how-a-2-cuartoandroid-tablet-outshines-predictions-reviewed-by-zdnet/"><u>Beyond the Price Tag: How a $2 cuartoAndroid Tablet Outshines Predictions | Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-audio-barriers-the-ultimate-speaker-system-that-beats-bose-and-sonos-zdnet-recommendation/"><u>Breaking Audio Barriers: The Ultimate Speaker System That Beats Bose and Sonos (ZDNet Recommendation)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/download-ios-16-early-access-tips-on-getting-your-iphone-updated-immediately-though-considering-a-delay/"><u>Download iOS 16 Early Access: Tips on Getting Your iPhone Updated Immediately (Though Considering a Delay)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-ideal-tablets-for-academic-success-in-depth-guide-zdnet/"><u>Expert Analysis of Ideal Tablets for Academic Success - In-Depth Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-worlds-slimmest-ipads-at-the-apple-store-can-008-inch-beam-thin-enough-for-you/"><u>Exploring the World's Slimmest iPads at the Apple Store - Can 0.08-Inch Beam Thin Enough for You?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-future-of-android-a-step-by-step-guide-to-downloading-and-installing-android-13-beta-1-plus-tips-on-when-to-upgrade/"><u>Get Ready for the Future of Android: A Step-by-Step Guide to Downloading & Installing Android 13 Beta 1 - Plus, Tips on When to Upgrade!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-play-8t-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Play 8T Is Unlocked</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-grab-the-new-amazon-fire-hd-8-plus-tablet-at-over-50-off-shop-today/"><u>Huge Savings Alert! Grab the New Amazon Fire HD 8 Plus Tablet at Over 50% Off - Shop Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-amazons-fire-max-11-the-ultimate-fire-tablet-assessment-by-techexpert/"><u>In-Depth Analysis of Amazon's Fire Max 11 - The Ultimate Fire Tablet Assessment by TechExpert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-new-microsoft-surface-laptop-studio-featured-on-zdnet-reviews/"><u>In-Depth Look at the New Microsoft Surface Laptop Studio - Featured on ZDNet Reviews</u></a></li>
+<li><a href="https://techidaily.com/iphone-app-for-scanning-and-converting-documents-how-to-use-pdfjpg-ocr-with-fonepaper-reader-pro/"><u>IPhone App for Scanning & Converting Documents: How to Use PDF/JPG OCR with FonePaper Reader Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tactics-for-using-gpt-3-in-openai-sandbox/"><u>Tactics for Using GPT-3 in OpenAI Sandbox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ts-mp4-5/"><u>TS 라이브스트리밍에서 MP4 바꾸기 - 5번째로 좋은 전환 방법!</u></a></li>
 </ul></div>
 

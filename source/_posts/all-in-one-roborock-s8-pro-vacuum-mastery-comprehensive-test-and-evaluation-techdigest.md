@@ -1,7 +1,7 @@
 ---
 title: "All-in-One Roborock S8 Pro Vacuum Mastery: Comprehensive Test & Evaluation - TechDigest"
-date: 2024-09-17 19:57:47
-updated: 2024-09-20 12:51:44
+date: 2024-11-05T16:01:49.871Z
+updated: 2024-11-07T16:10:11.985Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-premiere-vr-developers-shaping-the-future/"><u>[Updated] In 2024, Premiere VR Developers Shaping the Future</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-soundscape-strategies-making-tamil-tracks-your-phones-chime/"><u>[Updated] In 2024, SoundScape Strategies Making Tamil Tracks Your Phone's Chime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-convert-pinterest-video-to-mp3-files-and-download-them/"><u>2024 Approved How to Convert Pinterest Video to MP3 Files and Download Them</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-study-reveals-key-factors-influencing-the-outcomes-of-smart-process-automation/"><u>ABBYY Study Reveals Key Factors Influencing the Outcomes of Smart Process Automation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-leveraging-adobe-cloud-for-enhanced-data-management/"><u>Comprehensive Guide to Leveraging Adobe Cloud for Enhanced Data Management</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dj-iq-upgrade-two-drone-brands-now-offer-free-lut-sets/"><u>DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-waste-to-wonder-the-innovative-3d-printer-that-turns-sawdust-into-beautifully-crafted-lamps-and-guitars-zdnet-insight/"><u>From Waste to Wonder: The Innovative 3D Printer That Turns Sawdust Into Beautifully Crafted Lamps and Guitars | ZDNET Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-cloud-solutions-now-fully-launched-by-microsoft-discover-more-at-zdnet/"><u>Green Cloud Solutions Now Fully Launched by Microsoft, Discover More at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-lenovo-embraces-eco-friendly-practices-towards-a-net-zero-future-exploring-strategies-with-zdnet/"><u>How Lenovo Embraces Eco-Friendly Practices Towards a Net Zero Future | Exploring Strategies with ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-modular-android-devices-can-outlast-iphones-and-pixel-phones-unveiling-the-catch/"><u>How Modular Android Devices Can Outlast iPhones and Pixel Phones | Unveiling the Catch!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hunting-down-eco-innovators-discovering-sustainable-ventures-with-googles-ten-week-program-zdnet-insights/"><u>Hunting Down Eco Innovators: Discovering Sustainable Ventures with Google's Ten-Week Program | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/immerse-yourself-in-visual-perfection-discover-the-dazzling-4k-display-on-lenovos-new-yoga-aio-7-cnet-review/"><u>Immerse Yourself in Visual Perfection: Discover the Dazzling 4K Display on Lenovo's New Yoga AIO 7 | CNET Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 13</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>In 2024, Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-green-journey-towards-a-sustainable-future-achieving-net-zero-goals-insights-from-zdnet/"><u>Lenovo's Green Journey Towards a Sustainable Future: Achieving Net-Zero Goals | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-past-insights-from-paris-olympic-data-to-reduce-future-energies-needs-a-zdnet-analysis/"><u>Leveraging Past Insights From Paris Olympic Data to Reduce Future Energies Needs - A ZDNet Analysis</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discover the Surprising Capabilities for Designers in This Compact Asus Notebook | Exclusive Features Revealed on ZDNET
-date: 2024-10-28T21:17:07.337Z
-updated: 2024-11-01T18:44:13.815Z
+date: 2024-11-05T16:02:52.532Z
+updated: 2024-11-07T16:01:19.620Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,21 +111,21 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-windows-videophone-apps-the-ultimate-7-1/"><u>[Updated] 2024 Approved Windows Videophone Apps The Ultimate #7-#1</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-amateurs-to-experts-kinemasters-step-guide/"><u>[Updated] From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-broadcasts-in-focus-scrutinizing-the-best-6-microphones-available/"><u>2024 Approved Live Broadcasts in Focus Scrutinizing the Best 6 Microphones Available</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-12-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi 12 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-applications-reshaping-the-art-of-virtual-broadcasting/"><u>In 2024, Excellent Applications Reshaping the Art of Virtual Broadcasting</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/innovative-integration-mastering-vids-in-the-facebook-realm-for-2024/"><u>Innovative Integration Mastering Vids in the Facebook Realm for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-tech-box-toms-hardware-wisdom/"><u>Inside the Tech Box: Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125178435-maximizing-bit-storage-with-3d-printed-holograms-in-common-materials-keys-addresses-up-to-576-bits-achieved/"><u>Maximizing Bit Storage with 3D-Printed Holograms in Common Materials - Keys, Addresses Up to 576 Bits Achieved</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/memorial-day-exclusive-save-big-on-the-segway-max-g2-electric-scooter-with-40-discount-shop-now-at-zdnet/"><u>Memorial Day Exclusive: Save Big on the Segway Max G2 Electric Scooter with 40% Discount - Shop Now at ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/significant-client-withdrawals-lead-asetek-to-abandon-financial-outlook-predictions/"><u>Significant Client Withdrawals Lead Asetek To Abandon Financial Outlook Predictions</u></a></li>
-<li><a href="https://discover-data.techidaily.com/techniques-efficaces-de-mise-en-sync-des-fichiers-macos-une-explication-detaillee/"><u>Techniques Efficaces De Mise en Sync Des Fichiers macOS: Une Explication Détaillée</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-computer-hardware-by-tom/"><u>The Complete Guide to Computer Hardware by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essential-resource-for-cutting-edge-tech-toms-hardware-rundown/"><u>The Essential Resource for Cutting-Edge Tech: Tom's Hardware Rundown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-truth-revealed-cooler-master-addresses-the-confusion-surrounding-cryofuze-5s-ai-feature/"><u>The Truth Revealed: Cooler Master Addresses the Confusion Surrounding CryoFuze 5'S 'AI' Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/timing-and-techniques-resetting-your-sony-ps5-device-correctly/"><u>Timing and Techniques: Resetting Your Sony PS5 Device Correctly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-enhanced-cooling-with-cooler-master-surpass-the-300w-barrier-using-their-advanced-aio-and-air-solutions/"><u>Unleash Enhanced Cooling with Cooler Master: Surpass the 300W Barrier Using Their Advanced AIO and Air Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-clearing-photos-expert-background-takedown-in-photopea-for-2024/"><u>[New] Clearing Photos Expert Background Takedown in Photopea for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-malfunction-here-are-5-reliable-fixes/"><u>Audacity Sound Device Malfunction? Here Are 5 Reliable Fixes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-web-analytics-discover-what-cookiebot-has-to-offer/"><u>Elevate Web Analytics: Discover What Cookiebot Has to Offer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-amd-radeon-rx-590-linux-mac/"><u>Get Your AMD Radeon RX 지킬 | 590를 Linux로, Mac로 실제 설치하기</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-innovative-tools-for-high-definition-gaming-logging-beyond-fbx/"><u>In 2024, Innovative Tools for High-Definition Gaming Logging Beyond FBX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneers-in-the-realm-of-vr-viewing/"><u>In 2024, Pioneers in the Realm of VR Viewing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-unveils-budget-friendly-mini-led-set-that-outshines-samsungs-galaxy-series-labor-day-special-with-a-huge-300-discount-zdnet/"><u>LG Unveils Budget-Friendly Mini LED Set that Outshines Samsung's Galaxy Series - Labor Day Special with a Huge $300 Discount! [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/oled-flagships-face-off-lg-g4-vs-samsung-s95d-top-pick-for-your-ultimate-viewing-experience-zdnet-guide/"><u>OLED Flagships Face-Off: LG G4 Vs. Samsung S95D - Top Pick for Your Ultimate Viewing Experience | ZDNET Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-revolutionary-8k-tv-a-window-into-future-viewing-experiences-screentech-today/"><u>Samsung Unveils Revolutionary 8K TV - A Window Into Future Viewing Experiences | ScreenTech Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/state-governments-implement-federal-policies-with-adjustments-for-local-needs/"><u>State Governments Implement Federal Policies with Adjustments for Local Needs.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-top-10-strategies-for-using-chatgpt-to-secure-your-next-job-on-linkedin/"><u>The Top 10 Strategies for Using ChatGPT to Secure Your Next Job on LinkedIn</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-55-inch-televisions-expert-picks-from-zdnet/"><u>Top 5 Premium 55-Inch Televisions : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-40-televisions-industry-experts-choices-featured-on-zdnet/"><u>Top Picks for 40 Televisions : Industry Experts' Choices Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-ultimate-gaming-displays-insights-from-zdnet/"><u>Top Picks for Ultimate Gaming Displays - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
 </ul></div>
 

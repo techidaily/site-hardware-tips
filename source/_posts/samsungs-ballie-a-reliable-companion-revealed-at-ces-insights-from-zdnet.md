@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Ballie: A Reliable Companion Revealed at CES - Insights From ZDNet"
-date: 2024-09-18 22:59:21
-updated: 2024-09-20 10:45:38
+date: 2024-11-06T16:05:25.543Z
+updated: 2024-11-07T16:00:19.774Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-the-art-of-capturing-sims-4-essential-techniques-unveiled/"><u>[Updated] In 2024, Mastering the Art of Capturing Sims 4 – Essential Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-govee-intelligent-illumination-syncing-room-lighting-with-screen-hues-using-artificial-intelligence-zdnet/"><u>1. Govee Intelligent Illumination: Syncing Room Lighting with Screen Hues Using Artificial Intelligence | ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syma-x8c-tech-specifications-study/"><u>2024 Approved Syma X8C Tech Specifications Study</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>2024 Approved Unraveling Virtual-Physical Coexistence What Is Mixed Reality?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/control-your-philips-hue-lights-with-your-samsung-tv-enjoy-smart-home-automation-for-just-3month-see-how-on-zdnet/"><u>Control Your Philips Hue Lights With Your Samsung TV: Enjoy Smart Home Automation for Just $3/Month - See How on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-tiktok-content-with-our-choice-of-best-ring-lights-on-the-market-digital-trends/"><u>Elevate Your TikTok Content with Our Choice of Best Ring Lights on the Market | Digital Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-secure-your-blink-outdoor-surveillance-system-w-floodlights-for-80-before-labor-day-find-it-on-zdnet/"><u>Exclusive Deal Alert: Secure Your Blink Outdoor Surveillance System W/ Floodlights for $80 Before Labor Day | Find It on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-rings-floodlight-cam-slashed-to-just-139-save-now-with-zdnet/"><u>Exclusive Offer Alert: Ring's Floodlight Cam Slashed to Just $139 - Save Now with ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-updates-in-matter-13-comprehensive-support-for-new-devices-zdnet-insights/"><u>Explore The Latest Updates in Matter 1.3 - Comprehensive Support for New Devices | ZDNet Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-slide-show-tools-for-iphone-series-10-13-upgrades-for-2024/"><u>Ideal Slide Show Tools For iPhone Series 10-13 Upgrades for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-infinix-smart-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Infinix Smart 8 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-pc-sound-selector/"><u>In 2024, Premium PC Sound Selector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-nanoleafs-revolutionary-eco-friendly-festive-lights-with-matter-certification-see-them-on-zdnet/"><u>Introducing Nanoleaf's Revolutionary Eco-Friendly Festive Lights with Matter Certification - See Them on ZDNET!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leveraging-vlc-media-player-for-remote-streaming-for-2024/"><u>Leveraging VLC Media Player for Remote Streaming for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-taking-and-saving-screens-on-a-lenovo-device/"><u>The Ultimate Guide to Taking and Saving Screens on a Lenovo Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/time-management-using-timestamps-to-amplify-views-on-youtube/"><u>Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-led-strip-lights-latest-reviews-and-comparisons-zdnet/"><u>Top-Rated LED Strip Lights : Latest Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-philips-hue-products-of-202/"><u>Ultimate Guide to the Best Philips Hue Products of 202</u></a></li>
+</ul></div>
+

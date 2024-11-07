@@ -1,7 +1,7 @@
 ---
 title: "Introducing HP's Latest Innovation: AI-Enhanced Spectre Series Unveiled at CES, Complemented by Dazzling Accessories"
-date: 2024-10-31T20:54:15.297Z
-updated: 2024-11-01T16:27:24.385Z
+date: 2024-10-31T16:06:25.883Z
+updated: 2024-11-07T16:08:29.861Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,21 +123,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-of-the-best-10-timeless-family-vacation-films/"><u>[New] 2024 Approved Best of the Best 10 Timeless Family Vacation Films</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premiere-10-optics-enhancing-visuals/"><u>[New] 2024 Approved Premiere 10 Optics Enhancing Visuals</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-earning-in-the-e-commerce-arena-via-engaging-reviews-for-2024/"><u>[New] Earning in the E-Commerce Arena via Engaging Reviews for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-light-to-shadow-premiere-pro-transitions/"><u>2024 Approved From Light to Shadow Premiere Pro Transitions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-vegaspro-2019-edition-highlights/"><u>Exploring VegasPro 2019 Edition Highlights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extended-warranty-insights-intel-unveils-coverage-for-core-i5-i7-and-i9-processors-in-13th-and-14th-generation-chipsets/"><u>Extended Warranty Insights: Intel Unveils Coverage for Core I5, I7, and I9 Processors in 13Th & 14Th Generation Chipsets</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-complet-proteger-votre-configuration-raid-0-en-4-facilement-et-sans-cout/"><u>Guide Complet: Protéger Votre Configuration RAID 0 en 4 Facilement Et Sans Coût</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-der8auer-admitted-his-mistake-with-inefficient-grizzly-heatsink-units/"><u>How Der8auer Admitted His Mistake with Inefficient Grizzly Heatsink Units</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-decoding-firefox-picture-in-picture-a-comprehensive-guide/"><u>In 2024, Decoding Firefox Picture-in-Picture A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-rundown-your-source-for-computer-components/"><u>Inside Tom's Gadget Rundown: Your Source for Computer Components</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/simple-methods-to-transform-your-product-images-background-into-perfect-white-no-photoshop-required/"><u>Simple Methods to Transform Your Product Images' Background Into Perfect White - No Photoshop Required!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-hub-for-electronics-by-toms-hardware-team/"><u>The Ultimate Review Hub for Electronics by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-world-the-ultimate-hardware-hub/"><u>Tom's Computing World: The Ultimate Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computers-and-peripherals-with-toms-analysis/"><u>Unveiling the Latest in Computers & Peripherals with Tom's Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-performers-a-deep-dive-into-toms-hardware-selection/"><u>Unveiling Top Performers - A Deep Dive Into Tom's Hardware Selection</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a70-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-roundup-best-hdmi-21-tvs-compared-directly/"><u>[New] Exclusive Roundup Best HDMI 2.1 TVs Compared Directly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-minisculerecordings-snapshot-scrutiny/"><u>[New] In 2024, MinisculeRecordings Snapshot Scrutiny</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-your-inner-videographer-with-these-4-methods-on-xbox-for-2024/"><u>[New] Unleash Your Inner Videographer with These 4 Methods on Xbox for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>[Updated] 2024 Approved Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/augmented-reality-gaming-just-got-better-purchase-a-laptop-with-an-integrated-100/"><u>Augmented Reality Gaming Just Got Better: Purchase a Laptop With an Integrated 100</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-better-computer-how-dells-revolutionary-concept-luna-is-changing-the-game-for-tech-enthusiasts/"><u>Building a Better Computer: How Dell's Revolutionary Concept Luna Is Changing the Game for Tech Enthusiasts!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-look-at-microsofts-cutting-edge-ai-processor-the-future-of-computing-that-surpasses-apples-latest-discovered-by-zdnet/"><u>Exclusive Look at Microsoft’s Cutting-Edge AI Processor: The Future of Computing That Surpasses Apple's Latest | Discovered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-asus-vivobook-pro-now-with-a-300-discount-exclusive-deal-on-amazonzdnet-review/"><u>Get the ASUS VivoBook Pro Now with a $300 Discount - Exclusive Deal on Amazon![ZDNet Review]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-htc-u23-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from HTC U23 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-the-asus-vivobook-pro-now-just-300-cheaper-in-exclusive-amazon-deal-zdnet-insider/"><u>Huge Savings on the Asus VivoBook Pro: Now Just $300 Cheaper in Exclusive Amazon Deal - ZDNet Insider</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-era-of-dual-screen-laptops-upon-us-with-lenovos-yoga-book-9i-innovation-insights-from-tech-experts-zdnet/"><u>Is the Era of Dual-Screen Laptops Upon Us with Lenovo's Yoga Book 9I Innovation? Insights From Tech Experts - ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-e-conference-headline-generator-for-2024/"><u>Leading E-Conference Headline Generator for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-flex-3-on-black-friday-sale-for-just-99-the-ultimate-budget-friendly-chromebook-offer-before-cyber-monday/"><u>Lenovo Flex 3 on Black Friday Sale for Just $99 - The Ultimate Budget-Friendly Chromebook Offer Before Cyber Monday!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/night-avenger-black-vs-day-defender-silver/"><u>Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/retro-revived-an-in-depth-look-at-the-newly-refreshed-demons-souls-gameplay-and-aesthetics/"><u>Retro Revived! An In-Depth Look at the Newly Refreshed Demon's Souls Gameplay and Aesthetics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-review-showcase-exploring-the-genius-of-a-convertible-lenovo-laptop-tablet-combo-zdnet-insights/"><u>Tech Review Showcase: Exploring the Genius of a Convertible Lenovo Laptop-Tablet Combo | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-companion-for-remote-professionals-a-review-of-the-most-portable-laptops-tested/"><u>The Perfect Companion for Remote Professionals: A Review of the Most Portable Laptops Tested</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mavericks-os-x-the-best-way-to-edit-mp4-videos-for-2024/"><u>Updated Mavericks OS X The Best Way to Edit MP4 Videos for 2024</u></a></li>
 </ul></div>
 

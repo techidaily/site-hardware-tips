@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Book 3 Ultra Unveiled: Why It's a Game Changer for Samsung Loyalists | Comprehensive Review on ZDNET"
-date: 2024-10-31T21:19:17.377Z
-updated: 2024-11-01T18:54:23.528Z
+date: 2024-10-31T16:11:57.945Z
+updated: 2024-11-07T16:03:15.466Z
 tags:
   - laptops
 categories:
@@ -63,13 +63,6 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Textbook design, period.
 
 The design of the Galaxy Book 3 Ultra doesn't move the needle; hide the Samsung logo on the cover and it can easily pass as just another large-screen laptop that's stacked up during Black Friday. Fortunately, the sturdy aluminum build of the Galaxy Book feels much more premium than that of a discount laptop, and thanks to subtle wedges and seamless curves throughout the chassis, the 16-inch size gives off a better impression of portability than a MacBook Pro of similar size. If I had to lug around a laptop throughout a workday, I'd pick the Samsung without hesitation.
@@ -113,10 +106,10 @@ June Wan/ZDNET
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
@@ -146,16 +139,10 @@ By the numbers, the Galaxy Book 3 Ultra is neck and neck with Apple's older [M1 
 While your Twitter feed isn't going to load any faster because one laptop scored higher than the other, we're looking at seconds (or even minutes) of faster speeds when it comes to graphics-intensive applications like exporting 4K videos and loading AAA games.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An ecosystem of its own
@@ -175,16 +162,16 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Should I buy one?
@@ -192,6 +179,13 @@ Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/lin
 For content creators and professional users, especially if you already own a [Samsung smartphone](https://www.zdnet.com/article/best-samsung-phone/) or tablet, I could see the Ultra laptop being worth the splurge. It's also one of the few non-gaming laptops that I'd genuinely recommend for those who play.
 
 But at a starting price of $2,200, there are plenty of other, more affordable yet just as powerful laptops that you should be considering, including the [last-gen MacBook Pro (M1 Pro)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1). I'd also look elsewhere if you rely heavily on an SD card for file transferring. In my case, I'm always taking pictures and videos with a mirrorless camera, and being able to move my files locally, with no fear of wonky wireless connections getting in the way, is a must.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -239,16 +233,15 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-feast-filming-101-essential-food-videography-skills/"><u>[New] Feast Filming 101 Essential Food Videography Skills</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-complete-checklist-for-recording-fb-chats-and-meets/"><u>[Updated] 2024 Approved The Complete Checklist for Recording FB Chats and Meets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-innovative-video-editing-strategies-with-gopro-studio/"><u>In 2024, Innovative Video Editing Strategies with GoPro Studio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maxsun-reveals-intel-arrow-lake-and-amd-ryzen-9000-board-range-31-models-over-5-new-chipsets-featuring-800-series-designation/"><u>Maxsun Reveals Intel Arrow Lake & AMD Ryzen 9000 Board Range: 31 Models Over 5 New Chipsets Featuring 800 Series Designation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/narrative-nooks-the-leading-10-rogues-for-2024/"><u>Narrative Nooks The Leading 10 Rogues for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-complexities-of-computers-with-insights-from-toms-hardware/"><u>Navigating the Complexities of Computers with Insights From Tom’s Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-computer-specs-with-toms-hardware-compendium/"><u>Navigating Through Computer Specs with Tom’s Hardware Compendium</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-pc-enthusiasts-meet-the-game-changing-amd-ryzen-9000-boards-from-asrock/"><u>Next-Gen PC Enthusiasts, Meet the Game-Changing AMD Ryzen 9000 Boards From ASRock</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-streaming-on-youtube-with-an-introductory-obs-course/"><u>Start Streaming on Youtube with an Introductory OBS Course</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tech-enthusiasts-manual-mastering-macoss-capture-tool-for-2024/"><u>Tech Enthusiasts' Manual Mastering macOS's Capture Tool for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-momentum-in-life-coaching-video-series/"><u>[New] In 2024, Creating Momentum in Life Coaching Video Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-blowout-sale-huge-discount-of-up-to-920-on-razer-blade-similar-problem/"><u>Cyber Monday Blowout Sale: Huge Discount of Up to $920 on Razer Blade # Similar Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-ai-enhancements-tech-news-on-zdnet/"><u>Discover the Latest AI Enhancements | Tech News on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-latest-deal-from-microsoft-cheaper-surface-go-at-250-off-and-exclusive-lifetime-offer-on-xbox-series-s-zdnet/"><u>Get the Latest Deal From Microsoft: Cheaper Surface Go at $250 Off & Exclusive Lifetime Offer on Xbox Series S - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/handheld-marvel-how-the-affordable-8-in-1-adapter-surpasses-expectations-in-size-and-capability/"><u>Handheld Marvel: How the Affordable 8-in-1 Adapter Surpasses Expectations in Size and Capability</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-sony-xperia-1-v-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Sony Xperia 1 V to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-canons-spectral-conversion-paid-and-gratis-lut-tools/"><u>In 2024, Canon's Spectral Conversion Paid & Gratis LUT Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/samsung-ssds-duplikation-auf-eine-neue-solid-state-festplatte-mit-windows-eine-anleitung-zu-zwei-verschiedenen-ansatzen/"><u>Samsung SSDs Duplikation Auf Eine Neue Solid-State-Festplatte Mit Windows – Eine Anleitung Zu Zwei Verschiedenen Ansätzen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-instagrams-random-video-playback/"><u>Understanding Instagram's Random Video Playback</u></a></li>
 </ul></div>
 

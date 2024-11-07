@@ -1,7 +1,7 @@
 ---
 title: AI Boost for Apple MacBooks and Desktops on the Horizon with New M4 Chips; Release Timeline Uncovered | Tech News Digest
-date: 2024-10-30T19:07:42.741Z
-updated: 2024-11-01T17:49:02.299Z
+date: 2024-11-04T16:06:25.505Z
+updated: 2024-11-07T16:04:38.341Z
 tags:
   - laptops
 categories:
@@ -25,10 +25,10 @@ HP's messaging around its 2023 CES device portfolio is all about meeting the nee
 **Also:** [**CES 2023 tech you can actually buy now**](https://www.zdnet.com/article/ces-2023-tech-you-can-buy/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  HP Dragonfly Pro series
@@ -79,10 +79,10 @@ The AMD Ryzen7 7736u-based Dragonfly Pro is the first PC to feature the most adv
 The Intel Core i5-1235U-based Dragonfly Pro Chromebook has an ultra-bright 1200 nits touch screen, an 8MP webcam, a customisable gaming-style RGB keyboard, and four USB-C Thunderbolt 4 ports. The Dragonfly Pro Chromebook offers "all-day battery life" from its 51.3Wh battery. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HP Dragonfly G4, EliteBook 1040 G10, Elite x360 1040 G10
@@ -106,10 +106,10 @@ In the UK, the EliteBook 1040 G10 will be available in May from £1,349, while t
 Both the Dragonfly G4 and Elite 1000 series G10 laptops benefit from HP's Power Manager dashboard, where you can access battery information and customize settings and charging options. The Dragonfly G4 also includes an OLED power-saving mode. Another new feature, Intelligent Hibernate, learns your usage pattern and automatically goes into hibernation mode to conserve battery life when your day is done.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HP also announced...
@@ -200,18 +200,18 @@ The OMEN 40L and 45L Desktops feature up to a 13th-generation Intel Core i9-1390
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-framed-in-perfection-the-1-10-camera-lens-list-for-stunning-photography/"><u>[New] Framed in Perfection The #1-10 Camera Lens List for Stunning Photography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-srt-output-from-adobe-premiere/"><u>[New] Mastering SRT Output From Adobe Premiere</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-reaping-rewards-a-comprehensive-guide-to-7-14-stardew-mods-for-2024/"><u>[Updated] Reaping Rewards A Comprehensive Guide to #7-14 Stardew Mods for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>2024 Approved Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-the-virtues-of-360-degree-video/"><u>Discovering the Virtues of 360-Degree Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/engaging-your-audience-the-art-of-interacting-with-subscribers/"><u>Engaging Your Audience The Art of Interacting with Subscribers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-with-toms-technology-digest/"><u>Pioneering Hardware Reviews with Tom's Technology Digest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125242580-professional-gamers-and-productivity-seekers-discover-the-5-finest-portable-monitors/"><u>Professional Gamers and Productivity Seekers, Discover the 5 Finest Portable Monitors !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solucion-para-instalar-controladores-directamente-desde-un-usb-al-usar-el-sistema-operativo-windows-sin-acceso-a-la-red/"><u>Solución Para Instalar Controladores Directamente Desde Un USB Al Usar El Sistema Operativo Windows Sin Acceso a La Red</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-toms-hardware-innovations/"><u>The Ultimate Guide to Tom's Hardware Innovations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-best-value-gaming-monitors-for-2cu24-from-economical-choices-to-elite-curved-panels-and-synchronized-graphics/"><u>The Ultimate List of Best Value Gaming Monitors for 2Cu24: From Economical Choices to Elite Curved Panels and Synchronized Graphics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-innovations-with-tom-a-comprehensive-hardware-review/"><u>Unveiling the Latest Innovations with Tom - A Comprehensive Hardware Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-for-social-media-savvy-content-sharers/"><u>[New] In 2024, Guide for Social Media Savvy Content Sharers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-splitcam-review-for-2024/"><u>[New] SplitCam Review for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exploring-top-videography-apps-for-enhanced-win11-experience-for-2024/"><u>[Updated] Exploring Top Videography Apps for Enhanced Win11 Experience for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vidfx-tricks-top-10-text-transformations/"><u>[Updated] In 2024, VidFX Tricks Top 10 Text Transformations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-ultimate-guide-to-choosing-the-right-roku-stick-and-smart-televisions-expert-insights-from-zdnet/"><u>2023'S Ultimate Guide to Choosing the Right Roku Stick and Smart Televisions – Expert Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-tech-viewing-hisense-vs-samsung-in-the-smart-tv-arena/"><u>Affordable High-Tech Viewing: Hisense Vs. Samsung in the Smart TV Arena</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alert-roku-users-beware-as-576k-accounts-hit-by-cyber-attack-safeguard-your-entertainment-hub-zdnet/"><u>Alert: Roku Users Beware as 576K Accounts Hit by Cyber Attack - Safeguard Your Entertainment Hub | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-deal-grab-the-incredible-65-screen-size-4k-resolution-on-a-budget-with-this-insignia-smart-fire-tv-only-300-for-independence-day-sale/"><u>Amazing Deal: Grab the Incredible 65 Screen Size, 4K Resolution on a Budget with This Insignia Smart Fire TV - Only $300 for Independence Day Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-discounts-galore-your-ultimate-guide-to-the-best-amazon-echo-deals-for-prime-day-shoppers-historical-snapshot-zdnet-insights/"><u>Amazing Discounts Galore: Your Ultimate Guide to the Best Amazon Echo Deals for Prime Day Shoppers (Historical Snapshot) | ZDNet Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-tips-keeping-your-snapchat-images-intact-post-snap/"><u>In 2024, Essential Tips Keeping Your Snapchat Images Intact Post-Snap</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-edge-40-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Edge 40 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-multi-gpu-configurations-a-step-by-step-tutorial-on-nvidia-sli-setup/"><u>Mastering Multi-GPU Configurations: A Step-by-Step Tutorial on Nvidia SLI Setup</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-tutorial-seamlessly-integrating-an-additional-ssd-or-hdd-into-your-windows-11-system/"><u>Ultimate Tutorial: Seamlessly Integrating an Additional SSD or HDD Into Your Windows 11 System</u></a></li>
 </ul></div>
 

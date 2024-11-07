@@ -1,7 +1,7 @@
 ---
 title: "The All-Rounder Cleanser Evaluation: Discover the Exceptional Capabilities of Roborock's 2-in-1 Vacuum on ZDNET"
-date: 2024-09-19 14:27:32
-updated: 2024-09-20 12:17:33
+date: 2024-11-02T16:01:07.060Z
+updated: 2024-11-07T16:00:55.837Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>[Updated] 2024 Approved Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-camera-roll-for-nostalgic-snaps-via-snapchat/"><u>[Updated] Leveraging Camera Roll for Nostalgic Snaps via Snapchat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/4-floodlight-camera-for-your-shadowed-space/"><u>4 Floodlight Camera for Your Shadowed Space</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/4-floodlight-camera-transformed-my-dark-yard-zdnet/"><u>4 Floodlight Camera Transformed My Dark Yard | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-5-smart-plug-products-for-a-smarter-home-cnet/"><u>Discover the Leading 5 Smart Plug Products for a Smarter Home | CNET</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-guide-transform-videos-for-your-galaxy-series-s10-s9-etc/"><u>Effortless Conversion Guide: Transform Videos for Your Galaxy Series (S10, S9, Etc.)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-new-macbook-pro-model-m3-release-date-insights-price-points-and-tech-specs-unveiled/"><u>Exploring the New MacBook Pro Model M3: Release Date Insights, Price Points & Tech Specs Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>In 2024, Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oneplus-12r-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a OnePlus 12R Phone that is Locked?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-solutions-for-the-crashy-windows-11-photos-app-for-2024/"><u>Quick Solutions for the Crashy Windows 11 Photos App for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-12-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme 12 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-solutions-optimized-for-video-streaming-proven-techniques-by-experts-featured-on-zdnet/"><u>Top Lighting Solutions Optimized for Video Streaming - Proven Techniques by Experts, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-book-lighting-solutions-for-enhanced-reading-insights-by-zdnet/"><u>Top Recommended Book Lighting Solutions for Enhanced Reading - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-deals-enhance-your-gaming-setup-with-govee-light-strip-bundle-at-100-off-zdnet/"><u>Unlock Exclusive Deals: Enhance Your Gaming Setup with Govee Light Strip Bundle at $100 Off | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-era-of-interactive-entertainment-govee-releases-upgraded-ai-gaming-hub-and-eye-catching-neon-lights-read-more-at-zdnet/"><u>Unveiling New Era of Interactive Entertainment: Govee Releases Upgraded AI Gaming Hub and Eye-Catching Neon Lights – Read More at ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/value-hunting-affordable-vr-gear-from-china-for-2024/"><u>Value Hunting Affordable VR Gear From China for 2024</u></a></li>
+</ul></div>
+

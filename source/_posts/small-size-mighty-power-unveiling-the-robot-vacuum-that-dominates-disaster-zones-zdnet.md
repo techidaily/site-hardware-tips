@@ -1,7 +1,7 @@
 ---
 title: "Small Size, Mighty Power: Unveiling the Robot Vacuum That Dominates Disaster Zones | ZDNET"
-date: 2024-09-19 22:34:50
-updated: 2024-09-20 11:58:27
+date: 2024-11-06T16:06:06.986Z
+updated: 2024-11-07T16:04:43.744Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-complete-morphvox-audio-transformation-blueprint/"><u>[New] Complete MorphVOX Audio Transformation Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-video-to-music-selecting-the-cheapest-online-converters-for-2024/"><u>[New] From Video to Music Selecting the Cheapest Online Converters for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>2024 Approved Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/customize-your-apple-watchs-look-easy-face-swap-techniques-featured-on-zdnet/"><u>Customize Your Apple Watch's Look: Easy Face Swap Techniques Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-powerful-feature-mastering-the-apple-watch-ultras-action-button-in-depth-tutorial-by-zdnet/"><u>Discover the Most Powerful Feature: Mastering the Apple Watch Ultra's Action Button - In-Depth Tutorial by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-test-of-the-amazfit-gtr-4-with-revolutionary-gps-at-just-199-spotlight-on-tech/"><u>Exclusive Test of the Amazfit GTR 4 with Revolutionary GPS at Just $199 - Spotlight on Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-new-horizons-in-apples-ecosystem-with-the-release-of-ios-171-macos-141-and-watchos-101-comprehensive-review-gadgetpundit/"><u>Explore New Horizons in Apple's Ecosystem with the Release of iOS 17.1, MacOS 14.1, and WatchOS 10.1 - Comprehensive Review | GadgetPundit</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-a-disabled-app-in-windows/"><u>How to Unblock a Disabled App in Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-direct-methods-for-documenting-virtual-meetings/"><u>In 2024, Direct Methods for Documenting Virtual Meetings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-money-from-youtube-shorts-tactics-and-tricks/"><u>In 2024, Maximize Money From YouTube Shorts Tactics & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/life-saver-alert-how-the-latest-apple-watch-series-n-detects-and-monitors-sleep-apnea-risks-exclusive-insights-from-zdnet/"><u>Life-Saver Alert: How the Latest Apple Watch Series N Detects and Monitors Sleep Apnea Risks | Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-21-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu 21 Pro Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-memorial-day-blowout-snap-up-the-discounted-apple-watch-se-my-favorite-purchase-of-the-year-featured-by-zdnet/"><u>Unbeatable Memorial Day Blowout: Snap Up the Discounted Apple Watch SE, My Favorite Purchase of the Year Featured by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-full-potential-of-your-apple-watch-with-this-simple-trick-enabling-and-using-the-convenient-double-tap-feature-explained/"><u>Unlock the Full Potential of Your Apple Watch with This Simple Trick: Enabling and Using the Convenient Double-Tap Feature Explained</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-free-video-orientation-changers-for-windows-and-mac/"><u>Updated In 2024, Top 10 Free Video Orientation Changers for Windows and Mac</u></a></li>
+</ul></div>
+

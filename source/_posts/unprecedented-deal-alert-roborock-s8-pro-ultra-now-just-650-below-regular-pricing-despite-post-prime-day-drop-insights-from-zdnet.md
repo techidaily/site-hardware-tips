@@ -1,7 +1,7 @@
 ---
 title: "Unprecedented Deal Alert: Roborock S8 Pro Ultra Now Just $650 Below Regular Pricing, Despite Post-Prime Day Drop - Insights From ZDNet"
-date: 2024-09-18 11:54:49
-updated: 2024-09-20 10:52:26
+date: 2024-11-03T16:06:23.568Z
+updated: 2024-11-07T16:05:16.292Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-from-behind-the-scenes-creating-10-facebook-videos/"><u>[New] 2024 Approved From Behind the Scenes Creating #10 Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-recording-secrets-for-top-notch-audio/"><u>[New] Mastering Recording Secrets for Top-Notch Audio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>[Updated] 2024 Approved The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-the-best-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>2024 Approved The Best Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eufy-unveils-innovative-x1/"><u>Eufy Unveils Innovative X1</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-assessed-ultimate-guide-to-202er-robot-mops-features-comparisons-and-picks-zdnet/"><u>Expertly Assessed Ultimate Guide to 202Er Robot Mops: Features, Comparisons & Picks | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-potential-bard-vs-bing-showdown/"><u>Exploring AI Potential: Bard Vs. Bing Showdown</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c110-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C110?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-online-identity-through-yt-profile-refinement-for-2024/"><u>Optimizing Online Identity Through YT Profile Refinement for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/superhuman-strength-achieved-with-iron-man-inspired-exosuits-the-future-of-enhanced-mobility-unveiled-zdnet/"><u>Superhuman Strength Achieved with Iron Man-Inspired Exosuits: The Future of Enhanced Mobility Unveiled | ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-cut-strategy-for-image-border-management-on-canva-for-2024/"><u>The Clear-Cut Strategy for Image Border Management on Canva for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-irobot-automatic-cleaners-comprehensive-analysis-by-tech-experts-wired/"><u>Top-Rated iRobot Automatic Cleaners : Comprehensive Analysis by Tech Experts | Wired</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-creativity-with-a-home-based-automation-hub-the-power-of-personal-production-via-robotics/"><u>Unleashing Creativity with a Home-Based Automation Hub: The Power of Personal Production via Robotics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-innovation-meets-mishap-a-high-tech-robotic-sommeliers-accidental-spill-leads-to-an-unexpected-request/"><u>When Innovation Meets Mishap: A High-Tech Robotic Sommelier's Accidental Spill Leads to an Unexpected Request</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Vision Support: How AI Bots Are Revolutionizing Mobility for the Blind, According to ZDNet"
-date: 2024-09-17 13:40:47
-updated: 2024-09-20 12:31:58
+date: 2024-11-05T16:05:34.576Z
+updated: 2024-11-07T16:02:33.662Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-ad-free-android-video-maker/"><u>[New] In 2024, Ultimate Ad-Free Android Video Maker</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-embrace-the-future-now-transforming-your-mobile-device-for-vr/"><u>[Updated] In 2024, Embrace the Future Now Transforming Your Mobile Device for VR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/constructing-my-ideal-intelligent-living-space-top-5-essential-elements-selected-from-the-startzdnet-exclusive/"><u>Constructing My Ideal Intelligent Living Space: Top 5 Essential Elements Selected From the Start![ZDNet Exclusive]</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-controversial-facebook-documents/"><u>Decoding the Controversial Facebook Documents</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dji-mavic-pro-vs-gopro-karma/"><u>DJI Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-latest-innovations-govee-unveils-advanced-ai-powered-gaming-illumination-and-vibrant-neon-lights/"><u>Introducing the Latest Innovations: Govee Unveils Advanced AI-Powered Gaming Illumination & Vibrant Neon Lights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leviton-expands-smart-home-lineup-with-innovative-first-matter-outdoor-plug-expert-analysis-by-zdnet/"><u>Leviton Expands Smart Home Lineup with Innovative First Matter Outdoor Plug – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-philips-hue-smart-lighting-now-at-56-off-exclusive-sale-on-amazon/"><u>Massive Discount Alert: Philips Hue Smart Lighting Now at 56% Off - Exclusive Sale on Amazon!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavivob3gp/"><u>Movaviで無料オンラインVOBファイルを3GPに直接変換可能！</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nanoleaf-unveils-innovative-matter-series-begin-pre-orders-for-skylight-latest-update-on-zdnet/"><u>Nanoleaf Unveils Innovative Matter Series: Begin Pre-Orders for Skylight - Latest Update on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nanoleaf-unveils-new-matter-and-skylight-series-pre-order-your-upgraded-smart-lights-today/"><u>Nanoleaf Unveils New Matter & Skylight Series - Pre-Order Your Upgraded Smart Lights Today!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/proven-techniques-step-by-step-instructions-for-successfully-casting-pc-titles-onto-xbox-one/"><u>Proven Techniques: Step-by-Step Instructions for Successfully Casting PC Titles Onto Xbox One</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/quick-and-easy-techniques-to-prevent-your-pc-from-crashing-while-playing-the-sims-3/"><u>Quick and Easy Techniques to Prevent Your PC From Crashing While Playing The Sims 3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-sunrise-simulation-alarm-clocks-reviews-by-zdnet/"><u>Top-Rated Sunrise Simulation Alarm Clocks - Reviews by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-printer-setup-the-windows-way/"><u>Understanding Printer Setup: The Windows Way</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>Unleashing Full Potential Nikon 1J5 in 4K Videography</u></a></li>
+</ul></div>
+

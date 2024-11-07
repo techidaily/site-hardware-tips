@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Smart Home Gadgets of 2024 - Comprehensive Testing & Reviews by Tech Experts | ZDNet
-date: 2024-09-18 20:53:12
-updated: 2024-09-20 11:10:28
+date: 2024-10-31T16:03:23.482Z
+updated: 2024-11-07T16:01:52.854Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-5-best-voice-recorders-for-mac-devices/"><u>[New] 5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-efficiently-uploading-youtube-vids-to-insta-profile/"><u>2024 Approved Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alienware-aurora-r9-powerhouse-an-in-depth-review-of-the-latest-fusion-in-futuristic-gaming-pcs/"><u>Alienware Aurora R9 Powerhouse: An In-Depth Review of the Latest Fusion in Futuristic Gaming PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-impressive-chatgpt-plugins-the-top-9-picks-to-enhance-your-experience/"><u>Discover Impressive ChatGPT Plugins: The Top 9 Picks to Enhance Your Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-device-rugged-accessories-for-apple-watch-and-samsung-galaxy-z-fold-top-picks-by-gadgetflow/"><u>Enhance Your Device: Rugged Accessories for Apple Watch and Samsung Galaxy Z Fold - Top Picks by GadgetFlow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fitbit-sense-2-vs-versa-4-review-a-months-insight-into-well-being-features-and-navigational-limitations-zdnet/"><u>Fitbit Sense 2 vs Versa 4 Review: A Month's Insight Into Well-Being Features and Navigational Limitations | ZDNET</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-connect-a-usb-drive-to-virtual-machines-tips-for-vmware-and-hyper-v/"><u>How to Connect a USB Drive to Virtual Machines: Tips for VMWare and Hyper-V</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-v30t-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme V30T online without jailbreak</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x90s-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo X90S Phone Without Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pixel-watch-maintenance-seamless-update-installation-tutorial-for-longer-battery-life-and-enhanced-features-gadgetflow/"><u>Mastering Pixel Watch Maintenance: Seamless Update Installation Tutorial for Longer Battery Life & Enhanced Features | GadgetFlow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-vs-galaxy-choosing-the-top-android-smartwatch-pixel-watch-3-and-galaxy-watch-5-a-comprehensive-zdnet-review/"><u>Pixel Vs. Galaxy: Choosing the Top Android Smartwatch (Pixel Watch 3 and Galaxy Watch 5) - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/setting-new-targets-tips-for-adjusting-your-apple-watch-exercise-objectives-insights-from-zdnet/"><u>Setting New Targets: Tips for Adjusting Your Apple Watch Exercise Objectives - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-a-closer-look-at-the-huawei-watch-gt-runners-athletic-performance-features-spotlight-from-zdnet/"><u>Taking a Closer Look at the Huawei Watch GT Runner's Athletic Performance Features | Spotlight From ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y78t? | Dr.fone</u></a></li>
+</ul></div>
+

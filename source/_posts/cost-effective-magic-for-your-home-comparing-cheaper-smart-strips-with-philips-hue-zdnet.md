@@ -1,7 +1,7 @@
 ---
 title: "Cost-Effective Magic for Your Home: Comparing Cheaper Smart Strips with Philips Hue | ZDNET"
-date: 2024-09-18 10:44:28
-updated: 2024-09-20 11:15:37
+date: 2024-10-31T16:03:47.937Z
+updated: 2024-11-07T16:04:18.606Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,31 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-techniques-in-game-recording-via-obs/"><u>[New] Expert Techniques in Game Recording via OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] In 2024, Audio Enhancement Strategies Using Premiere Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>[Updated] Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-still-update-your-pc-with-windows-11-if-its-not-fully-supported-by-microsoft/"><u>Can You Still Update Your PC with Windows 11 If It's Not Fully Supported by Microsoft?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-ultimate-laptop-showdown-how-razer-acer-and-msi-stack-up-against-each-other-in-depth-review-on-zdnet/"><u>Gamer's Ultimate Laptop Showdown: How Razer, Acer & MSI Stack Up Against Each Other | In-Depth Review on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y100i-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo Y100i.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimizing-video-saving-a-guide-to-pc-mac-and-mobile-devices/"><u>Optimizing Video Saving A Guide to PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-fixes-to-boost-performance-on-aging-windows-11-and-mac-devices-tips-from-zdnet/"><u>Quick Fixes to Boost Performance on Aging Windows 11 & Mac Devices – Tips From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/radiant-realms-creating-exceptional-hdr-with-photoshop/"><u>Radiant Realms Creating Exceptional HDR with Photoshop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/revamping-video-meeting-banners-for-teammates/"><u>Revamping Video Meeting Banners for Teammates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-exclusive-deal-purchase-an-rtx-3070-now-for-a-whopping-220-off-at-zdnets-recommended-retailer/"><u>Secure Your Exclusive Deal: Purchase an RTX 3070 Now for a Whopping $220 Off at ZDNet's Recommended Retailer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-spending-score-huge-tech-bargains-at-walmart-exclusive-deals-revealed-by-zdnet/"><u>Slash Your Spending: Score Huge Tech Bargains at Walmart - Exclusive Deals Revealed by ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-to-add-music-to-whatsapp-status/"><u>Tips to Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-usb-hub-reviews-a-comprehensive-guide-by-zdnet/"><u>Top 5 USB Hub Reviews : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-intel-chip-vulnerability-affected-devices-breakdown-patching-steps-and-crucial-info-explained-on-zdnet/"><u>Understanding the Intel Chip Vulnerability: Affected Devices Breakdown, Patching Steps, and Crucial Info Explained on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-these-4-popular-apple-gadgets-may-not-be-worth-your-money-according-to-zdnet/"><u>Why These 4 Popular Apple Gadgets May Not Be Worth Your Money, According to ZDNet</u></a></li>
+</ul></div>
+

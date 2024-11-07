@@ -1,7 +1,7 @@
 ---
 title: Coming Soon! An Exclusive Certification Ensuring the Protection of Smart Home Technologies
-date: 2024-09-17 14:53:36
-updated: 2024-09-20 11:55:13
+date: 2024-11-06T16:03:15.432Z
+updated: 2024-11-07T16:05:12.819Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,31 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-6-effective-ways-of-resizing-your-igtv-videos/"><u>[New] 6 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-prime-cutting-edge-cameras-for-sports-and-adventure/"><u>[New] In 2024, Prime Cutting-Edge Cameras for Sports & Adventure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-look-at-cybercam-capturer-for-2024/"><u>[Updated] In-Depth Look at CyberCam Capturer for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-successful-instagram-story-surveys-for-2024/"><u>[Updated] Step-by-Step Guide to Successful Instagram Story Surveys for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-smart-youtubers-playbook-fixing-short-snafus-for-2024/"><u>[Updated] The Smart Youtuber's Playbook Fixing Short Snafus for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-selection-of-intelligent-household-appliances-professional-evaluations-and-insights-zdnet/"><u>2024'S Ultimate Selection of Intelligent Household Appliances: Professional Evaluations & Insights | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/autonomous-cleaning-innovation-dreame-l40-ultra-robot-vacuum-lasts-up-to-3-months-independently/"><u>Autonomous Cleaning Innovation: Dreame L40 Ultra Robot Vacuum Lasts Up To 3 Months Independently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-feature-promises-game-changing-impact-for-autonomous-home-cleaners-exploring-advances-in-robot-vacuums-and-mops-zdnet-analysis/"><u>Breakthrough Feature Promises Game-Changing Impact for Autonomous Home Cleaners | Exploring Advances in Robot Vacuums and Mops | ZDNET Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-tackle-mathematical-questions-effectively/"><u>Is It Possible for ChatGPT to Tackle Mathematical Questions Effectively?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-command-line-10-key-commands-for-efficiently-navigating-windows-os/"><u>Mastering the Command Line: 10 Key Commands for Efficiently Navigating Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-driver-installation-for-msi-bravo-15-laptop/"><u>New Driver Installation for MSI Bravo 15 Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-robotics-with-animal-models-insights-from-the-new-breed-book-a-zdnet-perspective/"><u>Revolutionizing Robotics with Animal Models: Insights From 'The New Breed' Book - A ZDNet Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-smb-with-amazon-astro-unveiling-the-advanced-protection-robot-for-businesses/"><u>Secure Your SMB with Amazon Astro: Unveiling the Advanced Protection Robot for Businesses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-cleaners-comprehensive-expert-reviews-techradar/"><u>Top-Rated Roborock Vacuum Cleaners - Comprehensive Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-vacuums-comprehensive-reviews-and-buying-guide-insights-from-industry-experts/"><u>Top-Rated Robot Vacuums: Comprehensive Reviews & Buying Guide - Insights From Industry Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mechanics-of-generative-ai-for-enhanced-search-capabilities-and-key-players/"><u>Unraveling the Mechanics of Generative AI for Enhanced Search Capabilities and Key Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-home-production-hub-harnessing-the-power-of-robotics-for-diy-innovation-insights-from-zdnet/"><u>Your Home Production Hub: Harnessing the Power of Robotics for DIY Innovation - Insights From ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Pony.ai Achieves Milestone with Landmark Robo-Taxi License Issuance in China - The Technology News
-date: 2024-09-18 14:37:55
-updated: 2024-09-20 12:38:29
+date: 2024-11-06T16:04:22.527Z
+updated: 2024-11-07T16:06:03.826Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,38 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-maximizing-facebook-favorites-perfecting-square-video-crafting/"><u>[New] 2024 Approved Maximizing Facebook Favorites Perfecting Square Video Crafting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-whatsapp-key-tricks-and-invisible-functions-for-2024/"><u>[Updated] Mastering WhatsApp Key Tricks & Invisible Functions for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1-exclusive-guide-easy-steps-to-retrieve-a-deleted-excel-file-without-spending-a-penny/"><u>1. Exclusive Guide: Easy Steps to Retrieve a Deleted Excel File Without Spending a Penny</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-google-and-samsungs-finest-the-ultimate-guide-to-selecting-an-android-watch-zdnet/"><u>Choosing Between Google and Samsung's Finest: The Ultimate Guide to Selecting an Android Watch | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-the-garmin-forerunner-955-solar-edition-top-runners-gadget-revealed-on-zdnet/"><u>Comprehensive Test of the Garmin Forerunner 지원런서 955 Solar Edition: Top Runner's Gadget Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/considering-an-apple-watch-upgrade-comparing-series-8-ultra-and-potential-benefits-of-waiting-for-series-ninth-edition-zdnet-insights/"><u>Considering an Apple Watch Upgrade? Comparing Series 8, Ultra and Potential Benefits of Waiting for Series Ninth Edition | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-apple-watch-se-steal-for-memorial-day-its-my-top-gadget-purchase-and-a-must-have/"><u>Don't Miss Out on the Apple Watch SE Steal for Memorial Day! It's My Top Gadget Purchase and a Must-Have !</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gamecast-viewers-take-for-2024/"><u>GameCast Viewer's Take for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-apple-watch-ultra-2-became-my-ideal-wearable-sidekick-save-100-during-labor-day-sale-zdnet/"><u>How the Apple Watch Ultra 2 Became My Ideal Wearable Sidekick (Save $100 During Labor Day Sale!) | ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ismvmp4/"><u>ISMV動画ファイルをMP4形式に簡単に切り替える方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-with-the-latest-99-samsung-galaxy-smartwatch-eligibility-check-and-tips-inside/"><u>Maximize Savings with the Latest $99 Samsung Galaxy Smartwatch - Eligibility Check and Tips Inside!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photo-extraction-techniques-for-windows-11-videos-for-2024/"><u>Photo Extraction Techniques for Windows 11 Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/practical-methods-for-instagram-story-capture-for-2024/"><u>Practical Methods for Instagram Story Capture for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-superior-substitutes-to-fat32-on-macos-and-windows-1011/"><u>Top 5 Superior Substitutes to FAT32 on macOS & Windows 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-android-smartwatches-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Android Smartwatches: In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-future-proof-audio-editing-platforms-top-choices/"><u>Updated Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wear-os-update-brings-offline-map-feature-is-your-smartwatch-upgraded-techspot/"><u>Wear OS Update Brings Offline Map Feature – Is Your Smartwatch Upgraded? | TechSpot</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

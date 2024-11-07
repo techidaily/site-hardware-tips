@@ -1,7 +1,7 @@
 ---
 title: HP Unveils AI-Enhanced Spectre Series Featuring Eye-Catching Accessories During CES - Insights From ZDNet
-date: 2024-10-26T16:41:40.025Z
-updated: 2024-11-01T18:20:56.584Z
+date: 2024-11-06T16:06:24.150Z
+updated: 2024-11-07T16:10:54.973Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -66,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,20 +123,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-essential-tiktok-gamers-you-cant-miss/"><u>[New] Essential TikTok Gamers You Can't Miss</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quintet-of-premium-picture-and-sound-recording-tools/"><u>[New] Quintet of Premium Picture & Sound Recording Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-6-must-have-apps-to-elevate-your-instagram-video-content-for-2024/"><u>[New] Top 6 Must-Have Apps to Elevate Your Instagram Video Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advancing-originality-in-writing-the-role-of-chatgpt-in-crafting-compelling-content-projects/"><u>Advancing Originality in Writing: The Role of ChatGPT in Crafting Compelling Content Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-asus-rog-zephyrus-g16-cut-costs-on-top-tier-tech-with-ultra-performance-cpu-and-gpu-plus-a-flat-screen-display-at-240hz-oled-quality-avail-for28/"><u>Don't Miss Out: Asus ROG Zephyrus G16 - Cut Costs on Top-Tier Tech with Ultra Performance CPU & GPU, Plus a Flat Screen Display at 240Hz OLED Quality – Avail for $250 Less Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/engineers-rejoice-new-300-risc-v-laptop-by-innovative-chinese-company/"><u>Engineers Rejoice: New $300 RISC-V Laptop by Innovative Chinese Company</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-on-lenovo-legion-gaming-pcs-with-rtx-graphics-and-ultra-smooth-display-get-750-off-today/"><u>Exclusive Offer on Lenovo Legion Gaming PCs with RTX Graphics & Ultra-Smooth Display – Get $750 Off Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-detailed-guides-on-the-latest-gadgets/"><u>Exploring Technology with Tom: Detailed Guides on the Latest Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-in-gear-with-toms-hardware-insights/"><u>Exploring the Best in Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-methods-for-extracting-sound-tracks-from-videos-a-step-by-step-guide/"><u>Free Methods for Extracting Sound Tracks From Videos - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-tech-forecast-average-laptops-ram-quota-to-surge-by-12-estimated-at-118-gigabytes-per-unit/"><u>Future Tech Forecast: Average Laptops' RAM Quota to Surge by 12%, Estimated at 11.8 Gigabytes per Unit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-probook-laptops-compromised-by-bios-updates-the-unseen-risks-of-automatic-windows-software-enhancements-and-resulting-black-screens/"><u>HP ProBook Laptops Compromised by BIOS Updates - The Unseen Risks of Automatic Windows Software Enhancements and Resulting Black Screens</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-conquest-celebrating-the-most-stellar-7-total-wars/"><u>In 2024, The Ultimate Conquest Celebrating the Most Stellar 7 Total Wars</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782216-9781594777196-sacred-number-and-the-origins-of-civilization/"><u>Sacred Number and the Origins of Civilization | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/et-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps-for-2024/"><u>[New] Get More From Tiny Screens Top 6 YouTube Shorts Downloader Apps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uide-to-equipment-selection-for-youtube-creators-for-2024/"><u>[New] Guide to Equipment Selection for YouTube Creators for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-battery-life-to-final-cut-a-drone-editors-journey/"><u>[Updated] In 2024, From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastery-of-playback-essential-skills-in-ps3-recording/"><u>[Updated] Mastery of Playback Essential Skills in PS3 Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023-mobile-download-for-fb-videos-cross-platform/"><u>2024 Approved 2023 Mobile Download for FB Videos, Cross-Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-launches-epic-gaming-audio-experience-top-ranked-speakers-go-on-sale-insights/"><u>Best Buy Launches Epic Gaming Audio Experience: Top-Ranked Speakers Go On Sale - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-clearing-up-disk-space-on-macos-a-comprehensive-guide-for-better-performance/"><u>Efficiently Clearing Up Disk Space on macOS: A Comprehensive Guide for Better Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fresh-macbook-variants-expected-to-launch-soon-insider-news-from-zdnets-latest-report/"><u>Fresh MacBook Variants Expected to Launch Soon – Insider News From ZDNet's Latest Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-samsung-t5-ssds-slashed-by-half-months-ahead-of-amazons-prime-day-shop-now/"><u>Huge Discount Alert: Samsung T5 SSDs Slashed by Half Months Ahead of Amazon's Prime Day - Shop Now!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enriched-video-presentation-implementing-lc-and-bb-on-social-platforms/"><u>In 2024, Enriched Video Presentation Implementing LC and BB on Social Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-the-most-out-of-your-nikon-footage-video-editing-essentials/"><u>New 2024 Approved Get the Most Out of Your Nikon Footage Video Editing Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-grab-the-massive-discount-on-an-8tb-samsung-t5-ssd-from-amazon-now-just-36-cheaper-tech-news/"><u>Save Big: Grab the Massive Discount on an 8TB Samsung T5 SSD From Amazon, Now Just 36% Cheaper - Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-creative-potential-with-asuss-stealthy-high-powered-laptop-zdnet-review/"><u>Unlocking Creative Potential with ASUS's Stealthy High-Powered Laptop | ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-highlights-from-apples-big-october-showcase-unveiling-the-new-m4-mac-mini-and-latest-ipad-innovations/"><u>Upcoming Highlights From Apple's Big October Showcase: Unveiling the New M4 Mac Mini & Latest iPad Innovations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-meizu-21-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Meizu 21? | Dr.fone</u></a></li>
 </ul></div>
 

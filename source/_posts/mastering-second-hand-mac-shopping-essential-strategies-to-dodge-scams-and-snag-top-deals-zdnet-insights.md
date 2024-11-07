@@ -1,7 +1,7 @@
 ---
 title: "Mastering Second-Hand Mac Shopping: Essential Strategies to Dodge Scams & Snag Top Deals | ZDNET Insights"
-date: 2024-10-27T20:30:00.509Z
-updated: 2024-11-01T17:11:07.911Z
+date: 2024-11-05T16:06:47.836Z
+updated: 2024-11-07T16:00:08.931Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,21 +121,18 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[New] In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-leading-workspace-high-flying-space-for-2024/"><u>[New] Leading Workspace High-Flying Space for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-sequential-appearance-start/"><u>[Updated] In 2024, Sequential Appearance Start</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210754420-9798887620428-ayurveda/"><u>Ayurveda | Free Book</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-galaxy-book-4-pro-360-the-ultimate-challenger-to-apples-macbook-air/"><u>Is the Galaxy Book 4 Pro 360 the Ultimate Challenger to Apple's MacBook Air?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-personal-computer-fixes-with-a-vital-set-of-7-handy-tools/"><u>Mastering Personal Computer Fixes with a Vital Set of 7 Handy Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-pubg-tones-in-minutes-for-2024/"><u>Mastering PUBG Tones in Minutes for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/merge-wmv-videos-without-cost-top-free-tools/"><u>Merge WMV Videos Without Cost Top Free Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/must-have-travel-cord-manager-snag-your-must-buy-discounted-cable-organizer-today/"><u>Must-Have Travel Cord Manager: Snag Your Must-Buy Discounted Cable Organizer Today!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-software-glitch-impacting-recent-roku-television-models/"><u>New Software Glitch Impacting Recent Roku Television Models</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-oppo-a79-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Oppo A79 5G.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/potential-privacy-risk-ecovacs-robotic-vacs-hidden-surveillance-feature-exposed/"><u>Potential Privacy Risk: Ecovacs Robotic Vac's Hidden Surveillance Feature Exposed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-experience-intel-core-systems-now-support-advanced-ai-algorithms-like-stable-diffusion-for-superior-efficiency/"><u>Revolutionize Your Experience: Intel Core Systems Now Support Advanced AI Algorithms Like Stable Diffusion for Superior Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-by-skipping-high-end-gpus-smart-investing-with-budget-graphics-options/"><u>Save Big by Skipping High-End GPUs - Smart Investing with Budget Graphics Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnets-comprehensive-analysis-of-apple-airpods-pro-gen-3-key-upgrades-and-enhanced-audio-experience/"><u>ZDNet's Comprehensive Analysis of Apple AirPods Pro (Gen 3): Key Upgrades and Enhanced Audio Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes-for-2024/"><u>[Updated] EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-color-grading-techniques-in-gopro-studio/"><u>[Updated] Mastering Color Grading Techniques in GoPro Studio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-storage-sizing-film-duration-in-gb/"><u>2024 Approved Storage Sizing Film Duration in GB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-mac-protection-access-untrusted-application-errors/"><u>Bypassing Mac Protection – Access 'Untrusted' Application Errors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-strategies-to-switch-animated-gifs-on-windowsmac-os-and-mobile-platforms-iosandroid-the-ultimate-guide/"><u>Effortless Strategies to Switch Animated GIFs on Windows/Mac OS and Mobile Platforms iOS/Android: The Ultimate Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-helldivers-ii-gaming-experience-on-pc-with-these-proven-resolutions/"><u>Enhance Your Helldivers II Gaming Experience on PC with These Proven Resolutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-13-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 13 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-8ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 8/iPad Without Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-how-to-leverage-green-skills-for-sustainable-employment-on-linkedin-insights-by-zdnet/"><u>The 'Great Reshuffle': How to Leverage Green Skills for Sustainable Employment on LinkedIn | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-tough-snow-battles-in-cleveland-discover-the-power-of-our-top-rated-electric-snow-thrower/"><u>Tired of Tough Snow Battles in Cleveland? Discover the Power of Our Top-Rated Electric Snow Thrower!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-picking-the-perfect-choice-on-zdnet/"><u>Top 5 Eco-Friendly Smartphones - Picking the Perfect Choice on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-strategies-for-energy-efficient-gadgets-slash-costs-and-support-the-planet-insights-from-zdnet/"><u>Top 6 Eco-Friendly Strategies for Energy-Efficient Gadgets: Slash Costs & Support the Planet - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-hacks-slash-energy-costs-and-go-green-with-gadgets-zdnet/"><u>Top 6 Eco-Friendly Tech Hacks: Slash Energy Costs & Go Green with Gadgets | ZDNet</u></a></li>
 </ul></div>
 

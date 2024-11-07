@@ -1,7 +1,7 @@
 ---
 title: "Learning From Horses: Pioneering Advances in Human-Automaton Dynamics | ZDNET"
-date: 2024-09-17 22:58:17
-updated: 2024-09-20 11:31:26
+date: 2024-10-31T16:01:03.603Z
+updated: 2024-11-07T16:01:20.608Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-virtual-odyssey-comparing-oculus-htc-vive-and-ps-vrs-gaming-offerings/"><u>[New] 2024 Approved Virtual Odyssey Comparing Oculus, HTC Vive & PS VR’s Gaming Offerings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simplified-workflow-streamlined-screen-capture-on-mac-using-keystroke-shortcuts/"><u>[New] In 2024, Simplified Workflow Streamlined Screen Capture on Mac Using Keystroke Shortcuts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-process-to-revamp-your-youtube-audio-tracks/"><u>[New] Step-by-Step Process to Revamp Your YouTube Audio Tracks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-vistas-a-compelling-list-of-insights-arvr-for-2024/"><u>[New] Virtual Vistas A Compelling List of Insights [AR/VR] for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-snapchats-captivating-boomers/"><u>[Updated] In 2024, Step-By-Step Guide to Snapchat's Captivating Boomers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/8-off-shop-the-high-tech-lenovo-led-lightstrip-today-on-zdnets-special-offer/"><u>$8 Off: Shop the High-Tech Lenovo LED Lightstrip Today on ZDNet's Special Offer!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1password-analysis-is-this-top-tier-password-solution-a-smart-investment-insights-from-tech-experts/"><u>1Password Analysis: Is This Top-Tier Password Solution a Smart Investment? - Insights From Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/brighten-up-your-backyard-right-now-discover-the-enhanced-radiance-of-new-govee-outdoor-lights-in-our-latest-guide-zdnet/"><u>Brighten Up Your Backyard Right Now! Discover the Enhanced Radiance of New Govee Outdoor Lights in Our Latest Guide | ZDNET</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-sustainable-cities-innovation-in-environmental-design/"><u>Building Sustainable Cities Innovation in Environmental Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/convenient-ways-to-screen-cast-lenovo-laptops/"><u>Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-space-with-the-ultimate-led-strips-for-2among-experts-insights-from-zdnet/"><u>Futureproof Your Space with the Ultimate LED Strips for 2Among Experts - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-under-cabinet-lights-revamped-my-kitchen-style-with-unique-features-zdnet/"><u>How Under-Cabinet Lights Revamped My Kitchen Style with Unique Features | ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-google-meets-potential-on-youtube-with-this-guide/"><u>In 2024, Unlock Google Meet's Potential on YouTube with This Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-innovative-lutron-pico-remote-for-advanced-smart-lighting-control/"><u>Introducing the Innovative Lutron Pico Remote for Advanced Smart Lighting Control</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimal-illumination-for-livestream-success-insights-from-zdnets-experts/"><u>Optimal Illumination for Livestream Success: Insights From ZDNet's Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lighting-solutions-for-video-broadcasts-industry-approved-reviews-techinsight/"><u>Top Lighting Solutions for Video Broadcasts: Industry-Approved Reviews | TechInsight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-2024-tiktok-lighters-ranking-boost-your-content-quality-on-zdnet/"><u>Ultimate 2024 TikTok Lighters Ranking: Boost Your Content Quality on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-on-customizable-govee-neon-lights-this-labor-day-find-out-how-at-zdnet/"><u>Unlocking Savings on Customizable Govee Neon Lights This Labor Day - Find Out How at ZDNET!</u></a></li>
+</ul></div>
+

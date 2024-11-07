@@ -1,7 +1,7 @@
 ---
 title: Capture Memorable Holiday Moments with Savings on Battery-Powered Video Doorbells - A Labor Day Special Review by ZDNet
-date: 2024-09-18 12:17:49
-updated: 2024-09-20 12:26:26
+date: 2024-11-06T16:04:35.211Z
+updated: 2024-11-07T16:03:08.986Z
 tags:
   - smart-home
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Battery Doorbell Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-new-Ring-Battery-Doorbell-detection%2Fdp%2FB09WZBPX7K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc8646ff-cb76-442e-b3bd-c820ae421286%7Cdtp&dtb=1) is currently available for $120 as part of a Labor Day sale.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -99,6 +106,13 @@ Maria Diaz/ZDNET
 
 The Ring Battery Doorbell Plus is a great addition to the company's range of devices. Until the launch of the Plus video doorbell, Ring only offered the [Ring Battery Doorbell](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Video-Doorbell-Satin-Nickel-2020-Release%2Fdp%2FB08N5NQ869%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc8646ff-cb76-442e-b3bd-c820ae421286%7Cdtp&dtb=1) is a highly popular, $100 video doorbell with a 1080p resolution and a built-in rechargeable battery.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 While I'm not keen to buy a separate subscription to use devices that already cost me hundreds of dollars, there are scenarios where the [Ring Battery Doorbell Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-new-Ring-Battery-Doorbell-detection%2Fdp%2FB09WZBPX7K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc8646ff-cb76-442e-b3bd-c820ae421286%7Cdtp&dtb=1) makes perfect sense for many smart home enthusiasts.
@@ -108,6 +122,13 @@ Some smart home users enjoy the Ring ecosystem and already have a Ring Protect P
 **Also: [The Arlo Pro 5S is close to being my perfect security camera, especially with this Labor Day sale](https://www.zdnet.com/home-and-office/smart-home/the-arlo-pro-5s-is-close-to-being-my-perfect-security-camera-especially-with-this-labor-day-sale/)**
 
 The Ring Battery Doorbell Plus also links seamlessly with Alexa, other Ring devices, and Amazon products, making it a shoo-in for an Amazon Alexa-powered smart home. You can easily view and communicate with your Ring Video Doorbell Plus from an [Echo Show](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-New-Echo-Show-8%2Fdp%2FB0BLS3Y632%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc8646ff-cb76-442e-b3bd-c820ae421286%7Cdtp&dtb=1) smart display, or have the video doorbell's live stream pop up on your Fire TV when someone rings it. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -134,11 +155,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-memetic-magic-unlock-with-kapwing-creator/"><u>[New] 2024 Approved Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-edit-photos-infuse-soundtracks/"><u>[New] Edit Photos, Infuse Soundtracks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-choosing-a-top-tier-gif-maker-for-2024/"><u>[New] Ultimate Guide to Choosing a Top-Tier GIF Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-smart-social-media-strategies-from-youtube-to-facebook/"><u>[Updated] In 2024, Smart Social Media Strategies From YouTube To Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-investigating-the-upside-down-issue-on-instavideos/"><u>[Updated] Investigating the Upside-Down Issue on InstaVideos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-zdnets-ultimate-guide-to-2022s-superior-telepresence-robots/"><u>Best of the Best: ZDNet's Ultimate Guide to 2022’S Superior Telepresence Robots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-pro-8610-drivers-free-downloads-for-win10win8win7xpvista/"><u>Latest HP Officejet Pro 8610 Drivers: Free Downloads for Win10/Win8/Win7/XP/Vista</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-video-recording-and-editing-with-adobe-connect/"><u>Mastering Video Recording & Editing with Adobe Connect</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-ultimate-guide-features-and-reviews/"><u>Top 5 Telepresence Bots: Ultimate Guide - Features and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-models-comprehensive-testing-and-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Roborock Vacuum Models - Comprehensive Testing & Reviews by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/uplifting-cinema-the-ultimate-list-of-motivation/"><u>Uplifting Cinema The Ultimate List of Motivation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-explores-the-revolutionary-privacy-safeguarding-robot-that-will-blow-your-mind/"><u>ZDNet Explores the Revolutionary Privacy-Safeguarding Robot That Will Blow Your Mind!</u></a></li>
+</ul></div>
+

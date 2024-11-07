@@ -1,7 +1,7 @@
 ---
 title: Explore The Latest Updates in Matter 1.3 - Comprehensive Support for New Devices | ZDNet Insights
-date: 2024-09-17 16:43:24
-updated: 2024-09-20 10:52:16
+date: 2024-11-02T16:00:51.684Z
+updated: 2024-11-07T16:01:09.288Z
 tags:
   - smart-lighting
 categories:
@@ -52,11 +52,38 @@ This [Google Nest Hub 2](https://goto.walmart.com/c/5597632/565706/9383?sharedId
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-how-to-add-narration-to-your-videos/"><u>[New] How to Add Narration to Your Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-5-best-ways-to-download-igtv-for-tech-enthusiasts/"><u>[New] Unveiling the 5 Best Ways to Download IGTV for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/12-gadget-transforms-unused-ssds-into-functional-external-drives-insights-from-a-zdnet-review/"><u>$12 Gadget Transforms Unused SSDs Into Functional External Drives: Insights From a ZDNet Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-giants-in-conversation-top-10-distinctions-between-chatgpt-and-microsofts-bing-bot/"><u>Comparing Giants in Conversation: Top 10 Distinctions Between ChatGPT and Microsoft's Bing Bot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-printer-brands-and-models-for-202n-insights-from-zdnets-latest-review/"><u>Explore the Leading Printer Brands and Models for 202N - Insights From ZDNet's Latest Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-bring-your-own-byo-ai-can-drive-user-engagement-and-spur-creative-breakthroughs/"><u>How Bring Your Own (BYO) AI Can Drive User Engagement & Spur Creative Breakthroughs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-battery-protection-in-airtags-could-harm-your-device-solutions-and-tips-zdnet/"><u>How the Battery Protection in AirTags Could Harm Your Device - Solutions & Tips | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-a-sluggish-windows-1110-machine-troubleshooting-tips-and-solutions/"><u>How to Fix a Sluggish Windows 11/10 Machine: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-permanently-delete-your-facebook-account/"><u>How to Permanently Delete Your Facebook Account</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-assessment-of-the-samsung-freestyle-by-tech-experts-at-zdnet/"><u>In-Depth Assessment of the Samsung Freestyle by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-feature-alert-apple-enhances-self-service-repair-with-remote-diagnostics-for-iphone-15-and-m2-mac/"><u>New Feature Alert: Apple Enhances Self-Service Repair with Remote Diagnostics for iPhone 15 & M2 Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-video-production-the-shift-to-smaller-cheaper-ssds-over-traditional-memory-cards-for-filmmakers-zdnet-exclusive/"><u>Revolutionizing Video Production: The Shift to Smaller, Cheaper SSDs Over Traditional Memory Cards for Filmmakers (ZDNet Exclusive)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/above-reach-heights-5-tips-to-skyrocket-your-visibility-for-2024/"><u>Rise Above, Reach Heights 5 Tips to Skyrocket Your Visibility for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-upgrade-your-laptop-with-this-unobtrusive-docking-station-for-full-fledged-desktop-experience-techguide/"><u>Seamlessly Upgrade Your Laptop with This Unobtrusive Docking Station for Full-Fledged Desktop Experience | TechGuide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

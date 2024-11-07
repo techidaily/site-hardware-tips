@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of Robotics and Generative AI Together: Insights and Strategies - Featuring ZDNet's Comprehensive Guide"
-date: 2024-09-18 12:36:28
-updated: 2024-09-20 10:14:54
+date: 2024-11-04T16:05:11.787Z
+updated: 2024-11-07T16:02:29.319Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-podcast-imagery-creating-memorable-graphics/"><u>[New] The Art of Podcast Imagery Creating Memorable Graphics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-into-photo-magic-innovative-edits-on-snapchat/"><u>[Updated] 2024 Approved Step Into Photo Magic Innovative Edits on Snapchat</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quintessential-radio-narrative-craftsmanship/"><u>[Updated] In 2024, Quintessential Radio Narrative Craftsmanship</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-soundscapes-synergy-ideal-dj-videos-to-download/"><u>2024 Approved Soundscapes Synergy Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>2024 Approved The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>2024 Approved Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-any-room-in-over-16-million-shades-for-under-60-discover-the-sleek-design-with-zdnets-top-pick/"><u>Illuminate Any Room in Over 16 Million Shades for Under $60 - Discover the Sleek Design with ZDNET's Top Pick</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-zte-nubia-flip-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from ZTE Nubia Flip 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/june-2n-d4s-ultimate-best-buy-bargains-showcased-by-zdnet-save-big-now/"><u>June 2N D4's Ultimate Best Buy Bargains Showcased by ZDNet: Save Big Now!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mp4-to-m4a-conversion-a-step-by-step-guide/"><u>MP4 to M4A Conversion: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-connected-living-spaces-exploring-new-communication-protocols-for-advanced-smart-home-systems/"><u>Revolutionizing Connected Living Spaces: Exploring New Communication Protocols for Advanced Smart Home Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-kitchen-design-the-impact-of-innovative-under-cabinet-lighting-on-style-and-functionality-insight-by-zdnet/"><u>Revolutionizing Kitchen Design: The Impact of Innovative Under-Cabinet Lighting on Style and Functionality - Insight by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/strategy-in-the-shopping-experience/"><u>Strategy in the Shopping Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-june-2024-savings-exclusive-best-buy-offers-featured-on-zdnet/"><u>Top June 2024 Savings: Exclusive Best Buy Offers Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-philips-hue-lighting-solutions-detailed-comparison-by-tech-gurus-zdnet/"><u>Top-Rated Philips Hue Lighting Solutions - Detailed Comparison by Tech Gurus | Zdnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-security-floodlighting-solutions-in-2/"><u>Top-Rated Security Floodlighting Solutions in 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809233592-top-rated-smart-home-gadgets-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets : In-Depth Analysis by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-office-into-a-tranquil-oasis-using-sustainable-fish-tank-lights-at-unbeatable-prices-on-amazon-prime-expert-analysis-by-zdnet/"><u>Transform Your Office Into a Tranquil Oasis Using Sustainable Fish Tank Lights at Unbeatable Prices on Amazon Prime – Expert Analysis by ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Silicon Showdown: Unveiling the Differences Between M3, M3 Pro & M3 Max Chips - Your Pre-Purchase Guide (ZDNet)"
-date: 2024-10-26T16:17:37.260Z
-updated: 2024-11-01T17:58:57.654Z
+date: 2024-11-04T16:04:42.821Z
+updated: 2024-11-07T16:15:58.182Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,13 @@ Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Surface Laptop 5 gets a splash of color
 
 Microsoft Surface Laptop 5 in Sage.
@@ -54,16 +61,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -85,10 +86,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -105,13 +106,6 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -125,10 +119,10 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -177,18 +171,22 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earn-big-on-youtube-strategies-for-successful-creators/"><u>[New] 2024 Approved Earn Big on YouTube Strategies for Successful Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-search-of-next-level-video-streaming-alternatives/"><u>[Updated] In Search of Next-Level Video Streaming Alternatives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoiding-common-blunders-in-pc-assembly-learn-from-our-errors/"><u>Avoiding Common Blunders in PC Assembly: Learn From Our Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-gamers-dream-discover-our-selection-of-under-500-pc-configurations-ideal-for-fortnite-enthusiasts-expert-insights-from-toms-hardware/"><u>Budget-Friendly Gamer's Dream: Discover Our Selection of Under $500 PC Configurations Ideal for Fortnite Enthusiasts - Expert Insights From Tom's Hardware</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dissecting-the-disparities-apples-m1-pro-and-m1-max/"><u>Dissecting the Disparities Apple's M1 Pro and M1 Max</u></a></li>
-<li><a href="https://fox-access.techidaily.com/fixing-silent-pc-how-to-restore-audio-on-windows-11-computers/"><u>Fixing Silent PC: How to Restore Audio on Windows 11 Computers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/interlinked-identities-examining-fb-insta-relationship/"><u>Interlinked Identities: Examining FB-Insta Relationship</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/record-whole-page-visuals-for-2024/"><u>Record Whole Page Visuals for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-tech-experience-with-toms-hardware-solutions/"><u>Revolutionize Your Tech Experience with Tom's Hardware Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Review: In-Depth Computer and Gadget Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-boosting-your-raspberry-pis-speed-through-effective-overclocking-techniques/"><u>Ultimate Guide: Boosting Your Raspberry Pi's Speed Through Effective Overclocking Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-power-with-toms-electronics-hub/"><u>Unveiling the Latest in Computing Power with Tom's Electronics Hub</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-techniques-for-discarding-backlogged-youtube-videos/"><u>[Updated] 2024 Approved Techniques for Discarding Backlogged YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-astounding-vlogs-start-here-easy-to-create-projects/"><u>[Updated] Astounding Vlogs Start Here Easy-to-Create Projects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/(-450-asus-vivobook-pro-14-oled/"><u>< $450 ASUS VivoBook Pro 14 OLED: 워마트의 인기 계량 시장</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/150-all-in-one-solution-by-satechi-for-your-laptop-needs-reviewed-and-highlighted-by-zdnet/"><u>$150 All-in-One Solution by Satechi for Your Laptop Needs, Reviewed and Highlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-ultimate-guide-to-laptops-with-superior-battery-performance-pcmag/"><u>2023'S Ultimate Guide to Laptops with Superior Battery Performance | PCMag</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>2024 Approved Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-software-for-windows-beyond-sony-vegas/"><u>Best Video Editing Software for Windows Beyond Sony Vegas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/full-day-power-ultimate-tips-for-extending-your-macbooks-battery-life-insights/"><u>Full-Day Power: Ultimate Tips for Extending Your MacBook's Battery Life - Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran-for-2024/"><u>How to Prevent and Mend Streaming Hiccups in FB Livestran for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-economics-of-youtube-marketing-strategies/"><u>In 2024, The Economics of YouTube Marketing Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/persistent-pests-in-schools-how-student-chromebooks-are-battling-recurring-bedbug-infestations-insightful-report/"><u>Persistent Pests in Schools: How Student Chromebooks Are Battling Recurring Bedbug Infestations | Insightful Report</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-charge-less-airpods-top-9-solutions/"><u>Solving Your Charge-Less AirPods: Top 9 Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-laptops-featuring-lenovo-hp-asus-and-others-techadvisor/"><u>Top Budget-Friendly Laptops : Featuring Lenovo, HP, Asus & Others - TechAdvisor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-prime-day-electronics-offers-best-laptops-of-october-2024-featured-by-zdnet/"><u>Top Picks: Unbeatable Prime Day Electronics Offers - Best Laptops of October 2024 Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-m3-macbook-pro-for-less-than-10k-a-stunning-deal-revealed/"><u>Unleash Powerhouse Performance: M3 MacBook Pro for Less Than $10K - A Stunning Deal Revealed</u></a></li>
 </ul></div>
 

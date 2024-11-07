@@ -1,7 +1,7 @@
 ---
 title: AI Robot Revolutionizes Navigation for the Visually Impaired - Beyond Canes & Guide Dogs
-date: 2024-09-18 23:28:14
-updated: 2024-09-20 12:14:20
+date: 2024-11-04T16:03:36.578Z
+updated: 2024-11-07T16:08:36.944Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-boosting-stability-and-speed-more-ram-for-minecraft/"><u>[New] 2024 Approved Boosting Stability & Speed More RAM for Minecraft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-are-reviews-for-goods-online-monetized-in-2024/"><u>[New] Are Reviews For Goods Online Monetized, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cinematic-cadence-top-cameras-for-elegant-slow-movement/"><u>[New] Cinematic Cadence Top Cameras for Elegant Slow Movement</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-win11-easy-capture-and-save-tool/"><u>[New] In 2024, Win11 Easy Capture & Save Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-iphone-tips-for-time-dilation-in-videography/"><u>2024 Approved IPhone Tips for Time-Dilation in Videography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-art-for-crypto-the-finest-7-generators-at-hand/"><u>2024 Approved Pioneering Art for Crypto The Finest 7 Generators at Hand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-youtube-video-transformations-into-mpegs/"><u>2024 Approved Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-samsung-galaxy-watch-4-and-galaxy-watch-5-pro-a-comprehensive-guide-for-buyers-techradar/"><u>Choosing Between Samsung Galaxy Watch 4 and Galaxy Watch 5 Pro: A Comprehensive Guide for Buyers | TechRadar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-contenders-llama-and-gpt-4-battle-for-top-spot/"><u>Comparing Contenders: Llama and GPT-^4 Battle for Top Spot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-link-your-bus-or-train-card-with-apple-wallet-expert-tips-and-tricks-by-zdnet/"><u>Effortlessly Link Your Bus or Train Card with Apple Wallet: Expert Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-preordering-iphone-15-and-apple-watch-s9-ultra-ii-with-amazing-discounts-tips-from-zdnet-experts/"><u>Guide to Preordering iPhone 15 and Apple Watch S9 Ultra II with Amazing Discounts – Tips From ZDNet Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-se-2020-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-aftershokz-aeropex-exceptional-bone-conduction-audio-quality-and-enduring-power-supply-expert-review-by-techzdnet/"><u>In-Depth Analysis of the AfterShokz Aeropex: Exceptional Bone Conduction Audio Quality & Enduring Power Supply - Expert Review by TechZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surviving-the-elements-an-in-depth-apple-watch-ultra-durability-assessment-spanning-nine-months-insights-from-zdnet/"><u>Surviving the Elements: An In-Depth Apple Watch Ultra Durability Assessment Spanning Nine Months | Insights From ZDNET</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-apple-watch-offers-in-june-2023-exclusive-selection-on-zdnet/"><u>Top Apple Watch Offers in June 2023 - Exclusive Selection on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-apple-watch-bands-of-2024-thoroughly-tested-and-evaluated-zdnet/"><u>Ultimate Guide to the Premier Apple Watch Bands of 2024: Thoroughly Tested and Evaluated | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-changes-apple-set-to-enhance-budget-friendly-watch-se-exciting-updates-awaitzdnet/"><u>Upcoming Changes: Apple Set to Enhance Budget-Friendly Watch SE - Exciting Updates Await![ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-or-stick-with-the-pro-comparing-the-new-samsung-galaxy-watch-6-classic-to-the-watch-5-pro-for-consumers-zdnet/"><u>Upgrade or Stick with the Pro? Comparing the New Samsung Galaxy Watch 6 Classic to the Watch 5 Pro for Consumers | ZDNET</u></a></li>
+</ul></div>
+

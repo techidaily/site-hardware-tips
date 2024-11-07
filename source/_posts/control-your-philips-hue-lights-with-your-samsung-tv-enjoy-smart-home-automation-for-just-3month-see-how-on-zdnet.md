@@ -1,7 +1,7 @@
 ---
 title: "Control Your Philips Hue Lights With Your Samsung TV: Enjoy Smart Home Automation for Just $3/Month - See How on ZDNet"
-date: 2024-09-19 22:40:31
-updated: 2024-09-20 11:50:40
+date: 2024-11-06T16:01:25.872Z
+updated: 2024-11-07T16:01:01.234Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-maze-of-stock-visual-acquisition/"><u>[Updated] Navigating the Maze of Stock Visual Acquisition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-rejuvenating-your-old-keyboard-a-step-by-step-guide-for-a-fresh-start-and-the-unexpected-joy-of-cleaning/"><u>1. Rejuvenating Your Old Keyboard: A Step-by-Step Guide for a Fresh Start (and the Unexpected Joy of Cleaning!)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-effective-filmmaking-how-these-compact-mini-ssds-outshine-pricey-memory-cards-insights-from-zdnet/"><u>Cost-Effective Filmmaking: How These Compact Mini SSDs Outshine Pricey Memory Cards - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/declutter-and-disinfect-the-surprising-benefits-of-refreshing-your-5-year-old-keyboard/"><u>Declutter and Disinfect: The Surprising Benefits of Refreshing Your 5-Year-Old Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eufy-homevac-vacuum-up-for-grabs-just-49-on-amazon-plus-extra-10-off-with-prime-coupon-tips-from-zdnet/"><u>Eufy HomeVac Vacuum Up for Grabs – Just $49 on Amazon, Plus Extra $10 Off with Prime Coupon | Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-efficiency-with-the-new-lightest-lg-gram-model-hits-shelves-latest-innovations/"><u>Experience Ultimate Efficiency with the New Lightest LG Gram Model Hits Shelves - Latest Innovations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-reveals-superior-alternatives-to-yeti-and-rode-for-podcasters-mics-zdnet-insights/"><u>Expert Review Reveals Superior Alternatives to Yeti & Rode for Podcasters' Mics | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-netgear-a6100-driver-for-your-windows-pc-easy-guide-to-update/"><u>Get the Newest Netgear A6100 Driver for Your Windows PC: Easy Guide to Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-ace-3-by-drfone-android/"><u>How to Bypass FRP on OnePlus Ace 3?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-razr-40-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Razr 40 Ultra Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-latest-super-sleek-lg-gram-the-lightest-and-leanest-laptop-ever-by-techexpert-at-zdnet/"><u>Meet the Latest Super Sleek LG Gram: The Lightest & Leanest Laptop Ever by TechExpert at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metapopulations-consist-of-separated-populations-that-interact-through-migration/"><u>Metapopulations Consist of Separated Populations that Interact Through Migration.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-4k-monitor-stunning-display-quality-and-fast-setup-tech-analysis-on-zdnet/"><u>Review of Innocn 27C1U 4K Monitor: Stunning Display Quality & Fast Setup | Tech Analysis on ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast-for-2024/"><u>Revolutionize Your Online Video Content Expert Tips on Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-your-tiktok-content-collection-game-for-2024/"><u>Revolutionizing Your TikTok Content Collection Game for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-fixes-for-connection-lost-error-on-the-escape-from-tarkov-server-platform/"><u>The Ultimate Fixes for 'Connection Lost' Error on the Escape From Tarkov Server Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/toonbox-complete-insight-for-24-year/"><u>ToonBox Complete Insight for '24 Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-share-function-in-windows-11-edition/"><u>Unblocking Share Function in Windows 11 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-ss-unanticipated-design-choice/"><u>Xbox Series S's Unanticipated Design Choice</u></a></li>
+</ul></div>
+

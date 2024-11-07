@@ -1,7 +1,7 @@
 ---
 title: "Save the Day with Our Ultimate List of 48 Must-Have Cyber Monday Gaming Offers: Conquer Console & PC Sales at Record Prices"
-date: 2024-10-30T18:04:43.739Z
-updated: 2024-11-01T16:17:18.440Z
+date: 2024-11-04T16:12:03.864Z
+updated: 2024-11-07T16:04:55.971Z
 tags:
   - laptops
 categories:
@@ -24,13 +24,6 @@ Got a gamer in your life and don't know what to get them for the holidays? Many 
 
 To help you find the best sales and deals, we've rounded up the best Cyber Monday gaming deals still available below. You can keep reading to save big on gaming laptops, components, and accessories. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Latest Cyber Monday gaming deals**
 
 The last time this page received an update, these were the latest Cyber Monday gaming deals worth checking out: 
@@ -47,10 +40,10 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [MSI Clutch MG41 for $40 (save $15) at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1657724-REG%2Fmsi%5Fclutch%5Fgm41%5Flightweight%5Fgaming.html)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Games**
@@ -62,6 +55,13 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [Persona 5 Strikers Digital Deluxe Edition for PC for $58 (save $12) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fsega-persona-5-strikers-digital-deluxe-edition-pc%2Fp%2FN82E16832203422%3FItem%3DN82E16832203422)
 * [DOOM Eternal for PC for $10 (save $30) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fbethesda-doom-eternal-pc%2Fp%2FN82E16832136374%3FItem%3DN82E16832136374)
 * [Ace Combat 7: Skies Unknown for PC for $7 (save $52) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fbandai-namco-ace-combat-7-skies-unknown-pc%2Fp%2FN82E16832242303%3FItem%3DN82E16832242303)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Gaming laptops and PCs**
 
@@ -85,10 +85,10 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [LG UltraGear 47.5-inch 4K monitor for $929 (save $600) at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1692618-REG%2Flg%5F48gq900%5Fb%5Faus%5F48%5Fuhd%5F4k%5F3840x2160.html)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Gaming consoles**
@@ -96,10 +96,10 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [Xbox Series S 512GB for $250 (save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-series-s-512-gb-all-digital-disc-free-gaming-holiday-console-white%2F6510817.p%3FskuId%3D6510817&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **VR headsets for gaming**
@@ -107,10 +107,10 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [Meta Quest 2 with Resident Evil 4 and Beat Saber for $350 (Save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta-quest-2-resident-evil-4-bundle-with-beat-saber-128gb%2F6522220.p%3FskuId%3D6522220&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
@@ -165,6 +165,13 @@ Here are some other gaming Cyber Monday deals happening right now at Walmart:
 
 [Kingston Fury Beast RGB RAM 16GB for $64 (save $46) $64 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FKingston-FURY-Beast-RGB-16GB-KIT-2x8GB-3200MHz-DDR4-Desktop-Memory-KF432C16BBAK2-16-Kit-of-2%2F450574725&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Cyber Monday gaming deals at Best Buy**
 
 Here are some other gaming Cyber Monday deals happening right now at Best Buy: 
@@ -176,13 +183,6 @@ Here are some other gaming Cyber Monday deals happening right now at Best Buy:
 [Razer Blade 14 $2000 (save $600) $2,000 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black%2F6499098.p%3FskuId%3D6499098&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Arcade1Up Marvel Vs Capcom $400 (save $300) $400 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Farcade1up-marvel-vs-capcom-gaming-table%2F6482610.p%3FskuId%3D6482610&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at B&H**
 
@@ -209,10 +209,10 @@ This year, Black Friday is on Nov. 25\. And while this is a traditional day for 
 Cyber Monday 2022 is on Nov. 28\. And while many of the best deals happen day-of, you can also snag great discounts all month long at online retailers like Amazon and Newegg.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
@@ -311,24 +311,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-incorporating-instagrams-cutting-edge-filters-for-2024/"><u>[Updated] Incorporating Instagram's Cutting Edge Filters for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-real-time-reality-rally-does-digital-dethrone-device-dominance-for-2024/"><u>[Updated] Real-Time Reality Rally Does Digital Dethrone Device Dominance for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262281674-amd-disputes-delay-rumors-anticipate-ryzen-grooving-into-the-market-this-month/"><u>AMD Disputes Delay Rumors – Anticipate Ryzen Grooving Into the Market This Month</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-the-best-tablet-for-your-needs-amazon-fire-vs-samsung/"><u>Choosing the Best Tablet for Your Needs: Amazon Fire Vs. Samsung</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-data-handling-navigate-4-steps-to-open-disk-management-in-windows-11/"><u>Effortless Data Handling: Navigate 4 Steps to Open Disk Management in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-performance-and-cool-down-with-eks-latest-water-block-innovations-for-your-amd-ryzen-am5-cpu/"><u>Enhance Performance and Cool Down with EK’s Latest Water Block Innovations for Your AMD Ryzen AM5 CPU</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-pros-and-cons-of-hp-stream-14-an-economical-windows-laptop-reviewed/"><u>Exploring the Pros & Cons of HP Stream 14 - An Economical Windows Laptop Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125139959-felicia-day-explores-the-world-of-additive-manufacturing-a-special-offer-on-her-custom-3d-models-for-enthusiasts/"><u>Felicia Day Explores the World of Additive Manufacturing: A Special Offer on Her Custom 3D Models for Enthusiasts!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-z-fold-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy Z Fold 5 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-unveils-upcoming-z890-chipset-compatible-core-ultra-arrow-lake-processors-leaked-images-reveal-new-desktop-cpu-names/"><u>Intel Unveils Upcoming Z890 Chipset-Compatible Core Ultra Arrow Lake Processors – Leaked Images Reveal New Desktop CPU Names</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-a-deep-dive-into-hardware-with-tom/"><u>Mastering Your Tech: A Deep Dive Into Hardware with Tom</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-fcpx-plugin-collection-free-and-paid-gems/"><u>New 2024 Approved The Ultimate FCPX Plugin Collection Free and Paid Gems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-spark-10-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Spark 10 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-rise-of-chinas-indigenous-cpus-in-telco-industry-with-millions-of-server-conversions/"><u>The Rise of China's Indigenous CPUs in Telco Industry with Millions of Server Conversions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Hardware and Gadgets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-gaming-laptop-picks-for-2n4-expertly-tested-and-benchmarked/"><u>Ultimate Guide to the Best Gaming Laptop Picks for 2N4 - Expertly Tested & Benchmarked</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/valkyire-sync-240-aio-liquid-chiller-reviewed-outstanding-performance-marred-by-clunky-applications/"><u>Valkyire Sync 240 AIO Liquid Chiller Reviewed - Outstanding Performance Marred by Clunky Applications</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-blueprint-for-srt-file-excellence/"><u>[New] In 2024, The Ultimate Blueprint for SRT File Excellence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleash-the-power-of-windows-11s-media-importer-tools-for-2024/"><u>[New] Unleash the Power of Windows 11'S Media Importer Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-tips-extracting-audio-from-youtube-video-playback/"><u>[Updated] 2024 Approved Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[Updated] 2024 Approved Picture Crafting Top 10 Resources for Elegant Photo Framing</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809477672-answer-lets-denote-the-unknown-number-as-x-according-to-the-problem-we-have/"><u>Answer: Let's Denote the Unknown Number as (X ). According to the Problem, We Have:</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-integrating-songs-and-snaps-online/"><u>In 2024, Integrating Songs and Snaps Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-deleting-ps5-users/"><u>Mastering the Art of Deleting PS5 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-11-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme 11 Pro+ FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-hisense-u8h-4k-smart-tv-exceptional-visuals-meet-unbeatable-value-a-comprehensive-review-by-zdnet/"><u>Unboxing the Hisense U8H 4K Smart TV: Exceptional Visuals Meet Unbeatable Value – A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-future-features-samsung-extends-free-software-support-on-smart-tvs-for-seven-years-insights-from-zdnet/"><u>Unlocking Future Features: Samsung Extends Free Software Support on Smart TVs for Seven Years - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-review-discovering-the-best-immersive-audio-beyond-vizio-and-jbl-brands/"><u>ZDNet Exclusive Review: Discovering the Best Immersive Audio Beyond Vizio and JBL Brands</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-a-new-era-of-audio-experience-begins-with-free-upgrades-on-lg-tvs-a-perfect-match-for-apple-lovers/"><u>ZDNet Exclusive: A New Era of Audio Experience Begins with Free Upgrades on LG TVs, a Perfect Match for Apple Lovers!</u></a></li>
 </ul></div>
 

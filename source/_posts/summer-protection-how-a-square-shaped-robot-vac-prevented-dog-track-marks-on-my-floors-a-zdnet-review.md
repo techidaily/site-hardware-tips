@@ -1,7 +1,7 @@
 ---
 title: "Summer Protection: How a Square-Shaped Robot Vac Prevented Dog Track Marks on My Floors - A ZDNet Review"
-date: 2024-09-17 12:30:17
-updated: 2024-09-20 12:53:10
+date: 2024-10-31T16:03:44.894Z
+updated: 2024-11-07T16:03:44.240Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-choosing-your-game-capture-tool-obsshadowplay/"><u>[New] In 2024, Choosing Your Game Capture Tool OBS/ShadowPlay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-list-of-preferred-mac-snipping-apps/"><u>[Updated] In 2024, The Ultimate List of Preferred Mac Snipping Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-exciting-update-the-newly-added-key-functionality-enhances-the-apple-home-app-insights-from-zdnet/"><u>1. Exciting Update: The Newly Added Key Functionality Enhances the Apple Home App - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-choosing-floodlights-for-enhanced-home-safety-gadgetflow-review/"><u>2024'S Ultimate Guide to Choosing Floodlights for Enhanced Home Safety - GadgetFlow Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialect-dynamics-ukrainian-vs-russian-conversations/"><u>Dialect Dynamics: Ukrainian Vs Russian Conversations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/exclusive-windows-amd-audio-suite/"><u>Exclusive Windows AMD Audio Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-high-definition-audio-control-panel-wont-launch-issue/"><u>How to Fix Realtek High Definition Audio Control Panel Won't Launch Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-reading-experience-the-premier-book-light-picks-techradar/"><u>Illuminate Your Reading Experience: The Premier Book Light Picks | TechRadar</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-and-basic-win-driven-design-applications-guide/"><u>In 2024, Premium & Basic Win-Driven Design Applications Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-sideways-to-straight-quick-video-flipping-solutions/"><u>New 2024 Approved From Sideways to Straight Quick Video Flipping Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-your-space-with-smart-lighting-get-up-to-30-off-our-best-customizable-led-light-strips-limited-offer-engadget/"><u>Unlock Your Space with Smart Lighting! Get Up to 30% Off Our Best Customizable LED Light Strips – Limited Offer | Engadget</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice"
-date: 2024-10-28T17:23:23.458Z
-updated: 2024-11-01T16:34:56.948Z
+date: 2024-11-02T16:00:51.638Z
+updated: 2024-11-07T16:02:39.386Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,13 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -36,14 +43,14 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-### **Option 1: The old fashioned way**
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### **Option 1: The old fashioned way**
 
 ## 1\. Use your Print Screen key
 
@@ -54,6 +61,13 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -68,13 +82,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -103,35 +110,28 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -172,24 +172,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-masterclass-uploading-without-complications-on-social-media/"><u>[New] 2024 Approved Masterclass Uploading Without Complications on Social Media</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-streamline-your-content-strategy-with-youtube-movie-maker/"><u>[New] In 2024, Streamline Your Content Strategy with YouTube Movie Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-low-end-pc-visual-recorders/"><u>[Updated] 2024 Approved Low-End PC Visual Recorders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-diverse-designs-at-your-fingertips-from-these-6-websites/"><u>[Updated] Diverse Designs at Your Fingertips From These 6 Websites</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-get-your-hands-on-the-best-9-online-shops-featuring-futuristic-graffiti-fonts/"><u>2024 Approved Get Your Hands on the Best 9 Online Shops Featuring Futuristic Graffiti Fonts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments/"><u>2024 Approved The Ultimate How-To Applying Captions to Pictures in PC/Mac Environments</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-new-wave-of-amds-800-series-motherboard-chipsets-designed-for-ryzen-9000-with-naming-schemes-parallel-to-intel/"><u>Exploring the New Wave of AMD’s 800 Series Motherboard Chipsets Designed for Ryzen 9000, With Naming Schemes Parallel to Intel</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-destinations-a-complete-overview/"><u>Exploring Tom's Hardware Destinations: A Complete Overview</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-macbook-air-m1-for-a-steal-rare-lowest-price-alert-at-just-649-tech-reviews-by-zdnet/"><u>Get Your MacBook Air (M1) for a Steal: Rare Lowest Price Alert at Just $649 | Tech Reviews by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-asrock-b7n60m-pro-rs-chipset-board-cost-effective-and-rich-in-m2-slots/"><u>In-Depth Look at the ASRock B7n60M Pro RS Chipset Board: Cost-Effective and Rich in M.2 Slots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-asus-rog-maximus-z790-formula-ultimate-performance-with-hybrid-thermal-management/"><u>In-Depth Look at the Asus ROG Maximus Z790 Formula - Ultimate Performance with Hybrid Thermal Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-insights-delving-into-toms-hardware/"><u>Inside Insights: Delving Into Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-tips-and-reviews-navigating-the-market-with-toms-hardware/"><u>Inside Tips and Reviews - Navigating the Market with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-maxsuns-innovative-itx-motherboard-with-reverse-gpu-slots-for-optimal-cooling/"><u>Introducing MaxSun's Innovative ITX Motherboard with Reverse GPU Slots for Optimal Cooling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-hardware-wisdom-from-toms-hardware/"><u>Mastering Gadgets & Hardware: Wisdom From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-tips-from-toms-hardware-hub/"><u>Mastering Technology Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/professional-video-quality-at-your-fingertips-ois-powered-choices/"><u>Professional Video Quality at Your Fingertips OIS-Powered Choices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-cod-black-ops-cold-war-error-80070057-complication/"><u>Step-by-Step Solution for 'Cod: Black Ops Cold War' Error 80070057 Complication</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>[New] Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-ones-and-twosies-into-avis-with-ease/"><u>[Updated] Transforming Ones and Twosies Into Avis with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-srt-format-conversion-guide/"><u>2024 Approved Comprehensive SRT Format Conversion Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95544349-9780834827936-dreaming-yourself-awake/"><u>Dreaming Yourself Awake | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-h264-format-editing-a-guide-to-simplifying-video-trimming/"><u>Effortless H.264 Format Editing: A Guide to Simplifying Video Trimming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-extraordinary-performance-with-durable-battery-and-eye-catching-design-the-ultimate-guide-to-premium-13-inch-laptops-reviewed-by-zdnet/"><u>Experience Extraordinary Performance with Durable Battery and Eye-Catching Design - The Ultimate Guide to Premium 13-Inch Laptops Reviewed by ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-apples-innovative-m4-silicon-chips-a-leap-toward-smart-technology-in-every-mac-model-anticipated-launch-dates-decoded/"><u>Exploring the Future with Apple's Innovative M4 Silicon Chips: A Leap Toward Smart Technology in Every Mac Model – Anticipated Launch Dates Decoded</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-canon-scan-software-windows-installation-guide/"><u>Free Canon Scan Software: Windows Installation Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Moto G84 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-seipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone SE/iPad/iPod</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-the-best-picks-in-instagram-ringtone-and-exceptional-alerts/"><u>In 2024, Navigating Through the Best Picks in Instagram Ringtone & Exceptional Alerts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/one-week-on-an-ergo-split-board-how-my-comfortable-keypad-ruined-everything-else/"><u>One Week on an Ergo-Split Board: How My Comfortable Keypad Ruined Everything Else</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-manufacturers-brace-for-tough-times-ahead-potential-boon-for-shoppers-analysis-by-zdnet/"><u>PC Manufacturers Brace for Tough Times Ahead, Potential Boon for Shoppers | Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-special-sale-alert-get-your-hands-on-a-brand-new-macbook-pro-featuring-the-powerful-m3-pro-chip-at-a-steeply-reduced-price-of-just-200-less-c133/"><u>President’s Day Special Sale Alert! Get Your Hands on a Brand New MacBook Pro Featuring the Powerful M3 Pro Chip at a Steeply Reduced Price of Just $200 Less – Comprehensive Review and Deal Insight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-2a-understanding-brand-loyalty-and-equity-building-strategies/"><u>Section 2A: Understanding Brand Loyalty and Equity Building Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-18-unbeatable-prime-day-laptop-offers-exclusive-discounts-on-brands-like-hp-apple-and-razer-shop-now/"><u>Top 18 Unbeatable Prime Day Laptop Offers: Exclusive Discounts on Brands Like HP, Apple & Razer – Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-up-to-1000/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals: Save Up To $1,000</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-making-your-tozo-t6-device-work-seamlessly-on-windows-nx/"><u>Ultimate Guide: Making Your Tozo T6 Device Work Seamlessly on Windows nX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-apples-13-inch-macbook-air-m2-cheapest-ever-on-cyber-monday-coverage/"><u>Unbeatable Bargain Alert: Apple's 13-Inch MacBook Air M2 - Cheapest Ever on Cyber Monday Coverage</u></a></li>
 </ul></div>
 

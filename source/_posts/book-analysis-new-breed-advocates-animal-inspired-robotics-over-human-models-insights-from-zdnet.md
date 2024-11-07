@@ -1,7 +1,7 @@
 ---
 title: "Book Analysis: 'New Breed' Advocates Animal-Inspired Robotics Over Human Models - Insights From ZDNet"
-date: 2024-09-17 13:11:49
-updated: 2024-09-20 10:26:16
+date: 2024-11-02T16:08:26.693Z
+updated: 2024-11-07T16:01:50.334Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-seamless-video-production-leveraging-windows-movie-maker-on-windows-8/"><u>[New] Seamless Video Production Leveraging Windows Movie Maker on Windows 8</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-fb-video-retrieval/"><u>[Updated] 2024 Approved A Step-by-Step Approach to FB Video Retrieval</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-the-apple-watch-ultra-and-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Series 8: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-the-garmin-instinct-solar-powered-smartwatch-durable-design-with-vibrant-display-and-extended-battery-life/"><u>Comprehensive Test of the Garmin Instinct Solar-Powered Smartwatch: Durable Design with Vibrant Display & Extended Battery Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-huawei-watch-gt-3-pro-analysis-elite-features-meet-limited-market-interest-insights-by-zdnet/"><u>Exclusive Huawei Watch GT 3 Pro Analysis: Elite Features Meet Limited Market Interest - Insights by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-visionaries-discover-the-top-smart-glasses-dominating-2024/"><u>Future Visionaries: Discover the Top Smart Glasses Dominating 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-docx-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .docx file document online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-tips-and-tricks-learn-effortless-face-exchange-features-on-your-apple-watch-with-zdnet-expert-advice/"><u>Masterful Tips & Tricks: Learn Effortless Face Exchange Features on Your Apple Watch with ZDNet Expert Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-gear-use-through-windows-widgets/"><u>Navigating Your Gear Use Through Windows Widgets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pros-picks-the-5-ultimate-gaming-stream-cams-uncovered-for-2024/"><u>Pro's Picks The 5 Ultimate Gaming Stream Cams Uncovered for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-samsung-galaxy-watch-now-for-under-100-unbeatable-discount-alert-on-zdnet/"><u>Secure Your Samsung Galaxy Watch Now for Under $100 | Unbeatable Discount Alert on ZDNET.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-deal-of-a-lifetime-99-for-new-apple-watch-series-10-from-best-buy-expert-tips-inside-zdnet/"><u>Snag the Deal of a Lifetime: $99 for New Apple Watch Series 10 From Best Buy - Expert Tips Inside | ZDNET</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-aik-gratis-para-utilizar-con-aomei-backupper/"><u>Windows AIK Gratis Para Utilizar Con AOMEI Backupper</u></a></li>
+</ul></div>
+

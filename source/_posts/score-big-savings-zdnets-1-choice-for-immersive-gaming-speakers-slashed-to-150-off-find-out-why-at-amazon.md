@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings! ZDNet's #1 Choice for Immersive Gaming Speakers Slashed to $150 Off - Find Out Why at Amazon
-date: 2024-10-28T18:20:38.004Z
-updated: 2024-11-01T17:07:59.066Z
+date: 2024-11-03T16:07:33.974Z
+updated: 2024-11-07T16:12:46.930Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +92,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,22 +132,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-pop-culture-reflections-latest-snapchat-augments-and-filters/"><u>[New] 2024 Approved Pop Culture Reflections Latest Snapchat Augments & Filters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-xbox-one-optimizing-your-zoom-experience/"><u>[New] 2024 Approved Xbox One Optimizing Your Zoom Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-8-best-tablets-for-photo-editing-worth-a-try-filmora/"><u>[Updated] 2024 Approved 8 Best Tablets for Photo Editing Worth a Try - Filmora</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>[Updated] 2024 Approved Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-transition-smoothly-to-metaverse-living-with-these-tools/"><u>2024 Approved Transition Smoothly to Metaverse Living with These Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-ntoskrnlexe-overuse-on-windows-systems/"><u>Addressing ntoskrnl.exe Overuse on Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-xbox-storage-capacity-by-1tb-for-just-125-with-this-reliable-seagate-expansion-solution/"><u>Boost Xbox Storage Capacity by 1TB for Just $125 with This Reliable Seagate Expansion Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooling-solutions-redefined-by-silverstone-icemyst-targeting-hard-to-reach-areas-effortlessly/"><u>Cooling Solutions Redefined by SilverStone IceMyst: Targeting Hard-to-Reach Areas Effortlessly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-inwins-latest-collection-easy-to-assemble-flat-pack-cases-with-flexible-frame-options/"><u>Explore InWin's Latest Collection: Easy-to-Assemble Flat-Pack Cases with Flexible Frame Options</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revamped-cougar-pc-enclosures-with-customizable-rgb-features-to-display-your-action-figure-collection-spotted-at-computex/"><u>Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-comprehensive-look-at-hardware/"><u>Tom's Tech Review: A Comprehensive Look at Hardware</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-g24-power-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola G24 Power for Parents | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-guide-to-cutting-edge-technology/"><u>Unveiling the Latest Gadgets with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725286532262-winx-hd-video-converter-for-mac/"><u>WinX HD Video Converter for Mac全功能套件 - 直接在官方網站下載</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-breaking-down-the-fundamentals-of-mixed-reality/"><u>[New] In 2024, Breaking Down the Fundamentals of Mixed Reality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-download-voice-log-inspect/"><u>[Updated] Download Voice Log Inspect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-altering-video-speed-in-stories/"><u>[Updated] The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-for-integrating-frame-elements-with-images/"><u>2024 Approved Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-best-laptop-deals-from-hp-to-razer-prime-day-savings-galore-zdnet-exclusive/"><u>Discover the Ultimate List of Best Laptop Deals From HP to Razer: Prime Day Savings Galore | ZDNET Exclusive!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/empowering-mobile-professionals-and-learners-discover-the-latest-hp-chromebooks-tailored-for-productivity/"><u>Empowering Mobile Professionals & Learners: Discover the Latest HP Chromebooks Tailored for Productivity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-lenovo-thinkpad-x13s-an-in-depth-look-at-its-arm-power-advanced-5g-capabilities-and-extended-battery-performance-techreview/"><u>Exploring the Lenovo ThinkPad X13s: An In-Depth Look at Its ARM Power, Advanced 5G Capabilities, & Extended Battery Performance - TechReview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-value-computers-under-1k-cyber-monday-deals-at-amazon-costco-and-dell-zdnet-insights/"><u>Find the Best Value Computers: Under $1K Cyber Monday Deals at Amazon, Costco, and Dell | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/googles-latest-ai-leap-for-chromebooks-discover-the-5-powerful-tools-eclipsing-microsofts-code-assistant/"><u>Google's Latest AI Leap for Chromebooks: Discover the 5 Powerful Tools Eclipsing Microsoft's Code Assistant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hack-the-system-secure-your-dream-gaming-deals-during-octobers-prime-shopping-frenzy-and-save-huge/"><u>Hack the System: Secure Your Dream Gaming Deals During October's Prime Shopping Frenzy & Save Huge!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-perfect-pathway-insta-to-tiktok-junction/"><u>In 2024, The Perfect Pathway Insta to TikTok Junction</u></a></li>
+<li><a href="https://facebook.techidaily.com/introducing-ray-ban-stories-on-facebook-how-do-they-work/"><u>Introducing Ray-Ban Stories on Facebook - How Do They Work?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/laugh-out-loud-meme-making-techniques-for-2024/"><u>Laugh Out Loud Meme-Making Techniques for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mp4mover-redeem-troubled-videos/"><u>MP4Mover: Redeem Troubled Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-hypers-innovative-hubs-docks-and-ssd-cases-expand-laptop-capabilities-insights-from-zdnet/"><u>Unleashing Potential: Hyper's Innovative Hubs, Docks & SSD Cases Expand Laptop Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-cyber-deal-alert-snag-an-lg-gram-17-laptop-with-enormous-discounts-and-portability-zdnet/"><u>Unmissable Cyber Deal Alert: Snag an LG Gram 17 Laptop with Enormous Discounts and Portability | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-exploration-of-the-outstanding-duo-traits-that-make-this-lenovo-notebook-a-powerhouse-for-enthusiasts/"><u>ZDNet's Exploration of the Outstanding Duo Traits that Make This Lenovo Notebook a Powerhouse for Enthusiasts</u></a></li>
 </ul></div>
 

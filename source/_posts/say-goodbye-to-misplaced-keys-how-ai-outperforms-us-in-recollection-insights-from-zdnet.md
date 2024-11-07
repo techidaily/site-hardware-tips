@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Misplaced Keys! How AI Outperforms Us in Recollection - Insights From ZDNET
-date: 2024-09-17 13:33:55
-updated: 2024-09-20 12:34:58
+date: 2024-11-05T16:05:45.032Z
+updated: 2024-11-07T16:01:04.154Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-frequent-monetization-is-it-real-on-youtube/"><u>[Updated] Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-brightening-up-your-youtube-content-for-2024/"><u>[Updated] The Ultimate Guide to Brightening Up Your YouTube Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fun-flair-for-text-memes-with-easy-genrator/"><u>2024 Approved Fun Flair for Text Memes with Easy Gen'rator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/6-shop-now-on-zdnet/"><u>6 | Shop Now on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-your-apple-watch-series-n-be-green-unveiling-the-impact-of-band-selection-on-sustainability/"><u>Can Your Apple Watch Series N Be Green? Unveiling the Impact of Band Selection on Sustainability</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-perfect-blend-of-fitness-and-functionality-in-the-huawei-watch-gt-runner/"><u>In-Depth Review: The Perfect Blend of Fitness and Functionality in the Huawei Watch GT Runner</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigate-the-future-of-meetings-a-win11-and-zoom-guide-for-2024/"><u>Navigate the Future of Meetings A Win11 and Zoom Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-update-hanging-at-zero-percent/"><u>Quick Solutions for Resolving Window's Update Hanging at Zero Percent</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-with-the-new-samsung-galaxy-watch-ebit-100-off-apples-new-offering-can-wait-check-out-zdnet-for-details/"><u>Score Big Savings with the New Samsung Galaxy Watch Ebit $100 Off – Apple's New Offering Can Wait, Check Out ZDNet for Details!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-phone-bill-save-big-with-up-to-1200-off-on-samsungs-latest-z-fold-and-z-flip-models-today-insider-tips-gadgetguru-daily/"><u>Slash Your Phone Bill! Save Big with Up to $1,200 Off on Samsung's Latest Z Fold and Z Flip Models Today - Insider Tips | GadgetGuru Daily</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-deleting-everything-from-your-iphone-top-10-data-removal-apps-reviewed/"><u>The Ultimate Guide to Deleting Everything From Your iPhone - Top 10 Data Removal Apps Reviewed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker/"><u>Updated Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210533600-9781398814523-virgo/"><u>Virgo | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-top-garmin-watch-models-of-202n-expert-insights-and-ratings/"><u>ZDNet's Ultimate Guide to the Top Garmin Watch Models of 202N - Expert Insights & Ratings</u></a></li>
+</ul></div>
+

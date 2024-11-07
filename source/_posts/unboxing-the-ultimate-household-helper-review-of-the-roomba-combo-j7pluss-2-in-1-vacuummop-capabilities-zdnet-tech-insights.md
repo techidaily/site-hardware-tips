@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Ultimate Household Helper? Review of the Roomba Combo J7+'s 2-in-1 Vacuum/Mop Capabilities | Zdnet Tech Insights
-date: 2024-09-17 23:38:18
-updated: 2024-09-20 10:16:47
+date: 2024-11-03T16:00:35.805Z
+updated: 2024-11-07T16:08:24.250Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-an-irresistible-brand-image-on-your-fb-page-for-2024/"><u>[Updated] Crafting an Irresistible Brand Image on Your FB Page for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-the-world-of-android-video-snapshots-for-2024/"><u>[Updated] Navigating the World of Android Video Snapshots for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-uber-introduces-innovative-carbon-footprint-monitor-track-your-co2-savings-on-every-ride-the-latest-update-from-tech-world/"><u>1. Uber Introduces Innovative Carbon Footprint Monitor: Track Your CO2 Savings on Every Ride - The Latest Update From Tech World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unveiling-green-technology-challenges-strategies-for-securing-additional-support/"><u>1. Unveiling Green Technology Challenges: Strategies for Securing Additional Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/11-pro-tips-to-leverage-chatgpt-in-character-creation-success/"><u>11 Pro Tips to Leverage ChatGPT in Character Creation Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2-expert-picks-for-ultimate-iphone-1n-pro-and-max-defenders-gizmodo/"><u>2: Expert Picks for Ultimate iPhone 1N-Pro and Max Defenders | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-guide-to-choosing-an-electric-leaf-blower-insights-from-zdnet/"><u>2022'S Ultimate Guide to Choosing an Electric Leaf Blower - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-green-revolution-unveiled-how-the-new-samsung-galaxy-s23-leads-as-the-eco-conscious-choice-for-smartphone-users-insights-from-zdnet/"><u>A Green Revolution Unveiled: How the New Samsung Galaxy S23 Leads as the Eco-Conscious Choice for Smartphone Users - Insights From ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-x50iplus-frp-bypass-by-drfone-android/"><u>About Honor X50i+ FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-powered-samsung-smartthings-revolutionizing-home-energy-efficiency-insights-from-zdnet/"><u>AI-Powered Samsung SmartThings: Revolutionizing Home Energy Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-mix-fold-3-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Mix Fold 3 Lock Screen Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reopening-calendars-and-mail/"><u>Mastering the Art of Reopening Calendars and Mail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12-pro-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12 Pro 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-what-a-mobile-network-operator-entails/"><u>Understanding What a Mobile Network Operator Entails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-unparalleled-productivity-in-depth-examination-of-the-zendure-superbase-pro-n-2000-on-zdnet/"><u>Unleash Unparalleled Productivity - In-Depth Examination of the Zendure SuperBase Pro N 2000 on ZDNet!</u></a></li>
+</ul></div>
+

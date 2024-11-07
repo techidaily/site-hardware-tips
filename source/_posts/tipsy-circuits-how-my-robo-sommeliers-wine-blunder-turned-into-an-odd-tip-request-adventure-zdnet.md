@@ -1,7 +1,7 @@
 ---
 title: Tipsy Circuits! How My Robo-Sommelier's Wine Blunder Turned Into an Odd Tip Request Adventure | ZDNET
-date: 2024-09-17 23:28:52
-updated: 2024-09-20 10:17:25
+date: 2024-11-02T16:04:56.065Z
+updated: 2024-11-07T16:02:29.957Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[Updated] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-cleaning-game-with-the-expertly-tested-and-reviewed-best-robot-vacuums-for-dealing-with-pet-hair-zdnets-definitive-list/"><u>Ace Your Cleaning Game with the Expertly Tested and Reviewed Best Robot Vacuums for Dealing with Pet Hair: ZDNET's Definitive List</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-why-you-shouldnt-disable-wins-11-notifications/"><u>Discover Why You Shouldn't Disable Wins 11 Notifications</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/macos-compatible-printer-installation-tutorial-what-you-need-to-know/"><u>MacOS Compatible Printer Installation Tutorial: What You Need To Know</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/seamlessly-bring-back-windows-photo-viewer-in-win-11-systems/"><u>Seamlessly Bring Back Windows Photo Viewer in Win 11 Systems</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/simplify-your-system-quickly-clean-up-after-windows-11-updates-in-three-simple-steps/"><u>Simplify Your System: Quickly Clean Up After Windows 11 Updates in Three Simple Steps</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/top-10-editeurs-de-pdf-gratuits-pour-windows-votre-guide-ultime-pour-maitriser-la-gestion-des-fichiers/"><u>Top 10 Éditeurs De PDF Gratuits Pour Windows : Votre Guide Ultime Pour Maitriser La Gestion Des Fichiers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-effective-robot-vacuums-for-pet-owners-tested-and-evaluated-gizmodo/"><u>Ultimate Guide to the Most Effective Robot Vacuums for Pet Owners , Tested & Evaluated | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-a-revolutionary-perspective-on-ai-and-robot-design-drawing-parallels-with-the-natural-world-as-suggested-by-the-new-breed-zdnet-analysis/"><u>Unveiling a Revolutionary Perspective on AI & Robot Design: Drawing Parallels with the Natural World as Suggested by The New Breed | ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-of-2024s-smartest-home-innovations-expertly-tested-and-scrutinized/"><u>ZDNet's Ultimate Selection of 2024'S Smartest Home Innovations: Expertly Tested and Scrutinized</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Expanding Automation: Matter Version 1.2 Welcomes 9 More IoT Devices - Exclusive Update From ZDNet"
-date: 2024-09-19 15:53:44
-updated: 2024-09-20 11:56:11
+date: 2024-11-04T16:03:33.625Z
+updated: 2024-11-07T16:03:39.951Z
 tags:
   - smart-lighting
 categories:
@@ -52,11 +52,36 @@ This [Google Nest Hub 2](https://goto.walmart.com/c/5597632/565706/9383?sharedId
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/est-youtube-livestreaming-screen-recorders/"><u>[New] Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-small-spaces-big-flavor-6-miniature-east-asian-houses/"><u>[New] In 2024, Small Spaces, Big Flavor 6 Miniature East Asian Houses</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-educators-manual-for-integrating-video-in-classroom-instruction/"><u>[Updated] Educator's Manual for Integrating Video in Classroom Instruction</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-skyrocket-your-channel-mastery-of-youtube-data-analysis/"><u>[Updated] Skyrocket Your Channel Mastery of YouTube Data Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>2024 Approved Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-social-gaming-on-xbox-using-zoom/"><u>Enhance Social Gaming on Xbox Using Zoom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-power-in-tiny-packages-the-next-best-thing-to-a-mac-mini-but-for-windows-lovers-gizmodaily/"><u>Experience Power in Tiny Packages: The Next Best Thing to a Mac Mini, But For Windows Lovers | GizmoDaily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-shakes-up-the-tech-world-with-launch-of-compact-all-in-one-pc-plus-3-more-shocking-news-stories-zdnet/"><u>HP Shakes Up the Tech World with Launch of Compact All-in-One PC, Plus 3 More Shocking News Stories | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-optimal-workstations-for-creative-professionals-insights-from-zdnet/"><u>Top 5 Optimal Workstations for Creative Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-70-luxury-gaming-pc-bargains-for-seniors-cyberpowerpc/"><u>Top 70 Luxury Gaming PC Bargains for Seniors | CyberPowerPC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-comprehensive-computer-systems-of-2024-in-depth-reviews-by-experts-zdnet/"><u>Top Rated Comprehensive Computer Systems of 2024 - In-Depth Reviews by Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-gamestop-offer-snagging-bargains-as-if-on-the-sly-zdnet-insights/"><u>Unbelievable GameStop Offer: Snagging Bargains as if on the Sly | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-tpm-in-windows-11-a-crucial-security-feature-explained/"><u>Understanding TPM in Windows 11 - A Crucial Security Feature Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992878525-warcraft-3-reforged-pc-crashes-fix-it-with-these-essential-updates/"><u>Warcraft 3 Reforged PC Crashes? Fix It with These Essential Updates !</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

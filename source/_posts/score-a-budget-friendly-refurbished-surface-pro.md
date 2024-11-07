@@ -1,7 +1,7 @@
 ---
 title: Score a Budget-Friendly Refurbished Surface Pro
-date: 2024-10-27T18:44:44.353Z
-updated: 2024-11-01T19:19:15.066Z
+date: 2024-11-03T16:01:19.833Z
+updated: 2024-11-07T16:02:18.637Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,16 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -64,10 +70,10 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,6 +91,13 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -123,10 +136,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -148,13 +161,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -200,19 +206,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-securing-social-media-memories-the-latest-on-downloading-fb-statuses-for-2024/"><u>[New] Securing Social Media Memories The Latest on Downloading Fb Statuses for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unmasked-influence-introducing-the-power-players-of-insta-for-2024/"><u>[New] Unmasked Influence Introducing the Power Players of Insta for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/embrace-audio-wonders-streaming-podcasts-with-an-iphone/"><u>Embrace Audio Wonders Streaming Podcasts with an iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-missing-d3dx933dll-error-on-windows-systems/"><u>How to Restore Missing d3dx9_33.dll Error on Windows Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nubia-z50-ultra-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nubia Z50 Ultra Without PUK Codes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-reno-11f-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999792283-quick-resolution-for-apex-legends-not-launching-master-these-fixes-today/"><u>Quick Resolution for Apex Legends Not Launching? Master These Fixes Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-errors-to-steer-clear-of-in-chatgpt-based-content-generation/"><u>Top 4 Errors to Steer Clear of in ChatGPT-Based Content Generation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-google-pixel-6-in-2/"><u>Top-Rated Protective Covers for Google Pixel 6 in 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshoot-mobile-internet-issues-top-8-solutions-when-your-androids-data-wont-connect/"><u>Troubleshoot Mobile Internet Issues: Top 8 Solutions When Your Android's Data Won't Connect</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-durable-phone-cases-for-google-pixel-7a-2023-edition/"><u>Ultimate Selection: Durable Phone Cases for Google Pixel 7a - 2023 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-tips-for-choosing-and-configuring-default-programs-on-your-android-device/"><u>Ultimate Tips for Choosing and Configuring Default Programs on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-functionality-of-carkey-technology-in-android-devices/"><u>Understanding the Functionality of CarKey Technology in Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-security-of-googles-find-my-device-how-effective-is-it-in-locating-lost-phones-or-tablets/"><u>Understanding the Security of Google's Find My Device: How Effective Is It in Locating Lost Phones or Tablets?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-dive-into-the-world-of-ifunny-meme-app-for-2024/"><u>[New] Dive Into the World of iFunny Meme App for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosted-by-8-top-android-tools-no-more-slow-motion/"><u>Boosted by 8 Top Android Tools, No More Slow Motion</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-yuva-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Yuva 2 Phones with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-list-of-high-quality-recorders-for-mac-users/"><u>In 2024, Essential List of High-Quality Recorders for Mac Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instantaneous-photographic-view-in-win11/"><u>Instantaneous Photographic View in Win11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-securing-and-accessing-your-samsung-galaxy-display/"><u>Step-by-Step Guide: Securing & Accessing Your Samsung Galaxy Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-process-of-networked-printing-with-shared-accessibility/"><u>The Comprehensive Process of Networked Printing with Shared Accessibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-best-value-how-apples-hidden-savings-on-ipad-pro-pre-prime-day-is-an-exceptional-offer-insights-from-zdnet/"><u>Unlocking the Best Value: How Apple’s Hidden Savings on iPad Pro Pre-Prime Day Is an Exceptional Offer - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-macbooks-style-with-the-perfect-new-case-exclusive-picks-from-zdnet/"><u>Upgrade Your MacBook's Style with the Perfect New Case: Exclusive Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tech-life-4-compelling-benefits-of-choosing-the-new-2-apple-ipad-pro-a-must-read-especially-if-you-have-an-outdated-tablet/"><u>Upgrade Your Tech Life: 4 Compelling Benefits of Choosing the New 2 # Apple iPad Pro - A Must-Read, Especially If You Have an Outdated Tablet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/windows-warriors-rejoice-how-the-new-microsoft-surface-pro-9-positions-itself-as-a-top-contender-against-macbook-exclusive-review-by-zdnet/"><u>Windows Warriors Rejoice: How the New Microsoft Surface Pro 9 Positions Itself as a Top Contender Against MacBook | Exclusive Review by ZDNet</u></a></li>
 </ul></div>
 

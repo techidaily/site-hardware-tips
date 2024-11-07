@@ -1,7 +1,7 @@
 ---
 title: Unlocking Peak Performance While Working From Home with HP's Copilot+ Laptop | Proven Results by ZDNET
-date: 2024-10-25T16:58:27.472Z
-updated: 2024-11-01T17:28:24.891Z
+date: 2024-11-02T16:09:28.323Z
+updated: 2024-11-07T16:10:19.640Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,16 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -91,10 +85,16 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -136,20 +136,22 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-green-thumbs-united-top-10-agrigames-for-friends-and-family-for-2024/"><u>[Updated] Green Thumbs United Top 10 AgriGames for Friends and Family for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-quality-logitech-webcam-recording-guide/"><u>[Updated] In 2024, Capturing Quality Logitech Webcam Recording Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-wireless-mouse-picks-boost-productivity-and-comfort-on-the-go/"><u>2024'S Leading Wireless Mouse Picks: Boost Productivity & Comfort on the Go</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-upgrade-windows-storage-safely/"><u>Efficient Ways to Upgrade Windows Storage Safely</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortlessly-convert-your-vob-videos-to-mkv-at-no-cost-using-movavis-web-service/"><u>Effortlessly Convert Your VOB Videos to MKV at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-use-your-xbox-one-as-a-dvd-player-step-by-step-guide/"><u>How To Use Your Xbox One As A DVD Player – Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovating-sustainable-communities-within-the-concrete-jungle-for-2024/"><u>Innovating Sustainable Communities Within the Concrete Jungle for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instagram-tips-sharing-your-podcast-content/"><u>Instagram Tips Sharing Your Podcast Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastery-of-gadgets-and-hardware-features-by-toms-guidance/"><u>Mastery of Gadgets and Hardware Features by Tom's Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/micronics-introduces-affordable-desktop-sized-sls-3d-printer-at-299eplus06-revolutionizing-additive-manufacturing/"><u>Micronics Introduces Affordable Desktop-Sized SLS 3D Printer at $2,99E+06 - Revolutionizing Additive Manufacturing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-trustworthy-advice-from-toms-hardware/"><u>Navigating the World of Gadgets - Trustworthy Advice From Tom's Hardware</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/to-profitability-enrolling-in-the-youtube-partner-program-for-2024/"><u>Path to Profitability Enrolling in the YouTube Partner Program for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175724997-say-goodbye-to-diy-mistakes-the-ultimate-idiot-proof-tim-application-solution-by-x-apply-is-almost-here/"><u>Say Goodbye to DIY Mistakes: The Ultimate, 'Idiot Proof' TIM Application Solution by X-Apply Is Almost Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/shattering-performance-records-ryzen-9-9950x-hits-67ghz-overclocked-with-ln2-cooling/"><u>Shattering Performance Records: Ryzen 9 9950X Hits 6.7GHz Overclocked With LN2 Cooling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-tips-from-toms-hardware/"><u>Unveiling the Latest in PC Components: Tips From Tom's Hardware</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ocam-screen-recorder-download-for-2024/"><u>[New] OCam Screen Recorder Download for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-webcam-integration-for-flawless-gameplay-logs/"><u>[Updated] 2024 Approved Webcam Integration for Flawless Gameplay Logs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fifas-favorite-footage-charted-on-youtube/"><u>[Updated] FIFA's Favorite Footage Charted on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>2024 Approved Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>In 2024, The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-resolving-missing-gpeditmsc-error-on-pcs/"><u>Solutions for Resolving Missing Gpedit.msc Error on PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-red-magic-9-proplus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Red Magic 9 Pro+ FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tv-promotions-and-discounts-in-may-2024-explore-the-latest-offers-on-zdnet/"><u>Top TV Promotions & Discounts in May 2024 - Explore the Latest Offers on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-televisions-showcased-at-ces-2024-insights-from-zdnet/"><u>Top-Rated Televisions Showcased at CES 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-tv-screen-cleaning-solutions-expert-picks/"><u>Top-Rated TV Screen Cleaning Solutions : Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-buyers-guide-to-the-best-tvs-for-ps5-in-2vearly-2024-expert-insights-and-ratings-zdnet/"><u>Ultimate Buyer's Guide to the Best TVs for PS5 in 2Vearly 2024: Expert Insights and Ratings | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-tv-for-your-ps5-expert-insights-and-ratings-zdnet/"><u>Ultimate Guide to Choosing the Perfect TV for Your PS5 - Expert Insights and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-enhancing-quality-of-an-affordable-98-inch-ledlcd-television-for-unparalleled-viewing-experience-zdnet/"><u>Ultimate Guide to Enhancing Quality of an Affordable 98-Inch LED/LCD Television for Unparalleled Viewing Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-premier-tv-screen-cleaners-on-zdnet/"><u>Ultimate Guide to the Premier TV Screen Cleaners on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-top-rated-samsung-television-now-43-discounted-in-honor-of-labor-day-insights-from-zdnet/"><u>Unbeatable Deal: Top-Rated Samsung Television Now 43% Discounted in Honor of Labor Day - Insights From ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-time-lapse-mastery-top-video-editing-software-free-and-paid/"><u>Updated Time-Lapse Mastery Top Video Editing Software (Free & Paid)</u></a></li>
 </ul></div>
 

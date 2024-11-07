@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Robot: The New Assistant Replacing Canes & Guide Dogs for Those with Visual Challenges - Featured on ZDNet"
-date: 2024-09-17 19:19:30
-updated: 2024-09-20 11:51:12
+date: 2024-11-03T16:04:05.019Z
+updated: 2024-11-07T16:00:19.174Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-first-impressions-a-deep-dive-into-3d-printing-alone-for-2024/"><u>[New] First Impressions A Deep Dive Into 3D Printing Alone for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/triking-the-right-balance-essential-thumbnail-size-tips/"><u>[New] Striking the Right Balance Essential Thumbnail Size Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-views-no-more-grey-lines-for-2024/"><u>[Updated] Freeing Up YouTube Views No More Grey Lines for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-professional-recordings-at-home-10-key-strategies-for-excellence/"><u>[Updated] In 2024, Professional Recordings at Home 10 Key Strategies for Excellence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premium-avplayer-xpress-for-mobile-and-desktop-users/"><u>[Updated] Premium AVPlayer Xpress for Mobile & Desktop Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-a-future-ready-smart-abode-discover-the-key-decisions-i-made-first-zdnet-guide/"><u>Crafting a Future-Ready Smart Abode - Discover the Key Decisions I Made First | ZDNET Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-picks-for-smart-plug-gadgets-2023-edition-insights-from-zdnet/"><u>Explore the Ultimate Picks for Smart Plug Gadgets - 2023 Edition, Insights From ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fists-vs-followers-choosing-the-champion-for-2024/"><u>Fists vs Followers Choosing the Champion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-deals-alert-get-30-off-on-adjustable-govee-neon-lighting-exclusive-review-by-techzetta/"><u>Labor Day Deals Alert: Get 30% Off on Adjustable Govee Neon Lighting - Exclusive Review by TechZetta</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nanoleafs-latest-innovation-launching-smart-light-strip-matter-with-early-bird-access/"><u>Nanoleaf's Latest Innovation: Launching Smart Light Strip 'Matter' With Early Bird Access</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-office-oasis-with-the-best-amazon-prime-fish-tank-lights-effortless-brightness-and-calm-await/"><u>Transform Your Office Oasis with the Best Amazon Prime Fish Tank Lights – Effortless Brightness and Calm Await!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-higher-engagement-the-power-of-precise-timestamping-for-2024/"><u>Unlock Higher Engagement The Power of Precise Timestamping for 2024</u></a></li>
+</ul></div>
+

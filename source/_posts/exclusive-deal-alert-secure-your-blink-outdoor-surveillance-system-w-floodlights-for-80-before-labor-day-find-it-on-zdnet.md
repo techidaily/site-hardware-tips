@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal Alert: Secure Your Blink Outdoor Surveillance System W/ Floodlights for $80 Before Labor Day | Find It on ZDNET"
-date: 2024-09-17 16:33:36
-updated: 2024-09-20 10:37:57
+date: 2024-11-05T16:00:46.915Z
+updated: 2024-11-07T16:00:53.665Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,26 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elevate-engagement-the-list-of-todays-hot-instagram-hashtags/"><u>[New] 2024 Approved Elevate Engagement The List of Today's Hot Instagram Hashtags</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unravel-the-10-best-free-iphone-image-organizers-and-designers-for-2024/"><u>[New] Unravel the 10 Best FREE iPhone Image Organizers and Designers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-maximize-your-hd-vids-experience-the-ultimate-android-apps-list-for-2024/"><u>[Updated] Maximize Your Hd Vids Experience The Ultimate Android Apps List for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-surge-protection-devices-ranked-by-experts-gizmodo/"><u>2024'S Leading Surge Protection Devices Ranked by Experts | Gizmodo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apologies-apple-lovers-discover-why-this-logitech-keyboard-is-now-my-preferred-choice-for-mac-systems-insights-from-zdnet/"><u>Apologies, Apple Lovers! Discover Why This Logitech Keyboard Is Now My Preferred Choice for Mac Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005850275-dayz-action-shooter-instantly-drop-frame-rate-with-simple-fixes/"><u>DayZ Action Shooter: Instantly Drop Frame Rate with Simple Fixes!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-expansion-connecting-additional-thunderbolt-monitors-to-your-m1-mac-mini-advice-by-zdnet-experts/"><u>Effortless Expansion: Connecting Additional Thunderbolt Monitors to Your M1 Mac Mini – Advice by ZDNET Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-simple-steps-to-install-or-update-your-amd-rx-580-graphics-drivers/"><u>Get the Latest: Simple Steps to Install or Update Your AMD RX 580 Graphics Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photographic-purity-and-proficiency-in-chromatic-control/"><u>Photographic Purity and Proficiency in Chromatic Control</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-premium-monitors-this-cyber-monday-checkout-sale-deals-by-leading-brands-like-samsung-asus-and-lg-zdnet-insights/"><u>Save Big on Premium Monitors This Cyber Monday: Checkout Sale Deals by Leading Brands Like Samsung, ASUS & LG | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-pick-from-ces-the-innovative-stylus-for-your-laptop-with-surprising-paper-writing-capabilities/"><u>ZDNet's Top Pick From CES: The Innovative Stylus for Your Laptop with Surprising Paper Writing Capabilities</u></a></li>
+</ul></div>
+

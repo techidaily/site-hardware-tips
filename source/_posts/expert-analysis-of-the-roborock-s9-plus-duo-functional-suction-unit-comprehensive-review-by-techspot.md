@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Roborock S9 Plus Duo-Functional Suction Unit - Comprehensive Review by TechSpot
-date: 2024-09-19 12:55:48
-updated: 2024-09-20 12:53:20
+date: 2024-11-02T16:00:03.106Z
+updated: 2024-11-07T16:00:19.255Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-3d-software-for-dynamic-youtube-intros/"><u>[New] In 2024, Best 3D Software for Dynamic YouTube Intros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-symphony-space-recordings-downloads-for-study-for-2024/"><u>[New] Symphony Space Recordings, Downloads for Study for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>[New] The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-polar-grit-x-pro-titan-enhancing-workout-insights-with-advanced-features-zdnet/"><u>Comprehensive Evaluation of Polar Grit X Pro Titan: Enhancing Workout Insights with Advanced Features | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-withings-scanwatch-evaluation-the-ultimate-blend-of-fashion-and-advanced-medical-monitoring/"><u>Comprehensive Withings ScanWatch Evaluation - The Ultimate Blend of Fashion & Advanced Medical Monitoring</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/digital-mastery-top-10-instagram-enhancers/"><u>Digital Mastery Top 10 Instagram Enhancers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/futureproof-your-fitness-routine-with-2024s-elite-waterproof-smartwatches-in-depth-reviews-and-comparisons-engadget/"><u>Futureproof Your Fitness Routine with 2024'S Elite Waterproof Smartwatches: In-Depth Reviews & Comparisons | Engadget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/holiday-bargain-alert-apple-watch-ultra-plunges-to-unprecedented-discounts-sparks-consumer-frenzy-tech-news-breakdown/"><u>Holiday Bargain Alert! Apple Watch Ultra Plunges to Unprecedented Discounts, Sparks Consumer Frenzy | Tech News Breakdown</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-poco-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Poco</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-facebooks-reel-capable-of-dethroning-tiktok/"><u>Is Facebook's Reel Capable of Dethroning TikTok?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/review-the-ultimate-4k-action-recorder-for-2024/"><u>Review The Ultimate 4K Action Recorder for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/snapshots-snatcher-app/"><u>Snapshots Snatcher App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievably-affordable-the-top-rated-ultra-resilient-smartwatch-you-dont-want-to-miss/"><u>Unbelievably Affordable: The Top-Rated, Ultra-Resilient Smartwatch You Don't Want to Miss</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-the-apple-watch-ultra-hits-record-lows-before-holiday-shopping-season-exclusive-insight/"><u>Unlocking Savings: The Apple Watch Ultra Hits Record Lows Before Holiday Shopping Season - Exclusive Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-years-best-tech-marvels-a-comprehensive-guide-to-202gadgets-and-devices-that-defined-2022-expert-review-by-zdnet/"><u>Unveiling the Year's Best Tech Marvels: A Comprehensive Guide to 202^GADGETS and Devices that Defined 2022 – Expert Review by ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y200-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y200 Phones</u></a></li>
+</ul></div>
+

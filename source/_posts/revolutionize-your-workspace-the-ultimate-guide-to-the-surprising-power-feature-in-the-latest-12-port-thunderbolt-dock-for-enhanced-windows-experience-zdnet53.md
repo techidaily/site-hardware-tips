@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Workspace: The Ultimate Guide to the Surprising Power Feature in the Latest 12-Port Thunderbolt Dock for Enhanced Windows Experience | ZDNET"
-date: 2024-10-30T20:05:22.785Z
-updated: 2024-11-01T18:00:56.346Z
+date: 2024-11-02T16:00:46.846Z
+updated: 2024-11-07T16:07:46.694Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -62,10 +62,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -108,13 +108,6 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -136,10 +129,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -151,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,22 +190,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-capturing-the-essence-including-dates-in-image-files/"><u>[New] 2024 Approved Capturing the Essence Including Dates in Image Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-bridging-photo-realms-on-your-system/"><u>[New] Bridging Photo Realms on Your System</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-rhythm-and-reels-for-music-masters-on-ig/"><u>[New] In 2024, Rhythm & Reels for Music Masters on IG</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-superior-choices-in-group-chat-software/"><u>[Updated] Superior Choices in Group Chat Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/200-price-drop-snag-the-acer-nitro-34-curved-wqhd-monitor-on-newegg-today/"><u>$200 Price Drop! Snag the Acer Nitro 34'' Curved WQHD Monitor on Newegg Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862839542-affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-releases-stunning-new-27-oled-gaming-display-featuring-zero-flicker-and-adaptive-sync-technology/"><u>Asus Releases Stunning New 27 OLED Gaming Display Featuring Zero Flicker & Adaptive Sync Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862841745-discounted-24-freesync-dell-screen-at-an-unbeatable-price-of-just-99/"><u>Discounted 24 FreeSync Dell Screen at an Unbeatable Price of Just $99!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discounted-deal-steal-a-mighty-thor-darth-vader-inspired-24-inch-monitor-for-just-139-from-chinese-seller/"><u>Discounted Deal: Steal a Mighty 'Thor Darth Vader' Inspired 24-Inch Monitor for Just $139 From Chinese Seller</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-crystal-clear-imagery-with-asrocks-innovative-32-oled-monitor-boosted-by-480hz-and-optimal-router-compatibility/"><u>Dive Into Crystal Clear Imagery with ASROCK’s Innovative 32” OLED Monitor – Boosted by 480Hz and Optimal Router Compatibility</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862826335-get-your-hands-on-the-cutting-edge-display-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-a-steal-for-199/"><u>Get Your Hands on the Cutting-Edge Display: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at a Steal for $199!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-10-delayed-closing-problem/"><u>Resolving the Windows 10 Delayed Closing Problem</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-automatic-startup-issues-with-your-windows-11-computer/"><u>Understanding Automatic Startup Issues with Your Windows 11 Computer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/worldwide-rich-list-top-earning-youtubers-for-2024/"><u>Worldwide Rich List Top Earning YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-become-an-expert-at-youtube-live-streams-with-google-meet/"><u>[Updated] Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-new-era-for-android-time-lapsing-trends-and-techniques/"><u>2024 Approved A New Era for Android Time-Lapsing Trends & Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-stream-music-together-on-spotify-in-real-time/"><u>Can You Stream Music Together on Spotify in Real-Time?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-t-mobiles-wireless-roaming-terms-in-their-joint-venture-with-metro-by-t-mobile/"><u>Comprehensive Guide to T-Mobile's Wireless Roaming Terms in Their Joint Venture with Metro by T-Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/gpresult-command-guide-for-policy-reporting/"><u>GPResult Command Guide for Policy Reporting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-poco-x5-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Poco X5 FRP Without Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-apples-new-macbook-air-with-m3-chip-the-features-that-blew-us-away-gizmodo/"><u>In-Depth Review of Apple's New MacBook Air with M3 Chip: The Features That Blew Us Away | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-powerful-performance-of-hps-zbook-studio-g9-the-ultimate-professional-mobile-workstation-reviewed/"><u>Inside the Powerful Performance of HP's ZBook Studio G9: The Ultimate Professional Mobile Workstation Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-snag-a-microsoft-surface-laptop-5-at-an-unbeatable-price-of-850-now/"><u>Limited Time Offer: Snag a Microsoft Surface Laptop 5 at an Unbeatable Price of $850 - Now!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-15-inch-notebooks-of-2024-comprehensive-reviews-by-experts-techradar/"><u>Top Rated 15-Inch Notebooks of 2024 - Comprehensive Reviews by Experts | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-ultraportable-computers-in-depth-review-by-tech-experts/"><u>Top-Ranking Ultraportable Computers - In Depth Review by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-bargains-save-big-on-latest-october-prime-day-laptops-limited-time-only/"><u>Ultimate Bargains: Save Big on Latest October Prime Day Laptops – Limited Time Only!</u></a></li>
 </ul></div>
 

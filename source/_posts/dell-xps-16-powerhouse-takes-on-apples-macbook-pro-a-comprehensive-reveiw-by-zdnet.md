@@ -1,7 +1,7 @@
 ---
 title: Dell XPS 16 Powerhouse Takes on Apple's MacBook Pro - A Comprehensive Reveiw by ZDNet
-date: 2024-10-27T18:06:35.056Z
-updated: 2024-11-01T17:37:22.637Z
+date: 2024-11-03T16:10:37.962Z
+updated: 2024-11-07T16:09:01.852Z
 tags:
   - laptops
 categories:
@@ -64,10 +64,10 @@ You can expect to pay between $2,400 to $3,000 for the Galaxy Book 4 Ultra, whic
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the Samsung Galaxy Book 4 Ultra
@@ -81,6 +81,13 @@ Kerry Wan/ZDNET
 Most of the time, the laptop is either hooked to an external monitor (meaning I try to run as many windows of apps and services at the same time as possible) or used in tandem with my [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/) with the help of Quick Share and Second Screen. Both cross-platform features worked very smoothly, though they're mainly compatible with Samsung devices and Samsung devices only.
 
 For performance testing, I ran Cinebench 2024 to calculate the single, multi, and GPU scores of the laptop, while also taking notes on day-to-day aspects like fan speed and loudness, system temperature, frame rate drops, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are the Samsung Galaxy Book 4 Ultra's best features?
 
@@ -131,10 +138,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -152,13 +159,6 @@ The trackpad is also a physical one, meaning it presses down instead of mimickin
 ##  Final thought
 
 While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) as the "MacBook Pro for Samsung users," several upgrades this year, including the Intel Core Ultra chip for AI applications, touchscreen display, and improved battery life, make the laptop a formidable pickup for just about every Windows user. Just note that if you're a content creator who relies on full-sized SD cards to transfer photos and videos, you'll want to pick up a [dongle or docking station](https://www.zdnet.com/article/best-laptop-docking-station/) to work with the Galaxy Book. There's also no charging port on the laptop's right side, so you'll want to think twice when situating near an outlet.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -194,20 +194,24 @@ While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-link
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-boosting-revenue-the-content-creators-playbook/"><u>[New] 2024 Approved Boosting Revenue The Content Creator's Playbook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-guide-to-identifying-recent-instagram-leavers/"><u>[Updated] In 2024, Guide to Identifying Recent Instagram Leavers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio/"><u>[Updated] Sculpting Softness A Guide to Quieter Mixes with FL Studio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-marketing-how-to-plan-your-strategy-with-ideas/"><u>2024 Approved Instagram Video Marketing How to Plan Your Strategy with Ideas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-ultrawide-monitors-for-gamers/"><u>Best of the Best: Ultrawide Monitors for Gamers</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-slide-show-software-selection-on-latest-iphones/"><u>Best Slide Show Software Selection on Latest iPhones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-low-brightness-lenovo-monitors/"><u>Fixing Low-Brightness Lenovo Monitors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862811481-game-changer-alert-snag-a-monster-sized-999-39-lg-ultragear-wqhd-curved-monitor-from-amazon-right-now/"><u>Game Changer Alert: Snag a Monster-Sized $999, 39” LG Ultragear WQHD Curved Monitor From Amazon Right Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862768155-get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862841022-transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577139271-unleash-your-communication-skills-mondly-unveiled/"><u>Unleash Your Communication Skills – Mondly Unveiled!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-with-toms-hardware-wisdom/"><u>Unveiling Tech Secrets with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computing Hardware with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quick-climb-up-the-feed-use-of-likes-and-video-content/"><u>[New] 2024 Approved Quick Climb Up the Feed Use of Likes and Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>[New] 2024 Approved Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-eye-catching-text-in-media/"><u>[New] Top 10 Eye-Catching Text in Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unleash-the-potential-of-pip-in-microsoft-edge-browser/"><u>[Updated] 2024 Approved Unleash the Potential of PIP in Microsoft Edge Browser</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-your-dream-pc-dells-innovative-luna-laptop-with-modular-design-the-next-step-in-customization/"><u>Building Your Dream PC: Dell's Innovative Luna Laptop with Modular Design - The Next Step in Customization?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad/"><u>Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-metas-best-prime-day-sale-yet-unbeatable-512gb-quest-3-vr-headset-bargain-in-october/"><u>Exclusive Guide to Meta's Best Prime Day Sale Yet: Unbeatable 512GB Quest 3 VR Headset Bargain in October</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-curated-selection-of-lgbtq-shows-dominating-netflix-charts-in-july-2024/"><u>Explore Our Curated Selection of LGBTQ Shows Dominating Netflix Charts in July 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-is-your-channels-income-regular-via-youtube/"><u>In 2024, Is Your Channel's Income Regular via YouTube?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-poco-c51-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Poco C51? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-2024s-ultimate-bargain-tech-guide-laptops-and-deals/"><u>July 2024'S Ultimate Bargain Tech Guide: Laptops and Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/monitor-at-best-buy-for-prime-day-insider-tips/"><u>Monitor at Best Buy for Prime Day Insider Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-insight-the-ultimate-review-of-the-microsoft-surface-pro-8-for-enterprises-on-zdnet/"><u>Professional Insight: The Ultimate Review of the Microsoft Surface Pro 8 for Enterprises on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securely-erase-sensitive-information-from-your-windows-pc-a-step-by-step-guide-to-protecting-privacy-without-cost-insights/"><u>Securely Erase Sensitive Information From Your Windows PC: A Step-by-Step Guide to Protecting Privacy Without Cost - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seize-unbeatable-gaming-deals-in-october-24-last-chance-for-huge-savings-up-to-1000-exclusive-listing/"><u>Seize Unbeatable Gaming Deals in October '24: Last Chance for Huge Savings up to $1,000 Exclusive Listing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-an-hp-victus/"><u>Snag an HP Victus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-exclusive-october-2024-sales-on-premium-laptops-insider-tips-and-tricks/"><u>Top Picks: Exclusive October 2024 Sales on Premium Laptops - Insider Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-top-3-impressive-features-revealed-techinsights/"><u>Unboxing the Apple M3 MacBook Air: Top 3 Impressive Features Revealed | TechInsights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-tab-p11-pro-featuring-superior-qualities-amidst-some-flaws/"><u>Unveiling the Lenovo Tab P11 Pro: Featuring Superior Qualities Amidst Some Flaws</u></a></li>
 </ul></div>
 

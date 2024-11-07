@@ -1,7 +1,7 @@
 ---
 title: CES Spotlights Revolutionary Ecovacs Robotic Window Washer – An Exclusive Review on ZDNet's Tech Channel
-date: 2024-09-19 21:58:53
-updated: 2024-09-20 11:27:27
+date: 2024-11-04T16:01:51.870Z
+updated: 2024-11-07T16:08:19.619Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-your-potential-in-youtube-video-production-scripts/"><u>[New] 2024 Approved Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-highest-rated-vehicle-tracking-cameras-overview-for-2024/"><u>[New] Highest Rated Vehicle Tracking Cameras Overview for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-revolutionize-your-mac-streaming-experience/"><u>[New] In 2024, Revolutionize Your Mac Streaming Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>[Updated] Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-recording-device-quality-analysis/"><u>[Updated] Recording Device Quality Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-humor-with-excellent-zero-cost-memes/"><u>[Updated] Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-whoop-band-and-apple-watch-can-enhance-serious-training-regim/"><u>How the Whoop Band and Apple Watch Can Enhance Serious Training Regim</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-fitness-companion-discover-the-ideal-garmin-sport-watch-features-reviewed-by-zdnet/"><u>Ultimate Fitness Companion: Discover the Ideal Garmin Sport Watch - Features Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-ultimate-runners-companion-in-depth-look-at-the-solar-powered-garmin-forerunner-aturday/"><u>Unleashing the Ultimate Runner's Companion: In-Depth Look at the Solar-Powered Garmin Forerunner Aturday.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-samsung-devices-gain-fresh-google-innovations-exclusive-insights-revealed-by-zdnet/"><u>Upcoming Samsung Devices Gain Fresh Google Innovations: Exclusive Insights Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zooming-in-on-the-apple-watch-ultra-2-and-garmin-epix-pro-an-in-depth-comparison-of-their-advanced-amoled-tech/"><u>Zooming in on the Apple Watch Ultra 2 and Garmin Epix Pro: An In-Depth Comparison of Their Advanced AMOLED Tech</u></a></li>
+</ul></div>
+

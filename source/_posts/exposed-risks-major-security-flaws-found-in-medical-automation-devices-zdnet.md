@@ -1,7 +1,7 @@
 ---
 title: "Exposed Risks: Major Security Flaws Found in Medical Automation Devices - ZDNet"
-date: 2024-09-18 15:55:55
-updated: 2024-09-20 12:11:26
+date: 2024-11-03T16:06:11.511Z
+updated: 2024-11-07T16:08:13.929Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,38 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-iphone-timelapse-techniques/"><u>[New] Perfecting iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-quest-for-the-best-framerate-balancing-speed-and-clarity-for-2024/"><u>[New] The Quest for the Best Framerate - Balancing Speed & Clarity for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-finding-legal-music-a-producers-manual/"><u>[Updated] Finding Legal Music A Producer's Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-must-have-tech-gadgets-the-definitive-guide-by-zdnet/"><u>2023'S Must-Have Tech Gadgets: The Definitive Guide by ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleash-the-full-potential-of-your-images-with-snapchat/"><u>2024 Approved Unleash the Full Potential of Your Images with Snapchat</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-cards-and-markup-tips/"><u>Mastering YouTube Cards & Markup Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-disk-management-on-windows-11/"><u>Step-by-Step Guide: Accessing Disk Management on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successfully-update-your-amd-radeon-drivers-step-by-step-guide/"><u>Successfully Update Your AMD Radeon Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-revolution-in-motoring-unpacking-the-switch-to-evs/"><u>The Revolution in Motoring: Unpacking the Switch to EVs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-the-best-roku-models-and-players-for-202ameliorate-insider-tips-from-zdnet/"><u>Ultimate Guide to Buying the Best Roku Models and Players for 202Ameliorate | Insider Tips From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-highest-quality-4k-projectors-by-zdnet-experts/"><u>Ultimate Guide to the Highest Quality 4K Projectors by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-most-innovative-compact-projectors-recommendations-from-zdnet/"><u>Ultimate Guide to the Most Innovative Compact Projectors – Recommendations From ZDnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-zdnets-choice-for-leading-portable-projectors/"><u>Ultimate Guide: ZDNet's Choice for Leading Portable Projectors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-finest-32-inch-tvs-of-2024-professional-insights-and-comprehensive-guides-on-zdnet/"><u>Unveiling the Finest 32-Inch TVs of 2024: Professional Insights and Comprehensive Guides on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-the-official-heir-to-chromecast-meet-the-99-google-tv-streaming-stick/"><u>ZDNet Unveils the Official Heir to Chromecast – Meet the $99 Google TV Streaming Stick!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-top-choice-streamers-unveiled/"><u>ZDNET's Ultimate Guide: Top Choice Streamers Unveiled</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

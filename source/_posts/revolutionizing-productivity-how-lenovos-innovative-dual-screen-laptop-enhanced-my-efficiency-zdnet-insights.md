@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Productivity: How Lenovo's Innovative Dual-Screen Laptop Enhanced My Efficiency | ZDNet Insights"
-date: 2024-10-29T21:34:52.880Z
-updated: 2024-11-01T17:55:36.030Z
+date: 2024-11-04T16:10:50.173Z
+updated: 2024-11-07T16:05:48.575Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,13 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -53,13 +60,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7720f040-ecee-4f18-b2a4-d4eddb365f24%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,10 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -108,6 +108,13 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -128,13 +135,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -146,10 +146,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,18 +190,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-masters-in-virtual-enclosure-devices/"><u>[New] In 2024, Masters in Virtual Enclosure Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175696251-5-uphere-m201-essential-nvme-ssd-heatsink-performance-review-reliable-thermal-management-on-a-budget/"><u>$5 UpHere M201 Essential NVMe SSD Heatsink Performance Review - Reliable Thermal Management on a Budget!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcool-hit-by-us-sanctions-pc-cooling-and-power-supplies-banned-for-russian-markets-during-ukraine-war/"><u>DeepCool Hit by U.S. Sanctions: PC Cooling and Power Supplies Banned for Russian Markets During Ukraine War</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-on-teamgroups-ultimate-nvme-cooler-the-unrivaled-airflow-i-heatsink-solution/"><u>Expert Reviews on TeamGroup's Ultimate NVMe Cooler: The Unrivaled AirFlow I Heatsink Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-hardware-guide/"><u>Exploring Computer Components with Tom's Hardware Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-of-aiff-audio-files-movavis-simple-guide/"><u>Free Online Conversion of AIFF Audio Files: Movavi's Simple Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max, Apples New iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-dall-e-3s-integrated-edit-functionality-and-its-development-journey/"><u>In-Depth Look at DALL-E 3'S Integrated Edit Functionality and Its Development Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-av1-really-outdo-cooking-vp9-for-2024/"><u>Is AV1 Really Outdo Cooking VP9 for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-the-new-youtube-earnings-landscape/"><u>Navigating the New YouTube Earnings Landscape</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-ek-direct-die-aio-cooler-achieve-up-to-20c-lower-temps-on-your-intel-core-i7-13900ks/"><u>Stay Chill with EK Direct Die AIO Cooler – Achieve Up to 20°C Lower Temps on Your Intel Core I7 13900KS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware-1723264116053/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-sonic-transformation-a-list-of-top-5-audio-alteration-software/"><u>Updated Mastering Sonic Transformation A List of Top 5 Audio Alteration Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-dissecting-the-potential-of-inshots-video-craft-for-2024/"><u>[Updated] Dissecting the Potential of InShot's Video Craft for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-tv-brand-lg-or-samsung-a-comprehensive-review-zdnet/"><u>Choosing the Best TV Brand: LG or Samsung? A Comprehensive Review - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/claim-your-exclusive-offer-samsungs-limited-time-promo-for-a-complimentary-65-4k-television-act-fast-before-it-ends/"><u>Claim Your Exclusive Offer: Samsung's Limited-Time Promo for a Complimentary 65 4K Television - Act Fast Before It Ends!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/committees-play-a-critical-role-in-shaping-legislation-through-hearings-and-amendments/"><u>Committees Play a Critical Role in Shaping Legislation Through Hearings and Amendments.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-crystal-uhd-and-qled-technology-in-samsungs-latest-televisions-insights-from-zdnet/"><u>Comparing Crystal UHD and QLED Technology in Samsung's Latest Televisions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-oled-vs-led-technology-which-screen-is-superior/"><u>Comparing OLED Vs. LED Technology: Which Screen Is Superior?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/desai-c-760-ce-during-the-rule-of-rashtrakuta-emperor-krishna-i-r-753774/"><u>Desai: C. 760 CE During the Rule of Rashtrakuta Emperor Krishna I (R. 753–774)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-google-meet-mic-problems-in-windows-11-and-10-with-easy-fixes/"><u>Eliminate Google Meet Mic Problems in Windows 11 and 10 with Easy Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-power-and-performance-a-comprehensive-review-of-galaxys-ford-f150-rc-truck/"><u>Exploring the Power and Performance: A Comprehensive Review of Galaxy's Ford F150 RC Truck</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/free-conversion-of-mp4-to-premium-quality-mp3-6-essential-methods/"><u>Free Conversion of MP4 to Premium-Quality MP3: 6 Essential Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dive-into-apods-an-uncomplicated-download-guide/"><u>In 2024, Dive Into APods An Uncomplicated Download Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/svensk-geni-ditt-avstand-till-sverige/"><u>Svensk Geni: Ditt Avstånd Till Sverige</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-power-of-video-conferencing-on-android/"><u>Unveiling the Power of Video Conferencing on Android</u></a></li>
 </ul></div>
 

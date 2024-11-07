@@ -1,7 +1,7 @@
 ---
 title: "Top Highlights From CES 2024: Expert Recommendations by ZDNet Analysts"
-date: 2024-10-25T19:26:37.368Z
-updated: 2024-11-01T16:20:34.216Z
+date: 2024-11-02T16:02:59.192Z
+updated: 2024-11-07T16:10:28.337Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,13 @@ Samsung S95D
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkBook Plus Gen 5 Hybrid: Best laptop
 
 We've tested and seen plenty of 2-in-1 computers at ZDNET, but there's none quite like Lenovo's new ThinkBook Plus Gen 5 Hybrid. That's because this is the world's first 2-in-1 Windows PC and Android tablet, meaning as you detach the 14-inch OLED display from the keyboard, the device automatically converts into the Android operating system. On top of that, you can still connect the bottom keyboard portion of the 2-in-1 to an external monitor, giving you, essentially, two computers to work with. 
@@ -42,6 +49,13 @@ Lenovo ThinkBook Plus Gen 5 Hybrid
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TimeKettle X1 Interpreter Hub: Best AI device
 
 In the past year, we have seen major leaps in the AI space, which led to a boom in translation technology at CES. The TimeKettle X1 made delivers real-time translations in up to 40 languages, with nearly no latency and high accuracy, which I got the chance to experience myself. The device itself fits in the palm of your and includes a screen that displays transcriptions of your conversation and two earbuds that two people can wear for real-time in-ear translations during a one-on-one conversation. There are a series of modes, making it ideal for every situation you may need a translation. If you sync different hubs, it can provide real-time translations for up to 20 people in five different languages, aimed for use in classrooms and meetings. The product is already available for [$699 on the TimeKettle website](https://www.timekettle.co/). 
@@ -49,13 +63,6 @@ In the past year, we have seen major leaps in the AI space, which led to a boom 
 TimeKettle X1 Interpreter Hub
 
 Sabrina Ortiz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MSI Claw: Best gaming device
 
@@ -82,10 +89,16 @@ Holoconnect Holobox
 ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TCL 115-inch QD-MiniLED TV: Best TV innovation
@@ -96,13 +109,6 @@ TCL 115-inch QD-MiniLED TV
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rabbit: Best AI innovation
 
 What if AI assistants could do more than just give you the best search results and leave you to do the rest? What if they could book an Airbnb for you, shop for groceries online and checkout, or start a return for that impulsive Black Friday purchase? That's what the folks at Rabbit are touting with R1, its new $199 pocket device that operates on a "Large Action Model". Made in partnership with Teenage Engineering, the R1 may be the first of many AI hardware releases in 2024\. The ball is now in the court of the world's biggest tech giants to deliver superior voice assistant experiences to match the capabilities of what Rabbit has come up with. 
@@ -112,10 +118,10 @@ Rabbit R1
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sony XR headset: Best VR/AR innovation
@@ -166,24 +172,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exclusive-access-to-top-15-android-virtualization-apps-mac-and-pc/"><u>[New] In 2024, Exclusive Access to Top 15 Android Virtualization Apps (Mac & PC)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-head-to-head-evaluating-google-cardboard-and-samsungs-vr-world/"><u>[New] In 2024, Head-to-Head Evaluating Google Cardboard and Samsung’s VR World</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-charting-course-essential-steps-from-concept-to-content-creation-in-review-channels/"><u>[Updated] Charting Course Essential Steps From Concept to Content Creation in Review Channels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-guide-to-unveiling-the-secrets-of-stock-android-on-devices/"><u>A Comprehensive Guide to Unveiling the Secrets of Stock Android on Devices</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amazon-phases-out-plastic-cushioning-bags-from-product-packaging/"><u>Amazon Phases Out Plastic Cushioning Bags From Product Packaging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-8-surprising-benefits-of-leveraging-your-mobile-device-for-desktop-tasks/"><u>Discover 8 Surprising Benefits of Leveraging Your Mobile Device for Desktop Tasks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-computer-and-gadget-critiques-from-toms-hardware-authority/"><u>Expert Computer and Gadget Critiques From Tom's Hardware Authority</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-maps-hacks-pinpointing-your-abandoned-cars-location-made-simple/"><u>Google Maps Hacks: Pinpointing Your Abandoned Car's Location Made Simple</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-setting-up-your-input-devices-on-android-mouse-keyboard-and-controllers/"><u>Guide: Setting Up Your Input Devices on Android – Mouse, Keyboard & Controllers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-avoiding-disarray-in-frames/"><u>In 2024, Avoiding Disarray in Frames</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>In 2024, Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/once-recovered-consider-transferring-them-to-a-secure-location-immediately-to-prevent-potential-data-loss-in-the-future/"><u>Once Recovered, Consider Transferring Them to a Secure Location Immediately to Prevent Potential Data Loss in the Future.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-stardew-valleys-pc-stability-issues-a-comprehensive-guide/"><u>Solving Stardew Valley's PC Stability Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/struggling-division-costs-intel-a-staggering-16-billion-loss-in-recent-quarter/"><u>Struggling Division Costs Intel a Staggering $1.6 Billion Loss in Recent Quarter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-savvy-living-by-toms-gear-experts/"><u>The Definitive Guide to Tech Savvy Living by Tom's Gear Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-best-video-repair-software/"><u>Top 10 Best Video Repair Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-your-guide-to-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Your Guide to Tom's Hardware Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flutter-free-your-videos-a-selection-of-excellent-converters-for-2024/"><u>[New] Flutter Free Your Videos A Selection of Excellent Converters for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>[New] In 2024, Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-penniless-to-partnered-a-small-channels-journey/"><u>[Updated] 2024 Approved From Penniless to Partnered A Small Channel's Journey</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-essential-facetune-walkthrough-for-stunning-photos/"><u>[Updated] 2024 Approved The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-evaluating-the-superiority-of-splitcams-recording-for-2024/"><u>[Updated] Evaluating the Superiority of SplitCam's Recording for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-insight-where-streaming-meets-originality/"><u>[Updated] Vimeo Insight Where Streaming Meets Originality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-performance-the-best-8k-camera-technology/"><u>2024 Approved Pinnacle Performance The Best 8K Camera Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-features-of-the-lenovo-9-nook-tablet-a-hands-on-guide/"><u>Exploring Features of the Lenovo 9 Nook Tablet - A Hands-On Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/linksys-ae25e00-easy-and-fast-download-of-latest-firmware-driver-update/"><u>Linksys AE25e00 - Easy and Fast Download of Latest Firmware Driver Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-ev-battery-production-plant-funded-by-samsung-sdi-and-general-motors-in-the-usa-a-3-billion-venture-unveiled-zdnet-news/"><u>Revolutionary EV Battery Production Plant Funded by Samsung SDI and General Motors in the USA - A $3 Billion Venture Unveiled | ZDNet News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-cash-and-conserve-gas-explore-eco-friendly-navigation-with-enhanced-features-on-google-maps-zdnet/"><u>Save Cash & Conserve Gas: Explore Eco-Friendly Navigation with Enhanced Features on Google Maps - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-digital-dependence-my-journey-from-gps-to-traditional-map-reading-and-what-it-means-amidst-rising-dementia-concerns/"><u>Say Goodbye to Digital Dependence: My Journey From GPS to Traditional Map Reading and What It Means Amidst Rising Dementia Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sky-high-deliveries-soar-higher-walmart-expands-unmanned-aerial-vehicle-program-for-swift-shipping-solutions-zdnet/"><u>Sky-High Deliveries Soar Higher: Walmart Expands Unmanned Aerial Vehicle Program for Swift Shipping Solutions | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-half-unlock-savings-of-2000plus-through-the-exclusive-dollar-flight-club-revealed-on-zdnet/"><u>Slash Your Airfare by Half: Unlock Savings of $2,000+ Through the Exclusive Dollar Flight Club - Revealed on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-in-half-with-dollar-flight-clubs-insane-sale-up-to-94-off-now-zdnet/"><u>Slash Your Travel Costs in Half with Dollar Flight Club's Insane Sale - Up to 94% Off Now | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/southwests-costly-misstep-penalizing-customers-at-the-inopportune-time-analyzed-by-zdnet/"><u>Southwest's Costly Misstep: Penalizing Customers at the Inopportune Time Analyzed by ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-completes-delivery-of-revolutionary-electric-semi-trucks-zdnet/"><u>Tesla Completes Delivery of Revolutionary Electric Semi-Trucks - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-confirms-progress-with-cybertruck-manufacturing-and-hints-at-future-vehicle-architecture-zdnet/"><u>Tesla Confirms Progress with Cybertruck Manufacturing and Hints at Future Vehicle Architecture - ZDNet</u></a></li>
 </ul></div>
 

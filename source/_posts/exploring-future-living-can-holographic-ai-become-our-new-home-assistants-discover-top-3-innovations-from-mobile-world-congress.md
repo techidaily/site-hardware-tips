@@ -1,7 +1,7 @@
 ---
 title: "Exploring Future Living: Can Holographic AI Become Our New Home Assistants? Discover Top 3 Innovations From Mobile World Congress"
-date: 2024-09-17 22:53:13
-updated: 2024-09-20 12:22:55
+date: 2024-11-03T16:06:14.136Z
+updated: 2024-11-07T16:04:08.932Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-immediate-halt-of-auto-recording-on-qt-for-2024/"><u>[New] Immediate Halt of Auto-Recording on QT for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-youtube-celebs-gabbing-via-snapchat/"><u>[Updated] YouTube Celebs Gabbing via Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-hypervisor-on-windows-sandbox/"><u>Addressing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-your-hp-screen-driver-complications-on-windows-pc-platforms/"><u>Solving Your HP Screen Driver Complications on Windows PC Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/technologys-role-in-shaping-an-eco-friendly-future-navigating-challenges-and-exploring-possibilities-zdnet/"><u>Technology's Role in Shaping an Eco-Friendly Future: Navigating Challenges and Exploring Possibilities | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-climate-cost-of-our-phones-identifying-issues-and-sustainable-solutions/"><u>The Hidden Climate Cost of Our Phones - Identifying Issues & Sustainable Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-ecological-costs-of-mobile-devices-actionable-steps-for-change/"><u>The Hidden Ecological Costs of Mobile Devices - Actionable Steps for Change</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-affordable-home-generator-offers-in-december-2022-exclusive-picks-from-zdnet/"><u>Top 4 Affordable Home Generator Offers in December 2022 - Exclusive Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-home-generator-bargains-of-december-2022-insider-picks-from-zdnet/"><u>Top 4 Home Generator Bargains of December 2022 - Insider Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-review-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-houseplants-ideal-for-revitalizing-your-workspace-insights-and-tips/"><u>Top 5 Houseplants Ideal for Revitalizing Your Workspace - Insights & Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-office-friendly-houseplants-enhancing-productivity-with-greenery-zdnet-guide/"><u>Top 5 Office-Friendly Houseplants: Enhancing Productivity with Greenery (ZDNet Guide)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-methods-to-boost-your-pcs-performance-swiftly/"><u>Top 7 Methods to Boost Your PC's Performance Swiftly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protectors-comprehensive-reviews-by-techradar/"><u>Top Rated iPhone 14 Pro & Pro Max Protectors - Comprehensive Reviews by TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-things-you-should-evaluate-prior-to-investing-in-video-capturing-gear/"><u>Top Things You Should Evaluate Prior to Investing in Video Capturing Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-choice-top-mp4-players-unveiled/"><u>Ultimate Choice Top MP4 Players Unveiled</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-benefits-of-using-video-for-social-media-marketing/"><u>Updated 2024 Approved The Benefits Of Using Video For Social Media Marketing</u></a></li>
+</ul></div>
+

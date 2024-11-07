@@ -1,7 +1,7 @@
 ---
 title: How Can We Learn From Nature? Exploring The Use of Animals as Inspiration for Future Robots in 'The New Breed'
-date: 2024-09-17 23:22:59
-updated: 2024-09-20 12:28:59
+date: 2024-11-05T16:01:07.802Z
+updated: 2024-11-07T16:06:21.430Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-affordable-action-cam-tech-maximizing-your-moneys-worth/"><u>[New] Affordable Action Cam Tech - Maximizing Your Money's Worth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reviewing-the-newest-2023-samsung-bd-j5900-model/"><u>[Updated] Reviewing the Newest 2023 Samsung BD-J5900 Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/199-amazfit-gtr-4-setting-new-standards-in-smartwatch-navigation-technology-a-comprehensive-review-by-zdnet/"><u>$199 Amazfit GTR 4: Setting New Standards in Smartwatch Navigation Technology – A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-iphone-macro-tactics-for-professional-results/"><u>2024 Approved Innovative iPhone Macro Tactics for Professional Results</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bout-youtubes-elite-access-a-complete-breakdown-for-2024/"><u>All About YouTube's Elite Access - A Complete Breakdown for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-picks-for-the-most-budget-friendly-smartwatches-of-2024-comprehensive-guide-zdnet/"><u>Experts' Picks for the Most Budget-Friendly Smartwatches of 2024 - Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-testing-to-transition-why-this-android-smartwatch-could-sway-you-to-the-pixel-zdnet-analysis/"><u>From Testing to Transition: Why This Android Smartwatch Could Sway You to the Pixel | ZDNet Analysis</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>In 2024, Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screen-time-secrets-in-depth-recorder-guide/"><u>In 2024, Screen Time Secrets In-Depth Recorder Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-who-unfollowed-you-quick-guide-for-2024/"><u>Instagram Who Unfollowed You? Quick Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/june-2023s-ultimate-discounts-for-apple-watch-enthusiasts-deals-curated-by-zdnet/"><u>June 2023'S Ultimate Discounts for Apple Watch Enthusiasts | Deals Curated by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/motowatch-100-evaluation-why-its-value-falls-short-of-its-cost-a-critical-analysis-by-zdnet/"><u>MotoWatch 100 Evaluation: Why Its Value Falls Short of Its Cost - A Critical Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-without-wi-fi-on-wearos-devices-find-out-if-yours-supports-it-gizmodo/"><u>Navigate Without Wi-Fi on WearOS Devices - Find Out If Yours Supports It | Gizmodo</u></a></li>
+<li><a href="https://driver-error.techidaily.com/patch-windows-7-dell-tapping-issue/"><u>Patch Windows 7 Dell Tapping Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y100t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y100t? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smartwatch-showdown-google-pixel-versus-apple-series-9-the-ultimate-buying-guide-for-consumers-gadgetflow/"><u>Smartwatch Showdown: Google Pixel Versus Apple Series 9 – The Ultimate Buying Guide for Consumers | GadgetFlow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workouts-explore-the-revolutionary-sports-watch-offering-intelligent-training-sessions-powered-by-ai-technology-similar-to-chatgpt-zdnet-insi206/"><u>Transform Your Workouts: Explore the Revolutionary Sports Watch Offering Intelligent Training Sessions Powered by AI Technology Similar to ChatGPT | ZDNET Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-apples-wellness-platform-discover-its-impact-on-personal-fitness-with-zdnet-analysis/"><u>Unveiling Apple's Wellness Platform: Discover Its Impact on Personal Fitness with ZDNet Analysis</u></a></li>
+</ul></div>
+

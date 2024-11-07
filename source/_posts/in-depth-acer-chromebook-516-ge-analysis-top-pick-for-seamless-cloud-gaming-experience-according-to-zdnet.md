@@ -1,7 +1,7 @@
 ---
 title: In-Depth Acer Chromebook 516 GE Analysis - Top Pick for Seamless Cloud Gaming Experience, According to ZDNet
-date: 2024-10-27T16:40:59.700Z
-updated: 2024-11-01T16:40:20.401Z
+date: 2024-11-06T16:17:15.371Z
+updated: 2024-11-07T16:00:48.321Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,19 @@ ChromeOS makes it easy to navigate to popular apps like [Google Docs](https://ww
 
 ZDNET staff went hands-on with all of our top choices, including our pick for best Chromebook overall -- the [HP Dragonfly Pro Chromebook](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-dragonfly-pro-chromebook-16gb-bk&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) \-- to help you decide which laptop ranks supreme. Find out how each model from brands like Lenovo, HP, and more stack up to determine which Chromebook is best for your classroom needs this back-to-school season.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Chromebooks for students in 2024
 
 Show less 
@@ -42,14 +55,14 @@ Cons
 * Priced higher than typical Chromebooks
 * Availability is limited
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## HP Dragonfly Pro Chromebook
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Chromebook for students overall
 
@@ -84,10 +97,10 @@ Cons
 * Top-firing speakers are not as clear when laptop is folded
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lenovo Flex 3i
@@ -121,10 +134,10 @@ Cons
 * Have to buy the laptop and its parts à la carte
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Framework Chromebook
@@ -160,13 +173,6 @@ Cons
 
 ## Acer Chromebook Plus 516 GE
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best Chromebook for entertainment
 
 Gaming? On a Chromebook? Absolutely. Acer's latest top-tier Chromebook Plus just came out earlier this year, and is equipped with all the tools needed forstudying _and_ cloud gaming. The Chromebook Plus models that were came out this year are equipped with more robust processors, sleeker and more high-end builds, and above all, huge leaps forward in battery life, and the 516 GE is no exception.
@@ -194,6 +200,13 @@ Pros
 Cons 
 * Can run warm
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lenovo Flex 5i Chromebook Plus
 
 ### Best Chromebook for creative students
@@ -211,10 +224,10 @@ Show Expert Take Show less
 _ZDNET's Kerry Wan and Steven Vaughan-Nichols contributed to this story._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best Chromebook for students?
@@ -244,13 +257,6 @@ Personally, just like with any computer, I'll take all the power and screen real
 | Framework Chromebook           | A Chromebook that can adapt to your ever-changing needs, from port options to exterior design to storage size. The modular form factor lets you easily modify the laptop for a more sustainable investment.                                                                     |
 | Acer Chromebook Plus 516 GE    | A Chromebook that's ideal for classwork and cloud gaming. It's packed with hardware and a wide display that works well with the usual responsibilities of school while also catering to entertainment and after-school gaming needs.                                            |
 | Lenovo Flex 5i Chromebook Plus | A Chromebook with a flexible form factor that comes with a solid set of hardware designed for creatives.                                                                                                                                                                        |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Chromebooks?
 
@@ -286,6 +292,13 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why use a Chromebook?
 
 Chromebooks are good for almost any job. But they're _great_ for students. If a student can use a web browser, they can use a Chromebook. 
@@ -297,13 +310,6 @@ For teachers and school administrators, Google also provides [G Suite for Educat
 You can argue that thanks to ChromeOS's built-in security, even out-of-support Chromebooks are safer than a newer macOS or Windows laptop. Don't believe me? In Chromebook's 10-year history, [only 45 ChromeOS security exploits](https://www.cvedetails.com/vulnerability-list/vendor%5Fid-1224/product%5Fid-20320/Google-Chrome-Os.html) have been documented.
 
 The main point is that if you're short on cash, a cheap used or older model Chromebook will work just fine. And, since it's [trivial to erase a Chromebook and then reset it to your account](https://support.google.com/chromebook/answer/183084?hl=en), it's much safer than buying a used Windows laptop.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are Chromebooks good for students?
 
@@ -357,20 +363,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-your-best-gif-creator-a-comparative-analysis-for-2024/"><u>[New] Choosing Your Best GIF Creator A Comparative Analysis for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-global-communicators-guide-to-the-best-19-translation-apps/"><u>[Updated] The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/from-basic-user-to-hyper-v-guru-setup-on-w11-homes-unlocked/"><u>From Basic User to Hyper-V Guru: Setup on W11 Homes Unlocked</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-gt-5-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme GT 5 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-with-toms-hardware-insights-and-advice/"><u>Navigating Tech Choices with Tom's Hardware Insights & Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-equipment-expertise/"><u>Navigating the Digital Realm with Tom's Equipment Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-overclocking-milestone-rtx-3nce-3080-smashes-speed-limit-at-234ghz/"><u>New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-world-record-achieved-gskills-ddr4-6666-memory-dominates-performance/"><u>New World Record Achieved: G.Skill's DDR4-6666 Memory Dominates Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-infinix-hot-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Infinix Hot 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-flip-side-of-free-ai-counseling-services/"><u>The Flip Side of Free AI Counseling Services</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-a-trustworthy-guide-to-your-tech-needs/"><u>Tom's Computer Components: A Trustworthy Guide to Your Tech Needs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-expert-guides-and-reviews/"><u>Tom's Tech Advice: Expert Guides and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-winxdvd-setup-mastery-a-step-by-step-user-manual/"><u>Ultimate WinXDVD Setup Mastery: A Step-by-Step User Manual</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/virtual-worlds-await-top-10-vr-videos/"><u>Virtual Worlds Await Top 10 VR Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uick-record-and-publish-screen-images-for-macpc-and-youtube-for-2024/"><u>[New] Quick Record & Publish Screen Images for Mac/PC and YouTube for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-crafting-captivating-facebook-stories-for-2024/"><u>[New] The Art of Crafting Captivating Facebook Stories for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-full-spectrum-analysis-the-complete-logitech-4k-webcam-review/"><u>2024 Approved Full Spectrum Analysis The Complete Logitech 4K Webcam Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/balancing-academia-and-leisure-discover-the-best-2-in-1-laptop-for-college-that-seamlessly-transitions-from-study-to-play-expert-recommendations-on-zdnet/"><u>Balancing Academia & Leisure: Discover the Best 2-in-1 Laptop for College that Seamlessly Transitions From Study to Play – Expert Recommendations on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-x50i-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor X50i</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-lightest-and-slimmest-laptop-by-lg-the-cutting-edge-gram-technology-explained-next-gen-computing-insights/"><u>Discover the Lightest and Slimmest Laptop by LG: The Cutting-Edge GRAM Technology Explained - Next-Gen Computing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-screen-quality-for-less-with-our-latest-lightweight-laptop-deal-now-on-sale-zdnet/"><u>Get the Best Screen Quality for Less with Our Latest Lightweight Laptop Deal - Now On Sale | ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-xcover-7-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy XCover 7 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marathon-ready-performance-meets-eye-candy-display-exploring-a-top-long-lasting-laptop-choice/"><u>Marathon-Ready Performance Meets Eye Candy Display: Exploring a Top Long-Lasting Laptop Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-amazon-prime-deals-apple-macbook-air-with-m3-chip-now-at-a-250-discount-full-coverage-by-zdnet/"><u>October Amazon Prime Deals: Apple MacBook Air with M3 Chip Now at a $250 Discount - Full Coverage by ZDNet</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-detailed-process-of-upgrading-from-vcenter-server-7-cuyana-a-80/"><u>Step-by-Step Guide: Detailed Process of Upgrading From vCenter Server 7. Cuyana a 8.0</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-gaming-savings-showdown-where-to-snag-prime-deals-this-october-zdnet-insights/"><u>The Ultimate Gaming Savings Showdown: Where to Snag Prime Deals This October! | ZDNET Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y78plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y78+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-demand-why-consumers-choose-damaged-macbook-pro-screens-insights/"><u>Understanding the Demand: Why Consumers Choose Damaged MacBook Pro Screens - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-top-10-free-email-accounts-for-effortless-communication/"><u>Unveiling the Top 10 Free Email Accounts for Effortless Communication</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-stunning-glitch-effect-in-photoshop/"><u>Updated In 2024, How to Make Stunning Glitch Effect in Photoshop?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-250-off-15-inch-macbook-air-is-an-unbeatable-deal-you-shouldnt-miss/"><u>Why the $250-Off 15-Inch MacBook Air Is an Unbeatable Deal You Shouldn't Miss!</u></a></li>
 </ul></div>
 

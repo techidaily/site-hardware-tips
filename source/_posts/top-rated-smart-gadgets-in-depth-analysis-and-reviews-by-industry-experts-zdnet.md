@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Smart Gadgets - In-Depth Analysis & Reviews by Industry Experts | ZDNet
-date: 2024-09-19 22:55:17
-updated: 2024-09-20 11:55:22
+date: 2024-10-31T16:03:06.772Z
+updated: 2024-11-07T16:03:58.463Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fearless-filming-mastering-your-first-10-clips/"><u>[Updated] 2024 Approved Fearless Filming Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-maximize-your-gaming-experience-with-kinemaster-and-its-top-competitors-reviewed/"><u>[Updated] Maximize Your Gaming Experience with KineMaster and Its Top Competitors Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-color-fidelity-unleashed-in-hps-dreamcolor-monitor/"><u>2024 Approved Color Fidelity Unleashed in HP's DreamColor Monitor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipate-the-release-dates-matter-device-and-app-enhancements-from-eve-nanoleaf-and-amazon-insights-from-zdnet/"><u>Anticipate the Release Dates: Matter Device & App Enhancements From Eve, Nanoleaf, and Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/comprehensively-understanding-and-evading-online-shadowbans/"><u>Comprehensively Understanding and Evading Online Shadowbans</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-matter-version-12-enhances-smart-home-tech-with-new-device-types-zdnet/"><u>Discover the Latest: Matter Version 1.2 Enhances Smart Home Tech With New Device Types | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-ambiance-in-your-space-with-a-spectrum-of-over-16k-color-variations-save-50-on-this-innovative-lamp-explore-at-zdnet/"><u>Enhance Ambiance in Your Space with a Spectrum of Over 16K Color Variations: Save 50% on This Innovative Lamp - Explore at ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone XS Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-c67-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme C67 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/time-management-using-timestamps-to-amplify-views-on-youtube/"><u>Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-philips-hue-lighting-solutions-comprehensive-review-and-comparison-by-tech-experts-at-zdnet/"><u>Top-Ranked Philips Hue Lighting Solutions - Comprehensive Review and Comparison by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-outdoor-security-lighting-solutions-expert-picks-by-techradar/"><u>Top-Rated Outdoor Security Lighting Solutions - Expert Picks by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-sunrise-simulation-alarms-expert-reviews-by-zdnet/"><u>Top-Rated Sunrise Simulation Alarms - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-home-office-vibe-alexas-innovative-approach-to-busy-lights-unveiled-by-zdnet/"><u>Transform Your Home Office Vibe: Alexa's Innovative Approach to Busy Lights Unveiled by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-100-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor 100 Pro.</u></a></li>
+</ul></div>
+

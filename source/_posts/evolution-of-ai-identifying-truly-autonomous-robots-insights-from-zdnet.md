@@ -1,7 +1,7 @@
 ---
 title: "Evolution of AI: Identifying Truly Autonomous Robots - Insights From ZDNet"
-date: 2024-09-17 11:16:52
-updated: 2024-09-20 12:42:44
+date: 2024-11-05T16:04:36.130Z
+updated: 2024-11-07T16:03:02.944Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-luts-ranked-top-10-in-photoshop-and-lightroom/"><u>[New] Best LUTs Ranked Top 10 in Photoshop & Lightroom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>2024 Approved The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-screen-mirror-fault-in-windows-7/"><u>Addressing Screen Mirror Fault in Windows 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-apple-watch-os-11-compatibility-find-out-your-models-update-eligibility/"><u>Comprehensive Guide: Apple Watch OS 11 Compatibility – Find Out Your Model's Update Eligibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-android-smartwatch-selection-thoroughly-testing-and-evaluating-the-best-picks-insights-from-zdnet-professionals/"><u>Elite Android Smartwatch Selection: Thoroughly Testing & Evaluating the Best Picks - Insights From ZDNet Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-activating-apple-watchs-fall-alert-feature-benefits-and-steps-explained/"><u>Guide to Activating Apple Watch's Fall Alert Feature: Benefits & Steps Explained</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-advanced-hdr-creation-in-photoshop-workflows/"><u>In 2024, Advanced HDR Creation in Photoshop Workflows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-f5-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco F5 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-smartwatch-equipped-for-offline-navigation-discover-the-google-maps-update-for-wearos-by-zdnet/"><u>Is Your Smartwatch Equipped for Offline Navigation? Discover the Google Maps Update for WearOS by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/learn-how-to-enable-the-latest-fall-alert-function-in-googles-innovative-pixel-watch-series-a-comprehensive-guide-techwise/"><u>Learn How to Enable the Latest Fall Alert Function in Google's Innovative Pixel Watch Series - A Comprehensive Guide | TechWise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-setting-new-pace-with-apple-watch-fitness-goals-smart-strategies-unveiled-by-zdnets-gurus/"><u>Master the Art of Setting New Pace with Apple Watch Fitness Goals | Smart Strategies Unveiled by ZDNET's Gurus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-your-results-with-these-10-free-jpeg-to-gif-tools-for-2024/"><u>Maximize Your Results with These 10 Free JPEG-to-GIF Tools for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reversing-a-new-update-in-windows-11-a-comprehensive-guide/"><u>Reversing a New Update in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-6-save-100-today-exclusive-deal-on-zdnet/"><u>Samsung Galaxy Watch 6: Save $100 Today - Exclusive Deal on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-7-virtual-aids-that-will-revolutionize-your-approach-to-prompt-engineering/"><u>The Ultimate List: 7 Virtual Aids That Will Revolutionize Your Approach to Prompt Engineering</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-offers-on-top-android-smartwatches-this-labor-day-find-out-why-in-our-latest-review-by-zdnet/"><u>Unbeatable Offers on Top Android Smartwatches This Labor Day! Find Out Why in Our Latest Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wearable-wars-in-depth-comparison-of-the-newest-smartwatches-google-pixel-vs-apple-watch-series-9-zdnet/"><u>Wearable Wars: In-Depth Comparison of the Newest Smartwatches - Google Pixel Vs. Apple Watch Series 9 | ZDNET</u></a></li>
+</ul></div>
+

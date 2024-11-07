@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Deals Alert: Get 30%% Off on Adjustable Govee Neon Lighting - Exclusive Review by TechZetta"
-date: 2024-09-19 19:50:46
-updated: 2024-09-20 12:36:27
+date: 2024-11-01T16:03:45.066Z
+updated: 2024-11-07T16:00:36.694Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,31 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>[New] Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-nvidias-easy-method-for-game-captures/"><u>[Updated] In 2024, NVIDIA's Easy Method for Game Captures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/prehensive-guide-to-creating-viral-youtube-shorts-videos-for-2024/"><u>A Comprehensive Guide to Creating Viral YouTube Shorts Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-ultimate-deal-on-a-compact-windows-11-professional-desktop-at-just-160-exclusive-offer-in-amazons-spring-event-techspot/"><u>Experience the Ultimate Deal on a Compact Windows 11 Professional Desktop at Just $160 - Exclusive Offer in Amazon's Spring Event! | TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-guide-to-cyber-mondays-finest-deals-premium-tvs-and-sound-gear-at-unbelievable-prices-zdnet-insights/"><u>Explore the Ultimate Guide to Cyber Monday's Finest Deals: Premium TVs and Sound Gear at Unbelievable Prices | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-more-bang-for-your-buck-with-this-compact-high-performance-pc-surprisingly-budget-friendly-options-inside-digital-world-review/"><u>Get More Bang for Your Buck with This Compact, High-Performance PC - Surprisingly Budget-Friendly Options Inside! | Digital World Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-efficient-video-download-from-facebooks-domain/"><u>In 2024, Efficient Video Download From Facebook's Domain</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-real-world-perceptions-of-vllo/"><u>In 2024, Real-World Perceptions of VLLO</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-edge-40-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Edge 40 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/installing-linux-on-your-microsoft-surface-go-within-one-hour-a-step-by-step-guide/"><u>Installing Linux on Your Microsoft Surface Go Within One Hour: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-overcome-onedrives-immediate-folder-addition-error/"><u>Swift Solutions to Overcome OneDrive's Immediate Folder Addition Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-tutorial-on-making-an-oculus-meta-headset-profile/"><u>The Complete Tutorial on Making an Oculus Meta Headset Profile</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-battle-of-desktops-the-huawei-matestation-x-with-a-28-inch-screen-challenges-the-iconic-imac-detailed-insights-zdnet-reviews/"><u>Top Battle of Desktops: The Huawei MateStation X with a 28-Inch Screen Challenges the Iconic iMac - Detailed Insights | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-tpm-chip-essential-for-windows-11-compatibility-insights-from-zdnet/"><u>Understanding the TPM Chip: Essential for Windows 11 Compatibility - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-possibilities-top-3-ai-enhancements-for-copilot-enabled-computers-whats-missing-from-your-macbook/"><u>Unlocking New Possibilities: Top 3 AI Enhancements for Copilot-Enabled Computers - What's Missing From Your MacBook?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-virality-mastering-the-art-of-influential-content/"><u>Unlocking Virality Mastering the Art of Influential Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hps-game-changer-a-portable-all-in-one-device-and-more-unexpected-innovations-to-watch-out-for-zdnet/"><u>Unveiling HP's Game-Changer: A Portable All-in-One Device and More Unexpected Innovations to Watch Out For | ZDNet.</u></a></li>
+</ul></div>
+

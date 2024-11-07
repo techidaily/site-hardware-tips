@@ -1,7 +1,7 @@
 ---
 title: "Mastering Screen Capture: A Guide to Taking Screenshots on Dell, Lenovo & MacBooks"
-date: 2024-10-28T18:09:02.296Z
-updated: 2024-11-01T21:14:22.834Z
+date: 2024-11-03T16:03:17.708Z
+updated: 2024-11-07T16:06:24.908Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,13 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -36,13 +43,26 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -55,6 +75,13 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -66,13 +93,6 @@ From here, you can edit the image, resize it, crop it, and save it. You've now g
 An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
@@ -92,13 +112,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -116,22 +129,15 @@ Michael Gariffo/ZDNET
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -172,17 +178,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-path-to-precision-audio-a-no-mic-approach/"><u>[New] 2024 Approved The Path to Precision Audio A No-Mic Approach</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-top-15-youtube-movies-channels-for-you-to-kill-time/"><u>2024 Approved Top 15 YouTube Movies Channels for You to Kill Time</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-toms-in-depth-analysis-of-tech-equipment/"><u>Delving Into Digital Devices: Tom’s In-Depth Analysis of Tech Equipment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-pc-components-with-toms-technology-guide/"><u>Exploring the Latest in PC Components with Tom's Technology Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>In 2024, The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-insights-from-tomn-hardware-reviews/"><u>Mastering Technology Insights From Tom'n Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/speed-up-pc-assembly-corsairs-innovative-one-turn-screw-for-ultimate-efficiency/"><u>Speed Up PC Assembly: Corsair's Innovative One-Turn Screw for Ultimate Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Gadget Analysis</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mavericks-video-editing-software-easily-edit-mp4-files/"><u>Updated 2024 Approved Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/your-quick-path-to-mastering-the-installation-process-of-auto-gpt/"><u>Your Quick Path to Mastering the Installation Process of Auto-GPT</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-equipment-for-beginners-ultimate-guide-for-2024/"><u>YouTube Equipment for Beginners [Ultimate Guide] for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-tips-on-mastering-facetime-call-documentation-techniques-for-2024/"><u>[New] Expert Tips on Mastering FaceTime Call Documentation Techniques for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apc-back-ups-pro-1-va-power-surge-protection-unveiled-abundant-ports-hot-swappable-cells-explained/"><u>APC Back-UPS Pro 1# VA Power Surge Protection Unveiled - Abundant Ports, Hot Swappable Cells Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fitbit-sense-a-holistic-approach-to-personal-health-surpassing-the-apple-watch-in-user-wellness-features/"><u>Fitbit Sense: A Holistic Approach to Personal Health, Surpassing the Apple Watch in User Wellness Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-software-for-your-brother-hl-l2340dw-printer-on-windows-os/"><u>Get the Latest Driver Software for Your Brother HL-L2340DW Printer on Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-11-unresponsiveness-at-boot-time/"><u>How to Overcome Windows 11 Unresponsiveness at Boot Time</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-v29-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo V29 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Blaze 2 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-5-pro-photoshop-tricks-that-newbies-must-know/"><u>In 2024, 5 Pro Photoshop Tricks That Newbies Must Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-musings-with-a-twist-of-augmented-reality-for-2024/"><u>Metaverse Musings with a Twist of Augmented Reality for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-gaming-displays-the-ultimate-picks-techradar/"><u>Top Budget-Friendly Gaming Displays - The Ultimate Picks | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-films-and-tv-series-worth-watching-in-march-2023-expert-picks-from-zdnet/"><u>Top Films & TV Series Worth Watching in March 2023 - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-samsung-non-lg-qled-tv-reviews-discovering-excellence-in-innovation/"><u>Top Non-Samsung, Non-LG QLED TV Reviews: Discovering Excellence in Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-reviews-on-the-ideal-32-television-models-guide-by-zdnet/"><u>Top Picks: Expert Reviews on the Ideal 32 Television Models - Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-guide-to-the-most-exceptional-50-inch-tvs-our-experts-selection/"><u>Top Picks: The Ultimate Guide to the Most Exceptional 50-Inch TVs - Our Experts' Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-ultimate-guide-to-the-finest-70-tvs-features-and-reviews/"><u>Top Picks: Ultimate Guide to the Finest 70 TVs - Features and Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-gaming-displays-pcmag/"><u>Top Rated Affordable Gaming Displays - PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-technology-innovations-and-cutting-edge-electronics-unveiled-featured-by-zdnet/"><u>Top-Ranked Technology Innovations & Cutting-Edge Electronics Unveiled : Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-roku-streaming-devices-and-sticks-latest-reviews-by-zdnet/"><u>Top-Ranking Roku Streaming Devices & Sticks - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-stunning-design-and-exceptional-capabilities-of-dell-xps-16-9640-and-xps-14-9440-a-comprehensive-review-with-notable-quirks/"><u>Unveiling the Stunning Design and Exceptional Capabilities of Dell XPS 16 (9640) and XPS 14 (9440): A Comprehensive Review with Notable Quirks</u></a></li>
 </ul></div>
 

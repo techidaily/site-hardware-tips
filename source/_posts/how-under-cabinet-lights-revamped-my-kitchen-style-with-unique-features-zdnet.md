@@ -1,7 +1,7 @@
 ---
 title: How Under-Cabinet Lights Revamped My Kitchen Style with Unique Features | ZDNET
-date: 2024-09-19 10:18:30
-updated: 2024-09-20 11:39:23
+date: 2024-11-06T16:01:27.928Z
+updated: 2024-11-07T16:03:28.665Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,19 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +164,30 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-vdx-quickcapture-evaluation-complete-reviews/"><u>[New] 2024 Approved VDX QuickCapture Evaluation Complete Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-showcase-a-dialogue-in-one-instagram-post-for-2024/"><u>[New] Showcase a Dialogue in One Instagram Post for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-content-creation-hacks-for-rapid-youtubers-growth/"><u>[Updated] 2024 Approved Content Creation Hacks for Rapid Youtubers' Growth</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-harmonizing-audio-with-visuals-in-the-webspace/"><u>[Updated] 2024 Approved Harmonizing Audio with Visuals in the Webspace</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-engagement-the-pillars-of-youtube-rankings/"><u>[Updated] Elevating Engagement The Pillars of YouTube Rankings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-verdict-on-actives-place-among-best-recorders/"><u>[Updated] In 2024, The Verdict on Active's Place Among Best Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleash-potential-essential-windows-10-skills-review/"><u>[Updated] In 2024, Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/130hren-oasis-of-samsung-unveiling-the-odyssey-next-at-top-retailers/"><u>$1,30Hren Oasis of Samsung - Unveiling the Odyssey NEXT at Top Retailers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrating-sixteen-years-mary-jo-foleys-retrospective-of-microsoft-news-coverage-for-zdnet/"><u>Celebrating Sixteen Years: Mary Jo Foley's Retrospective of Microsoft News Coverage for ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-premier-choices-for-high-quality-streaming-mics-as-featured-by-zdnet/"><u>Discover the Premier Choices for High-Quality Streaming Mics , as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-laptop-now-only-520-enjoy-a-sweeping-40-discount-on-the-latest-gaming-rig-zdnet/"><u>HP Victus 15L Laptop Now Only $520: Enjoy a Sweeping 40% Discount on the Latest Gaming Rig! - ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-11x-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 11X 5G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-microsofts-new-controversial-release-windows-11-already-under-fire/"><u>Is Microsoft's New Controversial Release: Windows 11 Already Under Fire?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-solutions-for-resolving-zoom-video-not-starting-issue/"><u>Top 5 Solutions for Resolving 'Zoom Video Not Starting' Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-peak-performance-how-i-transformed-my-laptop-into-a-powerful-desktop-workstation-for-ultimate-productivity-insights-from-zdnet/"><u>Unleashing Peak Performance: How I Transformed My Laptop Into a Powerful Desktop Workstation for Ultimate Productivity - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/will-the-apple-m3-chip-phase-out-your-older-m1-and-m2-models-expert-tips-on-optimal-timing-for-an-upgrade-detailed-analysis-zdnet/"><u>Will the Apple M3 Chip Phase Out Your Older M1 and M2 Models? Expert Tips on Optimal Timing for an Upgrade - Detailed Analysis | ZDNET</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Optimal Illumination Setups for Live Streaming: Industry-Tested Reviews | CNET"
-date: 2024-09-18 18:19:53
-updated: 2024-09-20 12:14:22
+date: 2024-11-04T16:00:18.240Z
+updated: 2024-11-07T16:01:07.961Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,19 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +117,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +164,28 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] In 2024, Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-advanced-color-grading-techniques-using-luts/"><u>[New] Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>[New] The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-your-passport-to-popularity-9-essential-instagram-secrets-for-success-for-2024/"><u>[New] Your Passport to Popularity 9 Essential Instagram Secrets for Success for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-steps-to-uncover-youtubes-central-editing-nexus-for-2024/"><u>[Updated] Steps to Uncover YouTube’s Central Editing Nexus for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-work-from-home-efficiency-how-lenovos-latest-innovations-transform-home-offices-techtoday/"><u>Boosting Work-From-Home Efficiency: How Lenovo's Latest Innovations Transform Home Offices | TechToday</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125624-9781609254230-choice-centered-relating-and-the-tarot/"><u>Choice Centered Relating and the Tarot | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-hp-laserjet-pro-all-in-one-the-essential-laser-device-for-office-efficiency-insights-from-zdnet/"><u>Expert Analysis of the HP LaserJet Pro All-in-One: The Essential Laser Device for Office Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-how-gmktec-xpanel-se-revolutionizes-mobile-monitoring-bytewise-insight/"><u>Expert Analysis: How GMKtec XPanel SE Revolutionizes Mobile Monitoring | ByteWise Insight</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-11-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme 11 5G FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-launched-asus-compact-17-inch-oled-monitor-with-half-fold-capability-tech-insights/"><u>Newly Launched Asus Compact 17-Inch OLED Monitor with Half-Fold Capability | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-integration-connect-your-airpods-to-iphone-and-other-gadgets-masterclass-by-zdnet-experts/"><u>Seamless Integration: Connect Your AirPods to iPhone and Other Gadgets - Masterclass by ZDNET Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-matter-v13-explore-enhanced-capabilities-and-expanded-device-compatibility-on-zdnet/"><u>Unveiling Matter v1.3: Explore Enhanced Capabilities & Expanded Device Compatibility on ZDNet</u></a></li>
+</ul></div>
+

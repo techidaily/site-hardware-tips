@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special Offer: Save 45%% on the Roborock Q7 Max+ Automated Cleaning System for Hardwood and Tile Floors | Tech News"
-date: 2024-09-17 14:55:18
-updated: 2024-09-20 12:22:28
+date: 2024-11-04T16:02:07.679Z
+updated: 2024-11-07T16:02:35.599Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/the-new-breed-how-emulating-animal-traits-transforms-modern-robotics-book-exploration-and-seo-deep-dive/"><u>'The New Breed': How Emulating Animal Traits Transforms Modern Robotics | Book Exploration and SEO Deep Dive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nique-vlogging-conversation-pieces-for-2024/"><u>[New] Unique Vlogging Conversation Pieces for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-key-techniques-for-storing-lol-matches-for-2024/"><u>[Updated] Key Techniques for Storing LOL Matches for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-epyc-milan-x-overclocking-triumph-a-leap-into-the-future-with-record-breaking-128-cores-massive-1egb-l3-cache-and-blazing-speed-at-48ghz/"><u>AMD EPYC 'Milan-X' Overclocking Triumph: A Leap Into the Future with Record-Breaking 128 Cores, Massive 1.eGB L3 Cache, and Blazing Speed at 4.8GHz</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/autonomous-cleaning-revolution-dreame-l40-ultra-robot-vacuums-75-day-solo-operation-spotlight-by-zdnet/"><u>Autonomous Cleaning Revolution: Dreame L40 Ultra Robot Vacuum's 75-Day Solo Operation - Spotlight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/equinox-introduces-futuristic-relaxation-with-ai-robotics-massages-my-incredibly-tranquil-test-drive/"><u>Equinox Introduces Futuristic Relaxation with AI Robotics Massages: My Incredibly Tranquil Test Drive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-roborock-s9-plus-duo-functional-suction-unit-comprehensive-review-by-techspot/"><u>Expert Analysis of the Roborock S9 Plus Duo-Functional Suction Unit - Comprehensive Review by TechSpot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-future-of-housekeeping-dual-function-device-fuses-high-tech-robot-vacuum-and-handy-side-mounted-cleaner/"><u>Explore the Future of Housekeeping: Dual-Function Device Fuses High-Tech Robot Vacuum & Handy Side-Mounted Cleaner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-the-msvcr100dll-error-how-to-resolve-missing-on-your-pc/"><u>Fixing the MSVCR100.dll Error: How to Resolve 'Missing' On Your PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976255008-groove-music-summer-vibes-a-playlist-curated-to-capture-the-essence-of-a-carefree-summer-perfect-for-when-you-want-to-feel-uplifted-and-joyful/"><u>Groove Music 'Summer Vibes': A Playlist Curated to Capture the Essence of a Carefree Summer, Perfect for when You Want to Feel Uplifted and Joyful.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-11-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme 11 Pro online without jailbreak</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-home-with-sharks-latest-hands-free-vacuum-technology-unmatched-ease-on-demand-zdnet-review/"><u>Revolutionize Your Home with Shark's Latest Hands-Free Vacuum Technology - Unmatched Ease on Demand! [ZDNet Review]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-tech-score-the-eufy-turbo-vacuum-for-only-350-after-prime-sale-a-deal-you-cant-miss/"><u>Save Big on Tech: Score the Eufy Turbo Vacuum for Only $350 After Prime Sale - A Deal You Can't Miss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spectacular-8k-cameras-top-picks-for-quality/"><u>Spectacular 8K Cameras Top Picks for Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stitching-photographs-into-an-eye-catching-canvas/"><u>Stitching Photographs Into an Eye-Catching Canvas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-cleaning-solution-unveiled-roborock-s8-pros-amazing-2-in-1-features-thoroughly-explored-a-comprehensive-review-by-techexplorer/"><u>Ultimate Cleaning Solution Unveiled: Roborock S8 Pro's Amazing 2-in-1 Features Thoroughly Explored - A Comprehensive Review by TechExplorer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-guide-7-prime-free-video-tag-extractors/"><u>Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-joy-in-yard-work-the-ultimate-guide-to-a-smart-remote-controlled-lawnmower-experience-tech-innovations-on-zdnet/"><u>Unleashing Joy in Yard Work: The Ultimate Guide to a Smart, Remote-Controlled Lawnmower Experience | Tech Innovations on ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/vero-authors-spotlight-at-snapchat/"><u>Vero Authors Spotlight at Snapchat</u></a></li>
+</ul></div>
+

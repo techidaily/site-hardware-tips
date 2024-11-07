@@ -1,7 +1,7 @@
 ---
 title: Home Automation Evolves as Matter 1.2 Supports Additional 9 Smart Device Categories | Tech News Roundup
-date: 2024-09-17 17:18:48
-updated: 2024-09-20 11:10:45
+date: 2024-11-01T16:02:39.317Z
+updated: 2024-11-07T16:00:26.818Z
 tags:
   - smart-lighting
 categories:
@@ -52,11 +52,34 @@ This [Google Nest Hub 2](https://goto.walmart.com/c/5597632/565706/9383?sharedId
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-success-the-leading-25-tagging-tactics/"><u>[New] Instagram Success The Leading 25 Tagging Tactics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-hyperdrive-storage-solutions-revolutionizing-laptop-performance-with-cutting-edge-hubs-docks-and-ssd-enclosures-discover-the-power-on-zdnet/"><u>1. Hyperdrive Storage Solutions: Revolutionizing Laptop Performance with Cutting-Edge Hubs, Docks, & SSD Enclosures - Discover the Power on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-swift-setup-expanding-your-raspberry-pi-model-bs-capabilities-with-m2-modules-a-step-by-step-guide/"><u>1) Swift Setup: Expanding Your Raspberry Pi Model B's Capabilities with M.2 Modules - A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-systems-gpu-easy-steps-for-verifying-graphic-cards-and-updating-drivers-accordingly-zdnet-insights/"><u>Discover Your System's GPU: Easy Steps for Verifying Graphic Cards and Updating Drivers Accordingly | ZDNET Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-steps-for-integrating-streamlabs-in-obs-mac/"><u>Essential Steps for Integrating Streamlabs in OBS (Mac)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-captivation-chronicles-top-storytellers-on-youtube-for-23/"><u>In 2024, Captivation Chronicles Top Storytellers on YouTube for '23</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lightrooms-10-lut-sensations-transforming-photos/"><u>In 2024, LightRoom's 10 LUT Sensations Transforming Photos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/streamlined-productivity-with-hps-compact-stream-11-ideal-for-basic-daily-activities/"><u>Streamlined Productivity with HP's Compact Stream 11: Ideal for Basic Daily Activities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-iphone-models-best-avoided-this-season-insights-from-zdnet/"><u>Top 4 iPhone Models Best Avoided This Season: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-cleanliness-how-revitalizing-an-old-keyboard-can-be-surprisingly-soothing-and-productive-zdnet/"><u>Transform Your Workspace with Cleanliness: How Revitalizing an Old Keyboard Can Be Surprisingly Soothing and Productive | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

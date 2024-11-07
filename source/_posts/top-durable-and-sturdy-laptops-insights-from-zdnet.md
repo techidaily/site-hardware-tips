@@ -1,7 +1,7 @@
 ---
 title: Top Durable and Sturdy Laptops - Insights From ZDNet
-date: 2024-10-27T17:57:29.411Z
-updated: 2024-11-01T19:25:16.894Z
+date: 2024-11-04T16:07:25.913Z
+updated: 2024-11-07T16:13:27.381Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,21 +121,24 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-science-of-shares-how-to-infect-facebook-with-content/"><u>[New] In 2024, The Science of Shares How to Infect Facebook with Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-portable-usb-hubs-energized-varieties-and-sleek-type-c-technology-for-efficient-charging/"><u>Discover the Best Portable USB Hubs: Energized Varieties & Sleek Type-C Technology for Efficient Charging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-solutions-to-restore-your-asus-laptops-non-working-fn-keys-effectively/"><u>DIY Solutions to Restore Your Asus Laptop's Non-Working FN Keys Effectively</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-repair-crashes-of-adobe-after-effects-on-windows-1110-platforms/"><u>How to Prevent and Repair Crashes of Adobe After Effects on Windows 11/10 Platforms</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-8-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 8?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-instructions-for-legit-free-vlc-player-download-on-macos/"><u>In 2024, Instructions for Legit Free VLC Player Download on macOS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-reviving-past-joy-on-fb-the-look-back-video-editing-path/"><u>In 2024, Reviving Past Joy on FB The Look Back Video Editing Path</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-intels-innovation-the-5-newest-granite-rapids-processors-packing-up-to-128-cores-and-a-mighty-500w-tdp-for-unmatched-computing-power/"><u>Introducing Intel's Innovation: The 5 Newest Granite Rapids Processors, Packing Up to 128 Cores & a Mighty 500W TDP for Unmatched Computing Power</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/make-your-own-metal-parts-easier-meet-the-new-micronics-compact-and-budget-friendly-sls-printer-2999/"><u>Make Your Own Metal Parts Easier: Meet the New Micronics' Compact and Budget-Friendly SLS Printer ($2,999)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-reviews-by-tom-unveiling-the-latest-in-computer-hardware/"><u>Pioneering Tech Reviews by Tom: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rapid-plus-tct-2024-unleashed-breakthroughs-in-3d-printing-machines-filaments-and-more/"><u>Rapid + TCT 2024 Unleashed: Breakthroughs in 3D Printing Machines, Filaments & More!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/repaired-nightmare-overcome-the-security-breach-glitch-in-fnaf-on-pc/"><u>Repaired Nightmare: Overcome the 'Security Breach' Glitch in FNAF on PC</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202574038-set-your-files-on-a-path-to-oblivion-with-the-stellar-erase-tool-customized-for-windows/"><u>Set Your Files On A Path To Oblivion With The Stellar Erase Tool, Customized For Windows!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-heat-in-style-snag-the-deepcool-as5nplus-cpu-air-cooler-from-amazon-for-under-45/"><u>Slash Heat in Style - Snag the DeepCool AS5nplus CPU Air Cooler From Amazon for Under $45</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-razr-40-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Razr 40 Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-guide/"><u>Unveiling the Latest in Technology with Tom's Gear Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-photo-enhancers-blurring-removal-online-edition/"><u>[New] Top Photo Enhancers Blurring Removal Online Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-art-of-crafting-excellent-zoom-conferences/"><u>[Updated] 2024 Approved The Art of Crafting Excellent Zoom Conferences</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-next-gen-cinema-through-vr/"><u>[Updated] 2024 Approved Unveiling the Next Gen Cinema Through VR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-finest-thermal-travel-mugs-ideal-for-tea-coffee-and-more-zdnet/"><u>2022'S Finest Thermal Travel Mugs: Ideal for Tea, Coffee & More | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-driving-with-elite-radar-detectors-vetted-by-specialists-at-zdnet-the-complete-selection-list/"><u>Ace Your Driving with Elite Radar Detectors Vetted by Specialists at ZDNet: The Complete Selection List!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/autonomous-deliveries-on-the-rise-with-uber-leading-the-way-according-to-zdnet/"><u>Autonomous Deliveries on the Rise with Uber Leading the Way, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aviation-alert-southwest-pilots-expose-harsh-realities-for-passengers-tech-news/"><u>Aviation Alert: Southwest Pilots Expose Harsh Realities for Passengers | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behind-the-scenes-at-southwest-pilots-speak-out-on-service-struggles-and-industry-realities/"><u>Behind the Scenes at Southwest: Pilots Speak Out on Service Struggles and Industry Realities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-2022-pick-me-ups-on-the-go-expert-reviews-of-hot-and-cold-mug-options-by-zdnet/"><u>Best 2022 Pick-Me-Ups on the Go: Expert Reviews of Hot and Cold Mug Options by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-rv-picks-unveiled-expert-insights-on-top-motorhomes-and-campers-zdnet/"><u>Best RV Picks Unveiled: Expert Insights on Top Motorhomes & Campers | ZDNET</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/broadcast-showdown-the-faceoff-between-obs-and-shadowtoolkit-for-2024/"><u>Broadcast Showdown The Faceoff Between OBS & ShadowToolKit for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-version-of-arcadegeddon-no-more-frequent-crashes/"><u>PC Version of Arcadegeddon - No More Frequent Crashes!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reinstating-normalcy-regain-your-fb-account-for-2024/"><u>Reinstating Normalcy Regain Your FB Account for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-13-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 13 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-vs-tiktok-which-one-is-better-for-2024/"><u>YouTube Shorts Vs. TikTok Which One Is Better for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-kalk-cake-electric-bike-your-eco-friendly-work-to-play-transporter-with-a-utilitarian-edge/"><u>ZDNet Reveals Kalk Cake Electric Bike: Your Eco-Friendly Work-to-Play Transporter with a Utilitarian Edge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-emporia-energys-economical-electric-vehicle-charger-with-enhanced-data-features/"><u>ZDNet's Comprehensive Guide to Emporia Energy’s Economical Electric Vehicle Charger with Enhanced Data Features</u></a></li>
 </ul></div>
 

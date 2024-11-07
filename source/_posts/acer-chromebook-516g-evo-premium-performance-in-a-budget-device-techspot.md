@@ -1,7 +1,7 @@
 ---
 title: Acer Chromebook 516G EVO - Premium Performance in a Budget Device | TechSpot
-date: 2024-10-27T17:00:50.970Z
-updated: 2024-11-01T20:11:38.958Z
+date: 2024-11-03T16:14:36.949Z
+updated: 2024-11-07T16:01:55.328Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,16 +69,10 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -114,10 +108,10 @@ Michael Gariffo/ZDNET
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -164,13 +158,6 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 You're looking at pretty much all you need for a very compelling gaming experience.
@@ -182,6 +169,13 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 **Also: [Level up with the best gaming laptop deals](https://www.zdnet.com/article/best-gaming-laptop-deals/)**
 
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,18 +221,14 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-assessment-of-vlcs-digital-screen-monitoring/"><u>[New] 2024 Approved Assessment of VLC’s Digital Screen Monitoring</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-from-basics-to-mastery-unveiling-timelapse-shooting-techniques-with-gopro/"><u>[New] 2024 Approved From Basics to Mastery Unveiling Timelapse Shooting Techniques with GoPro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-outro-designs-ending-credits-for-every-budget/"><u>[New] Outro Designs Ending Credits for Every Budget</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-discover-the-10-best-cookie-places-in-town-with-unbeatable-taste/"><u>[Updated] In 2024, Discover the 10 Best Cookie Places in Town with Unbeatable Taste</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-laughter-on-the-go-iphones/"><u>[Updated] Laughter on the Go (iPhones)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175658816-ek-direct-die-aio-cooler-delivers-stellar-performance-boost-your-13900ks-with-up-to-20-degrees-of-improved-cooling-efficiency/"><u>EK Direct Die AiO Cooler Delivers Stellar Performance: Boost Your 13900KS with Up to 20 Degrees of Improved Cooling Efficiency!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improved-functionality-with-new-firmware-release-for-logitechs-2-and-3-drivers/"><u>Improved Functionality with New Firmware Release for Logitech's 2 & 3 Drivers</u></a></li>
-<li><a href="https://win-studio.techidaily.com/quick-and-simple-solutions-how-to-unstuck-your-iphone-from-recovery-mode/"><u>Quick and Simple Solutions: How to Unstuck Your iPhone From Recovery Mode</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/revolutionize-your-workspace-exploring-the-best-bicycling-desks-of-2023-according-to-zdnet/"><u>Revolutionize Your Workspace: Exploring the Best Bicycling Desks of 2023 According to ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-wood-craftsmanship-how-researchers-use-3d-printing-and-sawdust-ink-to-mimic-real-wood-characteristics/"><u>Revolutionizing Wood Craftsmanship: How Researchers Use 3D Printing & Sawdust Ink to Mimic Real Wood Characteristics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-unveiled-the-inside-story-of-advanced-components-at-tome-hardware-hub/"><u>Tech Unveiled: The Inside Story of Advanced Components at Tom'e Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-audio-equipment-of-2024/"><u>Top Rated Gaming Audio Equipment of 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-performers-in-computing-a-deep-dive-by-toms-hardware/"><u>Unveiling Top Performers in Computing: A Deep Dive by Tom's Hardware</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-grab-pros-comprehensive-analysis-for-2024/"><u>[Updated] Screen Grab Pros Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>[Updated] Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-quantum-leap-for-laptops-the-2020-apple-macbook-pro-with-m1-chip-comprehensive-review-and-verdict/"><u>A Quantum Leap for Laptops: The 2020 Apple MacBook Pro with M1 Chip – Comprehensive Review and Verdict</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laymans-guide-to-ai-world/"><u>Layman's Guide to AI World</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simple-steps-for-incorporating-videos-into-articles/"><u>Simple Steps for Incorporating Videos Into Articles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-televisions-expert-picks-from-zdnet/"><u>Top Rated Affordable Televisions : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-fireplace-media-consoles-in-2-the-ultimate-guide-zdnet/"><u>Top-Rated Fireplace Media Consoles in 2# # - The Ultimate Guide [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lg-television-models-comprehensive-review-by-tech-experts/"><u>Top-Rated LG Television Models - Comprehensive Review by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-live-tv-streamers-of-2024-expert-ratings-and-insights-zdnet/"><u>Ultimate Guide to Choosing the Best Live TV Streamers of 2024: Expert Ratings and Insights | ZDNet</u></a></li>
 </ul></div>
 

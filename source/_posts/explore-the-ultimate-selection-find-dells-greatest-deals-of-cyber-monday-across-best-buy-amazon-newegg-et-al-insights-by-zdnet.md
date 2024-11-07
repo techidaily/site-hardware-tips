@@ -1,7 +1,7 @@
 ---
 title: "Explore the Ultimate Selection: Find Dell's Greatest Deals of Cyber Monday Across Best Buy, Amazon, Newegg, Et Al. - Insights by ZDNet"
-date: 2024-10-31T18:59:03.142Z
-updated: 2024-11-01T16:32:11.290Z
+date: 2024-11-01T16:00:47.487Z
+updated: 2024-11-07T16:13:01.435Z
 tags:
   - laptops
 categories:
@@ -40,16 +40,10 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 ---  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
@@ -110,10 +104,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell laptop deals
@@ -135,13 +129,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $744 (save $186)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell monitor deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b5ed838-9405-4fa2-9fbc-cfeebea60f5c%7Cdtp&dtb=1): $150 (save $70)
@@ -153,24 +140,31 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When was Black Friday 2023?
 
 Black Friday 2023 was on November 24, 2023\. 
 
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these Cyber Monday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
 
@@ -242,14 +236,21 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-nintendo-switch-pugilists-the-ultimate-10-game-guidebook/"><u>[Updated] 2024 Approved Nintendo Switch Pugilists The Ultimate 10-Game Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-videopilot-hd-snapshot-guide/"><u>[Updated] VideoPilot HD Snapshot Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-dasung-paperlike-the-high-resolution-portable-e-ink-12-display-for-849-now-available-in-us/"><u>Introducing the Dasung Paperlike: The High-Resolution Portable E-Ink 12 Display for $849 - Now Available in U.S</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-computer-systems-with-toms-hardware-expertise/"><u>Mastering Computer Systems with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-visual-brilliance-thorough-examination-of-the-asus-rog-swift-pg3-grove-oled-monitor/"><u>Mastering Visual Brilliance: Thorough Examination of the Asus ROG Swift PG3 Grove-OLED Monitor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-hardware-world-with-toms-gear-insights/"><u>Navigating the Hardware World with Tom's Gear Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/pimax-crystal-unveiling-the-peak-of-virtual-immersion-and-problematic-aspects/"><u>Pimax Crystal: Unveiling the Peak of Virtual Immersion & Problematic Aspects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-thriving-as-a-team-on-youtube-perfect-pairings-for-success/"><u>[New] 2024 Approved Thriving as a Team on YouTube Perfect Pairings for Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-the-world-of-live-video-sharing-with-ease/"><u>[New] Navigating the World of Live Video Sharing with Ease</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-survival-in-mc-top-house-ideas-and-plans/"><u>[Updated] Survival in MC Top House Ideas & Plans</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-video-popularity-a-comprehensive-guide-to-tagging-on-youtube/"><u>[Updated] Unlocking Video Popularity A Comprehensive Guide to Tagging on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-windows-computers-reviewed-how-acer-and-dell-stack-up-against-the-competition-insights/"><u>Affordable Windows Computers Reviewed: How Acer and Dell Stack Up Against the Competition - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-apples-next-leap-how-the-new-m4-processors-revolutionize-ai-in-all-mac-models-release-timeline/"><u>Anticipating Apple's Next Leap: How the New M4 Processors Revolutionize AI in All Mac Models - Release Timeline</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-anti-prime-day-alert-secure-your-hp-victus-15-gaming-laptop-for-a-low-price-of-515-top-tips/"><u>Best Buy Anti-Prime Day Alert: Secure Your HP Victus 15 Gaming Laptop for a Low Price of $515 – Top Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-flash-sale-snag-the-msi-summit-e13-flip-for-an-unbeatable-price-of-600-zdnet-alert/"><u>Exclusive Flash Sale: Snag the MSI Summit E13 Flip for an Unbeatable Price of $600 - ZDNET Alert</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-save-eyetube-videos-on-pc-or-mac-a-step-by-step-guide/"><u>How to Save Eyetube Videos on PC or Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Android? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone XS Max</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>In 2024, Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-preserving-sound-integrity-with-ffmpeg-extract/"><u>In 2024, Preserving Sound Integrity with FFmpeg Extract</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-workspace-with-the-ultimate-multi-device-charging-hub-now-at-a-steep-44-discountzdnet-deal/"><u>Maximize Your Workspace with the Ultimate Multi-Device Charging Hub: Now at a Steep 44% Discount![ZDNET Deal]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-standing-desk-options-of-2023-reviewed-by-zdnet-find-your-perfect-setup/"><u>Top 7 Standing Desk Options of 2023 Reviewed by ZDNet: Find Your Perfect Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-discounts-on-laptops-this-october-for-the-ultimate-prime-day-sale-zdnet-insider-tips/"><u>Top-Notch Discounts on Laptops This October for the Ultimate Prime Day Sale | ZDNet Insider Tips</u></a></li>
 </ul></div>
 

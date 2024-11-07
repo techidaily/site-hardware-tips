@@ -1,7 +1,7 @@
 ---
 title: "Experience the Performance: Hands-On Testing of Zotac's Honor MagicBook 14 - The Highly Capable Midsize PC with Built-In Graphics | Gizmodo"
-date: 2024-10-28T17:02:50.788Z
-updated: 2024-11-01T19:38:38.669Z
+date: 2024-11-04T16:02:41.276Z
+updated: 2024-11-07T16:19:24.198Z
 tags:
   - laptops
 categories:
@@ -57,10 +57,10 @@ In the box, you'll find three pieces that come together to create the ExpertBook
 These pieces click in place by way of some pretty strong magnets, and the hinges on the kickstand are tight, which is one for the pro card. However, the strange purple and gray cloth cover that served as a case (the back sides of the kickstand and keyboard) were frayed at the edges, making it look cheap and ready to unravel at any minute. That could have been a product of the device being a review unit, but I have no way of knowing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,13 +68,6 @@ These pieces click in place by way of some pretty strong magnets, and the hinges
 [The best keyboards From mechanical to minimal, we compare the top options.  Read now](https://www.zdnet.com/article/best-keyboard/)
 
 I received a 10.5" version of the device, and -- because of that diminutive size -- the keyboard felt really tight (and I have smallish hands). Even after using the keyboard for a week, I couldn't get accustomed to the tightly packed keys and the small trackpad. Combine that with the cheap feel of the keys and the keyboard is a pretty hard sell. This might not be the case with larger models, but the 10.5" version certainly suffered.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Performance
 
@@ -87,10 +80,10 @@ And then there's Windows 11\. But being a hard-core, long-time [Linux user](http
 **Also:** [**Cool things you can do on a Linux desktop that you can't do with MacOS or Windows**](https://www.zdnet.com/article/cool-things-you-can-do-with-the-linux-desktop-that-you-cant-do-with-macos-or-windows/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are there any pros?
@@ -107,15 +100,22 @@ Image: Jack Wallen
 
 The only caveat to that is you'll need to strip both pieces from the tablet (keyboard and kickstand back) to shed weight because the tablet is heavy. Granted, I'm accustomed to using very light [Android tablets](https://www.zdnet.com/article/best-android-tablet/), so hefting about a tablet as heavy as the ExpertBook Detachable isn't exactly something I'd want to do long-term. Even so, the tablet mode for the ExpertBook Detachable is pretty nice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The price
 
 The price for the ExpertBook Detachable is $599.00, but the big question is, should you buy it? If you ask me, the answer is no. With the combination of the cheap keyboard, the heavy tablet, the low performance, and Windows 11, this small device just doesn't cut it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -158,18 +158,24 @@ If I were looking for an alternative to the ASUS ExpertBook Detachable, I'd go w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>[New] 2024 Approved The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-perfecting-photos-via-snapchat-edit-features-for-2024/"><u>[Updated] Essential Tips for Perfecting Photos via Snapchat Edit Features for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-essential-info-for-tweeting-videos-aspect-ratios-required/"><u>[Updated] In 2024, Essential Info for Tweeting Videos Aspect Ratios Required</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-hot-40-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Hot 40 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digitally-mending-fragmented-video-content/"><u>Digitally Mending Fragmented Video Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-a-guide-to-cutting-edge-technology-evaluations/"><u>Inside Tom's Electronics: A Guide to Cutting-Edge Technology Evaluations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/jailbreak-and-upgrade-your-kindle-to-an-enhanced-e-ink-screen-with-devrepos-tutorial/"><u>Jailbreak & Upgrade Your Kindle to an Enhanced E-Ink Screen with DevRepo's Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-high-tech-a-deep-dive-into-computer-components-by-tom/"><u>Navigate Through High-Tech: A Deep Dive Into Computer Components by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-and-pc-components-at-toms-hardware-zone/"><u>Navigating New Gadgets and PC Components at Tom's Hardware Zone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-in-depth-reviews-from-toms-hardware/"><u>Navigating New Technology: In-Depth Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-issues-with-robocop-rogue-city-game-crashes-on-pc/"><u>Solving Issues with 'Robocop: Rogue City' Game Crashes on PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reimagining-photo-presentation-with-top-frame-tools/"><u>[New] Reimagining Photo Presentation with Top Frame Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-social-snagging-5-chrome-hdl-vids/"><u>[Updated] In 2024, Mastering Social Snagging 5 Chrome HDL Vids</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-master-the-art-of-virality-top-facebook-video-marketing-strategies/"><u>2024 Approved Master the Art of Virality Top Facebook Video Marketing Strategies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>2024 Approved Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acers-powerhouse-for-gamers-now-under-650-at-newegg-in-depth-deal-analysis/"><u>Acer's Powerhouse for Gamers, Now Under $650 at Newegg: In-Depth Deal Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-chromeos-development-with-your-feedback-a-guide-tech-insights-by-zdnet/"><u>Boosting ChromeOS Development with Your Feedback - A Guide | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-essential-google-chrome-update-for-enhanced-security-and-performance-tips-from-zdnet-this-weekend/"><u>Don't Miss Out: Essential Google Chrome Update for Enhanced Security and Performance - Tips From ZDNet This Weekend!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-insights-on-acquiring-budget-friendly-surface-pro-11-top-3-discoveries-revealed-techwise/"><u>Experts' Insights on Acquiring Budget-Friendly Surface Pro 11 - Top 3 Discoveries Revealed | TechWise</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-premium-4k-converters-for-flawless-recordings/"><u>Explore Premium 4K Converters for Flawless Recordings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-enhancement-introduces-windows-11-features-to-your-chromebook-zdnet-insights/"><u>Fresh ChromeOS Enhancement Introduces Windows 11 Features to Your Chromebook - ZDNet Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-video-intros-for-professionals-and-amateurs/"><u>In 2024, Free Video Intros for Professionals & Amateurs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spark-to-the-future-djis-next-gen-challenge-from-mavic-air/"><u>In 2024, Spark to the Future DJI's Next-Gen Challenge From Mavic Air</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-microsofts-cutting-edge-surface-pro-10-and-laptop-nv6-with-advanced-ai-integration-the-latest-innovations-unveiled/"><u>Introducing Microsoft's Cutting-Edge Surface Pro 10 and Laptop Nv6 with Advanced AI Integration - The Latest Innovations Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-on-the-go-charging-capacity-our-top-pick-for-a-140w-multi-device-power-bank-revealed-zdnet/"><u>Maximize On-The-Go Charging Capacity! Our Top Pick for a 140W Multi-Device Power Bank Revealed | ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-your-laptops-dvd-potential-easily-for-2024/"><u>Maximize Your Laptop's DVD Potential Easily for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-raspberry-pi-edge-in-retro-gaming-enhancement/"><u>The Raspberry Pi Edge in Retro Gaming Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-laptop-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Laptop Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-players-comparing-leading-gaming-laptops-in-202amongst-razer-acer-msi-and-others-expert-review-by-zdnet/"><u>Unveiling the Power Players: Comparing Leading Gaming Laptops in 202Amongst Razer, Acer, MSI & Others | Expert Review by ZDNET</u></a></li>
 </ul></div>
 

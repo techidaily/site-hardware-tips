@@ -1,7 +1,7 @@
 ---
 title: "Securing the Future of IoT: Introducing a New Standard in Smart Device Safety - ZDNet's Exclusive"
-date: 2024-09-18 19:50:18
-updated: 2024-09-20 10:32:42
+date: 2024-11-05T16:00:40.329Z
+updated: 2024-11-07T16:00:58.327Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,19 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +117,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +164,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamlining-sales-with-snapchats-marketing-features/"><u>[New] 2024 Approved Streamlining Sales with Snapchat's Marketing Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/arnings-enlightenment-joshi-and-youtube-success-stories-for-2024/"><u>[New] Earnings Enlightenment Joshi and YouTube Success Stories for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-essence-of-shareable-humorous-content/"><u>[New] The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-essentials-of-hosting-a-zoom-event-via-android/"><u>[Updated] 2024 Approved The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/12-device-revolutionizes-unused-ssds-into-versatile-extermal-storage-solutions-the-complete-zdnet-tutorial/"><u>$12 Device Revolutionizes Unused SSDs Into Versatile Extermal Storage Solutions: The Complete ZDNET Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clear-views-combating-fog-in-gopro-photos/"><u>Clear Views Combating Fog in GoPro Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-the-samsung-galaxy-ring-unveiling-cost-estimates-scheduled-drop-date-detailed-specs-and-breaking-news/"><u>Inside Look at the Samsung Galaxy Ring - Unveiling Cost Estimates, Scheduled Drop-Date, Detailed Specs & Breaking News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/irobot-revolutionizes-robotic-vacuuming-again-experience-the-ultimate-roomba-features-at-surprisingly-affordable-prices-zdnet/"><u>IRobot Revolutionizes Robotic Vacuuming Again – Experience the Ultimate Roomba Features at Surprisingly Affordable Prices | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-your-non-touchscreen-macbook-interactive-the-ultimate-guide-to-using-a-portable-screen-expander/"><u>Make Your Non-Touchscreen MacBook Interactive: The Ultimate Guide to Using a Portable Screen Expander!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-efficiency-how-elgato-stream-deck-enhances-non-streamers-productivity-with-5-essential-tips/"><u>Maximizing Efficiency: How Elgato Stream Deck Enhances Non-Streamers' Productivity with 5 Essential Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/multi-device-charger-marvel-the-compact-200w-unit-that-powers-up-six-gadgets-simultaneously-discover-the-charm-on-zdnet/"><u>Multi-Device Charger Marvel: The Compact 200W Unit That Powers Up Six Gadgets Simultaneously - Discover the Charm on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-electronics-solutions-for-mitigating-potential-harm-caused-by-airtags-battery-security-measures/"><u>Protect Your Electronics: Solutions for Mitigating Potential Harm Caused by AirTags' Battery Security Measures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-high-speed-storage-secure-your-60-discounted-portable-ssd-today-from-amazon-zdnet-insights/"><u>Save Big with High-Speed Storage: Secure Your 60% Discounted Portable SSD Today From Amazon | ZDNET Insights</u></a></li>
+<li><a href="https://discover-help.techidaily.com/scopri-i-primi-3-software-libero-per-lettore-dvd-che-funzionano-su-windows-ten-e-sono-perfetti-per-il-riproduzione-universale-dei-tuoi-contenuti-in-dvd/"><u>Scopri I Primi 3 Software Libero per Lettore DVD Che Funzionano Su Windows # Ten E Sono Perfetti per Il Riproduzione Universale Dei Tuoi Contenuti in DVD.</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers-from-zdnet/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-office-health-a-personal-success-story-with-a-wireless-touchpad-and-mouse-setup-that-eased-wrist-pain-zdnet-exclusive/"><u>Transforming Office Health: A Personal Success Story with a Wireless Touchpad and Mouse Setup That Eased Wrist Pain | ZDNET Exclusive</u></a></li>
+</ul></div>
+

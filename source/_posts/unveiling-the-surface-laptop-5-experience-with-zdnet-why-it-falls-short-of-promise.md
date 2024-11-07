@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Surface Laptop 5 Experience with ZDNet – Why It Falls Short of Promise
-date: 2024-10-26T17:09:24.116Z
-updated: 2024-11-01T20:10:09.430Z
+date: 2024-11-06T16:15:20.078Z
+updated: 2024-11-07T16:14:29.403Z
 tags:
   - laptops
 categories:
@@ -59,19 +59,6 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A much-needed performance upgrade
 
 Inside my review unit, Microsoft includes the 13th-generation Intel Core i7 H-series processor, which is an upgrade over the 11th-generation chips in the previous generation. Those chips were able to handle most people's workflows, which primarily involved a lot of creator-focused tools and apps being used for hours on end. After all, this laptop is primarily designed for creators to make their jobs easier, and with the new model, that experience gets even better.
@@ -113,16 +100,10 @@ Max Buondonno/ZDNET
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Gorgeous hardware and a unique screen
@@ -157,15 +138,22 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -177,16 +165,10 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -208,17 +190,21 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-unzipping-for-srt-methods-and-tips/"><u>[Updated] Unzipping for SRT Methods and Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-your-first-impactful-facebook-phenomenon-giveaway/"><u>2024 Approved Craft Your First Impactful Facebook Phenomenon Giveaway</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-post-mortem-punchlines-pro/"><u>2024 Approved Post-Mortem Punchlines Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-the-barrier-between-you-and-your-browsers-content/"><u>Breaking the Barrier Between You and Your Browser's Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-reviews/"><u>Exploring the World of Gadgets with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-to-computer-gear/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide to Computer Gear</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-match-leading-ssd-and-hard-drive-bargains-of-2024/"><u>Find Your Perfect Match: Leading SSD and Hard Drive Bargains of 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-to-encrypting-text-files-with-secure-passwords-using-revo-uninstaller/"><u>Guide to Encrypting Text Files with Secure Passwords Using Revo Uninstaller</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-canon-mx340-drivers-on-your-windows-pc-windows-1187/"><u>How to Install Canon MX340 Drivers on Your Windows PC (Windows 11/8/7)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-equipment-insights-by-tom-expert-hardware-evaluation/"><u>In-Depth Equipment Insights by Tom - Expert Hardware Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/kioxias-revolutionary-ssd-with-ultra-fast-optical-data-transmission-reaching-up-to-40plus-metres-from-the-processor/"><u>Kioxia's Revolutionary SSD with Ultra-Fast Optical Data Transmission: Reaching Up to 40+ Metres From the Processor</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-explainer-video-creation-made-easy-top-picks/"><u>Updated In 2024, Explainer Video Creation Made Easy Top Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-video-opportunities-with-google-trend-analysis/"><u>[New] 2024 Approved Discovering Video Opportunities with Google Trend Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-comparing-top-titles-magix-video-pro-x-among-others/"><u>[New] Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-journalistic-closing-statement/"><u>[New] In 2024, Crafting a Journalistic Closing Statement</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-integrating-multimedia-elements-for-engaging-facebook-slideshows-for-2024/"><u>[New] Integrating Multimedia Elements for Engaging Facebook Slideshows for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-15-handheld-recording-gadgets/"><u>[Updated] 2024 Approved Top 15 Handheld Recording Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-elite-status-in-gaming-zdnets-ultimate-guide-to-crafting-the-ideal-setup/"><u>Achieve Elite Status in Gaming: ZDNet's Ultimate Guide to Crafting the Ideal Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-birds-guide-exclusive-bargains-before-prime-day-2024-insights/"><u>Early Bird's Guide: Exclusive Bargains Before Prime Day 2024 - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-touchscreen-laptops-unveiled-comprehensive-tests-and-expert-insights/"><u>Elite Touchscreen Laptops Unveiled: Comprehensive Tests & Expert Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-revolutionary-auto-swiveling-laptop-a-firsthand-look-from-ifa-202nce-techradar/"><u>Experiencing Lenovo’s Revolutionary Auto-Swiveling Laptop: A Firsthand Look From IFA 202Nce | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-lenovos-innovative-convertible-seamlessly-transitioning-from-a-windows-pc-to-an-android-tablet-insights-on-zdnet/"><u>Exploring Lenovo's Innovative Convertible: Seamlessly Transitioning From a Windows PC to an Android Tablet | Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-cyber-monday-savings-snag-a-discounted-13-inch-samsung-galaxy-book2-360-for-just-450-less-shop-now/"><u>Huge Cyber Monday Savings: Snag a Discounted 13-Inch Samsung Galaxy Book2 360 for Just $450 Less - Shop Now</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-easy-techniques-for-screenshotting-on-windowsmac/"><u>Quick and Easy Techniques for Screenshotting on Windows/Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ideal-lenovo-device-for-seamless-hybrid-working-at-a-steep-discount-spotted/"><u>Top Pick: The Ideal Lenovo Device for Seamless Hybrid Working at a Steep Discount - Spotted</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-ups-systems-a-comprehensive-guide/"><u>Top Rated UPS Systems : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-the-perfect-iphone-upgrades-and-complements/"><u>Ultimate Guide to Choosing the Perfect iPhone Upgrades and Complements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Elite: ZDNet's Picks for Photography Drones of the Year 2022"
-date: 2024-09-17 19:29:15
-updated: 2024-09-20 11:54:21
+date: 2024-11-04T16:08:47.537Z
+updated: 2024-11-07T16:01:05.726Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-use-zoom-webinars-beginners-guide/"><u>[Updated] How to Use Zoom Webinars [Beginner’s Guide]</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726226772752-jpggif-movavi/"><u>在线无需付费将JPG图片转换为GIF - 运用Movavi编辑器</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effizientes-transferieren-von-bilder-aus-der-icloud-zu-alternativen-speicherlosungen-einfache-schritte-fur-nutzer/"><u>Effizientes Transferieren Von Bilder Aus Der iCloud Zu Alternativen Speicherlösungen: Einfache Schritte Für Nutzer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortlessly-restore-unintentionally-lost-voicemails-top-techniques-explored/"><u>Effortlessly Restore Unintentionally Lost Voicemails: Top Techniques Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-apple-watch-series-9-steals-unbeatable-discounts-continue-post-prime-day-zdnets-insider-tips/"><u>Exclusive Apple Watch Series #9 Steals: Unbeatable Discounts Continue Post-Prime Day! - ZDNet's Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-performance-on-a-smartwatch-budget-unveiling-the-new-199-galaxy-watch-fe-by-samsung-zdnet-insights/"><u>Experience Top-Tier Performance on a Smartwatch Budget: Unveiling the New $199 Galaxy Watch FE by Samsung | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmin-instinct-sol-smartwatch-a-comprehensive-analysis-of-its-ruggedness-long-lasting-power-colorful-screen-and-versatility-unboxedreviews/"><u>Garmin Instinct Sol Smartwatch: A Comprehensive Analysis of Its Ruggedness, Long-Lasting Power, Colorful Screen, and Versatility | UnboxedReviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-technique-to-embed-gopro-clips-in-panoramic-movies-for-2024/"><u>Ideal Technique to Embed GoPro Clips in Panoramic Movies for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-functionality-the-definitive-guide-to-apple-watch-ultras-action-button-utilization-zdnet/"><u>Mastering Functionality: The Definitive Guide to Apple Watch Ultra's Action Button Utilization - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-health-tracking-apples-latest-watch-series-detects-sleep-apnea-for-lifesaving-alerts/"><u>Revolutionizing Health Tracking: Apple's Latest Watch Series Detects Sleep Apnea for Lifesaving Alerts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-your-next-apple-watch-detailed-showdown-between-series-9-and-series-eight-zdnet-insights/"><u>Ultimate Guide to Selecting Your Next Apple Watch: Detailed Showdown Between Series 9 and Series Eight | ZDNET Insights</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Note 30i</u></a></li>
+</ul></div>
+

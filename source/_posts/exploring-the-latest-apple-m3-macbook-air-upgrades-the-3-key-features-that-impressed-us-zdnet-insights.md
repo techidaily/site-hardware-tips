@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Apple M3 MacBook Air Upgrades – The 3 Key Features That Impressed Us | ZDNET Insights
-date: 2024-10-25T17:05:24.882Z
-updated: 2024-11-01T18:11:42.605Z
+date: 2024-11-03T16:03:13.632Z
+updated: 2024-11-07T16:06:13.112Z
 tags:
   - laptops
 categories:
@@ -51,10 +51,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -66,10 +66,10 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -112,20 +112,20 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-on-the-path-equipment-for-beginners/"><u>[New] 2024 Approved First Steps on the Path Equipment for Beginners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-inside-look-at-youtubes-creator-studio-interface/"><u>[New] In 2024, Inside Look at YouTube's Creator Studio Interface</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-editors-for-diy-dji-film-production-at-home/"><u>[Updated] Best Editors for DIY DJi Film Production at Home</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-sites-where-you-can-procure-youtube-affiliate-partnerships/"><u>2024 Approved Explore Sites Where You Can Procure Youtube Affiliate Partnerships</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-elegoo-3d-printers-capable-of-producing-oversized-models-perfect-for-child-sized-projects/"><u>Best Elegoo 3D Printers Capable of Producing Oversized Models: Perfect for Child-Sized Projects</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-the-years-most-exceptional-curve-monitors-for-gamers/"><u>Elite Selection of the Year's Most Exceptional Curve Monitors for Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-benefits-my-5-reasons-to-invest-in-a-3d-printer-this-black-friday-deal-hunting-season/"><u>Essential Benefits: My 5 Reasons to Invest in a 3D Printer This Black Friday Deal-Hunting Season</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/immerse-in-a-world-of-curves-with-the-breathtaking-49-oled-gamers-delight-philips-evonia/"><u>Immerse in a World of Curves with the Breathtaking 49 OLED Gamers' Delight - Philips Evonia</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovate-with-confidence-using-tomn-gadget-guides-from-toms-hardware/"><u>Innovate with Confidence Using Tom'n Gadget Guides From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-legal-fight-how-cooler-master-is-protecting-its-innovative-interior-pump-radiator-from-imitation/"><u>Inside the Legal Fight: How Cooler Master Is Protecting Its Innovative Interior Pump Radiator From Imitation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/join-felicia-day-in-the-thangs-3d-community-get-your-free-models-here/"><u>Join Felicia Day in the Thangs 3D Community - Get Your Free Models Here</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-the-removal-of-superfluous-android-programs-on-your-personal-computer-top-strategies-and-techniques/"><u>Mastering the Removal of Superfluous Android Programs on Your Personal Computer: Top Strategies and Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-at-toms-hardware-destination/"><u>Navigate the World of Computing at Tom's Hardware Destination</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-asmr-techniques-and-the-best-microphone-options-for-2024/"><u>Proven ASMR Techniques and the Best Microphone Options for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconnecting-lost-window-pans-in-windows-11/"><u>Reconnecting Lost Window Pans in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-a-beginners-guide-to-personal-brand-craftsmanship/"><u>[New] 2024 Approved A Beginner's Guide to Personal Brand Craftsmanship</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-superior-mp4-streamer-to-fb/"><u>[New] Superior MP4 Streamer to FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-leveraging-videos-to-boost-education/"><u>2024 Approved Best Practices Leveraging Videos to Boost Education</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-basics-of-earning-on-youtube-a-beginners-guide/"><u>2024 Approved The Basics of Earning on YouTube A Beginner’s Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>2024 Approved Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-xcover-7-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy XCover 7 support AVCHD video?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-airline-status-discover-the-best-5-credit-cards-for-exclusive-airport-lounge-entry-zdnet-insights/"><u>Elite Airline Status: Discover the Best 5 Credit Cards for Exclusive Airport Lounge Entry | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-teslas-in-car-entertainment-the-upcoming-integration-of-apple-airplay-while-excluding-carplay/"><u>Enhancing Tesla's In-Car Entertainment: The Upcoming Integration of Apple AirPlay While Excluding CarPlay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-travel-gear-zdnets-pick-for-best-luggage-sets-in-2erry-year/"><u>Exploring the Ultimate Travel Gear: ZDNet's Pick for Best Luggage Sets in 2Erry Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-steelseries-mouse-control-software-download-and-installation-guide/"><u>Get Updated: SteelSeries Mouse Control Software Download and Installation Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/holiday-deal-alert-score-400-off-with-zdnets-memorial-day-offer-on-segway-max-g2-electric-scooters/"><u>Holiday Deal Alert! Score $400 Off with ZDNET's Memorial Day Offer on Segway Max G2 Electric Scooters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-companies-cards-maximizing-air-miles-and-discounts-on-trips-insights-from-zdnet/"><u>Ideal Companies Cards: Maximizing Air Miles & Discounts on Trips - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-vehicles-troubles-a-bluetooth-gadget-for-detecting-engine-issues/"><u>Illuminate Your Vehicle's Troubles: A Bluetooth Gadget for Detecting Engine Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-60-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo 60 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-webcam-failure-code-a00f4289-resolution/"><u>Navigating Windows 11 Webcam Failure - Code A00F4289 Resolution</u></a></li>
 </ul></div>
 

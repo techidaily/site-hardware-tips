@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Smart Home Innovations : Comprehensive Reviews by Tech Experts | ZDNet"
-date: 2024-09-19 23:27:18
-updated: 2024-09-20 11:28:38
+date: 2024-11-06T16:00:52.764Z
+updated: 2024-11-07T16:00:27.742Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-building-connections-interacting-with-your-viewers/"><u>[New] Building Connections Interacting With Your Viewers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-the-economic-value-of-a-million-youtube-followers-for-2024/"><u>[New] Exploring the Economic Value of a Million YouTube Followers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-audio-gear-reviews-and-ratings/"><u>[New] In 2024, Audio Gear Reviews & Ratings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-12-live-views-at-your-fingertips/"><u>[Updated] Exclusive 12 Live Views at Your Fingertips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-depth-look-at-macs-top-screen-capture-apps/"><u>[Updated] In 2024, In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-make-a-splash-with-instagram-reels-using-tried-and-true-tiktok-hacks/"><u>[Updated] In 2024, Make a Splash with Instagram Reels Using Tried-and-True TikTok Hacks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-tiktok-a-template-based-guide-to-outstanding-video-creation-for-2024/"><u>[Updated] Mastering TikTok A Template-Based Guide to Outstanding Video Creation for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/16-steps-to-successfully-livestream-and-save-money-on-education-platforms-for-2024/"><u>16 Steps to Successfully Livestream and Save Money on Education Platforms for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-tablets-like-the-ipad-evolving-enough-to-dethrone-pcs-and-laptops-analysis-by-zdnet/"><u>Are Tablets Like the iPad Evolving Enough to Dethrone PCs and Laptops? | Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-chill-discover-the-best-low-cost-air-conditioners-for-savvy-shoppers-insights-from-zdnet/"><u>Budget-Friendly Chill: Discover the Best Low-Cost Air Conditioners for Savvy Shoppers – Insights From ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-hs50-headset-mic-failures-heres-how-to-fix-and-restore-functionality/"><u>Corsair HS50 Headset Mic Failures? Here's How to Fix and Restore Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/endless-energy-on-the-go-discovering-the-indestructible-performance-of-zendures-super-mini-gops-battery-pack/"><u>Endless Energy on the Go: Discovering the Indestructible Performance of Zendure's Super Mini GOPS Battery Pack.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-superior-inkjet-printers-choosing-yours-flawlessly-pcmag/"><u>Expert Picks for Superior Inkjet Printers - Choosing Yours Flawlessly | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-trendy-cooking-essentials-with-zdnets-ultimate-guide-14-must-have-tools-featured-on-tiktok/"><u>Explore Trendy Cooking Essentials with ZDNet's Ultimate Guide: 14 Must-Have Tools Featured on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-use-of-outdoor-light-for-internal-comfort/"><u>In 2024, Strategic Use of Outdoor Light for Internal Comfort</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-remote-collaboration-googles-new-workplace-video-calls-with-magic-window-technology-derived-from-project-starline-detailed-review-144/"><u>Introducing the Future of Remote Collaboration: Google's New Workplace Video Calls with 'Magic Window' Technology Derived From Project Starline, Detailed Review and Benefits Explained on ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/raspberry-pi-starter-kit-step-by-step-assembly-instructions-inspired-by-zdnet-experts/"><u>Raspberry Pi Starter Kit: Step-by-Step Assembly Instructions Inspired by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-8-tech-tools-for-seamless-work-trips-as-endorsed-by-zdnets-industry-leaders/"><u>The Ultimate 8 Tech Tools for Seamless Work Trips, as Endorsed by ZDNet's Industry Leaders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-silent-gaming-mouse-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Silent Gaming Mouse : Comprehensive Testing & Reviews by Tech Experts | ZDNET</u></a></li>
+</ul></div>
+

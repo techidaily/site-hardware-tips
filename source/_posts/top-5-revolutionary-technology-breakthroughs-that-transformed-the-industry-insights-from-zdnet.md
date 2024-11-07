@@ -1,7 +1,7 @@
 ---
 title: Top 5 Revolutionary Technology Breakthroughs That Transformed The Industry - Insights From ZDNet
-date: 2024-10-25T17:30:55.247Z
-updated: 2024-11-01T20:05:21.943Z
+date: 2024-11-05T16:04:34.897Z
+updated: 2024-11-07T16:11:16.647Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,22 +150,20 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-win11s-quickest-image-viewing-experience/"><u>[New] 2024 Approved Win11's Quickest Image Viewing Experience</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-your-path-to-optimal-hdr-camera-selection/"><u>[Updated] 2024 Approved Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-precision-polling-on-instagram-crafting-survey-content/"><u>[Updated] 2024 Approved Precision Polling on Instagram Crafting Survey Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-win10-screen-grabber-top-tier-video-recorder/"><u>[Updated] Win10 Screen Grabber - Top-Tier Video Recorder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-maximizing-your-androids-storage-top-8-effective-strategies/"><u>1. Maximizing Your Android's Storage: Top 8 Effective Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-remove-samsung-calendar-from-your-galaxy-device-a-step-by-step-guide/"><u>1. Remove Samsung Calendar From Your Galaxy Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-seamless-transition-moving-your-contact-list-from-one-android-device-to-another/"><u>1. Seamless Transition: Moving Your Contact List From One Android Device to Another</u></a></li>
-<li><a href="https://win11.techidaily.com/8-microsoft-apps-you-must-install-on-android-if-you-have-a-windows-pc/"><u>8 Microsoft Apps You Must Install on Android if You Have a Windows PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fading-techniques-for-aural-balance-for-2024/"><u>Fading Techniques for Aural Balance for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-freezing-and-halted-sessions-in-your-qbittorrent-client/"><u>Fixing Freezing and Halted Sessions in Your qBittorrent Client</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808358553-forgot-your-gmail-password-again-discover-simple-remedies-now/"><u>Forgot Your Gmail Password Again? Discover Simple Remedies Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-yuva-3-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Yuva 3.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-secrets-expert-strategies-for-identifying-hidden-programs-in-android-os/"><u>Unveiling Secrets: Expert Strategies for Identifying Hidden Programs in Android OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-top-10-undiscovered-android-13-functions/"><u>Unveiling the Secrets: Top 10 Undiscovered Android 13 Functions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/volume-adjustment-techniques-on-android-devices-without-physical-buttons/"><u>Volume Adjustment Techniques on Android Devices without Physical Buttons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/which-models-are-on-the-list-find-out-which-motorola-phones-will-be-updated-to-android-15/"><u>Which Models Are on the List? Find Out Which Motorola Phones Will Be Updated to Android 15</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-every-android-user-needs-a-high-quality-stylus-10-compelling-reasons-explained/"><u>Why Every Android User Needs a High-Quality Stylus: 10 Compelling Reasons Explained</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-strategies-for-adjusting-music-tempo-on-spotify-app/"><u>[New] 2024 Approved Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-jest-jamboree-the-most-entertaining-youtubers-to-watch/"><u>[Updated] Jest Jamboree The Most Entertaining YouTubers to Watch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtubes-video-comment-features/"><u>[Updated] Mastering YouTube's Video Comment Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mocroscreen-recording-ads-for-2024/"><u>[Updated] MocroScreen Recording Ads for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ideal-strategies-for-online-video-photo-effects-implementation/"><u>2024 Approved Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-superior-alternative-to-remarkable-and-kindle-experts-guide-to-exceptional-e-ink-tablets-on-zdnet/"><u>Discover the Superior Alternative to Remarkable and Kindle: Expert's Guide to Exceptional E Ink Tablets on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-whats-next-for-the-newest-ipad-pro-and-artificial-intelligence-breakthroughs-coming-to-wwdc-insights-from-zdnet/"><u>Discover What's Next for the Newest iPad Pro and Artificial Intelligence Breakthroughs Coming to WWDC | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-conversion-upgrade-your-obsolete-fire-tablet-to-echo-show-with-simple-steps-innovationhub/"><u>DIY Conversion: Upgrade Your Obsolete Fire Tablet to Echo Show with Simple Steps | InnovationHub</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-g29-controller-driver-compatible-with-windows-11-windows-10-and-windows-7/"><u>Download Logitech G29 Controller Driver – Compatible with Windows 11, Windows 10 & Windows 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-opportunity-save-on-amazons-kid-friendly-fire-tablet-snag-it-for-a-steal-at-only-90-before-time-runs-out/"><u>Exciting Opportunity: Save on Amazon’s Kid-Friendly Fire Tablet - Snag It for a Steal at Only $90 Before Time Runs Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-value-of-nokias-new-t20-104-android-tab-on-techradar-comprehensive-breakdown-and-user-impressions/"><u>Experience the Value of Nokia's New T20, 10.4 Android Tab on TechRadar: Comprehensive Breakdown & User Impressions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-elite-selection-of-ipad-pro-keyboard-accessories-zdnet/"><u>Expert Analysis: Elite Selection of iPad Pro Keyboard Accessories | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-guide-10-crucial-settings-and-tips-every-new-apple-user-should-master-on-their-ipad-zdnet/"><u>Expert's Guide: 10 Crucial Settings and Tips Every New Apple User Should Master on Their iPad | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx930dll-error-messages-efficiently/"><u>Troubleshooting Missing d3dx9_30.dll Error Messages Efficiently</u></a></li>
 </ul></div>
 

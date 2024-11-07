@@ -1,7 +1,7 @@
 ---
 title: "Brighten Up Plus Modernize: How Govee Cube Sconces Enhance Home Lighting and Convenience | ZDNET Insights"
-date: 2024-09-18 12:20:17
-updated: 2024-09-20 12:41:15
+date: 2024-10-31T16:00:20.483Z
+updated: 2024-11-07T16:00:02.856Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,31 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-strategic-insights-on-making-persuasive-client-centered-videos/"><u>[New] In 2024, Strategic Insights on Making Persuasive Client-Centered Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-the-best-in-google-meet-with-top-screen-recorders-for-2024/"><u>[Updated] Capture the Best in Google Meet with Top Screen Recorders for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/desktop-decision-dilemma-how-to-select-between-mac-mini-studio-imac-or-pro-models-for-your-needs/"><u>Desktop Decision Dilemma: How to Select Between Mac Mini, Studio, iMac, or Pro Models for Your Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-latest-steal-the-hp-victus-15l-gaming-pc-drops-to-only-480-for-labor-day-spotlight-by-zdnet/"><u>Get Your Hands on the Latest Steal! The HP Victus 15L Gaming PC Drops to Only $480 for Labor Day - Spotlight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-pc-ready-save-220-on-the-latest-rtx-nvidia-geforce-3070-today-techradar/"><u>Get Your PC Ready: Save $220 on the Latest RTX nVidia GeForce 3070 Today! | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-intel-cpu-vulnerability-affected-systems-applying-fixes-and-comprehensive-faq-zdnet-insights/"><u>Guide to Intel CPU Vulnerability – Affected Systems, Applying Fixes, and Comprehensive FAQ | ZDNET Insights</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/hd-gaming-video-recording-high-quality-gameplay-videos-and-ultimate-software-list/"><u>HD Gaming Video Recording, High-Quality Gameplay Videos, and Ultimate Software List.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-snap-inspiration-selecting-stunning-ig-visuals/"><u>In 2024, Snap Inspiration! Selecting Stunning IG Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-nacon-revolution-x-pro-controller-a-comprehensive-gaming-pad-evaluation-review-2022/"><u>In-Depth Analysis: Nacon Revolution X Pro Controller - A Comprehensive Gaming Pad Evaluation (Review) 2022</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/june-2024s-ultimate-selection-top-deals-at-best-buy-revealed-by-zdnet/"><u>June 2024'S Ultimate Selection: Top Deals at Best Buy Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cost-reduction-boost-savings-beyond-half-a-grand-each-month-with-proven-tips-zdnet/"><u>Mastering Cost Reduction: Boost Savings Beyond Half a Grand Each Month with Proven Tips | ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/penning-powerful-film-prospectus-for-2024/"><u>Penning Powerful Film Prospectus for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/speech-capture-device-scrutiny/"><u>Speech Capture Device Scrutiny</u></a></li>
+<li><a href="https://article-posts.techidaily.com/speedy-conversion-techniques-for-your-srt-to-txt-tasks-for-2024/"><u>Speedy Conversion Techniques for Your SRT to TXT Tasks for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-twitch-streaming-myths-unveiled-a-guide-for-newcomers/"><u>Top Twitch Streaming Myths Unveiled - A Guide for Newcomers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/walmarts-must-have-discounts-for-july-2n-2024-uncovered-by-zdnet-experts/"><u>Walmart's Must-Have Discounts for July 2N, 2024 – Uncovered by ZDNet Experts</u></a></li>
+</ul></div>
+

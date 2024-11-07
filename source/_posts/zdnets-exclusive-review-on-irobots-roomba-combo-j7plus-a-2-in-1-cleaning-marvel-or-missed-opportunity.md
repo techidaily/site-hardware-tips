@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Exclusive Review on IRobot's Roomba Combo J7+: A 2-in-1 Cleaning Marvel or Missed Opportunity?"
-date: 2024-09-19 14:12:41
-updated: 2024-09-20 12:41:34
+date: 2024-11-01T16:06:05.418Z
+updated: 2024-11-07T16:04:22.047Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-thumbnails-that-captivate-a-professionals-guide-to-visual-lures/"><u>[New] In 2024, Thumbnails That Captivate A Professional's Guide to Visual Lures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-understanding-and-modifying-screen-capture-formats-mac/"><u>[New] Understanding and Modifying Screen Capture Formats (Mac)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-lurker-to-leader-the-roadmap-to-higher-fb-page-rankings/"><u>[Updated] 2024 Approved From Lurker to Leader The Roadmap to Higher FB Page Rankings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser/"><u>[Updated] In 2024, Unveiling Clearer Photos A Guide to Picsart's Bg Eraser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compression-video-gratuite-transformer-des-fichiers-mp4-en-mpeg-en-ligne-avec-movavi/"><u>Compression Vidéo Gratuite : Transformer Des Fichiers MP4 en Mpeg en Ligne Avec Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-recommendations-for-the-ultimate-32-inch-tv-models-zdnet/"><u>Top Picks: Expert Recommendations for the Ultimate 32-Inch TV Models - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-mp3-players-expert-picks-from-zdnet/"><u>Top Rated MP3 Players : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-gadgets-an-expert-roundup-by-zdnet/"><u>Top Rated Streaming Gadgets - An Expert Roundup by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-electronics-from-best-buy-for-the-holidays-insider-tips-by-zdnet/"><u>Top Recommended Electronics From Best Buy for the Holidays - Insider Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-fire-tv-stick-alternatives-recommended-by-zdnet/"><u>Top-Rated Fire TV Stick Alternatives - Recommended by ZDNet</u></a></li>
+</ul></div>
+

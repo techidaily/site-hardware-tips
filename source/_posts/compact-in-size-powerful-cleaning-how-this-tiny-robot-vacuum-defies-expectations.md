@@ -1,7 +1,7 @@
 ---
 title: "Compact in Size, Powerful Cleaning: How This Tiny Robot Vacuum Defies Expectations"
-date: 2024-09-19 11:32:47
-updated: 2024-09-20 12:26:44
+date: 2024-11-02T16:02:44.594Z
+updated: 2024-11-07T16:07:30.865Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-10-digital-landscape-replacers-for-videos/"><u>[New] In 2024, Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>[Updated] 2024 Approved Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-empowerment-in-entertainment-top-10-inspirational-women/"><u>[Updated] Empowerment in Entertainment Top 10 Inspirational Women</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leading-sites-that-outshine-traditional-twitter-usage/"><u>[Updated] In 2024, Leading Sites That Outshine Traditional Twitter Usage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-best-practices-aspect-ratio-in-twitters-videos/"><u>2024 Approved Best Practices Aspect Ratio in Twitters Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>2024 Approved Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-hands-on-evaluation-of-amazfit-gtr-4s-groundbreaking-199-gps-technology-a-detailed-insight-by-zdnet/"><u>Exclusive Hands-On Evaluation of Amazfit GTR 4'S Groundbreaking $199 GPS Technology - A Detailed Insight by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-updates-in-googles-2023-pixel-launch-in-depth-review-and-key-enhancements/"><u>Exploring the Latest Updates in Google's 2023 Pixel Launch: In-Depth Review & Key Enhancements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmin-enduro-2-unveiled-ultimate-endurance-athlete-companion-with-up-to-150-hours-of-battery-and-in-depth-training-tools-explored-on-zdnet/"><u>Garmin Enduro 2 Unveiled: Ultimate Endurance Athlete Companion with Up to 150 Hours of Battery and In-Depth Training Tools | Explored on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-a2plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi A2+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-insights-on-elite-android-timepieces-features-reviews-and-ratings-zdnet/"><u>Professional Insights on Elite Android Timepieces: Features, Reviews, and Ratings - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-4-pro-navigation-setup-explained-tips-and-tricks-by-tech-experts-at-zdnet/"><u>Samsung Galaxy Watch 4 Pro Navigation Setup Explained – Tips & Tricks by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-game-space-with-a-stylish-rgb-light-discounted-at-25-get-the-latest-from-zdnet/"><u>Upgrade Your Game Space with a Stylish RGB Light Discounted at 25% - Get the Latest From ZDNet!</u></a></li>
+</ul></div>
+

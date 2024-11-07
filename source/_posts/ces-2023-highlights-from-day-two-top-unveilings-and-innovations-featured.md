@@ -1,7 +1,7 @@
 ---
 title: "CES 2023 Highlights From Day Two: Top Unveilings and Innovations Featured"
-date: 2024-10-28T21:30:24.199Z
-updated: 2024-11-01T20:19:05.499Z
+date: 2024-11-02T16:06:49.613Z
+updated: 2024-11-07T16:06:03.801Z
 tags:
   - laptops
 categories:
@@ -35,10 +35,10 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 LG
@@ -69,6 +69,13 @@ MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Roku and Hisense offer new models and upgrades
 
 Roku
@@ -78,10 +85,10 @@ While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-of
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
@@ -103,16 +110,16 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
 <!-- affiliate ads begin -->
-<span id="1975648">
+<span id="1977020">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
@@ -130,13 +137,6 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -184,24 +184,24 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-cutting-edge-narratives-on-airwaves/"><u>[New] 2024 Approved Cutting-Edge Narratives on Airwaves</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitsoundscape-audio-from-tweets/"><u>[New] 2024 Approved TwitSoundscape Audio From Tweets</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-echoes-of-unity-combining-tracks-in-digital-performer/"><u>[New] In 2024, Echoes of Unity Combining Tracks in Digital Performer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>[Updated] Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-guide-5-top-earning-instagram-strategies/"><u>[Updated] Ultimate Guide 5 Top-Earning Instagram Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-social-media-savvy-the-best-25-hashtags-for-likes-and-followers/"><u>2024 Approved Social Media Savvy The Best 25 Hashtags for Likes and Followers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-and-install-logitech-g403-gamepad-drivers-on-windows-pc/"><u>Download & Install Logitech G403 Gamepad Drivers on Windows PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-top-pc-case-selections-of-2024-to-elevate-your-personal-computer-setup/"><u>Expertly Reviewed Top PC Case Selections of 2024 to Elevate Your Personal Computer Setup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computer-equipment-with-toms-review-site/"><u>Exploring the Latest in Computer Equipment with Tom's Review Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/harness-unmatched-thermal-efficiency-with-pioneercools-ultrafrost-duo-aio-liquid-cooler/"><u>Harness Unmatched Thermal Efficiency with PioneerCool's UltraFrost-Duo AIO Liquid Cooler</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-larger-print-formats-same-sharpness-levels/"><u>In 2024, Larger Print Formats, Same Sharpness Levels</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/key-strategies-for-gaining-facebooks-top-marker/"><u>Key Strategies for Gaining Facebook's Top Marker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-reviews-by-toms-hardware-authority/"><u>The Ultimate Guide to Tech Reviews by Tom's Hardware Authority</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-comprehvew-on-cutting-edge-computer-equipment/"><u>Tom's Comprehvew on Cutting-Edge Computer Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Guides and Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-your-pc-with-tips-from-toms-tech-wisdom/"><u>Unlocking the Potential of Your PC with Tips From Tom’s Tech Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-trends-at-toms-hardware-chronicles/"><u>Unveiling New Tech Trends at Tom's Hardware Chronicles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-by-toms-experts/"><u>Unveiling the Latest in Computer Hardware by Tom's Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-vertical-video-editing-for-instagrams-igtv/"><u>[New] 2024 Approved Innovative Vertical Video Editing for Instagram's IGTV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-expert-periscope-use/"><u>[New] Unlocking the Secrets of Expert Periscope Use</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-narzo-60-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme Narzo 60 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-already-in-use-errors-and-unique-device-naming/"><u>Banish 'Already in Use' Errors and Unique Device Naming</u></a></li>
+<li><a href="https://facebook.techidaily.com/emerging-trends-in-fb-safety-to-keep-abreast-of/"><u>Emerging Trends in FB Safety to Keep Abreast Of</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-get-a-discount-of-80-on-zdnets-fimi-x8se-drone-limited-time-deal/"><u>Exclusive Offer: Get a Discount of $80 on ZDNet's Fimi X8SE Drone - Limited Time Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-using-a-bluetooth-device-to-fix-obd-ii-errors-featured-by-zdnet/"><u>Expert Analysis on Using a Bluetooth Device to Fix OBD-II Errors, Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-chosen-ultimate-dashcam-guide-of-2024-features-and-recommendations-cartech-insights/"><u>Expertly Chosen Ultimate Dashcam Guide of 2024 – Features and Recommendations | CarTech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-picks-for-ultimate-portable-battery-boosters-of-2024-full-analysis-cnet/"><u>Experts' Picks for Ultimate Portable Battery Boosters of 2024 - Full Analysis | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-how-the-newly-enhanced-amazon-echo-auto-aids-drivers-with-roadside-help-analysis-on-zdnet/"><u>Explore How the Newly Enhanced Amazon Echo Auto Aids Drivers with Roadside Help – Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-market-find-out-which-are-the-most-stylish-and-functional-luggage-sets-of-2022-insights-from-zdnet/"><u>Exploring the Market: Find Out Which Are the Most Stylish and Functional Luggage Sets of 2022 - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/groundbreaking-launch-elon-musks-tesla-delivers-initial-batch-of-ev-semi-trucks-insights-from-zdnet/"><u>Groundbreaking Launch: Elon Musk's Tesla Delivers Initial Batch of EV Semi Trucks - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hovranger-vs-my-regular-commute-how-an-e-bike-can-slash-costs-without-compromising-performance-insights-from-zdnets-latest-review/"><u>HovRanger Vs. My Regular Commute: How an E-Bike Can Slash Costs Without Compromising Performance | Insights From ZDNET's Latest Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-bmws-innovative-wireless-charger-could-damage-future-iphones/"><u>How BMW's Innovative Wireless Charger Could Damage Future iPhones</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-3-easy-youtube-audio-extraction-methods-free-and-secure/"><u>In 2024, 3 Easy YouTube Audio Extraction Methods Free & Secure</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-reno-10-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Reno 10 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/innovative-screenshot-and-recordings-for-gamers-delight-for-2024/"><u>Innovative Screenshot and Recordings for Gamers' Delight for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamlessly-enhancing-content-learn-video-filter-techniques-on-pcmobile-for-2024/"><u>Seamlessly Enhancing Content Learn Video Filter Techniques on PC/Mobile for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-critical-system-failures-a-guide-to-fixing-watchdogsys-bluescreens/"><u>Troubleshooting Critical System Failures: A Guide to Fixing Watchdog.sys Bluescreens</u></a></li>
 </ul></div>
 

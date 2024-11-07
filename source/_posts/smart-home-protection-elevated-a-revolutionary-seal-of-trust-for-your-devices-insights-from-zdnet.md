@@ -1,7 +1,7 @@
 ---
 title: "Smart Home Protection Elevated: A Revolutionary Seal of Trust for Your Devices | Insights From ZDNet"
-date: 2024-09-17 20:22:31
-updated: 2024-09-20 11:57:25
+date: 2024-11-05T16:00:54.404Z
+updated: 2024-11-07T16:00:38.592Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-circulation-craft-expert/"><u>[New] Circulation Craft Expert</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-10-independent-android-games-for-non-networked-natives-for-2024/"><u>[New] Top 10 Independent Android Games for Non-Networked Natives for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-studio-editor-transform-your-videos-with-ease/"><u>[New] YouTube Studio Editor Transform Your Videos with Ease</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-side-by-side-progopro-analysis/"><u>2024 Approved Side by Side ProGoPro Analysis</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-13ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 13/iPad/iPod</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/engaging-story-starter-toolkit/"><u>Engaging Story Starter Toolkit</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-lost-ark-not-launching-2024/"><u>How to Fix Lost Ark Not Launching - 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-efficiency-beyond-gaming-discover-the-elgato-stream-decks-workflow-wonders/"><u>Maximize Efficiency Beyond Gaming: Discover the Elgato Stream Deck's Workflow Wonders!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-with-lenovos-cutting-edge-office-solutions-according-to-zdnet-experts/"><u>Revolutionize Your Workspace with Lenovo's Cutting-Edge Office Solutions, According to ZDNet Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-why-arent-my-iphone-contacts-appearing/"><u>Solving the Mystery: Why Aren't My iPhone Contacts Appearing?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-next-leap-in-visual-entertainment-a-comprehensive-guide-to-samsungs-latest-tv-lineup-featuring-neo-qled-and-oled-models-release-dates-and-pricing-insigh155/"><u>The Next Leap in Visual Entertainment: A Comprehensive Guide to Samsung's Latest TV Lineup , Featuring Neo QLED and OLED Models – Release Dates & Pricing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-risks-of-relying-on-proprietary-models-why-embracing-byo-ai-is-crucial-for-innovation-and-growth/"><u>The Risks of Relying on Proprietary Models: Why Embracing BYO AI Is Crucial for Innovation and Growth</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-7-most-innovative-mouse-pick-of-2022-enhance-your-pc-experience-now/"><u>The Ultimate Guide to the 7 Most Innovative Mouse Pick of 2022 – Enhance Your PC Experience Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-outlet-bricks-expert-picks-by-techradar/"><u>Top 5 Smart Outlet Bricks: Expert Picks by TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-ssd-models-reviewed-the-ultimate-guide-sourcedna/"><u>Top-Ranking SSD Models Reviewed: The Ultimate Guide - SourceDNA</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-the-essentials-of-data-integrity-significance-and-implementation-strategies/"><u>Understanding the Essentials of Data Integrity: Significance & Implementation Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-on-your-earwax-removal-gadget-exclusive-46-black-friday-discount-at-zdnet/"><u>Unlocking Savings on Your Earwax Removal Gadget - Exclusive 46% Black Friday Discount at ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-now-is-the-time-for-an-ergonomic-mouse-unveiling-3-essential-reasons-from-zdnet/"><u>Why Now Is the Time for an Ergonomic Mouse? Unveiling 3 Essential Reasons From ZDNet</u></a></li>
+</ul></div>
+

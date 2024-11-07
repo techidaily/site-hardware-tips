@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Smart Home Gadgets of 2024: Comprehensive Reviews by Tech Experts | ZDNet"
-date: 2024-09-19 23:43:30
-updated: 2024-09-20 11:27:10
+date: 2024-11-01T16:08:19.215Z
+updated: 2024-11-07T16:06:58.405Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-essentials-of-creating-a-personalized-twitter-account/"><u>[New] 2024 Approved The Essentials of Creating a Personalized Twitter Account</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-complying-with-aspect-ratios-in-tweets/"><u>[New] In 2024, Complying with Aspect Ratios in Tweets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-3-ways-to-record-lectures-on-mac/"><u>[Updated] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-needle-speed-of-videos-in-snapchat/"><u>[Updated] Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-guide-standing-out-in-reddit-discussions/"><u>In 2024, A Comprehensive Guide Standing Out in Reddit Discussions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-signed-file-barrier-for-system-upgrades/"><u>Overcoming Non-Signed File Barrier for System Upgrades</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-2-black-screen-bug-top-tips-for-a-clear-display/"><u>Star Wars Battlefront 2 Black Screen Bug – Top Tips for a Clear Display</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-on-linkedin-a-deep-dive-into-green-skills-sustainable-jobs-and-overlooked-pitfalls-expert-commentary-from-zdnet/"><u>The 'Great Reshuffle' On LinkedIn: A Deep Dive Into Green Skills, Sustainable Jobs and Overlooked Pitfalls | Expert Commentary From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-right-to-repair-laws-and-their-significance-for-everyday-users-digitalwise-blog/"><u>The Essentials of Right-to-Repair Laws & Their Significance for Everyday Users | DigitalWise Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-the-right-to-repair-movement-how-it-affects-consumers-and-why-its-crucial/"><u>The Essentials of the Right-to-Repair Movement: How It Affects Consumers and Why It's Crucial.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-battling-snowstorms-in-cleveland-discover-the-ultimate-solution-with-an-innovative-electric-snow-blower/"><u>Tired of Battling Snowstorms in Cleveland? Discover the Ultimate Solution with an Innovative Electric Snow Blower</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-comprehensive-review-techradar/"><u>Top-Rated Portable Solar Power Banks : Comprehensive Review - TechRadar</u></a></li>
+</ul></div>
+
