@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Innovation: The Miniature Marvel of a Webcam That Defies Size Limits | ZDNET"
-date: 2024-11-01T16:00:08.447Z
-updated: 2024-11-07T16:13:23.847Z
+date: 2024-11-11T17:34:33.262Z
+updated: 2024-11-17T16:10:43.208Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,10 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,20 +137,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-blueprinting-a-thrilling-film-flashpoint-for-2024/"><u>[New] Blueprinting a Thrilling Film Flashpoint for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-core-principles-of-internet-storytelling/"><u>[New] Core Principles of Internet Storytelling</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-tailoring-audio-how-to-download-and-customize-whatsapp-tones-on-devices/"><u>[New] Tailoring Audio How to Download & Customize WhatsApp Tones on Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagrams-new-trends-reels-and-stories-for-2024/"><u>[Updated] Mastering Instagram’s New Trends Reels and Stories for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-streamline-editing-how-to-load-music-in-inshot-for-2024/"><u>[Updated] Streamline Editing How to Load Music in InShot for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-blaze-curve-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Blaze Curve 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-video-to-mp3-digital-audio-extraction-guide-for-2024/"><u>FB Video to MP3 Digital Audio Extraction Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leaked-image-of-googles-revolutionary-new-pixel-watch-reveals-major-redesign-its-a-game-changer-techspotted/"><u>Leaked Image of Google's Revolutionary New Pixel Watch Reveals Major Redesign; It's a Game Changer! | TechSpotted</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-battery-life-with-apple-watchs-low-power-mode-a-guide-for-optimal-performance-discover-how-at-zdnet/"><u>Mastering Battery Life with Apple Watch's Low Power Mode - A Guide for Optimal Performance | Discover How at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-budget-friendly-apple-watch-series-10-at-just-99-with-early-bird-preorders-from-best-buy-complete-guide-on-zdnet/"><u>Score a Budget-Friendly Apple Watch Series 10 at Just $99 with Early Bird Preorders From Best Buy – Complete Guide on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-to-enable-googles-pixel-watch-fall-detection-and-understanding-its-importance/"><u>Step-by-Step to Enable Google's Pixel Watch Fall Detection and Understanding Its Importance</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor X7b</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-kid-friendly-smartwatches-that-arent-apple-or-garmin-in-depth-reviews-and-comparisons/"><u>Top Kid-Friendly Smartwatches That Aren't Apple or Garmin: In-Depth Reviews & Comparisons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-report-the-premium-649-samsung-galaxy-watch-ultra-and-what-it-really-offers-an-exclusive-insight-by-a-gadget-enthusiast-zdnet/"><u>Unboxing & Testing Report: The Premium $649 Samsung Galaxy Watch Ultra and What It Really Offers – An Exclusive Insight by a Gadget Enthusiast | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-zdnets-methodology-for-assessing-top-tier-smartwatches-on-the-market/"><u>Unveiling ZDNet's Methodology for Assessing Top-Tier Smartwatches on the Market</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-flawless-foundations-top-youtube-skincare-routines/"><u>[New] 2024 Approved Flawless Foundations Top YouTube Skincare Routines</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-5-chrome-extensions-seamlessly-access-facebook-videos/"><u>[Updated] In 2024, Essential 5 Chrome Extensions Seamlessly Access Facebook Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphone-camera-techniques-for-quality-shots/"><u>[Updated] IPhone Camera Techniques for Quality Shots</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-strategic-release-dates-for-peak-youtube-engagement/"><u>In 2024, Strategic Release Dates for Peak YouTube Engagement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-guide-80s-vhs-tricks-for-dynamic-edits/"><u>In 2024, Ultimate Guide 80'S VHS Tricks for Dynamic Edits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-thrustmaster-t300-driver-for-windows-11-and-10-free-download-guide/"><u>Latest Version of Thrustmaster T300 Driver for Windows 11 & 10 - Free Download Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/quickening-realities-with-hyperlapse-methods-for-2024/"><u>Quickening Realities with Hyperlapse Methods for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-daily-commute-with-heybike-city-run-top-rated-e-bike-for-urban-travel-tech-insights/"><u>Revolutionize Your Daily Commute with Heybike City Run - Top Rated E-Bike for Urban Travel | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-medicine-distribution-amazon-introduces-cost-free-drone-shipments-for-prescriptions-tech-news-roundup/"><u>Revolutionizing Medicine Distribution, Amazon Introduces Cost-Free Drone Shipments for Prescriptions | Tech News Roundup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pharmacy-shopping-amazon-launches-complimentary-drone-based-delivery-of-prescriptions/"><u>Revolutionizing Pharmacy Shopping: Amazon Launches Complimentary Drone-Based Delivery of Prescriptions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revving-through-words-exploring-transportation-woes-in-road-to-nowhere-with-an-in-depth-book-review-on-zdnet/"><u>Revving Through Words: Exploring Transportation Woes in 'Road to Nowhere' With an In-Depth Book Review on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-with-confidence-secure-the-atomi-alpha-electric-scooter-now-for-just-300-less-shop-smart-on-zdnet/"><u>Slash Prices with Confidence: Secure the Atomi Alpha Electric Scooter Now for Just $300 Less! Shop Smart on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-save-up-to-2k-on-airfare-using-dollar-flight-club-insider-tips-from-zdnet/"><u>Slash Your Travel Costs: Save Up to $2K on Airfare Using Dollar Flight Club - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spooky-savings-alert-snag-a-discounted-evo-nanoplus-drone-for-halloween-and-slice-off-190-from-price-exclusive-offer/"><u>Spooky Savings Alert: Snag a Discounted Evo Nano+ Drone for Halloween & Slice Off $190 From Price! - Exclusive Offer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-sets-new-norm-for-electric-vehicle-charging-in-us-after-landmark-pact-with-general-motors-and-ford-details-on-zdnet/"><u>Tesla Sets New Norm for Electric Vehicle Charging in US After Landmark Pact with General Motors and Ford, Details on ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-advanced-analytics-with-our-cookiebot-integration-technology/"><u>Unlock Advanced Analytics with Our Cookiebot Integration Technology!</u></a></li>
 </ul></div>
 

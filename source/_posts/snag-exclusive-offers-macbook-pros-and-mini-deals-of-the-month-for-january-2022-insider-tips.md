@@ -1,7 +1,7 @@
 ---
 title: "Snag Exclusive Offers: MacBook Pros and Mini Deals of the Month for January 2022 | Insider Tips"
-date: 2024-11-04T16:00:22.738Z
-updated: 2024-11-07T16:03:01.006Z
+date: 2024-11-16T16:32:41.141Z
+updated: 2024-11-17T19:01:24.691Z
 tags:
   - laptops
 categories:
@@ -157,19 +157,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -184,15 +171,22 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
@@ -200,10 +194,10 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -211,13 +205,6 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -252,6 +239,13 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -297,19 +291,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-securing-every-play-moment-advanced-obs-techniques/"><u>[New] In 2024, Securing Every Play Moment Advanced OBS Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-seamless-downloads-4-prime-ringtones-providers/"><u>[New] Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-beyond-boundaries-the-five-pinnacle-cloud-storage-innovations-for-2024/"><u>[Updated] Beyond Boundaries The Five Pinnacle Cloud Storage Innovations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-hiring-best-film-makers/"><u>[Updated] Expert Tips for Hiring Best Film Makers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apples-new-27-inch-imac-with-m3-chip-fails-to-impress-hardcore-enthusiasts-is-bigger-always-better/"><u>Apple’s New 27-Inch iMac with M3 Chip Fails to Impress Hardcore Enthusiasts - Is Bigger Always Better?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/conceptual-canvas-chatai-and-brainstraning-techniques/"><u>Conceptual Canvas: ChatAI & Brainstraning Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-podcasting-game-with-the-focusrite-scarlet-2i2-a-top-audio-interface-reviewed-on-zdnet/"><u>Enhance Your Podcasting Game with the Focusrite Scarlet 2I2: A Top Audio Interface Reviewed on ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-note-50-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme Note 50 Safely | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-unveils-new-printing-plan-could-this-be-the-solution-to-stop-disliking-your-printer-discover-more-on-zdnet/"><u>HP Unveils New Printing Plan: Could This Be the Solution to Stop Disliking Your Printer? Discover More on ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-key-practices-to-amplify-your-social-media-impact-on-fb/"><u>In 2024, Key Practices to Amplify Your Social Media Impact on FB</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-tech-arsenal-with-an-earwax-removal-camera-score-a-steep-46-off-this-cyber-monday-at-zdnet/"><u>Maximize Your Tech Arsenal with an EARWAX Removal Camera! Score a Steep 46% Off This Cyber Monday at ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211066393-9789359043777-the-enlightenment-of-the-world/"><u>The Enlightenment of the World | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-ultra-fast-charging-with-our-200w-behemoth-multi-device-powerhouse-in-a-miniature-package-zdnet/"><u>Unleash Ultra-Fast Charging with Our 200W Behemoth: Multi-Device Powerhouse in a Miniature Package | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-examination-of-the-ergonomic-features-in-the-x-chair-an-in-depth-executive-office-seat-analysis/"><u>ZDNet's Comprehensive Examination of the Ergonomic Features in the X-Chair: An In-Depth Executive Office Seat Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-art-of-captioning-images-with-text/"><u>[Updated] 2024 Approved The Art of Captioning Images with Text</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-propel-traffic-and-engagement-with-smart-youtube-backlink-strategies-for-2024/"><u>[Updated] Propel Traffic and Engagement with Smart YouTube Backlink Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>2024 Approved Beam Brighter Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anker-737-mini-power-bank-sale-shop-now-and-get-30-off-exclusive-offer-for-zdnet-readers/"><u>Anker 737 Mini Power Bank Sale - Shop Now & Get $30 Off, Exclusive Offer for ZDNet Readers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/freshly-released-chrome-os-upgrade-introduces-windows-11-features-to-your-chromebook-the-latest-news/"><u>Freshly Released Chrome OS Upgrade Introduces Windows 11 Features to Your Chromebook: The Latest News</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-tips-for-surface-dock-driver-update-easy-steps-inside/"><u>Quick Setup Tips for Surface Dock Driver Update - Easy Steps Inside!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reset-your-windows-11-device-a-comprehensive-walkthrough/"><u>Reset Your Windows 11 Device - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-endless-startup-in-bios-for-windows-systems/"><u>Steps to Overcome Endless Startup in BIOS for Windows Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultra-fast-storage-grab-the-massive-8tb-samsung-t5-ssd-for-36-less-on-amazon-featured/"><u>Unleash Ultra-Fast Storage: Grab the Massive 8TB Samsung T5 SSD for 36% Less on Amazon, Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-full-desktop-power-for-your-notebook-using-an-advanced-discreet-docking-solution-featured-on-zdnet/"><u>Unlock Full Desktop Power for Your Notebook Using an Advanced Discreet Docking Solution, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-value-on-a-budget-my-experience-with-the-affordable-surface-pro-11-insights-from-a-seasoned-microsoft-enthusiast/"><u>Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast</u></a></li>
 </ul></div>
 

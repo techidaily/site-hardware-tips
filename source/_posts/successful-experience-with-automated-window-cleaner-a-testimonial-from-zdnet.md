@@ -1,7 +1,7 @@
 ---
 title: "Successful Experience with Automated Window Cleaner: A Testimonial From ZDNet"
-date: 2024-09-18 15:59:20
-updated: 2024-09-20 11:41:54
+date: 2024-11-12T20:39:24.012Z
+updated: 2024-11-17T17:11:44.033Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-tips-for-zoom-screen-sharing/"><u>[New] 2024 Approved Essential Tips for Zoom Screen Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-images-in-depth-guide-to-smooth-shutter-effect-in-ps/"><u>[New] Elevate Your Images In-Depth Guide to Smooth Shutter Effect in PS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>[New] Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieve-perfect-views-with-aspect-ratio-knowledge-on-youtube/"><u>[Updated] 2024 Approved Achieve Perfect Views with Aspect Ratio Knowledge on YOUTUBE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-the-epic-android-video-editor-apps/"><u>[Updated] 2024 Approved Discover the Epic Android Video Editor Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-epic-imagery-crafting-inspiring-instagram-posts-top20/"><u>[Updated] Epic Imagery Crafting Inspiring Instagram Posts #Top20</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[Updated] In 2024, Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/an-in-depth-review-how-the-asus-expertbook-b3-fails-to-meet-its-promises-tech-insights/"><u>An In-Depth Review: How the ASUS ExpertBook B3 Fails to Meet Its Promises | Tech Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-x50iplus-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on X50i+</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-efficient-work-travel-tablet-alternative-to-microsoft-and-lenovo-according-to-industry-experts-insights/"><u>Discover the Most Efficient Work Travel Tablet Alternative to Microsoft and Lenovo, According to Industry Experts Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-workspaces-discovering-the-most-exceptional-2-in-1-tech-of-this-year-with-a-hidden-perk-zdnet-insight/"><u>Revolutionizing Workspaces: Discovering the Most Exceptional 2-in-1 Tech of This Year with a Hidden Perk | ZDNet Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spectacular-deals-alert-get-the-ultimate-bargain-on-samsung-odyssey-neo-g8-monitor-for-550-less-at-best-buys-anti-prime-day-event/"><u>Spectacular Deals Alert! Get the Ultimate Bargain on Samsung Odyssey Neo G8 Monitor for $550 Less at Best Buy's Anti-Prime Day Event</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-bargain-alert-exclusive-access-to-the-top-rated-gaming-sound-experience-on-amazon-now-just-150-sharp/"><u>Unbeatable Bargain Alert: Exclusive Access to the Top-Rated Gaming Sound Experience on Amazon - Now Just $150 Sharp</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flaws-why-we-wont-suggest-dell-2024-xps-14-despite-our-tests-insights-from-zdnet/"><u>Unveiling the Flaws: Why We Won't Suggest Dell 2024 XPS 14 Despite Our Tests – Insights From ZDNet</u></a></li>
+</ul></div>
+

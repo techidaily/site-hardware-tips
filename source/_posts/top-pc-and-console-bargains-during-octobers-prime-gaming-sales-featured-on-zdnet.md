@@ -1,7 +1,7 @@
 ---
 title: Top PC and Console Bargains During October's Prime Gaming Sales - Featured on ZDNet
-date: 2024-11-03T16:23:22.930Z
-updated: 2024-11-07T16:08:46.277Z
+date: 2024-11-15T18:42:49.419Z
+updated: 2024-11-17T21:25:37.860Z
 tags:
   - laptops
 categories:
@@ -101,6 +101,13 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -144,13 +151,6 @@ ZDNET
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15279c92-0516-4a94-9c91-87964162b0d1%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15279c92-0516-4a94-9c91-87964162b0d1%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day Nintendo deals still available
 
 Nintendo/ZDNET
@@ -180,19 +180,6 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -213,10 +200,10 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15279c92-0516-4a94-9c91-87964162b0d1%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
@@ -226,10 +213,10 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15279c92-0516-4a94-9c91-87964162b0d1%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -241,16 +228,16 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -259,6 +246,13 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -325,21 +319,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-channel-transformation-from-zero-to-thousand-followers/"><u>[New] In 2024, Channel Transformation From Zero to Thousand Followers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-diving-into-instagrams-restriction-for-video-content/"><u>[Updated] In 2024, Diving Into Instagram's Restriction for Video Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-ten-skype-capture-devices-reviewed/"><u>[Updated] Top Ten Skype Capture Devices Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipating-apples-next-gen-earbuds-release-timeline-and-pre-order-details-explored-by-zdnet/"><u>Anticipating Apple's Next Gen Earbuds: Release Timeline & Pre-Order Details Explored by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-enhanced-linux-mint-experience-in-version-211-a-superior-choice-for-your-desktopzdnet-review/"><u>Discover the Enhanced Linux Mint Experience in Version 21.1 - A Superior Choice for Your Desktop![ZDNet Review]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-potential-of-a-modular-macbook-how-apples-latest-patent-could-revolutionize-their-laptops/"><u>Exploring the Potential of a Modular MacBook: How Apple’s Latest Patent Could Revolutionize Their Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hear-again-effective-solutions-for-when-your-laptop-losses-its-voice/"><u>Hear Again: Effective Solutions for When Your Laptop Losses Its Voice</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6s Without Passcode?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-high-performance-gaming-laptop-before-memorial-day-sale-save-250-now-with-our-guide-at-zdnet/"><u>Huge Discount on High-Performance Gaming Laptop Before Memorial Day Sale - Save $250 Now with Our Guide at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/i-dont-think-you-understand-man-i-need-to-know-how-this-works/"><u>I Don't Think You Understand, Man... I Need to Know How This Works.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously/"><u>In 2024, 10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x90s-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo X90S Phone Without Password?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-microsofts-new-controversial-release-windows-11-already-under-fire/"><u>Is Microsoft's New Controversial Release: Windows 11 Already Under Fire?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/start-editing-with-ease-implementing-movie-maker-in-windows-11-for-2024/"><u>Start Editing with Ease Implementing Movie Maker in Windows 11 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-peak-performance-how-i-transformed-my-laptop-into-a-powerful-desktop-workstation-for-ultimate-productivity-insights-from-zdnet/"><u>Unleashing Peak Performance: How I Transformed My Laptop Into a Powerful Desktop Workstation for Ultimate Productivity - Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/will-the-apple-m3-chip-phase-out-your-older-m1-and-m2-models-expert-tips-on-optimal-timing-for-an-upgrade-detailed-analysis-zdnet/"><u>Will the Apple M3 Chip Phase Out Your Older M1 and M2 Models? Expert Tips on Optimal Timing for an Upgrade - Detailed Analysis | ZDNET</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-secrets-to-great-gopro-time-lapses/"><u>[New] Unveiling Secrets to Great GoPro Time-Lapses</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-device-friendly-ways-to-locate-your-yt-comments/"><u>[Updated] 2024 Approved Discover Device-Friendly Ways to Locate Your YT Comments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-broadcast-precision-introducing-an-effective-timer/"><u>2024 Approved Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-to-update-your-macos-sierra-system/"><u>Essential Steps to Update Your macOS Sierra System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nokia-xr21-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nokia XR21 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovative-vr-experiences-from-elite-designers/"><u>Innovative VR Experiences From Elite Designers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-share-apples-ios-experience-with-your-samsung-tv-the-ultimate-how-to-digital-trends-hub/"><u>Seamlessly Share Apple's iOS Experience with Your Samsung TV: The Ultimate How-To - Digital Trends Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-living-room-a-guide-to-reduceby-controlling-what-information-your-smart-tv-obtains-zdnet/"><u>Secure Your Living Room: A Guide to Reduceby Controlling What Information Your Smart TV Obtains | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seven-years-of-complimentary-software-enhancements-on-samsung-smart-tvs-powered-by-artifice-intelligence/"><u>Seven Years of Complimentary Software Enhancements on Samsung Smart TVs Powered by Artifice Intelligence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seven-years-of-free-samsung-smart-tv-updates-powered-by-artific/"><u>Seven Years of FREE Samsung Smart TV Updates Powered by Artific</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-electricity-cost-with-these-5-smart-tv-adjustments-a-proven-strategy-from-zdnet/"><u>Slash Your Electricity Cost with These 5 Smart TV Adjustments: A Proven Strategy From ZDNet</u></a></li>
 </ul></div>
 

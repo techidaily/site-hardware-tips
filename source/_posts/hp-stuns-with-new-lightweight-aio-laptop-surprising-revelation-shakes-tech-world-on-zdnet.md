@@ -1,7 +1,7 @@
 ---
 title: HP Stuns with New Lightweight AIO Laptop - Surprising Revelation Shakes Tech World on ZDNet
-date: 2024-09-18 23:48:45
-updated: 2024-09-20 11:58:51
+date: 2024-11-13T17:49:08.686Z
+updated: 2024-11-17T17:36:29.803Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-no-pay-unlock-fcp-paths-to-a-free-edit-suite-for-2024/"><u>[Updated] No Pay? Unlock FCP Paths to a Free Edit Suite for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-revamps-fire-tv-with-cutting-edge-generative-ai-capabilities-discover-the-new-features-zdnet-insight/"><u>Amazon Revamps Fire TV with Cutting-Edge Generative AI Capabilities – Discover the New Features | ZDNET Insight</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-and-save-your-favorite-disclosetv-videos-as-high-quality-mp4-files-with-easy-converter-tools/"><u>Convert and Save Your Favorite Disclose.tv Videos as High-Quality MP4 Files with Easy Converter Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/critical-update-for-roku-owners-more-than-15000-accounts-compromised-immediate-action-required-zdnet/"><u>Critical Update for Roku Owners: More Than 15,000 Accounts Compromised – Immediate Action Required | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-roku-enhances-your-viewing-experience-with-more-than-40-free-tv-channels-including-local-news-zdnet-report/"><u>Discover How Roku Enhances Your Viewing Experience with More than 40 Free TV Channels, Including Local News - ZDNet Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-this-budget-friendly-samsung-projector-doubles-as-a-stealthy-gaming-console-during-labor-days-exclusive-200-discount-offers-at-zdnet/"><u>Discover How This Budget-Friendly Samsung Projector Doubles as a Stealthy Gaming Console During Labor Day's Exclusive $200 Discount Offers at ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-selection-of-32-inch-tvs-with-insights-from-industry-experts-at-zdnet/"><u>Discover the Ultimate Selection of 32-Inch TVs with Insights From Industry Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-top-rated-qled-tv-now-discounted-by-1000-this-labor-day-find-out-which-one-at-zdnet/"><u>Exclusive Deal Alert: Top-Rated QLED TV Now Discounted by $1,000 This Labor Day - Find Out Which One at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-extended-amazon-fire-tv-discounts-post-october-prime-day-detailed-guide-by-zdnet/"><u>Exclusive Extended Amazon Fire TV Discounts Post-October Prime Day – Detailed Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-smallest-big-screens-best-miniature-projector-models-of-2024-as-reviewed-by-zdnet/"><u>Explore the Smallest Big Screens! Best Miniature Projector Models of 2024 as Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-leading-streamers-of-2024-in-depth-review-on-zdnet/"><u>Exploring the Leading Streamers of 2024: In-Depth Review on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-in-transition-evaluating-steams-rules-on-ai-integration/"><u>Gaming in Transition: Evaluating Steam’s Rules on AI Integration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s24-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S24 Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unboxing-the-future-benq-sw320-4k-display/"><u>In 2024, Unboxing the Future BenQ SW320 4K Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-magic-mouse-driver-seamlessly-on-windows-systems-download-included/"><u>Installing Magic Mouse Driver Seamlessly on Windows Systems (Download Included)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-rise-of-new-titans-against-vlc-for-2024/"><u>The Rise of New Titans Against VLC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-windows-11-zoom-failure-1132/"><u>Unblocking Windows 11 Zoom Failure #1132</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Upcoming Apple M4 Chips to Elevate AI Capabilities Across Entire Mac Lineup – Anticipated Launch Dates Covered
-date: 2024-11-02T16:29:26.932Z
-updated: 2024-11-07T16:21:25.443Z
+date: 2024-11-10T16:39:06.134Z
+updated: 2024-11-17T20:26:42.695Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -66,10 +60,16 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +83,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,22 +129,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-alchemy-turning-viewers-into-believers/"><u>[New] 2024 Approved Channel Alchemy Turning Viewers Into Believers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[New] 2024 Approved How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/12-leading-motion-capture-camcorders-now-with-global-positioning/"><u>12 Leading Motion Capture Camcorders Now With Global Positioning</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-discover-best-border-apps-to-elevate-instagram-visuals/"><u>2024 Approved Discover Best Border Apps to Elevate Instagram Visuals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-gaming-experience-snag-an-exclusive-25-off-on-trendy-minimalist-rgb-illumination-by-zdnet/"><u>Boost Your Gaming Experience: Snag an Exclusive 25% Off on Trendy Minimalist RGB Illumination by ZDNET!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/brighten-up-plus-modernize-how-govee-cube-sconces-enhance-home-lighting-and-convenience-zdnet-insights/"><u>Brighten Up Plus Modernize: How Govee Cube Sconces Enhance Home Lighting and Convenience | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cost-effective-magic-for-your-home-comparing-cheaper-smart-strips-with-philips-hue-zdnet/"><u>Cost-Effective Magic for Your Home: Comparing Cheaper Smart Strips with Philips Hue | ZDNET</u></a></li>
-<li><a href="https://article-files.techidaily.com/dji-mavic-pro-pioneering-the-aerial-photography-frontier-for-2024/"><u>DJI Mavic Pro Pioneering the Aerial Photography Frontier for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-live-stream-quality-with-optimal-lighting-insiders-guide-as-featured-on-zdnet/"><u>Enhance Your Live Stream Quality with Optimal Lighting: Insider's Guide as Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanding-automation-matter-version-12-welcomes-9-more-iot-devices-exclusive-update-from-zdnet/"><u>Expanding Automation: Matter Version 1.2 Welcomes 9 More IoT Devices - Exclusive Update From ZDNet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/foremost-suggestions-premium-iphone-tone-makers-for-2024/"><u>Foremost Suggestions Premium iPhone Tone Makers for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>New 2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimal-illumination-for-livestream-success-insights-from-zdnets-experts/"><u>Optimal Illumination for Livestream Success: Insights From ZDNet's Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-govee-light-strips-for-gamers-save-up-to-100-zdnet/"><u>Score Big Savings on Govee Light Strips for Gamers - Save Up to $100! | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-ring-lights-of-2024-for-enhanced-video-quality-cnet/"><u>Top 5 Ring Lights of 2024 for Enhanced Video Quality | CNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-tecno-camon-30-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Camon 30 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/virtual-clarity-streamlining-backgrounds-for-smooth-screenshots-for-2024/"><u>Virtual Clarity Streamlining Backgrounds for Smooth Screenshots for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-minecraft-through-optimal-ram-assignment-for-2024/"><u>[New] Enhancing Minecraft Through Optimal RAM Assignment for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-merging-melodies-the-art-of-crossfading/"><u>[Updated] In 2024, Merging Melodies The Art of Crossfading</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-srt-in-windows-macos-environments/"><u>[Updated] Navigating SRT in Windows, macOS Environments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlimited-screen-snapshots-free-macos/"><u>2024 Approved Unlimited Screen Snapshots, Free MacOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c65-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C65 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211386287-keyboard-conundrum-solved-reactivate-corsair-led-lighting-today/"><u>Keyboard Conundrum Solved - Reactivate Corsair LED Lighting Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-auto-enhancement-brings-bluetooth-headphone-compatibility-whats-inside-the-quality-of-life-upgrade-techdigest/"><u>Latest Android Auto Enhancement Brings Bluetooth Headphone Compatibility - What's Inside the Quality of Life Upgrade? | TechDigest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-journey-budget-with-steeply-discounted-lodging-vehicle-rentals-and-fun-filled-park-passes-via-our-elite-nomadic-bargainers-association-promo-z224/"><u>Maximize Your Journey Budget with Steeply Discounted Lodging, Vehicle Rentals, and Fun-Filled Park Passes via Our Elite Nomadic Bargainers' Association Promo - ZDNET's Gateway to Thrifty Wanderlust!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nasas-next-endeavor-shattering-speed-boundaries-in-upcoming-space-exploration-insights-from-zdnet/"><u>NASA's Next Endeavor: Shattering Speed Boundaries in Upcoming Space Exploration - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-iphone-how-safe-are-in-car-chargers-expert-reviews-and-findings-from-zdnets-comprehensive-tests/"><u>Protect Your iPhone: How Safe Are In-Car Chargers? Expert Reviews & Findings From ZDNet's Comprehensive Tests</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-start-guide-to-recording-remote-meetings-with-ease-windows-mac/"><u>Quick-Start Guide to Recording Remote Meetings with Ease (Windows, Mac)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-approach-how-southwest-airlines-seeks-improved-service-experience-according-to-zdnet/"><u>Revolutionary Approach: How Southwest Airlines Seeks Improved Service Experience, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-vehicle-safety-tesla-upgrades-car-sensor-technology-discover-what-it-means-for-consumers-techzine/"><u>Revolutionizing Vehicle Safety: Tesla Upgrades Car Sensor Technology - Discover What It Means for Consumers | TechZine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-money-save-the-planet-with-google-maps-new-eco-routing-more-routes-offer-fuel-savings-and-environmental-benefits-zdnet-insights/"><u>Save Money, Save the Planet with Google Maps' New 'Eco-Routing': More Routes Offer Fuel Savings & Environmental Benefits | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-enhances-inflight-experience-with-complimentary-limitless-internet-access-for-all-passengers/"><u>Singapore Airlines Enhances Inflight Experience with Complimentary Limitless Internet Access for All Passengers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/transform-your-gaming-consoles-vocals-today-for-2024/"><u>Transform Your Gaming Consoles' Vocals Today for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-extracting-device-ids-in-windows/"><u>Unleashing the Power: Extracting Device IDs in Windows</u></a></li>
 </ul></div>
 

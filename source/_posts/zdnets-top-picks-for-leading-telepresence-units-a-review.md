@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Top Picks for Leading Telepresence Units - A Review
-date: 2024-09-18 16:46:25
-updated: 2024-09-20 12:29:52
+date: 2024-11-11T21:47:09.430Z
+updated: 2024-11-17T19:18:50.413Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-26-low-cost-strategies-capture-webinars-without-spending-money-for-2024/"><u>[New] 26 Low-Cost Strategies Capture Webinars Without Spending Money for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>[New] Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebooks-or-laptops-making-the-right-choice-based-on-your-requirements-zdnet/"><u>Chromebooks or Laptops – Making the Right Choice Based on Your Requirements | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-unveils-new-portable-gaming-laptop-ideal-for-both-play-and-productivity-at-the-office/"><u>Dell Unveils New Portable Gaming Laptop - Ideal for Both Play and Productivity at the Office</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-save-40-on-hp-envy-x360-laptop-only-499-at-zdnet/"><u>Exclusive Black Friday Offer: Save 40% on HP Envy X360 Laptop! Only $499 at ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imageintensifyx7-transform-scenes-with-simplicity/"><u>In 2024, ImageIntensifyX7 Transform Scenes with Simplicity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-secret-restoring-appearance-of-missing-wi-fi-network-names/"><u>Revealing the Secret: Restoring Appearance of Missing Wi-Fi Network Names</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-m3-macbook-air-introducing-apples-revolutionary-ai-powered-laptop-for-everyone/"><u>Review of M3 MacBook Air - Introducing Apple's Revolutionary AI-Powered Laptop for Everyone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-galaxy-s23-and-tab-s3-pro-a-glimpse-into-the-future-of-tech-innovation/"><u>Samsung Unveils Galaxy S23 and Tab S3 Pro: A Glimpse Into the Future of Tech Innovation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmasking-the-potential-of-recordcast-for-2024/"><u>Unmasking the Potential of RecordCast for 2024</u></a></li>
+</ul></div>
+

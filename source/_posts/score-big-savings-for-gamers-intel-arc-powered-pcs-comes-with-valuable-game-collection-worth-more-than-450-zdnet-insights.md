@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings for Gamers! Intel Arc-Powered PCs Comes With Valuable Game Collection Worth More Than $450 | ZDNet Insights
-date: 2024-11-06T16:06:46.706Z
-updated: 2024-11-07T16:18:13.687Z
+date: 2024-11-12T21:32:02.972Z
+updated: 2024-11-17T19:36:33.296Z
 tags:
   - laptops
 categories:
@@ -75,10 +75,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -90,10 +90,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,15 +130,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cut-the-chatter-capture-game-moments-easily/"><u>[New] Cut the Chatter Capture Game Moments Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-film-assembly-station-for-2024/"><u>[New] Film Assembly Station for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-latest-iteration-a-closer-look-at-sonys-s6500-bdp/"><u>[Updated] Latest Iteration A Closer Look at Sony's S6500 BDP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>[Updated] Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-smartwatch-insights-a-detailed-look-at-the-compact-power-of-the-fitbit-versa/"><u>Affordable Smartwatch Insights: A Detailed Look at the Compact Power of the Fitbit Versa</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-save-350-on-the-hp-victus-15-labor-day-sale-at-best-buy-tech-news-by-zdnet/"><u>Exclusive Deal Alert: Save $350 on the HP Victus 15 - Labor Day Sale at Best Buy | Tech News by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-fine-tune-sound-controls-for-optimal-performance-in-windows-os/"><u>Expert Tips: Fine-Tune Sound Controls for Optimal Performance in Windows OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-authoritative-sourcebook-no-cost-limitless-pictures/"><u>In 2024, Authoritative Sourcebook No Cost, Limitless Pictures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/social-experience/"><u>Social Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-productivity-shop-the-high-performance-windows-11-pro-mini-for-a-steal-at-160-in-amazons-seasonal-sale-event-read-more-on-zdnet/"><u>Unleash Productivity: Shop the High-Performance Windows 11 Pro Mini for a Steal at $160 in Amazon's Seasonal Sale Event - Read More on ZDNET!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ringtone-recorder-the-2024iphone-solution/"><u>[New] Ringtone Recorder - The 2024iPhone Solution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-control-over-your-youtube-viewing-rhythm/"><u>[Updated] Master Control Over Your YouTube Viewing Rhythm</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-recycle-and-relish-continuous-playback-of-youtube-on-tv/"><u>[Updated] Recycle and Relish Continuous Playback of YouTube on TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tracks-for-a-professional-unboxing-presentation/"><u>[Updated] Top Tracks for a Professional Unboxing Presentation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-quest-for-thrills-a-chronicle-of-action-adventures-best-ten/"><u>2024 Approved Quest for Thrills A Chronicle of Action-Adventures' Best Ten</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-social-scrutiny-who-felt-the-glance-on-your-insta-image/"><u>2024 Approved Social Scrutiny Who Felt the Glance on Your Insta Image?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explosive-savings-alert-samsung-t5-ssd-4tb-capacity-goes-half-price-at-amazon-insider-report-by-zdnet/"><u>Explosive Savings Alert: Samsung T5 SSD, 4TB Capacity Goes Half-Price at Amazon - Insider Report by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-for-gamers-get-a-whopping-920-off-the-razer-blade-14-during-cyber-mondays-epic-2022-sale/"><u>Huge Savings Alert for Gamers: Get a Whopping $920 Off the Razer Blade 14 During Cyber Monday's Epic 2022 Sale</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-note-30-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Note 30 Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Pro Without a Home Button</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-new-mac-studio-alternative-for-windows-enthusiasts-could-it-surpass-apple/"><u>Introducing Lenovo's New Mac Studio Alternative for Windows Enthusiasts: Could It Surpass Apple?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-at-an-unbeatable-price-just-280-on-amazon-learn-more/"><u>MacBook Air at an Unbeatable Price: Just $280 on Amazon! [Learn More]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-anticheat-connection-failure-in-escape-from-tarkov/"><u>Troubleshooting: Overcoming 'Anticheat Connection Failure' In Escape From Tarkov</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-amazon-prime-day-bargains-of-october-2024-top-discounts-you-cant-missbuyers-guide/"><u>Unbeatable Amazon Prime Day Bargains of October 2024 – Top Discounts You Can't Miss![Buyer’s Guide]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-sound-quality-awaits-discover-the-highest-ranking-200-off-speaker-system-at-best-buy-exclusive-insights/"><u>Unbeatable Sound Quality Awaits: Discover the Highest-Ranking $200 Off Speaker System at Best Buy Exclusive Insights</u></a></li>
 </ul></div>
 

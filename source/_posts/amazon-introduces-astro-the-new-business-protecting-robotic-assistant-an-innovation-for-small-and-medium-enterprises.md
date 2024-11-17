@@ -1,7 +1,7 @@
 ---
 title: "Amazon Introduces 'Astro' - The New Business-Protecting Robotic Assistant: An Innovation for Small and Medium Enterprises"
-date: 2024-09-17 15:31:16
-updated: 2024-09-20 11:47:36
+date: 2024-11-11T17:30:56.741Z
+updated: 2024-11-17T16:07:27.012Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-transforming-footage-your-guide-to-ken-burns-in-camtasa-9/"><u>[New] 2024 Approved Transforming Footage Your Guide to Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-uber-introduces-innovative-carbon-footprint-monitor-track-your-co2-savings-on-every-ride-the-latest-update-from-tech-world/"><u>1. Uber Introduces Innovative Carbon Footprint Monitor: Track Your CO2 Savings on Every Ride - The Latest Update From Tech World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unveiling-green-technology-challenges-strategies-for-securing-additional-support/"><u>1. Unveiling Green Technology Challenges: Strategies for Securing Additional Support</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2-expert-picks-for-ultimate-iphone-1n-pro-and-max-defenders-gizmodo/"><u>2: Expert Picks for Ultimate iPhone 1N-Pro and Max Defenders | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-guide-to-choosing-an-electric-leaf-blower-insights-from-zdnet/"><u>2022'S Ultimate Guide to Choosing an Electric Leaf Blower - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-green-revolution-unveiled-how-the-new-samsung-galaxy-s23-leads-as-the-eco-conscious-choice-for-smartphone-users-insights-from-zdnet/"><u>A Green Revolution Unveiled: How the New Samsung Galaxy S23 Leads as the Eco-Conscious Choice for Smartphone Users - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-powered-samsung-smartthings-revolutionizing-home-energy-efficiency-insights-from-zdnet/"><u>AI-Powered Samsung SmartThings: Revolutionizing Home Energy Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/all-about-the-garmin-forerunner/"><u>All About the Garmin Forerunner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-dandd-excellence-with-chatgpt-gameplay-advice/"><u>Elevating D&D Excellence with ChatGPT Gameplay Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-asus-rog-zephyrus-g16-bargain-save-big-with-advanced-intel-processor-stunning-nvidia-graphics-and-240hz-oled-visuals-get-it-for-250-less/"><u>Exclusive ASUS ROG Zephyrus G16 Bargain: Save Big with Advanced Intel Processor, Stunning NVIDIA Graphics and 240Hz OLED Visuals – Get It for $250 Less</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-iphone-15-pro-max-for-only-one-cent-on-amazon-the-surprising-deal-inside-zdnet/"><u>Get Your iPhone 15 Pro Max for Only One Cent on Amazon – The Surprising Deal Inside | ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-dark-display-problem-in-halo-infinite/"><u>Resolved: Fixing the Dark Display Problem in Halo Infinite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/shop-macx-products-directly-from-the-convenient-macx-e-commerce-platform/"><u>Shop MacX Products Directly From the Convenient MacX E-Commerce Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-your-right-to-fix-devices-importance-and-impacts-explained/"><u>Understanding Your Right to Fix Devices: Importance & Impacts Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-unparalleled-productivity-in-depth-examination-of-the-zendure-superbase-pro-n-2000-on-zdnet/"><u>Unleash Unparalleled Productivity - In-Depth Examination of the Zendure SuperBase Pro N 2000 on ZDNet!</u></a></li>
+</ul></div>
+

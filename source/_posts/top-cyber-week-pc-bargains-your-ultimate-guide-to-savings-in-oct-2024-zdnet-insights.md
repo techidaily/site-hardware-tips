@@ -1,7 +1,7 @@
 ---
 title: "Top Cyber Week PC Bargains: Your Ultimate Guide to Savings in Oct. 2024 - ZDNet Insights"
-date: 2024-11-02T16:09:35.719Z
-updated: 2024-11-07T16:27:30.238Z
+date: 2024-11-11T18:54:25.322Z
+updated: 2024-11-17T17:22:49.795Z
 tags:
   - laptops
 categories:
@@ -95,14 +95,14 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3ed5d9af-bf79-44bf-8e75-aaef514365dc%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Amazon laptop deals
 
@@ -117,6 +117,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3ed5d9af-bf79-44bf-8e75-aaef514365dc%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3ed5d9af-bf79-44bf-8e75-aaef514365dc%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -140,6 +147,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -151,13 +165,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -184,29 +191,22 @@ The right specs depend on your needs and how you intend to use your new laptop -
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much should I pay for a good laptop?
 
 When you're considering your budget for a new laptop, you have to consider what you want to use the device for. 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -265,22 +265,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-a-step-by-step-approach-to-professional-chromatic-control-for-2024/"><u>[New] A Step by Step Approach to Professional Chromatic Control for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-sound-architects-guide-to-memo-mastery/"><u>[New] The Sound Architect's Guide to Memo Mastery</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unusual-video-orientation-what-causes-sideway-images-on-instagram/"><u>[New] Unusual Video Orientation What Causes Sideway Images on Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>[Updated] 2024 Approved Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-playlist-embedding-on-sites-using-youtube/"><u>[Updated] Playlist Embedding on Sites Using YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-the-secrets-to-creating-an-enterprise-instagram-profile/"><u>2024 Approved Unveiling the Secrets to Creating an Enterprise Instagram Profile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/accelerating-performance-incorporating-high-speed-m2-upgrades-into-your-raspberry-pi-4-for-enhanced-functionality/"><u>Accelerating Performance: Incorporating High-Speed M.2 Upgrades Into Your Raspberry Pi 4 for Enhanced Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-discover-how-this-compact-computer-outperforms-expectations-insights-from-zdnet/"><u>Affordable Powerhouse: Discover How This Compact Computer Outperforms Expectations - Insights From ZDNet</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/behebung-der-fehlermeldung-0x80073712-wie-man-fehlende-windows-update-dateien-wiederherstellt/"><u>Behebung Der Fehlermeldung '0X80073712': Wie Man Fehlende Windows-Update-Dateien Wiederherstellt</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comparing-apples-new-titans-m2-powered-mac-studio-versus-mac-mini-with-m1-which-leads-the-tech-race/"><u>Comparing Apple's New Titans: M2-Powered Mac Studio Versus Mac Mini with M1 - Which Leads the Tech Race?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-list-of-holiday-bargains-score-big-on-dell-deals-from-leading-retailers-compiled-by-experts-at-zdnet/"><u>Exclusive List of Holiday Bargains - Score Big on Dell Deals From Leading Retailers Compiled by Experts at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-permanently-delete-sensitive-information-from-your-windows-pc-at-no-cost-securetech-solutions/"><u>How to Permanently Delete Sensitive Information From Your Windows PC at No Cost | SecureTech Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-grab-the-samsung-odyssey-g7-monitor-at-half-price-during-amazons-seasonal-deals-extravaganza/"><u>Huge Savings Alert! Grab the Samsung Odyssey G7 Monitor at Half Price During Amazon's Seasonal Deals Extravaganza</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-meizu-21-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Meizu 21 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speed-settings-unveiled-customizing-your-snapchat-experience/"><u>In 2024, Speed Settings Unveiled Customizing Your Snapchat Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tpm-security-basics-what-you-need-to-know-for-upgrading-to-windows-groovy-and-why-it-matters-according-to-zdnet/"><u>TPM Security Basics: What You Need to Know for Upgrading to Windows Groovy, and Why It Matters According to ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-security-understanding-the-importance-of-a-tpm-in-your-computer-system-explained-by-zdnet/"><u>Unlocking Security: Understanding the Importance of a TPM in Your Computer System - Explained by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-strategy-with-these-20-marketing-terms/"><u>[New] Transform Your Strategy with These 20 Marketing Terms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-exceptional-instagram-stories/"><u>[Updated] 2024 Approved Step-by-Step Guide to Exceptional Instagram Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-20-free-public-license-pubg-gallery-mixes-for-2024/"><u>Best 20 Free Public License PUBG Gallery Mixes for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows/"><u>Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-unconventional-how-a-more-weird-pc-revitalizes-technology-innovation/"><u>Embracing the Unconventional: How a More 'Weird' PC Revitalizes Technology Innovation</u></a></li>
+<li><a href="https://facebook.techidaily.com/identity-impersonation-unraveling-fb-scam-mechanics/"><u>Identity Impersonation: Unraveling FB Scam Mechanics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-6s-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6s Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-prime-day-2024-exclusive-offers-at-best-buy-shop-now-on-zdnet/"><u>October Prime Day 2024 Exclusive Offers at Best Buy – Shop Now on ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-smart-shoppers-manual-to-picking-an-ideal-phone-protector/"><u>The Smart Shopper's Manual to Picking an Ideal Phone Protector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ideal-13-inch-portable-work-computer-alternative-to-dell-xps-and-macbook-expert-review/"><u>Top Pick: The Ideal 13-Inch Portable Work Computer Alternative to Dell XPS and MacBook - Expert Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbiased-verdict-discover-the-premier-work-travel-tablet-thats-not-from-microsoft-or-lenovo-zdnet-insights/"><u>Unbiased Verdict: Discover the Premier Work Travel Tablet That's Not From Microsoft or Lenovo | ZDNET Insights</u></a></li>
 </ul></div>
 

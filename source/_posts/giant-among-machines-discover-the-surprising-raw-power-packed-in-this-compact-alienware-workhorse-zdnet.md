@@ -1,7 +1,7 @@
 ---
 title: "Giant Among Machines: Discover the Surprising Raw Power Packed in This Compact Alienware Workhorse | ZDNET"
-date: 2024-10-31T16:24:28.692Z
-updated: 2024-11-07T16:01:49.223Z
+date: 2024-11-13T19:48:44.976Z
+updated: 2024-11-17T20:12:12.961Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,21 +115,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-channel-success-story-turning-budget-into-brands/"><u>[Updated] 2024 Approved Channel Success Story Turning Budget Into Brands</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-premier-imagery-capture-insight/"><u>[Updated] Premier Imagery Capture Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/6-shop-now-on-zdnet/"><u>6 | Shop Now on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-your-apple-watch-series-n-be-green-unveiling-the-impact-of-band-selection-on-sustainability/"><u>Can Your Apple Watch Series N Be Green? Unveiling the Impact of Band Selection on Sustainability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-to-resolve-gta-vs-endless-freezing-and-crashing-problems/"><u>Comprehensive Fixes to Resolve GTA V's Endless Freezing & Crashing Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-choosing-your-next-outdoor-companion-the-rugged-and-energetic-garmin-instinct-2-solar-watch-insights-from-zdnet/"><u>Comprehensive Guide to Choosing Your Next Outdoor Companion: The Rugged and Energetic Garmin Instinct 2 Solar Watch | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-googles-pixel-watch-s2-can-improve-your-health-with-its-vital-5-features-techguide/"><u>Discover How Google's Pixel Watch S2 Can Improve Your Health with Its Vital 5 Features | TechGuide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/garmin-instinct-crossover-an-in-depth-review-revealing-its-strengths-and-the-missing-game-changing-feature/"><u>Garmin Instinct Crossover: An In-Depth Review Revealing Its Strengths and the Missing Game-Changing Feature</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-10-v-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Sony Xperia 10 V to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-steps-for-chromakey-magic/"><u>In 2024, Essential Steps for Chromakey Magic</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-lava-storm-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Lava Storm 5G Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-elite-montblanc-wear-os-smartwatch-at-1300-a-game-changer-for-luxury-timepieces-find-out-on-zdnet/"><u>Is the Elite Montblanc Wear OS Smartwatch at $1,300 a Game Changer for Luxury Timepieces? Find Out on ZDNet!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackle-iphone-contact-issues-essential-fixes-for-missing-people/"><u>Tackle iPhone Contact Issues: Essential Fixes for Missing People</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-top-garmin-watch-models-of-202n-expert-insights-and-ratings/"><u>ZDNet's Ultimate Guide to the Top Garmin Watch Models of 202N - Expert Insights & Ratings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-driving-engagement-and-sales-a-step-by-step-guide-to-influencer-marketing-for-2024/"><u>[New] Driving Engagement and Sales A Step-by-Step Guide to Influencer Marketing for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unleash-your-photo-potential-with-instagram-filters-for-2024/"><u>[New] Unleash Your Photo Potential with Instagram Filters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>2024 Approved Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-prime-day-tech-savings-extravaganza-dont-miss-the-2024-deals/"><u>Amazon Prime Day Tech Savings Extravaganza: Don't Miss the 2024 Deals!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-2024s-5-premier-free-offline-race-simulators/"><u>Discover the Ultimate Selection: 2024'S 5 Premier Free Offline Race Simulators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/faa-reveals-root-cause-behind-recent-disruption-leading-to-us-air-traffic-halt-insights-by-zdnet/"><u>FAA Reveals Root Cause Behind Recent Disruption Leading to US Air Traffic Halt - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fords-semi-automated-vehicle-system-probed-after-fatal-incidents-essential-information-zdnet-news/"><u>Ford's Semi-Automated Vehicle System Probed After Fatal Incidents – Essential Information | ZDNET News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-car-sector-boosts-green-tech-and-digital-shift-with-ev-push-insights-by-zdnet/"><u>How the Car Sector Boosts Green Tech & Digital Shift with EV Push – Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-fly-for-just-25ticket-with-an-amazon-prime-benefit-card-zdnet-exclusive-deal/"><u>How to Fly for Just $25/Ticket With an Amazon Prime Benefit Card – ZDNET Exclusive Deal</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a1x-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A1x 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-microsd-cards-a-buyers-guide/"><u>Top-Rated MicroSD Cards : A Buyer's Guide</u></a></li>
 </ul></div>
 

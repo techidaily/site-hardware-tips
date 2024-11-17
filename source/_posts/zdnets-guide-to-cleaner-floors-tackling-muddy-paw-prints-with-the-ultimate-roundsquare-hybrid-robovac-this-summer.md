@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Guide to Cleaner Floors: Tackling Muddy Paw Prints with the Ultimate Round/Square Hybrid RoboVac This Summer"
-date: 2024-09-18 19:14:57
-updated: 2024-09-20 10:43:14
+date: 2024-11-14T21:31:20.459Z
+updated: 2024-11-17T18:43:37.839Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>[New] In 2024, Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-teachers-guide-to-enhancing-learning-through-youtube-videos/"><u>[Updated] In 2024, A Teacher's Guide to Enhancing Learning Through YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-friends-lost-tracking-your-unfollowers-for-2024/"><u>[Updated] Insta Friends Lost Tracking Your Unfollowers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigating-the-dji-phantom-3-pros-innovations/"><u>[Updated] Navigating the DJI Phantom 3 Pro's Innovations</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-steps-for-hyperlapse-photography-magic/"><u>2024 Approved Steps for Hyperlapse Photography Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-the-garmin-forerunner-955-solar-edition-top-runners-gadget-revealed-on-zdnet/"><u>Comprehensive Test of the Garmin Forerunner 지원런서 955 Solar Edition: Top Runner's Gadget Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/customize-your-apple-watchs-look-easy-face-swap-techniques-featured-on-zdnet/"><u>Customize Your Apple Watch's Look: Easy Face Swap Techniques Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-powerful-feature-mastering-the-apple-watch-ultras-action-button-in-depth-tutorial-by-zdnet/"><u>Discover the Most Powerful Feature: Mastering the Apple Watch Ultra's Action Button - In-Depth Tutorial by ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/introducing-youtubes-new-smart-assistant-an-ai-radio-experience-similar-to-spotify/"><u>Introducing YouTube's New Smart Assistant: An AI Radio Experience Similar to Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-showdown-between-iphone-15-pro-max-and-samsung-s24-ultra-who-wins/"><u>The Showdown Between iPhone 15 Pro Max And Samsung S24 Ultra – Who Wins?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wear-os-update-brings-offline-map-feature-is-your-smartwatch-upgraded-techspot/"><u>Wear OS Update Brings Offline Map Feature – Is Your Smartwatch Upgraded? | TechSpot</u></a></li>
+</ul></div>
+

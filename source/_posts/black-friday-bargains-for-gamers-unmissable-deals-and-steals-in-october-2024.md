@@ -1,7 +1,7 @@
 ---
 title: "Black Friday Bargains for Gamers: Unmissable Deals & Steals in October 2024"
-date: 2024-11-03T16:20:26.418Z
-updated: 2024-11-07T16:25:41.975Z
+date: 2024-11-15T21:30:38.888Z
+updated: 2024-11-17T22:06:59.186Z
 tags:
   - laptops
 categories:
@@ -104,6 +104,13 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -122,6 +129,13 @@ ZDNET
 * [AMD Ryzen 7 5800X for $121 (save $328)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5800X-16-Thread-Processor%2Fdp%2FB0815XFSGK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): This gaming PC processor has 8 cores, 16 threads, and a maximum clock speed of 4.7GHz.
 * [AMD Ryzen 9 5900X for $220 (save $350)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 * [Arcade1Up Mortal Kombat head-to-head cabinet for $300 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-Arcade1Up-Mortal-Kombat-Head-Head%2Fdp%2FB09B1DB76H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A seated, head-to-head competition format cabinet for the popular Mortal Kombat arcade games.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -151,16 +165,10 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -192,13 +200,6 @@ Kyle Kucharski/ZDNET
 * [Corsair Vengeance i7500 for $1,360 (save $340)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Vengeance-i7500-Gaming-PC%2Fdp%2FB0CY37V72Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A mid-range gaming and content creation PC with a GeForce RTX 4060 graphics card, Intel Core i5-14600KF CPU, 32GB of RAM, and a 1TB SSD.
 * [Alienware Aurora R16 for $1,870 (save $230)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R16-Gaming-Desktop%2Fdp%2FB0CKLYZHTF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A high-end gaming PC with a GeForce RTX 4070 graphics card, 32GB of RAM, a 1TB SSD, and 13th generation Intel Core i9 CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -209,6 +210,13 @@ Lenovo
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 R2 for $2,300 (save $500 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-M18-Gaming-Laptop-i9-14900HX%2Fdp%2FB0CWHGBWL6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A high-end gaming laptop with an 18-inch display, 165Hz refresh rate, Nvidia RTX 4080 graphics card, and Intel Core i9-14900HX CPU.
 * [Dell G16 7630 for $1,300 (save $300 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G16-7630-Gaming-Laptop%2Fdp%2FB0D1KRP6SF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A mid-range gaming laptop with a 16-inch display, 240Hz refresh rate, RTX 4070 GPU, and Intel Core i9-13900HX GPU.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
 
@@ -228,13 +236,6 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $90 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $90 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C847ba31b-f9b0-45d4-a6c8-20e8b29f846e%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-08-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -246,22 +247,15 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -337,17 +331,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-snippets-overview-explained/"><u>[New] YouTube Snippets Overview Explained</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boost-professional-look-adding-borders-to-instagram-content/"><u>[Updated] 2024 Approved Boost Professional Look Adding Borders to Instagram Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>2024 Approved Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-4k-video-editing-solutions-for-2024/"><u>Expert-Approved 4K Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-itel-p55-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Itel P55 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-150-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia 150 (2023) to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/memorial-day-bonanza-shop-for-top-tier-gaming-systems-up-to-250-cheaper-featured-by-zdnet/"><u>Memorial Day Bonanza: Shop for Top-Tier Gaming Systems Up to $250 Cheaper, Featured by ZDNet!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-surfaces-key-to-triumph-lies-in-its-flexibility-discover-how-with-zdnet/"><u>Microsoft Surface's Key to Triumph Lies in Its Flexibility - Discover How with ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/safeguarding-windows-devices-comprehensive-guide-to-securing-personal-and-small-office-computers-insights-from-zdnet/"><u>Safeguarding Windows Devices: Comprehensive Guide to Securing Personal & Small Office Computers - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scorching-deals-snag-samsung-odyssey-g7-at-a-whopping-50-discount-on-amazons-spring-fling-insights-from-zdnet/"><u>Scorching Deals: Snag Samsung Odyssey G7 at a Whopping 50% Discount on Amazon's Spring Fling - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-to-prolonging-gopros-energy-capacity/"><u>Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-easy-techniques-to-download-gif-images-from-social-media/"><u>[Updated] In 2024, Easy Techniques to Download GIF Images From Social Media</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-apowersofts-capabilities-tested-against-market-contenders/"><u>2024 Approved Apowersoft's Capabilities Tested Against Market Contenders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-stealthy-power-boost-to-last-years-macbook-air-what-you-need-to-know-gadget-breakdown/"><u>Apple's Stealthy Power Boost to Last Year's MacBook Air - What You Need to Know | Gadget Breakdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-bird-special-get-your-discounted-samsung-t5-ssd-before-the-prime-rush-deals-unveiled-by-zdnet/"><u>Early Bird Special: Get Your Discounted Samsung T5 SSD Before the Prime Rush - Deals Unveiled by ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-camon-20-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Camon 20 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-roadmap-how-to-make-your-covers-shine/"><u>In 2024, The Roadmap How To Make Your Covers Shine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-11-driver-for-amd-radeon-hd-6950-gpu/"><u>Latest Windows 11 Driver for AMD Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reconnect-to-wi-fi-a-detailed-fix-for-your-surface-pro-woes/"><u>Reconnect to Wi-Fi: A Detailed Fix for Your Surface Pro Woes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-the-ultimate-bargains-for-computers-during-prime-day-sale-in-oct-24-tips-and-tricks-zdnet/"><u>Secure the Ultimate Bargains for Computers During Prime Day Sale in Oct '24 - Tips & Tricks | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/twin-monitor-deal-alert-cut-costs-with-teamgees-laptop-accessories-at-just-120-less-per-unit-spotted/"><u>Twin-Monitor Deal Alert: Cut Costs with TeamGee's Laptop Accessories at Just $120 Less per Unit – Spotted</u></a></li>
 </ul></div>
 

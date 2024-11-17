@@ -1,7 +1,7 @@
 ---
 title: "Unveiling of Microsoft's Latest Innovations at the September Surface Launch: A Comprehensive Overview | TechTimes"
-date: 2024-11-03T16:24:00.372Z
-updated: 2024-11-07T16:22:27.147Z
+date: 2024-11-11T21:55:51.021Z
+updated: 2024-11-17T16:31:39.410Z
 tags:
   - laptops
 categories:
@@ -51,10 +51,10 @@ On September 26, Copilot will begin rollout as part of a new Windows 11 release,
 This is Microsoft's answer to [Google's Duet AI](https://www.zdnet.com/article/google-workspaces-ai-facelift-is-finally-here-meet-duet-ai-for-workspace/), which is another generative AI assistant that works across the Google Workspace.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows 11 AI integration
@@ -74,10 +74,10 @@ You can also use the pen within the Snipping Tool to copy and paste the equation
 Copilot on Windows can also obtain information from your connected smartphone so that you can ask Copilot any questions about what's on-device, like text message summaries. An example that was demoed included the presenter asking Copilot about an upcoming flight. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bing Chat updates
@@ -113,10 +113,10 @@ The Microsoft Shopping Experience will be a standalone site that can be accessed
 There is also a suite of new tools coming to Bing Chat Enterprise including the incorporation with mobile. Bing Chat Enterprise also supports images within the enterprise with multimodal search powered by [GPT-4](https://www.zdnet.com/article/what-is-gpt-4-heres-everything-you-need-to-know/) and Bing Image Generator. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft 365 Copilot and Microsoft 365 Chat
@@ -143,6 +143,13 @@ Microsoft 365 Copilot is currently in preview with a select number of users and 
 
 ## What's new with hardware?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Surface Laptop Go 3
 
 June Wan/ZDNET
@@ -156,13 +163,6 @@ Other new additions include iCloud Photos Integration and Clipchamp on Windows 1
 As far as hardware and design go, the Surface Laptop Go 3 looks just about, if not the same, as the previous version, meaning you're still getting a sleek, portable form factor that's ultralight (just under 2.5 pounds) with a 12.4-inch PixelSense touchscreen at the helm.
 
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
 
@@ -232,15 +232,20 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-essential-steps-in-making-impactful-fb-cover-videos/"><u>[New] Essential Steps in Making Impactful FB Cover Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pathway-for-pixels-transferring-data-to-computers/"><u>[New] Pathway for Pixels Transferring Data to Computers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-a-compre-written-by-dr-john-smith-phd-in-environmental-science/"><u>[Updated] A Compre Written By Dr. John Smith, PhD in Environmental Science</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-display-quality-of-innocn-27c1u-a-detailed-4k-monitor-evaluation-on-zdnet/"><u>Amazing Display Quality of Innocn 27C1U - A Detailed 4K Monitor Evaluation on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciding-between-apples-powerhouses-comparing-mac-studio-mac-pro-and-mac-mini-for-optimal-performance-zdnet/"><u>Deciding Between Apple's Powerhouses: Comparing Mac Studio, Mac Pro & Mac Mini for Optimal Performance (ZDNET)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-patch-your-pc-with-windows-10-version-2004-and-new-conexant-support/"><u>How To Successfully Patch Your PC with Windows 10 Version 2004 and New Conexant Support</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-motorola-moto-g34-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G34 5G Through Google Earth?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-the-key-to-printing-bliss-inside-hps-latest-subscription-offer-what-you-need-to-know-before-switching/"><u>Is the Key to Printing Bliss Inside HP's Latest Subscription Offer: What You Need to Know Before Switching</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-apple-self-repair-feature-introducing-remote-diagnostics-for-iphone-15-and-m2-mac-pro-exclusive-insights-from-zdnet/"><u>New Apple Self-Repair Feature: Introducing Remote Diagnostics for iPhone 15 & M2 Mac Pro – Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-heres-how-to-fix-microphone-problems-and-get-it-picking-up-again/"><u>No Sound? Here's How to Fix Microphone Problems and Get It Picking Up Again</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[New] 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-bring-back-faded-watch-icon-artwork-for-2024/"><u>[New] Bring Back Faded Watch Icon Artwork for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-streamer-gear-essential-livestream-tools-unveiled/"><u>[Updated] Prime Streamer Gear Essential Livestream Tools Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-photos-repository-hubs-for-2024/"><u>[Updated] Superior Photos Repository Hubs for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ppt/"><u>重建原始文件：如何使用 PPT 恢復已存檔的演示文稿</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-october-prime-day-specials-at-best-buy-last-chance-savings/"><u>Exclusive October Prime Day Specials at Best Buy - Last Chance Savings !</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-techniques-for-stunning-scenery-shots/"><u>In 2024, Expert iPhone Techniques for Stunning Scenery Shots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-methods-for-no-cost-c-span-video-downloads/"><u>In 2024, Seamless Methods for No-Cost C-Span Video Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-discourages-third-party-phone-repairs/"><u>Samsung Discourages Third-Party Phone Repairs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/secrets-to-recording-high-quality-overwatch-matches-for-2024/"><u>Secrets to Recording High-Quality Overwatch Matches for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-impact-of-using-a-split-ergonomic-keyboard-for-one-week-on-my-entire-setup-zdnet/"><u>The Impact of Using a Split Ergonomic Keyboard for One Week on My Entire Setup | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-gaming-solid-state-drives-optimal-performance-for-your-pc-xbox-and-playstation-5/"><u>Top 6 Gaming Solid State Drives: Optimal Performance for Your PC, Xbox & PlayStation 5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-best-alternative-laptops-for-business-trips-beyond-the-dell-xps-and-macbook-insider-advice-from-zdnet/"><u>Top Picks: The Best Alternative Laptops for Business Trips, Beyond the Dell XPS and MacBook - Insider Advice From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-discover-the-top-rated-hp-dragonfly-pro-chromebook-on-the-market-expert-reviews-and-comparison/"><u>Ultimate Guide: Discover the Top-Rated HP Dragonfly Pro Chromebook on the Market - Expert Reviews & Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-your-input-matters-effective-strategies-for-contributing-to-chromeos-enhancements/"><u>Why Your Input Matters: Effective Strategies for Contributing to ChromeOS Enhancements</u></a></li>
 </ul></div>
 

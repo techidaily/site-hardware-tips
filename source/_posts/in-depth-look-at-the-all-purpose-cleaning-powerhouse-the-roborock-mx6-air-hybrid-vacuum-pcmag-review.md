@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at the All-Purpose Cleaning Powerhouse: The Roborock MX6 Air Hybrid Vacuum | PCMag Review"
-date: 2024-09-19 15:55:36
-updated: 2024-09-20 10:23:55
+date: 2024-11-11T21:37:48.020Z
+updated: 2024-11-17T16:00:01.396Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[Updated] 2024 Approved Behind the Scenes How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-proven-pathway-to-pure-sound/"><u>[Updated] Proven Pathway to Pure Sound</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-analysis-of-paralympics-and-olympics-data-can-drive-energy-efficiency-at-the-upcoming-games-a-zdnet-perspective/"><u>How Analysis of Paralympics & Olympics Data Can Drive Energy Efficiency at the Upcoming Games: A ZDNet Perspective</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-pro-tips-effortlessly-assemble-photo-collagues/"><u>In 2024, IPhone Pro Tips Effortlessly Assemble Photo Collagues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-master-11-key-seo-steps-to-promote-your-videos/"><u>In 2024, Master 11 Key SEO Steps to Promote Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-stop-motion-films-the-ultimate-15-list/"><u>In 2024, Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovating-green-pioneering-tech-strategies-for-a-sustainable-future-zdnet/"><u>Innovating Green: Pioneering Tech Strategies for a Sustainable Future | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-green-giant-of-telecom-how-the-galaxy-s23-takes-sustainability-to-new-heights-zdnet-insider/"><u>Introducing the Green Giant of Telecom: How the Galaxy S23 Takes Sustainability to New Heights | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-e-bike-innovation-potent-enough-to-dethrone-traditional-cars-uncovering-a-startling-truth-zdnet/"><u>Is the E-Bike Innovation Potent Enough to Dethrone Traditional Cars? Uncovering a Startling Truth | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-portable-photovoltaic-charge-stations-the-ultimate-guide-techradar-comparison/"><u>Leading Portable Photovoltaic Charge Stations: The Ultimate Guide - TechRadar Comparison</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-3-gaming-hitches-call-of-duty-frame-rate-fluctuations/"><u>Modern Warfare 3 Gaming Hitches - Call of Duty Frame-Rate Fluctuations</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-essence-of-idle-status-in-online-chats/"><u>Uncovering the Essence of Idle Status in Online Chats</u></a></li>
+</ul></div>
+

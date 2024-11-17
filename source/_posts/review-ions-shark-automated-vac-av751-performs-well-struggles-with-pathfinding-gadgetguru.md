@@ -1,7 +1,7 @@
 ---
 title: "Review: ION's Shark Automated Vac AV751 Performs Well, Struggles with Pathfinding | GadgetGuru"
-date: 2024-09-18 16:24:48
-updated: 2024-09-20 12:58:56
+date: 2024-11-12T19:09:32.259Z
+updated: 2024-11-17T17:12:11.029Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-accurate-ranking-of-top-free-subtitle-makers-srt-online/"><u>[New] Accurate Ranking of Top Free Subtitle Makers (Srt) Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-soundwave-success-adding-audio-to-your-instastory/"><u>[New] Soundwave Success Adding Audio to Your InstaStory</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030458746-iso3/"><u>適切なISO圧縮ツールを見つけるためのトップ3無料アプリ</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-winx-mediatrans-draws-effortlessly-transfer-and-organize-your-ios-content-without-itunes/"><u>Free WinX MediaTrans Draws - Effortlessly Transfer & Organize Your iOS Content Without iTunes!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/list-of-8-best-free-and-paid-movie-apps-for-iphone-for-2024/"><u>List of 8 Best Free and Paid Movie Apps for iPhone for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-your-digital-experience-with-an-amazon-fire-tablet-today-score-one-for-only-50-by-trading-in-at-our-spectacular-labor-day-promotion/"><u>Revamp Your Digital Experience with an Amazon Fire Tablet Today | Score One for Only $50 by Trading in at Our Spectacular Labor Day Promotion!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-into-tomorrow-secure-these-7-devices-for-metaverse-life-for-2024/"><u>Step Into Tomorrow Secure These 7 Devices for Metaverse Life for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-top-movie-watching-tablet-unveiled-discover-hidden-gems-beyond-popular-brands-insights-by-zdnet/"><u>Surprising Top Movie-Watching Tablet Unveiled: Discover Hidden Gems Beyond Popular Brands - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-hotel-management-applications-in-2/"><u>Top 5 Premier Hotel Management Applications in 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-android-tablet-options-beyond-tcl-and-samsung-in-depth-review-on-zdnet/"><u>Top Affordable Android Tablet Options Beyond TCL and Samsung - In-Depth Review on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-amazon-tablet-devices-insights-by-zdnet/"><u>Top-Ranked Amazon Tablet Devices - Insights by ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Battle: $4,000 Rugged Laptop Outperforms Dell Latitude in Extreme Stress Tests"
-date: 2024-11-06T16:06:52.000Z
-updated: 2024-11-07T16:07:07.887Z
+date: 2024-11-11T20:12:28.720Z
+updated: 2024-11-17T20:08:09.510Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,16 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,20 +143,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-8-innovative-tablets-changing-the-face-of-photo-editing-landscape-for-2024/"><u>[New] 8 Innovative Tablets Changing the Face of Photo Editing Landscape for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-ways-to-broadcast-and-record-athletic-competitions-live/"><u>[New] In 2024, Premium Ways to Broadcast & Record Athletic Competitions Live</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-use-of-analytics/"><u>[New] Use of Analytics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximizing-iphone-to-mac-file-transfer-for-large-videos/"><u>[Updated] Maximizing iPhone-to-Mac File Transfer for Large Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-11-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 11 Pro Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>In 2024, The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-the-raspberry-pi-400-an-in-depth-look-at-this-mini-computer-housed-within-your-keyboard/"><u>Inside the Raspberry Pi 400: An In-Depth Look at This Mini Computer Housed Within Your Keyboard</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-sale-save-300-on-the-eufy-robovac-12-499-off-available-now/"><u>Massive Sale: Save $300 on the Eufy RoboVac 12 ($499 OFF) - Available Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/memorial-day-special-offer-save-45-on-the-roborock-q7-maxplus-automated-cleaning-system-for-hardwood-and-tile-floors-tech-news/"><u>Memorial Day Special Offer: Save 45% on the Roborock Q7 Max+ Automated Cleaning System for Hardwood and Tile Floors | Tech News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rev-up-your-garden-game-with-our-racecar-style-automated-mower-for-impeccably-trimmed-turf-zdnet/"><u>Rev Up Your Garden Game with Our Racecar-Style Automated Mower for Impeccably Trimmed Turf | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/roomba-robotic-vacuums-ranking-of-2eepy-2024-thoroughly-tested-and-expert-opinions-cnet/"><u>Roomba Robotic Vacuums Ranking of 2Eepy 2024: Thoroughly Tested and Expert Opinions | CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/summer-protection-how-a-square-shaped-robot-vac-prevented-dog-track-marks-on-my-floors-a-zdnet-review/"><u>Summer Protection: How a Square-Shaped Robot Vac Prevented Dog Track Marks on My Floors - A ZDNet Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tipsy-circuits-how-my-robo-sommeliers-wine-blunder-turned-into-an-odd-tip-request-adventure-zdnet/"><u>Tipsy Circuits! How My Robo-Sommelier's Wine Blunder Turned Into an Odd Tip Request Adventure | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-unknown-brands-discover-the-hidden-gem-in-2-in-1-robot-vacuums-that-outperforms-rivals/"><u>Top Unknown Brands: Discover the Hidden Gem in 2-in-1 Robot Vacuums That Outperforms Rivals!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhancing-mac-recordings-for-snapchat-success/"><u>[New] 2024 Approved Enhancing Mac Recordings for Snapchat Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-cutting-edge-8-innovative-open-source-video-meeting-systems/"><u>[New] In 2024, The Cutting Edge 8 Innovative Open Source Video Meeting Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-6-cool-minecraft-house-ideas/"><u>[New] In 2024, Top 6 Cool Minecraft House Ideas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-mac-visuals-plus-acoustics-scribing-tool-for-2024/"><u>[New] Ultimate Mac Visuals + Acoustics Scribing Tool for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubing-101-the-right-devices/"><u>[New] Youtubing 101 The Right Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatibility-guide-for-the-corsair-h115i-rgb-platinum-gpu-with-modern-windows-systems/"><u>Compatibility Guide for the Corsair H115i RGB PLATINUM GPU with Modern Windows Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steady-panning-for-smooth-cinematography/"><u>In 2024, Steady Panning for Smooth Cinematography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-sticker-setup-challenges-resolving-top-6-problems-quickly/"><u>Simplifying Sticker Setup Challenges: Resolving Top 6 Problems Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-electric-bicycles-the-ultimate-ranking-featuring-insights-from-zdnet/"><u>Top 5 Electric Bicycles : The Ultimate Ranking - Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-excellent-vehicle-hire-options-and-mobile-applications-zdnets-review/"><u>Top 5 Excellent Vehicle Hire Options & Mobile Applications - ZDNet's Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-ultimate-luggage-collections-your-complete-guide-zdnet/"><u>Top 5 Ultimate Luggage Collections: Your Complete Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-vehicle-cleaners-expert-reviews-and-comparisons/"><u>Top 6 Premium Vehicle Cleaners : Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-savings-book-your-next-trip-with-sky-high-discounts-from-dollar-flight-club-up-to-94-off-check-it-out-on-zdnet/"><u>Unbelievable Savings: Book Your Next Trip With Sky-High Discounts From Dollar Flight Club - Up To 94% Off! Check It Out On ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-ride-get-apple-carplayandroid-auto-ready-at-half-price-exclusive-deal-on-high-quality-displays/"><u>Upgrade Your Ride: Get Apple CarPlay/Android Auto Ready at Half Price! Exclusive Deal on High-Quality Displays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-travel-becomes-pricey-how-southwest-air-squeezed-extra-costs-during-high-stress-moments/"><u>When Travel Becomes Pricey: How Southwest Air Squeezed Extra Costs During High Stress Moments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-did-delta-anger-long-term-fans-unveiling-the-reasons-behind-customer-discontent-tech-insights/"><u>Why Did Delta Anger Long-Term Fans: Unveiling the Reasons Behind Customer Discontent | Tech Insights</u></a></li>
 </ul></div>
 

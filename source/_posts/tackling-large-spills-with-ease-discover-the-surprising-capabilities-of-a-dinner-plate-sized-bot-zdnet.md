@@ -1,7 +1,7 @@
 ---
 title: Tackling Large Spills with Ease - Discover the Surprising Capabilities of a Dinner Plate-Sized Bot | ZDNET
-date: 2024-09-17 20:59:42
-updated: 2024-09-20 12:29:44
+date: 2024-11-15T17:22:14.986Z
+updated: 2024-11-17T19:59:12.888Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[New] 2024 Approved Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[Updated] 2024 Approved Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/automating-synctoy-on-windows-10-a-step-by-step-guide-to-setting-up-auto-run/"><u>Automating SyncToy on Windows 10: A Step-by-Step Guide to Setting Up Auto-Run</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressive-vernacular-understanding-widespread-slang-phrases/"><u>Expressive Vernacular: Understanding Widespread Slang Phrases</u></a></li>
+<li><a href="https://facebook.techidaily.com/reason-behind-my-curated-list-of-fb-ads/"><u>Reason Behind My Curated List of Fb Ads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/swift-fixes-overcoming-audio-troubles-the-test-tone-failure-explained/"><u>Swift Fixes: Overcoming Audio Troubles - The Test Tone Failure Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-tablet-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Tablet Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-samsung-tablet-deal-uncovered-non-flagship-model-at-steep-discount-this-labor-day-insights-from-zdnet/"><u>Top-Rated Affordable Samsung Tablet Deal Uncovered: Non-Flagship Model at Steep Discount This Labor Day - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-models-comprehensive-testing-and-reviews-by-pros-zdnet/"><u>Top-Rated iPad Models - Comprehensive Testing & Reviews by Pros | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-miniature-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Miniature Tablets - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-tablets-thorough-reviews-by-tech-experts-zdnet/"><u>Top-Rated Tablets : Thorough Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/trends-that-triumph-making-your-instagram-content-viral-for-2024/"><u>Trends That Triumph Making Your Instagram Content Viral for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-warhammer-40k-players-stop-pc-lag-issues/"><u>Winning Strategies for Warhammer 40K Players - Stop PC Lag Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/x-studio-voice-synthesizer-windows-compatible-for-2024/"><u>X-Studio Voice Synthesizer, Windows Compatible for 2024</u></a></li>
+</ul></div>
+

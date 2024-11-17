@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Black Friday Offer: Save 40%% on HP Envy X360 Laptop! Only $499 at ZDNet"
-date: 2024-11-01T16:11:00.331Z
-updated: 2024-11-07T16:12:39.198Z
+date: 2024-11-10T21:15:36.162Z
+updated: 2024-11-17T21:33:13.149Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,10 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -100,10 +100,10 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +113,10 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,21 +153,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>[New] 2024 Approved Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-video-collection-converting-mp4-with-vlc/"><u>[New] Streamlining Your Video Collection Converting MP4 with VLC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cloaking-in-content-an-introduction-to-video-smoothing-for-2024/"><u>[Updated] Cloaking in Content An Introduction to Video Smoothing for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-best-mp4-saving-software/"><u>[Updated] Unveiling the Best MP4 Saving Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-smartwatches-in-202n4-in-depth-analysis-and-ratings-from-professionals-zdnet/"><u>Budget-Friendly Smartwatches in 202N4: In-Depth Analysis and Ratings From Professionals | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/flipping-srt-to-sub-easy-conversion-techniques/"><u>Flipping SRT to SUB Easy Conversion Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-streamers-top-ten-picks-revealed-for-2024/"><u>Leading Streamers' Top Ten Picks Revealed for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximizing-training-insights-combining-whoop-and-apple-watch-for-elite-athletes-a-comparative-guide/"><u>Maximizing Training Insights: Combining Whoop and Apple Watch for Elite Athletes - A Comparative Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-insights-on-elite-android-timepieces-features-reviews-and-ratings-zdnet/"><u>Professional Insights on Elite Android Timepieces: Features, Reviews, and Ratings - ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-and-simple-guide-converting-wma-files-into-aac-format/"><u>Quick & Simple Guide: Converting WMA Files Into AAC Format</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reviews-and-features-ideal-sailing-navigator-on-your-wrist-techradar/"><u>Reviews & Features: Ideal Sailing Navigator on Your Wrist | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-4-pro-navigation-setup-explained-tips-and-tricks-by-tech-experts-at-zdnet/"><u>Samsung Galaxy Watch 4 Pro Navigation Setup Explained – Tips & Tricks by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-lenovo-mouse-pad-on-pc-effective-solutions-for-windows-systems/"><u>Troubleshoot Lenovo Mouse Pad on PC: Effective Solutions for Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-the-new-pixel-smartwatch-won-me-over-a-comparative-review-with-top-android-watches-on-zdnet/"><u>Why the New Pixel Smartwatch Won Me Over: A Comparative Review with Top Android Watches on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-look-at-the-luxe-and-clinically-proven-health-monitoring-of-the-withings-scanwatch-horizon/"><u>ZDNet's In-Depth Look at the Luxe and Clinically Proven Health Monitoring of the Withings ScanWatch Horizon</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-converter-elevate-your-screen-viewing/"><u>[New] Cutting Edge Converter Elevate Your Screen Viewing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-reel-of-excellence-ice-artistry-in-22-summary/"><u>[New] Reel of Excellence - Ice Artistry in '22 Summary</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-best-bargains-in-drone-tech-for-under-100/"><u>[Updated] In 2024, The Best Bargains in Drone Tech for Under $100</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-text-design-with-ae-top-10-tips/"><u>2024 Approved Mastering Text Design with AE Top 10 Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-rid-of-fortnite-skin-edit-latency-once-and-for-all-with-these-practical-fixes/"><u>Get Rid of Fortnite Skin Edit Latency Once and For All with These Practical Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-reno-10-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Reno 10 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-exciting-revelation-ai-innovations-and-new-launches-take-center-stage-at-ces-2/"><u>LG's Exciting Revelation: AI Innovations & New Launches Take Center Stage at CES 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-battle-strategies-for-dominating-the-mandalorians-tatooine-shootout-challenge/"><u>Mastering the Art of Battle: Strategies for Dominating The Mandalorian's Tatooine Shootout Challenge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-alert-save-big-with-400-off-on-the-top-rated-segway-max-g2-ev-scooter-now-at-unbeatable-prices/"><u>Memorial Day Deal Alert: Save Big with $400 Off on the Top-Rated Segway Max G2 EV Scooter - Now at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-turbulence-potential-solutions-to-streamline-airborne-wi-fi-services/"><u>Navigating Through Turbulence: Potential Solutions to Streamline Airborne Wi-Fi Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-bold-move-transform-your-professional-gatherings-with-the-comfort-of-mercedes-benz-e-class-featured-on-zdnet/"><u>Next Bold Move: Transform Your Professional Gatherings with the Comfort of Mercedes-Benz E Class - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-virtual-conferencing-in-style-with-mercedes-benz-e-class-discover-how-at-zdnet/"><u>Next Level Virtual Conferencing in Style with Mercedes-Benz E Class | Discover How at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-ai-development-for-driverless-cars-unveiled-by-latest-machine-learning-endeavor-on-zdnet/"><u>Pioneering AI Development for Driverless Cars Unveiled by Latest Machine Learning Endeavor on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/potential-hidden-issue-at-southwest-airlines-what-passengers-need-to-be-aware-of/"><u>Potential Hidden Issue at Southwest Airlines: What Passengers Need to Be Aware Of</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preserve-and-optimize-a-guide-to-extending-the-life-of-your-luxury-electric-bikeebatry-zdnet/"><u>Preserve and Optimize: A Guide to Extending the Life of Your Luxury Electric Bike'ebatry (ZDNET)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-with-a-bang-building-a-youtube-presence-for-2024/"><u>Starting with a Bang Building a YouTube Presence for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gmail-without-ads-discover-the-simple-method-and-its-unexpected-limitation-digitalwise-tips/"><u>Unlocking Gmail Without Ads? Discover the Simple Method & Its Unexpected Limitation | DigitalWise Tips</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-contemporary-techniques-for-crafting-effective-audio-echoes-for-2024/"><u>Updated Contemporary Techniques for Crafting Effective Audio Echoes for 2024</u></a></li>
 </ul></div>
 

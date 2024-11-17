@@ -1,7 +1,7 @@
 ---
 title: "Laptop Lifesaver: Cost-Effective Fixes to Restore MacBook Charging Power, Learn How Here | Insights by ZDNET"
-date: 2024-11-02T16:15:38.923Z
-updated: 2024-11-07T16:12:53.083Z
+date: 2024-11-12T16:22:00.379Z
+updated: 2024-11-17T22:06:53.894Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,22 +131,16 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-10plus-channel-driven-video-suggestions-for-2024/"><u>[New] Cultivate Creativity 10+ Channel-Driven Video Suggestions for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-textual-transformation-in-adobe-after-effects/"><u>[Updated] Textual Transformation in Adobe After Effects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photographic-albums-with-background-music/"><u>2024 Approved Photographic Albums with Background Music</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/desktop-linux-on-the-rise-unveiling-five-key-reasons-for-its-booming-popularity/"><u>Desktop Linux on the Rise: Unveiling Five Key Reasons for Its Booming Popularity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-remedies-to-stop-persistent-crashing-issues-with-pcs-thunder-tier-one-version/"><u>Effective Remedies to Stop Persistent Crashing Issues with PC's Thunder Tier One Version</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-now-unavailable-microsoft-announcement/"><u>Free Windows 11 Upgrade Now Unavailable - Microsoft Announcement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Max without Losing Data? | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-releases-revolutionary-compact-aio-device-exploring-more-surprising-news-from-hp-at-recent-event-insights-from-zdnet/"><u>HP Releases Revolutionary Compact AIO Device: Exploring More Surprising News From HP at Recent Event - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-avatar-asymmetry-artistry-sketching-distorted-images/"><u>In 2024, Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-mac-preview-with-ease-ultimate-guide/"><u>In 2024, Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>In 2024, Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-gaming-sets-expert-advice-on-crafting-the-ideal-pc-rig-with-insights-from-zdnet/"><u>Mastering the Art of Gaming Sets: Expert Advice on Crafting the Ideal PC Rig with Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prove-them-wrong-how-enthusiasts-elevated-classic-computers-with-windows-11-insights-from-zdnet/"><u>Prove Them Wrong! How Enthusiasts Elevated Classic Computers with Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-get-the-ultimate-power-hub-with-16-port-thunderbolt-dock-at-50-off-on-amazon-exclusive-report-by-zdnet/"><u>Score Big Savings: Get the Ultimate Power Hub with 16-Port Thunderbolt Dock at 50% Off on Amazon - Exclusive Report by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-june-2024-savings-at-best-buy-exclusive-offers-featured-by-zdnet/"><u>Top June 2024 Savings at Best Buy - Exclusive Offers Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-big-screens-of-2024-unveiled-by-zdnet/"><u>Top-Ranking Big Screens of 2024 - Unveiled by ZDNet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-harnessing-the-power-of-your-retweet-archives/"><u>[New] Harnessing the Power of Your Retweet Archives</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-overcoming-tiktoks-covert-ban-a-guide-to-re-emerge-for-2024/"><u>[New] Overcoming TikTok's Covert Ban A Guide to Re-Emerge for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-content-youtube-movie-maker-101/"><u>[Updated] Elevate Your Content YouTube Movie Maker 101</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bulk-deal-spotlight-secure-your-high-capacity-8tb-samsung-t5-at-a-steep-discount-after-prime-day-exclusive/"><u>Bulk Deal Spotlight: Secure Your High-Capacity 8TB Samsung T5 at a Steep Discount After Prime Day Exclusive</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/como-realizar-la-transicion-de-legacy-bios-a-sistema-unificado-de-firmware-extensible-uefi/"><u>Cómo Realizar La Transición De Legacy BIOS a Sistema Unificado De Firmware Extensible (UEFI)</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-x6-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find X6 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-spark-10-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Spark 10 4G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-latest-beast-rocks-with-two-must-have-features-for-tech-enthusiasts-spotted-by-zdnet/"><u>Lenovo's Latest Beast Rocks with Two Must-Have Features for Tech Enthusiasts, Spotted by ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premier-graphics-workstation-laptops-comprehensive-evaluation-and-insights-from-specialists-techradar/"><u>Premier Graphics Workstation Laptops: Comprehensive Evaluation & Insights From Specialists | TechRadar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/privacy-prowess-how-to-disconnect-on-insta/"><u>Privacy Prowess How to Disconnect on Insta</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/struggling-with-macbooks-sleep-issues-and-draining-battery-discover-the-must-have-app-that-solves-it-a-guide/"><u>Struggling with MacBook's Sleep Issues & Draining Battery? Discover the Must-Have App That Solves It! - A Guide</u></a></li>
 </ul></div>
 

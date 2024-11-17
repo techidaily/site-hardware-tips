@@ -1,7 +1,7 @@
 ---
 title: My Heart, My Mind and the Flesh of My Body
-date: 2024-11-04T16:21:19.071Z
-updated: 2024-11-07T16:03:43.666Z
+date: 2024-11-16T18:55:05.687Z
+updated: 2024-11-17T17:40:15.379Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,10 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd02d06b8-4bb0-4c39-aa76-96483f634a45%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
@@ -82,13 +82,20 @@ Cons
 * Generic design
 * Loud fans
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Acer Swift Go 14
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
@@ -117,14 +124,14 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -157,13 +164,6 @@ Cons
 
 ## LG Gram Pro 17
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -194,13 +194,6 @@ Cons
 * Expensive
 
 ## Lenovo ThinkPad X1 Carbon
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for work
 
@@ -264,6 +257,13 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -271,19 +271,6 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -293,6 +280,13 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -301,13 +295,6 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd02d06b8-4bb0-4c39-aa76-96483f634a45%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd02d06b8-4bb0-4c39-aa76-96483f634a45%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -315,6 +302,13 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -362,22 +356,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-twister-timber-titmice/"><u>[New] 2024 Approved Twister Timber Titmice</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effective-ways-to-capture-and-save-snapchat-media-on-phone/"><u>[New] In 2024, Effective Ways to Capture and Save Snapchat Media on Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>[Updated] Advanced Photography IPhone's Leading Object Cutting Tools Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/3windows-1011-dvd-mp4aviwmv/"><u>3最优秀的免费Windows 10/11 DVD转码器软件 - MP4、AVI、WMV格式选项</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-laptops-top-picks-that-compete-with-macbook-air-and-currently-discounted-insights-from-zdnet/"><u>Best Value Laptops: Top Picks That Compete with MacBook Air & Currently Discounted - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/communication-systems-and-language-development-by-analyzing-the-communication-methods-used-by-animals-like-songbirds-or-dolphins-we-can-gain-a-better-apprec9/"><u>Communication Systems and Language Development: By Analyzing the Communication Methods Used by Animals Like Songbirds or Dolphins, We Can Gain a Better Appreciation for How Languages Evolve and What Cognitive Capacities They Require.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-guide-to-resolve-non-responsive-vrchat-issues/"><u>Complete Guide to Resolve Non-Responsive VRChat Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hps-ultimate-cyber-event-save-up-to-71-on-top-notch-monitors-and-laptops-exclusive-deals-at-zdnet/"><u>HP's Ultimate Cyber Event: Save up to 71% on Top-Notch Monitors and Laptops - Exclusive Deals at ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-computing-samsungs-revamped-copilotplus-pc-with-advanced-ai-zdnet/"><u>Introducing the New Era of Computing: Samsung's Revamped Copilot+ PC with Advanced AI | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-chance-to-snag-top-costco-cyber-monday-offers-premier-deals-on-electronics-await-with-our-guide/"><u>Last Chance to Snag Top Costco Cyber Monday Offers: Premier Deals on Electronics Await with Our Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-taking-screenshots-using-logitech-keyboards/"><u>Mastering the Art of Taking Screenshots Using Logitech Keyboards</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-sounds-selections-for-video-creation/"><u>Premier Sounds Selections for Video Creation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-a-high-performance-15-asus-laptop-with-top-ports-from-walmart-under-250-exclusive-coverage-from-zdnet/"><u>Snag a High-Performance 15 ASUS Laptop with Top Ports From Walmart Under $250 - Exclusive Coverage From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-libgdk-win32-20-0dll-missing-errors-on-your-pc-step-by-step-guide/"><u>Solving libgdk-win32-2.0-0.dll Missing Errors on Your PC - Step by Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-near-perfect-ultraportable-experience-with-this-lenovo-thinkpad-insights/"><u>The Near-Perfect Ultraportable Experience with This Lenovo ThinkPad - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-alert-secure-your-favorite-macbooks-usb-c-charging-solution-for-less-than-70-bucks-on-amazon-zdnet-reveals-top-picks/"><u>Unbeatable Price Alert: Secure Your Favorite MacBook's USB-C Charging Solution for Less Than 70 Bucks on Amazon | ZDNet Reveals Top Picks!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-the-mystery-a-9-step-guide-to-restoring-visibility-of-icloud-music-library-on-ios-devices/"><u>Unlocking the Mystery: A 9-Step Guide to Restoring Visibility of iCloud Music Library on iOS Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ultimate-guide-to-live-streaming-fb-on-laptops-macs-and-pcs-for-2024/"><u>[Updated] Ultimate Guide to Live Streaming FB on Laptops, Macs, and PCs for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-5-ios-backdrop-swappers-x87-edition/"><u>2024 Approved Best 5 iOS Backdrop Swappers X/8/7 Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-versatility-in-vsco-imagery/"><u>2024 Approved Exploring Versatility in VSCO Imagery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-2022-dates-and-top-sites-offering-amazing-discounts-insights/"><u>Black Friday 2022: Dates & Top Sites Offering Amazing Discounts - Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/chill-vibes-top-idle-pc-experiences/"><u>Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-high-quality-budget-friendly-laptop-with-stunning-visuals-the-gadget-review/"><u>Get Your Hands on a High-Quality, Budget-Friendly Laptop With Stunning Visuals! - The Gadget Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Sony Xperia 5 V</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-enjoy-dual-monitor-setup-on-your-m-premier-m3-macbook-pro-the-latest-update/"><u>Maximize Productivity: Enjoy Dual Monitor Setup on Your M-Premier M3 MacBook Pro – The Latest Update!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/must-know-facts-for-asmr-enthusiasts/"><u>Must-Know Facts for ASMR Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-the-7-most-effective-techniques-to-enhance-your-computers-speed/"><u>Quick Fixes: The 7 Most Effective Techniques to Enhance Your Computer's Speed</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-poco-m6-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Poco M6 Pro 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-deal-on-the-new-apple-macbook-pro-m3-save-200-today-in-amazons-exciting-spring-sale-insights-from-zdnet/"><u>Score a Deal on the New Apple MacBook Pro (M3) - Save $200 Today in Amazon’s Exciting Spring Sale | Insights From ZDNET</u></a></li>
 </ul></div>
 

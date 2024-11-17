@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Human-Like Automata: How OpenAI and Emerging Tech Firm Unite to Engineer Sophisticated Artificial Intelligence Models for Futuristic Humanoid Machines | ZDNET"
-date: 2024-09-19 14:57:46
-updated: 2024-09-20 10:46:40
+date: 2024-11-14T21:22:11.664Z
+updated: 2024-11-17T18:27:53.681Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,33 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ig-reel-secrets-pausing-time-for-creative-impact/"><u>[New] 2024 Approved IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stepwise-strategies-to-record-flawless-screens-with-adobe-captive-for-2024/"><u>[New] Stepwise Strategies to Record Flawless Screens with Adobe Captive for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-premium-5-professional-drones-buyers-guide/"><u>[Updated] 2024 Approved Premium 5 Professional Drones - Buyers Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-comprehensive-overview-of-whatsapp-voice-calls/"><u>[Updated] In 2024, Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-deal-of-the-season-buy-samsungs-4tb-t5-ssd-for-nearly-half-price-at-amazon-featured-by-zdnet/"><u>Discover the Deal of the Season! Buy Samsung's 4TB T5 SSD for Nearly Half Price at Amazon, Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expand-your-workspace-enable-dual-monitor-setup-on-your-m3-macbook-pro-now-comparable-to-the-capabilities-of-the-m3-macbook-air-insights-from-zdnet/"><u>Expand Your Workspace: Enable Dual Monitor Setup on Your M3 MacBook Pro, Now Comparable to the Capabilities of the M3 MacBook Air | Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wmvcoredll-not-found-or-missing-errors/"><u>How to Fix Wmvcore.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-biggest-iphone-x-irritations-troubleshooting-guide/"><u>Overcoming the Biggest iPhone X Irritations - Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razers-best-practices-expert-advice-on-keeping-your-blackwidow-drivers-current/"><u>Razer's Best Practices: Expert Advice on Keeping Your BlackWidow Drivers Current</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-narzo-60-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme Narzo 60 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-notch-meta-quest-3-value-unbeatable-512gb-offer-lands-for-october-prime-day-a-virtual-reality-sensation/"><u>Top-Notch Meta Quest 3 Value: Unbeatable 512GB Offer Lands for OCtober Prime Day - A Virtual Reality Sensation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-take-on-brydge-sp-max-plus-a-durable-keyboard-cover-tailored-for-the-newest-surface-pro-amoled-device/"><u>ZDNET's Take on Brydge SP Max Plus – A Durable Keyboard Cover Tailored for the Newest Surface Pro Amoled Device</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

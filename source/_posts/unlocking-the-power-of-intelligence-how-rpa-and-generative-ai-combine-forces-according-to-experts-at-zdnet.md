@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Power of Intelligence: How RPA and Generative AI Combine Forces, According to Experts at ZDNet"
-date: 2024-09-18 16:55:14
-updated: 2024-09-20 12:36:38
+date: 2024-11-12T19:31:29.410Z
+updated: 2024-11-17T17:59:12.986Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/accelerating-mp4-playback-speeding-up-presentations-for-2024/"><u>Accelerating MP4 Playback Speeding Up Presentations for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-price-tag-a-deep-dive-into-why-apple-watch-series-9-is-worth-it-over-budget-models-exclusive-review-by-zdnets-senior-gadget-analyst/"><u>Beyond the Price Tag: A Deep Dive Into Why Apple Watch Series 9 Is Worth It Over Budget Models | Exclusive Review by ZDNET's Senior Gadget Analyst</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-polar-grit-x-pro-titan-analysis-elite-performance-tracking-with-advanced-features-zdnet/"><u>Comprehensive Polar Grit X Pro Titan Analysis: Elite Performance Tracking with Advanced Features - ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-images-easily-and-for-free-transform-swf-into-gif-using-movavis-tool/"><u>Convert Your Images Easily & For Free - Transform SWF Into GIF Using Movavi's Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-face-edits-leading-iphone-and-android-apps-for-2024/"><u>Expert Face Edits Leading iPhone & Android Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-discover-the-top-6-benefits-of-owning-an-apple-watch-learn-more-on-zdnet/"><u>Expert Insights: Discover the Top 6 Benefits of Owning an Apple Watch - Learn More on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fitbit-sense-2-vs-versa-4-a-comprehensive-health-tracker-face-off-with-a-spotlight-on-gps-limitations-expert-findings-from-zdnet/"><u>Fitbit Sense 2 vs Versa 4: A Comprehensive Health Tracker Face-Off with a Spotlight on GPS Limitations - Expert Findings From ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-easy-path-to-pure-audio-advanced-noise-reduction-tactics-for-audacity-and-filmorapro-users/"><u>In 2024, The Easy Path to Pure Audio Advanced Noise Reduction Tactics for Audacity and FilmoraPro Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-phone-and-smartwatch-users-to-experience-latest-google-updates-discover-the-new-perks-with-zdnets-detailed-overview/"><u>Samsung Phone & Smartwatch Users to Experience Latest Google Updates - Discover the New Perks with ZDNet's Detailed Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-navigators-companion-a-comprehensive-review-of-the-garmin-quatix/"><u>The Navigator’s Companion: A Comprehensive Review of the Garmin Quatix</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/icks-for-virtual-globe-tourists/"><u>Top Picks for Virtual Globe Tourists</u></a></li>
+</ul></div>
+

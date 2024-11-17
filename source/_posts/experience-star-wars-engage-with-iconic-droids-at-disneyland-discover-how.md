@@ -1,7 +1,7 @@
 ---
 title: "Experience Star Wars: Engage With Iconic Droids at Disneyland - Discover How!"
-date: 2024-09-17 12:39:34
-updated: 2024-09-20 11:43:54
+date: 2024-11-11T20:32:43.400Z
+updated: 2024-11-17T18:10:50.485Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-leverage-canva-design-top-10-stealthy-methods-revealed/"><u>[Updated] Leverage Canva Design Top 10 Stealthy Methods Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-planets-favorites-youtube-sensations-and-their-view-counts/"><u>2024 Approved Planet's Favorites YouTube Sensations and Their View Counts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-recap-top-product-reveals-from-the-first-day-techradar/"><u>CES 2023 Recap - Top Product Reveals From the First Day | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-laptops-of-the-year-2024-comprehensive-reviews-and-ratings/"><u>Elite Laptops of the Year 2024: Comprehensive Reviews and Ratings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-key-features-in-vr-headsets-for-2024/"><u>Examining Key Features in VR Headsets for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-approach-add-a-linked-url-to-your-tiktok-profile/"><u>In 2024, A Step-by-Step Approach Add a Linked URL to Your TikTok Profile</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-epicurean-lens-techniques-for-delicious-content/"><u>In 2024, The Epicurean Lens Techniques for Delicious Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-savings-with-costcos-top-38-cyber-monday-bargains-get-quality-tvs-laptops-and-more-at-unbeatable-prices/"><u>Maximize Your Savings with Costco's Top 38 Cyber Monday Bargains – Get Quality TVs, Laptops & More at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-workspace-with-an-11-in-1-docking-station-marked-down-44-in-our-zdnet-shop/"><u>Maximize Your Workspace with an 11-in-1 Docking Station, Marked Down 44% in Our ZDNet Shop!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-pin-removal-functionality-in-windows-11-os/"><u>Restoring PIN Removal Functionality in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-why-this-dell-inspiron-outshines-all-other-laptops-on-the-market/"><u>The Ultimate Review: Why This Dell Inspiron Outshines All Other Laptops on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-for-lightweight-long-lasting-laptop-techspot/"><u>Top Pick for Lightweight, Long-Lasting Laptop | TechSpot</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761868-9781649630575-travel-light/"><u>Travel Light | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-touchscreen-laptop-guide-in-depth-analysis-by-professionals-gadgetsphere/"><u>Ultimate Touchscreen Laptop Guide: In-Depth Analysis by Professionals | GadgetSphere</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-top-savings-on-iphone-apple-watch-and-ipad-july-2024s-exclusive-apple-bargains-featured-by-zdnet/"><u>Unlocking Top Savings on iPhone, Apple Watch & iPad: July 2024'S Exclusive Apple Bargains Featured by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-comprehensive-pathway-to-hidden-youtube-treasures-for-2024/"><u>Your Comprehensive Pathway to Hidden YouTube Treasures for 2024</u></a></li>
+</ul></div>
+

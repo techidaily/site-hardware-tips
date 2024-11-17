@@ -1,7 +1,7 @@
 ---
 title: "Ergonomics Revolutionized: A Week of Typing on a Split Keyboard & Its Impact on Other Devices | GadgetReview"
-date: 2024-11-02T16:05:11.762Z
-updated: 2024-11-07T16:12:37.875Z
+date: 2024-11-14T19:28:01.376Z
+updated: 2024-11-17T17:30:53.272Z
 tags:
   - laptops
 categories:
@@ -107,10 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,21 +149,19 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/affordable-artistry-leading-open-source-paint-apps/"><u>Affordable Artistry: Leading Open Source Paint Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/calculating-costs-in-youtube-advertising-campaigns-for-2024/"><u>Calculating Costs in YouTube Advertising Campaigns for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/death-stranding-stops-working-on-pc-heres-how-you-can-resolve-that-problem/"><u>Death Stranding Stops Working on PC? Here's How You Can Resolve That Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-wi-fi-6e-a-glimpse-into-tomorrows-wireless-technology-benefits-and-limitations-zdnet/"><u>Exploring Wi-Fi 6E: A Glimpse Into Tomorrow's Wireless Technology - Benefits and Limitations | ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-x-flip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo X Flip to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-top-10-ios-devices-best-video-players-unveiled/"><u>In 2024, Top 10 iOS Devices' Best Video Players Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-apples-hot-selling-3-in-1-charging-cube-zdnet-exclusive-test-and-worth-evaluation/"><u>Inside Look at Apple's Hot Selling 3-in-1 Charging Cube | ZDNet Exclusive Test & Worth Evaluation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/iphone-15-and-m2-mac-updates-apple-introduces-remote-tool-in-self-service-repair-initiative-zdnet-insights/"><u>IPhone 15 & M2 Mac Updates: Apple Introduces Remote Tool in Self Service Repair Initiative | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-with-the-ultra-compact-high-powered-200w-multi-device-charger-the-unseen-giant/"><u>Revolutionize Your Workspace with the Ultra-Compact, High-Powered 200W Multi-Device Charger - The Unseen Giant</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-snowshoe-hare-and-lynx-populations-in-north-america-provide-a-classic-example-of-these-dynamics/"><u>The Snowshoe Hare and Lynx Populations in North America Provide a Classic Example of These Dynamics.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-extra-ssds-into-essential-external-drives-with-this-affordable-12-trick-discover-how/"><u>Transform Your Extra SSDs Into Essential External Drives with This Affordable $12 Trick – Discover How!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/tricks-of-the-trade-saving-slides-in-high-definition/"><u>Tricks of the Trade Saving Slides in High Definition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-portable-charger-discover-the-multi-functional-zendure-supermini-go-the-perfect-companion-for-on-the-go-charging-needs/"><u>Ultimate Portable Charger: Discover the Multi-Functional Zendure SuperMini Go - The Perfect Companion for On-The-Go Charging Needs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleashing-potential-in-virtual-film-worlds/"><u>Unleashing Potential in Virtual Film Worlds</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/why-startlingly-skilled-in-languages-over-50-heres-why/"><u>Why Startlingly Skilled in Languages Over 50? Here's Why</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-key-to-effective-instagram-chats-a-comprehensive-guide/"><u>[New] The Key to Effective Instagram Chats A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-get-back-n-blood-game-launching-smoothly-on-windows-versions-win11107/"><u>[Solution Found] How to Get Back N Blood Game Launching Smoothly on Windows Versions (Win11/10/7)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-branded-content-collaborations-on-streaming-services/"><u>[Updated] Branded Content Collaborations on Streaming Services</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-legal-fb-music-streaming-hub/"><u>[Updated] In 2024, Legal FB Music Streaming Hub</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/20-most-reliable-hashtag-tracker-tools-fbtwitterinsta/"><u>20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-top-8-photo-grid-online-makers-to-polish-your-pictures/"><u>2024 Approved Top 8 Photo Grid Online Makers to Polish Your Pictures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerhouse-why-the-discounted-lenovo-laptop-is-a-game-changer-for-hybrid-work-environments-digitalworklifereviews/"><u>Affordable Powerhouse: Why the Discounted Lenovo Laptop Is a Game Changer for Hybrid Work Environments | DigitalWorkLifeReviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-dual-capabilities-of-lenovos-hybrid-laptop-tablet-unleashing-its-untapped-potential-a-deep-dive-for-zdnet-readers/"><u>Exploring the Dual Capabilities of Lenovo's Hybrid Laptop-Tablet: Unleashing Its Untapped Potential - A Deep Dive for ZDNet Readers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-latest-apple-innovations-presented-at-wwdc-now-find-out-where-to-buy-and-pre-order-with-expert-tips-by-zdnet/"><u>Get Your Hands on the Latest Apple Innovations Presented at WWDC Now — Find Out Where to Buy and Pre-Order with Expert Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-your-dream-machine-exclusive-black-friday-sale-with-40-off-on-the-top-tier-gigabyge-a5-k1-gaming-laptop-zdnets-pick/"><u>Grab Your Dream Machine: Exclusive Black Friday Sale with 40% Off on the Top-Tier Gigabyge A5 K1 Gaming Laptop | ZDNET's Pick</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78plus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78+</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-essential-mac-live-streaming-apps/"><u>In 2024, Top 5 Essential Mac Live Streaming Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-save-on-the-asus-vivobook-pro-with-a-300-discount-now-available-on-amazon-insights-from-zdnet/"><u>Unbeatable Deals: Save on the Asus VivoBook Pro with a $300 Discount Now Available on Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-intermittent-connectivity-is-the-entire-nintendo-switch-online-network-down-or-are-you-alone-in-this-quandary/"><u>Understanding Intermittent Connectivity - Is the Entire Nintendo Switch Online Network Down, or Are You Alone in This Quandary?</u></a></li>
 </ul></div>
 

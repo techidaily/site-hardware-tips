@@ -1,7 +1,7 @@
 ---
 title: "Four Key Factors & Top Ten Picks: Choosing the Ideal College Laptop | ZDNet's Guide"
-date: 2024-11-02T16:08:46.862Z
-updated: 2024-11-07T16:15:56.581Z
+date: 2024-11-12T16:43:33.204Z
+updated: 2024-11-17T17:09:02.133Z
 tags:
   - laptops
 categories:
@@ -54,13 +54,6 @@ Trust me, the worst thing you could do is settle for a lower-end machine that st
 
 It's also important to consider your degree program or area of study while selecting a laptop. Many institutions may list recommended laptop and hardware options, so be sure to check your university's online resources, connect with a department chair, or talk with other students in your area of study too. More often than not, specific programs like engineering or mathematics suggest [Windows PCs](https://www.zdnet.com/article/best-windows-laptop/) over [MacBooks](https://www.zdnet.com/article/best-mac/) due to the particular software and programming. At the same time, the laptop selection will matter less for other degrees. Regardless of which category you fall into, you'll still want to purchase a top-notch laptop equipped to get you through the next four years (and beyond).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Opt for a powerful GPU and display if you'll be studying:
 
 * Graphic design
@@ -69,10 +62,10 @@ It's also important to consider your degree program or area of study while selec
 * 3D drafting
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get a powerful processor if you'll be studying:
@@ -100,6 +93,19 @@ Here's what kind of laptop you're likely to get based on its price:
 * **$1,000 - $1,500:** This is the middle tier, where most new laptops can be found. Machines in this tier will be balanced enough for most users and armed with hardware a few steps above the baseline.
 * **$1,500 - $2,000:** These are mid-plus laptops with upgraded components compared to those in the middle tier, typically with better displays, more storage, and faster processors.
 * **$2,000 and above:** This bracket includes high-end machines with state-of-the-art processors, GPUs, and expensive OLED screens.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Get your student discount
 
@@ -138,10 +144,10 @@ Would you like to be able to switch your laptop to a tablet? If so, you'll want 
 [Acer Aspire Go 15 $420 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09YFVNK2Q%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb6e4a0da-0363-4267-9b34-aee6ca1a7ea8%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If you value portability
@@ -178,13 +184,6 @@ Some common tips to extend the life of your battery include:
 
 [Lenovo IdeaPad Pro 5i $1,129 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Pro-5i-16-Touchscreen-Intel-Evo-Platform-Laptop-Intel-Core-Ultra-9-processor-185H-120HZ-OLED-2048-x-1280-Display-Windows-11%2F5793352944&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## If you want a 2-in-1
 
 There are lots of benefits to having a convertible laptop in college. Being able to swap from tablet to laptop mode can be invaluable if you're studying a field where you need to make sketches or mockups on the fly. Alternatively, popping the machine into tent mode can be great for watching presentations, seminars, or virtual meetings. 
@@ -206,6 +205,13 @@ These are some additional factors that you might want to consider when shopping 
 * **Price:** Cost is an important factor, especially for students. I included laptops that cover a wide range of price points, from the inexpensive [Acer Aspire Go 15](https://www.zdnet.com/article/i-replaced-my-desktop-with-a-299-laptop-for-a-week-and-was-pleasantly-surprised/) at just $300 to the pricier [Lenovo Yoga Book 9i](https://www.zdnet.com/article/i-tested-lenovos-dual-screen-laptop-and-it-improved-my-productivity-in-profound-ways/) that will run closer to $2,000\. Keep in mind that most computer manufacturers offer student discounts, and their buying links are included in each laptop's section on this page.
 * **Operating system:** In order to maximize compatibility, many institutions will elect to run either all Windows or all MacOS systems. If your college chooses to go for Macs, you'll just need to [decide whether you want a MacBook Pro or a MacBook Air](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide/). Luckily, we've spent a lot of time breaking down the differences. If your college has chosen to use Windows laptops only, you'll have more options to sift through, but there's more room for personalization. Check out our list of [best Windows laptops](https://www.zdnet.com/article/best-windows-laptop/) for some additional options.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -251,18 +257,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-unite-video-files-into-playlist-assembly/"><u>[Updated] Unite Video Files Into Playlist Assembly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-vlc-versus-mx-video-choice-showdown/"><u>[Updated] VLC Versus MX Video Choice Showdown</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-asus-rog-phone-8-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Asus ROG Phone 8 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>2024 Approved Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-selection-hardcore-ready-computers-reviewed/"><u>2024 Ultimate Selection: Hardcore-Ready Computers Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-g2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo G2 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-massive-savings-the-high-capacity-4tb-samsung-t5-drive-at-a-steep-discount-shop-now-at-amazon-featured/"><u>Discover Massive Savings: The High-Capacity 4TB Samsung T5 Drive at a Steep Discount - Shop Now at Amazon | Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-compelling-best-buy-discounts-in-june-2024-insider-tips-from-zdnet/"><u>Discover the Most Compelling Best Buy Discounts in June 2024 - Insider Tips From ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevated-operations-consistent-admin-mode-for-terminal/"><u>Elevated Operations: Consistent Admin Mode for Terminal</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-gt-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme GT 5 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-device-for-everyone-insights/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Device for Everyone - Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptops-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptops: Comprehensive Reviews & Ratings by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-reasons-behind-purchasing-damaged-macbook-pro-monitors-insights-from-zdnet/"><u>Understanding the Reasons Behind Purchasing Damaged MacBook Pro Monitors - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-straightforward-stories-essence/"><u>[New] 2024 Approved Straightforward Stories' Essence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ghost-recon-breakpoint-crash-issues-quickly-and-easily/"><u>[SOLVED] Ghost Recon Breakpoint Crash Issues | Quickly & Easily</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-instagram-game-with-tailored-video-cropping/"><u>[Updated] 2024 Approved Elevate Your Instagram Game with Tailored Video Cropping</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unlocking-window-snapshots-in-windows-3-methods/"><u>[Updated] 2024 Approved Unlocking Window Snapshots in Windows (3 Methods)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-now-selling-high-definition-sound-systems-for-100-less-the-clear-winner-in-my-testing/"><u>Best Buy Now Selling High-Definition Sound Systems for $100 Less - The Clear Winner in My Testing!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/digital-artistry-crafting-distorted-textual-elements-for-2024/"><u>Digital Artistry Crafting Distorted Textual Elements for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-on-the-deal-of-the-year-apple-m2-macbook-air-for-only-749-exclusive-offer-this-oct-prime-day-zdnet-insider-report/"><u>Don’t Miss Out on the Deal of the Year: Apple M2 MacBook Air for Only $749 – Exclusive Offer This Oct. Prime Day | ZDNET Insider Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-extraordinary-how-lenovos-innovative-thinkpad-x1-fold-redefines-laptops-a-unique-review/"><u>Exploring the Extraordinary: How Lenovo's Innovative ThinkPad X1 Fold Redefines Laptops - A Unique Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-key-discoveries-at-ces-2023-day-two-a-comprehensive-review-by-zdnet/"><u>Exploring the Key Discoveries at CES 2023 Day Two: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-lol-voice-chat-today-expert-solutions-and-tips/"><u>Fix Your LoL Voice Chat Today - Expert Solutions & Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-public-domain-picture-sites-2023-edition-for-2024/"><u>New Best Public Domain Picture Sites 2023 Edition for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/superior-performance-why-this-asus-laptop-outshines-your-macbook-and-heres-how-a-comprehensive-review-by-techguru/"><u>Superior Performance: Why This ASUS Laptop Outshines Your MacBook (And Here's How!) - A Comprehensive Review by TechGuru</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-efficient-use-of-slug-lines-in-content-writing-for-2024/"><u>The Efficient Use of Slug Lines in Content Writing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-to-a-new-laptop-life-my-30-day-journey-using-the-dell-xps-15-instead-of-a-macbook-zdnet/"><u>Transitioning to a New Laptop Life: My 30-Day Journey Using the Dell XPS 15 Instead of a MacBook | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-meets-endurance-discover-our-favorite-laptop-of-the-year/"><u>Ultimate Portability Meets Endurance: Discover Our Favorite Laptop of the Year</u></a></li>
 </ul></div>
 

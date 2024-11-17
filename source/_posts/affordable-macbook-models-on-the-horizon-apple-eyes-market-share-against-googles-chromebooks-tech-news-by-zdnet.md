@@ -1,7 +1,7 @@
 ---
 title: Affordable MacBook Models on the Horizon? Apple Eyes Market Share Against Google's Chromebooks | Tech News by ZDNet
-date: 2024-11-01T16:18:42.606Z
-updated: 2024-11-07T16:07:12.415Z
+date: 2024-11-10T20:20:52.275Z
+updated: 2024-11-17T20:14:55.619Z
 tags:
   - laptops
 categories:
@@ -25,10 +25,10 @@ HP's messaging around its 2023 CES device portfolio is all about meeting the nee
 **Also:** [**CES 2023 tech you can actually buy now**](https://www.zdnet.com/article/ces-2023-tech-you-can-buy/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  HP Dragonfly Pro series
@@ -79,10 +79,10 @@ The AMD Ryzen7 7736u-based Dragonfly Pro is the first PC to feature the most adv
 The Intel Core i5-1235U-based Dragonfly Pro Chromebook has an ultra-bright 1200 nits touch screen, an 8MP webcam, a customisable gaming-style RGB keyboard, and four USB-C Thunderbolt 4 ports. The Dragonfly Pro Chromebook offers "all-day battery life" from its 51.3Wh battery. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HP Dragonfly G4, EliteBook 1040 G10, Elite x360 1040 G10
@@ -106,10 +106,10 @@ In the UK, the EliteBook 1040 G10 will be available in May from £1,349, while t
 Both the Dragonfly G4 and Elite 1000 series G10 laptops benefit from HP's Power Manager dashboard, where you can access battery information and customize settings and charging options. The Dragonfly G4 also includes an OLED power-saving mode. Another new feature, Intelligent Hibernate, learns your usage pattern and automatically goes into hibernation mode to conserve battery life when your day is done.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HP also announced...
@@ -200,15 +200,24 @@ The OMEN 40L and 45L Desktops feature up to a 13th-generation Intel Core i9-1390
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-advanced-tips-for-effective-google-podcast-sharing/"><u>[New] In 2024, Advanced Tips for Effective Google Podcast Sharing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-monitor-magic-top-choices-to-transform-your-xbox-series-x-playtime/"><u>[New] Monitor Magic Top Choices to Transform Your Xbox Series X Playtime</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-saving-your-whatsapp-chat-history-with-confidence/"><u>[Updated] 2024 Approved Saving Your WhatsApp Chat History with Confidence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/4-floodlight-camera-for-your-shadowed-space/"><u>4 Floodlight Camera for Your Shadowed Space</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/4-floodlight-camera-transformed-my-dark-yard-zdnet/"><u>4 Floodlight Camera Transformed My Dark Yard | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-5-smart-plug-products-for-a-smarter-home-cnet/"><u>Discover the Leading 5 Smart Plug Products for a Smarter Home | CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-unknown-wishlist-item-the-enchanting-smart-light-projector-reviewed-on-zdnet/"><u>Discover Your Unknown Wishlist Item - The Enchanting Smart Light Projector Reviewed on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-download-fortnite-on-android-phone/"><u>How to Download Fortnite on Android Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-boost-your-fps-and-smooth-out-the-motion/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues – Boost Your FPS & Smooth Out the Motion</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-editors-insight-to-seamless-lut-integration-in-premiere/"><u>The Editor's Insight to Seamless LUT Integration in Premiere</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-full-circle-camera-unboxing-and-tests-for-2024/"><u>[New] Full Circle Camera Unboxing & Tests for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-fair-use-and-infringement-on-youtube/"><u>[New] Understanding Fair Use and Infringement on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-audio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[Updated] Audio Amplified Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/astounding-revelation-communicate-with-ai-powered-gpt/"><u>Astounding Revelation: Communicate with AI-Powered GPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delta-airlines-sparks-outrage-among-staff-by-treating-them-as-regular-passengers-exclusive-details-on-zdnet/"><u>Delta Airlines Sparks Outrage Among Staff by Treating Them as Regular Passengers - Exclusive Details on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-t-mobiles-new-uncarrier-on-suitcase-deal-for-just-325-find-out-how-to-buy-zdnet-reviews/"><u>Discover T-Mobile’s New ‘Uncarrier On Suitcase’ Deal for Just $325 - Find Out How to Buy! | ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-score-a-sweet-deal-on-the-advanced-contixo-f24-pro-gps-drone-for-only-45-less-this-black-friday/"><u>Don't Miss Out! Score a Sweet Deal on the Advanced Contixo F24 Pro GPS Drone for Only $45 Less This Black Friday!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-journeys-in-depth-analysis-of-the-versatile-and-comfortable-velotric-nomad-1-ebike-as-reviewed-by-zdnet/"><u>Effortless Journeys: In-Depth Analysis of the Versatile and Comfortable Velotric Nomad 1 eBike, as Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-bike-conquers-the-terrain-delivering-unforgettable-smiles-discover-how-on-zdnet/"><u>Electric Bike Conquers the Terrain, Delivering Unforgettable Smiles: Discover How on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/entertainment-on-wheels-how-nvidias-geforce-now-is-set-to-transform-your-car-ride-experience-zdnet/"><u>Entertainment on Wheels: How Nvidia's GeForce Now Is Set to Transform Your Car Ride Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-aesthetics-and-performance-of-urtopias-electric-bike-masterpiece-the-carbon-e-bike-reviewed-on-zdnet/"><u>Experience the Aesthetics and Performance of Urtopia's Electric Bike Masterpiece - The Carbon E-Bike Reviewed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-selection-of-best-southwest-credit-cards-for-flyers-forbes/"><u>Explore the Ultimate Selection of Best Southwest Credit Cards for Flyers | Forbes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-vision-pros-travel-mode-key-insights-and-preparation-tips-zdnet/"><u>Get Ready for Vision Pro’s Travel Mode - Key Insights and Preparation Tips | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2023-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2023 files free</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f14-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F14 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/take-flight-with-djis-robomaster-s1-a-thrilling-tank-drone-experience-that-boosts-coding-skills-and-offers-strategic-battles/"><u>Take Flight with DJI's RoboMaster S1 - A Thrilling Tank Drone Experience that Boosts Coding Skills and Offers Strategic Battles</u></a></li>
 </ul></div>
 

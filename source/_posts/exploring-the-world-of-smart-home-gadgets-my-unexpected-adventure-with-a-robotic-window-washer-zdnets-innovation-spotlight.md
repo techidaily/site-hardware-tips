@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of Smart Home Gadgets: My Unexpected Adventure With a Robotic Window Washer | ZDNet's Innovation Spotlight"
-date: 2024-09-17 18:43:48
-updated: 2024-09-20 11:20:37
+date: 2024-11-14T20:21:50.456Z
+updated: 2024-11-17T20:03:57.246Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars-for-2024/"><u>[New] Breaking the Norm Eye-Catching Talents Amongst Female YouTube Stars for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tips-downloading-and-installing-obs-for-mac-users-for-2024/"><u>[New] Essential Tips Downloading & Installing OBS for Mac Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-visionary-selection-best-10-audio-plugins-for-spotify/"><u>[New] In 2024, Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-perfect-ringtone-repository-excellent-sources-for-2024/"><u>[New] Perfect Ringtone Repository Excellent Sources for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elevating-visual-communication-top-10-tools-for-vector-artists/"><u>[Updated] In 2024, Elevating Visual Communication Top 10 Tools for Vector Artists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ideal-indoor-delights-mastering-mobile-lassitude/"><u>[Updated] In 2024, Ideal Indoor Delights Mastering Mobile Lassitude</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alienware-aurora-r13-gamers-bargain-slash-your-cost-by-350-today-with-this-exclusive-offer/"><u>Alienware Aurora R13 Gamer's Bargain - Slash Your Cost by $350 Today with This Exclusive Offer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-days-to-unveil-a-podcast-series/"><u>Best Days to Unveil a Podcast Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/office-workhorse-laptop-guide-discover-top-brands-beyond-dell-and-lenovo-for-your-needs/"><u>Office Workhorse Laptop Guide: Discover Top Brands Beyond Dell and Lenovo for Your Needs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-grab-the-discounted-8tb-samsung-t5-nvme-ssd-from-amazon-post-prime-day-save-36/"><u>Sale Alert: Grab the Discounted 8TB Samsung T5 NVMe SSD From Amazon Post-Prime Day – Save 36%!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-pc-and-laptop-discounts-unbeatable-savings-ahead-of-black-friday-techradar/"><u>Top October 2024 PC & Laptop Discounts: Unbeatable Savings Ahead of Black Friday | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-work-travel-tablet-a-non-microsoft-non-lenovo-recommendation-from-a-seasoned-reviewer/"><u>Top-Rated Work Travel Tablet: A Non-Microsoft, Non-Lenovo Recommendation From a Seasoned Reviewer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/webcam-use-in-professional-settings-for-slide-shows/"><u>Webcam Use in Professional Settings for Slide Shows</u></a></li>
+</ul></div>
+

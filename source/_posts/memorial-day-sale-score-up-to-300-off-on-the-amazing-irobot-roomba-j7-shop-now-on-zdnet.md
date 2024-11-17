@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Sale: Score Up To $300 Off On The Amazing iRobot Roomba J7 - Shop Now on ZDNet"
-date: 2024-09-17 21:29:54
-updated: 2024-09-20 12:47:22
+date: 2024-11-12T18:31:41.120Z
+updated: 2024-11-17T17:57:45.218Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>[Updated] 2024 Approved Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach</u></a></li>
+<li><a href="https://article-tips.techidaily.com/becoming-a-leader-in-the-world-of-design-work/"><u>Becoming a Leader in the World of Design Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-dxvk-a-must-have-gaming-tool-for-pcs/"><u>Decoding DXVK: A Must-Have Gaming Tool for PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-your-steam-games-after-missing-file-issues-fixed/"><u>Guide To Restoring Your Steam Games After Missing File Issues [FIXED]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-spark-10-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Spark 10 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-12-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 12 Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-vs-remarkable-2-essential-contrasts-for-note-taking-enthusiasts-zdnet-analysis/"><u>IPad Vs. Remarkable 2 - Essential Contrasts for Note-Taking Enthusiasts | ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-score-a-discounted-amazon-fire-tablet-at-just-50-during-labor-day-exclusive-trade-in-special/"><u>Limited Time Offer: Score a Discounted Amazon Fire Tablet at Just $50 During Labor Day - Exclusive Trade-In Special</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-groups-including-every-member-on-facebook/"><u>Maximizing Groups: Including Every Member on Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-differences-ipad-air-versus-ipad-pro-making-the-right-pick/"><u>Navigating the Differences: IPad Air versus iPad Pro – Making the Right Pick</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/netflix-streaming-update-alert-older-apple-devices-to-lose-access-find-out-which-ones-are-no-longer-compatible-zdnet/"><u>Netflix Streaming Update Alert! Older Apple Devices to Lose Access - Find Out Which Ones Are No Longer Compatible | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/onyx-boox-duo-exploring-the-combined-strength-of-max-lumi2-and-note-air2-for-avid-readers-and-writers-zdnet-gadgets/"><u>Onyx Boox Duo: Exploring the Combined Strength of Max Lumi2 & Note Air2 for Avid Readers and Writers | ZDNet Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-extravaganza-check-out-zdnets-list-of-top-36plus-tablet-deals-still-available-amazon-prime-shopping-spree/"><u>Prime Day Extravaganza! Check Out ZDNet's List of Top 36+ Tablet Deals Still Available Amazon Prime Shopping Spree</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethink-kids-tech-with-our-advanced-tablet-exceptional-performance-meets-limited-time-sale-discover-now-on-zdnet/"><u>Rethink Kids' Tech with Our Advanced Tablet: Exceptional Performance Meets Limited Time Sale - Discover Now on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-ultimate-sturdy-windows-tablet-for-creative-professionals-with-built-in-pen-support-cnet/"><u>Reviewing the Ultimate Sturdy Windows Tablet for Creative Professionals with Built-In Pen Support | CNET</u></a></li>
+</ul></div>
+

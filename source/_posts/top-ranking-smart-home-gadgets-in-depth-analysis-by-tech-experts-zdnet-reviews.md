@@ -1,7 +1,7 @@
 ---
 title: "Top Ranking Smart Home Gadgets : In-Depth Analysis by Tech Experts - ZDNet Reviews"
-date: 2024-09-17 15:57:33
-updated: 2024-09-20 11:51:27
+date: 2024-11-15T17:55:36.834Z
+updated: 2024-11-17T18:43:56.026Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-crop-circles-the-essential-list-of-farming-games/"><u>[New] In 2024, Crop Circles The Essential List of Farming Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-capture-to-creation-discover-the-best-montage-apps-for-smartphones/"><u>[Updated] From Capture to Creation Discover the Best Montage Apps for Smartphones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-designing-smaller-images-thumbnails-explained/"><u>2024 Approved The Art of Designing Smaller Images Thumbnails Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ideal-dec-2022-home-power-solutions-with-our-pick-of-best-deals-and-discounts-zdnet-insights/"><u>Discover the Ideal Dec 2022 Home Power Solutions with Our Pick of Best Deals & Discounts | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-value-in-home-power-solutions-top-deals-for-generators-this-december-on-zdnet/"><u>Discover the Ultimate Value in Home Power Solutions: Top Deals for Generators This December on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-computing-with-new-amazon-sustainability-tool-tracking-carbon-footprint-in-the-cloud/"><u>Eco-Friendly Computing with New Amazon Sustainability Tool Tracking Carbon Footprint in the Cloud</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-with-tesla-inspired-cybertruck-by-robomower-surprisingly-impressive-review-on-zdnet/"><u>Experience with Tesla-Inspired Cybertruck by RoboMower: Surprisingly Impressive Review on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-50-discount-on-top-rated-weber-electric-grills-exclusive-offer-from-zdnet/"><u>Get a $50 Discount on Top-Rated Weber Electric Grills - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harnessing-ocean-waste-for-sound-the-innovative-production-technique-behind-recyclable-marine-plastic-speakers/"><u>Harnessing Ocean Waste for Sound: The Innovative Production Technique Behind Recyclable Marine-Plastic Speakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/honor-their-memory-with-savings-get-a-discounted-segway-max-g2-electric-scooter-for-memorial-day-shop-at-zdnet-now/"><u>Honor Their Memory with Savings: Get a Discounted Segway Max G2 Electric Scooter for Memorial Day – Shop at ZDNET Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imminent-eco-crisis-in-apple-production-revealed-tech-innovation-today/"><u>Imminent Eco-Crisis in Apple Production Revealed | Tech Innovation Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-12-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-zoom-recording-essential-tips/"><u>Mastering Zoom Recording Essential Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ilmmakers-ally-unlocking-youtube-studio-editor-secrets-for-2024/"><u>The Filmmaker's Ally Unlocking YouTube Studio Editor Secrets for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-advanced-llms-on-future-search-engine-dominance-is-chatgpt-a-concern/"><u>The Impact of Advanced LLMs on Future Search Engine Dominance: Is ChatGPT a Concern?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-s18-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo S18 Pro</u></a></li>
+</ul></div>
+

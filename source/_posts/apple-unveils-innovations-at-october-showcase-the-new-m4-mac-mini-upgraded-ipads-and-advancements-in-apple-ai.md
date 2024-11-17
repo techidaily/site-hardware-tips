@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils Innovations at October Showcase: The New M4 Mac Mini, Upgraded iPads & Advancements in Apple AI"
-date: 2024-11-06T16:20:17.701Z
-updated: 2024-11-07T16:23:09.814Z
+date: 2024-11-16T17:05:32.975Z
+updated: 2024-11-17T17:44:11.509Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,16 +123,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-masterful-presentations-in-google-meet-with-new-backdrops/"><u>[New] In 2024, Masterful Presentations in Google Meet with New Backdrops</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity/"><u>[Updated] In 2024, The Complete Blueprint for Screen Capture Excellence with Adobe Captivity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-online-sessions-with-essential-zoom-transformations/"><u>[Updated] Revolutionize Online Sessions with Essential Zoom Transformations</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>[Updated] Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-display-on-a-budget-discovering-the-most-affordable-high-quality-laptop-screen-zdnet/"><u>Exceptional Display on a Budget: Discovering the Most Affordable High-Quality Laptop Screen | ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-g54-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola G54 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y02t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y02T Face Lock?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-imagecaptor-3000-windowsmacs-ultimate-choice/"><u>In 2024, ImageCaptor 3000 Windows/Mac's Ultimate Choice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-choice-of-digital-journals-thoroughly-vetted-products-for-your-consideration-zdnets-analyst-review/"><u>Ultimate Choice of Digital Journals: Thoroughly Vetted Products for Your Consideration | ZDNET's Analyst Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-non-ipad-non-thinkpad-tablets-for-seamless-business-trips-recommendations-by-zdnet/"><u>Unveiling Top Non-iPad, Non-ThinkPad Tablets for Seamless Business Trips - Recommendations by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-picks-a-curated-list-of-the-12-most-innovative-and-ideal-gifts-for-tech-savvy-enthusiasts-hackers/"><u>ZDNet Picks: A Curated List of the 12 Most Innovative and Ideal Gifts for Tech-Savvy Enthusiasts (Hackers)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-step-by-step-enhancing-clarity-in-google-meet-calls-for-2024/"><u>[New] Step-by-Step Enhancing Clarity in Google Meet Calls for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-troubleshooting-steps-for-windows-10-photos-freeze/"><u>[New] Troubleshooting Steps for Windows 10 Photos Freeze</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hands-on-experience-with-honor-magicbook-14-a-reliable-and-cost-effective-14-inch-device-for-work-and-play/"><u>Hands-On Experience with Honor MagicBook 14: A Reliable and Cost-Effective 14-Inch Device for Work and Play</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-hp-laptop-wireless-mouse-and-access-to-microsoft-productivity-tools-for-just-400-techsavvy-deals-at-zdnet/"><u>High-Performance HP Laptop, Wireless Mouse & Access to Microsoft Productivity Tools for Just $400 | TechSavvy Deals at ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gentle-volume-easing-methods-for-mixers/"><u>In 2024, Gentle Volume Easing Methods for Mixers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y36i-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y36i to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x-flip-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X Flip</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-viral-loop-creations-instagrams-boomerang-guide/"><u>In 2024, Viral Loop Creations Instagram's Boomerang Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-mobile-connectivity-why-i-cant-live-without-this-wireless-usb-c-charger-for-on-the-go/"><u>Mastering Your Mobile Connectivity: Why I Can't Live Without This Wireless USB-C Charger for On-The-Go!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-unavailable-windows-updates-in-windows/"><u>Restoring Unavailable Windows Updates in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-multi-tasking-can-lenovos-yoga-book-9i-set-a-new-standard-for-dual-display-devices-zdnet-insights/"><u>The Future of Multi-Tasking: Can Lenovo's Yoga Book 9I Set a New Standard for Dual-Display Devices? | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astronomes-blueprint-filming-feasts-for-2024/"><u>The Gastronome’s Blueprint Filming Feasts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-affordable-lenovo-laptops-perfect-for-remote-and-office-work-at-a-steal-save-1000/"><u>Top Pick: Affordable Lenovo Laptops Perfect for Remote & Office Work at a Steal - Save $1,000</u></a></li>
 </ul></div>
 

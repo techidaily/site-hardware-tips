@@ -1,7 +1,7 @@
 ---
 title: "Score a Steal with Refurbished MacBook Air: Save up to 80%% Off the Latest 13.3 Models – Exclusive Deals on ZDNET!"
-date: 2024-11-01T16:11:08.071Z
-updated: 2024-11-07T16:14:13.727Z
+date: 2024-11-13T16:01:41.830Z
+updated: 2024-11-17T21:12:49.145Z
 tags:
   - laptops
 categories:
@@ -27,16 +27,10 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -112,10 +106,10 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -154,17 +148,22 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>[New] Exclusive Perk DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-cartooncast-comprehensive-24-guidebook/"><u>[New] In 2024, CartoonCast Comprehensive '24 Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716069775463-updated-2024-approved-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010/"><u>[Updated] 2024 Approved Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10).</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-cyberpunk-2077s-pc-freeze-issues-a-comprehensive-guide/"><u>Fixing Cyberpunk 2077'S PC Freeze Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-s23-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy S23 Ultra Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-x9b-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor X9b FRP Locks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic 6 Pro</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-professionals-path-expert-strategies-for-360-youtube-live-broadcasting/"><u>The Professional's Path Expert Strategies for 360° Youtube Live Broadcasting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-inkjet-printers-of-2024-discover-your-ideal-printing-companion-techadvisor/"><u>Top-Ranking Inkjet Printers of 2024: Discover Your Ideal Printing Companion | TechAdvisor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-professionals-techinsights/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Professionals | TechInsights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/updating-your-apple-studio-displays-firmware-made-easy-step-by-step-guide/"><u>Updating Your Apple Studio Display's Firmware Made Easy - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-analysis-of-the-neato-d10-automatic-upright-vacuum-review/"><u>ZDNet's Comprehensive Analysis of the Neato D10 Automatic Upright Vacuum Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-5-best-slow-motion-cameras/"><u>[New] 5 Best Slow Motion Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-avoiding-career-pitfalls-in-graphic-artistry/"><u>[New] Avoiding Career Pitfalls in Graphic Artistry</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-expert-techniques-to-upload-strikingly-good-content-on-tiktok-via-mac-and-windows-for-2024/"><u>[New] Expert Techniques to Upload Strikingly Good Content on TikTok via Mac and Windows for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>[New] In 2024, Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-flying-rivals-dji-drone-vs-gopro/"><u>2024 Approved High-Flying Rivals DJI Drone vs GoPro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adonit-nest-usb-hub-price-slashed-your-essential-wfh-tool-at-just-65-find-out-how/"><u>Adonit Nest USB Hub Price Slashed: Your Essential WFH Tool at Just $65 - Find Out How!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-lost-in-sound-with-gamings-best-speaker-system-now-at-a-discounted-price-read-more-in-zdnets-review/"><u>Get Lost in Sound with Gaming's Best Speaker System Now At A Discounted Price! Read More In ZDNET's Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-f54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy F54 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-science-of-youtube-success-perfect-thumbnails/"><u>In 2024, The Science of YouTube Success Perfect Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/monitor-at-best-buy-for-prime-day-insider-tips/"><u>Monitor at Best Buy for Prime Day Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/securely-erase-sensitive-information-from-your-windows-pc-a-step-by-step-guide-to-protecting-privacy-without-cost-insights/"><u>Securely Erase Sensitive Information From Your Windows PC: A Step-by-Step Guide to Protecting Privacy Without Cost - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seize-unbeatable-gaming-deals-in-october-24-last-chance-for-huge-savings-up-to-1000-exclusive-listing/"><u>Seize Unbeatable Gaming Deals in October '24: Last Chance for Huge Savings up to $1,000 Exclusive Listing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-costs-snag-the-high-end-acer-porsche-design-laptop-for-only-600-thats-200-off-find-more-details-at-zdnet/"><u>Slash Your Costs: Snag the High-End Acer Porsche Design Laptop for Only $600 - That's $200 Off! Find More Details at ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-usb-device-constantly-drops-connection/"><u>Solving the Issue: Why Your USB Device Constantly Drops Connection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-october-2024-prime-gaming-offers-you-cant-miss-find-them-here/"><u>Top October 2024 Prime Gaming Offers You Can't Miss - Find Them Here!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-10-prime-video-communication-apps-on-smartphones/"><u>Ultimate Guide 10 Prime Video Communication Apps on Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-apple-m3-macbook-air-top-3-impressive-features-revealed-techinsights/"><u>Unboxing the Apple M3 MacBook Air: Top 3 Impressive Features Revealed | TechInsights</u></a></li>
 </ul></div>
 

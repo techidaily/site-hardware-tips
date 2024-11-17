@@ -1,7 +1,7 @@
 ---
 title: "Experience the Upgraded Lenovo ThinkPad 2-in-1: A Game-Changer in Durability and Speed for IT Pros | Gadget Zone"
-date: 2024-11-02T16:21:55.455Z
-updated: 2024-11-07T16:16:10.218Z
+date: 2024-11-10T20:58:38.260Z
+updated: 2024-11-17T17:55:18.282Z
 tags:
   - laptops
 categories:
@@ -40,13 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -60,6 +53,19 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C46c4a23a-e363-4547-b075-3e302f59ee07%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,10 +88,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -109,10 +115,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -135,6 +141,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -144,13 +157,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,18 +196,19 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-explore-best-asmr-apps-both-sides-of-the-os/"><u>[New] 2024 Approved Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-non-gaming-screen-capture-apps-worth-your-time-for-2024/"><u>[New] Non-Gaming Screen Capture Apps Worth Your Time for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac-for-2024/"><u>[New] Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>[Updated] Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-videography-guide-size-matters/"><u>[Updated] In 2024, Instagram Videography Guide - Size Matters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-simplify-curating-create-a-flawless-youtube-playlist-today/"><u>2024 Approved Simplify Curating Create a Flawless YouTube Playlist Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chrome-invasion-how-bedbugs-are-bugging-student-laptops-again-uncover-the-truth/"><u>Chrome Invasion: How Bedbugs Are Bugging Student Laptops Again - Uncover the Truth</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-get-your-hands-on-a-discounted-8tb-samsung-t5-ssd-during-amazon-october-prime-day/"><u>Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impact-of-crop-residue-on-soil-microbial-composition-and-activity-after-harvest/"><u>Impact of Crop Residue on Soil Microbial Composition and Activity After Harvest</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-achieving-flawless-audio-to-text-translation-using-google/"><u>In 2024, Achieving Flawless Audio to Text Translation Using Google</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-hosting-services-for-online-storage-and-sharing/"><u>New Best Free Video Hosting Services for Online Storage and Sharing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pixelated-panoramas-instaslideshow-for-2024/"><u>Pixelated Panoramas InstaSlideShow for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-performing-ultraportable-laptop-ideal-for-remote-professionals-a-review/"><u>Top-Performing Ultraportable Laptop Ideal for Remote Professionals - A Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hacking-twitters-humor-for-personal-use-on-pc/"><u>[New] In 2024, Hacking Twitter's Humor for Personal Use on PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-deciphering-facebooks-forgotten-features-a-cross-platform-manual/"><u>[Updated] In 2024, Deciphering Facebook's Forgotten Features A Cross-Platform Manual</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-30-camcorders-eye-level-display-advantage/"><u>[Updated] In 2024, Top 30 Camcorders - Eye-Level Display Advantage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>2024 Approved Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-unmissable-anti-prime-day-bargain-get-your-hands-on-the-hp-victus-15-gaming-laptop-for-a-low-515-spotted-by-zdnet/"><u>Best Buy's Unmissable Anti-Prime Day Bargain: Get Your Hands on the HP Victus 15 Gaming Laptop for a Low $515 - Spotted by ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-insight-into-sierras-icloud-file-management-for-2024/"><u>Complete Insight Into Sierra’s iCloud File Management for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-s23-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy S23?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor 90 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oadmap-to-establishing-your-unique-flair-for-2024/"><u>The Roadmap to Establishing Your Unique Flair for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-pc-manufacturers-revolutionize-gaming-on-chromebooks-insights-from-zdnet/"><u>Top 3 PC Manufacturers Revolutionize Gaming on Chromebooks - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-98-cyber-monday-sales-and-discounts-of-2022-exclusive-picks-by-zdnet/"><u>Top 98 Cyber Monday Sales & Discounts of 2022 - Exclusive Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-laptop-for-video-editors-thoroughly-tested-ratings-from-experts/"><u>Ultimate Guide to Choosing the Perfect Laptop for Video Editors: Thoroughly Tested Ratings From Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-dual-purpose-power-of-lenovos-convertible-windows-laptopandroid-tablet-expert-review-on-zdnet/"><u>Unleashing the Dual-Purpose Power of Lenovo's Convertible Windows Laptop/Android Tablet - Expert Review on ZDNet</u></a></li>
 </ul></div>
 

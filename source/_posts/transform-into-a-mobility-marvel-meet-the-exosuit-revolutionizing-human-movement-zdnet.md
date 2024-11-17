@@ -1,7 +1,7 @@
 ---
 title: "Transform Into a Mobility Marvel: Meet the ExoSuit Revolutionizing Human Movement - ZDNet"
-date: 2024-09-19 23:33:46
-updated: 2024-09-20 11:12:55
+date: 2024-11-12T16:02:45.008Z
+updated: 2024-11-17T19:09:30.901Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook/"><u>[New] 2024 Approved Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-video-edits-is-inshot-top-choice/"><u>[New] In 2024, Exploring Video Edits Is InShot Top Choice?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-the-potential-of-valorant-thumbnails-for-online-success/"><u>[Updated] 2024 Approved Unlocking the Potential of Valorant Thumbnails for Online Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-synchronized-sound-and-picture-zone-online/"><u>[Updated] Synchronized Sound & Picture Zone Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rated-shot-recording-gear-for-the-hunter/"><u>2024 Approved Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-105-classic-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia 105 Classic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-a35-deals-on-amazon-grab-your-free-earbuds-with-every-purchase-gizmodo/"><u>Samsung Galaxy A35 Deals on Amazon: Grab Your Free Earbuds with Every Purchase! | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-tcls-cleared-out-65-offer-the-last-chance-to-grab-a-premium-4k-qled-tv-and-earn-savings-of-300/"><u>Save Big with TCL's Cleared Out 65 OFFER! - The Last Chance to Grab a Premium 4K QLED TV & Earn Savings of $300!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-by-over-50-on-amazons-fire-hd-8-plus-exclusive-trade-in-offer-techdeals/"><u>Slash Prices by Over 50% on Amazon's Fire HD 8 Plus - Exclusive Trade-In Offer | TechDeals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-top-non-samsung-non-lg-qled-tvs-that-surpassed-my-expectations-tech-reviews/"><u>The Top Non-Samsung, Non-LG QLED TVs That Surpassed My Expectations | Tech Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-3gp-video-cutter-tutorial-2023-edition/"><u>The Ultimate 3GP Video Cutter Tutorial 2023 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-lenovo-thinkphone-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Lenovo ThinkPhone without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-resources-stuck-in-usage-on-windows-11-systems/"><u>Unlocking Resources Stuck in Usage on Windows 11 Systems</u></a></li>
+</ul></div>
+

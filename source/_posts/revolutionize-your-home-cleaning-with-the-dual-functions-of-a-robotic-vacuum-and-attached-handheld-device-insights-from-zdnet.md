@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Home Cleaning with the Dual Functions of a Robotic Vacuum & Attached Handheld Device | Insights From ZDNet
-date: 2024-09-19 17:55:31
-updated: 2024-09-20 11:18:37
+date: 2024-11-11T17:02:11.890Z
+updated: 2024-11-17T16:07:42.291Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-the-art-of-earnings-facebooks-blue-icon-badge-for-2024/"><u>[New] Mastering the Art of Earnings Facebook’s Blue Icon Badge for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-reading-devices-battle-choosing-between-ipad-kindle-or-nook-for-e-book-enthusiasts/"><u>Best Reading Devices Battle: Choosing Between iPad, Kindle, or Nook for E-Book Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enrich-your-status-with-harmony-notes/"><u>Enrich Your Status with Harmony Notes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-steadicams-to-amplify-your-dslr-cinematic-impact/"><u>Ideal Steadicams to Amplify Your DSLR Cinematic Impact</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-mix-adding-cropping-and-adjusting-audio-in-canva/"><u>In 2024, Mastering the Mix Adding, Cropping & Adjusting Audio in Canva</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a38-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A38 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-new-horizons-in-health-with-chatgpts-insights/"><u>Navigating New Horizons in Health with ChatGPT's Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainability-and-savvy-cleaning-the-secrets-to-extending-your-cordless-vacuums-life-span-as-explained-by-zdnet-experts/"><u>Sustainability & Savvy Cleaning: The Secrets to Extending Your Cordless Vacuum's Life Span, as Explained by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustaining-our-future-with-green-technology-key-challenges-and-prospects-ahead-expert-analysis-by-zdnet/"><u>Sustaining Our Future with Green Technology: Key Challenges and Prospects Ahead | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-longevity-blueprint-for-reworking-cordless-vacuums-insights-and-takeaways-explored-by-zdnet/"><u>The Longevity Blueprint for Reworking Cordless Vacuums: Insights and Takeaways | Explored by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-lanterns-reviews-and-buying-guide-techradar/"><u>Top 5 Solar-Powered Lanterns - Reviews and Buying Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-practices-to-slash-energy-bills-and-go-green-insights-from-zdnet/"><u>Top 6 Eco-Friendly Tech Practices to Slash Energy Bills and Go Green: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-expert-picks-zdnet/"><u>Top-Rated Portable Solar Power Banks : Expert Picks - ZDNET</u></a></li>
+</ul></div>
+

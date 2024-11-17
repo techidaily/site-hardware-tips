@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Home Hygiene Achieved with the Multifaceted Roborock S8 Pro Vacuum/Mop: An In-Depth ZDNET Assessment"
-date: 2024-09-19 18:46:45
-updated: 2024-09-20 12:39:37
+date: 2024-11-13T21:42:45.813Z
+updated: 2024-11-17T18:42:27.300Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption-for-2024/"><u>[Updated] A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-soundscapes-in-hd-techniques-for-precision-recording/"><u>2024 Approved Soundscapes in HD Techniques for Precision Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highest-humor-infused-cut-and-paste/"><u>Highest Humor-Infused Cut & Paste</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-13-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 13 mini Space | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-up-to-50-discount-on-amazons-4tb-samsung-portable-ssd-shop-before-labor-day/"><u>Huge Savings Alert: Up to 50% Discount on Amazon's 4TB Samsung Portable SSD - Shop Before Labor Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-mothers-day-present-the-new-beginner-kindle-paperwhite-a-smart-choice-according-to-zdnet/"><u>Ideal Mother’s Day Present: The New Beginner Kindle Paperwhite - A Smart Choice According to ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-mmock-1000a-car-jump-starter-with-high-capacity-18000mah-battery-unveiled/"><u>In-Depth Review: MMOCK 1000A Car Jump Starter with High Capacity 18000mAh Battery Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-zdnet-the-rigorous-process-of-assessing-modern-tablets/"><u>Inside ZDNet: The Rigorous Process of Assessing Modern Tablets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-evolution-with-os-version-162-mastering-stage-managers-new-external-monitor-functionality-gadgetguru-insights/"><u>IPad Pro Evolution with OS Version 16.2: Mastering Stage Manager's New External Monitor Functionality | GadgetGuru Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-efficiency-in-your-remote-job-the-ultimate-guide-to-powering-up-with-an-ipad-pro-advice-by-zdnet/"><u>Maximizing Efficiency in Your Remote Job: The Ultimate Guide to Powering Up with an iPad Pro - Advice by ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavimpeg-swf/"><u>Movaviと一緒に、ストリーミングMPEG SWF変更サービス - 今すぐ始めよう!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-tablet-for-children-surpasses-ipad-and-goes-on-discount-discover-how/"><u>Next-Gen Tablet for Children Surpasses iPad & Goes On Discount – Discover How!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-guide-to-choosing-a-surface-pro-n8-comprehensive-zdnet-review-and-recommendations/"><u>Professional's Guide to Choosing a Surface Pro N8: Comprehensive ZDNet Review & Recommendations</u></a></li>
+</ul></div>
+

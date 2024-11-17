@@ -1,7 +1,7 @@
 ---
 title: "Top October 2024 PC & Laptop Discounts: Unbeatable Savings Ahead of Black Friday | TechRadar"
-date: 2024-11-04T16:21:24.291Z
-updated: 2024-11-07T16:05:02.420Z
+date: 2024-11-12T18:00:49.264Z
+updated: 2024-11-17T20:29:05.198Z
 tags:
   - laptops
 categories:
@@ -86,10 +86,10 @@ Dell/ZDNET
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb52b4b10-5833-46df-914c-a5ef75950f04%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
@@ -130,24 +130,31 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -164,13 +171,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,24 +238,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-clashing-kings-the-top-battle-royale-games/"><u>[New] Clashing Kings The Top Battle Royale Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-maximizing-your-virtual-experience-use-of-snap-functions-in-meet/"><u>[New] Maximizing Your Virtual Experience Use of Snap Functions in Meet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-facebook-integration-sharing-youtube-vids-with-ease-for-2024/"><u>[Updated] Unlocking Facebook Integration Sharing YouTube Vids with Ease for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buys-hottest-bargains-in-june-202n-uncover-the-ultimate-discounts-zdnet-deals-roundup/"><u>Best Buy's Hottest Bargains in June 202N: Uncover the Ultimate Discounts | ZDnet Deals Roundup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-gopro-editing-tools-top-10-picks-for-windows-and-macos-users/"><u>Best GoPro Editing Tools: Top 10 Picks for Windows & macOS Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-quickly-fix-the-non-starting-display-driver-issue-in-windows-11/"><u>How to Quickly Fix the Non-Starting Display Driver Issue in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-laptop-now-at-520-a-steal-with-almost-40-discount-read-more-on-zdnet/"><u>HP Victus 15L Laptop Now at $520: A Steal with Almost 40% Discount - Read More on ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-magic-6-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Magic 6 Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-experts-handbook-for-srt-file-conversions/"><u>In 2024, The Expert's Handbook for SRT File Conversions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-guide-expanding-your-raspberry-pi-model-b-pi-5-with-m2-devices-tips-and-tricks/"><u>Quick Guide: Expanding Your Raspberry Pi Model B (Pi 5) with M.2 Devices - Tips & Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-220-limited-time-offer-on-rtx-3070-upgrades-from-zdnet-shop-now/"><u>Save $220: Limited Time Offer on RTX 3070 Upgrades From ZDNet - Shop Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/saving-smart-with-surface-pro-how-i-chose-the-most-economical-option-without-compromises-gizmogeek-blog/"><u>Saving Smart with Surface Pro - How I Chose the Most Economical Option Without Compromises | GizmoGeek Blog</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-hp-beats-audio-issues-across-various-windows-versions-your-ultimate-fix/"><u>Solving HP Beats Audio Issues Across Various Windows Versions - Your Ultimate Fix</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-v-purse-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor V Purse</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-professional-reviews-and-ratings-by-zdnet/"><u>Top-Rated Gaming Headsets : Professional Reviews and Ratings by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-budget-gaming-machine-with-starfield-graphics-building-a-powerful-pc-under-1200/"><u>Ultimate Budget Gaming Machine with Starfield Graphics: Building a Powerful PC Under $1,200</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-2024s-high-performance-gaming-desktops-in-depth-test-results-digital-trends/"><u>Ultimate List of 2024'S High-Performance Gaming Desktops: In-Depth Test Results | Digital Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-microsofts-policy-will-windows-11-updates-continue-on-non-compatible-devices-zdnet/"><u>Understanding Microsoft’s Policy: Will Windows 11 Updates Continue on Non-Compatible Devices? | ZDNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlined-methods-for-documenting-overwatch-engagements/"><u>[New] 2024 Approved Streamlined Methods for Documenting Overwatch Engagements</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-kung-fu-games-just-like-sifu/"><u>[Updated] Top 5 Kung Fu Games Just Like Sifu</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-sync-link-insta-and-tiktok-with-ease/"><u>2024 Approved Seamless Sync Link Insta & TikTok with Ease</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 6s</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-windows-11-pointer-more-visible-and-tactile/"><u>Making Your Windows 11 Pointer More Visible and Tactile</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-easy-way-to-unpin-conversations-from-your-facebook-page/"><u>The Easy Way to Unpin Conversations From Your Facebook Page</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-go-anywhere-tp-link-travel-router-stylish-and-powerful-wi-fi-companion/"><u>The Go-Anywhere TP-Link Travel Router: Stylish and Powerful Wi-Fi Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-legislative-process-allows-for-extensive-debate-ensuring-multiple-perspectives-are-considered-before-passing-laws/"><u>The Legislative Process Allows for Extensive Debate, Ensuring Multiple Perspectives Are Considered Before Passing Laws.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-misplacing-your-streaming-device-discover-the-ultimate-solution-for-roku-devotees-exclusive-update-from-zdnet/"><u>Tired of Misplacing Your Streaming Device? Discover the Ultimate Solution For Roku Devotees - Exclusive Update From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-55-television-models-recommended-by-zdnet/"><u>Top 5 Premium 55 Television Models - Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-gaming-displays-the-ultimate-picks-techradar/"><u>Top Budget-Friendly Gaming Displays - The Ultimate Picks | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-films-and-tv-series-worth-watching-in-march-2023-expert-picks-from-zdnet/"><u>Top Films & TV Series Worth Watching in March 2023 - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-samsung-non-lg-qled-tv-reviews-discovering-excellence-in-innovation/"><u>Top Non-Samsung, Non-LG QLED TV Reviews: Discovering Excellence in Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-reviews-on-the-ideal-32-television-models-guide-by-zdnet/"><u>Top Picks: Expert Reviews on the Ideal 32 Television Models - Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-guide-to-the-most-exceptional-50-inch-tvs-our-experts-selection/"><u>Top Picks: The Ultimate Guide to the Most Exceptional 50-Inch TVs - Our Experts' Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-ultimate-guide-to-the-finest-70-tvs-features-and-reviews/"><u>Top Picks: Ultimate Guide to the Finest 70 TVs - Features and Reviews</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-days-gone-game-crashes/"><u>Ultimate Guide: Resolving 'Days Gone' Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-repairing-error-code-0x80004005-expert-advice-for-swift-resolution/"><u>Understanding & Repairing Error Code 0X80004005: Expert Advice for Swift Resolution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Guide to Irresistible Seasonal Bargains: The Top 11 Finds for Holiday Impulse Buys | ZDNet"
-date: 2024-09-18 15:27:13
-updated: 2024-09-20 12:58:12
+date: 2024-11-12T17:06:05.541Z
+updated: 2024-11-17T17:18:20.586Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-your-videography-with-top-instagram-techniques/"><u>[New] 2024 Approved Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-elevating-video-reach-the-role-of-smart-backlinking-techniques/"><u>[New] In 2024, Elevating Video Reach The Role of Smart Backlinking Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-social-surge-amass-1k-on-ig-each-month-for-a-million-dream/"><u>[New] In 2024, The Ultimate Social Surge Amass 1K on IG Each Month for a Million Dream</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-latest-airpods-pro-4-with-cutting-edge-find-my-speaker-and-usb-c-compatibility-tech-news/"><u>Discover the Latest: AirPods Pro 4 with Cutting-Edge Find My Speaker & USB-C Compatibility | Tech News</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-cyberpunk-2077-response-delay-solutions-and-tips/"><u>Fixing the Cyberpunk 2077 Response Delay: Solutions and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proof-tech-unveiled-the-lasting-appeal-of-modular-android-compared-to-latest-iphones-and-pixels-with-a-twist-zdnet-insights/"><u>Future-Proof Tech Unveiled: The Lasting Appeal of Modular Android Compared to Latest iPhones and Pixels, With a Twist | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-discount-save-50-off-top-rated-weber-electric-grills-exclusive-offer-at-zdnet/"><u>Get a Discount: Save $50 Off Top-Rated Weber Electric Grills - Exclusive Offer at ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-fantastic-deal-save-50-when-you-buy-an-elite-weber-electric-grill-tips-from-zdnet/"><u>Get a Fantastic Deal: Save $50 When You Buy an Elite Weber Electric Grill - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harnessing-iot-for-environmental-monitoring-ibm-teams-with-the-nature-conservancy-in-india-spotlighted-by-zdnet/"><u>Harnessing IoT for Environmental Monitoring: IBM Teams with The Nature Conservancy in India, Spotlighted by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-your-grocery-experience-the-top-innovation-zdnet/"><u>How Artificial Intelligence Is Revolutionizing Your Grocery Experience: The Top Innovation | ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nubia-red-magic-9-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nubia Red Magic 9 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-x50i-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor X50i Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-suv-of-bikes-a-viable-alternative-to-your-car-find-out-how-it-could-transform-transportation/"><u>Is the 'SUV of Bikes' A Viable Alternative to Your Car? Find Out How It Could Transform Transportation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-zero-waste-living-with-lomi-compactor-a-detailed-appraisal-and-insider-reveal-zdnet/"><u>Mastering Zero-Waste Living with Lomi Compactor: A Detailed Appraisal and Insider Reveal | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-responsibly-assessing-the-ecological-cost-of-mobile-devices-and-how-to-minimize-it-zdnet/"><u>Navigating Tech Responsibly: Assessing the Ecological Cost of Mobile Devices & How to Minimize It | ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-the-world-of-gopro-and-time-lapse-shooting-for-2024/"><u>Navigating the World of GoPro and Time-Lapse Shooting for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-videos-the-top-10-editing-software-options-for-2024/"><u>Updated Elevate Your Videos The Top 10 Editing Software Options for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top Rated Smart Home Gadgets in 2
-date: 2024-09-19 18:52:29
-updated: 2024-09-20 11:21:31
+date: 2024-11-14T18:18:21.072Z
+updated: 2024-11-17T21:35:41.928Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-premium-recording-application-chromebook-focus/"><u>[New] 2024 Approved Premium Recording Application Chromebook Focus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>[Updated] 2024 Approved Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-highlight-the-next-chapter-of-our-podcast-series/"><u>2024 Approved Highlight the Next Chapter of Our Podcast Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-enhancements-in-dells-revamped-xps-series-style-meets-smart-technology-explore-how/"><u>AI Enhancements in Dell's Revamped XPS Series: Style Meets Smart Technology - Explore How</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s24plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S24+ Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marathon-ready-performance-meets-eye-candy-display-exploring-a-top-long-lasting-laptop-choice-zdnet-insights/"><u>Marathon-Ready Performance Meets Eye Candy Display: Exploring a Top Long-Lasting Laptop Choice | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-cyber-monday-snag-a-13-samsung-galaxy-book2-360-for-just-450-less-exclusive-offer/"><u>Massive Discount on Cyber Monday: Snag a 13 Samsung Galaxy Book2 360 for Just $450 Less! Exclusive Offer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land-on-th/"><u>New In 2024, Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/savings-alert-secure-a-stellar-deal-on-the-8tb-samsung-t5-ssd-post-prime-day-up-to-36-off-see-it-now-on-amazon-tech-insights/"><u>Savings Alert: Secure a Stellar Deal on the 8TB Samsung T5 SSD Post-Prime Day - Up to 36% Off! See It Now on Amazon | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-16-best-value-hp-laptops-and-desktops-for-the-festive-season-insights-from-zdnet/"><u>Top 16 Best-Value HP Laptops and Desktops for the Festive Season - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-text-animation-made-easy-top-mobile-video-editing-apps-for-2024/"><u>Updated Text Animation Made Easy Top Mobile Video Editing Apps for 2024</u></a></li>
+</ul></div>
+

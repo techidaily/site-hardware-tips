@@ -1,7 +1,7 @@
 ---
 title: ZDNET's Take on Brydge SP Max Plus – A Durable Keyboard Cover Tailored for the Newest Surface Pro Amoled Device
-date: 2024-11-01T16:00:54.361Z
-updated: 2024-11-07T16:07:00.048Z
+date: 2024-11-13T17:50:10.938Z
+updated: 2024-11-17T17:36:03.666Z
 tags:
   - laptops
 categories:
@@ -52,13 +52,6 @@ In my testing with high-end creative apps and AI workloads, these new laptops ar
 
 However, just because you've had a MacBook Pro in the past doesn't necessarily mean it's the best choice now. Unless you are doing high-end graphics or creative work, software development, or various types of engineering, the [M3 MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/) is every bit as durable, reliable, and professional as the previous MacBook Pros, and they are lighter, more portable and easier on your budget. Additionally, for the vast majority of people and enterprises, the [15-inch M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-space-gray-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is still a solid choice for a Mac laptop. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor    | 8-core CPU, 11-core CPU, 12-core CPU, 14-core CPU                                                                                                                         |
@@ -92,13 +85,6 @@ Here's the Space Black MacBook Pro (M3 Max) in a fully lit room and in compariso
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best features of MacBook Pro (M3 Max)?
 
 When Apple released the first Apple silicon-powered Mac laptops three years ago, even the industry pundits who had the most confidence in Apple were nervous about whether the company's in-house ARM chips could truly replace Intel and power a high-end computer. Even though Apple's chips had clearly given a huge performance boost to iPhones and iPads, all of the industry's previous attempts to use ARM chips for Windows computers had either failed or been massively underwhelming. 
@@ -127,11 +113,25 @@ Left to right: 13-inch MacBook Air (Midnight), 14-inch MacBook Pro (Space Black)
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## My real-world AI test, plus a Cinebench comparison
 
 To add data to my qualitative analysis of the MacBook Pro with M3 Max, I ran two sets of tests on four different machines (M2 MacBook Air, MacBook Pro with M1 Pro, Mac Studio with M2 Ultra, and MacBook Pro with M3 Max) to compare the results. First, I ran a standard [Cinebench](https://www.maxon.net/en/downloads/cinebench-2024-downloads) benchmark of the CPU and GPU. Second, I ran my own real-world test using the [AI Denoise feature in Adobe Lightroom](https://helpx.adobe.com/lightroom-cc/using/whats-new/2023-3.html#denoise). I picked this Lightroom feature because it's one that I use all the time to remove graininess from RAW photos taken with my 42-megapixel Sony a7R III camera. The feature works magic in smoothing out images, but it's also very taxing on the processor. 
 
 When I was at the Apple Event back in September, I only had the M2 MacBook Air with me, and I had to use the AI Denoise feature on about 25-30 photos. It really slowed me down, taking over a minute to process each one. So if the MacBook Pro (M3 Max) could do better in my tests, then I knew it could potentially save me a lot of time. So let's look at that test first.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Real-world AI test: Lightroom Denoise (lower is better)
 
@@ -186,10 +186,16 @@ The 14-inch MacBook Pro (M3 Max) in Space Black running a MacOS Sonoma wallpaper
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -205,16 +211,10 @@ In full light and next to the black iPhone 15 Plus, the true gray of the Space B
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -271,21 +271,18 @@ View at Bhphotovideo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[New] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>[New] Lullabies on a Screen Analysis of Story Tapes for Sleep</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/isdom-waves-prime-ed-channels-online-for-2024/"><u>[New] Wisdom Waves Prime Ed Channels Online for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unleashing-potential-learning-steams-switch-controller/"><u>[Updated] In 2024, Unleashing Potential Learning Steam's Switch Controller</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-secure-and-simple-step-by-step-for-google-meet-recordings/"><u>[Updated] Secure and Simple Step-by-Step for Google Meet Recordings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-photo-editing-with-snapseed/"><u>2024 Approved Master the Art of Photo Editing with Snapseed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-boost-for-apple-macbooks-and-desktops-on-the-horizon-with-new-m4-chips-release-timeline-uncovered-tech-news-digest/"><u>AI Boost for Apple MacBooks and Desktops on the Horizon with New M4 Chips; Release Timeline Uncovered | Tech News Digest</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-cyber-monday-offer-on-lenovo-chromebooks-for-just-79-dont-miss-out-limited-stock-available-insider-tips/"><u>Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available Insider Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extensive-overview-the-google-podcast-experience-for-2024/"><u>Extensive Overview The Google Podcast Experience for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-metas-exceptional-512gb-quest-3-offer-top-virtual-reality-bargain-today/"><u>Get Meta's Exceptional 512GB Quest 3 Offer - Top Virtual Reality Bargain Today !</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-productivity-how-lenovos-innovative-dual-screen-laptop-enhanced-my-efficiency-zdnet-insights/"><u>Revolutionizing Productivity: How Lenovo's Innovative Dual-Screen Laptop Enhanced My Efficiency | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-lenovo-notebooks-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Lenovo Notebooks : Comprehensive Analysis by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-linux-os-options-for-newcomers-comprehensive-guide-by-seasoned-experts-insights/"><u>Top-Rated Linux OS Options for Newcomers: Comprehensive Guide by Seasoned Experts - Insights</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-6-plus-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6 Plus by restoring it to default settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-peak-performance-while-working-from-home-with-hps-copilotplus-laptop-proven-results-by-zdnet/"><u>Unlocking Peak Performance While Working From Home with HP's Copilot+ Laptop | Proven Results by ZDNET</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574163521-windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[Updated] 2024 Approved No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-comprehensive-list-of-vocal-alteration-apps/"><u>[Updated] The Comprehensive List of Vocal Alteration Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-close-up-views-on-google-meet/"><u>2024 Approved Optimizing Close-Up Views on Google Meet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-gamer-notebooks-ranked-in-depth-review-of-razer-acer-msi-and-beyond-by-tech-experts-at-zdnet/"><u>2024'S Elite Gamer Notebooks Ranked: In-Depth Review of Razer, Acer, MSI and Beyond by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-apple-m3-macbook-pro-now-at-a-200-discount-in-amazons-spectacular-spring-clearance-event-tech-news/"><u>Discover the Apple M3 MacBook Pro Now at a $200 Discount in Amazon’s Spectacular Spring Clearance Event - Tech News</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-contrast-how-is-nlp-unique-from-ml-techniques/"><u>Exploring the Contrast: How Is NLP Unique From ML Techniques?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x8b-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X8b to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/on-the-go-charging-solutions-one-small-car-adapter-powers-your-laptop-tablet-and-smartphone-zdnet/"><u>On-The-Go Charging Solutions: One Small Car Adapter Powers Your Laptop, Tablet & Smartphone | ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlined-approaches-to-documenting-whatsapp-discussions-for-2024/"><u>Streamlined Approaches to Documenting WhatsApp Discussions for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-vpn-providers-comprehensive-expert-reviews-techradar/"><u>Top-Ranking VPN Providers - Comprehensive Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-all-in-one-device-with-a-hidden-gem-perfect-for-your-workspace-discovered/"><u>Top-Rated All-in-One Device with a Hidden Gem Perfect for Your Workspace - Discovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-a-dual-function-fast-charger-with-usb-and-hdmi-hub-capabilities/"><u>ZDNet Reveals: A Dual-Function Fast Charger with USB & HDMI Hub Capabilities</u></a></li>
 </ul></div>
 

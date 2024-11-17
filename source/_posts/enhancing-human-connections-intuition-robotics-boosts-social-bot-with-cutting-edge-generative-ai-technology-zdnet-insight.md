@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Human Connections: Intuition Robotics Boosts Social Bot with Cutting-Edge Generative AI Technology - ZDNet Insight"
-date: 2024-09-19 21:50:18
-updated: 2024-09-20 12:16:50
+date: 2024-11-14T21:00:17.912Z
+updated: 2024-11-17T18:47:12.370Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-photobooth-lags-steadying-the-playback-journey/"><u>[New] 2024 Approved Photobooth Lags Steadying the Playback Journey</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-yielding-yearly-yield-channel-to-currency-conversion/"><u>[New] 2024 Approved Yielding Yearly Yield Channel to Currency Conversion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-vids-dissecting-the-relevance-of-self-image-authenticity/"><u>[New] In 2024, Insta Vids Dissecting the Relevance of Self-Image Authenticity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-ultimate-list-5-social-networks-like-twitter/"><u>[Updated] Ultimate List 5 Social Networks Like Twitter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-easy-ways-to-capture-and-save-your-youtube-content/"><u>5 Easy Ways to Capture and Save Your YouTube Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-phantom-v-fold-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Phantom V Fold?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/selfie-showstoppers-adding-whimsy-with-the-cartoon-lens/"><u>Selfie Showstoppers Adding Whimsy with the Cartoon Lens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-compact-projector-picks-your-ultimate-guide-zdnet/"><u>Top 5 Compact Projector Picks : Your Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-samsung-non-lg-qled-television-reviews-discover-hidden-gems/"><u>Top Non-Samsung, Non-LG QLED Television Reviews: Discover Hidden Gems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-projector-models-expert-reviews-and-picks-techradar/"><u>Top Rated Portable Projector Models - Expert Reviews & Picks | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-mobile-projection-units-the-ultimate-guide-to-the-finest-models-zdnet/"><u>Top-Rated Mobile Projection Units: The Ultimate Guide to the Finest Models - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-projector-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Projector Models : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-old-tv-to-high-definition-wonderland-for-just-50-with-our-top-pick-of-4k-sticks-insights-from-zdnet/"><u>Transform Old TV to High-Definition Wonderland for Just $50 with Our Top Pick of 4K Sticks | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-premier-streaming-deals-for-the-festive-season-from-apple-music-to-amazon-discounts-zdnets-exclusive-insights/"><u>Ultimate List of Premier Streaming Deals for the Festive Season: From Apple Music to Amazon Discounts | ZDNET's Exclusive Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-buying-a-laser-engraver-is-a-smart-choice-5-compelling-reasons/"><u>Why Buying a Laser Engraver Is a Smart Choice: 5 Compelling Reasons</u></a></li>
+</ul></div>
+

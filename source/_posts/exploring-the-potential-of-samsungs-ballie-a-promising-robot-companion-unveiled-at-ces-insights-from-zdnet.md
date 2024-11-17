@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Potential of Samsung's Ballie: A Promising Robot Companion Unveiled at CES - Insights From ZDNet"
-date: 2024-09-17 22:47:22
-updated: 2024-09-20 10:46:15
+date: 2024-11-13T18:38:46.925Z
+updated: 2024-11-17T17:37:07.138Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steer-clear-of-virtual-reality-sickness/"><u>2024 Approved Steer Clear of Virtual Reality Sickness</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-advantages-of-steam-deck-for-gamers/"><u>Discovering the Advantages of Steam Deck for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-50-discount-off-top-rated-weber-electric-grill-exclusive-offer-inside/"><u>Get a $50 Discount Off Top-Rated Weber Electric Grill - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-a-fixable-cordless-vac-reflects-long-term-value-a-deep-dive-by-zdnet/"><u>How a Fixable Cordless Vac Reflects Long-Term Value: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-supermarket-experience-the-top-trend-techinsight/"><u>How Artificial Intelligence Is Revolutionizing the Supermarket Experience: The Top Trend | TechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-kept-all-household-devices-running-amidst-power-failures-a-real-life-account/"><u>How the EcoFlow Portable Battery Kept All Household Devices Running Amidst Power Failures: A Real-Life Account</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-ecoflow-portable-battery-saved-my-home-energy-needs-during-blackouts-a-review-by-zdnet/"><u>How the EcoFlow Portable Battery Saved My Home Energy Needs During Blackouts: A Review by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a34-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A34 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Ultra won’t play MKV movies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212232931-step-by-step-guide-to-resolving-mic-issues-with-your-laptop-now-fixed/"><u>Step-by-Step Guide to Resolving Mic Issues with Your Laptop - Now Fixed</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/verbesserung-der-hdd-leistung-auf-deinem-pc-mit-windows-11-effiziente-tipps-und-tricks/"><u>Verbesserung Der HDD-Leistung Auf Deinem PC Mit Windows 11: Effiziente Tipps Und Tricks</u></a></li>
+<li><a href="https://discover-great.techidaily.com/watermark-free-transformation-how-to-switch-from-mkv-to-avi-quickly-with-vlc-media-player/"><u>Watermark-Free Transformation: How to Switch From MKV to AVI Quickly with VLC Media Player</u></a></li>
+</ul></div>
+

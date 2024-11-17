@@ -1,7 +1,7 @@
 ---
 title: "Shark ION Robot Vacuum (AV751): Comprehensive Examination Reveals Superior Dust Suction but Questionable Pathfinding Abilities | Home Automation Central"
-date: 2024-09-17 17:12:40
-updated: 2024-09-20 12:57:55
+date: 2024-11-13T17:31:25.156Z
+updated: 2024-11-17T18:48:53.655Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-mini-drone-winners-market-analysis-guide-for-2024/"><u>[New] Mini Drone Winners Market Analysis Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-breaking-down-youtube-short-barriers/"><u>[Updated] In 2024, Breaking Down YouTube Short Barriers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailor-the-rhythm-of-youtube-videos-desktopmobile-way/"><u>[Updated] In 2024, Tailor the Rhythm of YouTube Videos - Desktop/Mobile Way</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovators-crafting-engaging-marvel-escapades/"><u>2024 Approved Innovators Crafting Engaging Marvel Escapades</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-save-tiktok-video-in-gallery-3-proven-ways-androidandiphone/"><u>How to Save TikTok Video in Gallery-3 Proven Ways [Android&iPhone]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discounts-up-to-66-off-amazons-fire-hd/"><u>Huge Discounts: Up to 66% Off Amazon's Fire HD</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-elite-qled-television-models-up-to-1000-off-for-labor-day-sale-gadgetpundit-review/"><u>Huge Savings on Elite QLED Television Models - Up to $1,000 Off for Labor Day Sale | GadgetPundit Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/implementing-exact-timestamp-features-for-youtube/"><u>Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-and-compact-zdnets-ultimate-guide-to-the-leading-projectors-of-2024/"><u>Innovative & Compact: ZDNet's Ultimate Guide to the Leading Projectors of 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-alert-save-big-on-amazons-fire-tablet-snag-one-for-only-50-with-our-trade-in-deal-insider-tips-from-zdnet/"><u>Labor Day Alert: Save Big on Amazon's Fire Tablet – Snag One for Only $50 with Our Trade-In Deal! Insider Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-exclusive-top-rated-qled-television-now-50-discounted-shop-smart-today/"><u>Labor Day Exclusive: Top-Rated QLED Television Now 50% Discounted - Shop Smart Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-price-drop-on-lg-c2-4k-oled-42-tv-save-500-now-at-just-800-tech-news-roundup/"><u>Massive Price Drop on LG C2 4K OLED 42 TV - Save $500, Now at Just $800 | Tech News Roundup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-professional-insights-on-selecting-your-ideal-32-television-this-year-zdnet/"><u>Navigating the Market: Professional Insights on Selecting Your Ideal 32 Television This Year | ZDNET</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-resources-for-clap-induced-acoustic-enhancements-for-2024/"><u>New Exploring Resources for Clap-Induced Acoustic Enhancements for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44gz44g544gm44gu44oh44oq44kk44k544gn5l244gi44klisdjg6jgqtjg6tjg7zjg4njg7vjgqjjg6zjg6hjg7pjg4tjg5djg4pjgqjgqljg4pjg5fjgr3jg5xjg4jjgihku4rjgznjgzdnhkhmlpnjg4d319/"><u>すべてのデバイスで使える! ワイヤード・エレメンツバックアップソフト、今すぐ無料ダウンロード!</u></a></li>
+</ul></div>
+

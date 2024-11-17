@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Pro 9 Unveiled: The Ultimate Challenge to Apple's MacBook for Windows Fans, According to ZDNet"
-date: 2024-11-03T16:04:36.099Z
-updated: 2024-11-07T16:21:46.679Z
+date: 2024-11-13T19:18:54.951Z
+updated: 2024-11-17T18:48:51.516Z
 tags:
   - laptops
 categories:
@@ -60,19 +60,6 @@ That said, I've been testing the 12th Gen Intel model (i7, 16GB RAM, 256GB), and
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## If it ain't broke...
 
 This year, no matter which configuration you buy, you'll be greeted with a familiar 3:2, 13-inch PixelSense Flow Display that's gilded with aluminum and brushed metal -- much like the [Surface Pro 8](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/). There are some very subtle differences like the volume rocker and power button being moved to the top of the Surface, and how the ventilation channels are now better situated, but generally speaking, if you liked the Surface Pro 8 design, you'll love the Pro 9\. 
@@ -110,10 +97,10 @@ My main call out here is the difference in USB-C technology. If you're planning 
 **Review: [Microsoft Surface Pro 8 for Business](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: Intel or Arm?
@@ -142,6 +129,19 @@ With the Arm-based model, the Surface Pro 9 gets a Neural Processing Unit (NPU) 
 
 **Also: [The best webcams for work and play](https://www.zdnet.com/article/best-webcam/)**
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery life
 
 Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only speak to its endurance numbers, though I fully expect the [SQ3 model](https://www.zdnet.com/article/arm-processors-everything-you-need-to-know-now/), with its more efficient operation, to be even more promising. From my near-week of use, I averaged six hours of battery life per charge on the Surface Pro 9\. Keep in mind that that's with 120Hz permanently on -- I'll admit, I'm one of those, "Once you go 120Hz, you can't go back" users -- and brightness set to about 65%. In my opinion, that's a solid B-tier as far as endurance numbers go.
@@ -149,10 +149,10 @@ Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only
 [Buy the Microsoft Surface Pro 9 $919 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1458165054&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -162,10 +162,10 @@ By now you may be wondering, "Is there anything wrong with the [Surface Pro 9](h
 That's not to say that the Surface Pro 9 is a bad product; it'll most definitely earn a spot in our [year-end rankings](https://www.zdnet.com/article/best-2-in-1-laptop/). I'm just finding it harder and harder to justify the tablet-laptop hybrid, especially when you factor in the cost of the [$279 keyboard and Slim Pen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Signature-Keyboard-Slim%2Fdp%2FB09DK21NK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C684e302d-9e69-4240-9a98-aaac2bbac955%7Cdtp&dtb=1) bundle, and the fact that most users eyeing this particular model will probably opt for, at least, 256GB of storage. That puts the [Surface Pro 9](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Pro-9%2F93VKD8NP4FVK) firmly in the $1,400 territory, where Apple's [M1 and M2-powered laptops dominate](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -206,19 +206,19 @@ That's not to say that the Surface Pro 9 is a bad product; it'll most definitely
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-10-audio-amplifiers-windows-mac-android-and-ios/"><u>[New] 2024 Approved Top 10 Audio Amplifiers Windows, Mac, Android & iOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-easy-and-fast-convert-youtube-music-into-mp3-mac-version/"><u>[New] In 2024, Easy & Fast Convert YouTube Music Into MP3, Mac Version</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-evaluating-superiority-gopros-max-and-hero-11-face-off/"><u>[New] In 2024, Evaluating Superiority GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-proven-strategies-safe-and-effective-tiktok-following-for-2024/"><u>[Updated] Proven Strategies Safe and Effective TikTok Following for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-yuva-2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Yuva 2 to Roku | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-pc-ready-save-220-on-the-latest-rtx-nvidia-geforce-3070-today-techradar/"><u>Get Your PC Ready: Save $220 on the Latest RTX nVidia GeForce 3070 Today! | TechRadar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-xiaomi-14-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Xiaomi 14 Ultra Phone When You Forget the Password</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-nacon-revolution-x-pro-controller-a-comprehensive-gaming-pad-evaluation-review-2022/"><u>In-Depth Analysis: Nacon Revolution X Pro Controller - A Comprehensive Gaming Pad Evaluation (Review) 2022</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-cost-reduction-boost-savings-beyond-half-a-grand-each-month-with-proven-tips-zdnet/"><u>Mastering Cost Reduction: Boost Savings Beyond Half a Grand Each Month with Proven Tips | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-fixes-to-boost-performance-on-aging-windows-11-and-mac-devices-tips-from-zdnet/"><u>Quick Fixes to Boost Performance on Aging Windows 11 & Mac Devices – Tips From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/razer-synapse-opening-problem-solved-tips-for-users-experiencing-difficulties/"><u>Razer Synapse Opening Problem Solved: Tips for Users Experiencing Difficulties</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-exclusive-deal-purchase-an-rtx-3070-now-for-a-whopping-220-off-at-zdnets-recommended-retailer/"><u>Secure Your Exclusive Deal: Purchase an RTX 3070 Now for a Whopping $220 Off at ZDNet's Recommended Retailer!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/walmarts-must-have-discounts-for-july-2n-2024-uncovered-by-zdnet-experts/"><u>Walmart's Must-Have Discounts for July 2N, 2024 – Uncovered by ZDNet Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-a-memorable-podcast-name-from-brainstorming-to-execution/"><u>[New] How To Create a Memorable Podcast Name From Brainstorming to Execution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ideo-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>[New] Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-all-you-need-to-know-about-the-youtube-shorts-fund-for-2024/"><u>[Updated] All You Need to Know About the YouTube Shorts Fund for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-8-photo-montage-synthesizer-online/"><u>[Updated] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-docooler-usb-20-camera-with-12mp-sensor-an-unbelievably-high-quality-product/"><u>Expert Analysis of the Docooler USB 2.0 Camera with 12MP Sensor: An Unbelievably High-Quality Product</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-in-depth-comparison-of-lg-g3-and-samsung-s-cuisine-s95c-for-cutting-edge-viewing-smart-home-hub/"><u>Flagship Face-Off: In-Depth Comparison of LG G3 and Samsung S Cuisine S95C for Cutting-Edge Viewing | Smart Home Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-secure-your-premium-amazon-fire-tv-omnia-qled-for-60-off-limited-time-only-zdnet/"><u>Huge Discount Alert: Secure Your Premium Amazon Fire TV Omnia QLED for 60% Off – Limited Time Only | ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-pathways-to-youtube-stardom-in-video-games/"><u>In 2024, Pathways to YouTube Stardom in Video Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-how-lg-outperforms-samsung-g2-in-3-key-areas-for-its-mini-led-tv-plus-a-huge-300-savings-announced-on-zdnet/"><u>Labor Day Special: How LG Outperforms Samsung G2 in 3 Key Areas for Its Mini LED TV – Plus a Huge $300 Savings Announced on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lg-unveils-cost-efficient-mini-led-tv-surpassing-samsung-galaxy-g2-oled-labor-day-exclusive-deal-on-zdnet/"><u>LG Unveils Cost-Efficient Mini LED TV Surpassing Samsung Galaxy G2 OLED - Labor Day Exclusive Deal on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-save-170-on-the-amazing-new-omni-series-qled-by-amazon-fire-tv-exclusive-deal/"><u>Massive Discount Alert: Save $170 on the Amazing New Omni Series QLED by Amazon Fire TV - Exclusive Deal!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic5-ultimate-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-combining-several-videos-into-a-single-file/"><u>Ultimate Guide: Combining Several Videos Into a Single File</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y78plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y78+ Phone Network-Ready</u></a></li>
 </ul></div>
 

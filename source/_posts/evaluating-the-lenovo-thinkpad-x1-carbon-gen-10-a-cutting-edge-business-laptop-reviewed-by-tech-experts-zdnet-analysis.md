@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Lenovo ThinkPad X1 Carbon (Gen 10): A Cutting-Edge Business Laptop Reviewed by Tech Experts | ZDNET Analysis"
-date: 2024-11-01T16:10:04.005Z
-updated: 2024-11-07T16:13:51.068Z
+date: 2024-11-13T22:08:02.857Z
+updated: 2024-11-17T21:45:29.645Z
 tags:
   - laptops
 categories:
@@ -25,13 +25,6 @@ Show less
 >
 
 ## Apple iPhone 14 Pro Max
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smartphone of 2022
 
@@ -105,6 +98,13 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BX4XVCM5%2Fref%3Dasc%5Fdf%5FB0BX4XVCM51728644400000%3Fcreative%3D395261%26creativeASIN%3DB0BX4XVCM5%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Watch Ultra
 
 ### Best smartwatch of 2022
@@ -154,10 +154,16 @@ Show less
 ## Samsung Galaxy Tab S8 Plus
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best tablet of 2022
@@ -177,6 +183,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FIntroducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing%2Fdp%2FB09BSGFTHY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazon Kindle Scribe
 
@@ -212,13 +225,6 @@ Graphics tested  Apple M2 8‑core
 
 ## Apple MacBook Air M2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best laptop of 2022
 
 **Tech specs: Display:** 13.6-inch Liquid Retina display | **Processor:** Apple M2 chip with 8-core CPU and 8-core GPU | **Memory:** 8GB | Storage: 256GB | **Camera:** 1080p FaceTime HD camera | **Connections:** MagSafe 3 charging port, 3.5mm headphone jack, 2 Thunderbolt/USB 4 ports | **Colors**: Silver, starlight, space gray, midnight | **Weight:** 2.7lbs | **Battery:** 15-18 hours
@@ -239,14 +245,14 @@ Show less
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F404600225&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09SBL34C4%2Fref%3Dasc%5Fdf%5FB09SBL34C41728644400000%3Fcreative%3D395261%26creativeASIN%3DB09SBL34C4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
-## Samsung Neo QLED 8K QN800B TV
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Samsung Neo QLED 8K QN800B TV
 
 ### Best TV of 2022
 
@@ -266,21 +272,7 @@ Show less
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F731543167&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Kasa Smart Plug Mini
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smart plug of 2022
 
@@ -324,6 +316,13 @@ Show less
 
 ## Wooting 60HE Gaming Keyboard
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best gaming keyboard of 2022
 
 **Tech specs: Form factor**: 60% | **Switch type:** Proprietary "Lekker" analog switches | **Keycap type:** Black double-shot PBT with shine-through legends | **Lighting:** Customizable per-key RGB with animated and interactive effects | **Available layouts:** ANSI (US) and ISO (Europe) | **Connectivity:** Replaceable USB-C cable (USB-C to USB-A cable included) | **Weight:** 1.33lbs
@@ -366,6 +365,19 @@ Show less
 
 ## Logitech MX Master 3S
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best wireless mouse of 2022
 
 **Tech specs: Sensor technology:** Darkfield high precision | **DPI:** 200-8,000 DPI | **Buttons:** 7 (Left/right-click, back, forward, App-Switch, wheel mode-shift, middle click) | **Connection:** Bluetooth or Logi Bolt USB for up to three devices | **Weight:** 4.97 ounces
@@ -387,10 +399,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFITURE-Compact-Workout-Real-Time-Feedback%2Fdp%2FB0BLSQB6YS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fiture Mini
@@ -416,13 +428,6 @@ Show less
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot%2Froomba-j7-j7plus%2Fpcmcat1633095696173.c%3Fid%3Dpcmcat1633095696173&publisher_slug=itechdaily19598&exclusive=1)
 
 ## Roomba j7+
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best robot vacuum of 2022
 
@@ -457,6 +462,13 @@ While we think the above devices are the best of the best, we do have some honor
 ## How did we choose these best tech products of 2022?
 
 We asked ZDNET writers and editors what their favorite products they reviewed/purchased were in 2022 to compile this list. We also considered new and groundbreaking products that gained popularity over the year, as well as technology that is bringing something new to the sector. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Were all these products released in 2022?
 
@@ -502,21 +514,24 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-flight-stability-drones-best-gimbals/"><u>[New] 2024 Approved Elite Flight Stability Drone's Best Gimbals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-select-websites-propelling-youtube-media/"><u>[New] 2024 Approved Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>[Updated] In 2024, Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamers-dilemma-deciding-between-obs-and-shadowplay/"><u>[Updated] In 2024, Streamers' Dilemma Deciding Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlocking-the-full-potential-of-youtubes-adsense-features/"><u>[Updated] In 2024, Unlocking the Full Potential of YouTube's AdSense Features</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/efficient-video-mastery-merging-windows-11-and-storyremix-technologies-for-2024/"><u>Efficient Video Mastery Merging Windows 11 and StoryRemix Technologies for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-file-explorer-freezing-issues-on-windows-11-easy-solutions/"><u>How to Fix File Explorer Freezing Issues on Windows 11 - Easy Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c110-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C110? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/my-journey-with-the-lg-dualup-monitor-embracing-the-1618-aspect-ratio-for-enhanced-productivity-gadgetflow/"><u>My Journey with the LG DualUp Monitor - Embracing the 16:18 Aspect Ratio for Enhanced Productivity | GadgetFlow</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-storage-choices-ssd-or-hdd-a-comparative-analysis-for-tech-enthusiasts/"><u>Navigating Storage Choices: SSD or HDD - A Comparative Analysis for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-elite-screen-technology-launched-by-samsung-before-the-upcoming-ces-exclusive-coverage-on-zdnet/"><u>Next-Gen Elite Screen Technology Launched by Samsung Before the Upcoming CES - Exclusive Coverage on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-workspace-with-the-must-have-1nite-dream-dock-for-creatives-featured-on-zdnet/"><u>Revolutionize Your Workspace with the Must-Have 1Nite Dream Dock for Creatives, Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/supercharge-your-computers-speed-the-ultimate-guide-to-installing-a-top-of-the-line-m2-nvme-ssd-for-unmatched-performance-techradar/"><u>Supercharge Your Computer's Speed: The Ultimate Guide to Installing a Top-of-the-Line M.2 NVMe SSD for Unmatched Performance | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-the-most-comfortable-and-advanced-ergonomic-mice-of-ncepted-zdnet/"><u>Ultimate List: The Most Comfortable and Advanced Ergonomic Mice of Ncepted | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-summer-2024-laptop-offers-top-picks-from-zdnet/"><u>Unbeatable Summer 2024 Laptop Offers: Top Picks From ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-best-practices-for-imovie-videos-entering-the-vimeo-realm/"><u>[New] In 2024, Best Practices for iMovie Videos Entering the Vimeo Realm</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods/"><u>[Updated] 2024 Approved Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamline-your-audio-experience-with-apods/"><u>[Updated] 2024 Approved Streamline Your Audio Experience with APods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/450-away-with-hp-victus-15-gaming-laptop-this-prime-day-top-deals-on-tech-discovered-by-zdnet/"><u>$450 Away with HP Victus 15 Gaming Laptop This Prime Day – Top Deals on Tech | Discovered by ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-pop-7-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Pop 7 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-videos-best-editing-apps-for-android-pc-users-for-2024/"><u>Boost Your Videos Best Editing Apps for Android, PC Users for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-dells-breakthrough-concept-luna-assembled-with-building-blocks-revolutionize-the-tech-world-zdnet/"><u>Could Dell’s Breakthrough Concept Luna, Assembled with Building Blocks, Revolutionize the Tech World? | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-innovative-swivel-design-a-firsthand-look-at-their-cutting-edge-laptop-unveiled-at-ifa-202/"><u>Experiencing Lenovo's Innovative Swivel Design: A Firsthand Look at Their Cutting-Edge Laptop Unveiled at IFA 202</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-blank-canvas-a-guide-to-overcoming-laptop-white-screens/"><u>Fixing the Blank Canvas: A Guide to Overcoming Laptop White Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-setup-remote-desktop-in-windows-11/"><u>How To: Setup Remote Desktop in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-initiating-conversations-on-instagram-live/"><u>In 2024, Initiating Conversations on Instagram Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-wont-hibernate-drain-issues-affecting-performance-discover-the-solution-in-this-trusted-utility-endorsed/"><u>MacBook Won't Hibernate? Drain Issues Affecting Performance? Discover the Solution in This Trusted Utility, Endorsed !</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-thumbnail-design-tips-and-pitfalls-for-2024/"><u>Mastering the Art of Thumbnail Design Tips and Pitfalls for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolve-your-dvd-woes-with-these-10-insider-tips-on-playback-problems/"><u>Resolve Your DVD Woes with These 10 Insider Tips on Playback Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-apples-top-charging-station-picks-limited-time-60-off-deal-alert-trusted-tips/"><u>Score Big Savings on Apple's Top Charging Station Picks, Limited-Time $60 Off Deal Alert | Trusted Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed-by-zdnet/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-power-bank-for-your-laptop-at-a-steep-discount-quality-assurance-through-the-years/"><u>Top-Rated Power Bank for Your Laptop at a Steep Discount: Quality Assurance Through the Years</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-for-tech-lovers-save-a-whopping-250-on-the-sleek-dell-inspiron-16-inch-2-in-1-notebook-this-black-friday-zdnet/"><u>Unmissable Deal Alert for Tech Lovers! Save a Whopping $250 on the Sleek Dell Inspiron 16-Inch 2-in-1 Notebook This Black Friday | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-release-apple-prepares-to-unveil-new-macbook-air-and-ipad-models-by-march-latest/"><u>Upcoming Release: Apple Prepares to Unveil New MacBook Air & iPad Models by March - Latest</u></a></li>
 </ul></div>
 

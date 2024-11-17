@@ -1,7 +1,7 @@
 ---
 title: Discover What's Next at Apple's Event This October - Exploring Prospects for the Mac Mini M4, Innovative iPad Updates & Leaps in Siri Technology
-date: 2024-11-03T16:05:56.500Z
-updated: 2024-11-07T16:01:57.464Z
+date: 2024-11-10T19:13:02.666Z
+updated: 2024-11-17T18:36:41.035Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,16 +123,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[New] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-endless-viewing-loop-your-iphone-videos-today/"><u>2024 Approved Endless Viewing Loop Your iPhone Videos Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/all-you-need-to-know-about-microsoft-build-schedule-viewing-options-and-reasons-for-anticipation-tech-insights/"><u>All You Need to Know About Microsoft Build: Schedule, Viewing Options & Reasons for Anticipation | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/arm-vs-intel-in-surface-pro-a-detailed-analysis-revealed-by-zdnet-experts/"><u>ARM vs Intel in Surface Pro: A Detailed Analysis Revealed by ZDNet Experts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-compliance-rules-for-thriving-on-youtube/"><u>Essential Compliance Rules for Thriving on YouTube</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-ultra-mobile-samsung-galaxy-chromebook-2-is-it-a-productivity-revolution/"><u>Evaluating the Ultra-Mobile Samsung Galaxy Chromebook 2 – Is It a Productivity Revolution?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-program-ended-what-you-need-to-know-now/"><u>Free Windows 11 Upgrade Program Ended: What You Need to Know Now</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-essential-guide-to-mc-villages-houses-for-2024/"><u>The Essential Guide to MC Villages' Houses for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-17-unbeatable-cyber-monday-bargains-save-big-on-televisions-audio-equipment-and-more-exclusive-offers-by-zdnet/"><u>Top 17 Unbeatable Cyber Monday Bargains: Save Big on Televisions, Audio Equipment & More - Exclusive Offers by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-computers-of-2024-thoroughly-vetted-by-pros-zdnet/"><u>Top Rated Gaming Computers of 2024: Thoroughly Vetted by Pros | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ai-powered-name-ideas-for-standout-podcast-titles/"><u>[New] AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-cloudscape-insights-into-gopro-karmas-operations/"><u>[New] Capturing the Cloudscape Insights Into GoPro Karma's Operations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elevate-your-photography-experience-on-windows-11-filters-and-music-playback/"><u>[New] Elevate Your Photography Experience on Windows 11 Filters and Music Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs-for-2024/"><u>[New] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-reactivating-the-silenced-obs-video-feed/"><u>[Updated] In 2024, Reactivating the Silenced OBS Video Feed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>[Updated] The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-overcoming-minecraft-wont-open-in-windows-problems/"><u>Expert Advice for Overcoming 'Minecraft Won't Open in Windows' Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-indoor-television-signal-booster-zdnets-comprehensive-review/"><u>Top-Rated Indoor Television Signal Booster - ZDNet's Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-discover-why-this-samsung-tv-is-a-historic-low-price-marvel/"><u>Unbeatable Value: Discover Why This Samsung TV Is a Historic Low Price Marvel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/universal-techniques-to-deactivate-acr-and-minimize-commercials-on-your-television-expert-tips-by-zdnet/"><u>Universal Techniques to Deactivate ACR and Minimize Commercials on Your Television | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-premium-capabilities-on-your-roku-device-at-no-cost-discover-how-herezdnet/"><u>Unlock Exclusive Premium Capabilities on Your Roku Device at No Cost - Discover How Here![ZDNET]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-on-black-friday-2022-find-the-hottest-deals-at-ideal-venues-expert-tips-by-zdnet/"><u>Unlocking Savings on Black Friday 2022! Find the Hottest Deals at Ideal Venues | Expert Tips by ZDNet</u></a></li>
 </ul></div>
 

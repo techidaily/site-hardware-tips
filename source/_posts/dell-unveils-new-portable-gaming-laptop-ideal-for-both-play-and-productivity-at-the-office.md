@@ -1,7 +1,7 @@
 ---
 title: Dell Unveils New Portable Gaming Laptop - Ideal for Both Play and Productivity at the Office
-date: 2024-11-05T16:09:29.600Z
-updated: 2024-11-07T16:20:55.350Z
+date: 2024-11-15T21:53:46.174Z
+updated: 2024-11-17T19:48:49.387Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,19 +113,19 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-unraveling-the-fabric-of-augmented-realities/"><u>[New] Unraveling the Fabric of Augmented Realities</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-av1-foundations-and-fundamentals-for-2024/"><u>[New] Unveiling AV1 Foundations and Fundamentals for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-impactful-power-of-customer-testimonials-on-sales/"><u>[Updated] The Impactful Power of Customer Testimonials on Sales</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-definitive-guide-to-choosing-the-best-webcam-for-your-youtube-channel/"><u>2024 Approved The Definitive Guide to Choosing the Best Webcam for Your YouTube Channel</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-media-conversion-using-winx-dvd-ripper-free-compatible-with-iphone-ipad-and-android/"><u>Effortless Media Conversion Using WinX DVD Ripper (Free): Compatible with iPhone, iPad, and Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-hands-on-evaluation-of-amazfit-gtr-4s-groundbreaking-199-gps-technology-a-detailed-insight-by-zdnet/"><u>Exclusive Hands-On Evaluation of Amazfit GTR 4'S Groundbreaking $199 GPS Technology - A Detailed Insight by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-updates-in-googles-2023-pixel-launch-in-depth-review-and-key-enhancements/"><u>Exploring the Latest Updates in Google's 2023 Pixel Launch: In-Depth Review & Key Enhancements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-leading-edge-of-smart-residences-highlights-from-ces-2024-reviewed-by-zdnet/"><u>Exploring the Leading Edge of Smart Residences: Highlights From CES 2024 Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/garmin-enduro-2-unveiled-ultimate-endurance-athlete-companion-with-up-to-150-hours-of-battery-and-in-depth-training-tools-explored-on-zdnet/"><u>Garmin Enduro 2 Unveiled: Ultimate Endurance Athlete Companion with Up to 150 Hours of Battery and In-Depth Training Tools | Explored on ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-invaluable-list-of-costless-photographic-and-moving-images/"><u>In 2024, Invaluable List of Costless Photographic and Moving Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/inside-the-cut-an-in-depth-look-at-d500-4k/"><u>Inside the Cut An In-Depth Look at D500 4K</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-home-with-smart-surveillance-save-big-on-blink-outdoor-4-camera-and-floodlight-set-for-a-steal-this-labor-day-just-80-awaits-you/"><u>Secure Your Home with Smart Surveillance: Save Big on Blink Outdoor 4-Camera and Floodlight Set for a Steal This Labor Day – Just $80 Awaits You!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-game-space-with-a-stylish-rgb-light-discounted-at-25-get-the-latest-from-zdnet/"><u>Upgrade Your Game Space with a Stylish RGB Light Discounted at 25% - Get the Latest From ZDNet!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-hidden-footage-techniques-redacting-personal-information-effectively/"><u>[New] Hidden Footage Techniques Redacting Personal Information Effectively</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pioneering-the-next-level-of-streaming-setups/"><u>[Updated] Pioneering the Next Level of Streaming Setups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exploring-high-resolution-with-lgs-digital-cinema-31mu97-b-for-2024/"><u>Exploring High-Resolution with LG's Digital Cinema 31MU97-B for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-custom-luts-into-your-post-production-workflow/"><u>In 2024, Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-intels-latest-innovation-nine-14th-gen-cpus-sans-e-cores-unveiling-the-exclusive-i9-14901ke-for-embedded-systems/"><u>Introducing Intel's Latest Innovation: Nine 14Th Gen CPUs Sans E-Cores – Unveiling the Exclusive I9-14901KE for Embedded Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revealed-southwest-flight-crew-shares-troubling-conditions-pilots-say-you-should-know-about/"><u>Revealed: Southwest Flight Crew Shares Troubling Conditions Pilots Say You Should Know About</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-in-home-connectivity-apple-improves-content-sharing-with-airplay-for-homes-and-beyond-zdnet/"><u>Revolutionizing In-Home Connectivity: Apple Improves Content Sharing with AirPlay for Homes and Beyond | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/risk-takers-in-the-skies-how-8000-travelers-embraced-a-new-experience-with-southwest-airlines-zdnet-highlights/"><u>Risk Takers in the Skies: How 8,000 Travelers Embraced a New Experience with Southwest Airlines | ZDNet Highlights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rugged-electric-bike-delivers-unforgettable-off-road-adventure-joyful-ride-with-tech-innovation-zdnet/"><u>Rugged Electric Bike Delivers Unforgettable Off-Road Adventure - Joyful Ride with Tech Innovation | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-sdi-and-general-motors-unite-to-establish-a-3-billion-ev-battery-manufacturing-facility-in-the-usa-zdnet-news-coverage/"><u>Samsung SDI and General Motors Unite to Establish a $3 Billion EV Battery Manufacturing Facility in the USA | ZDNET News Coverage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ts-to-profitability-on-youtube-shorts-fundamentals-and-future-earnings-for-2024/"><u>Secrets to Profitability on YouTube Shorts Fundamentals & Future Earnings for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/streamlining-workflow-with-a-comprehensive-organization-lookup-dashboard/"><u>Streamlining Workflow with a Comprehensive Organization Lookup Dashboard</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-clockwatchdogtimeout-errors-and-bsod-crashes-in-windows-10/"><u>Troubleshooting CLOCK_WATCHDOG_TIMEOUT Errors & BSOD Crashes in Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-here-i-collect-the-top-5-high-definition-video-editing-software-programs-out-there-in-the-market-now-read-on-and-try-them-out-for-2024/"><u>Updated Here I Collect the Top 5 High-Definition Video Editing Software Programs Out There in the Market. Now Read on and Try Them Out for 2024</u></a></li>
 </ul></div>
 

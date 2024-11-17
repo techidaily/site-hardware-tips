@@ -1,7 +1,7 @@
 ---
 title: Discover Epic Black Friday Gaming Bargains in October 202^, Get Premium Games at Half Price - Don't Miss This Final Opportunity
-date: 2024-11-05T16:16:18.545Z
-updated: 2024-11-07T16:09:39.439Z
+date: 2024-11-16T21:55:44.440Z
+updated: 2024-11-17T20:04:12.506Z
 tags:
   - laptops
 categories:
@@ -119,6 +119,13 @@ ZDNET
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 * [Arcade1Up Mortal Kombat head-to-head cabinet for $300 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-Arcade1Up-Mortal-Kombat-Head-Head%2Fdp%2FB09B1DB76H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A seated, head-to-head competition format cabinet for the popular Mortal Kombat arcade games.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -132,6 +139,13 @@ ZDNET
 * [Final Fantasy VII Rebirth for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFinal-Fantasy-VII-Rebirth-PlayStation-5%2Fdp%2FB0CGXZQ4CD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): The anticipated FFVII remaster includes an Amazon exclusive PS5 controller skin.
 * [WD Black SN850X 4TB SSD for $264 (save $436)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -163,19 +177,6 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -197,6 +198,13 @@ Lenovo
 * [Acer Nitro 17 for $1,177 (save $222 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOcta-Core-GeForce-Display-Backlit-AN17-41-R7G3%2Fdp%2FB0BTQ61Z6D%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): This gaming laptop boasts a wide 17-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4056 graphics card.
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -206,13 +214,6 @@ Samsung/ZDNET
 * [Samsung Odyssey G6 27-inch for $285 (save $415)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Odyssey-Gaming-Curved-Monitor%2Fdp%2FB0BJH22XW6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): An excellent gaming monitor with 1440p resolution, a 240Hz refresh rate, and support for AMD FreeSync Premium Pro VRR.
 * [LG UltraGear OLED 39-inch curved monitor for $803 (save $697)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-39GS95QE-UltraGear-DisplayHDR-DisplayPort%2Fdp%2FB0CV1VL18C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): This ultra-wide monitor has a 240Hz refresh rate, 0.03ms response time, and OLED panel for more accurate colors, detailing, and contrast.
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
 
@@ -232,10 +233,10 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -247,28 +248,15 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -335,18 +323,15 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nhancing-social-reach-youtube-videos-on-facebook-sites/"><u>[New] Enhancing Social Reach YouTube Videos on Facebook Sites</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-all-year-string-lights-a-smarter-economical-choice-over-rivals-insights-from-zdnet/"><u>Affordable All-Year String Lights: A Smarter, Economical Choice Over Rivals - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-seo-title-for-google-search-get-govee-smart-light-panel-deals-up-to-80-off-this-cyber-weekend-shopping-extravaganza/"><u>Best SEO Title for Google Search: Get Govee Smart Light Panel Deals Up to $80 Off This Cyber Weekend Shopping Extravaganza!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boosting-visuals-quickly-easy-step-by-step-for-the-latest-intel-iris-540-drivers/"><u>Boosting Visuals Quickly: Easy Step-by-Step for the Latest Intel Iris 540 Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tactics-for-snagging-free-visual-frame-content/"><u>In 2024, Tactics for Snagging Free Visual Frame Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ten-strategies-for-controlling-a-twitch-broadcast/"><u>In 2024, Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/leverage-fb-for-extensive-reach-and-impact/"><u>Leverage FB for Extensive Reach and Impact</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/resolving-the-issue-of-oversized-files-not-transferring-to-external-drives/"><u>Resolving the Issue of Oversized Files Not Transferring to External Drives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-unbeatable-best-buy-promotions-in-june-2024-the-ultimate-savings-guide-zdnet/"><u>Top 5 Unbeatable Best Buy Promotions in June 2024: The Ultimate Savings Guide - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-philips-hue-lighting-solutions-a-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Ranked Philips Hue Lighting Solutions - A Comprehensive Review by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-media-streams-on-a-budget-score-the-nanoleaf-4d-for-just-80-this-cyber-monday-featured-by-zdnet/"><u>Transform Your Media Streams on a Budget - Score the Nanoleaf 4D for Just $80 This Cyber Monday, Featured by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-garden-with-the-brightest-permanent-govee-outdoor-lighting-install-this-weekend-zdnet/"><u>Upgrade Your Garden with the Brightest Permanent Govee Outdoor Lighting - Install This Weekend! | ZDNET</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/webm-video-compressors-the-best-online-webm-video-compressors-for-2024/"><u>WebM Video Compressors The Best Online WebM Video Compressors for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfect-pairings-the-science-of-matching-music-with-imagery/"><u>[New] 2024 Approved Perfect Pairings The Science of Matching Music with Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insightful-review-the-comprehensive-theta-s-experience/"><u>[New] Insightful Review The Comprehensive Theta S Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-edge-step-by-step-video-cropping-techniques/"><u>[New] Instagram Edge Step-by-Step Video Cropping Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ranked-the-best-5-iphone-compatible-podcasting-apps/"><u>[New] Ranked The Best 5 iPhone-Compatible Podcasting Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-archival-artifacts-radeons-revamp/"><u>[Updated] 2024 Approved Archival Artifacts Radeon's Revamp</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-new-qol-improvements-for-android-auto-now-supports-bluetooth-audio-devices/"><u>ZDNet Exclusive: New QOL Improvements for Android Auto Now Supports Bluetooth Audio Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-how-this-innovative-bluetooth-adapter-solves-check-engine-warning-issues/"><u>ZDNET Review: How This Innovative Bluetooth Adapter Solves Check Engine Warning Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-the-newest-upgrade-to-android-automotives-quality-of-life-features-boasting-added-support-for-bluetooth-audio-devices/"><u>ZDNet: The Newest Upgrade to Android Automotive's Quality of Life Features, Boasting Added Support for Bluetooth Audio Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-list-of-2023s-most-innovative-evs-best-picks-for-the-future-of-driving/"><u>ZDNet's Ultimate List of 2023'S Most Innovative EVs: Best Picks for the Future of Driving</u></a></li>
+<li><a href="https://win-updates.techidaily.com/44oh44o844k5pcn5asx44gl44kj5lplusd6k2377ya44k344k544og44og44oq44od44kv44ki44od44ox5oml6acg44ks44kk44oj/"><u>データ損失から保護：システムバックアップ手順ガイド</u></a></li>
 </ul></div>
 

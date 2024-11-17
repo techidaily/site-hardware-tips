@@ -1,7 +1,7 @@
 ---
 title: Exploring the Largest Tech Disclosures at CES 2023'S Second Day Covered
-date: 2024-11-04T16:18:34.253Z
-updated: 2024-11-07T16:13:11.415Z
+date: 2024-11-10T21:13:32.950Z
+updated: 2024-11-17T19:17:19.693Z
 tags:
   - laptops
 categories:
@@ -31,10 +31,10 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG saves its biggest (and best) TV for last
@@ -42,10 +42,10 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 LG
@@ -71,10 +71,10 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI drops new laptops for gamers and creatives
@@ -101,6 +101,19 @@ Check out the article version of the interview [here](https://www.zdnet.com/arti
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## HP focuses on sustainability and hybrid work with new laptops
 
 HP
@@ -116,13 +129,6 @@ Bird Buddy
 You're used to indoor appliances with smart features, but now with the Bird Buddy hummingbird feeder, you'll be able to track who's coming to snack at your feeding stations. Don't worry -- while they're not squirrel-proof, they're designed to handle a visit from both feathered and furry friends.
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
 
@@ -178,24 +184,20 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-guide-to-app-reviews-by-az-capture/"><u>[Updated] In 2024, Ultimate Guide to App Reviews by AZ Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-selection-top-video-editors-for-webcams/"><u>[Updated] In 2024, Ultimate Selection Top Video Editors for Webcams</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-foundations-of-facebook-video-marketing-for-2024/"><u>[Updated] The Foundations of Facebook Video Marketing for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>2024 Approved Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-your-device-writers-step-by-step-tutorial-for-custom-ringtones-and-sounds-on-android/"><u>2024 Approved Unleashing Your Device' Writers Step-by-Step Tutorial for Custom Ringtones and Sounds on Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buys-mid-summer-bonanza-top-30-unbeatable-offers-for-a-prime-summer-shopping-season/"><u>Best Buy's Mid-Summer Bonanza: Top 30 Unbeatable Offers for a Prime Summer Shopping Season</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210620137-9781733073837-brave-healing-2nd-ed/"><u>Brave Healing (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-reasons-behind-purchasing-damaged-macbook-pro-displays-a-deep-dive-by-zdnet/"><u>Exploring Reasons Behind Purchasing Damaged MacBook Pro Displays: A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-game-breaking-star-wars-battlefront-ii-error-code-n-a-comprehensive-guide/"><u>Fixing the Game-Breaking Star Wars Battlefront II Error Code N: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-mini-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 mini Prevention & Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professional-insight-assessing-logitech-mx-master-3-as-your-ideal-office-companion-expert-opinions-from-zdnet/"><u>Professional Insight: Assessing Logitech MX Master 3 as Your Ideal Office Companion - Expert Opinions From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-gmktec-xpanel-the-ideal-compact-and-mobile-se-display-for-on-the-move-professionals-tech-insights/"><u>Review of GMKtec XPanel: The Ideal Compact and Mobile SE Display for On-the-Move Professionals | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-data-management-convert-idle-ssds-to-efficient-external-storage-for-just-12-tips-revealed-by-zdnet/"><u>Revolutionize Your Data Management: Convert Idle SSDs to Efficient External Storage for Just $12! Tips Revealed by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-surprising-calmness-in-cleaning-an-old-keyboard-unlock-benefits-for-you-and-your-device-zdnet/"><u>The Surprising Calmness in Cleaning an Old Keyboard - Unlock Benefits for You and Your Device | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-big-screen-displays-2024s-ultimate-guide-by-zdnet/"><u>Top Rated Big-Screen Displays: 2024'S Ultimate Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-inkjet-printers-of-2024-select-your-ideal-model-expert-reviews-by-zdnet/"><u>Top-Rated Inkjet Printers of 2024: Select Your Ideal Model - Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-sicherheitshelfer-fur-cloud-daten-erfolgreiches-open-source-software/"><u>Top-Sicherheitshelfer Für Cloud-Daten: Erfolgreiches Open-Source Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultra-sleek-and-portable-hub-ideal-for-your-macbook-air-features-from-zdnet/"><u>Ultra-Sleek and Portable Hub Ideal for Your MacBook Air - Features From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211047651-9781088299227-wealthy-woman-affirmations/"><u>Wealthy Woman Affirmations | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-peak-craft-studio-masterpiece-insight/"><u>[New] In 2024, Peak Craft Studio Masterpiece Insight</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-supercharge-collaboration-essential-facebook-planners-decoded/"><u>[New] In 2024, Supercharge Collaboration Essential Facebook Planners Decoded</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/136-discount-how-the-hp-chromebook-simplifies-life-without-windows-insights-from-a-tech-guru/"><u>$136 Discount: How the HP Chromebook Simplifies Life Without Windows - Insights From a Tech Guru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-failures-in-attempted-gpt-alteration/"><u>Dissecting Failures in Attempted GPT Alteration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-pro-mfp-m127fn-printer-drivers-official-and-free/"><u>Download HP LaserJet Pro MFP M127FN Printer Drivers - Official and Free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-technology-essentials-for-diy-home-recording-studios-how-to/"><u>Essential Technology Essentials for DIY Home Recording Studios | How-To</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-testing-of-leading-2024-laptop-models-comprehensive-guide-by-zdnet/"><u>Expert Reviews & Testing of Leading 2024 Laptop Models | Comprehensive Guide by ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-s17-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo S17 by Name | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/peakpixel-optimizer-windows-mac-and-online/"><u>PeakPixel Optimizer Windows, Mac & Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-grab-the-4tb-samsung-t5-ssd-in-stock-at-a-steal-on-amazon-up-to-50-off-detailed-review-by-zdnet/"><u>Sale Alert: Grab the 4TB Samsung T5 SSD In Stock at a Steal on Amazon, Up to 50% Off – Detailed Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-using-and-evaluating-the-highly-functional-dell-inspiron-a-comprehensive-review/"><u>The Ultimate Guide to Using and Evaluating the Highly Functional Dell Inspiron - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-budget-laptops-under-1k-in-depth-analysis-by-tech-gurus/"><u>Top-Rated Budget Laptops (Under $1K) - In-Depth Analysis by Tech Gurus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-productivity-perks-and-score-big-savings-exclusive-93-off-flip-out-monitor-offer-for-prime-day-shoppers/"><u>Unlock Productivity Perks & Score Big Savings: Exclusive $93 Off Flip-Out Monitor Offer for Prime Day Shoppers!</u></a></li>
 </ul></div>
 

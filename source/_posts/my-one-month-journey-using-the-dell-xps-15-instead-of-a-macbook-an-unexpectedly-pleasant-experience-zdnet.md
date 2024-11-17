@@ -1,7 +1,7 @@
 ---
 title: "My One-Month Journey Using the Dell XPS 15 Instead of a MacBook: An Unexpectedly Pleasant Experience | ZDNET"
-date: 2024-11-03T16:08:24.099Z
-updated: 2024-11-07T16:01:12.975Z
+date: 2024-11-15T16:02:13.632Z
+updated: 2024-11-17T21:49:59.442Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ To maintain performance and reduce heat, Asus has equipped the Vivobook S14 with
 Another thing to note is that the machine's battery life is just passable. I tested the laptop by running a non-stop YouTube video at 720p and 50% brightness until it died. The Vivobook S14 lasted about six hours before it went completely dark. So don't expect the laptop to last you through a full day of tasks without needing to charge it in between. I should mention that this test took place without Battery Saver. Having that feature turned on will extend the battery life, even if it's only by a little.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,24 +115,16 @@ You can purchase the Vivobook S14 off [Best Buy for $1,200](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-key-steps-to-accurate-and-effective-market-research-analysis/"><u>[New] 2024 Approved Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters-for-2024/"><u>[New] Say Goodbye to Excess Master the Art of Editing TikTok Drafters for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-roborock-vacuums-ranked-thoroughly-tested-and-reviewed-on-zdnet/"><u>2024'S Leading Roborock Vacuums Ranked: Thoroughly Tested and Reviewed on ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-selection-of-intelligent-household-appliances-professional-evaluations-and-insights-zdnet/"><u>2024'S Ultimate Selection of Intelligent Household Appliances: Professional Evaluations & Insights | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/autonomous-cleaning-innovation-dreame-l40-ultra-robot-vacuum-lasts-up-to-3-months-independently/"><u>Autonomous Cleaning Innovation: Dreame L40 Ultra Robot Vacuum Lasts Up To 3 Months Independently</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breakthrough-feature-promises-game-changing-impact-for-autonomous-home-cleaners-exploring-advances-in-robot-vacuums-and-mops-zdnet-analysis/"><u>Breakthrough Feature Promises Game-Changing Impact for Autonomous Home Cleaners | Exploring Advances in Robot Vacuums and Mops | ZDNET Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comprehensive-test-drive-of-the-compact-aphaca-bt69-bluetooth-fm-transmitter-for-your-car/"><u>Comprehensive Test Drive of the Compact Aphaca BT69 Bluetooth FM Transmitter for Your Car</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-zero-30-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Zero 30 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Passcode without Computer?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterclass-review-unpacking-the-features-of-android-lightroom-for-2024/"><u>Masterclass Review Unpacking the Features of Android Lightroom for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-batch-editing-managing-several-replacements-simultaneasternly-in-emeditors-find-and-replace-feature/"><u>Mastering Batch Editing: Managing Several Replacements Simultaneasternly in EmEditor's Find and Replace Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-muted-button-glitches-in-windows-systems/"><u>Resolving Muted Button Glitches in Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-robotics-with-animal-models-insights-from-the-new-breed-book-a-zdnet-perspective/"><u>Revolutionizing Robotics with Animal Models: Insights From 'The New Breed' Book - A ZDNet Perspective</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-smb-with-amazon-astro-unveiling-the-advanced-protection-robot-for-businesses/"><u>Secure Your SMB with Amazon Astro: Unveiling the Advanced Protection Robot for Businesses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-robot-vacuum-cleaners-in-depth-comparisons-and-expert-reviews-techradar/"><u>Top-Ranking Robot Vacuum Cleaners: In-Depth Comparisons & Expert Reviews | TechRadar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-vacuum-cleaners-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Robot Vacuum Cleaners of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-garden-with-our-racecar-designed-autonomous-mower-top-review-on-zdnet/"><u>Transform Your Garden with Our Racecar-Designed Autonomous Mower | Top Review on ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-bing-app-for-android-phones/"><u>Unlocking the Power of Artificial Intelligence in Bing App for Android Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>2024 Approved Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-fearful-video-blogs-overcoming-each-challenge/"><u>2024 Approved Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-bose-and-sonos-to-reveal-the-revolutionary-sound-of-a-game-changing-speaker-system-zdnet-exclusive/"><u>Beat Bose and Sonos to Reveal the Revolutionary Sound of a Game-Changing Speaker System | ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-top-30-exclusive-offers-from-best-buys-mid-year-sales-spectacular-vs-amazon-prime-day-insider-score/"><u>Best of the Best: Top 30 Exclusive Offers From Best Buy’s Mid-Year Sales Spectacular Vs. Amazon Prime Day – Insider Score</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-tvs-speed-6-key-configurations-to-optimize-and-enhance-latency-insights-from-zdnet/"><u>Boost Your TV's Speed: 6 Key Configurations to Optimize and Enhance Latency - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-beyond-bose-and-sonos-the-ultimate-speaker-system-that-took-my-breath-away-featured-in-zdnet/"><u>Breaking Beyond Bose and Sonos: The Ultimate Speaker System That Took My Breath Away | Featured in ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-mini-led-and-oled-televisions-key-differences-explained/"><u>Choosing Between Mini LED & OLED Televisions: Key Differences Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-no-8-digital-composers-kit/"><u>In 2024, Premier No. 8 Digital Composer's Kit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/refining-zoom-visuals-proactive-measures/"><u>Refining Zoom Visuals Proactive Measures</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ricostruisci-rapidamente-da-un-guasto-con-tecniche-avanzate-di-recovery-click-su-hard-drive-guide-consigliate/"><u>Ricostruisci Rapidamente Da Un Guasto Con Tecniche Avanzate Di Recovery Click Su Hard Drive – Guide Consigliate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-strategies-for-downloading-and-transforming-vevo-content-into-optimal-mp3-format/"><u>Seamless Strategies for Downloading & Transforming VEVO Content Into Optimal MP3 Format</u></a></li>
 </ul></div>
 

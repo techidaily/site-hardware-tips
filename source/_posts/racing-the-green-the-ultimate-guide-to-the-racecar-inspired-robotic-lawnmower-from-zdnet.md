@@ -1,7 +1,7 @@
 ---
 title: "Racing the Green: The Ultimate Guide to the Racecar-Inspired Robotic Lawnmower From ZDNet"
-date: 2024-09-19 14:16:45
-updated: 2024-09-20 12:14:35
+date: 2024-11-11T18:39:53.272Z
+updated: 2024-11-17T17:12:51.868Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-hand-to-hand-heroes-the-definitive-switch-fighting-game-countdown/"><u>[New] Hand-to-Hand Heroes The Definitive Switch Fighting Game Countdown</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-copyright-guide-for-instagram-music/"><u>[Updated] 2024 Approved Copyright Guide for Instagram Music</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guardianship-against-oculus-induced-discomfort/"><u>[Updated] Guardianship Against Oculus-Induced Discomfort</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-202n-best-innovations-spotlighted-editors-choice-selections/"><u>CES 202N Best Innovations Spotlighted Editor's Choice Selections</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comment-conquerir-la-formatting-dune-carte-xqd-voici-les-2-mieuxes-strategies-effectives/"><u>Comment Conquérir La Formatting D'Une Carte XQD ? Voici Les 2 Mieuxes Stratégies Effectives</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-the-samsung-qn55q6fs-brilliance-an-insightful-reveal-of-this-advanced-4k-hdr-smart-television/"><u>Decoding the Samsung QN55Q6F's Brilliance - An Insightful Reveal of This Advanced 4K HDR Smart Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-framework-chromebook-a-revolutionary-leap-towards-sustainable-tech-and-long-term-use-insights/"><u>Evaluating the Framework Chromebook: A Revolutionary Leap Towards Sustainable Tech & Long-Term Use - Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-daily-usage-proven-strategies-for-full-day-macbook-battery-endurance-experts/"><u>Maximize Daily Usage: Proven Strategies for Full-Day MacBook Battery Endurance Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-hp-victus-15-score-a-steal-at-515-during-best-buys-prime-day-exclusive-offer-tech-insights-from-zdnet/"><u>Save Big on HP Victus 15 - Score a Steal at $515 During Best Buy's Prime Day Exclusive Offer – Tech Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-tech-face-off-begins-how-dysons-latest-ontrac-headphones-could-eclipse-the-dominance-of-airpod-maxes/"><u>The Tech Face-Off Begins: How Dyson's Latest OnTrac Headphones Could Eclipse the Dominance of AirPod Maxes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-39-unbeatable-christmas-tech-bargains-on-computers-from-apple-and-others-explore-savings/"><u>Top 39 Unbeatable Christmas Tech Bargains on Computers From Apple & Others – Explore Savings!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-tides-exploring-unique-methods-to-reverse-youtube-videos/"><u>Turning Tides Exploring Unique Methods to Reverse YouTube Videos</u></a></li>
+</ul></div>
+

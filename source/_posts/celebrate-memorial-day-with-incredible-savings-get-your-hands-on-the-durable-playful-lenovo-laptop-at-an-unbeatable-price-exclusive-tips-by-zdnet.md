@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Memorial Day with Incredible Savings: Get Your Hands on the Durable, Playful Lenovo Laptop at an Unbeatable Price | Exclusive Tips by ZDNET"
-date: 2024-11-04T16:12:41.737Z
-updated: 2024-11-07T16:19:54.942Z
+date: 2024-11-10T19:35:23.264Z
+updated: 2024-11-17T18:07:16.821Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -72,10 +72,10 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -112,24 +112,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-obsudios-ultimate-guide-to-video-recording-with-obs/"><u>[Updated] In 2024, Obsudio's Ultimate Guide to Video Recording with OBS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-sierras-icloud-drive-essentials-for-seamless-workflows/"><u>[Updated] In 2024, Sierra’s iCloud Drive Essentials for Seamless Workflows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2022s-leading-telepresence-machines-reviewed-top-picks-and-buyers-guide-by-zdnet/"><u>2022'S Leading Telepresence Machines Reviewed: Top Picks & Buyer’s Guide by ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-five-full-frame-cameras-for-uhd-capture/"><u>2024 Approved Best Five Full Frame Cameras for UHD Capture</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-and-the-future-of-domestic-ai-companions-what-you-need-to-know-according-to-zdnet/"><u>Apple and the Future of Domestic AI Companions: What You Need to Know, According to ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/automated-assistants-takeover-how-robotic-staff-are-supporting-understaffed-eateries-the-impact-on-traditional-waiter-jobs/"><u>Automated Assistants Takeover: How Robotic Staff Are Supporting Understaffed Eateries - The Impact on Traditional Waiter Jobs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-information-with-mematics-app/"><u>In 2024, Streamline Your Information with Mematic's App</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y78-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y78 5G Phone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/reclaim-your-deleted-files-a-guide-to-reviving-missing-documents-in-windows-server-2-techniques/"><u>Reclaim Your Deleted Files: A Guide to Reviving Missing Documents in Windows Server ([2 Techniques])</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-next-step-in-smart-living-discover-how-apple-envisions-your-personal-home-robot-assistant-zdnet/"><u>The Next Step in Smart Living: Discover How Apple Envisions Your Personal Home Robot Assistant | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-telepresence-bots-expert-picks-by-zdnet/"><u>Top 5 Telepresence Bots : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-in-2/"><u>Top Rated Smart Home Gadgets in 2</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-windows-10-capture-apps-ultimate-guide-for-2024/"><u>Top Windows 10 Capture Apps Ultimate Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-mop-cleaners-in-depth-reviews-by-tech-experts-zdnet/"><u>Top-Rated 2024 Robot Mop Cleaners: In-Depth Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-power-of-smart-cleaning-with-irobots-new-roomba-combos-j9plus-and-beyond-in-depth-review-for-home-automation-enthusiasts-zdnet-gadgets/"><u>Unlock the Power of Smart Cleaning with IRobot's New Roomba Combos: J9+ and Beyond | In-Depth Review for Home Automation Enthusiasts | ZDNET Gadgets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-visual-treasures-top-10-free-image-stores-for-2024/"><u>Unlocking Visual Treasures – Top 10 FREE Image Stores for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-evaluating-robot-vacuums-in-depth-reviews-and-comparisons/"><u>ZDNet's Comprehensive Guide to Evaluating Robot Vacuums: In-Depth Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-playback-problem-why-cant-i-watch-video-on-sony-a6400-in-2024/"><u>[New] Playback Problem Why Can't I Watch Video on Sony A6400, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-mp3-conversion-convert-your-voc-recordings-into-mp3-format-for-free-today/"><u>Effortless MP3 Conversion - Convert Your VOC Recordings Into MP3 Format for Free Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-adjusting-your-projectors-essential-configurations-for-ultimate-visual-perfection/"><u>Expert Tips: Adjusting Your Projector's Essential Configurations for Ultimate Visual Perfection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-finest-black-friday-discounts-for-echo-devices-on-amazon-missed-opportunity/"><u>Explore the Finest Black Friday Discounts for Echo Devices on Amazon - Missed Opportunity!</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/extract-and-convert-tracks-from-22tracks-to-multiple-audio-types-wav-mp3-flac/"><u>Extract and Convert Tracks From 22Tracks to Multiple Audio Types (WAV, MP3, FLAC)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-11-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme 11 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-proofing-your-viewing-experience-how-a-revolutionary-chipset-extends-oled-tv-relevancy-beyond-a-decade-zdnet/"><u>Future-Proofing Your Viewing Experience: How a Revolutionary Chipset Extends OLED TV Relevancy Beyond a Decade | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-premium-television-you-desire-without-breaking-the-bank-why-sonys-bravia-is-a-smart-investment-and-frequently-discounted-zdnet/"><u>Get the Premium Television You Desire Without Breaking the Bank - Why Sony's Bravia Is a Smart Investment and Frequently Discounted | ZDNET</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c110-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 11F 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-advanced-android-time-lapse-tips-for-professional-results/"><u>In 2024, Advanced Android Time-Lapse Tips for Professional Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/infobox/"><u>Infobox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/julys-ultimate-shopping-extravaganza-at-best-buy-exclusive-list-of-29-deals-to-beat-out-amazon-prime-day-zdnet-special-report/"><u>July's Ultimate Shopping Extravaganza at Best Buy: Exclusive List of 29 Deals to Beat Out Amazon Prime Day - ZDNet Special Report</u></a></li>
+<li><a href="https://win-able.techidaily.com/quickly-resolve-your-warzone-a-simple-guide-to-correcting-directx-glitches-in-four-steps/"><u>Quickly Resolve Your Warzone: A Simple Guide to Correcting DirectX Glitches in Four Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209863095-9780995699922-reversing-the-race-to-global-destruction/"><u>Reversing the Race to Global Destruction | Free Book</u></a></li>
 </ul></div>
 

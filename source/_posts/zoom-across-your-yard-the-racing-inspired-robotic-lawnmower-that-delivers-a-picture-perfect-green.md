@@ -1,7 +1,7 @@
 ---
 title: "Zoom Across Your Yard: The Racing-Inspired Robotic Lawnmower That Delivers a Picture-Perfect Green"
-date: 2024-09-19 11:35:15
-updated: 2024-09-20 11:52:11
+date: 2024-11-11T18:09:56.711Z
+updated: 2024-11-17T19:36:09.090Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-stardew-valleys-most-innovative-game-updates/"><u>[New] Unveiling Stardew Valley's Most Innovative Game Updates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-leveraging-social-media-tactics-more-insta-vids-watched-for-2024/"><u>[Updated] Leveraging Social Media Tactics More Insta Vids Watched for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-remedying-dark-images-while-streaming-youtube-videos/"><u>[Updated] Remedying Dark Images While Streaming YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snort-spree-twitters-funniest-humor-chronicles/"><u>[Updated] Snort Spree Twitter’s Funniest Humor Chronicles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-best-meme-templates/"><u>[Updated] Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-lib4eay32dll-is-absent-or-unavailable-glitches/"><u>How To Repair 'lib4eay32.dll Is Absent or Unavailable' Glitches</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-enhance-viewership-with-advanced-youtube-video-tracker-tools/"><u>In 2024, Enhance Viewership with Advanced YouTube Video Tracker Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-t2x-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo T2x 5GFRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/modular-android-phones-set-to-surpass-iphone-and-pixel-durability-the-hidden-challenge-revealed/"><u>Modular Android Phones Set to Surpass iPhone & Pixel Durability - The Hidden Challenge Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-tech-in-action-how-singapore-plans-to-revolutionize-ai-with-quantum-innovations-and-expanded-data-hub-facilities/"><u>Next-Gen Tech in Action: How Singapore Plans to Revolutionize AI with Quantum Innovations & Expanded Data Hub Facilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quantum-leap-in-ai-how-singapores-strategic-data-centres-fuel-future-innovations-zdnet/"><u>Quantum Leap in A.I.: How Singapore's Strategic Data Centres Fuel Future Innovations | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-revolutionary-galaxy-s23-the-pinnacle-of-eco-friendly-smartphones-according-to-zdnet/"><u>Samsung's Revolutionary Galaxy S23: The Pinnacle of Eco-Friendly Smartphones, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-the-planet-with-ubers-latest-emissions-tracker-monitor-your-ride-sharing-impact-on-greenhouse-gases/"><u>Save the Planet with Uber's Latest Emissions Tracker - Monitor Your Ride-Sharing Impact on Greenhouse Gases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-sites-shutdown-top-strategies-for-windows-browsing-woes/"><u>Seamless Sites Shutdown: Top Strategies for Windows Browsing Woes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-eyes-the-future-with-strategic-data-center-investments-amidst-rising-ai-integration-zdnet/"><u>Singapore Eyes the Future with Strategic Data Center Investments Amidst Rising AI Integration | ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamline-your-content-transform-videos-into-playful-animation-gifs/"><u>Streamline Your Content Transform Videos Into Playful Animation Gifs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-tech-innovations-the-corporate-journey-towards-eco-friendly-solutions-zdnet/"><u>Sustainable Tech Innovations: The Corporate Journey Towards Eco-Friendly Solutions | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-case-for-backing-ai-and-clean-energy-in-singapore-funding-the-path-to-decarbonization/"><u>The Case for Backing AI & Clean Energy in Singapore: Funding the Path to Decarbonization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-right-to-repair-laws-and-their-significance-for-everyday-users-digitalwise-blog/"><u>The Essentials of Right-to-Repair Laws & Their Significance for Everyday Users | DigitalWise Blog</u></a></li>
+</ul></div>
+

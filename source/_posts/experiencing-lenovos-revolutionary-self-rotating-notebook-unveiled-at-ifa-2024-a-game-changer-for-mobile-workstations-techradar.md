@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Lenovo's Revolutionary Self-Rotating Notebook Unveiled at IFA 2024: A Game-Changer for Mobile Workstations? | TechRadar"
-date: 2024-10-31T16:17:38.069Z
-updated: 2024-11-07T16:00:53.775Z
+date: 2024-11-14T17:09:51.697Z
+updated: 2024-11-17T16:58:25.440Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,19 +60,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C46c4a23a-e363-4547-b075-3e302f59ee07%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -95,10 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -121,6 +108,13 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -141,13 +135,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -157,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,17 +190,24 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[New] 2024 Approved Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-secrets-of-whatsapp-audio-conversations-for-2024/"><u>[New] Unveiling the Secrets of WhatsApp Audio Conversations for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/boost-your-sites-indexability-with-a-well-structured-xml-sitemap-strategy/"><u>Boost Your Site's Indexability with a Well-Structured XML Sitemap Strategy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-uniden-r3-radar-detector-analysis-durable-and-extended-detection-capability/"><u>Comprehensive Uniden R3 Radar Detector Analysis – Durable & Extended Detection Capability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cyber-weekend-extravaganza-snatch-up-these-17-amazing-deals-for-tvs-headphones-and-speakers-before-its-too-late-cyber-monday-sale-hits-techbargains/"><u>Cyber Weekend Extravaganza! Snatch Up These 17 Amazing Deals for TVs, Headphones, and Speakers Before It's Too Late - Cyber Monday Sale Hits | TechBargains</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-performing-a-full-restore-of-your-windows-10-system-with-ease-advice-from-zdnet/"><u>Expert Tips on Performing a Full Restore of Your Windows 10 System with Ease – Advice From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-recovery-image-solutions-for-your-laptoppc-windowslinux-techniques-for-dell-hp-lenovo-or-surface-systems/"><u>Free Recovery Image Solutions for Your Laptop/PC (Windows/Linux): Techniques for Dell, HP, Lenovo, or Surface Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-premium-gaming-plus-content-laptop-at-a-whopping-1100-discounted-price-check-out-the-latest-deals-zdnet-insider-tips/"><u>Get Premium Gaming + Content Laptop at a Whopping $1,100 Discounted Price - Check Out the Latest Deals | ZDNet Insider Tips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-recover-lost-contacts-from-your-iphones-itunes-backup/"><u>How to Recover Lost Contacts From Your iPhone's iTunes Backup</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-picks-7-best-live-streaming-apps-to-upgrade-your-youtube-presence-iosandroid/"><u>In 2024, Top Picks 7 Best Live Streaming Apps to Upgrade Your YouTube Presence (iOS/Android)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-free-surveillance-software-options/"><u>New 2024 Approved Top 10 Free Surveillance Software Options</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-1-to-50-building-a-foundation-for-mukbang-creation/"><u>[New] 2024 Approved Step 1 to 50 Building a Foundation for Mukbang Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-framing-the-perfect-waterway-narrative/"><u>[New] In 2024, Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-optimizing-titles-and-tags-for-improved-youtube-visibility/"><u>[New] In 2024, Optimizing Titles and Tags for Improved YouTube Visibility</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-high-definition-adventures-top-7-camcorders-unveiled/"><u>[Updated] High-Definition Adventures Top 7 Camcorders Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beauty-brilliance-inside-the-world-of-youtube-cosmetics/"><u>[Updated] In 2024, Beauty Brilliance Inside the World of Youtube Cosmetics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-instagrams-picture-perfect-upload-techniques-unveiled/"><u>[Updated] In 2024, Instagram's Picture Perfect Upload Techniques Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglygraphics-mememakers-haven/"><u>2024 Approved GigglyGraphics MemeMaker's Haven</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-tv-viewing-experience-by-tweaking-just-five-settings-for-stunning-image-enhancement/"><u>Boost Your TV Viewing Experience by Tweaking Just Five Settings for Stunning Image Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-display-technology-oled-vs-qled-televisions-a-comprehensive-guide/"><u>Choosing the Right Display Technology: OLED Vs. QLED Televisions – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-display-oled-vs-qled-technology-a-comprehensive-guide/"><u>Choosing the Right Display: OLED Vs. QLED Technology - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-dazzling-display-of-samsung-qn90a-series-at-a-stunning-1500-discount-your-next-oled-tv/"><u>Discover the Dazzling Display of Samsung QN90A Series at a Stunning 1,500% Discount - Your Next OLED TV?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-smart-tv-models-for-2e24-based-on-latest-zdnet-rankings/"><u>Discover the Leading Smart TV Models for 2E24 Based on Latest ZDNet Rankings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-value-packed-tvs-according-to-zdnet-reviews/"><u>Discover the Most Value-Packed TVs , According to ZDNet Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-tv-stands-of-202-expert-analysis-by-zdnet/"><u>Discover the Ultimate TV Stands of 202#: Expert Analysis by ZDnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-unrivaled-choices-ranking-the-5-superior-8k-tvs-available-this-year-zdnet-insights/"><u>Discover the Unrivaled Choices: Ranking the 5 Superior 8K TVs Available This Year (ZDNet Insights)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-ultimate-surround-sound-experience-a-top-soundbar-review-beyond-vizio-and-jbl-zdnet/"><u>Discovering the Ultimate Surround-Sound Experience: A Top Soundbar Review Beyond Vizio and JBL | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-crypto-platforms-with-the-leading-8-ai-powered-gpt-integrations/"><u>Elevate Your Crypto Platforms with the Leading 8 AI-Powered GPT Integrations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolve-avatar-frontiers-of-pandora-unavailable-issue/"><u>Guide to Resolve Avatar: Frontiers of Pandora Unavailable Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g24-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G24 to Outlook | Dr.fone</u></a></li>
 </ul></div>
 

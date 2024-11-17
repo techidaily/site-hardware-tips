@@ -1,7 +1,7 @@
 ---
 title: Discovering the Power of Dual-Cleaning with a Robotic Vacuum & Handheld Brush | Tech Insights From ZDNet
-date: 2024-09-19 12:19:44
-updated: 2024-09-20 12:55:27
+date: 2024-11-13T20:56:11.586Z
+updated: 2024-11-17T18:51:52.232Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-gaming-hits-with-powerful-hashtag-strategies/"><u>[New] In 2024, Gaming Hits with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-steps-to-resolve-unusual-self-viewer-mistakes-in-chats/"><u>[New] In 2024, Steps to Resolve Unusual Self-Viewer Mistakes in Chats</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-master-facebook-seo-essential-techniques-to-skyrocket-engagement/"><u>[New] Master Facebook SEO Essential Techniques to Skyrocket Engagement</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-essential-guide-to-state-of-the-art-screen-recorders/"><u>[Updated] In 2024, The Essential Guide to State-of-the-Art Screen Recorders</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-visitor-engagement-using-cookiebot-driven-insights/"><u>Elevate Visitor Engagement Using Cookiebot-Driven Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-restore-functionality-of-your-windows-11-taskbar/"><u>Fixing the Issue: How to Restore Functionality of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m34-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M34 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-on-linkedin-a-deep-dive-into-green-skills-sustainable-jobs-and-overlooked-pitfalls-expert-commentary-from-zdnet/"><u>The 'Great Reshuffle' On LinkedIn: A Deep Dive Into Green Skills, Sustainable Jobs and Overlooked Pitfalls | Expert Commentary From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essentials-of-the-right-to-repair-movement-how-it-affects-consumers-and-why-its-crucial/"><u>The Essentials of the Right-to-Repair Movement: How It Affects Consumers and Why It's Crucial.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uture-of-streaming-money-youtube-update/"><u>The Future of Streaming Money YouTube Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-battling-snowstorms-in-cleveland-discover-the-ultimate-solution-with-an-innovative-electric-snow-blower/"><u>Tired of Battling Snowstorms in Cleveland? Discover the Ultimate Solution with an Innovative Electric Snow Blower</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Comprehensive Guide by ZDNet</u></a></li>
+</ul></div>
+

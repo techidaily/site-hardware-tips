@@ -1,7 +1,7 @@
 ---
 title: "Automation on the Menu: How Robotic Servers Are Filling in at Understaffed Eateries - A Closer Look by ZDNet"
-date: 2024-09-19 12:51:29
-updated: 2024-09-20 10:43:51
+date: 2024-11-10T19:20:54.535Z
+updated: 2024-11-17T18:02:54.981Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>[Updated] 2024 Approved Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-process-to-upgrade-and-update-video-covers-on-social-media/"><u>[Updated] A Step-by-Step Process to Upgrade and Update Video Covers on Social Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combatting-global-warming-top-5-innovative-tech-solutions-unveiled-by-zdnet/"><u>Combatting Global Warming: Top 5 Innovative Tech Solutions Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquer-harsh-cleveland-winters-effortlessly-embrace-warmth-and-convenience-with-our-latest-electric-snow-blower-featured-on-zdnet/"><u>Conquer Harsh Cleveland Winters Effortlessly - Embrace Warmth & Convenience with Our Latest Electric Snow Blower Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-co2-a-revolutionary-application-for-real-time-tracking-of-personal-carbon-dioxide-emissions/"><u>Cut Down CO2: A Revolutionary Application for Real-Time Tracking of Personal Carbon Dioxide Emissions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-2022-eco-friendly-solar-gift-ideas-ranked-by-zdnet/"><u>Discover the Ultimate 2022 Eco-Friendly Solar Gift Ideas Ranked by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-energy-how-mushroom-chip-technology-is-revolutionizing-gadget-charge-and-sustainability-zdnet/"><u>Eco-Friendly Energy: How Mushroom Chip Technology Is Revolutionizing Gadget Charge & Sustainability - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-bbq-with-savings-grab-your-ideal-weber-electric-grill-for-50-less-as-recommended-by-zdnet/"><u>Experience Top-Tier BBQ with Savings: Grab Your Ideal Weber Electric Grill for $50 Less, as Recommended by ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/steps-for-controlling-video-comment-settings-in-youtube-for-2024/"><u>Steps for Controlling Video Comment Settings in YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/uncovering-top-tier-cloud-services-to-sustain-data/"><u>Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-video-editing-on-32-bit-windows/"><u>Updated 2024 Approved The Ultimate Guide to Free Video Editing on 32-Bit Windows</u></a></li>
+</ul></div>
+

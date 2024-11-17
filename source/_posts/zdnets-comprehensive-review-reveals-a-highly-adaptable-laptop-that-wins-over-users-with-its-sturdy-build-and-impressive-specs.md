@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Comprehensive Review Reveals a Highly Adaptable Laptop that Wins Over Users with Its Sturdy Build & Impressive Specs
-date: 2024-10-31T16:20:04.833Z
-updated: 2024-11-07T16:03:57.472Z
+date: 2024-11-15T19:44:34.611Z
+updated: 2024-11-17T21:01:46.624Z
 tags:
   - laptops
 categories:
@@ -57,13 +57,6 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 | Connectivity          | Wi-Fi 6E, Bluetooth 5.2                                                            |
 | Weight and dimensions | 3.99lb \| 354.4 x 237.4 x 15.8 mm (13.95 x 9.35 x 0.62 inches)                     |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Build
 
 The sleek, well-built lid screams quality, but also includes a few more badges than may have been strictly necessary.
@@ -99,10 +92,10 @@ Michael Gariffo/ZDNET
 I was initially disappointed by the new trackpad. By default, the haptic feedback it uses to replace mechanical clicks was very weak, almost undetectable near its edges. Thankfully, once I'd raised the haptic feedback level in the laptop's settings, it improved dramatically, and was hard to discern from mechanical clicks. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -150,10 +143,16 @@ As mentioned in the video, I've given the webcam the best chance to perform well
 It's still better than most budget-laptops. But, the Z16 is a premium model, and you should expect its camera to rise to that designation. Unfortunately, it didn't. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -209,10 +208,10 @@ If you do need to top up mid-day, the included 135W charger makes quick work of 
 [Lenovo ThinkPad Z16 $899 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8NVY2FZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78513459-9536-4e6b-9472-31dd9a840541%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -220,6 +219,13 @@ If you do need to top up mid-day, the included 135W charger makes quick work of 
 I opened by noting that the [ThinkPad Z16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D4001VUS-Notebook-Board%2Fdp%2FB0B8NVY2FZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78513459-9536-4e6b-9472-31dd9a840541%7Cdtp&dtb=1) is very much a premium laptop, with the high expectations that designation carries. From the build quality, through the performance, to the battery life, I was consistently impressed. The only negative standout was that pesky webcam. If Lenovo hadn't branded the lid with its specs and created a dedicated "Communications Bar" to house it, I might have shrugged at its mediocre performance. But, if you're going to make something a showpiece of a $2,000ish laptop, it had better be a highlight. It wasn't.
 
 If you want a do-it-all, desktop replacement notebook that will last just about all day, look no further. There are systems that perform just as well for hundreds of dollars less, but none that offer the same level of wow-inducing build quality or the attention to detail that's made Lenovo's ThinkPad line a favorite of business travelers for 30 years. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -269,21 +275,19 @@ If you want something a bit smaller with the same ultra-premium vibes as Lenovo'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-youtube-studio-the-ultimate-guide-to-video-edits/"><u>[New] 2024 Approved Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-precision-editing-on-inshot-mastering-the-art-of-transitioning/"><u>[New] Precision Editing on Inshot Mastering the Art of Transitioning</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screensavvy-comprehensive-free-recording-software-for-everyone/"><u>[Updated] 2024 Approved ScreenSavvy Comprehensive, Free Recording Software for Everyone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>[Updated] 2024 Approved Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-airpods-isolated-cure-strategies/"><u>[Updated] Airpods Isolated? Cure Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boosting-your-contents-impact-on-instagram/"><u>[Updated] In 2024, Boosting Your Content's Impact on Instagram</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/googles-pixel-watch-takes-on-the-galaxy-watch-5-pro-can-it-really-outperform-samsung/"><u>Google's Pixel Watch Takes on the Galaxy Watch 5 Pro: Can It Really Outperform Samsung?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-garmin-golf-watchs-standout-function-enhances-your-swing-like-no-other-digital-trends/"><u>How the Garmin Golf Watch's Standout Function Enhances Your Swing Like No Other | Digital Trends</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>In 2024, The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-sports-watches-of-the-year-2nny-thoroughly-tested-and-analyzed-for-performance-pcmag/"><u>Leading Sports Watches of the Year 2Nny: Thoroughly Tested and Analyzed for Performance | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pixel-watch-fall-detection-feature-and-terms-that-imply-helpful-content-such-as-guide-and-benefits-explained/"><u>Pixel Watch, Fall Detection Feature, and Terms that Imply Helpful Content, Such as Guide and Benefits Explained.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-guru-on-zdnet/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Guru on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-sale-offers-on-apple-watches-exclusive-june-2023-promotions-zdnet/"><u>Top-Rated Sale Offers on Apple Watches: Exclusive June 2023 Promotions - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievably-affordable-the-top-rated-ultra-resilient-smartwatch-you-dont-want-to-miss/"><u>Unbelievably Affordable: The Top-Rated, Ultra-Resilient Smartwatch You Don't Want to Miss</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-video-clarity-adding-captions-on-youtube-for-2024/"><u>Unlock Video Clarity Adding Captions on YouTube for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/win10win11-3/"><u>Win10からWin11へのスムーズなファイル移行戦略 - 3つのコツ</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-youtube-integration-in-instagram-narratives/"><u>[New] YouTube Integration in Instagram Narratives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-the-most-of-your-instagram-footage/"><u>[Updated] In 2024, Making the Most of Your Instagram Footage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleash-your-potential-navigating-the-world-of-switch-pro-in-steam-for-2024/"><u>[Updated] Unleash Your Potential Navigating the World of Switch Pro in Steam for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-novice-to-pro-comprehensible-periscope-steps/"><u>From Novice to Pro Comprehensible Periscope Steps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-14-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 14 Pro to SIM? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-go-n-in-1-assessed-by-zdnet-fantastic-portability-marred-by-short-battery-span/"><u>Microsoft Surface Go N-in-1 Assessed by ZDNet: Fantastic Portability Marred by Short Battery Span</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-pro-8-the-ultimate-business-tablet-unveiled-on-zdnet/"><u>Microsoft Surface Pro 8: The Ultimate Business Tablet Unveiled on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-insights-the-ultimate-selection-of-kindle-readers-for-2er-2024-in-depth-analysis-zdnet/"><u>Professional Insights: The Ultimate Selection of Kindle Readers for 2Er 2024 - In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/simplify-network-setup-mastering-windows-deployment-solutions/"><u>Simplify Network Setup: Mastering Windows Deployment Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/switching-from-apple-to-android-the-story-of-an-unplanned-tablet-trade-in-on-techradarcom/"><u>Switching From Apple to Android: The Story of an Unplanned Tablet Trade-In on TechRadar.com</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/switching-from-e-readers-and-ipads-discover-the-power-of-a-new-android-tablet/"><u>Switching From E-Readers & iPads: Discover the Power of a New Android Tablet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tablet-quality-assurance-processes-insights-from-zdnets-laboratory/"><u>Tablet Quality Assurance Processes: Insights From ZDNet's Laboratory</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-visual-guide-to-aspect-ratios-on-platforms-like-youtube/"><u>The Visual Guide to ASPECT RATIOS on Platforms Like YouTube</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Smart Home Gadgets : Comprehensive Testing & Reviews by Experts | TechRadar"
-date: 2024-09-19 11:59:35
-updated: 2024-09-20 12:14:58
+date: 2024-11-16T17:41:22.045Z
+updated: 2024-11-17T20:37:11.817Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-exploring-basic-hdr-a-thorough-review-guide-for-2024/"><u>[New] Exploring Basic HDR A Thorough Review Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-igtv-creation-insider-techniques-for-maximum-impact-for-2024/"><u>[New] Mastering IGTV Creation Insider Techniques for Maximum Impact for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-videos-to-tweets-best-converters-revealed/"><u>[Updated] Transform Videos to Tweets Best Converters Revealed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-upgrade-your-youtube-bio-with-pro-templates/"><u>2024 Approved Upgrade Your Youtube Bio with Pro Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-color-grading-strategies-using-luts-for-professional-videos-in-obs-for-2024/"><u>Advanced Color Grading Strategies Using LUTs for Professional Videos in OBS for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>In 2024, Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-kids-friendly-drones-for-new-flyers/"><u>In 2024, Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/initiating-change-corporate-strategies-at-the-intersection-of-technology-and-environmental-responsibility-techcrunch/"><u>Initiating Change: Corporate Strategies at the Intersection of Technology & Environmental Responsibility | TechCrunch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-eco-friendly-audio-creating-high-quality-speakers-from-ocean-recovered-plastic-the-manufacturing-process/"><u>Innovative Eco-Friendly Audio: Creating High-Quality Speakers From Ocean-Recovered Plastic - The Manufacturing Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-testing-and-impressions-of-teslas-cutting-edge-cybertruck-for-robotics-mowers-insights-from-zdnet/"><u>Inside Look: Testing and Impressions of Tesla's Cutting-Edge Cybertruck for Robotics Mowers | Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-your-setup-delivering-authentic-dolby-atmos-surround-sound-quality/"><u>Is Your Setup Delivering Authentic Dolby Atmos Surround Sound Quality?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-iphones-burst-shot-magic-for-2024/"><u>Learn iPhone's Burst Shot Magic for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-journey-towards-a-greener-future-achieving-sustainable-practices-and-net-zero-goals-insights-from-zdnet/"><u>Lenovo's Journey Towards a Greener Future: Achieving Sustainable Practices & Net Zero Goals - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-artifice-intelligence-for-enhanced-home-energy-savings-with-samsungs-smartthings-expert-analysis-on-zdnet/"><u>Leveraging Artifice Intelligence for Enhanced Home Energy Savings with Samsung's SmartThings | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-the-value-of-your-upgraded-phone-tips-on-selling-or-donating-your-previous-model/"><u>Maximizing the Value of Your Upgraded Phone - Tips on Selling or Donating Your Previous Model</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-future-of-garden-maintenance-dandys-autonomous-weed-destroyer-your-new-back-saver-zdnet/"><u>Meet the Future of Garden Maintenance: Dandy's Autonomous Weed Destroyer, Your New Back Saver | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-great-reshuffle-exploring-green-skills-and-jobs-in-linkedins-landscape-insights-from-zdnet/"><u>Navigating the Great Reshuffle: Exploring Green Skills & Jobs in LinkedIn's Landscape - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-path-to-green-tech-innovation-overcoming-obstacles-and-seizing-prospects/"><u>Navigating the Path to Green Tech Innovation: Overcoming Obstacles & Seizing Prospects</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ways-to-enjoy-your-favorite-tv-programs-and-sport-events-for-free-on-the-internet/"><u>Top Ways to Enjoy Your Favorite TV Programs and Sport Events for Free on the Internet</u></a></li>
+</ul></div>
+

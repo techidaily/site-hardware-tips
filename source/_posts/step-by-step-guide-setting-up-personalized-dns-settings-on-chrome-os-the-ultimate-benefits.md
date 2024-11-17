@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Personalized DNS Settings on Chrome OS - The Ultimate Benefits"
-date: 2024-11-01T16:15:18.919Z
-updated: 2024-11-07T16:01:11.558Z
+date: 2024-11-16T21:43:43.831Z
+updated: 2024-11-17T17:35:24.482Z
 tags:
   - laptops
 categories:
@@ -35,26 +35,32 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -68,10 +74,10 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -99,10 +105,10 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -161,15 +167,22 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-decoding-the-revised-youtube-earnings-criteria/"><u>[Updated] In 2024, Decoding the Revised YouTube Earnings Criteria</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-essential-snapshot-strategies-snapchat-boomerangs-unveiled-for-2024/"><u>[Updated] The Essential Snapshot Strategies Snapchat Boomerangs Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-vivid-visions-enhancing-youtubes-aesthentic-content-for-2024/"><u>[Updated] Vivid Visions Enhancing YouTube's Aesthentic Content for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/130-handheld-display-transforms-pricey-1000-dell-desktop-into-a-relic-insights-from-zdnet/"><u>$130 Handheld Display Transforms Pricey $1,000 Dell Desktop Into a Relic: Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-magic-5-lite-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Magic 5 Lite Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-temus-updated-returns-process-a-user-experience-review-on-multiple-item-rejection-techspot/"><u>Inside Temu's Updated Returns Process: A User Experience Review on Multiple Item Rejection | TechSpot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptop-cooling-mats-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top-Rated Laptop Cooling Mats - Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-innocn-27c1u-a-look-at-its-vibrant-4k-screen-and-swift-connection-process-expert-review-by-zdnet/"><u>Unboxing the Innocn 27C1U: A Look at Its Vibrant 4K Screen and Swift Connection Process - Expert Review by ZDNET</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/sh-your-youtube-playlists-a-comprehensive-guide-for-2024/"><u>Unleash Your YouTube Playlists A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-3-simplified-ways-to-save-lenovo-screenshots/"><u>[New] 2024 Approved 3 Simplified Ways to Save Lenovo Screenshots</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-rapid-runners-prime-fastest-titles-for-pc-mobile-devices/"><u>[New] 2024 Approved Rapid Runners Prime Fastest Titles for PC, Mobile Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-report-dji-inspire-1-reviewed/"><u>[Updated] Comprehensive Report DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-avoiding-blur-on-instagram-with-smart-zooms/"><u>[Updated] In 2024, Avoiding Blur on Instagram with Smart Zooms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb/"><u>[Updated] In 2024, The Future Is Virtual Making and Sharing Immersive Footage for FB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-laptop-performance-by-installing-more-ram-expert-advice-on-pc-hardware-from-zdnet/"><u>Boost Laptop Performance by Installing More RAM – Expert Advice on PC Hardware From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-life-simplified-with-the-ultimate-2-in-1-laptop-for-balancing-studies-and-fun-highly-recommended-by-experts-at-zdnet/"><u>College Life Simplified with the Ultimate 2-in-1 Laptop for Balancing Studies and Fun - Highly Recommended by Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-emotions-with-the-new-m2-macbook-air-a-tearful-review/"><u>Experiencing Emotions with the New M2 MacBook Air - A Tearful Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-redo-on-windows-with-a-hotkey/"><u>How to Redo on Windows With a Hotkey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-itel-p55plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Itel P55+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-insiders-guide-to-recording-slideshows/"><u>In 2024, The Insider's Guide to Recording Slideshows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-ultimate-mini-portable-charger-power-up-your-laptops-tablets-and-phones-with-ease-review/"><u>Introducing the Ultimate Mini Portable Charger: Power up Your Laptops, Tablets & Phones with Ease Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-wallet-exclusive-offers-to-shop-on-ebay-pre-prime-day-2024-techcrunch/"><u>Maximize Your Wallet: Exclusive Offers to Shop On eBay Pre-Prime Day 2024 | TechCrunch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/metas-exclusive-october-deal-on-512gb-quest-3-emerges-as-prime-days-top-virtual-reality-bargain-tech-analysis/"><u>Meta's Exclusive October Deal on 512GB Quest 3 Emerges as Prime Day’s Top Virtual Reality Bargain | Tech Analysis</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-of-the-app-store-top-iphone-apps/"><u>New In 2024, The Best of the App Store Top iPhone Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ultimate-lightweight-laptop-for-seamless-remote-work-reviewed-on-zdnet/"><u>Top Pick: The Ultimate Lightweight Laptop for Seamless Remote Work - Reviewed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-on-video-games-october-2024-preview-pcmag/"><u>Top Prime Day Bargains on Video Games: October 2024 Preview - PCMag</u></a></li>
 </ul></div>
 

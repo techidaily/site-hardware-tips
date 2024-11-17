@@ -1,7 +1,7 @@
 ---
 title: HP Stuns Industry with New Compact All-in-One Computer – Uncover the Unexpected News on ZDNet
-date: 2024-09-19 23:12:54
-updated: 2024-09-20 10:31:36
+date: 2024-11-10T20:14:25.079Z
+updated: 2024-11-17T20:30:44.746Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-skyline-redefined-q500-typhoon-reviewed-for-2024/"><u>[Updated] Skyline Redefined Q500 Typhoon Reviewed for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-minecraft-realms-is-it-a-smart-investment-for-players/"><u>A Deep Dive Into Minecraft Realms - Is It a Smart Investment for Players?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/aesir-clash-in-the-shadow-of-ragnarok/"><u>Aesir Clash In the Shadow of Ragnarok</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/at-ces-2023-belkin-unveils-innovative-recycling-program-for-plastics-gadget-review/"><u>At CES 2023, Belkin Unveils Innovative Recycling Program for Plastics | Gadget Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/belkin-launches-eco-friendly-plastic-revolution-at-ces-2023-the-latest-from-tech-news/"><u>Belkin Launches Eco-Friendly Plastic Revolution at CES 2023 - The Latest From Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-green-tomorrow-with-technology-navigating-the-obstacles-and-leveraging-potential-insights-from-zdnet/"><u>Building a Green Tomorrow with Technology: Navigating the Obstacles & Leveraging Potential - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/combating-global-warming-top-5-tech-innovations-poised-to-make-a-difference-zdnet/"><u>Combating Global Warming: Top 5 Tech Innovations Poised to Make a Difference | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/conquering-the-ice-with-ease-an-innovative-electric-snow-blower-for-harsh-ohio-winters-zdnet/"><u>Conquering the Ice with Ease: An Innovative Electric Snow Blower for Harsh Ohio Winters | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-the-revolutionary-suv-of-bikes-make-cars-obsolete-discover-its-potential-impact-on-daily-commutes-zdnet/"><u>Could the Revolutionary 'SUV of Bikes' Make Cars Obsolete? Discover Its Potential Impact on Daily Commutes | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-eco-friendly-audio-the-journey-of-creating-speakers-from-reclaimed-ocean-waste/"><u>Crafting Eco-Friendly Audio: The Journey of Creating Speakers From Reclaimed Ocean Waste</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-kids-in-secure-family-oriented-steam-adventures/"><u>Engaging Kids in Secure, Family-Oriented Steam Adventures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-huawei-p60-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Huawei P60 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-for-fixing-messages-showing-numbers-and-not-contact-names-on-your-smartphone/"><u>Tips for Fixing Messages Showing Numbers and Not Contact Names on Your Smartphone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-15-tools-for-boosting-fb-sales-through-data-analysis-for-2024/"><u>Top 15 Tools for Boosting FB Sales Through Data Analysis for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-electric-sedans-a-head-to-head-comparison-model-s-vs-3-vs-x-vs-y-zdnet/"><u>Top Electric Sedans : A Head-to-Head Comparison - Model S Vs. 3 Vs. X Vs. Y (ZDNet)</u></a></li>
+</ul></div>
+

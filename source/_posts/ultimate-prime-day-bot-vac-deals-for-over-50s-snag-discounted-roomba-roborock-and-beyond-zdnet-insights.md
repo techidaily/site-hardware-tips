@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Prime Day Bot Vac Deals for Over 50S: Snag Discounted Roomba, Roborock & Beyond | ZDNET Insights"
-date: 2024-09-17 14:32:55
-updated: 2024-09-20 10:35:10
+date: 2024-11-10T16:42:28.901Z
+updated: 2024-11-17T20:35:57.816Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-filmmakers-approach-to-youtube-splitscreen-videos-for-2024/"><u>[New] A Filmmaker's Approach to YouTube Splitscreen Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamlessly-sync-your-ideas-on-mematic/"><u>[New] Seamlessly Sync Your Ideas on Mematic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sns-vs-competitors-a-critical-hdr-software-comparison/"><u>[New] SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1k-sale-alert-your-ideal-work-from-anywhere-laptop-by-lenovo-as-endorsed-by-zdnet/"><u>$1K Sale Alert! Your Ideal Work-From-Anywhere Laptop by Lenovo as Endorsed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpegifmovavi/"><u>簡単なステップでMPE画像を自由にGIFに変換：Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nubia-red-magic-9-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nubia Red Magic 9 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-epic-black-friday-gaming-bargains-in-october-202-get-premium-games-at-half-price-dont-miss-this-final-opportunity/"><u>Discover Epic Black Friday Gaming Bargains in October 202^, Get Premium Games at Half Price - Don't Miss This Final Opportunity</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-lenovo-hybrid-device-combines-powerful-window-pc-with-versatile-android-tablet-functionality/"><u>Innovative Lenovo Hybrid Device Combines Powerful Window PC with Versatile Android Tablet Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/portable-monitors-a-smart-choice-for-tech-enthusiasts-find-out-why-these-4-standout-models-are-worth-your-attention/"><u>Portable Monitors: A Smart Choice for Tech Enthusiasts? Find Out Why These 4 Standout Models Are Worth Your Attention</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oppo-a2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Oppo A2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-bargains-on-video-games-during-amazons-prime-day-event-october-2024-a-must-see-list/"><u>Top Bargains on Video Games During Amazon's Prime Day Event - October 2024: A Must-See List!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-blowout-sales-premium-laptops-at-unbeatable-prices-october-2024-edition/"><u>Top Prime Day Blowout Sales: Premium Laptops at Unbeatable Prices - October 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-alternative-to-macbook-air-discover-a-powerful-affordable-windows-laptop-with-equivalent-performance/"><u>Top-Recommended Alternative to MacBook Air: Discover a Powerful, Affordable Windows Laptop with Equivalent Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-sound-experience-save-big-with-a-150-discount-on-the-ultimate-gaming-speakers-now-available-on-amazon-insights-from-zdnet/"><u>Unparalleled Sound Experience: Save Big with a $150 Discount on the Ultimate Gaming Speakers Now Available on Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hp-omnibook-a-leap-beyond-past-models-insider-review-on-zdnet/"><u>Unveiling HP OmniBook: A Leap Beyond Past Models - Insider Review on ZDNet</u></a></li>
+</ul></div>
+

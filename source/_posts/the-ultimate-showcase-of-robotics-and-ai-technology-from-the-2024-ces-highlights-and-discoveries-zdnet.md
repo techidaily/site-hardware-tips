@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Showcase of Robotics & AI Technology From the 2024 CES: Highlights and Discoveries | ZDNET"
-date: 2024-09-19 15:21:30
-updated: 2024-09-20 11:48:18
+date: 2024-11-14T19:48:22.056Z
+updated: 2024-11-17T21:38:01.762Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-leading-animals-in-play-androids-favorites-list/"><u>[New] In 2024, Leading Animals in Play Android's Favorites List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-vdv-hd-screen-grabber-review-the-ultimate-guide-for-2024/"><u>[New] VDV HD Screen Grabber Review The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-essential-hands-on-vr-gear-lists/"><u>[Updated] In 2024, Essential Hands-On VR Gear Lists</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/5-effective-strategies-to-drive-technological-sustainability-expert-insights-from-zdnet/"><u>5 Effective Strategies to Drive Technological Sustainability: Expert Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adorable-drone-duo-tackling-pollution-in-the-great-lakes-zdnets-eco-initiative/"><u>Adorable Drone Duo Tackling Pollution in the Great Lakes | ZDNet's Eco Initiative</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-powered-inkjet-irrigation-cutting-down-on-water-waste-with-revolutionary-smart-sprinklers-insights-by-zdnet/"><u>AI-Powered Inkjet Irrigation: Cutting Down on Water Waste with Revolutionary Smart Sprinklers - Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-grants-green-light-on-refurbished-components-for-specific-iphone-fixes-zdnet/"><u>Apple Grants Green Light on Refurbished Components for Specific iPhone Fixes - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-greener-future-with-technology-top-5-tips-for-achieving-tech-based-eco-friendliness-advice-from-zdnet-experts/"><u>Building a Greener Future with Technology: Top 5 Tips for Achieving Tech-Based Eco-Friendliness | Advice From ZDNet Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-ppt-slides-via-webcam-2023-techniques-for-2024/"><u>Capturing PPT Slides via Webcam 2023 Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-free-transcode-mov-files-to-mp4-on-any-device-including-pcs-and-laptops-with-latest-os-update-windows-11/"><u>How to Free Transcode Mov Files to MP4 on Any Device Including PCs & Laptops with Latest OS Update (Windows 11)</u></a></li>
+<li><a href="https://article-files.techidaily.com/leading-edge-vr-game-development-technology-2023-edition/"><u>Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+</ul></div>
+

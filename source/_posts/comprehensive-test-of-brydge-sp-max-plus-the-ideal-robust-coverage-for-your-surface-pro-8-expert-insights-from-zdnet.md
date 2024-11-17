@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Test of Brydge SP Max Plus: The Ideal Robust Coverage for Your Surface Pro 8 - Expert Insights From ZDNet"
-date: 2024-11-06T16:14:50.871Z
-updated: 2024-11-07T16:09:12.150Z
+date: 2024-11-13T17:33:10.227Z
+updated: 2024-11-17T20:03:24.714Z
 tags:
   - laptops
 categories:
@@ -44,19 +44,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -70,10 +57,10 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -93,10 +80,16 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -135,6 +128,13 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -156,16 +156,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -212,20 +206,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-building-size/"><u>[New] Building Size</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-wealth-with-facebook-video-ads-a-comprehensive-guide/"><u>[Updated] Crafting Wealth with Facebook Video Ads A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-more-than-clicks-what-determines-youtubes-view-numbers/"><u>2024 Approved More than Clicks What Determines YouTube's View Numbers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-silicon-success-highlighted-at-peek-performance-a-deep-dive-into-tech-innovation/"><u>Apple Silicon Success Highlighted at Peek Performance: A Deep Dive Into Tech Innovation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-5-desktop-pcs-tailored-for-graphics-mastery-zdnets-recommendation/"><u>Discover the Ultimate 5 Desktop PCs Tailored for Graphics Mastery (ZDNet's Recommendation)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-access-the-latest-energy-efficient-updates-in-google-chrome-a-step-by-step-guide/"><u>How To Access the Latest Energy-Efficient Updates in Google Chrome: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-c51-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme C51 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-presence-zooming-past-background-imperfections/"><u>In 2024, Perfecting Presence Zooming Past Background Imperfections</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-savings-on-amazon-up-to-51-off-the-high-capacity-4tb-samsung-t5-external-ssd-find-your-deal-today/"><u>Massive Savings on Amazon: Up to 51% Off the High-Capacity 4TB Samsung T5 External SSD – Find Your Deal Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/recognizing-inauthentic-connection-offers-identifying-false-friend-invitations/"><u>Recognizing Inauthentic Connection Offers: Identifying False Friend Invitations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sustained-optimism-in-brazilian-computer-sector-revealed-by-latest-zdnet-analysis/"><u>Sustained Optimism in Brazilian Computer Sector, Revealed by Latest ZDNet Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-reviews-and-insights-on-nacons-revolution-x-pro-game-pad-the-ultimate-gaming-accessory-in-2n12/"><u>Top Reviews & Insights on Nacon's Revolution X Pro Game Pad – The Ultimate Gaming Accessory in 2N12</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-blue-light-filtering-film-sheets-for-screens-recommended-picks/"><u>Top-Rated Blue Light Filtering Film Sheets for Screens - Recommended Picks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-shorts-secrets/"><u>Unlocking YouTube Shorts Secrets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-secrets-unlocked-banishing-instagram-video-fails/"><u>[New] 2024 Approved Secrets Unlocked Banishing Instagram Video Fails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-newest-dell-xps-series-why-you-should-think-twice-before-buying-insights/"><u>Exploring the Newest Dell XPS Series: Why You Should Think Twice Before Buying - Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-smart-8-hd-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Smart 8 HD Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-latest-vr-gaming-engines-review-2023-edition/"><u>In 2024, Latest VR Gaming Engines Review - 2023 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-cyber-monday-savings-on-lg-gram-17-shop-the-ultra-slim-high-res-display-laptop-now-for-400-less/"><u>Massive Cyber Monday Savings on LG Gram 17 - Shop the Ultra-Slim, High-Res Display Laptop Now for $400 Less!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-alert-recurring-bedbug-plague-hits-student-chromebooks-across-campuses-insights/"><u>Tech Alert: Recurring Bedbug Plague Hits Student Chromebooks Across Campuses - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-of-immersive-experiences-clarifying-ar-vs-vr-with-additional-insights-on-mr-and-xr/"><u>The Evolution of Immersive Experiences: Clarifying AR vs VR with Additional Insights on MR and XR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-flip-side-of-free-ai-counseling-services/"><u>The Flip Side of Free AI Counseling Services</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-antivirus-solutions-expert-reviews-by-zdnet/"><u>Top-Ranked Antivirus Solutions - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-reviews-and-picks-for-2/"><u>Top-Ranking OLED Laptop Reviews & Picks for 2</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-utilizing-apples-messaging-service-on-pc/"><u>Understanding and Utilizing Apple's Messaging Service on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-innovation-how-samsung-upgrades-its-copilotplus-pc-with-cutting-edge-artifice-intelligence-capabilities-zdnet-insights/"><u>Unveiling Innovation: How Samsung Upgrades Its Copilot+ PC with Cutting-Edge Artifice Intelligence Capabilities | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-go-to-ipad-pro-accessory-solution-with-the-new-usb-c-hub-insights/"><u>Your Go-To iPad Pro Accessory Solution with the New USB-C Hub – Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-a-work-travelers-top-pick-for-the-ultimate-non-microsoft-non-lenovo-tablet-experience/"><u>ZDNet Exclusive: A Work Traveler's Top Pick for the Ultimate Non-Microsoft, Non-Lenovo Tablet Experience</u></a></li>
 </ul></div>
 

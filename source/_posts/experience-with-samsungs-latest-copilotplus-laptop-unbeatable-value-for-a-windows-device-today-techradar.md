@@ -1,7 +1,7 @@
 ---
 title: Experience with Samsung's Latest Copilot+ Laptop - Unbeatable Value for a Windows Device Today | TechRadar
-date: 2024-11-01T16:09:39.167Z
-updated: 2024-11-07T16:24:29.151Z
+date: 2024-11-11T16:18:45.118Z
+updated: 2024-11-17T20:26:39.556Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -118,10 +118,10 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,10 +131,10 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -171,20 +171,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-methods-amp-up-your-yt-video-quality/"><u>[New] 2024 Approved Effortless Methods Amp Up Your YT Video Quality</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-accelerating-vimeo-content-streams/"><u>[Updated] 2024 Approved Accelerating Vimeo Content Streams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-navigating-io-screener/"><u>[Updated] In 2024, Step-by-Step Guide to Navigating IO Screener</u></a></li>
-<li><a href="https://article-posts.techidaily.com/3-straightforward-methods-to-fine-tune-shades/"><u>3 Straightforward Methods to Fine-Tune Shades</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-motorola-edge-40-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Motorola Edge 40 Pro.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-smart-home-gadgets-my-unexpected-adventure-with-a-robotic-window-washer-zdnets-innovation-spotlight/"><u>Exploring the World of Smart Home Gadgets: My Unexpected Adventure With a Robotic Window Washer | ZDNet's Innovation Spotlight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/groundbreaking-ai-advancement-google-deepminds-latest-rt-2-system-equips-robotics-with-new-skills-venturebeat/"><u>Groundbreaking AI Advancement: Google DeepMind's Latest RT- 2 System Equips Robotics with New Skills | VentureBeat</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-high-performance-eufy-turbo-robot-vacuum-for-just-360-until-labor-day-exclusive-deals-on-zdnet/"><u>Limited Time Offer: High-Performance Eufy Turbo Robot Vacuum for Just $360 Until Labor Day - Exclusive Deals on ZDNet!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-fps-hp-graphics-in-windows-10/"><u>Maximize FPS: HP Graphics in Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-join-mov-videos-without-spending-a-dime-5-options/"><u>New In 2024, Join MOV Videos Without Spending a Dime 5 Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-garden-efficiency-how-an-ai-sprinkler-system-combines-smart-tech-and-printing-to-minimize-water-use-zdnet/"><u>Revolutionizing Garden Efficiency: How an AI Sprinkler System Combines Smart Tech and Printing to Minimize Water Use | ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932897-9781855843257-the-goddess/"><u>The Goddess | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-prime-day-bot-vac-deals-for-over-50s-snag-discounted-roomba-roborock-and-beyond-zdnet-insights/"><u>Ultimate Prime Day Bot Vac Deals for Over 50S: Snag Discounted Roomba, Roborock & Beyond | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-top-picks-for-leading-telepresence-units-a-review/"><u>ZDNet's Top Picks for Leading Telepresence Units - A Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-a-comprehensible-list-of-mac-snippers-ranked/"><u>[New] In 2024, A Comprehensible List of Mac Snippers Ranked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-ranking-of-8-swift-recorders-for-2024/"><u>[Updated] Ultimate Ranking of 8 Swift Recorders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-twilight-tactics-capturing-the-best-in-low-light-portraits/"><u>2024 Approved Twilight Tactics Capturing the Best in Low Light Portraits</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iosandroid-leading-photo-writing-app-list/"><u>IOS/Android Leading Photo-Writing App List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-discover-the-ultimate-guide-to-buying-high-quality-qled-tvs-for-half-price-tips-from-zdnet-tech-experts/"><u>Labor Day Sale Alert: Discover the Ultimate Guide to Buying High-Quality QLED TVs for Half Price - Tips From ZDNET Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-savings-explore-why-our-top-picks-consider-this-samsung-tv-now-43-off-the-ultimate-smart-tv-offer-zdnet-reviews/"><u>Labor Day Savings: Explore Why Our Top Picks Consider This Samsung TV, Now 43% Off, the Ultimate Smart TV Offer | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-secure-your-85-inch-tcl-television-at-an-unbeatable-price-of-only-900-before-labor-day-ends/"><u>Limited Time Offer: Secure Your 85-Inch TCL Television at an Unbeatable Price of Only $900 Before Labor Day Ends!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/making-the-leap-a-pros-guide-on-purchasing-your-first-8k-television-insights-and-tips-from-a-zdnet-specialist/"><u>Making the Leap: A Pro's Guide on Purchasing Your First 8K Television - Insights & Tips From a ZDNet Specialist</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/marchs-must-watch-movies-and-shows-for-streamers-insider-reviews-by-zdnet/"><u>March's Must-Watch Movies and Shows for Streamers: Insider Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tv-picture-settings-unlock-ultimate-viewing-experience-with-these-two-effortless-calibration-methods-zdnet/"><u>Mastering TV Picture Settings: Unlock Ultimate Viewing Experience with These Two Effortless Calibration Methods | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-three-chatbots-face-off-gpt-microsofts-ai-and-googles-bard/"><u>Top Three Chatbots Face-Off: GPT, Microsoft's AI & Google's Bard</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728493559266-windows-7usb/"><u>Windows 7システムの完全なバックアップと起動用USBメモリ生成ガイド</u></a></li>
 </ul></div>
 

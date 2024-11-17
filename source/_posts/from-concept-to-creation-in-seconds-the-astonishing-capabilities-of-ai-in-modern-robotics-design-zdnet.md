@@ -1,7 +1,7 @@
 ---
 title: "From Concept to Creation in Seconds: The Astonishing Capabilities of AI in Modern Robotics Design | ZDNet"
-date: 2024-09-19 23:56:36
-updated: 2024-09-20 11:24:18
+date: 2024-11-11T17:24:44.813Z
+updated: 2024-11-17T21:11:47.900Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-critically-acclaimed-grabber-tech/"><u>[New] In 2024, Critically Acclaimed Grabber Tech</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-dive-into-photography-mastering-snapseeds-tools/"><u>[Updated] In 2024, Dive Into Photography Mastering Snapseed's Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-the-undisclosed-world-of-youtube-videos/"><u>2024 Approved Decoding the Undisclosed World of YouTube Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-lenovo-x220-drivers-easily-complete-guide-for-hassle-free-setup/"><u>Download & Install Lenovo X220 Drivers Easily: Complete Guide for Hassle-Free Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-power-your-entire-house-with-ecoflows-portable-battery-during-outages-insights-from-zdnet/"><u>Efficiently Power Your Entire House with EcoFlow's Portable Battery During Outages - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-quality-electric-bbq-with-a-50-discount-find-your-ideal-weber-grill-at-unbeatable-prices/"><u>Experience Top-Quality Electric BBQ with a $50 Discount: Find Your Ideal Weber Grill at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-elite-armor-options-the-premier-iphone-14-pro-and-pro-max-cases-of-2024-reviewed-by-tech-experts-at-zdnet/"><u>Exploring Elite Armor Options: The Premier iPhone 14 Pro and Pro Max Cases of 2024 Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/five-effective-strategies-for-enhancing-technological-sustainability-insights-from-zdnet/"><u>Five Effective Strategies for Enhancing Technological Sustainability | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/glimpse-into-technological-evolution-insights-from-samsung-galaxy-s23-and-dell-xps-book-portable-pro/"><u>Glimpse Into Technological Evolution: Insights From Samsung Galaxy S23 and Dell XPS Book Portable Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-nightscape-techniques-unlocked/"><u>IPhone Nightscape Techniques Unlocked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scripting-success-bash-and-chatgpt-interactions-explained/"><u>Scripting Success: Bash and ChatGPT Interactions Explained</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionary-logo-designs-that-define-your-podcast-brand/"><u>Visionary Logo Designs that Define Your Podcast Brand</u></a></li>
+</ul></div>
+

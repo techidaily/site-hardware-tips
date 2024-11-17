@@ -1,7 +1,7 @@
 ---
 title: Chipotle Invests in Future of Technology with New Venture Capital Initiative - ZDNet
-date: 2024-09-19 11:12:37
-updated: 2024-09-20 11:19:47
+date: 2024-11-11T17:06:09.345Z
+updated: 2024-11-17T17:53:29.061Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-branding-excellence-youtube-naming-masterclass/"><u>[New] Branding Excellence YouTube Naming Masterclass</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-behind-the-scenes-insights-for-instagram-story-audience/"><u>[Updated] Behind the Scenes Insights for Instagram Story Audience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/behind-the-scenes-samsungs-s8-and-4k-technology-for-2024/"><u>Behind the Scenes Samsung's S8 and 4K Technology for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-alternatives-to-vimeos-video-editor/"><u>Cutting Edge Alternatives to Vimeo's Video Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-the-latest-samsung-galaxy-a35-with-complimentary-buds-fe-from-amazon-featured-in-our-exclusive-zdnet-guide/"><u>Score the Latest Samsung Galaxy A35 with Complimentary Buds FE From Amazon, Featured in Our Exclusive ZDNet Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scoring-free-galaxy-buds-seplus-with-your-new-samsung-galaxy-a35-the-complete-guide/"><u>Scoring Free Galaxy Buds SE+ with Your New Samsung Galaxy A35 - The Complete Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-up-to-32-off-xbox-one-fire-tv-stick-4k-and-control-pack-with-xbox-game-pass-promo-zdnet-exclusive-deals/"><u>Secure Up To 32% Off Xbox One Fire TV Stick 4K & Control Pack with Xbox Game Pass Promo - ZDNet Exclusive Deals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-by-two-thirds-on-the-fire-hd-8-plus-tablet-get-yours-today-at-zdnet/"><u>Slash Prices by Two-Thirds on the Fire HD 8 Plus Tablet - Get Yours Today at ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-costs-upgrade-to-amazon-fire-hd-8-plus-at-over-50-discount-through-our-trade-in-program/"><u>Slash Your Costs: Upgrade to Amazon Fire HD 8 Plus at Over 50% Discount Through Our Trade-In Program</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sonos-update-introduces-new-customizable-dashboard-and-all-in-one-search-functionality-for-improved-user-experience-gadgetguru/"><u>Sonos Update Introduces New Customizable Dashboard & All-in-One Search Functionality for Improved User Experience | GadgetGuru</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategy-for-fixing-broken-system-files-in-windows-11/"><u>Step-by-Step Strategy for Fixing Broken System Files in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-inadvertent-command-triggers-in-operating-system/"><u>Stopping Inadvertent Command Triggers in Operating System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-xiaomi-mi-projection-set-up-big-screen-entertainment-on-demand-for-any-room-gizmodo/"><u>The Ultimate Guide to the Xiaomi Mi Projection Set-Up: Big Screen Entertainment on Demand for Any Room | Gizmodo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-36-unbeatable-holiday-subscription-offers-for-services-like-roku-spotify-pandora-and-amazon-prime-tech-savvy-guide/"><u>Top 36 Unbeatable Holiday Subscription Offers for Services Like Roku, Spotify, Pandora & Amazon Prime | Tech-Savvy Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-36-unmissable-online-entertainment-offers-this-season-explore-the-best-options-on-roku-apple-music-max-amazon-and-others-zdnet/"><u>Top 36 Unmissable Online Entertainment Offers This Season: Explore the Best Options on Roku, Apple Music, Max, Amazon & Others | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-s18-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo S18 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncover-if-applecareplus-offers-worthwhile-benefits-to-consumers/"><u>Uncover if AppleCare+ Offers Worthwhile Benefits to Consumers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-official-4-best-ways-to-get-filmora-discount-codes-for-2024/"><u>Updated Official 4 Best Ways to Get Filmora Discount Codes for 2024</u></a></li>
+</ul></div>
+

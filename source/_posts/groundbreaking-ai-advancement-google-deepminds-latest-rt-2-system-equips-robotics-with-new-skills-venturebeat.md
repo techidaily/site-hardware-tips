@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking AI Advancement: Google DeepMind's Latest RT- 2 System Equips Robotics with New Skills | VentureBeat"
-date: 2024-09-17 20:55:34
-updated: 2024-09-20 12:50:37
+date: 2024-11-16T18:37:42.568Z
+updated: 2024-11-17T19:08:16.466Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,33 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-sony-vegas/"><u>[New] In 2024, How to Edit YouTube Videos in Sony Vegas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-blueprint-mastering-telegram-web/"><u>[Updated] The Beginner's Blueprint Mastering Telegram Web</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-nitro-5-gaming-laptop-sale-secure-savings-of-up-to-250-now-zdnet/"><u>Acer Nitro 5 Gaming Laptop Sale - Secure Savings of Up To $250 Now! | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-alert-snag-an-hp-pavilion-laptop-for-half-the-price-only-450-this-year-zdnet/"><u>Cyber Monday Alert: Snag an HP Pavilion Laptop for Half the Price - Only $450 This Year! | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-revolutionary-self-rotating-notebook-unveiled-at-ifa-2024-a-game-changer-for-mobile-workstations-techradar/"><u>Experiencing Lenovo's Revolutionary Self-Rotating Notebook Unveiled at IFA 2024: A Game-Changer for Mobile Workstations? | TechRadar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6s-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-step-towards-stunning-visuals-using-video-enhancer-22/"><u>In 2024, Step Towards Stunning Visuals - Using Video Enhancer 2.2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-tutorial-windows-compatible-usb-bt400/"><u>Installation Tutorial: Windows Compatible USB BT400</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reinstate-fb-watch-video-tile/"><u>Reinstate FB Watch Video Tile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-beginners-choice-of-linux-distributions-thoroughly-evaluated-and-ranked-with-expert-reviews/"><u>Ultimate Beginner's Choice of Linux Distributions: Thoroughly Evaluated & Ranked with Expert Reviews</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Business User Guide: Unpacking the Features and Performance of Microsoft Surface Pro 8"
-date: 2024-11-02T16:00:20.416Z
-updated: 2024-11-07T16:07:00.803Z
+date: 2024-11-15T21:43:50.655Z
+updated: 2024-11-17T17:21:16.855Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,10 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -85,10 +85,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -130,20 +130,16 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-11-useful-youtube-seo-tips-to-help-rank-your-video-high-for-2024/"><u>[New] 11 Useful YouTube SEO Tips to Help Rank Your Video High for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-acoustic-mastery-secrets-for-exceptional-audio-capture-for-2024/"><u>[New] Acoustic Mastery Secrets for Exceptional Audio Capture for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-boost-your-posts-with-these-8-instagram-scheduling-apps-for-2024/"><u>[Updated] Boost Your Posts with These 8 Instagram Scheduling Apps for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-redesign-instant-twitter-video-view/"><u>[Updated] In 2024, Redesign Instant Twitter Video View</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-venturing-virtuality-a-review-of-lgs-360-headset/"><u>2024 Approved Venturing Virtuality A Review of LG's 360 Headset</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728477060169-windows-117/"><u>効率的な手順：Windows 11と7のディレクトリをどうすればよく同期できるか？</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-the-midland-lxt500vp3-radio-highly-functional-but-with-inconsistent-outcomes/"><u>Inside Look at the Midland LXT500VP3 Radio - Highly Functional but with Inconsistent Outcomes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsoft-ends-hopes-for-windows-10-lifeline-an-unannounced-update-fades-prospects-tech-news/"><u>Microsoft Ends Hopes for Windows 10 Lifeline: An Unannounced Update Fades Prospects | Tech News</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/navigating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>Navigating the Obscured Realm of YouTube A Methodical Approach</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/quick-and-easy-transforming-your-microsoft-surface-go-into-a-linux-machine-in-under-an-hour/"><u>Quick and Easy: Transforming Your Microsoft Surface Go Into a Linux Machine in Under an Hour!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/seamless-4k-computer-transition-with-iogears-easy-2-port-kvm-switch-a-review-by-zdnet/"><u>Seamless 4K Computer Transition with IOGEAR's Easy 2-Port KVM Switch: A Review by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-17-unbeatable-cyber-monday-bargains-exclusive-offers-on-televisions-audio-gear-and-sound-systems-save-big-now/"><u>Top 17 Unbeatable Cyber Monday Bargains: Exclusive Offers on Televisions, Audio Gear & Sound Systems - Save Big Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-5g-notebooks-expert-reviews-from-zdnet/"><u>Top 5 Premium 5G Notebooks : Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ubuntu-2304-lobster-moon-launched-by-canonical-a-comprehensive-guide-to-the-latest-linux-os-for-work-and-entertainment-insights-from-zdnet/"><u>Ubuntu 23.04 'Lobster Moon' Launched by Canonical: A Comprehensive Guide to the Latest Linux OS for Work and Entertainment | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-savings-purchase-high-performance-msi-gaming-notebooks-at-500-discounted-price-today-only/"><u>Unlock Immediate Savings: Purchase High-Performance MSI Gaming Notebooks at $500 Discounted Price - Today Only!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cinemas-best-bits-select-snippets-for-edits/"><u>[New] Cinema’s Best Bits Select Snippets for Edits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-drone-visionarys-guide-to-mavic-pro/"><u>[New] In 2024, Drone Visionary's Guide to Mavic Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-savings-with-our-pick-of-ultimate-october-2pert-deals-on-laptops-insider-tips/"><u>Ace Your Savings with Our Pick of Ultimate October 2Pert Deals on Laptops Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-endurance-and-style-highly-recommended-13-inch-notebook-choice/"><u>Experience Unparalleled Endurance and Style Highly Recommended 13-Inch Notebook Choice!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guia-detalhado-gravar-dvds-manualmente-em-windows-11-10-8-ou-7/"><u>Guia Detalhado: Gravar DVDs Manualmente Em Windows 11, 10, 8 Ou 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-8s-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 8S Prowith/without a PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-boost-your-tunes-quickly-top-phone-app-selection/"><u>In 2024, Boost Your Tunes Quickly Top Phone App Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sale-alert-snag-a-discounted-8tb-samsung-portable-ssd-on-amazons-prime-day-up-to-45-off/"><u>Sale Alert: Snag a Discounted 8TB Samsung Portable SSD on Amazon's Prime Day - Up to 45% Off!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sing-your-heart-out-on-the-sml38ebtbk-karaoke-machine-user-friendly-interface-and-stunning-visuals-await/"><u>Sing Your Heart Out on the SML38ebtBK Karaoke Machine: User-Friendly Interface and Stunning Visuals Await</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-hp-zbook-studio-g9-powerful-mobile-workstation-with-diverse-graphic-capabilities-reviewed/"><u>The Ultimate Guide to the HP ZBook Studio G9: Powerful Mobile Workstation with Diverse Graphic Capabilities | Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-ipad-and-non-thinkpad-tablets-ideal-for-business-trips-according-to-zdnet/"><u>Top Non-iPad and Non-ThinkPad Tablets Ideal for Business Trips, According to ZDNet</u></a></li>
 </ul></div>
 

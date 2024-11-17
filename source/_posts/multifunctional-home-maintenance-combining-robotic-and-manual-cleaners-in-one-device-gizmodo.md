@@ -1,7 +1,7 @@
 ---
 title: "Multifunctional Home Maintenance: Combining Robotic and Manual Cleaners in One Device | Gizmodo"
-date: 2024-09-19 13:38:17
-updated: 2024-09-20 12:41:55
+date: 2024-11-11T20:19:04.261Z
+updated: 2024-11-17T18:36:37.161Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-content-potential-through-youtube-aspect-ratios/"><u>[New] In 2024, Unlocking Content Potential Through YouTube Aspect Ratios</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stream-mastery-on-mac-with-these-5-tools/"><u>[New] Stream Mastery on Mac with These 5 Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-is-itops-performance-worth-your-investment/"><u>2024 Approved Is ITop's Performance Worth Your Investment?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-game-changer-in-portability-and-visuals-reviewing-the-laptop-with-stunning-screen-quality/"><u>A Game Changer in Portability & Visuals - Reviewing The Laptop with Stunning Screen Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862734166-best-buy-unveils-new-release-date-for-innovative-ryzen-ai-300-laptops-order-starting-june-28/"><u>Best Buy Unveils New Release Date for Innovative Ryzen AI 300 Laptops - Order Starting June 28!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>In 2024, Designing Powerful YouTube Screens A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-past-reverse-video-on-ios-devices/"><u>In 2024, Explore the Past Reverse Video on iOS Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-s18e-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo S18e Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-and-save-big-grab-the-essential-flip-out-laptop-screen-at-a-stunning-93-off-for-prime-day/"><u>Maximize Productivity & Save Big: Grab the Essential Flip-Out Laptop Screen at a Stunning $93 Off for Prime Day</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-update-failures-with-error-x80246007-fixes/"><u>Stop WIndows Update Failures with Error X80246007 Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stunning-display-and-exceptional-durability-a-top-reviewed-long-lasting-laptop-from-zdnet/"><u>Stunning Display and Exceptional Durability - A Top Reviewed Long-Lasting Laptop From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1729393708574-top-rated-streaming-microphones-expert-picks/"><u>Top-Rated Streaming Microphones - Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-review-how-the-new-lenovo-2-in-1-thinkpad-elevates-essential-features-for-power-professionals/"><u>ZDNet Exclusive Review: How the New Lenovo 2-in-1 ThinkPad Elevates Essential Features for Power Professionals</u></a></li>
+</ul></div>
+

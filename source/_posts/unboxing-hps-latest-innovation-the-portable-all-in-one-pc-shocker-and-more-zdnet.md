@@ -1,7 +1,7 @@
 ---
 title: "Unboxing HP's Latest Innovation: The Portable All-in-One PC Shocker & More | Zdnet"
-date: 2024-11-03T16:26:46.197Z
-updated: 2024-11-07T16:14:17.680Z
+date: 2024-11-11T17:04:34.400Z
+updated: 2024-11-17T16:05:37.350Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,13 @@ Razer/ZDNET
 * [Gigabyte Aero 16 AMOLED 4K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233528R): $1400 (save $2600 at Neweeg, **open box**)
 * [Gigabyte Aorus 17 XE4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834725189R): $1200 (save $1250, **open box**)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday gaming laptop deals at Amazon
 
 ASUS/ZDNET
@@ -64,10 +71,10 @@ MSI/ZDNET
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at B&H Photo
@@ -89,13 +96,6 @@ Lenovo/ZDNET
 * [MSI GE77 Raider](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-GE-Series-Raider-17-3-144-Hz-IPS-Intel-Core-i7-12th-Gen-12700H-2-30GHz-NVIDIA-GeForce-RTX-3060-Laptop-GPU-16-GB-DDR5-1-TB-NVMe-SSD-Windows-11-Hom%2F1476304999%3Fathbdg%3DL1700%26adsRedirect%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp): $1000 (save $599)
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at Newegg
 
 * [MSI GP68 Vector](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fcore-black-msi-gp-series-vector-gp68-12vh-006-gaming%252Fp%252FN82E16834156475): $1599 (save $500)
@@ -105,19 +105,19 @@ Lenovo/ZDNET
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Predator Helios 16](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fabyssal-black-acer-predator-helios-16-ph16-71-72yg-gaming%252Fp%252FN82E16834360250): $1500 (save $400)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday graphics card deals
 
 * [Asus ROG Strix GeForce RTX 4070 Ti OC](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-NVIDIA-GeForce-Graphics-DisplayPort%2Fdp%2FB0BQTVQQP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $890 (save $160 at Amazon)
 * [Gigabyte GeForce RTX 3070](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-3070-gv-n3070gaming-oc-8gd%252Fp%252FN82E16814932449): $440 (save $130 at Newegg)
 * [PNY Revel Epic-X GeForce RTX 3070 XLR8](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1664982-REG%2Fpny%5Ftechnologies%5Fvcg30708ltfxppb%5Fgeforce%5Frtx%5F3070%5F8gb.html): $500 (save $220 at B&H Photo)
 * [Zotac GeForce RTX 4070 Twin Edge](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FZOTAC-GAMING-GeForce-RTX-4070-Twin-Edge-DLSS-3-12GB-GDDR6X-192-bit-21-Gbps-PCIE-4-0-Compact-Gaming-Graphics-Card-IceStorm-2-0-Advanced-Cooling-SPECTR%2F3228525314%3Fathbdg%3DL1600&subId1=zd-__COM_CLICK_ID__-dtp): $550 (save $95 at Walmart)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday gaming headset deals
 
@@ -137,13 +137,6 @@ Lenovo/ZDNET
 * [ViewSonic Elite XG 32-inch 4K LED](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fviewsonic-elite-xg320u-32-ips-led-4k-uhd-freesync-gaming-monitor-displayport-hdmi-usb-black%2F6487590.p%3FskuId%3D6487590&publisher_slug=itechdaily19598&exclusive=1): $600 (save $300 at Best Buy)
 * [LG 34-inch curved 1440p](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLG-34-144-Hz-OC-180-Hz-Nano-IPS-UWQHD-Gaming-Monitor-NVIDIA-G-SYNC-ULTIMATE-3440-x-1440-2K-DCI-P3-98-CIE1976-HDMI-DisplayPort-USB-UltraGear-34GP950G%2F388961716&subId1=zd-__COM_CLICK_ID__-dtp): $699 (save $598 at Walmart)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday digital PC game deals
 
 * [Doom Eternal Deluxe Edition](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24348&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fproducts%2Fdoom-eternal-deluxe-edition---pc%2F202348.html): $0.98 (save $1 at GameStop)
@@ -152,6 +145,13 @@ Lenovo/ZDNET
 * [Batman: Arkham Knight Premium Edition](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fwarner-bros-batman-arkham-knight-premium-edition-pc%252Fp%252FN82E16832777143): $5 (save $35 at Newegg)
 * [Madden NFL 23](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmadden-nfl-23-windows-digital%2F6508468.p%3FskuId%3D6508468&publisher_slug=itechdaily19598&exclusive=1): $19 (save $41 at Best Buy)
 * [XCOM: Enemy Unknown](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16832205142): $7 (save $23 at Newegg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these holiday gaming laptop deals?
 
@@ -172,10 +172,16 @@ I chose the Asus TUF A15 (which happens to be on sale at several retailers) as t
 A gaming laptop is one of those things where you can spend as little or as much as you want; it all depends on what you want to get out of it. If you're looking for your kids, or are an adult just starting to get into PC gaming, it's best to go with a laptop that's under $1000\. You'll still get a great build that's capable of handling most triple-A and indie titles, but you won't have broken the bank getting into a new hobby. However, if you're a content creator or PC gaming veteran, about $1500 will get you a solid gaming laptop that can handle just about anything in your library or wishlist.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best holiday tech deals right now?
@@ -243,17 +249,18 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-rise-above-the-crowd-how-to-amass-over-a-million-video-views/"><u>[Updated] Rise Above the Crowd How to Amass Over a Million Video Views</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view/"><u>2024 Approved Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-video-calls-with-zoom-in-gmail-platform/"><u>2024 Approved Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-tech-gurus-guide-to-why-you-need-an-apple-watch-unveil-the-reasons-at-zdnet/"><u>A Tech Guru's Guide to Why You Need an Apple Watch – Unveil the Reasons at ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/android-wear-evolved-how-does-the-google-pixel-watch-stack-up-against-the-apple-series-expert-insights-from-zdnet/"><u>Android Wear Evolved: How Does the Google Pixel Watch Stack Up Against the Apple Series? Expert Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-watch-ultra-durability-challenge-a-full-year-assessment-on-endurance-and-performance/"><u>Apple Watch Ultra Durability Challenge: A Full-Year Assessment on Endurance and Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-the-apple-watch-ultra-and-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Series 8: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-the-garmin-instinct-solar-powered-smartwatch-durable-design-with-vibrant-display-and-extended-battery-life/"><u>Comprehensive Test of the Garmin Instinct Solar-Powered Smartwatch: Durable Design with Vibrant Display & Extended Battery Life</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-addressing-unable-to-install-this-device-access-is-denied-for-usb-devices/"><u>Guide: Addressing 'Unable To Install This Device (Access Is Denied)' For USB Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-grab-soundtracks-flawlessly-discover-the-leading-8-audio-extraction-apps-for-free/"><u>How to Grab Soundtracks Flawlessly: Discover the Leading 8 Audio Extraction Apps for Free!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-trave-for-2024/"><u>How To Record a Podcast on iPhone or iPad (Best for Interviews & Trave for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-design-channels-get-free-visuals-now-for-2024/"><u>[Updated] Design Channels - Get Free Visuals Now for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-dynamic-duality-balancing-white-and-black-for-2024/"><u>[Updated] Dynamic Duality Balancing White and Black for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-maximizing-ram-for-enhanced-minecraft-experience/"><u>[Updated] In 2024, Maximizing RAM for Enhanced Minecraft Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-superior-choices-elite-webcam-holders/"><u>[Updated] Superior Choices Elite Webcam Holders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secrets-to-stunning-nightscape-shots-for-2024/"><u>Secrets to Stunning Nightscape Shots for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-slowdown-top-6-methods-to-optimize-performance-on-smartphones/"><u>Troubleshooting Instagram Slowdown: Top 6 Methods to Optimize Performance on Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-high-quality-large-tablets-in-depth-analysis-and-ratings-gizmohive/"><u>Ultimate Selection of High-Quality Large Tablets : In-Depth Analysis and Ratings | GizmoHive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-value-alert-exclusive-test-of-best-non-flagship-samsung-tablets-now-at-a-bargain-price-gadgetguru-insights/"><u>Unbeatable Value Alert: Exclusive Test of Best Non-Flagship Samsung Tablets Now at a Bargain Price | GadgetGuru Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-netflixs-decision-latest-update-drops-compatibility-with-aging-ios-devices-find-out-which-are-no-longer-supported/"><u>Understanding Netflix's Decision: Latest Update Drops Compatibility with Aging iOS Devices – Find Out Which Are No Longer Supported</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-innovations-at-apples-worldwide-developers-conference-will-revolutionize-your-experience/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Innovations at Apple’s Worldwide Developers Conference Will Revolutionize Your Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-and-how-to-purge-app-data-from-your-android-improve-performance-and-free-up-space/"><u>Why and How to Purge App Data From Your Android - Improve Performance & Free Up Space!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xiaomi-book-s-ultrabook-review-experience-the-power-of-windows-on-arm-in-a-budget-friendly-2-in-1-device/"><u>Xiaomi Book S Ultrabook Review: Experience the Power of Windows on ARM in a Budget-Friendly 2-in-1 Device</u></a></li>
 </ul></div>
 

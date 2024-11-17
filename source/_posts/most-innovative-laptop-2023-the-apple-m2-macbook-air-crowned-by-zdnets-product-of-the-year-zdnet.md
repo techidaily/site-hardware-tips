@@ -1,7 +1,7 @@
 ---
 title: Most Innovative Laptop 2023 - The Apple M2 MacBook Air Crowned by ZDNet's Product of the Year | ZDNet
-date: 2024-11-01T16:22:25.831Z
-updated: 2024-11-07T16:11:49.436Z
+date: 2024-11-13T19:36:44.535Z
+updated: 2024-11-17T18:54:38.557Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5144bc14-ec77-44d9-bd88-a76324dbb1f1%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -64,10 +64,10 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -97,10 +97,10 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -147,18 +147,20 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds/"><u>[New] Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[Updated] In 2024, Capturing Contentment A Practical Guide to Daily Vlogging</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-soundscape-sanctuary-free-high-resolution-dj-videos-available/"><u>[Updated] Soundscape Sanctuary Free High-Resolution DJ Videos Available</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-strategic-insights-into-youtubes-adsense-earnings-by-thousand-viewers/"><u>[Updated] Strategic Insights Into Youtube's AdSense Earnings by Thousand Viewers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-vimeos-potential-cutting-edge-video-tools/"><u>[Updated] Unlock Vimeo's Potential Cutting Edge Video Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-ai-interaction-sidestep-these-ve-7-critical-flaws-in-chatgpt-prompts/"><u>Enhance Your AI Interaction: Sidestep These Ve-7 Critical Flaws in ChatGPT Prompts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-stylish-and-powerful-logitech-blue-sona-headset-gadgetpundit-review/"><u>Expert Analysis of the Stylish & Powerful Logitech Blue Sona Headset | GadgetPundit Review</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mac-enthusiasts-rejoice-or-beware-an-in-depth-review-of-the-stylish-yet-costly-apple-studio-display-27in-5k-monitor-gizmogazetteznet/"><u>Mac Enthusiasts Rejoice or Beware? An In-Depth Review of the Stylish yet Costly Apple Studio Display 27in 5K Monitor | GizmoGazetteZNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-widescreen-displays-the-ultimate-list-featured-on-zdnet/"><u>Top-Ranking Widescreen Displays: The Ultimate List - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-monitors-at-unbeatable-prices-june-2023s-must-have-picks-from-zdnet/"><u>Top-Rated Monitors at Unbeatable Prices: June 2023'S Must-Have Picks From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-productivity-gains-using-a-swivel-monitor-now-at-a-sweet-93-discount-for-amazons-prime-day-insights-by-zdnet/"><u>Unlock Productivity Gains Using a Swivel Monitor, Now at a Sweet $93 Discount for Amazon's Prime Day | Insights by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-cyber-monday-offer-secure-your-discounted-fujifilm-photography-set-at-a-savings-of-800-featured-on-zdnet/"><u>Unmissable Cyber Monday Offer: Secure Your Discounted Fujifilm Photography Set at a Savings of $800 - Featured on ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-design-a-gif-joke-giphy-magic/"><u>[New] In 2024, Design a Gif Joke Giphy Magic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ideal-green-visual-effects-systems-practical-steps/"><u>[New] In 2024, Ideal Green Visual Effects Systems Practical Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-iphones-customization-altering-ringtone-sounds/"><u>[New] Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-archive-itunes-content-with-ease-using-these-tips/"><u>[Updated] Archive iTunes Content with Ease Using These Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-crafting-captivating-images-using-leading-lines-iphone/"><u>[Updated] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-mobile-media-creation-tools-iphone-vs-android-review-for-2024/"><u>[Updated] Essential Mobile Media Creation Tools IPhone vs Android Review for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/515-price-on-hp-victus-15-for-gamers-during-anti-prime-day-at-best-buy-latest-deal-alert-digital-trends/"><u>$515 Price on HP Victus 15 for Gamers During Anti-Prime Day at Best Buy – Latest Deal Alert | Digital Trends</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>2024 Approved Conquering Social Media with IG Videos Planning an Optimal Strategy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/act-fast-to-secure-a-200-savings-on-the-new-m1-macbook-air-shop-now-exclusive-offers/"><u>Act Fast to Secure a $200 Savings on the New M1 MacBook Air | Shop Now Exclusive Offers!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-elevates-its-premium-range-with-enhanced-xps-1517-models-insights/"><u>Dell Elevates Its Premium Range with Enhanced XPS 15/17 Models - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-cutting-edge-tech-microsofts-new-wave-with-surface-pro-10-and-laptop-6-ai-features-detailed-analysis-by-zdnet/"><u>Discovering Cutting-Edge Tech: Microsoft's New Wave with Surface Pro 10 and Laptop 6 AI Features, Detailed Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-versatility-with-the-35-discounted-10-in-1-docking-station-your-ultimate-tech-hub-zdnet/"><u>Experience Unmatched Versatility with the 35% Discounted 10-in-1 Docking Station - Your Ultimate Tech Hub! | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-with-dual-monitor-setup-for-your-m3-macbook-pro-just-as-effortlessly-as-on-an-m3-macbook-air/"><u>Maximize Productivity with Dual Monitor Setup for Your M3 MacBook Pro, Just as Effortlessly as on an M3 MacBook Air</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-5-free-mov-file-mergers-for-seamless-video-editing/"><u>New 2024 Approved Top 5 Free MOV File Mergers for Seamless Video Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-recommended-windows-laptop-deal-a-great-substitute-for-the-macbook-air-at-discounted-price/"><u>ZDNet's Recommended Windows Laptop Deal: A Great Substitute for the MacBook Air at Discounted Price</u></a></li>
 </ul></div>
 

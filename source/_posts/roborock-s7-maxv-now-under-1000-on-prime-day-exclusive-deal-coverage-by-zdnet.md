@@ -1,7 +1,7 @@
 ---
 title: "Roborock S7 MaxV Now Under $1,000 on Prime Day: Exclusive Deal Coverage by ZDNet"
-date: 2024-09-19 18:54:53
-updated: 2024-09-20 10:26:46
+date: 2024-11-12T16:06:17.655Z
+updated: 2024-11-17T17:13:44.645Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-why-instagram-videos-flip-onto-their-sides/"><u>[New] 2024 Approved Why Instagram Videos Flip Onto Their Sides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-meeting-recording-on-devices-with-gotomeeting-for-2024/"><u>[New] Streamline Meeting Recording on Devices with GoToMeeting for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-improve-timestamp-accuracy-for-social-media-posts/"><u>[Updated] Improve Timestamp Accuracy for Social Media Posts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-time-lapse-titans-choosing-the-creme-de-la-camera/"><u>[Updated] In 2024, Time-Lapse Titans Choosing the Crème De La Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hps-ultimate-tech-deals-save-up-to-71-on-monitors-and-laptops-during-cyber-week-zdnet/"><u>HP's Ultimate Tech Deals: Save Up To 71% On Monitors & Laptops During Cyber Week | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-nokia-c12-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Nokia C12 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-evaluation-processes-unveiled-by-zdnet-a-comprehensive-guide/"><u>Laptop Evaluation Processes Unveiled by ZDNet: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-vr-gear-for-drone-operators-for-2024/"><u>Leading VR Gear for Drone Operators for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-innovative-laptop-2023-the-apple-m2-macbook-air-crowned-by-zdnets-product-of-the-year-zdnet/"><u>Most Innovative Laptop 2023 - The Apple M2 MacBook Air Crowned by ZDNet's Product of the Year | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-your-gadgets-on-the-go-in-depth-look-at-baseus-blade-100w-versatile-power-bank-for-all-your-devices-zdnet-review/"><u>Power Your Gadgets on the Go: In-Depth Look at Baseus Blade 100W Versatile Power Bank for All Your Devices | ZDNET Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-setting-up-personalized-dns-settings-on-chrome-os-the-ultimate-benefits/"><u>Step-by-Step Guide: Setting Up Personalized DNS Settings on Chrome OS - The Ultimate Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/synchronizing-audio-devices-for-ps5/"><u>Synchronizing Audio Devices for PS5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-premier-lenovo-notebooks-of-2024-in-depth-analysis-and-ratings-cnet/"><u>The Ultimate Guide to the Premier Lenovo Notebooks of 2024: In-Depth Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-discounts-available-in-month/"><u>Top Apple Watch Discounts Available in [Month]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-vetted-by-tech-gurus-techradar/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Vetted by Tech Gurus | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-the-ultimate-guide-to-lenovos-groundbreaking-fun-filled-and-premium-thinkpad-x1-fold-experience/"><u>ZDNet Exclusive: The Ultimate Guide to Lenovo's Groundbreaking, Fun-Filled, and Premium ThinkPad X1 Fold Experience</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils Revolutionary M4 Silicon: Enhanced AI Capabilities Across All Mac Models - Release Dates Revealed"
-date: 2024-11-02T16:08:18.415Z
-updated: 2024-11-07T16:09:35.316Z
+date: 2024-11-16T19:26:56.934Z
+updated: 2024-11-17T18:56:02.019Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,16 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +66,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +83,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,22 +129,15 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cutting-edge-methods-for-a-dominant-presence-on-spotify/"><u>[New] In 2024, Cutting-Edge Methods for a Dominant Presence on Spotify</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mjolnirs-legacy-new-era-dawned/"><u>[New] In 2024, Mjolnir's Legacy New Era Dawned</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[New] Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-directory-of-premium-tamil-ringtone-downloads/"><u>[Updated] Comprehensive Directory of Premium Tamil Ringtone Downloads</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-power-of-cross-platform-social-media-with-youtube-and-instagram-stories/"><u>[Updated] In 2024, Unlocking the Power of Cross-Platform Social Media with YouTube & Instagram Stories</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726028668784-wonderfox/"><u>高速な動画圧縮を実現するためのWonderFoxエンコーダ使用ガイド</u></a></li>
-<li><a href="https://article-tips.techidaily.com/audio-accomplishment-iphone-as-a-podcast-hub/"><u>Audio Accomplishment IPhone as a Podcast Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-polar-grit-x-pro-titan-enhancing-workout-insights-with-advanced-features-zdnet/"><u>Comprehensive Evaluation of Polar Grit X Pro Titan: Enhancing Workout Insights with Advanced Features | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-withings-scanwatch-evaluation-the-ultimate-blend-of-fashion-and-advanced-medical-monitoring/"><u>Comprehensive Withings ScanWatch Evaluation - The Ultimate Blend of Fashion & Advanced Medical Monitoring</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-your-fitness-routine-with-2024s-elite-waterproof-smartwatches-in-depth-reviews-and-comparisons-engadget/"><u>Futureproof Your Fitness Routine with 2024'S Elite Waterproof Smartwatches: In-Depth Reviews & Comparisons | Engadget</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/holiday-bargain-alert-apple-watch-ultra-plunges-to-unprecedented-discounts-sparks-consumer-frenzy-tech-news-breakdown/"><u>Holiday Bargain Alert! Apple Watch Ultra Plunges to Unprecedented Discounts, Sparks Consumer Frenzy | Tech News Breakdown</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-magix-photo-manager-review/"><u>In 2024, MAGIX Photo Manager Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/overcoming-low-light-footage-issues-on-your-iphone-for-2024/"><u>Overcoming Low-Light Footage Issues on Your iPhone for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-rides-how-photochromic-glasses-hud-transformed-my-cycling-experience-a-firsthand-review/"><u>Revolutionizing Rides: How Photochromic Glasses' HUD Transformed My Cycling Experience - A Firsthand Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-apple-watch-series-10-only-99-when-you-preorder-now-at-best-buy-detailed-guide/"><u>Save Big on Apple Watch Series 10 – Only $99 when You Preorder Now at Best Buy | Detailed Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-savings-the-apple-watch-ultra-hits-record-lows-before-holiday-shopping-season-exclusive-insight/"><u>Unlocking Savings: The Apple Watch Ultra Hits Record Lows Before Holiday Shopping Season - Exclusive Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-years-best-tech-marvels-a-comprehensive-guide-to-202gadgets-and-devices-that-defined-2022-expert-review-by-zdnet/"><u>Unveiling the Year's Best Tech Marvels: A Comprehensive Guide to 202^GADGETS and Devices that Defined 2022 – Expert Review by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-undelivered-imessages-techniques-for-iphone-owners/"><u>Addressing Undelivered iMessages: Techniques for iPhone Owners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-exploration-of-vsco-image-processing/"><u>In 2024, Comprehensive Exploration of VSCO Image Processing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ipads-of-2024-unveiled-expert-insights-comprehensive-testing-and-reviewed-selections-zdnet/"><u>Leading iPads of 2024 Unveiled: Expert Insights, Comprehensive Testing & Reviewed Selections | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-stage-manager-enhancing-productivity-with-an-ipad-app-the-definitive-guide-from-zdnet/"><u>Mastering the Art of Stage Manager: Enhancing Productivity with an iPad App - The Definitive Guide From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-new-icloud-shared-photo-feature-benefits-and-setup-guide-on-zdnet/"><u>Mastering the New iCloud Shared Photo Feature: Benefits & Setup Guide on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-performance-the-ultimate-tutorial-on-installing-a-new-ssd-in-a-surface-pro-x-zdnet-exclusive/"><u>Maximizing Performance: The Ultimate Tutorial on Installing a New SSD in a Surface Pro X | ZDNet Exclusive</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-task-alerts-on-slack/"><u>Ultimate Guide: Mastering Task Alerts on Slack</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
 </ul></div>
 

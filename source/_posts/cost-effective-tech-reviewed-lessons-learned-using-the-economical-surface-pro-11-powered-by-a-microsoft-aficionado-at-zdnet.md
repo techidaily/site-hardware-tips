@@ -1,7 +1,7 @@
 ---
 title: "Cost-Effective Tech Reviewed: Lessons Learned Using the Economical Surface Pro 11 | Powered by a Microsoft Aficionado at ZDNet"
-date: 2024-11-03T16:12:00.509Z
-updated: 2024-11-07T16:03:09.959Z
+date: 2024-11-14T17:51:43.442Z
+updated: 2024-11-17T16:07:00.252Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 ## What's new with software and AI?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Copilot
@@ -56,13 +56,6 @@ Copilot will be available on Windows 11 devices, across Microsoft 365 services i
 On September 26, Copilot will begin rollout as part of a new Windows 11 release, the most ambitious update to Windows 11 since it was first released, according to Yusuf Mehdi, Corporate Vice President of Microsoft. 
 
 This is Microsoft's answer to [Google's Duet AI](https://www.zdnet.com/article/google-workspaces-ai-facelift-is-finally-here-meet-duet-ai-for-workspace/), which is another generative AI assistant that works across the Google Workspace.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows 11 AI integration
 
@@ -79,6 +72,13 @@ Windows Ink Anywhere is another new Windows 11 feature that will work with Copil
 You can also use the pen within the Snipping Tool to copy and paste the equation into Copilot and have it solved. 
 
 Copilot on Windows can also obtain information from your connected smartphone so that you can ask Copilot any questions about what's on-device, like text message summaries. An example that was demoed included the presenter asking Copilot about an upcoming flight. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat updates
 
@@ -112,6 +112,13 @@ The Microsoft Shopping Experience will be a standalone site that can be accessed
 
 There is also a suite of new tools coming to Bing Chat Enterprise including the incorporation with mobile. Bing Chat Enterprise also supports images within the enterprise with multimodal search powered by [GPT-4](https://www.zdnet.com/article/what-is-gpt-4-heres-everything-you-need-to-know/) and Bing Image Generator. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft 365 Copilot and Microsoft 365 Chat
 
 June Wan/ZDNET
@@ -134,14 +141,14 @@ Microsoft Designer will also be integrated into Microsoft 365 Copilot to help ge
 
 Microsoft 365 Copilot is currently in preview with a select number of users and small businesses. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new with hardware?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Surface Laptop Go 3
 
@@ -156,19 +163,6 @@ Other new additions include iCloud Photos Integration and Clipchamp on Windows 1
 As far as hardware and design go, the Surface Laptop Go 3 looks just about, if not the same, as the previous version, meaning you're still getting a sleek, portable form factor that's ultralight (just under 2.5 pounds) with a 12.4-inch PixelSense touchscreen at the helm.
 
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
 
@@ -238,20 +232,14 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-methods-for-enhancing-testimonial-video-authenticity/"><u>[New] Innovative Methods for Enhancing Testimonial Video Authenticity</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-excellent-video-and-picture-capture-for-iphones-and-androids-here-for-2024/"><u>[Updated] Excellent Video & Picture Capture for iPhones & Androids Here for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-diverse-windows-movie-maker-versions/"><u>2024 Approved Unveiling Diverse Windows Movie Maker Versions</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-tga-images-to-png-by-movavi/"><u>Free Online Conversion - TGA Images to PNG by Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/illuminate-any-room-in-over-16-million-shades-for-under-60-discover-the-sleek-design-with-zdnets-top-pick/"><u>Illuminate Any Room in Over 16 Million Shades for Under $60 - Discover the Sleek Design with ZDNET's Top Pick</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-infographic-hottest-social-media-trends-that-will-take-over-2023/"><u>In 2024, Infographic - Hottest Social Media Trends That Will Take Over 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a38-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A38 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/june-2n-d4s-ultimate-best-buy-bargains-showcased-by-zdnet-save-big-now/"><u>June 2N D4's Ultimate Best Buy Bargains Showcased by ZDNet: Save Big Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-connected-living-spaces-exploring-new-communication-protocols-for-advanced-smart-home-systems/"><u>Revolutionizing Connected Living Spaces: Exploring New Communication Protocols for Advanced Smart Home Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-kitchen-design-the-impact-of-innovative-under-cabinet-lighting-on-style-and-functionality-insight-by-zdnet/"><u>Revolutionizing Kitchen Design: The Impact of Innovative Under-Cabinet Lighting on Style and Functionality - Insight by ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-june-2024-savings-exclusive-best-buy-offers-featured-on-zdnet/"><u>Top June 2024 Savings: Exclusive Best Buy Offers Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-philips-hue-lighting-solutions-detailed-comparison-by-tech-gurus-zdnet/"><u>Top-Rated Philips Hue Lighting Solutions - Detailed Comparison by Tech Gurus | Zdnet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-security-floodlighting-solutions-in-2/"><u>Top-Rated Security Floodlighting Solutions in 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-shortcut-tactics-for-optimal-voice-input-on-win-11/"><u>Ultimate Shortcut Tactics for Optimal Voice Input on Win 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>[Updated] Tread Lightly in the Digital Jungle VR Fitness Machines Examined</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-yuva-3-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Yuva 3 Pro Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-bluetooth-headphones-when-audio-is-missing/"><u>How to Fix Bluetooth Headphones When Audio Is Missing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>In 2024, Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/make-your-memories-shine-a-final-cut-pro-slideshow-creation-guide-for-2024/"><u>Make Your Memories Shine A Final Cut Pro Slideshow Creation Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-of-tesla-vehicles-for-202n-which-model-stands-out-among-s-3-x-and-y/"><u>ZDNet's Comprehensive Review of Tesla Vehicles for 202N: Which Model Stands Out Among S, 3, X, and Y?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-picks-for-the-leading-hybrids-of-2023-a-must-read-guide/"><u>ZDNet's Expert Picks for the Leading Hybrids of 2023 - A Must-Read Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-emporia-energy-smart-ev-charger-enhanced-performance-at-an-economical-cost/"><u>ZDNet's In-Depth Analysis of Emporia Energy Smart EV Charger: Enhanced Performance at an Economical Cost</u></a></li>
 </ul></div>
 

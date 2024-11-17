@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mowing Experience with This Ultra-Fun Remote-Controlled Lawnmower - Review by ZDNet
-date: 2024-09-17 10:41:25
-updated: 2024-09-20 10:13:27
+date: 2024-11-16T19:05:21.198Z
+updated: 2024-11-17T21:38:13.141Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-real-world-stories-an-insight-into-documentary-screenplay-writing-for-2024/"><u>[New] Crafting Real World Stories An Insight Into Documentary Screenplay Writing for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-essential-guide-to-twitters-video-converters-for-2024/"><u>[New] The Essential Guide to Twitters Video Converters for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-dive-into-the-world-of-customized-ringtones-with-tiktok-beats/"><u>[Updated] 2024 Approved Dive Into the World of Customized Ringtones with TikTok Beats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-foundation-to-finery-top-6-mc-home-designs-made-simple/"><u>[Updated] 2024 Approved Foundation to Finery Top 6 MC Home Designs Made Simple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battle-of-the-slates-google-pixel-tablet-against-apples-ipad-analyzed-in-depth-zdnet-exclusive-feature/"><u>Battle of the Slates: Google Pixel Tablet Against Apple's iPad Analyzed in Depth | ZDNet Exclusive Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-samsung-and-tcl-the-budget-android-tablets-experts-love-find-your-perfect-match-today/"><u>Beyond Samsung and TCL: The Budget Android Tablets Experts Love - Find Your Perfect Match Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-the-audio-barrier-a-speaker-system-that-outshines-bose-and-sonos-revealed-on-zdnet/"><u>Breaking the Audio Barrier: A Speaker System That Outshines Bose and Sonos, Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-four-blackview-tab-12-devices-at-the-cost-of-a-single-ipad-air-high-performance-android-tables-on-sale/"><u>Buy Four Blackview Tab 12 Devices at the Cost of a Single iPad Air - High-Performance Android Tables on Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-tablet-apples-ipad-air-vs-other-models-find-your-best-fit-with-our-in-depth-comparison/"><u>Choosing the Right Tablet: Apple's iPad Air Vs. Other Models - Find Your Best Fit with Our In-Depth Comparison!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-your-videos-at-no-cost-webm-to-m4a-with-movavis-online-tool/"><u>Convert Your Videos at No Cost: WebM to M4A with Movavi's Online Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-dates-and-top-deal-locations-unveiling-black-friday-2022s-ultimate-shopping-guide/"><u>Discover the Dates & Top Deal Locations: Unveiling Black Friday 2022'S Ultimate Shopping Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-excellence-in-budget-android-tablets-non-samsung-non-tcl-reviews-by-zdnet/"><u>Discovering Excellence in Budget Android Tablets - Non-Samsung, Non-TCL Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/e-ink-tablet-excellence-uncovered-surprising-performers-that-outshine-the-well-known-amazon-kindle-and-remarkable-devices/"><u>E Ink Tablet Excellence Uncovered: Surprising Performers that Outshine the Well-Known Amazon Kindle & ReMarkable Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-unmatched-sound-a-non-bose-non-polk-audio-triumph/"><u>Experiencing Unmatched Sound: A Non-Bose, Non-Polk Audio Triumph</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-av1-your-initial-journey/"><u>Navigating AV1 Your Initial Journey</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-video-merging-the-top-online-solutions/"><u>New No-Cost Video Merging The Top Online Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-reviving-your-epson-wf-7nf020-with-fresh-windows-drivers/"><u>The Ultimate Tutorial: Reviving Your Epson WF-7nf020 with Fresh Windows Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-playtime-into-privacy-a-guide-to-switch-passcodes/"><u>Transforming Playtime Into Privacy: A Guide to Switch Passcodes</u></a></li>
+</ul></div>
+

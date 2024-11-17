@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils Powerful Copilot+ Desktops Challenging Apple's M3 MacBooks: The Ultimate Showdown"
-date: 2024-11-05T16:01:19.087Z
-updated: 2024-11-07T16:00:13.154Z
+date: 2024-11-15T20:40:07.813Z
+updated: 2024-11-17T16:51:30.871Z
 tags:
   - laptops
 categories:
@@ -53,10 +53,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Live Translation comes to Chromebook
@@ -70,10 +70,16 @@ Live Translate currently works in over 100 languages and, when activated, provid
 This gives Chromebook Plus devices a built-in functionality that is accessible with a single click, useful for anyone working with multiple languages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Help me read: One-click summaries
@@ -87,10 +93,10 @@ Another OS-level AI-powered feature coming to Chromebook Plus devices is the abi
 When I tried this feature first-hand, I thought the initial paragraph the tool generated seemed a little sparse, so I asked additional questions during the demo to engage it further. Additional inputs resulted in a more extensive understanding of the text. These features will be improved in upcoming releases as Google fine-tunes the parameters of the tool's capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.The Recorder app ties it all together
@@ -100,10 +106,10 @@ Google
 Working in tandem with the other AI functions, the recorder app allows for streamlined recording of any audio content on the screen to provide transcriptions, identifying and labeling different speakers, and summarizing the recorded content. I can see this being useful for any business call with multiple speakers, as the app lets you go in and label speakers by name. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Two new Chromebooks
@@ -158,18 +164,22 @@ The OLED display on this Chromebook, paired with the sleek and premium-feeling k
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-elevate-your-valorant-skills-free-voice-altering-awaits-you/"><u>[New] Elevate Your Valorant Skills - Free Voice Altering Awaits You</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-achieve-color-mastery-with-canons-freepaid-lut-variety/"><u>[Updated] Achieve Color Mastery with Canon's Free/Paid LUT Variety</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-customize-video-speed-to-match-your-desired-watch-time/"><u>[Updated] In 2024, Customize Video Speed to Match Your Desired Watch Time</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-securing-a-slot-in-youtube-finding-your-market/"><u>[Updated] Securing a Slot in YouTube Finding Your Market</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-scrutiny-expert-analysis-on-mobile-photo-tools/"><u>2024 Approved Toolwiz Scrutiny Expert Analysis on Mobile Photo Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5630macx-dvd-ripper-pro/"><u>限定5周年記念に！6月30日まで、人気のMacX DVD Ripper Proを無料化セール</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/audiophiles-choice-elite-selection-of-gamer-audio-equipment-tested-and-approved-cnet/"><u>Audiophile's Choice: Elite Selection of Gamer Audio Equipment , Tested and Approved | CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-common-pitfalls-pre-installation-checklist-for-chromeos-flex-by-tech-experts-at-zdnet/"><u>Avoid Common Pitfalls: Pre-Installation Checklist for ChromeOS Flex by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-7-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 7 Plus You Should Try Out</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-edit-suite-for-mobile-app-devices-for-2024/"><u>Ultimate Edit Suite for Mobile App Devices for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultra-fast-portable-ssd-deal-alert-secure-a-4tb-samsung-t5-for-up-to-half-off-on-amazon-zdnets-picks/"><u>Ultra-Fast Portable SSD Deal Alert: Secure a 4TB Samsung T5 for Up to Half Off on Amazon | ZDNet's Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-tpm-essential-hardware-in-microsofts-windows-11-security-strategy-zdnet-explains/"><u>Understanding the TPM: Essential Hardware in Microsoft's Windows 11 Security Strategy - ZDNet Explains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/x-15/"><u> [X = 15 </u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-mac-subtitling-workshop/"><u>[New] 2024 Approved The Ultimate Mac Subtitling Workshop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-avoidance-manual-how-to-skip-edgenuity-courses-without-penalty/"><u>[New] Avoidance Manual How to Skip Edgenuity Courses Without Penalty</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-complete-overview-of-polarr-photo-editor/"><u>A Complete Overview of Polarr Photo Editor</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/how-to-make-a-playlist-on-youtube-for-2024/"><u>How to Make a Playlist on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>In 2024, Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-rtx-sper-graphics-card-driver-on-windows-11/"><u>Step-by-Step Guide to Updating Your RTX ˈsʊpər Graphics Card Driver on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-7-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 7 on MetroPCS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-living-discounts-on-tv-exclusive-offers-over-55-for-labor-day-weekend-september-24-comprehensive-guide-by-zdnet/"><u>Top Living Discounts on TV: Exclusive Offers Over 55 for Labor Day Weekend, September '24 - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-buying-guide-discover-the-finest-55-inch-screens-of-2023-on-zdnets-latest-rankings/"><u>Ultimate Buying Guide: Discover the Finest 55-Inch Screens of 2023 on ZDNet's Latest Rankings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-an-excellent-outdoor-tv-for-202e-professional-picks-and-reviews-pcmag/"><u>Ultimate Guide to Choosing an Excellent Outdoor TV for 202E - Professional Picks & Reviews | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-how-to-throw-an-unforgettable-labor-day-bash-tips-and-tricks-from-zdnet/"><u>Ultimate Guide: How to Throw an Unforgettable Labor Day Bash - Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-on-65-insignia-smart-4k-fire-tv-with-alexa-voice-assistant-limited-offer-at-just-300-this-4th-of-july-weekend/"><u>Unbeatable Deal on 65 Insignia Smart 4K Fire TV with Alexa Voice Assistant - Limited Offer at Just $300 This 4Th of July Weekend!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/whats-going-wrong-sideways-videos-on-instagram-for-2024/"><u>What's Going Wrong Sideways Videos on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-future-plans-for-apple-tv-improved-facetime-functionality-and-latest-tvos-innovations-to-watch-out-for/"><u>ZDNet Unveils Future Plans for Apple TV - Improved FaceTime Functionality and Latest tvOS Innovations to Watch Out For</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-picks-leading-lg-tv-models-for-the-year-2024-unveiled/"><u>ZDNet's Expert Picks: Leading LG TV Models for the Year 2024 Unveiled</u></a></li>
 </ul></div>
 

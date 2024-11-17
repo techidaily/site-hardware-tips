@@ -1,7 +1,7 @@
 ---
 title: "Expert Lenovo ThinkPad Z1e Review: Exceptional Performance Overshadowed by Weak Webcam Experience | CNET"
-date: 2024-11-04T16:28:48.619Z
-updated: 2024-11-07T16:00:59.693Z
+date: 2024-11-14T18:19:32.571Z
+updated: 2024-11-17T17:12:50.132Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,13 @@ Cons
 
 ## WD Black SN850
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best gaming SSD overall
 
 **Capacity:** 250GB to 4TB | **Connectivity:** NVMe M.2 | **Read speed:** 7000 MB/s | **Write speed:** 5300 MB/s 
@@ -64,6 +71,13 @@ Pros
 Cons 
 * Pricier than most SSDs
 * Storage capacities limited to 1TB and 2TB
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Samsung 990 Pro SSD
 
@@ -93,19 +107,26 @@ Cons
 * No other capacity options
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Seagate Game Drive
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best gaming SSD for Xbox
 
@@ -133,13 +154,6 @@ Cons
 
 ## Seagate FireCuda 530
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best gaming SSD for PlayStation
 
 **Capacity:** 500GB to 4TB | **Connectivity:** NVMe M.2 | **Read speed:** 7300 MB/s | **Write speed:** 6900 MB/s 
@@ -163,27 +177,7 @@ Cons
 * Still very expensive
 * Needs Samsung Magician for encryption
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung 870 QVO
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best high-capacity gaming SSD
 
@@ -207,6 +201,13 @@ Cons
 * No encryption
 * No heatsink
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Crucial X8
 
 ### Best cheap gaming SSD
@@ -222,10 +223,10 @@ The Crucial X8 is compact, so you can tuck it away in a desk drawer or laptop ba
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best gaming SSD?
@@ -240,13 +241,6 @@ My pick for the best gaming SSD is the WD Black SN850\. Its NVMe M.2 form factor
 | Seagate FireCuda 530 | $139      | 1TB          | NVMe M.2            |
 | Samsung 870 QVO      | $699      | 8TB          | SAT III             |
 | Crucial X8           | $110      | 1TB          | USB 3.2             |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which is the right gaming SSD for you?
 
@@ -266,13 +260,6 @@ You'll also want to make sure your new solid-state drive has enough storage capa
 
 I selected a wide variety of solid-state drives that are either designed specifically for gaming or will work very well with gaming rigs and consoles. I also chose SSDs at different price points to suit a variety of budgets as well as different storage capacities for both casual and hardcore gamers. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's the difference between SSD and HDD?
 
 A hard-disk drive (HDD) and solid-state drive (SSD) work in the same way in that they can be used to store computer files and programs or be used as your computer's boot drive. Their differences lie in how they work. An HDD uses physical platters and a needle arm, similar to how a record player works, to read and write data to the drive. It's older technology that has been around for decades, which makes HDDs much more affordable than their solid-state counterparts, even at higher capacities. Their downside is that since they use moving parts, there is a higher chance of damage and file corruption. 
@@ -280,6 +267,13 @@ A hard-disk drive (HDD) and solid-state drive (SSD) work in the same way in that
 **More: [SSD vs HDD: What's the difference?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)**
 
 Solid-state drives use flash memory chips, similar to your RAM sticks, to store and access files and programs. This eliminates moving parts, which also greatly reduces the risk of internal damage. It also makes accessing those files and programs much faster, since it doesn't have to physically "read" a platter to find the particular document, image, song, etc., that you want. The downside to SSDs is that the technology is newer, so they're going to be on the pricey side, especially if you need more than 2TB of storage space.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What size SSD do I need for gaming?
 
@@ -331,17 +325,24 @@ There are plenty of options out there if you're in the market for a gaming-speci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>[New] Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-free-custom-minecraft-gif-templates/"><u>[New] Free Custom Minecraft GIF Templates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>[New] In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-enhance-video-visibility-with-effective-thumbnail-scaling/"><u>[Updated] In 2024, Enhance Video Visibility with Effective Thumbnail Scaling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-videography-made-simple-efficient-recording-and-editing-in-adobe-connect/"><u>[Updated] In 2024, Videography Made Simple Efficient Recording & Editing in Adobe Connect</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/garmins-strides-toward-intelligent-wearables-with-venu-2-plus-unveiled-a-zdnet-critique/"><u>Garmin's Strides Toward Intelligent Wearables with Venu 2 Plus Unveiled - A ZDNET Critique</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-best-wearable-tech-qualifying-for-samsungs-affordable-99-galaxy-watch-offer-zdnet-exclusive-tips/"><u>Get Your Hands on the Best Wearable Tech: Qualifying for Samsung's Affordable $99 Galaxy Watch Offer | ZDNET Exclusive Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/iphone-2024-the-ultimate-selfie-kit-for-8-standouts/"><u>Iphone 2024 The Ultimate Selfie Kit for #8 Standouts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/making-workouts-engaging-for-children-the-fitbit-ace-lte-takes-on-competition-with-features-reminiscent-of-the-google-pixel-watch-2/"><u>Making Workouts Engaging for Children: The Fitbit Ace LTE Takes on Competition with Features Reminiscent of the Google Pixel Watch 2</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1207181-9781101615669-tapping-into-wealth/"><u>Tapping Into Wealth | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-selection-top-10-must-have-tech-gadgets-for-a-futuristic-2023/"><u>ZDNet's Ultimate Selection: Top 10 Must-Have Tech Gadgets for a Futuristic 2023</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-audience-take-movaviscreenvisions-new-release/"><u>[New] 2024 Approved Audience Take MovaviScreenVision's New Release</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-pretending-playfulness-making-mocks-and-laughs/"><u>[New] 2024 Approved Pretending Playfulness Making Mocks and Laughs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficient-audio-extraction-from-youtube-top-picks-for-your-favorite-free-crackers/"><u>[New] In 2024, Efficient Audio Extraction From YouTube Top Picks for Your Favorite Free Crackers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-the-art-of-converting-vids-on-pinterest-into-audible-format-for-2024/"><u>[New] Mastering the Art of Converting Vids on Pinterest Into Audible Format for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigating-networked-video-streaming-with-vlc/"><u>[New] Navigating Networked Video Streaming with VLC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-steer-clear-of-targeted-commercial-content-in-browsing-for-2024/"><u>[Updated] Steer Clear of Targeted Commercial Content in Browsing for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-video-selection-adding-to-your-youtube-playlists/"><u>2024 Approved Mastering Video Selection Adding to Your YouTube Playlists</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-mix-fold-3-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Mix Fold 3 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Blaze Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-classroom-prep-expert-tips-on-organizing-school-supplies-for-success-advice-from-zdnet-experts/"><u>Mastering Classroom Prep: Expert Tips on Organizing School Supplies for Success - Advice From ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-multi-tasking-a-comprehensive-guide-to-splitting-your-screen-on-an-ipad-tech-tips-by-zdnet/"><u>Mastering Multi-Tasking: A Comprehensive Guide to Splitting Your Screen on an iPad | Tech Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-tablets-potential-with-cost-effective-customization-tips-from-changethispixel-exclusive-insights-for-savvy-users/"><u>Maximize Your Tablet's Potential with Cost-Effective Customization Tips From ChangeThisPixel - Exclusive Insights for Savvy Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/netflix-updates-support-policies-old-iphone-and-ipad-versions-phased-out-see-which-are-impacted-on-zdnet/"><u>Netflix Updates Support Policies: Old iPhone and iPad Versions Phased Out - See Which Are Impacted on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-vintage-kindles-master-the-art-of-book-addition-avoid-this-critical-mistake/"><u>Reviving Vintage Kindles: Master the Art of Book Addition – Avoid This Critical Mistake!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-tablet-sale-alert-top-performing-non-flagship-model-available-this-labor-day-tech-insights/"><u>Samsung Tablet Sale Alert: Top-Performing Non-Flagship Model Available This Labor Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unboxed-preordering-process-for-galaxy-z-fold-tab-s9-and-watch-6-at-rock-bottom-prices/"><u>Samsung Unboxed: Preordering Process for Galaxy Z Fold, Tab S9 & Watch #6 at Rock-Bottom Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-almost-half-grab-a-4tb-samsung-t5-usb-c-ssd-from-amazon-exclusive-deal-covered-by-zdnet/"><u>Save Almost Half: Grab a 4TB Samsung T5 USB-C SSD From Amazon - Exclusive Deal Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-newest-ipad-deal-at-just-199-exclusive-amazon-labor-day-discount/"><u>Secure Your Newest iPad Deal at Just $199 - Exclusive Amazon Labor Day Discount!</u></a></li>
 </ul></div>
 

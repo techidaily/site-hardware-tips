@@ -1,7 +1,7 @@
 ---
 title: "From Small to Great Cleaning Solutions: Unveiling the Capabilities of This Dinner-Plate Sized Robot Vacuum"
-date: 2024-09-19 21:41:43
-updated: 2024-09-20 11:16:14
+date: 2024-11-16T18:10:03.492Z
+updated: 2024-11-17T20:26:24.768Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-no-cost-nintendo-switch-virtual-games/"><u>[New] In 2024, No-Cost Nintendo Switch Virtual Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-class-in-meeting-transcripts-zooms-software-showdown-for-2024/"><u>[Updated] Master Class in Meeting Transcripts Zoom's Software Showdown for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-revolutionize-tv-remote-management-discover-the-latest-innovation-for-effortless-roku-control-zdnet/"><u>1. Revolutionize TV Remote Management: Discover the Latest Innovation for Effortless Roku Control | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unparalleled-audio-experience-top-non-bose-and-non-sonos-speakers-that-will-change-your-world-an-in-depth-review/"><u>1. Unparalleled Audio Experience: Top Non-Bose and Non-Sonos Speakers That Will Change Your World - An In-Depth Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-economic-sphere-of-the-philanthropic-mr-beast/"><u>2024 Approved The Economic Sphere of the Philanthropic Mr. Beast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/8-plus-up-to-50-off-with-our-exclusive-trade-in-offer-techsavvy/"><u>8 Plus - Up to 50% Off With Our Exclusive Trade-In Offer | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-samsung-and-lg-exploring-the-best-alternative-qled-tvs-on-the-market/"><u>Beyond Samsung and LG: Exploring the Best Alternative QLED TVs on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/catch-a-55-discount-on-tcls-4k-ultra-hd-55-inches-the-perfect-pre-game-deal-zdnet/"><u>Catch a 55% Discount on TCL's 4K Ultra HD 55 Inches - The Perfect Pre-Game Deal | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-utility-windows-reliability-and-performance-monitors/"><u>Examining Utility: Windows' Reliability & Performance Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-ultimate-roku-models-for-a-superior-viewing-experience-zdnet-insights/"><u>Expert Review: Unveiling the Ultimate Roku Models for a Superior Viewing Experience | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-amazon-fire-hd/"><u>Huge Discount on Amazon Fire HD</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/leading-free-and-unlimited-watermark-free-screen-recorders-our-ultimate-guide/"><u>Leading Free and Unlimited Watermark-Free Screen Recorders: Our Ultimate Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-daily-moments-capture-facebook-methods/"><u>Maximizing Daily Moments Capture: Facebook Methods</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/reviewing-the-innovative-mirari-ok-to-wake-alarm-clock-designed-for-children-is-it-the-best-choice/"><u>Reviewing the Innovative Mirari 'OK To Wake!' Alarm Clock Designed For Children – Is It The Best Choice?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-tools-like-chatgpt-for-auto-coding-solutions/"><u>Top 7 Tools Like ChatGPT For Auto-Coding Solutions</u></a></li>
+</ul></div>
+

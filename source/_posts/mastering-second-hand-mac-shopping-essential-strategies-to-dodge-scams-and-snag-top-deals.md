@@ -1,7 +1,7 @@
 ---
 title: "Mastering Second-Hand Mac Shopping: Essential Strategies to Dodge Scams & Snag Top Deals"
-date: 2024-11-06T16:15:43.245Z
-updated: 2024-11-07T16:21:26.725Z
+date: 2024-11-16T21:19:33.638Z
+updated: 2024-11-17T20:18:58.843Z
 tags:
   - laptops
 categories:
@@ -62,16 +62,10 @@ It's also important to consider your degree program or area of study while selec
 * 3D drafting
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get a powerful processor if you'll be studying:
@@ -83,13 +77,6 @@ It's also important to consider your degree program or area of study while selec
 * Data and analytics
 * Multitasking with productivity apps
 * Anything else
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Assess your budget
 
@@ -126,10 +113,10 @@ Let's face it: college students (or their parents) aren't exactly made of cash. 
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Consider your preferences
@@ -150,13 +137,6 @@ Would you like to be able to switch your laptop to a tablet? If so, you'll want 
 
 [Acer Aspire Go 15 $427 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09YFVNK2Q%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1a3a087-b5bb-40c6-952a-bd6cc012174a%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## If you value portability
 
 If you're looking for a laptop that is above all else, light and easy to carry around, there are some great options out there that are defined by their portability. 
@@ -168,6 +148,13 @@ However, ultraportability does come with tradeoffs. In terms of design, the cons
 [Asus Vivobook S 15 $1,299 at Asus](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F)
 
 [LG Gram Pro 17 $2,500 at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Flaptops%2Flg-17z90sp-e.adb9u1-gram-laptop)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## If you prioritize battery power
 
@@ -190,6 +177,13 @@ Some common tips to extend the life of your battery include:
 [Dell Inspiron 14 Plus $899 at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-9041660-15734614%3Furl%3Dhttps%253A%252F%252Fwww.dell.com%252Fen-us%252Fshop%252Fdell-computer-laptops%252Finspiron-14-plus-laptop%252Fspd%252Finspiron-14-7441-laptop%26sid%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp)
 
 [Lenovo IdeaPad Pro 5i $1,129 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Pro-5i-16-Touchscreen-Intel-Evo-Platform-Laptop-Intel-Core-Ultra-9-processor-185H-120HZ-OLED-2048-x-1280-Display-Windows-11%2F5793352944&subId1=zd-__COM_CLICK_ID__-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## If you want a 2-in-1
 
@@ -257,18 +251,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simplified-systems-for-saving-screen-calls/"><u>[New] 2024 Approved Simplified Systems for Saving Screen Calls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3-for-2024/"><u>[New] Ensuring Data Privacy While Transforming YouTube Video Audio to MP3 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-io-screen-recorder-skills-for-professionals-for-2024/"><u>[New] Essential IO Screen Recorder Skills for Professionals for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed/"><u>[Updated] 2024 Approved The Ultimate VR Journey Best PC 360 Video Streamers Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-surge-protection-devices-ranked-by-experts-gizmodo/"><u>2024'S Leading Surge Protection Devices Ranked by Experts | Gizmodo</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apologies-apple-lovers-discover-why-this-logitech-keyboard-is-now-my-preferred-choice-for-mac-systems-insights-from-zdnet/"><u>Apologies, Apple Lovers! Discover Why This Logitech Keyboard Is Now My Preferred Choice for Mac Systems - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ou-legally-capture-video-from-youtube/"><u>Can You Legally Capture Video From YouTube?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-gt-5-240w-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme GT 5 (240W) Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-premium-monitors-this-cyber-monday-checkout-sale-deals-by-leading-brands-like-samsung-asus-and-lg-zdnet-insights/"><u>Save Big on Premium Monitors This Cyber Monday: Checkout Sale Deals by Leading Brands Like Samsung, ASUS & LG | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-top-pick-from-ces-the-innovative-stylus-for-your-laptop-with-surprising-paper-writing-capabilities/"><u>ZDNet's Top Pick From CES: The Innovative Stylus for Your Laptop with Surprising Paper Writing Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-short-form-spectacularity-compile-the-top-10-video-editing-tools/"><u>[New] In 2024, Short-Form Spectacularity Compile the Top 10 Video Editing Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-survey-diverse-categories-in-visual-media-tech/"><u>[New] Survey Diverse Categories in Visual Media Tech</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>[New] Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ios-and-android-asmr-experience-leaders/"><u>[Updated] IOS and Android ASMR Experience Leaders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-year-in-lightweight-laptops-unbeatable-all-day-power-by-testpros-zdnet-insights/"><u>Best of the Year in Lightweight Laptops: Unbeatable All-Day Power by TestPros | ZDNet Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/discover-the-best-economical-option-for-home-security-the-vuebell-video-doorbell-review/"><u>Discover the Best Economical Option for Home Security - The VueBell Video Doorbell Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y100-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y100 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-14-ultra-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi 14 Ultra FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lgs-ultra-slim-gram-laptop-a-new-era-of-portability-unveiled/"><u>Introducing LG's Ultra-Slim Gram Laptop: A New Era of Portability Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/livestream-instagram-no-media-necessary/"><u>Livestream Instagram: No Media Necessary</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premium-mobile-experience-with-best-gb-emulators-for-2024/"><u>Premium Mobile Experience with Best GB Emulators for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-13-best-work-travel-laptops-alternatives-to-dell-xps-and-macbook-featured-on-zdnet/"><u>Top 13 Best Work Travel Laptops: Alternatives to Dell XPS and MacBook, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-rankings-of-2024s-best-gaming-laptops-how-razer-acer-and-msi-stack-up-powered/"><u>Ultimate Rankings of 2024'S Best Gaming Laptops: How Razer, Acer, and MSI Stack Up | Powered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwrapping-creative-diy-holiday-surprises-perfect-tools-that-hit-the-spot-handcrafted-recommendations/"><u>Unwrapping Creative DIY Holiday Surprises: Perfect Tools That Hit The Spot | Handcrafted Recommendations</u></a></li>
 </ul></div>
 

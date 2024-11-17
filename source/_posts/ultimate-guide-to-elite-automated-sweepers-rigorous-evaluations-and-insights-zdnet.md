@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Elite Automated Sweepers: Rigorous Evaluations & Insights | ZDNet"
-date: 2024-09-19 14:21:37
-updated: 2024-09-20 12:25:10
+date: 2024-11-10T16:01:42.356Z
+updated: 2024-11-17T18:41:28.861Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-from-classic-quests-to-complex-escapades-for-2024/"><u>[New] From Classic Quests to Complex Escapades for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/530-hp-victus-15-unbeatable-price-drop-for-gamers-available-at-best-buy-highlighted/"><u>$530 HP Victus 15: Unbeatable Price Drop for Gamers Available at Best Buy, Highlighted !</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beginners-tutorial-adobe-capture-screen-sharing-techniques/"><u>2024 Approved Beginner's Tutorial Adobe Capture Screen Sharing Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-macbook-models-on-the-horizon-apple-eyes-market-share-against-googles-chromebooks-tech-news-by-zdnet/"><u>Affordable MacBook Models on the Horizon? Apple Eyes Market Share Against Google's Chromebooks | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-vs-macbook-the-superior-performance-youve-been-missing-out-on/"><u>Asus Laptop Vs. MacBook: The Superior Performance You've Been Missing Out On</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-alert-score-a-steal-with-the-last-minute-79-lenovo-chromebook-shop-now-before-theyre-gone/"><u>Cyber Monday Alert: Score a Steal with the Last-Minute $79 Lenovo Chromebook - Shop Now Before They're Gone!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhanced-conversion-rates-with-our-customized-cookiebot-technology/"><u>Enhanced Conversion Rates with Our Customized Cookiebot Technology</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-prime-day-2024-with-these-unbeatable-deals-at-best-buy-shop-smart-now/"><u>Get Ready for Prime Day 2024 with These Unbeatable Deals at Best Buy - Shop Smart Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-13-proplus-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 13 Pro+ 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-vpn-solutions-of-the-year-2024-in-depth-reviews-and-comparisons-for-peak-online-security-zdnet/"><u>Leading VPN Solutions of the Year 2024: In-Depth Reviews and Comparisons for Peak Online Security | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-dell-non-lenovo-workstation-my-go-to-pick-unveiled-on-zdnet/"><u>Top Non-Dell, Non-Lenovo Workstation: My Go-To Pick Unveiled on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-display-showdown-how-asus-takes-the-lead-with-stunning-oled-on-their-new-laptop-model-techspectrum-daily/"><u>Ultimate Display Showdown: How Asus Takes the Lead with Stunning OLED on Their New Laptop Model | TechSpectrum Daily</u></a></li>
+</ul></div>
+

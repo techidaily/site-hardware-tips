@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: The Ultimate Guide to Lenovo's Groundbreaking, Fun-Filled, and Premium ThinkPad X1 Fold Experience"
-date: 2024-11-02T16:16:25.811Z
-updated: 2024-11-07T16:08:17.163Z
+date: 2024-11-14T19:15:38.695Z
+updated: 2024-11-17T17:54:24.294Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caf430b6c-ba86-4846-a861-06c26e4a1ef1%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -109,10 +109,10 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -151,21 +151,15 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-get-close-or-farther-with-ease-on-instagram-stories/"><u>[New] Get Close or Farther with Ease on Instagram Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instagrams-backward-video-display-an-insight/"><u>[New] Instagram's Backward Video Display An Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-how-the-ideal-lighting-companion-can-be-yours-for-just-17-according-to-zdnet/"><u>Affordable Excellence: How the Ideal Lighting Companion Can Be Yours for Just $17, According to ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-dream-cameras-at-half-price-with-our-limited-time-cyber-monday-extravaganza-shop-now-and-save-80n/"><u>Don't Miss Out: Secure Your Dream Cameras at Half Price with Our Limited-Time Cyber Monday Extravaganza - Shop Now and Save $80N!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-creativity-with-the-ultimate-16-port-usb-hub-the-essential-tool-for-professionals/"><u>Elevate Your Creativity with the Ultimate 16-Port USB Hub - The Essential Tool for Professionals</u></a></li>
-<li><a href="https://discover-community.techidaily.com/enhance-your-online-presence-manycams-innovative-virtual-camcorder-and-broadcasting-suite/"><u>Enhance Your Online Presence: ManyCam's Innovative Virtual Camcorder and Broadcasting Suite</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-playful-input-gadgets-a-journey-through-charm-to-convenience-as-featured-on-zdnet/"><u>Exploring the World of Playful Input Gadgets: A Journey Through Charm to Convenience, as Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-of-charge-how-to-install-your-asus-sound-card-drivers-today/"><u>Free of Charge: How to Install Your Asus Sound Card Drivers Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-set-a-new-sound-for-email-arrival-notifications-in-gmail/"><u>How to Set a New Sound for Email Arrival Notifications in Gmail</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-spark-10c-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Spark 10C Phone Screen?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-neato-d10-robot-vacuum-analysis-insights-from-zdnet/"><u>In-Depth Neato D10 Robot Vacuum Analysis - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-google-meet-live-broadcast-steps-for-2024/"><u>Mastering YouTube Google Meet Live Broadcast Steps for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-usb-c-power-adapters-for-laptops-expert-review/"><u>Top 5 USB-C Power Adapters for Laptops - Expert Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-apple-studio-display-in-depth-guide-on-tech-specs-capabilities-and-key-insights/"><u>Unveiling the Apple Studio Display: In-Depth Guide on Tech Specs, Capabilities, and Key Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-education-exclusive-get-final-cut-pro-at-an-unbeatable-price/"><u>Updated In 2024, Education Exclusive Get Final Cut Pro at an Unbeatable Price</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-audiograbbers-free-toolkit-and-evaluation/"><u>[New] AudioGrabbers Free Toolkit & Evaluation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-travel-guide-youtubes-best-vlogs/"><u>[New] The Ultimate Travel Guide YouTube's Best Vlogs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-windows-call-platforms-7-1-ranked-for-2024/"><u>[Updated] Leading Windows Call Platforms #7-#1 Ranked for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/500-discount-top-ranking-gaming-laptop-exclusively-offered-on-zdnet-this-october-prime-day-dont-miss-out/"><u>$500 Discount: Top-Ranking Gaming Laptop Exclusively Offered on ZDNet This October Prime Day - Don't Miss Out!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-brainless-battles-top-8-zombie-shooter-contenders/"><u>2024 Approved Brainless Battles Top 8 Zombie Shooter Contenders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights-from-zdnet/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-undiscovered-masterpieces-a-look-at-exceptional-laptops-you-may-not-know-yet-digital-innovators/"><u>Exploring Undiscovered Masterpieces: A Look at Exceptional Laptops You May Not Know Yet | Digital Innovators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lightroom-mastery-the-top-10-lut-tools-for-expert-editors/"><u>In 2024, Lightroom Mastery – The Top 10 LUT Tools for Expert Editors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-mobile-web-browsing-woes-top-10-tips-for-a-functional-iphone-safari/"><u>Resolve Mobile Web Browsing Woes: Top 10 Tips for a Functional iPhone Safari</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-must-have-mac-applications-curated-by-cnet-reviewers/"><u>Ultimate List of Must-Have Mac Applications | Curated by CNet Reviewers</u></a></li>
 </ul></div>
 

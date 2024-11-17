@@ -1,7 +1,7 @@
 ---
 title: Explore How This Combo Robot Vacuum & Mop's Clever Self-Cleaning Ability Transforms Your Cleaning Routine | Gadget Reviews ZDNET
-date: 2024-09-19 17:39:35
-updated: 2024-09-20 11:36:53
+date: 2024-11-12T21:49:20.868Z
+updated: 2024-11-17T21:12:37.109Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo-for-2024/"><u>[New] Efficient Techniques for Unwrapping Backgrounds in Affinity Photo for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-how-to-fix-videos-not-sent-in-facebook-message-apps/"><u>[New] In 2024, Mastering How to Fix Videos Not Sent in Facebook Message Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-auditing-video-content-monetization-success/"><u>[Updated] Auditing Video Content Monetization Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-video-magic-summit/"><u>[Updated] In 2024, Crafting Video Magic Summit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-amazing-bbqs-with-webers-elite-electric-grills-save-50-today-on-premier-models-exclusive-deal/"><u>Experience Amazing BBQs with Weber's Elite Electric Grills: Save $50 Today on Premier Models - Exclusive Deal!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-energy-from-fungi-how-mycelium-chips-can-charge-gadgets-and-preserve-earth-insights-on-zdnet/"><u>Green Energy From Fungi: How Mycelium Chips Can Charge Gadgets & Preserve Earth - Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/green-tech-innovations-the-journey-of-corporates-towards-sustainable-practices-insights-from-zdnet/"><u>Green Tech Innovations: The Journey of Corporates Towards Sustainable Practices - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-belkin-is-leading-sustainable-innovation-in-tech-introducing-a-new-recycled-plastic-program-at-ces-2023-covered-by-zdnet/"><u>How Belkin Is Leading Sustainable Innovation in Tech: Introducing a New Recycled Plastic Program at CES 2023, Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-achieve-a-sustainable-lifestyle-with-your-gadgets-save-costs-and-help-the-planet-according-to-zdnet/"><u>How to Achieve a Sustainable Lifestyle with Your Gadgets: Save Costs & Help the Planet, According to ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a25-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A25 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/indulge-in-the-best-pc-experience-with-microsofts-picks/"><u>Indulge in the Best PC Experience with Microsoft's Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-ai-powered-inkjet-smart-sprinkler-cutting-down-on-water-consumption-with-zeal/"><u>Innovative AI-Powered Inkjet Smart Sprinkler: Cutting Down on Water Consumption with Zeal</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/kostenloser-windows-11-32-bit-zu-64-bit-aufrusten-garantiert-sicheres-datenmanagement/"><u>Kostenloser Windows 11 32-Bit Zu 64-Bit-Aufrüsten - Garantiert Sicheres Datenmanagement</u></a></li>
+</ul></div>
+
